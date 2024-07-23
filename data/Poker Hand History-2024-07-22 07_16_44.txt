@@ -1,0 +1,110 @@
+Game#: 23969513
+THE WRIT checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Ac ] board:[ 3s Ac]
+** Dealing Flop ** [ Ah ] board:[ 3s Ac Ah]
+THE WRIT checks
+zayana checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 3s Ac Ah Qd]
+THE WRIT checks
+zayana checks
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 3s Ac Ah Qd Qh]
+THE WRIT bets for 100 Tournament chips
+zayana folds [100 Tournament chips]
+THE WRIT is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for THE WRIT (Qs Ac Ah Qd Qh: full house, queens full of aces)
+THE WRIT wins main pot 250 Tournament chips.
+Seat 1: THE WRIT (7804 Tournament chips) 
+Seat 3: aceisup (3270 Tournament chips) 
+Seat 4: QwertySpark (6700 Tournament chips) 
+Seat 5: vegaschef (4983 Tournament chips) 
+Seat 6: zayana (3250 Tournament chips) 
+Seat 7: dynadug (2160 Tournament chips) 
+Seat 8: ChrisOli1974 (11763 Tournament chips) 
+Game #23969513-36 ends
+Game #23969513-37 starts
+Seat 1: THE WRIT (7804 Tournament chips) 
+Seat 3: aceisup (3270 Tournament chips) 
+Seat 4: QwertySpark (6700 Tournament chips) 
+Seat 5: vegaschef (4983 Tournament chips) 
+Seat 6: zayana (3250 Tournament chips) 
+Seat 7: dynadug (2160 Tournament chips) 
+Seat 8: ChrisOli1974 (11763 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+THE WRIT posts the small blind [50 Tournament chips]
+aceisup posts the big blind [100 Tournament chips]
+THE WRIT, at seat 1, is in this hand with 7754 Tournament chips.
+aceisup, at seat 3, is in this hand with 3170 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6700 Tournament chips.
+vegaschef, at seat 5, is in this hand (absent) with 4983 Tournament chips.
+zayana, at seat 6, is in this hand with 3250 Tournament chips.
+dynadug, at seat 7, is in this hand (absent) with 2160 Tournament chips.
+ChrisOli1974, at seat 8, is in this hand (absent) with 11763 Tournament chips.
+THE WRIT is dealt: **
+aceisup is dealt: **
+
+vegaschef is dealt: **
+zayana is dealt: **
+dynadug is dealt: **
+ChrisOli1974 is dealt: **
+THE WRIT is dealt: **
+aceisup is dealt: **
+
+vegaschef is dealt: **
+zayana is dealt: **
+dynadug is dealt: **
+ChrisOli1974 is dealt: **
+Dealt to THE WRIT [ **** ]
+Dealt to aceisup [ **** ]
+Dealt to QwertySpark [ Ah Kh ]
+Dealt to vegaschef [ **** ]
+Dealt to zayana [ **** ]
+Dealt to dynadug [ **** ]
+Dealt to ChrisOli1974 [ **** ]
+(ChrisOli1974 has entered the table, is no longer absent.)
+QwertySpark raises [600 Tournament chips]
+vegaschef folds [600 Tournament chips]
+zayana folds [600 Tournament chips]
+dynadug folds [600 Tournament chips]
+ChrisOli1974 calls [600 Tournament chips]
+THE WRIT calls [550 Tournament chips]
+aceisup folds [500 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 6d ] board:[ 3c 6d]
+** Dealing Flop ** [ 4s ] board:[ 3c 6d 4s]
+THE WRIT checks
+QwertySpark bets for 950 Tournament chips
+ChrisOli1974 calls [950 Tournament chips]
+THE WRIT folds [950 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 3c 6d 4s Qh]
+QwertySpark checks
+ChrisOli1974 checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3c 6d 4s Qh Ac]
+QwertySpark bets for 1900 Tournament chips
+ChrisOli1974 raises [4750 Tournament chips]
+QwertySpark raises all-in [3250 Tournament chips]
+ChrisOli1974 calls [400 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ah Kh ]
+ChrisOli1974 shows [ 7h 5h ]
+Round 4 is over.
+QwertySpark shows [ Ah Kh ] a pair of aces, king/queen kickers
+ChrisOli1974 shows [ 7h 5h ] straight, seven high
+ChrisOli1974 wins main pot 14100 Tournament chips with straight, seven high.
+Seat 1: THE WRIT (7204 Tournament chips) 
+Seat 3: aceisup (3170 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: vegaschef (4983 Tournament chips) 
+Seat 6: zayana (3250 Tournament chips) 
+Seat 7: dynadug (2160 Tournament chips) 
+Seat 8: ChrisOli1974 (19163 Tournament chips) 
+Game #23969513-37 ends
+Player QwertySpark leaves the table with 0 Tournament chips

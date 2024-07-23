@@ -1,0 +1,24 @@
+Game#: 23960672
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 5s 8d Ts Tc 8c]
+        (no action in this round)
+Round 4 is over.
+robbingu shows [ 2d Jh ] two pair, tens and eights, jack kicker
+TheRut shows [ Ah Qs ] two pair, tens and eights, ace kicker
+TheRut wins main pot 192 Tournament chips with two pair, tens and eights, ace kicker.
+TheRut wins side pot #1 1055 Tournament chips with two pair, tens and eights, ace kicker.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 2: robbingu (0 Tournament chips) 
+Seat 4: DustBucket56 (995 Tournament chips) 
+Seat 5: Jlpoker (0 Tournament chips) 
+Seat 6: TheRut (3810 Tournament chips) 
+Seat 7: free style (4860 Tournament chips) 
+Seat 8: tigers47 (3140 Tournament chips) 
+Game #23960672-18 ends
+Player Jlpoker leaves the table with 0 Tournament chips
+Player robbingu leaves the table with 0 Tournament chips
+Player free style leaves the table with 4860 Tournament chips
+Player QwertySpark leaves the table with 1920 Tournament chips
+Player TheRut leaves the table with 3810 Tournament chips
+Player tigers47 leaves the table with 3140 Tournament chips
+Player DustBucket56 leaves the table with 995 Tournament chips

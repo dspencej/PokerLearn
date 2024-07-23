@@ -1,0 +1,4358 @@
+Game#: 23986158
+NickCC623 folds [120 Tournament chips]
+fe4967 folds [120 Tournament chips]
+Googmeister calls [120 Tournament chips]
+dukeski calls [100 Tournament chips]
+Shivy205 calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Th ] board:[ Kc Th]
+** Dealing Flop ** [ Qs ] board:[ Kc Th Qs]
+dukeski checks
+Shivy205 checks
+RakedOverHere bets for 319 Tournament chips
+Googmeister calls [319 Tournament chips]
+dukeski calls [319 Tournament chips]
+Shivy205 folds [319 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Kc Th Qs Qd]
+dukeski checks
+RakedOverHere checks
+Googmeister checks
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Kc Th Qs Qd 6h]
+dukeski checks
+RakedOverHere bets for 718 Tournament chips
+Googmeister folds [718 Tournament chips]
+dukeski folds [718 Tournament chips]
+RakedOverHere is returned 718 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for RakedOverHere (Ks Jd Kc Qs Qd: two pair, kings and queens)
+RakedOverHere wins main pot 1437 Tournament chips.
+Seat 0: QwertySpark (8414 Tournament chips) 
+Seat 1: TeamsterV (1706 Tournament chips) 
+Seat 2: RakedOverHere (3284 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1893 Tournament chips) 
+Seat 8: Shivy205 (2565 Tournament chips) 
+Game #23986158-16 ends
+Game #23986158-17 starts
+Seat 0: QwertySpark (8414 Tournament chips) 
+Seat 1: TeamsterV (1706 Tournament chips) 
+Seat 2: RakedOverHere (3284 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1893 Tournament chips) 
+Seat 8: Shivy205 (2565 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Shivy205 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8374 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 1706 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3284 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1492 Tournament chips.
+Googmeister, at seat 6, is in this hand with 896 Tournament chips.
+dukeski, at seat 7, is in this hand with 1893 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2545 Tournament chips.
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Dealt to QwertySpark [ Qc 3s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to Googmeister [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+TeamsterV calls [40 Tournament chips]
+RakedOverHere calls [40 Tournament chips]
+NickCC623 folds [40 Tournament chips]
+fe4967 folds [40 Tournament chips]
+Googmeister folds [40 Tournament chips]
+dukeski folds [40 Tournament chips]
+Shivy205 calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 2d ] board:[ Tc 2d]
+** Dealing Flop ** [ 3c ] board:[ Tc 2d 3c]
+Shivy205 checks
+QwertySpark bets for 120 Tournament chips
+TeamsterV calls [120 Tournament chips]
+RakedOverHere folds [120 Tournament chips]
+Shivy205 folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ Tc 2d 3c 6c]
+QwertySpark bets for 120 Tournament chips
+TeamsterV calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ Tc 2d 3c 6c 5c]
+QwertySpark bets for 280 Tournament chips
+TeamsterV folds [280 Tournament chips]
+QwertySpark is returned 280 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Qc Tc 3c 6c 5c: flush, queen high)
+QwertySpark wins main pot 640 Tournament chips.
+Seat 0: QwertySpark (8774 Tournament chips) 
+Seat 1: TeamsterV (1426 Tournament chips) 
+Seat 2: RakedOverHere (3244 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1893 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-17 ends
+Game #23986158-18 starts
+Seat 0: QwertySpark (8774 Tournament chips) 
+Seat 1: TeamsterV (1426 Tournament chips) 
+Seat 2: RakedOverHere (3244 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1893 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [20 Tournament chips]
+TeamsterV posts the big blind [40 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8754 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 1386 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3244 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1492 Tournament chips.
+Googmeister, at seat 6, is in this hand with 896 Tournament chips.
+dukeski, at seat 7, is in this hand with 1893 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2525 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+Dealt to QwertySpark [ 6d 2c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to Googmeister [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+RakedOverHere folds [40 Tournament chips]
+NickCC623 folds [40 Tournament chips]
+fe4967 folds [40 Tournament chips]
+Googmeister folds [40 Tournament chips]
+dukeski raises [140 Tournament chips]
+Shivy205 folds [140 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+TeamsterV folds [100 Tournament chips]
+dukeski is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dukeski (Qc Kh: king high)
+dukeski wins main pot 100 Tournament chips.
+Seat 0: QwertySpark (8754 Tournament chips) 
+Seat 1: TeamsterV (1386 Tournament chips) 
+Seat 2: RakedOverHere (3244 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1953 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-18 ends
+Game #23986158-19 starts
+Seat 0: QwertySpark (8754 Tournament chips) 
+Seat 1: TeamsterV (1386 Tournament chips) 
+Seat 2: RakedOverHere (3244 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1492 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1953 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+TeamsterV posts the small blind [30 Tournament chips]
+RakedOverHere posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8754 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 1356 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3184 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1492 Tournament chips.
+Googmeister, at seat 6, is in this hand with 896 Tournament chips.
+dukeski, at seat 7, is in this hand with 1953 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2525 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+Dealt to QwertySpark [ Qh 6c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to Googmeister [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+NickCC623 folds [60 Tournament chips]
+fe4967 calls [60 Tournament chips]
+Googmeister folds [60 Tournament chips]
+dukeski folds [60 Tournament chips]
+Shivy205 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+TeamsterV calls [30 Tournament chips]
+RakedOverHere checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 5s ] board:[ Qd 5s]
+** Dealing Flop ** [ 3c ] board:[ Qd 5s 3c]
+TeamsterV checks
+RakedOverHere checks
+fe4967 checks
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Qd 5s 3c 6s]
+TeamsterV checks
+RakedOverHere bets for 60 Tournament chips
+fe4967 folds [60 Tournament chips]
+TeamsterV calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Qd 5s 3c 6s Td]
+TeamsterV checks
+RakedOverHere checks
+Round 4 is over.
+TeamsterV shows [ Th 6h ] two pair, tens and sixes
+Hand evaluation for TeamsterV (Th 6h Qd 6s Td: two pair, tens and sixes)
+RakedOverHere doesn't show [ 8h 5d ]
+(RakedOverHere has 8h 5d.)
+TeamsterV wins main pot 300 Tournament chips with two pair, tens and sixes, queen kicker.
+Seat 0: QwertySpark (8754 Tournament chips) 
+Seat 1: TeamsterV (1566 Tournament chips) 
+Seat 2: RakedOverHere (3124 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1432 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1953 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-19 ends
+Game #23986158-20 starts
+Seat 0: QwertySpark (8754 Tournament chips) 
+Seat 1: TeamsterV (1566 Tournament chips) 
+Seat 2: RakedOverHere (3124 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1432 Tournament chips) 
+Seat 6: Googmeister (896 Tournament chips) 
+Seat 7: dukeski (1953 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+RakedOverHere posts the small blind [30 Tournament chips]
+NickCC623 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8754 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 1566 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3094 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2194 Tournament chips.
+fe4967, at seat 4, is in this hand with 1432 Tournament chips.
+Googmeister, at seat 6, is in this hand with 896 Tournament chips.
+dukeski, at seat 7, is in this hand with 1953 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2525 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Googmeister is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ Th Jh ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to Googmeister [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+fe4967 calls [60 Tournament chips]
+Googmeister calls [60 Tournament chips]
+dukeski calls [60 Tournament chips]
+Shivy205 folds [60 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+TeamsterV calls [120 Tournament chips]
+RakedOverHere folds [90 Tournament chips]
+NickCC623 folds [60 Tournament chips]
+fe4967 folds [60 Tournament chips]
+Googmeister calls [60 Tournament chips]
+dukeski calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 4s ] board:[ Qs 4s]
+** Dealing Flop ** [ 3c ] board:[ Qs 4s 3c]
+Googmeister checks
+dukeski checks
+QwertySpark checks
+TeamsterV bets for 420 Tournament chips
+Googmeister raises all-in [776 Tournament chips]
+dukeski folds [776 Tournament chips]
+QwertySpark folds [776 Tournament chips]
+TeamsterV calls [356 Tournament chips]
+Tournament all-in showdown -- players show:
+TeamsterV shows [ Qh 9d ]
+Googmeister shows [ Kc Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Qs 4s 3c 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Qs 4s 3c 3d 8s]
+        (no action in this round)
+Round 4 is over.
+TeamsterV shows [ Qh 9d ] two pair, queens and threes, nine kicker
+Googmeister shows [ Kc Ad ] a pair of threes, ace/king kickers
+TeamsterV wins main pot 2182 Tournament chips with two pair, queens and threes, nine kicker.
+Seat 0: QwertySpark (8634 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (3094 Tournament chips) 
+Seat 3: NickCC623 (2194 Tournament chips) 
+Seat 4: fe4967 (1372 Tournament chips) 
+Seat 6: Googmeister (0 Tournament chips) 
+Seat 7: dukeski (1833 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-20 ends
+Player Googmeister leaves the table with 0 Tournament chips
+Game #23986158-21 starts
+Seat 0: QwertySpark (8634 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (3094 Tournament chips) 
+Seat 3: NickCC623 (2194 Tournament chips) 
+Seat 4: fe4967 (1372 Tournament chips) 
+Seat 7: dukeski (1833 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+NickCC623 posts the small blind [30 Tournament chips]
+fe4967 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8634 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 2852 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3094 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2164 Tournament chips.
+fe4967, at seat 4, is in this hand with 1312 Tournament chips.
+dukeski, at seat 7, is in this hand with 1833 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2525 Tournament chips.
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ Ks 7c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+dukeski folds [60 Tournament chips]
+Shivy205 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+TeamsterV folds [60 Tournament chips]
+RakedOverHere folds [60 Tournament chips]
+NickCC623 calls [30 Tournament chips]
+fe4967 checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 8d ] board:[ 9s 8d]
+** Dealing Flop ** [ 8s ] board:[ 9s 8d 8s]
+NickCC623 checks
+fe4967 checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 9s 8d 8s 8c]
+NickCC623 checks
+fe4967 has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 9s 8d 8s 8c 3c]
+NickCC623 checks
+fe4967 has timed out - the hand is checked
+Round 4 is over.
+NickCC623 shows [ 7s Qh ] three eights
+Hand evaluation for NickCC623 (Qh 9s 8d 8s 8c: three eights)
+fe4967 doesn't show [ 5s 2h ]
+(fe4967 has 5s 2h.)
+NickCC623 wins main pot 120 Tournament chips with three eights, queen/nine kickers.
+Seat 0: QwertySpark (8634 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (3094 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1312 Tournament chips) 
+Seat 7: dukeski (1833 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-21 ends
+Game #23986158-22 starts
+Seat 0: QwertySpark (8634 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (3094 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1312 Tournament chips) 
+Seat 7: dukeski (1833 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fe4967 posts the small blind [30 Tournament chips]
+dukeski posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8634 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 2852 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3094 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1282 Tournament chips.
+dukeski, at seat 7, is in this hand with 1773 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2525 Tournament chips.
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ As 2h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+Shivy205 folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+TeamsterV folds [60 Tournament chips]
+RakedOverHere calls [60 Tournament chips]
+NickCC623 folds [60 Tournament chips]
+fe4967 folds [30 Tournament chips]
+dukeski checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 3h ] board:[ 5c 3h]
+** Dealing Flop ** [ Jd ] board:[ 5c 3h Jd]
+dukeski checks
+QwertySpark bets for 165 Tournament chips
+RakedOverHere calls [165 Tournament chips]
+dukeski folds [165 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 5c 3h Jd 9s]
+QwertySpark checks
+RakedOverHere bets for 330 Tournament chips
+QwertySpark calls [330 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 5c 3h Jd 9s 9d]
+QwertySpark bets for 300 Tournament chips
+RakedOverHere calls [300 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ As 2h ] a pair of nines
+Hand evaluation for QwertySpark (As 5c Jd 9s 9d: a pair of nines)
+RakedOverHere shows [ Jc Qh ] two pair, jacks and nines
+Hand evaluation for RakedOverHere (Jc Qh Jd 9s 9d: two pair, jacks and nines)
+RakedOverHere wins main pot 1800 Tournament chips with two pair, jacks and nines, queen kicker.
+Seat 0: QwertySpark (7779 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1282 Tournament chips) 
+Seat 7: dukeski (1773 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+Game #23986158-22 ends
+Game #23986158-23 starts
+Seat 0: QwertySpark (7779 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1282 Tournament chips) 
+Seat 7: dukeski (1773 Tournament chips) 
+Seat 8: Shivy205 (2525 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+dukeski posts the small blind [50 Tournament chips]
+Shivy205 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7779 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 2852 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4039 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1282 Tournament chips.
+dukeski, at seat 7, is in this hand with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2425 Tournament chips.
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+Dealt to QwertySpark [ Ts 4h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+QwertySpark folds [100 Tournament chips]
+TeamsterV folds [100 Tournament chips]
+RakedOverHere folds [100 Tournament chips]
+NickCC623 folds [100 Tournament chips]
+fe4967 calls [100 Tournament chips]
+dukeski folds [50 Tournament chips]
+Shivy205 checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Ks ] board:[ 3c Ks]
+** Dealing Flop ** [ Jh ] board:[ 3c Ks Jh]
+Shivy205 checks
+fe4967 bets for 100 Tournament chips
+Shivy205 calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 3c Ks Jh Jc]
+Shivy205 checks
+fe4967 checks
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 3c Ks Jh Jc 9s]
+Shivy205 checks
+fe4967 bets for 450 Tournament chips
+Shivy205 folds [450 Tournament chips]
+fe4967 is returned 450 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for fe4967 (Ah 9c Jh Jc 9s: two pair, jacks and nines)
+fe4967 wins main pot 450 Tournament chips.
+Seat 0: QwertySpark (7779 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1532 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2325 Tournament chips) 
+Game #23986158-23 ends
+Game #23986158-24 starts
+Seat 0: QwertySpark (7779 Tournament chips) 
+Seat 1: TeamsterV (2852 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (1532 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2325 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 7.
+Shivy205 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7679 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 2852 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4039 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+fe4967, at seat 4, is in this hand with 1532 Tournament chips.
+dukeski, at seat 7, is in this hand (absent) with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2275 Tournament chips.
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+fe4967 is dealt: **
+dukeski is dealt: **
+Dealt to QwertySpark [ Ac Kc ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to fe4967 [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+TeamsterV calls [100 Tournament chips]
+RakedOverHere folds [100 Tournament chips]
+NickCC623 folds [100 Tournament chips]
+fe4967 calls [100 Tournament chips]
+dukeski folds [100 Tournament chips]
+Shivy205 calls [50 Tournament chips]
+QwertySpark raises [500 Tournament chips]
+TeamsterV folds [500 Tournament chips]
+fe4967 calls [500 Tournament chips]
+Shivy205 folds [500 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 6s ] board:[ 3h 6s]
+** Dealing Flop ** [ 7h ] board:[ 3h 6s 7h]
+QwertySpark bets for 900 Tournament chips
+fe4967 raises all-in [932 Tournament chips]
+QwertySpark calls [32 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ac Kc ]
+fe4967 shows [ 8h Kh ]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 3h 6s 7h 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 3h 6s 7h 7c 2d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ac Kc ] a pair of sevens, ace/king kickers
+fe4967 shows [ 8h Kh ] a pair of sevens, king/eight kickers
+QwertySpark wins main pot 3264 Tournament chips with a pair of sevens, ace/king kickers.
+Seat 0: QwertySpark (9511 Tournament chips) 
+Seat 1: TeamsterV (2752 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: fe4967 (0 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+Game #23986158-24 ends
+Player fe4967 leaves the table with 0 Tournament chips
+Game #23986158-25 starts
+Seat 0: QwertySpark (9511 Tournament chips) 
+Seat 1: TeamsterV (2752 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [50 Tournament chips]
+TeamsterV posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9461 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 2652 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4039 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+dukeski, at seat 7, is in this hand (absent) with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2225 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+Dealt to QwertySpark [ Jc 9d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+RakedOverHere raises [300 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+dukeski folds [300 Tournament chips]
+Shivy205 folds [300 Tournament chips]
+QwertySpark calls [250 Tournament chips]
+TeamsterV calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 6h ] board:[ Ad 6h]
+** Dealing Flop ** [ 6s ] board:[ Ad 6h 6s]
+QwertySpark checks
+(dukeski has entered the table, is no longer absent.)
+TeamsterV checks
+RakedOverHere checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Ad 6h 6s Ac]
+QwertySpark checks
+TeamsterV checks
+RakedOverHere bets for 450 Tournament chips
+QwertySpark folds [450 Tournament chips]
+TeamsterV calls [450 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Ad 6h 6s Ac 3s]
+TeamsterV bets for 600 Tournament chips
+RakedOverHere folds [600 Tournament chips]
+TeamsterV is returned 600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for TeamsterV (As Ad 6h 6s Ac: full house, aces full of sixes)
+TeamsterV wins main pot 1800 Tournament chips.
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3802 Tournament chips) 
+Seat 2: RakedOverHere (3289 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+Game #23986158-25 ends
+Game #23986158-26 starts
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3802 Tournament chips) 
+Seat 2: RakedOverHere (3289 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+TeamsterV posts the small blind [50 Tournament chips]
+RakedOverHere posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9211 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3752 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3189 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2254 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 880 Tournament chips.
+dukeski, at seat 7, is in this hand with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2225 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+Dealt to QwertySpark [ 9c 5s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+NickCC623 folds [100 Tournament chips]
+BJPROPLUS folds [100 Tournament chips]
+dukeski folds [100 Tournament chips]
+Shivy205 calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+TeamsterV folds [50 Tournament chips]
+RakedOverHere checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 2s ] board:[ 6h 2s]
+** Dealing Flop ** [ 6c ] board:[ 6h 2s 6c]
+RakedOverHere checks
+Shivy205 checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 6h 2s 6c Ah]
+RakedOverHere checks
+Shivy205 bets for 300 Tournament chips
+RakedOverHere folds [300 Tournament chips]
+Shivy205 is returned 300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Shivy205 (6s 4s 6h 6c Ah: three sixes)
+Shivy205 shows [ 6s 4s ] three sixes
+Hand evaluation for Shivy205 (6s 4s 6h 6c Ah: three sixes)
+Shivy205 wins main pot 250 Tournament chips.
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3189 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2375 Tournament chips) 
+Game #23986158-26 ends
+Game #23986158-27 starts
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3189 Tournament chips) 
+Seat 3: NickCC623 (2254 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2375 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+RakedOverHere posts the small blind [50 Tournament chips]
+NickCC623 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9211 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3752 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3139 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2154 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 880 Tournament chips.
+dukeski, at seat 7, is in this hand with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2375 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ 8s Ad ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+BJPROPLUS folds [100 Tournament chips]
+dukeski folds [100 Tournament chips]
+Shivy205 folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere folds [350 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8s Ad: ace high)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: QwertySpark (9361 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3139 Tournament chips) 
+Seat 3: NickCC623 (2154 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2375 Tournament chips) 
+Game #23986158-27 ends
+Game #23986158-28 starts
+Seat 0: QwertySpark (9361 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3139 Tournament chips) 
+Seat 3: NickCC623 (2154 Tournament chips) 
+Seat 4: BJPROPLUS (880 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2375 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+NickCC623 posts the small blind [75 Tournament chips]
+BJPROPLUS posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9361 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3752 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3139 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2079 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 730 Tournament chips.
+dukeski, at seat 7, is in this hand with 1723 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2375 Tournament chips.
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ Kd Jc ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+dukeski folds [150 Tournament chips]
+Shivy205 calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+TeamsterV folds [150 Tournament chips]
+RakedOverHere calls [150 Tournament chips]
+NickCC623 calls [75 Tournament chips]
+BJPROPLUS folds
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 3s ] board:[ Ad 3s]
+** Dealing Flop ** [ 9s ] board:[ Ad 3s 9s]
+NickCC623 checks
+Shivy205 checks
+QwertySpark checks
+RakedOverHere bets for 562 Tournament chips
+NickCC623 folds [562 Tournament chips]
+Shivy205 folds [562 Tournament chips]
+QwertySpark folds [562 Tournament chips]
+RakedOverHere is returned 562 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for RakedOverHere (As 5s Ad 3s 9s: a pair of aces)
+RakedOverHere wins main pot 750 Tournament chips.
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (730 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+Game #23986158-28 ends
+Game #23986158-29 starts
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3752 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (730 Tournament chips) 
+Seat 7: dukeski (1723 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+BJPROPLUS posts the small blind [75 Tournament chips]
+dukeski posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9211 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3752 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3739 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2004 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+dukeski, at seat 7, is in this hand with 1573 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2225 Tournament chips.
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ 6h 9h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+Shivy205 folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+TeamsterV calls [150 Tournament chips]
+RakedOverHere folds [150 Tournament chips]
+NickCC623 folds [150 Tournament chips]
+BJPROPLUS folds [75 Tournament chips]
+dukeski checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 8h ] board:[ 2c 8h]
+** Dealing Flop ** [ 2d ] board:[ 2c 8h 2d]
+dukeski checks
+TeamsterV checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 2c 8h 2d Qh]
+dukeski checks
+TeamsterV bets for 150 Tournament chips
+dukeski folds [150 Tournament chips]
+TeamsterV is returned 150 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for TeamsterV (Js As 2c 2d Qh: a pair of deuces)
+TeamsterV wins main pot 375 Tournament chips.
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3977 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 7: dukeski (1573 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+Game #23986158-29 ends
+Game #23986158-30 starts
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3977 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 7: dukeski (1573 Tournament chips) 
+Seat 8: Shivy205 (2225 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+dukeski posts the small blind [75 Tournament chips]
+Shivy205 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9211 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3977 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3739 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2004 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+dukeski, at seat 7, is in this hand with 1498 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2075 Tournament chips.
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+Dealt to QwertySpark [ Ts 6c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+QwertySpark folds [150 Tournament chips]
+TeamsterV calls [150 Tournament chips]
+RakedOverHere raises [750 Tournament chips]
+NickCC623 folds [750 Tournament chips]
+BJPROPLUS folds [655 Tournament chips]
+dukeski folds [675 Tournament chips]
+Shivy205 folds [600 Tournament chips]
+TeamsterV folds [600 Tournament chips]
+RakedOverHere is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for RakedOverHere (Ad Qh: ace high)
+RakedOverHere wins main pot 525 Tournament chips.
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3827 Tournament chips) 
+Seat 2: RakedOverHere (4114 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 7: dukeski (1498 Tournament chips) 
+Seat 8: Shivy205 (2075 Tournament chips) 
+Game #23986158-30 ends
+Game #23986158-31 starts
+Seat 0: QwertySpark (9211 Tournament chips) 
+Seat 1: TeamsterV (3827 Tournament chips) 
+Seat 2: RakedOverHere (4114 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 7: dukeski (1498 Tournament chips) 
+Seat 8: Shivy205 (2075 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 7.
+Shivy205 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9061 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3827 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4114 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2004 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+dukeski, at seat 7, is in this hand with 1498 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2000 Tournament chips.
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+dukeski is dealt: **
+Dealt to QwertySpark [ Qc 3h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to dukeski [ **** ]
+Dealt to Shivy205 [ **** ]
+TeamsterV folds [150 Tournament chips]
+RakedOverHere folds [150 Tournament chips]
+NickCC623 folds [150 Tournament chips]
+BJPROPLUS folds [150 Tournament chips]
+dukeski calls [150 Tournament chips]
+Shivy205 folds [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 9c ] board:[ 2d 9c]
+** Dealing Flop ** [ Qs ] board:[ 2d 9c Qs]
+QwertySpark checks
+dukeski bets for 187 Tournament chips
+QwertySpark raises [1124 Tournament chips]
+dukeski calls [937 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 2d 9c Qs Qh]
+QwertySpark bets for 300 Tournament chips
+dukeski calls all-in [224 Tournament chips]
+QwertySpark is returned 76 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qc 3h ]
+dukeski shows [ Th Jd ]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 2d 9c Qs Qh 6s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qc 3h ] three queens, nine/six kickers
+dukeski shows [ Th Jd ] a pair of queens, jack/ten kickers
+QwertySpark wins main pot 3071 Tournament chips with three queens, nine/six kickers.
+Seat 0: QwertySpark (10784 Tournament chips) 
+Seat 1: TeamsterV (3827 Tournament chips) 
+Seat 2: RakedOverHere (4114 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 7: dukeski (0 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+Game #23986158-31 ends
+Player dukeski leaves the table with 0 Tournament chips
+Game #23986158-32 starts
+Seat 0: QwertySpark (10784 Tournament chips) 
+Seat 1: TeamsterV (3827 Tournament chips) 
+Seat 2: RakedOverHere (4114 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [75 Tournament chips]
+TeamsterV posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10709 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3677 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4114 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2004 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2000 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+Shivy205 is dealt: **
+Dealt to QwertySpark [ Jh Jd ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to Shivy205 [ **** ]
+RakedOverHere calls [150 Tournament chips]
+NickCC623 folds [150 Tournament chips]
+BJPROPLUS folds [150 Tournament chips]
+Shivy205 folds [150 Tournament chips]
+QwertySpark raises [975 Tournament chips]
+TeamsterV folds [900 Tournament chips]
+RakedOverHere folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jh Jd: a pair of jacks)
+QwertySpark wins main pot 450 Tournament chips.
+Seat 0: QwertySpark (11084 Tournament chips) 
+Seat 1: TeamsterV (3677 Tournament chips) 
+Seat 2: RakedOverHere (3964 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+Game #23986158-32 ends
+Game #23986158-33 starts
+Seat 0: QwertySpark (11084 Tournament chips) 
+Seat 1: TeamsterV (3677 Tournament chips) 
+Seat 2: RakedOverHere (3964 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+TeamsterV posts the small blind [75 Tournament chips]
+RakedOverHere posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 11084 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3602 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3814 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2004 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 12881 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2000 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Shivy205 is dealt: **
+
+Dealt to QwertySpark [ Qh 8h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to Shivy205 [ **** ]
+NickCC623 calls [150 Tournament chips]
+BJPROPLUS folds [150 Tournament chips]
+BigBlu4 folds [150 Tournament chips]
+Shivy205 folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+TeamsterV calls [75 Tournament chips]
+RakedOverHere checks
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 6c ] board:[ 7d 6c]
+** Dealing Flop ** [ Ks ] board:[ 7d 6c Ks]
+TeamsterV checks
+RakedOverHere checks
+NickCC623 bets for 300 Tournament chips
+QwertySpark folds [300 Tournament chips]
+TeamsterV folds [300 Tournament chips]
+RakedOverHere folds [300 Tournament chips]
+NickCC623 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for NickCC623 (Kc Td 7d 6c Ks: a pair of kings)
+NickCC623 wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (10934 Tournament chips) 
+Seat 1: TeamsterV (3527 Tournament chips) 
+Seat 2: RakedOverHere (3814 Tournament chips) 
+Seat 3: NickCC623 (2454 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+Game #23986158-33 ends
+Game #23986158-34 starts
+Seat 0: QwertySpark (10934 Tournament chips) 
+Seat 1: TeamsterV (3527 Tournament chips) 
+Seat 2: RakedOverHere (3814 Tournament chips) 
+Seat 3: NickCC623 (2454 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Seat 8: Shivy205 (2000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+RakedOverHere posts the small blind [75 Tournament chips]
+NickCC623 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10934 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 3527 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3739 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2304 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 655 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 12881 Tournament chips.
+Shivy205, at seat 8, is in this hand with 2000 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Shivy205 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ Ac Qs ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to Shivy205 [ **** ]
+BJPROPLUS folds [150 Tournament chips]
+BigBlu4 folds [150 Tournament chips]
+Shivy205 raises [450 Tournament chips]
+QwertySpark calls [450 Tournament chips]
+TeamsterV calls [450 Tournament chips]
+RakedOverHere folds [375 Tournament chips]
+NickCC623 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Jd ] board:[ 6h Jd]
+** Dealing Flop ** [ 9d ] board:[ 6h Jd 9d]
+NickCC623 checks
+Shivy205 goes all-in for 1550 Tournament chips
+QwertySpark folds [1550 Tournament chips]
+TeamsterV calls [1550 Tournament chips]
+NickCC623 folds [1550 Tournament chips]
+Tournament all-in showdown -- players show:
+TeamsterV shows [ Jh Js ]
+Shivy205 shows [ 9h 9s ]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 6h Jd 9d 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 6h Jd 9d 5s 2c]
+        (no action in this round)
+Round 4 is over.
+TeamsterV shows [ Jh Js ] three jacks, nine/six kickers
+Shivy205 shows [ 9h 9s ] three nines, jack/six kickers
+TeamsterV wins main pot 4975 Tournament chips with three jacks, nine/six kickers.
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Seat 8: Shivy205 (0 Tournament chips) 
+Game #23986158-34 ends
+Player Shivy205 leaves the table with 0 Tournament chips
+Game #23986158-35 starts
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (3739 Tournament chips) 
+Seat 3: NickCC623 (2004 Tournament chips) 
+Seat 4: BJPROPLUS (655 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+NickCC623 posts the small blind [100 Tournament chips]
+BJPROPLUS posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10484 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6502 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 3739 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 455 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 12881 Tournament chips.
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ 7c Kd ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+BigBlu4 folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+TeamsterV folds [200 Tournament chips]
+RakedOverHere raises [800 Tournament chips]
+NickCC623 folds [700 Tournament chips]
+BJPROPLUS folds [455 Tournament chips]
+RakedOverHere is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for RakedOverHere (8c 8h: a pair of eights)
+RakedOverHere wins main pot 500 Tournament chips.
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (455 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+Game #23986158-35 ends
+Game #23986158-36 starts
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (4039 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (455 Tournament chips) 
+Seat 5: BigBlu4 (12881 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+BJPROPLUS posts the small blind [100 Tournament chips]
+BigBlu4 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10484 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6502 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 4039 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 12681 Tournament chips.
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ 4c 9c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+QwertySpark folds [200 Tournament chips]
+TeamsterV folds [200 Tournament chips]
+RakedOverHere calls [200 Tournament chips]
+NickCC623 folds [200 Tournament chips]
+BJPROPLUS folds [100 Tournament chips]
+BigBlu4 checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Kd ] board:[ 3c Kd]
+** Dealing Flop ** [ Qs ] board:[ 3c Kd Qs]
+BigBlu4 bets for 250 Tournament chips
+RakedOverHere calls [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 3c Kd Qs 3d]
+BigBlu4 checks
+RakedOverHere checks
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 3c Kd Qs 3d 2c]
+BigBlu4 bets for 500 Tournament chips
+RakedOverHere raises [2075 Tournament chips]
+BigBlu4 calls [1575 Tournament chips]
+Round 4 is over.
+RakedOverHere shows [ 3h Qh ] full house, threes full of queens
+Hand evaluation for RakedOverHere (3h Qh 3c Qs 3d: full house, threes full of queens)
+BigBlu4 doesn't show [ Kh 8c ]
+(BigBlu4 has Kh 8c.)
+RakedOverHere wins main pot 5150 Tournament chips with full house, threes full of queens.
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10356 Tournament chips) 
+Seat 6: deadman943 (1245 Tournament chips) 
+Seat 8: MD4747 (5504 Tournament chips) 
+Game #23986158-36 ends
+Game #23986158-37 starts
+Seat 0: QwertySpark (10484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10356 Tournament chips) 
+Seat 6: deadman943 (1245 Tournament chips) 
+Seat 8: MD4747 (5504 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+BigBlu4 posts the small blind [100 Tournament chips]
+deadman943 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10484 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6502 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 6664 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10256 Tournament chips.
+deadman943, at seat 6, is in this hand with 1045 Tournament chips.
+MD4747, at seat 8, is in this hand with 5504 Tournament chips.
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+Dealt to QwertySpark [ Tc Jd ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+MD4747 raises [400 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere folds [400 Tournament chips]
+NickCC623 folds [400 Tournament chips]
+BJPROPLUS folds [355 Tournament chips]
+BigBlu4 folds [300 Tournament chips]
+deadman943 folds [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Kh ] board:[ 8c Kh]
+** Dealing Flop ** [ 9d ] board:[ 8c Kh 9d]
+MD4747 bets for 600 Tournament chips
+QwertySpark calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 8c Kh 9d 9c]
+MD4747 bets for 600 Tournament chips
+QwertySpark raises [1800 Tournament chips]
+MD4747 calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 8c Kh 9d 9c 2d]
+MD4747 goes all-in for 2704 Tournament chips
+QwertySpark folds [2704 Tournament chips]
+MD4747 is returned 2704 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for MD4747 (Qh Kc Kh 9d 9c: two pair, kings and nines)
+MD4747 wins main pot 5900 Tournament chips.
+Seat 0: QwertySpark (7684 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10256 Tournament chips) 
+Seat 6: deadman943 (1045 Tournament chips) 
+Seat 8: MD4747 (8604 Tournament chips) 
+Game #23986158-37 ends
+Game #23986158-38 starts
+Seat 0: QwertySpark (7684 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10256 Tournament chips) 
+Seat 6: deadman943 (1045 Tournament chips) 
+Seat 8: MD4747 (8604 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+deadman943 posts the small blind [100 Tournament chips]
+MD4747 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7684 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6502 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 6664 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10256 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8404 Tournament chips.
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Dealt to QwertySpark [ 9c 3h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+QwertySpark folds [200 Tournament chips]
+TeamsterV folds [200 Tournament chips]
+RakedOverHere folds [200 Tournament chips]
+NickCC623 folds [200 Tournament chips]
+BJPROPLUS folds [200 Tournament chips]
+BigBlu4 folds [200 Tournament chips]
+deadman943 folds [100 Tournament chips]
+MD4747 is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for MD4747 (7d 7s: a pair of sevens)
+MD4747 wins main pot 200 Tournament chips.
+Seat 0: QwertySpark (7684 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10256 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8704 Tournament chips) 
+Game #23986158-38 ends
+Game #23986158-39 starts
+Seat 0: QwertySpark (7684 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10256 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8704 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+MD4747 posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7484 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6502 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 6664 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10256 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8604 Tournament chips.
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+Dealt to QwertySpark [ 3s 4d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+TeamsterV folds [200 Tournament chips]
+RakedOverHere folds [200 Tournament chips]
+NickCC623 folds [200 Tournament chips]
+BJPROPLUS folds [200 Tournament chips]
+BigBlu4 calls [200 Tournament chips]
+deadman943 folds [200 Tournament chips]
+MD4747 calls [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 9s ] board:[ Ks 9s]
+** Dealing Flop ** [ 2c ] board:[ Ks 9s 2c]
+MD4747 bets for 200 Tournament chips
+QwertySpark folds [200 Tournament chips]
+BigBlu4 folds [200 Tournament chips]
+MD4747 is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for MD4747 (4h 9d Ks 9s 2c: a pair of nines)
+MD4747 wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (7484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (9104 Tournament chips) 
+Game #23986158-39 ends
+Game #23986158-40 starts
+Seat 0: QwertySpark (7484 Tournament chips) 
+Seat 1: TeamsterV (6502 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (9104 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+QwertySpark posts the small blind [100 Tournament chips]
+TeamsterV posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7384 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6302 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 6664 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand (absent) with 10056 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 9104 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+Dealt to QwertySpark [ Kc 8d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+RakedOverHere folds [200 Tournament chips]
+NickCC623 folds [200 Tournament chips]
+BJPROPLUS folds [200 Tournament chips]
+BigBlu4 folds [200 Tournament chips]
+deadman943 folds [200 Tournament chips]
+MD4747 calls [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+(BigBlu4 has entered the table, is no longer absent.)
+TeamsterV checks
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 3s ] board:[ 6d 3s]
+** Dealing Flop ** [ 8s ] board:[ 6d 3s 8s]
+QwertySpark bets for 700 Tournament chips
+TeamsterV folds [700 Tournament chips]
+MD4747 folds [700 Tournament chips]
+QwertySpark is returned 700 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc 8d 6d 3s 8s: a pair of eights)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (7884 Tournament chips) 
+Seat 1: TeamsterV (6302 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-40 ends
+Game #23986158-41 starts
+Seat 0: QwertySpark (7884 Tournament chips) 
+Seat 1: TeamsterV (6302 Tournament chips) 
+Seat 2: RakedOverHere (6664 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+TeamsterV posts the small blind [150 Tournament chips]
+RakedOverHere posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7884 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 6364 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1904 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10056 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8904 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+Dealt to QwertySpark [ 6s 7c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+NickCC623 folds [300 Tournament chips]
+BJPROPLUS folds [300 Tournament chips]
+BigBlu4 folds [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark raises [900 Tournament chips]
+TeamsterV folds [750 Tournament chips]
+RakedOverHere calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 8d ] board:[ 2c 8d]
+** Dealing Flop ** [ 8h ] board:[ 2c 8d 8h]
+RakedOverHere checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 2c 8d 8h Td]
+RakedOverHere bets for 1462 Tournament chips
+QwertySpark calls [1462 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 2c 8d 8h Td Jh]
+RakedOverHere bets for 1837 Tournament chips
+QwertySpark folds [1837 Tournament chips]
+RakedOverHere is returned 1837 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for RakedOverHere (Th 8d 8h Td Jh: two pair, tens and eights)
+RakedOverHere wins main pot 4874 Tournament chips.
+Seat 0: QwertySpark (5522 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9176 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-41 ends
+Game #23986158-42 starts
+Seat 0: QwertySpark (5522 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9176 Tournament chips) 
+Seat 3: NickCC623 (1904 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+RakedOverHere posts the small blind [150 Tournament chips]
+NickCC623 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 5522 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9026 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1604 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 355 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10056 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8904 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ Ac 6h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+BJPROPLUS folds [300 Tournament chips]
+BigBlu4 folds [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+TeamsterV folds [300 Tournament chips]
+RakedOverHere folds [150 Tournament chips]
+NickCC623 checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Kd ] board:[ 8s Kd]
+** Dealing Flop ** [ As ] board:[ 8s Kd As]
+NickCC623 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 8s Kd As 5h]
+NickCC623 checks
+QwertySpark bets for 300 Tournament chips
+NickCC623 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ac 6h 8s Kd As: a pair of aces)
+QwertySpark wins main pot 750 Tournament chips.
+Seat 0: QwertySpark (5972 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9026 Tournament chips) 
+Seat 3: NickCC623 (1604 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-42 ends
+Game #23986158-43 starts
+Seat 0: QwertySpark (5972 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9026 Tournament chips) 
+Seat 3: NickCC623 (1604 Tournament chips) 
+Seat 4: BJPROPLUS (355 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+NickCC623 posts the small blind [150 Tournament chips]
+BJPROPLUS posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 5972 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9026 Tournament chips.
+NickCC623, at seat 3, is in this hand with 1454 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 55 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10056 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8904 Tournament chips.
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ 9c Ah ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+BigBlu4 folds [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+TeamsterV folds [300 Tournament chips]
+RakedOverHere raises [900 Tournament chips]
+NickCC623 raises all-in [1454 Tournament chips]
+BJPROPLUS folds [55 Tournament chips]
+QwertySpark calls [1304 Tournament chips]
+RakedOverHere calls [704 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2d ] board:[ 4h 2d]
+** Dealing Flop ** [ 2h ] board:[ 4h 2d 2h]
+QwertySpark checks
+RakedOverHere checks
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 4h 2d 2h 6s]
+QwertySpark bets for 1200 Tournament chips
+RakedOverHere calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 4h 2d 2h 6s Th]
+QwertySpark bets for 600 Tournament chips
+RakedOverHere calls [600 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 9c Ah ] a pair of deuces
+Hand evaluation for QwertySpark (9c Ah 2d 2h Th: a pair of deuces)
+RakedOverHere shows [ As Qh ] a pair of deuces
+Hand evaluation for RakedOverHere (As Qh 2d 2h Th: a pair of deuces)
+NickCC623 shows [ 5d 5s ] two pair, fives and deuces
+Hand evaluation for NickCC623 (5d 5s 2d 2h Th: two pair, fives and deuces)
+NickCC623 wins main pot 5112 Tournament chips with two pair, fives and deuces, ten kicker.
+RakedOverHere wins side pot #1 3600 Tournament chips with a pair of deuces, ace/queen kickers.
+Seat 0: QwertySpark (2568 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (55 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-43 ends
+Game #23986158-44 starts
+Seat 0: QwertySpark (2568 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (55 Tournament chips) 
+Seat 5: BigBlu4 (10056 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+BJPROPLUS posts the small blind [55 Tournament chips], goes all-in
+BigBlu4 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2568 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9222 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5112 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 0 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9756 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 945 Tournament chips.
+MD4747, at seat 8, is in this hand with 8904 Tournament chips.
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ 5h 6h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+TeamsterV folds [300 Tournament chips]
+RakedOverHere folds [300 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+BigBlu4 checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Qd ] board:[ 3s Qd]
+** Dealing Flop ** [ 8d ] board:[ 3s Qd 8d]
+BigBlu4 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 3s Qd 8d Qs]
+BigBlu4 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3s Qd 8d Qs Tc]
+BigBlu4 checks
+QwertySpark checks
+Round 4 is over.
+BigBlu4 shows [ Ks 9c ] a pair of queens
+Hand evaluation for BigBlu4 (Ks 9c Qd Qs Tc: a pair of queens)
+QwertySpark shows [ 5h 6h ] a pair of queens
+Hand evaluation for QwertySpark (6h Qd 8d Qs Tc: a pair of queens)
+BJPROPLUS shows [ 7s Qh ] three queens
+Hand evaluation for BJPROPLUS (Qh Qd 8d Qs Tc: three queens)
+BJPROPLUS wins main pot 165 Tournament chips with three queens, ten/eight kickers.
+BigBlu4 wins side pot #1 490 Tournament chips with a pair of queens, king/ten kickers.
+Seat 0: QwertySpark (2268 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (165 Tournament chips) 
+Seat 5: BigBlu4 (10246 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-44 ends
+Game #23986158-45 starts
+Seat 0: QwertySpark (2268 Tournament chips) 
+Seat 1: TeamsterV (6152 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (165 Tournament chips) 
+Seat 5: BigBlu4 (10246 Tournament chips) 
+Seat 6: deadman943 (945 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+BigBlu4 posts the small blind [150 Tournament chips]
+deadman943 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2268 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9222 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5112 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 165 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10096 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 645 Tournament chips.
+MD4747, at seat 8, is in this hand with 8904 Tournament chips.
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+Dealt to QwertySpark [ 2h 3c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+MD4747 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+TeamsterV calls [300 Tournament chips]
+RakedOverHere folds [300 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+BJPROPLUS folds [165 Tournament chips]
+BigBlu4 calls [150 Tournament chips]
+deadman943 folds
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 5s ] board:[ 4h 5s]
+** Dealing Flop ** [ Ks ] board:[ 4h 5s Ks]
+BigBlu4 checks
+TeamsterV checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 4h 5s Ks 8h]
+BigBlu4 bets for 450 Tournament chips
+TeamsterV calls [450 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 4h 5s Ks 8h 3s]
+BigBlu4 checks
+TeamsterV checks
+Round 4 is over.
+BigBlu4 shows [ Jh 7s ] king high
+Hand evaluation for BigBlu4 (Jh 7s 5s Ks 8h: king high)
+TeamsterV shows [ Ah 5h ] a pair of fives
+Hand evaluation for TeamsterV (Ah 5h 5s Ks 8h: a pair of fives)
+TeamsterV wins main pot 1800 Tournament chips with a pair of fives, ace/king kickers.
+Seat 0: QwertySpark (2268 Tournament chips) 
+Seat 1: TeamsterV (7202 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (165 Tournament chips) 
+Seat 5: BigBlu4 (9496 Tournament chips) 
+Seat 6: deadman943 (645 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+Game #23986158-45 ends
+Game #23986158-46 starts
+Seat 0: QwertySpark (2268 Tournament chips) 
+Seat 1: TeamsterV (7202 Tournament chips) 
+Seat 2: RakedOverHere (9222 Tournament chips) 
+Seat 3: NickCC623 (5112 Tournament chips) 
+Seat 4: BJPROPLUS (165 Tournament chips) 
+Seat 5: BigBlu4 (9496 Tournament chips) 
+Seat 6: deadman943 (645 Tournament chips) 
+Seat 8: MD4747 (8904 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+deadman943 posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+The button is moved to seat 5.
+deadman943 posts the small blind [150 Tournament chips]
+MD4747 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2243 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 7177 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9197 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5087 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 140 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9471 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 470 Tournament chips.
+MD4747, at seat 8, is in this hand (absent) with 8579 Tournament chips.
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+Dealt to QwertySpark [ Ad 2c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+QwertySpark raises all-in [2243 Tournament chips]
+TeamsterV folds [2243 Tournament chips]
+RakedOverHere folds [2243 Tournament chips]
+NickCC623 folds [2243 Tournament chips]
+BJPROPLUS folds [140 Tournament chips]
+BigBlu4 folds [2243 Tournament chips]
+deadman943 folds [470 Tournament chips]
+MD4747 folds [1943 Tournament chips]
+QwertySpark is returned 1943 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad 2c: ace high)
+QwertySpark wins main pot 950 Tournament chips.
+Seat 0: QwertySpark (2893 Tournament chips) 
+Seat 1: TeamsterV (7177 Tournament chips) 
+Seat 2: RakedOverHere (9197 Tournament chips) 
+Seat 3: NickCC623 (5087 Tournament chips) 
+Seat 4: BJPROPLUS (140 Tournament chips) 
+Seat 5: BigBlu4 (9471 Tournament chips) 
+Seat 6: deadman943 (470 Tournament chips) 
+Seat 8: MD4747 (8579 Tournament chips) 
+Game #23986158-46 ends
+Game #23986158-47 starts
+Seat 0: QwertySpark (2893 Tournament chips) 
+Seat 1: TeamsterV (7177 Tournament chips) 
+Seat 2: RakedOverHere (9197 Tournament chips) 
+Seat 3: NickCC623 (5087 Tournament chips) 
+Seat 4: BJPROPLUS (140 Tournament chips) 
+Seat 5: BigBlu4 (9471 Tournament chips) 
+Seat 6: deadman943 (470 Tournament chips) 
+Seat 8: MD4747 (8579 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+deadman943 posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+The button is moved to seat 6.
+MD4747 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2568 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 7152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9172 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5062 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 115 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9446 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MD4747, at seat 8, is in this hand (absent) with 8404 Tournament chips.
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+Dealt to QwertySpark [ 4h Ts ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+TeamsterV folds [300 Tournament chips]
+RakedOverHere folds [300 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+BJPROPLUS folds [115 Tournament chips]
+BigBlu4 calls [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [150 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 7h ] board:[ 6c 7h]
+** Dealing Flop ** [ 8h ] board:[ 6c 7h 8h]
+QwertySpark checks
+BigBlu4 checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 6c 7h 8h 8c]
+QwertySpark checks
+BigBlu4 checks
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ 6c 7h 8h 8c Kc]
+QwertySpark checks
+BigBlu4 bets for 950 Tournament chips
+QwertySpark folds [950 Tournament chips]
+BigBlu4 is returned 950 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for BigBlu4 (Kd Td 8h 8c Kc: two pair, kings and eights)
+BigBlu4 wins main pot 950 Tournament chips.
+Seat 0: QwertySpark (2568 Tournament chips) 
+Seat 1: TeamsterV (7152 Tournament chips) 
+Seat 2: RakedOverHere (9172 Tournament chips) 
+Seat 3: NickCC623 (5062 Tournament chips) 
+Seat 4: BJPROPLUS (115 Tournament chips) 
+Seat 5: BigBlu4 (10096 Tournament chips) 
+Seat 6: deadman943 (445 Tournament chips) 
+Seat 8: MD4747 (8404 Tournament chips) 
+Game #23986158-47 ends
+(MD4747 has entered the table, is no longer absent.)
+Game #23986158-48 starts
+Seat 0: QwertySpark (2568 Tournament chips) 
+Seat 1: TeamsterV (7152 Tournament chips) 
+Seat 2: RakedOverHere (9172 Tournament chips) 
+Seat 3: NickCC623 (5062 Tournament chips) 
+Seat 4: BJPROPLUS (115 Tournament chips) 
+Seat 5: BigBlu4 (10096 Tournament chips) 
+Seat 6: deadman943 (445 Tournament chips) 
+Seat 8: MD4747 (8404 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+deadman943 posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [150 Tournament chips]
+TeamsterV posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2393 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6827 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9147 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5037 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 90 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10071 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 420 Tournament chips.
+MD4747, at seat 8, is in this hand with 8379 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+Dealt to QwertySpark [ Kc 5c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+RakedOverHere folds [300 Tournament chips]
+NickCC623 folds [300 Tournament chips]
+BJPROPLUS folds [90 Tournament chips]
+BigBlu4 calls [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+TeamsterV checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Th ] board:[ 8c Th]
+** Dealing Flop ** [ 5h ] board:[ 8c Th 5h]
+QwertySpark bets for 300 Tournament chips
+TeamsterV calls [300 Tournament chips]
+BigBlu4 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 8c Th 5h 4h]
+QwertySpark goes all-in for 1943 Tournament chips
+TeamsterV folds [1943 Tournament chips]
+BigBlu4 folds [1943 Tournament chips]
+QwertySpark is returned 1943 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Kc 5c 8c Th 5h: a pair of fives)
+QwertySpark wins main pot 2000 Tournament chips.
+Seat 0: QwertySpark (3943 Tournament chips) 
+Seat 1: TeamsterV (6527 Tournament chips) 
+Seat 2: RakedOverHere (9147 Tournament chips) 
+Seat 3: NickCC623 (5037 Tournament chips) 
+Seat 4: BJPROPLUS (90 Tournament chips) 
+Seat 5: BigBlu4 (9471 Tournament chips) 
+Seat 6: deadman943 (420 Tournament chips) 
+Seat 8: MD4747 (8379 Tournament chips) 
+Game #23986158-48 ends
+Game #23986158-49 starts
+Seat 0: QwertySpark (3943 Tournament chips) 
+Seat 1: TeamsterV (6527 Tournament chips) 
+Seat 2: RakedOverHere (9147 Tournament chips) 
+Seat 3: NickCC623 (5037 Tournament chips) 
+Seat 4: BJPROPLUS (90 Tournament chips) 
+Seat 5: BigBlu4 (9471 Tournament chips) 
+Seat 6: deadman943 (420 Tournament chips) 
+Seat 8: MD4747 (8379 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+deadman943 posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+The button is moved to seat 0.
+TeamsterV posts the small blind [150 Tournament chips]
+RakedOverHere posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3918 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6352 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 8822 Tournament chips.
+NickCC623, at seat 3, is in this hand with 5012 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 65 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9446 Tournament chips.
+deadman943, at seat 6, is in this hand (absent) with 395 Tournament chips.
+MD4747, at seat 8, is in this hand with 8354 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+Dealt to QwertySpark [ Qh 2s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+NickCC623 folds [300 Tournament chips]
+BJPROPLUS folds [65 Tournament chips]
+BigBlu4 folds [300 Tournament chips]
+deadman943 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+TeamsterV calls [150 Tournament chips]
+RakedOverHere checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 6c ] board:[ 9s 6c]
+** Dealing Flop ** [ Ac ] board:[ 9s 6c Ac]
+TeamsterV checks
+RakedOverHere bets for 300 Tournament chips
+TeamsterV folds [300 Tournament chips]
+RakedOverHere is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for RakedOverHere (Td 2h 9s 6c Ac: ace high)
+RakedOverHere wins main pot 800 Tournament chips.
+Seat 0: QwertySpark (3918 Tournament chips) 
+Seat 1: TeamsterV (6202 Tournament chips) 
+Seat 2: RakedOverHere (9622 Tournament chips) 
+Seat 3: NickCC623 (5012 Tournament chips) 
+Seat 4: BJPROPLUS (65 Tournament chips) 
+Seat 5: BigBlu4 (9446 Tournament chips) 
+Seat 6: deadman943 (395 Tournament chips) 
+Seat 8: MD4747 (8354 Tournament chips) 
+Game #23986158-49 ends
+Game #23986158-50 starts
+Seat 0: QwertySpark (3918 Tournament chips) 
+Seat 1: TeamsterV (6202 Tournament chips) 
+Seat 2: RakedOverHere (9622 Tournament chips) 
+Seat 3: NickCC623 (5012 Tournament chips) 
+Seat 4: BJPROPLUS (65 Tournament chips) 
+Seat 5: BigBlu4 (9446 Tournament chips) 
+Seat 6: deadman943 (395 Tournament chips) 
+Seat 8: MD4747 (8354 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+deadman943 posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+The button is moved to seat 1.
+RakedOverHere posts the small blind [150 Tournament chips]
+NickCC623 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3893 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6177 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 9447 Tournament chips.
+NickCC623, at seat 3, is in this hand with 4687 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 40 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9421 Tournament chips.
+deadman943, at seat 6, is in this hand with 370 Tournament chips.
+MD4747, at seat 8, is in this hand with 8329 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+deadman943 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ Kd 7c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to deadman943 [ **** ]
+Dealt to MD4747 [ **** ]
+BJPROPLUS folds [40 Tournament chips]
+BigBlu4 folds [300 Tournament chips]
+deadman943 raises all-in [370 Tournament chips]
+MD4747 folds [370 Tournament chips]
+QwertySpark folds [370 Tournament chips]
+TeamsterV folds [370 Tournament chips]
+RakedOverHere calls [220 Tournament chips]
+NickCC623 folds [70 Tournament chips]
+Tournament all-in showdown -- players show:
+RakedOverHere shows [ 5h Ac ]
+deadman943 shows [ 9s 5c ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Ts ] board:[ 7s Ts]
+** Dealing Flop ** [ 7h ] board:[ 7s Ts 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 7s Ts 7h 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 7s Ts 7h 3c Qh]
+        (no action in this round)
+Round 4 is over.
+RakedOverHere shows [ 5h Ac ] a pair of sevens, ace/queen kickers
+deadman943 shows [ 9s 5c ] a pair of sevens, queen/ten kickers
+RakedOverHere wins main pot 1240 Tournament chips with a pair of sevens, ace/queen kickers.
+Seat 0: QwertySpark (3893 Tournament chips) 
+Seat 1: TeamsterV (6177 Tournament chips) 
+Seat 2: RakedOverHere (10467 Tournament chips) 
+Seat 3: NickCC623 (4687 Tournament chips) 
+Seat 4: BJPROPLUS (40 Tournament chips) 
+Seat 5: BigBlu4 (9421 Tournament chips) 
+Seat 6: deadman943 (0 Tournament chips) 
+Seat 8: MD4747 (8329 Tournament chips) 
+Game #23986158-50 ends
+Player deadman943 leaves the table with 0 Tournament chips
+Game #23986158-51 starts
+Seat 0: QwertySpark (3893 Tournament chips) 
+Seat 1: TeamsterV (6177 Tournament chips) 
+Seat 2: RakedOverHere (10467 Tournament chips) 
+Seat 3: NickCC623 (4687 Tournament chips) 
+Seat 4: BJPROPLUS (40 Tournament chips) 
+Seat 5: BigBlu4 (9421 Tournament chips) 
+Seat 8: MD4747 (8329 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 25 Tournament chips
+TeamsterV posted ante of 25 Tournament chips
+NickCC623 posted ante of 25 Tournament chips
+BJPROPLUS posted ante of 25 Tournament chips
+BigBlu4 posted ante of 25 Tournament chips
+RakedOverHere posted ante of 25 Tournament chips
+MD4747 posted ante of 25 Tournament chips
+The button is moved to seat 2.
+NickCC623 posts the small blind [150 Tournament chips]
+BJPROPLUS posts the big blind [15 Tournament chips], goes all-in
+QwertySpark, at seat 0, is in this hand with 3868 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 10442 Tournament chips.
+NickCC623, at seat 3, is in this hand with 4512 Tournament chips.
+BJPROPLUS, at seat 4, is in this hand (absent) with 0 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9396 Tournament chips.
+MD4747, at seat 8, is in this hand with 8304 Tournament chips.
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BJPROPLUS is dealt: **
+BigBlu4 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ 2c 9c ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BJPROPLUS [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to MD4747 [ **** ]
+BigBlu4 folds [300 Tournament chips]
+MD4747 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+TeamsterV calls [300 Tournament chips]
+RakedOverHere calls [300 Tournament chips]
+NickCC623 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 6d ] board:[ Kc 6d]
+** Dealing Flop ** [ Qc ] board:[ Kc 6d Qc]
+NickCC623 bets for 300 Tournament chips
+TeamsterV calls [300 Tournament chips]
+RakedOverHere calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Kc 6d Qc Qd]
+NickCC623 bets for 300 Tournament chips
+TeamsterV calls [300 Tournament chips]
+RakedOverHere raises [2392 Tournament chips]
+NickCC623 folds [2092 Tournament chips]
+TeamsterV folds [2092 Tournament chips]
+RakedOverHere is returned 2092 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+RakedOverHere shows [ Qs 3s ]
+BJPROPLUS shows [ 5h As ]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Kc 6d Qc Qd Ad]
+        (no action in this round)
+Round 4 is over.
+RakedOverHere shows [ Qs 3s ] three queens, ace/king kickers
+RakedOverHere wins main pot 235 Tournament chips with three queens, ace/king kickers.
+RakedOverHere wins side pot #1 2655 Tournament chips with three queens, ace/king kickers.
+Seat 0: QwertySpark (3868 Tournament chips) 
+Seat 1: TeamsterV (5252 Tournament chips) 
+Seat 2: RakedOverHere (12432 Tournament chips) 
+Seat 3: NickCC623 (3762 Tournament chips) 
+Seat 4: BJPROPLUS (0 Tournament chips) 
+Seat 5: BigBlu4 (9396 Tournament chips) 
+Seat 7: fossil54 (2857 Tournament chips) 
+Seat 8: MD4747 (8304 Tournament chips) 
+Game #23986158-51 ends
+Player BJPROPLUS leaves the table with 0 Tournament chips
+Game #23986158-52 starts
+Seat 0: QwertySpark (3868 Tournament chips) 
+Seat 1: TeamsterV (5252 Tournament chips) 
+Seat 2: RakedOverHere (12432 Tournament chips) 
+Seat 3: NickCC623 (3762 Tournament chips) 
+Seat 5: BigBlu4 (9396 Tournament chips) 
+Seat 7: fossil54 (2857 Tournament chips) 
+Seat 8: MD4747 (8304 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+The button is moved to seat 3.
+BigBlu4 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3818 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 5202 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 12382 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3712 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8946 Tournament chips.
+fossil54, at seat 7, is in this hand with 2807 Tournament chips.
+MD4747, at seat 8, is in this hand with 8254 Tournament chips.
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ Ks Kh ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+fossil54 calls [400 Tournament chips]
+MD4747 folds [400 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+TeamsterV folds [2400 Tournament chips]
+RakedOverHere folds [2400 Tournament chips]
+NickCC623 folds [2400 Tournament chips]
+BigBlu4 folds [2000 Tournament chips]
+fossil54 raises all-in [2407 Tournament chips]
+QwertySpark calls [407 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ks Kh ]
+fossil54 shows [ Qh Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 7h ] board:[ 4h 7h]
+** Dealing Flop ** [ Js ] board:[ 4h 7h Js]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 4h 7h Js 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 4h 7h Js 8s 8h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ks Kh ] two pair, kings and eights, jack kicker
+fossil54 shows [ Qh Jh ] flush, queen/jack/eight high
+fossil54 wins main pot 6364 Tournament chips with flush, queen/jack/eight high.
+Seat 0: QwertySpark (1011 Tournament chips) 
+Seat 1: TeamsterV (5202 Tournament chips) 
+Seat 2: RakedOverHere (12382 Tournament chips) 
+Seat 3: NickCC623 (3712 Tournament chips) 
+Seat 5: BigBlu4 (8946 Tournament chips) 
+Seat 7: fossil54 (6364 Tournament chips) 
+Seat 8: MD4747 (8254 Tournament chips) 
+Game #23986158-52 ends
+Game #23986158-53 starts
+Seat 0: QwertySpark (1011 Tournament chips) 
+Seat 1: TeamsterV (5202 Tournament chips) 
+Seat 2: RakedOverHere (12382 Tournament chips) 
+Seat 3: NickCC623 (3712 Tournament chips) 
+Seat 5: BigBlu4 (8946 Tournament chips) 
+Seat 7: fossil54 (6364 Tournament chips) 
+Seat 8: MD4747 (8254 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+BigBlu4 posts the small blind [200 Tournament chips]
+fossil54 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 961 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 5152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 12332 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3662 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8696 Tournament chips.
+fossil54, at seat 7, is in this hand with 5914 Tournament chips.
+MD4747, at seat 8, is in this hand with 8204 Tournament chips.
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ 3d 5s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+MD4747 folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere folds [400 Tournament chips]
+NickCC623 folds [400 Tournament chips]
+BigBlu4 calls [200 Tournament chips]
+fossil54 checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ As ] board:[ Kd As]
+** Dealing Flop ** [ 2d ] board:[ Kd As 2d]
+BigBlu4 checks
+fossil54 checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ Kd As 2d Ts]
+BigBlu4 bets for 575 Tournament chips
+fossil54 folds [575 Tournament chips]
+BigBlu4 is returned 575 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for BigBlu4 (Jh Qc Kd As Ts: straight, ace high)
+BigBlu4 wins main pot 1150 Tournament chips.
+Seat 0: QwertySpark (961 Tournament chips) 
+Seat 1: TeamsterV (5152 Tournament chips) 
+Seat 2: RakedOverHere (12332 Tournament chips) 
+Seat 3: NickCC623 (3662 Tournament chips) 
+Seat 4: Dizzle7978 (25380 Tournament chips) 
+Seat 5: BigBlu4 (9646 Tournament chips) 
+Seat 7: fossil54 (5914 Tournament chips) 
+Seat 8: MD4747 (8204 Tournament chips) 
+Game #23986158-53 ends
+Game #23986158-54 starts
+Seat 0: QwertySpark (961 Tournament chips) 
+Seat 1: TeamsterV (5152 Tournament chips) 
+Seat 2: RakedOverHere (12332 Tournament chips) 
+Seat 3: NickCC623 (3662 Tournament chips) 
+Seat 4: Dizzle7978 (25380 Tournament chips) 
+Seat 5: BigBlu4 (9646 Tournament chips) 
+Seat 7: fossil54 (5914 Tournament chips) 
+Seat 8: MD4747 (8204 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+Dizzle7978 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+The button is moved to seat 5.
+fossil54 posts the small blind [200 Tournament chips]
+MD4747 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 911 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 5102 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 12282 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3612 Tournament chips.
+Dizzle7978, at seat 4, is in this hand with 25330 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9596 Tournament chips.
+fossil54, at seat 7, is in this hand with 5664 Tournament chips.
+MD4747, at seat 8, is in this hand with 7754 Tournament chips.
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+Dealt to QwertySpark [ 7c 4d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+QwertySpark folds [400 Tournament chips]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere raises [1600 Tournament chips]
+NickCC623 folds [1600 Tournament chips]
+Dizzle7978 folds [1600 Tournament chips]
+BigBlu4 folds [1600 Tournament chips]
+fossil54 folds [1400 Tournament chips]
+MD4747 folds [1200 Tournament chips]
+RakedOverHere is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for RakedOverHere (Ad 5d: ace high)
+RakedOverHere wins main pot 1400 Tournament chips.
+Seat 0: QwertySpark (911 Tournament chips) 
+Seat 1: TeamsterV (5102 Tournament chips) 
+Seat 2: RakedOverHere (13282 Tournament chips) 
+Seat 3: NickCC623 (3612 Tournament chips) 
+Seat 4: Dizzle7978 (25330 Tournament chips) 
+Seat 5: BigBlu4 (9596 Tournament chips) 
+Seat 7: fossil54 (5664 Tournament chips) 
+Seat 8: MD4747 (7754 Tournament chips) 
+Game #23986158-54 ends
+Game #23986158-55 starts
+Seat 0: QwertySpark (911 Tournament chips) 
+Seat 1: TeamsterV (5102 Tournament chips) 
+Seat 2: RakedOverHere (13282 Tournament chips) 
+Seat 3: NickCC623 (3612 Tournament chips) 
+Seat 4: Dizzle7978 (25330 Tournament chips) 
+Seat 5: BigBlu4 (9596 Tournament chips) 
+Seat 7: fossil54 (5664 Tournament chips) 
+Seat 8: MD4747 (7754 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+Dizzle7978 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+The button is moved to seat 7.
+MD4747 posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 461 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 5052 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13232 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3562 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 25280 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9546 Tournament chips.
+fossil54, at seat 7, is in this hand with 5614 Tournament chips.
+MD4747, at seat 8, is in this hand with 7504 Tournament chips.
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+Dealt to QwertySpark [ Tc 9d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere folds [400 Tournament chips]
+NickCC623 folds [400 Tournament chips]
+Dizzle7978 folds [400 Tournament chips]
+BigBlu4 calls [400 Tournament chips]
+fossil54 folds [400 Tournament chips]
+MD4747 folds [200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 9c ] board:[ Th 9c]
+** Dealing Flop ** [ 9h ] board:[ Th 9c 9h]
+QwertySpark bets for 400 Tournament chips
+BigBlu4 raises [800 Tournament chips]
+QwertySpark calls all-in [61 Tournament chips]
+BigBlu4 is returned 339 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Tc 9d ]
+BigBlu4 shows [ Jh As ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Th 9c 9h 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Th 9c 9h 6h 4h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Tc 9d ] full house, nines full of tens
+BigBlu4 shows [ Jh As ] flush, jack/ten/nine high
+QwertySpark wins main pot 2322 Tournament chips with full house, nines full of tens.
+Seat 0: QwertySpark (2322 Tournament chips) 
+Seat 1: TeamsterV (5052 Tournament chips) 
+Seat 2: RakedOverHere (13232 Tournament chips) 
+Seat 3: NickCC623 (3562 Tournament chips) 
+Seat 4: Dizzle7978 (25280 Tournament chips) 
+Seat 5: BigBlu4 (8685 Tournament chips) 
+Seat 7: fossil54 (5614 Tournament chips) 
+Seat 8: MD4747 (7504 Tournament chips) 
+Game #23986158-55 ends
+Game #23986158-56 starts
+Seat 0: QwertySpark (2322 Tournament chips) 
+Seat 1: TeamsterV (5052 Tournament chips) 
+Seat 2: RakedOverHere (13232 Tournament chips) 
+Seat 3: NickCC623 (3562 Tournament chips) 
+Seat 4: Dizzle7978 (25280 Tournament chips) 
+Seat 5: BigBlu4 (8685 Tournament chips) 
+Seat 7: fossil54 (5614 Tournament chips) 
+Seat 8: MD4747 (7504 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+Dizzle7978 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [200 Tournament chips]
+TeamsterV posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2072 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4602 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13182 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3512 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 25230 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8635 Tournament chips.
+fossil54, at seat 7, is in this hand with 5564 Tournament chips.
+MD4747, at seat 8, is in this hand with 7454 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+Dealt to QwertySpark [ 4c 9d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+(Dizzle7978 has entered the table, is no longer absent.)
+RakedOverHere folds [400 Tournament chips]
+NickCC623 folds [400 Tournament chips]
+Dizzle7978 calls [400 Tournament chips]
+BigBlu4 folds [400 Tournament chips]
+fossil54 folds [400 Tournament chips]
+MD4747 raises [1200 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+TeamsterV folds [800 Tournament chips]
+Dizzle7978 folds [800 Tournament chips]
+MD4747 is returned 800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for MD4747 (As Kc: ace high)
+MD4747 wins main pot 1800 Tournament chips.
+Seat 0: QwertySpark (2072 Tournament chips) 
+Seat 1: TeamsterV (4602 Tournament chips) 
+Seat 2: RakedOverHere (13182 Tournament chips) 
+Seat 3: NickCC623 (3512 Tournament chips) 
+Seat 4: Dizzle7978 (24830 Tournament chips) 
+Seat 5: BigBlu4 (8635 Tournament chips) 
+Seat 7: fossil54 (5564 Tournament chips) 
+Seat 8: MD4747 (8854 Tournament chips) 
+Game #23986158-56 ends
+Game #23986158-57 starts
+Seat 0: QwertySpark (2072 Tournament chips) 
+Seat 1: TeamsterV (4602 Tournament chips) 
+Seat 2: RakedOverHere (13182 Tournament chips) 
+Seat 3: NickCC623 (3512 Tournament chips) 
+Seat 4: Dizzle7978 (24830 Tournament chips) 
+Seat 5: BigBlu4 (8635 Tournament chips) 
+Seat 7: fossil54 (5564 Tournament chips) 
+Seat 8: MD4747 (8854 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+Dizzle7978 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+The button is moved to seat 0.
+TeamsterV posts the small blind [200 Tournament chips]
+RakedOverHere posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2022 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4352 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 12732 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3462 Tournament chips.
+Dizzle7978, at seat 4, is in this hand with 24780 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8585 Tournament chips.
+fossil54, at seat 7, is in this hand with 5514 Tournament chips.
+MD4747, at seat 8, is in this hand with 8804 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+Dealt to QwertySpark [ 3d 4s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+NickCC623 raises [1400 Tournament chips]
+Dizzle7978 folds [1400 Tournament chips]
+BigBlu4 folds [1400 Tournament chips]
+fossil54 folds [1400 Tournament chips]
+MD4747 folds [1400 Tournament chips]
+QwertySpark folds [1400 Tournament chips]
+TeamsterV folds [1200 Tournament chips]
+RakedOverHere folds [1000 Tournament chips]
+NickCC623 is returned 1000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for NickCC623 (6c 6h: a pair of sixes)
+NickCC623 wins main pot 1400 Tournament chips.
+Seat 0: QwertySpark (2022 Tournament chips) 
+Seat 1: TeamsterV (4352 Tournament chips) 
+Seat 2: RakedOverHere (12732 Tournament chips) 
+Seat 3: NickCC623 (4462 Tournament chips) 
+Seat 4: Dizzle7978 (24780 Tournament chips) 
+Seat 5: BigBlu4 (8585 Tournament chips) 
+Seat 7: fossil54 (5514 Tournament chips) 
+Seat 8: MD4747 (8804 Tournament chips) 
+Game #23986158-57 ends
+Game #23986158-58 starts
+Seat 0: QwertySpark (2022 Tournament chips) 
+Seat 1: TeamsterV (4352 Tournament chips) 
+Seat 2: RakedOverHere (12732 Tournament chips) 
+Seat 3: NickCC623 (4462 Tournament chips) 
+Seat 4: Dizzle7978 (24780 Tournament chips) 
+Seat 5: BigBlu4 (8585 Tournament chips) 
+Seat 7: fossil54 (5514 Tournament chips) 
+Seat 8: MD4747 (8804 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 50 Tournament chips
+TeamsterV posted ante of 50 Tournament chips
+RakedOverHere posted ante of 50 Tournament chips
+NickCC623 posted ante of 50 Tournament chips
+Dizzle7978 posted ante of 50 Tournament chips
+BigBlu4 posted ante of 50 Tournament chips
+MD4747 posted ante of 50 Tournament chips
+fossil54 posted ante of 50 Tournament chips
+The button is moved to seat 1.
+RakedOverHere posts the small blind [200 Tournament chips]
+NickCC623 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1972 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4302 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 12482 Tournament chips.
+NickCC623, at seat 3, is in this hand with 4012 Tournament chips.
+Dizzle7978, at seat 4, is in this hand with 24730 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8535 Tournament chips.
+fossil54, at seat 7, is in this hand with 5464 Tournament chips.
+MD4747, at seat 8, is in this hand with 8754 Tournament chips.
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ 8d 4s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+Dizzle7978 folds [400 Tournament chips]
+BigBlu4 folds [400 Tournament chips]
+fossil54 folds [400 Tournament chips]
+MD4747 folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+TeamsterV folds [400 Tournament chips]
+RakedOverHere calls [200 Tournament chips]
+NickCC623 checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Qh ] board:[ 3d Qh]
+** Dealing Flop ** [ 3h ] board:[ 3d Qh 3h]
+RakedOverHere checks
+NickCC623 checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 3d Qh 3h Td]
+RakedOverHere bets for 400 Tournament chips
+NickCC623 folds [400 Tournament chips]
+RakedOverHere is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for RakedOverHere (Ah 3d Qh 3h Td: a pair of threes)
+RakedOverHere wins main pot 1200 Tournament chips.
+Seat 0: QwertySpark (1972 Tournament chips) 
+Seat 1: TeamsterV (4302 Tournament chips) 
+Seat 2: RakedOverHere (13482 Tournament chips) 
+Seat 3: NickCC623 (4012 Tournament chips) 
+Seat 4: Dizzle7978 (24730 Tournament chips) 
+Seat 5: BigBlu4 (8535 Tournament chips) 
+Seat 7: fossil54 (5464 Tournament chips) 
+Seat 8: MD4747 (8754 Tournament chips) 
+Game #23986158-58 ends
+Game #23986158-59 starts
+Seat 0: QwertySpark (1972 Tournament chips) 
+Seat 1: TeamsterV (4302 Tournament chips) 
+Seat 2: RakedOverHere (13482 Tournament chips) 
+Seat 3: NickCC623 (4012 Tournament chips) 
+Seat 4: Dizzle7978 (24730 Tournament chips) 
+Seat 5: BigBlu4 (8535 Tournament chips) 
+Seat 7: fossil54 (5464 Tournament chips) 
+Seat 8: MD4747 (8754 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 75 Tournament chips
+NickCC623 posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+The button is moved to seat 2.
+NickCC623 posts the small blind [300 Tournament chips]
+Dizzle7978 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1897 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4227 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13407 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3637 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 24055 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8460 Tournament chips.
+fossil54, at seat 7, is in this hand with 5389 Tournament chips.
+MD4747, at seat 8, is in this hand with 8679 Tournament chips.
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ 7c 8s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+BigBlu4 folds [600 Tournament chips]
+fossil54 raises [1200 Tournament chips]
+MD4747 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+TeamsterV folds [1200 Tournament chips]
+RakedOverHere folds [1200 Tournament chips]
+NickCC623 folds [900 Tournament chips]
+Dizzle7978 folds [600 Tournament chips]
+fossil54 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for fossil54 (7d 7h: a pair of sevens)
+fossil54 wins main pot 2100 Tournament chips.
+Seat 0: QwertySpark (1897 Tournament chips) 
+Seat 1: TeamsterV (4227 Tournament chips) 
+Seat 2: RakedOverHere (13407 Tournament chips) 
+Seat 3: NickCC623 (3637 Tournament chips) 
+Seat 4: Dizzle7978 (24055 Tournament chips) 
+Seat 5: BigBlu4 (8460 Tournament chips) 
+Seat 7: fossil54 (6889 Tournament chips) 
+Seat 8: MD4747 (8679 Tournament chips) 
+Game #23986158-59 ends
+Game #23986158-60 starts
+Seat 0: QwertySpark (1897 Tournament chips) 
+Seat 1: TeamsterV (4227 Tournament chips) 
+Seat 2: RakedOverHere (13407 Tournament chips) 
+Seat 3: NickCC623 (3637 Tournament chips) 
+Seat 4: Dizzle7978 (24055 Tournament chips) 
+Seat 5: BigBlu4 (8460 Tournament chips) 
+Seat 7: fossil54 (6889 Tournament chips) 
+Seat 8: MD4747 (8679 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+NickCC623 posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+The button is moved to seat 3.
+Dizzle7978 posts the small blind [300 Tournament chips]
+BigBlu4 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1822 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4152 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13332 Tournament chips.
+NickCC623, at seat 3, is in this hand with 3562 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23680 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 7785 Tournament chips.
+fossil54, at seat 7, is in this hand with 6814 Tournament chips.
+MD4747, at seat 8, is in this hand with 8604 Tournament chips.
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dealt to QwertySpark [ Qd 2s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+fossil54 folds [600 Tournament chips]
+MD4747 folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+TeamsterV folds [600 Tournament chips]
+RakedOverHere folds [600 Tournament chips]
+NickCC623 calls [600 Tournament chips]
+Dizzle7978 folds [300 Tournament chips]
+BigBlu4 checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 3s ] board:[ 8d 3s]
+** Dealing Flop ** [ 9s ] board:[ 8d 3s 9s]
+BigBlu4 bets for 600 Tournament chips
+NickCC623 calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 8d 3s 9s 5d]
+BigBlu4 checks
+NickCC623 checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 8d 3s 9s 5d 7c]
+BigBlu4 checks
+NickCC623 checks
+Round 4 is over.
+BigBlu4 shows [ 3h Kh ] a pair of threes
+Hand evaluation for BigBlu4 (3h Kh 8d 3s 9s: a pair of threes)
+NickCC623 doesn't show [ Td Qh ]
+(NickCC623 has Td Qh.)
+BigBlu4 wins main pot 3300 Tournament chips with a pair of threes, king/nine kickers.
+Seat 0: QwertySpark (1822 Tournament chips) 
+Seat 1: TeamsterV (4152 Tournament chips) 
+Seat 2: RakedOverHere (13332 Tournament chips) 
+Seat 3: NickCC623 (2362 Tournament chips) 
+Seat 4: Dizzle7978 (23680 Tournament chips) 
+Seat 5: BigBlu4 (10485 Tournament chips) 
+Seat 7: fossil54 (6814 Tournament chips) 
+Seat 8: MD4747 (8604 Tournament chips) 
+Game #23986158-60 ends
+Game #23986158-61 starts
+Seat 0: QwertySpark (1822 Tournament chips) 
+Seat 1: TeamsterV (4152 Tournament chips) 
+Seat 2: RakedOverHere (13332 Tournament chips) 
+Seat 3: NickCC623 (2362 Tournament chips) 
+Seat 4: Dizzle7978 (23680 Tournament chips) 
+Seat 5: BigBlu4 (10485 Tournament chips) 
+Seat 7: fossil54 (6814 Tournament chips) 
+Seat 8: MD4747 (8604 Tournament chips) 
+The button is at seat 3
+NickCC623 posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+The button is moved to seat 4.
+BigBlu4 posts the small blind [300 Tournament chips]
+fossil54 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1747 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 4077 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13257 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2287 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23605 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10110 Tournament chips.
+fossil54, at seat 7, is in this hand with 6139 Tournament chips.
+MD4747, at seat 8, is in this hand with 8529 Tournament chips.
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+Dealt to QwertySpark [ 5d Td ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+MD4747 calls [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+TeamsterV raises [3300 Tournament chips]
+RakedOverHere folds [3300 Tournament chips]
+NickCC623 folds [2287 Tournament chips]
+Dizzle7978 folds [3300 Tournament chips]
+BigBlu4 folds [3000 Tournament chips]
+fossil54 folds [2700 Tournament chips]
+MD4747 folds [2700 Tournament chips]
+TeamsterV is returned 2700 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for TeamsterV (Ad Kd: ace high)
+TeamsterV wins main pot 2700 Tournament chips.
+Seat 0: QwertySpark (1747 Tournament chips) 
+Seat 1: TeamsterV (6177 Tournament chips) 
+Seat 2: RakedOverHere (13257 Tournament chips) 
+Seat 3: NickCC623 (2287 Tournament chips) 
+Seat 4: Dizzle7978 (23605 Tournament chips) 
+Seat 5: BigBlu4 (10110 Tournament chips) 
+Seat 7: fossil54 (6139 Tournament chips) 
+Seat 8: MD4747 (7929 Tournament chips) 
+Game #23986158-61 ends
+Game #23986158-62 starts
+Seat 0: QwertySpark (1747 Tournament chips) 
+Seat 1: TeamsterV (6177 Tournament chips) 
+Seat 2: RakedOverHere (13257 Tournament chips) 
+Seat 3: NickCC623 (2287 Tournament chips) 
+Seat 4: Dizzle7978 (23605 Tournament chips) 
+Seat 5: BigBlu4 (10110 Tournament chips) 
+Seat 7: fossil54 (6139 Tournament chips) 
+Seat 8: MD4747 (7929 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+NickCC623 posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+The button is moved to seat 5.
+fossil54 posts the small blind [300 Tournament chips]
+MD4747 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1672 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6102 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13182 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2212 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23530 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 10035 Tournament chips.
+fossil54, at seat 7, is in this hand with 5764 Tournament chips.
+MD4747, at seat 8, is in this hand with 7254 Tournament chips.
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+Dealt to QwertySpark [ Jd 2d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+QwertySpark raises all-in [1672 Tournament chips]
+TeamsterV folds [1672 Tournament chips]
+RakedOverHere folds [1672 Tournament chips]
+NickCC623 folds [1672 Tournament chips]
+Dizzle7978 folds [1672 Tournament chips]
+BigBlu4 folds [1672 Tournament chips]
+fossil54 folds [1372 Tournament chips]
+MD4747 folds [1072 Tournament chips]
+QwertySpark is returned 1072 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jd 2d: jack high)
+QwertySpark wins main pot 2100 Tournament chips.
+Seat 0: QwertySpark (3172 Tournament chips) 
+Seat 1: TeamsterV (6102 Tournament chips) 
+Seat 2: RakedOverHere (13182 Tournament chips) 
+Seat 3: NickCC623 (2212 Tournament chips) 
+Seat 4: Dizzle7978 (23530 Tournament chips) 
+Seat 5: BigBlu4 (10035 Tournament chips) 
+Seat 7: fossil54 (5764 Tournament chips) 
+Seat 8: MD4747 (7254 Tournament chips) 
+Game #23986158-62 ends
+Game #23986158-63 starts
+Seat 0: QwertySpark (3172 Tournament chips) 
+Seat 1: TeamsterV (6102 Tournament chips) 
+Seat 2: RakedOverHere (13182 Tournament chips) 
+Seat 3: NickCC623 (2212 Tournament chips) 
+Seat 4: Dizzle7978 (23530 Tournament chips) 
+Seat 5: BigBlu4 (10035 Tournament chips) 
+Seat 7: fossil54 (5764 Tournament chips) 
+Seat 8: MD4747 (7254 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+NickCC623 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+The button is moved to seat 7.
+MD4747 posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2497 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 6027 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13107 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2137 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23455 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9960 Tournament chips.
+fossil54, at seat 7, is in this hand with 5689 Tournament chips.
+MD4747, at seat 8, is in this hand with 6879 Tournament chips.
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+Dealt to QwertySpark [ Ad 4d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+TeamsterV folds [600 Tournament chips]
+RakedOverHere folds [600 Tournament chips]
+NickCC623 folds [600 Tournament chips]
+Dizzle7978 folds [600 Tournament chips]
+BigBlu4 raises [1200 Tournament chips]
+fossil54 folds [1200 Tournament chips]
+MD4747 calls [900 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Ah ] board:[ As Ah]
+** Dealing Flop ** [ 2h ] board:[ As Ah 2h]
+MD4747 bets for 600 Tournament chips
+QwertySpark raises all-in [1897 Tournament chips]
+BigBlu4 calls [1897 Tournament chips]
+MD4747 folds [1297 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 4d ]
+BigBlu4 shows [ Tc Ts ]
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ As Ah 2h Jh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ As Ah 2h Jh 3c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 4d ] three aces, jack/four kickers
+BigBlu4 shows [ Tc Ts ] two pair, aces and tens, jack kicker
+QwertySpark wins main pot 8594 Tournament chips with three aces, jack/four kickers.
+Seat 0: QwertySpark (8594 Tournament chips) 
+Seat 1: TeamsterV (6027 Tournament chips) 
+Seat 2: RakedOverHere (13107 Tournament chips) 
+Seat 3: NickCC623 (2137 Tournament chips) 
+Seat 4: Dizzle7978 (23455 Tournament chips) 
+Seat 5: BigBlu4 (6863 Tournament chips) 
+Seat 7: fossil54 (5689 Tournament chips) 
+Seat 8: MD4747 (5379 Tournament chips) 
+Game #23986158-63 ends
+Game #23986158-64 starts
+Seat 0: QwertySpark (8594 Tournament chips) 
+Seat 1: TeamsterV (6027 Tournament chips) 
+Seat 2: RakedOverHere (13107 Tournament chips) 
+Seat 3: NickCC623 (2137 Tournament chips) 
+Seat 4: Dizzle7978 (23455 Tournament chips) 
+Seat 5: BigBlu4 (6863 Tournament chips) 
+Seat 7: fossil54 (5689 Tournament chips) 
+Seat 8: MD4747 (5379 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 75 Tournament chips
+TeamsterV posted ante of 75 Tournament chips
+RakedOverHere posted ante of 75 Tournament chips
+NickCC623 posted ante of 75 Tournament chips
+Dizzle7978 posted ante of 75 Tournament chips
+BigBlu4 posted ante of 75 Tournament chips
+fossil54 posted ante of 75 Tournament chips
+MD4747 posted ante of 75 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [300 Tournament chips]
+TeamsterV posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8219 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 5352 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 13032 Tournament chips.
+NickCC623, at seat 3, is in this hand with 2062 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23380 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 6788 Tournament chips.
+fossil54, at seat 7, is in this hand with 5614 Tournament chips.
+MD4747, at seat 8, is in this hand with 5304 Tournament chips.
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+NickCC623 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+Dealt to QwertySpark [ 2d 6d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to NickCC623 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+RakedOverHere raises [1200 Tournament chips]
+NickCC623 raises all-in [2062 Tournament chips]
+Dizzle7978 folds [2062 Tournament chips]
+BigBlu4 folds [2062 Tournament chips]
+fossil54 folds [2062 Tournament chips]
+MD4747 folds [2062 Tournament chips]
+QwertySpark folds [1762 Tournament chips]
+TeamsterV calls [1462 Tournament chips]
+RakedOverHere calls [862 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Kh ] board:[ 4h Kh]
+** Dealing Flop ** [ 6c ] board:[ 4h Kh 6c]
+TeamsterV goes all-in for 3890 Tournament chips
+RakedOverHere folds [3890 Tournament chips]
+TeamsterV is returned 3890 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TeamsterV shows [ Th Ks ]
+NickCC623 shows [ 2h Ah ]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 4h Kh 6c Td]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 4h Kh 6c Td 6s]
+        (no action in this round)
+Round 4 is over.
+TeamsterV shows [ Th Ks ] two pair, kings and tens, six kicker
+NickCC623 shows [ 2h Ah ] a pair of sixes, ace/king kickers
+TeamsterV wins main pot 7086 Tournament chips with two pair, kings and tens, six kicker.
+Seat 0: QwertySpark (8219 Tournament chips) 
+Seat 1: TeamsterV (10976 Tournament chips) 
+Seat 2: RakedOverHere (10970 Tournament chips) 
+Seat 3: NickCC623 (0 Tournament chips) 
+Seat 4: Dizzle7978 (23380 Tournament chips) 
+Seat 5: BigBlu4 (6788 Tournament chips) 
+Seat 7: fossil54 (5614 Tournament chips) 
+Seat 8: MD4747 (5304 Tournament chips) 
+Game #23986158-64 ends
+Player NickCC623 leaves the table with 0 Tournament chips
+Game #23986158-65 starts
+Seat 0: QwertySpark (8219 Tournament chips) 
+Seat 1: TeamsterV (10976 Tournament chips) 
+Seat 2: RakedOverHere (10970 Tournament chips) 
+Seat 4: Dizzle7978 (23380 Tournament chips) 
+Seat 5: BigBlu4 (6788 Tournament chips) 
+Seat 7: fossil54 (5614 Tournament chips) 
+Seat 8: MD4747 (5304 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 100 Tournament chips
+TeamsterV posted ante of 100 Tournament chips
+RakedOverHere posted ante of 100 Tournament chips
+Dizzle7978 posted ante of 100 Tournament chips
+BigBlu4 posted ante of 100 Tournament chips
+fossil54 posted ante of 100 Tournament chips
+MD4747 posted ante of 100 Tournament chips
+The button is moved to seat 0.
+TeamsterV posts the small blind [400 Tournament chips]
+RakedOverHere posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8119 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 10476 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 10070 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 23280 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 6688 Tournament chips.
+fossil54, at seat 7, is in this hand with 5514 Tournament chips.
+MD4747, at seat 8, is in this hand with 5204 Tournament chips.
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+Dealt to QwertySpark [ 7c 8h ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+Dizzle7978 folds [800 Tournament chips]
+BigBlu4 folds [800 Tournament chips]
+fossil54 folds [800 Tournament chips]
+MD4747 calls [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+TeamsterV calls [400 Tournament chips]
+RakedOverHere checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 5h ] board:[ 5s 5h]
+** Dealing Flop ** [ 6s ] board:[ 5s 5h 6s]
+TeamsterV checks
+RakedOverHere bets for 800 Tournament chips
+MD4747 raises all-in [4404 Tournament chips]
+TeamsterV folds [4404 Tournament chips]
+RakedOverHere folds [3604 Tournament chips]
+MD4747 is returned 3604 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for MD4747 (8d 7d 5s 5h 6s: a pair of fives)
+MD4747 wins main pot 4700 Tournament chips.
+Seat 0: QwertySpark (8119 Tournament chips) 
+Seat 1: TeamsterV (10076 Tournament chips) 
+Seat 2: RakedOverHere (9270 Tournament chips) 
+Seat 4: Dizzle7978 (23280 Tournament chips) 
+Seat 5: BigBlu4 (6688 Tournament chips) 
+Seat 7: fossil54 (5514 Tournament chips) 
+Seat 8: MD4747 (8304 Tournament chips) 
+Game #23986158-65 ends
+Game #23986158-66 starts
+Seat 0: QwertySpark (8119 Tournament chips) 
+Seat 1: TeamsterV (10076 Tournament chips) 
+Seat 2: RakedOverHere (9270 Tournament chips) 
+Seat 4: Dizzle7978 (23280 Tournament chips) 
+Seat 5: BigBlu4 (6688 Tournament chips) 
+Seat 7: fossil54 (5514 Tournament chips) 
+Seat 8: MD4747 (8304 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 100 Tournament chips
+TeamsterV posted ante of 100 Tournament chips
+Dizzle7978 posted ante of 100 Tournament chips
+BigBlu4 posted ante of 100 Tournament chips
+RakedOverHere posted ante of 100 Tournament chips
+fossil54 posted ante of 100 Tournament chips
+MD4747 posted ante of 100 Tournament chips
+The button is moved to seat 1.
+RakedOverHere posts the small blind [400 Tournament chips]
+Dizzle7978 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8019 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 9976 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 8770 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 22380 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 6588 Tournament chips.
+fossil54, at seat 7, is in this hand with 5414 Tournament chips.
+MD4747, at seat 8, is in this hand with 8204 Tournament chips.
+RakedOverHere is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+Dealt to QwertySpark [ 5c Jh ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+BigBlu4 folds [800 Tournament chips]
+fossil54 folds [800 Tournament chips]
+MD4747 raises [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+TeamsterV folds [2400 Tournament chips]
+RakedOverHere calls [2000 Tournament chips]
+Dizzle7978 folds [1600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 4d ] board:[ 9s 4d]
+** Dealing Flop ** [ 8c ] board:[ 9s 4d 8c]
+RakedOverHere checks
+MD4747 goes all-in for 5804 Tournament chips
+RakedOverHere calls [5804 Tournament chips]
+Tournament all-in showdown -- players show:
+RakedOverHere shows [ Js Ts ]
+MD4747 shows [ Qs As ]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 9s 4d 8c 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 9s 4d 8c 4h 8s]
+        (no action in this round)
+Round 4 is over.
+RakedOverHere shows [ Js Ts ] two pair, eights and fours, jack kicker
+MD4747 shows [ Qs As ] two pair, eights and fours, ace kicker
+MD4747 wins main pot 17908 Tournament chips with two pair, eights and fours, ace kicker.
+Seat 0: QwertySpark (8019 Tournament chips) 
+Seat 1: TeamsterV (9976 Tournament chips) 
+Seat 2: RakedOverHere (966 Tournament chips) 
+Seat 4: Dizzle7978 (22380 Tournament chips) 
+Seat 5: BigBlu4 (6588 Tournament chips) 
+Seat 7: fossil54 (5414 Tournament chips) 
+Seat 8: MD4747 (17908 Tournament chips) 
+Game #23986158-66 ends
+Game #23986158-67 starts
+Seat 0: QwertySpark (8019 Tournament chips) 
+Seat 1: TeamsterV (9976 Tournament chips) 
+Seat 2: RakedOverHere (966 Tournament chips) 
+Seat 4: Dizzle7978 (22380 Tournament chips) 
+Seat 5: BigBlu4 (6588 Tournament chips) 
+Seat 7: fossil54 (5414 Tournament chips) 
+Seat 8: MD4747 (17908 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 100 Tournament chips
+TeamsterV posted ante of 100 Tournament chips
+RakedOverHere posted ante of 100 Tournament chips
+Dizzle7978 posted ante of 100 Tournament chips
+BigBlu4 posted ante of 100 Tournament chips
+fossil54 posted ante of 100 Tournament chips
+MD4747 posted ante of 100 Tournament chips
+The button is moved to seat 2.
+Dizzle7978 posts the small blind [400 Tournament chips]
+BigBlu4 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7919 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 9876 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 866 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21880 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 5688 Tournament chips.
+fossil54, at seat 7, is in this hand with 5314 Tournament chips.
+MD4747, at seat 8, is in this hand with 17808 Tournament chips.
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+Dealt to QwertySpark [ 5d Js ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+fossil54 folds [800 Tournament chips]
+MD4747 folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+TeamsterV folds [800 Tournament chips]
+RakedOverHere folds [800 Tournament chips]
+Dizzle7978 folds [400 Tournament chips]
+BigBlu4 is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BigBlu4 (8s 2c: eight high)
+BigBlu4 wins main pot 1500 Tournament chips.
+Seat 0: QwertySpark (7919 Tournament chips) 
+Seat 1: TeamsterV (9876 Tournament chips) 
+Seat 2: RakedOverHere (866 Tournament chips) 
+Seat 3: hulkaboo1234 (5882 Tournament chips) 
+Seat 4: Dizzle7978 (21880 Tournament chips) 
+Seat 5: BigBlu4 (7588 Tournament chips) 
+Seat 7: fossil54 (5314 Tournament chips) 
+Seat 8: MD4747 (17808 Tournament chips) 
+Game #23986158-67 ends
+Game #23986158-68 starts
+Seat 0: QwertySpark (7919 Tournament chips) 
+Seat 1: TeamsterV (9876 Tournament chips) 
+Seat 2: RakedOverHere (866 Tournament chips) 
+Seat 3: hulkaboo1234 (5882 Tournament chips) 
+Seat 4: Dizzle7978 (21880 Tournament chips) 
+Seat 5: BigBlu4 (7588 Tournament chips) 
+Seat 7: fossil54 (5314 Tournament chips) 
+Seat 8: MD4747 (17808 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 100 Tournament chips
+TeamsterV posted ante of 100 Tournament chips
+RakedOverHere posted ante of 100 Tournament chips
+hulkaboo1234 posted ante of 100 Tournament chips
+Dizzle7978 posted ante of 100 Tournament chips
+BigBlu4 posted ante of 100 Tournament chips
+fossil54 posted ante of 100 Tournament chips
+MD4747 posted ante of 100 Tournament chips
+The button is moved to seat 4.
+BigBlu4 posts the small blind [400 Tournament chips]
+fossil54 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7819 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 9776 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 766 Tournament chips.
+hulkaboo1234, at seat 3, is in this hand with 5782 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21780 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 7088 Tournament chips.
+fossil54, at seat 7, is in this hand with 4414 Tournament chips.
+MD4747, at seat 8, is in this hand with 17708 Tournament chips.
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+Dealt to QwertySpark [ Th 6s ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to hulkaboo1234 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+MD4747 folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+TeamsterV folds [800 Tournament chips]
+RakedOverHere folds [766 Tournament chips]
+hulkaboo1234 calls [800 Tournament chips]
+Dizzle7978 folds [800 Tournament chips]
+BigBlu4 calls [400 Tournament chips]
+fossil54 checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 9h ] board:[ 8c 9h]
+** Dealing Flop ** [ 5c ] board:[ 8c 9h 5c]
+BigBlu4 checks
+fossil54 bets for 800 Tournament chips
+hulkaboo1234 folds [800 Tournament chips]
+BigBlu4 folds [800 Tournament chips]
+fossil54 is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for fossil54 (9d Tc 8c 9h 5c: a pair of nines)
+fossil54 wins main pot 3200 Tournament chips.
+Seat 0: QwertySpark (7819 Tournament chips) 
+Seat 1: TeamsterV (9776 Tournament chips) 
+Seat 2: RakedOverHere (766 Tournament chips) 
+Seat 3: hulkaboo1234 (4982 Tournament chips) 
+Seat 4: Dizzle7978 (21780 Tournament chips) 
+Seat 5: BigBlu4 (6688 Tournament chips) 
+Seat 7: fossil54 (7614 Tournament chips) 
+Seat 8: MD4747 (17708 Tournament chips) 
+Game #23986158-68 ends
+Game #23986158-69 starts
+Seat 0: QwertySpark (7819 Tournament chips) 
+Seat 1: TeamsterV (9776 Tournament chips) 
+Seat 2: RakedOverHere (766 Tournament chips) 
+Seat 3: hulkaboo1234 (4982 Tournament chips) 
+Seat 4: Dizzle7978 (21780 Tournament chips) 
+Seat 5: BigBlu4 (6688 Tournament chips) 
+Seat 7: fossil54 (7614 Tournament chips) 
+Seat 8: MD4747 (17708 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 100 Tournament chips
+TeamsterV posted ante of 100 Tournament chips
+RakedOverHere posted ante of 100 Tournament chips
+hulkaboo1234 posted ante of 100 Tournament chips
+Dizzle7978 posted ante of 100 Tournament chips
+BigBlu4 posted ante of 100 Tournament chips
+fossil54 posted ante of 100 Tournament chips
+MD4747 posted ante of 100 Tournament chips
+The button is moved to seat 5.
+fossil54 posts the small blind [400 Tournament chips]
+MD4747 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7719 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 9676 Tournament chips.
+RakedOverHere, at seat 2, is in this hand with 666 Tournament chips.
+hulkaboo1234, at seat 3, is in this hand with 4882 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21680 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 6588 Tournament chips.
+fossil54, at seat 7, is in this hand with 7114 Tournament chips.
+MD4747, at seat 8, is in this hand with 16808 Tournament chips.
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+RakedOverHere is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+Dealt to QwertySpark [ 3s 6d ]
+Dealt to TeamsterV [ **** ]
+Dealt to RakedOverHere [ **** ]
+Dealt to hulkaboo1234 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+QwertySpark folds [800 Tournament chips]
+TeamsterV folds [800 Tournament chips]
+RakedOverHere calls all-in [666 Tournament chips]
+hulkaboo1234 folds [800 Tournament chips]
+Dizzle7978 folds [800 Tournament chips]
+BigBlu4 folds [800 Tournament chips]
+fossil54 raises [1200 Tournament chips]
+MD4747 folds [800 Tournament chips]
+fossil54 is returned 800 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+RakedOverHere shows [ Ac Js ]
+fossil54 shows [ Qh Qc ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 6h ] board:[ 2s 6h]
+** Dealing Flop ** [ Tc ] board:[ 2s 6h Tc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 2s 6h Tc 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 2s 6h Tc 4h 4d]
+        (no action in this round)
+Round 4 is over.
+RakedOverHere shows [ Ac Js ] a pair of fours, ace/jack kickers
+fossil54 shows [ Qh Qc ] two pair, queens and fours, ten kicker
+fossil54 wins main pot 2798 Tournament chips with two pair, queens and fours, ten kicker.
+fossil54 wins side pot #1 268 Tournament chips with two pair, queens and fours, ten kicker.
+Seat 0: QwertySpark (7719 Tournament chips) 
+Seat 1: TeamsterV (9676 Tournament chips) 
+Seat 2: RakedOverHere (0 Tournament chips) 
+Seat 3: hulkaboo1234 (4882 Tournament chips) 
+Seat 4: Dizzle7978 (21680 Tournament chips) 
+Seat 5: BigBlu4 (6588 Tournament chips) 
+Seat 7: fossil54 (9780 Tournament chips) 
+Seat 8: MD4747 (16808 Tournament chips) 
+Game #23986158-69 ends
+Player RakedOverHere leaves the table with 0 Tournament chips
+Game #23986158-70 starts
+Seat 0: QwertySpark (7719 Tournament chips) 
+Seat 1: TeamsterV (9676 Tournament chips) 
+Seat 3: hulkaboo1234 (4882 Tournament chips) 
+Seat 4: Dizzle7978 (21680 Tournament chips) 
+Seat 5: BigBlu4 (6588 Tournament chips) 
+Seat 7: fossil54 (9780 Tournament chips) 
+Seat 8: MD4747 (16808 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 125 Tournament chips
+TeamsterV posted ante of 125 Tournament chips
+hulkaboo1234 posted ante of 125 Tournament chips
+Dizzle7978 posted ante of 125 Tournament chips
+BigBlu4 posted ante of 125 Tournament chips
+fossil54 posted ante of 125 Tournament chips
+MD4747 posted ante of 125 Tournament chips
+The button is moved to seat 7.
+MD4747 posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6394 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 9551 Tournament chips.
+hulkaboo1234, at seat 3, is in this hand with 4757 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21555 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 6463 Tournament chips.
+fossil54, at seat 7, is in this hand with 9655 Tournament chips.
+MD4747, at seat 8, is in this hand with 16083 Tournament chips.
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+Dealt to QwertySpark [ As 4s ]
+Dealt to TeamsterV [ **** ]
+Dealt to hulkaboo1234 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+TeamsterV folds [1200 Tournament chips]
+hulkaboo1234 folds [1200 Tournament chips]
+Dizzle7978 folds [1200 Tournament chips]
+BigBlu4 raises all-in [6463 Tournament chips]
+fossil54 folds [6463 Tournament chips]
+MD4747 folds [5863 Tournament chips]
+QwertySpark folds [5263 Tournament chips]
+BigBlu4 is returned 5263 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BigBlu4 (Qd Qh: a pair of queens)
+BigBlu4 wins main pot 3875 Tournament chips.
+Seat 0: QwertySpark (6394 Tournament chips) 
+Seat 1: TeamsterV (9551 Tournament chips) 
+Seat 3: hulkaboo1234 (4757 Tournament chips) 
+Seat 4: Dizzle7978 (21555 Tournament chips) 
+Seat 5: BigBlu4 (9138 Tournament chips) 
+Seat 7: fossil54 (9655 Tournament chips) 
+Seat 8: MD4747 (16083 Tournament chips) 
+Game #23986158-70 ends
+Game #23986158-71 starts
+Seat 0: QwertySpark (6394 Tournament chips) 
+Seat 1: TeamsterV (9551 Tournament chips) 
+Seat 3: hulkaboo1234 (4757 Tournament chips) 
+Seat 4: Dizzle7978 (21555 Tournament chips) 
+Seat 5: BigBlu4 (9138 Tournament chips) 
+Seat 7: fossil54 (9655 Tournament chips) 
+Seat 8: MD4747 (16083 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 125 Tournament chips
+TeamsterV posted ante of 125 Tournament chips
+hulkaboo1234 posted ante of 125 Tournament chips
+Dizzle7978 posted ante of 125 Tournament chips
+BigBlu4 posted ante of 125 Tournament chips
+fossil54 posted ante of 125 Tournament chips
+MD4747 posted ante of 125 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [600 Tournament chips]
+TeamsterV posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 5669 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 8226 Tournament chips.
+hulkaboo1234, at seat 3, is in this hand with 4632 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21430 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 9013 Tournament chips.
+fossil54, at seat 7, is in this hand with 9530 Tournament chips.
+MD4747, at seat 8, is in this hand with 15958 Tournament chips.
+
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+Dealt to QwertySpark [ 4h 7c ]
+Dealt to TeamsterV [ **** ]
+Dealt to hulkaboo1234 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+hulkaboo1234 folds [1200 Tournament chips]
+Dizzle7978 folds [1200 Tournament chips]
+BigBlu4 folds [1200 Tournament chips]
+fossil54 calls [1200 Tournament chips]
+MD4747 folds [1200 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+TeamsterV checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Ks ] board:[ 3d Ks]
+** Dealing Flop ** [ Ad ] board:[ 3d Ks Ad]
+TeamsterV checks
+fossil54 bets for 1200 Tournament chips
+TeamsterV folds [1200 Tournament chips]
+fossil54 is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for fossil54 (Kh Jd 3d Ks Ad: a pair of kings)
+fossil54 wins main pot 3875 Tournament chips.
+Seat 0: QwertySpark (5669 Tournament chips) 
+Seat 1: TeamsterV (8226 Tournament chips) 
+Seat 3: hulkaboo1234 (4632 Tournament chips) 
+Seat 4: Dizzle7978 (21430 Tournament chips) 
+Seat 5: BigBlu4 (9013 Tournament chips) 
+Seat 7: fossil54 (12205 Tournament chips) 
+Seat 8: MD4747 (15958 Tournament chips) 
+Game #23986158-71 ends
+Game #23986158-72 starts
+Seat 0: QwertySpark (5669 Tournament chips) 
+Seat 1: TeamsterV (8226 Tournament chips) 
+Seat 3: hulkaboo1234 (4632 Tournament chips) 
+Seat 4: Dizzle7978 (21430 Tournament chips) 
+Seat 5: BigBlu4 (9013 Tournament chips) 
+Seat 7: fossil54 (12205 Tournament chips) 
+Seat 8: MD4747 (15958 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 125 Tournament chips
+TeamsterV posted ante of 125 Tournament chips
+hulkaboo1234 posted ante of 125 Tournament chips
+Dizzle7978 posted ante of 125 Tournament chips
+BigBlu4 posted ante of 125 Tournament chips
+fossil54 posted ante of 125 Tournament chips
+MD4747 posted ante of 125 Tournament chips
+The button is moved to seat 0.
+TeamsterV posts the small blind [600 Tournament chips]
+hulkaboo1234 posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 5544 Tournament chips.
+TeamsterV, at seat 1, is in this hand with 7501 Tournament chips.
+hulkaboo1234, at seat 3, is in this hand with 3307 Tournament chips.
+Dizzle7978, at seat 4, is in this hand (absent) with 21305 Tournament chips.
+BigBlu4, at seat 5, is in this hand with 8888 Tournament chips.
+fossil54, at seat 7, is in this hand with 12080 Tournament chips.
+MD4747, at seat 8, is in this hand with 15833 Tournament chips.
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+TeamsterV is dealt: **
+hulkaboo1234 is dealt: **
+Dizzle7978 is dealt: **
+BigBlu4 is dealt: **
+fossil54 is dealt: **
+MD4747 is dealt: **
+
+Dealt to QwertySpark [ 6s 6c ]
+Dealt to TeamsterV [ **** ]
+Dealt to hulkaboo1234 [ **** ]
+Dealt to Dizzle7978 [ **** ]
+Dealt to BigBlu4 [ **** ]
+Dealt to fossil54 [ **** ]
+Dealt to MD4747 [ **** ]
+Dizzle7978 folds [1200 Tournament chips]
+BigBlu4 calls [1200 Tournament chips]
+fossil54 folds [1200 Tournament chips]
+MD4747 folds [1200 Tournament chips]
+QwertySpark raises all-in [5544 Tournament chips]
+TeamsterV folds [4944 Tournament chips]
+hulkaboo1234 folds [3307 Tournament chips]
+BigBlu4 calls [4344 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6s 6c ]
+BigBlu4 shows [ Js As ]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ Ah ] board:[ Ac Ah]
+** Dealing Flop ** [ 3h ] board:[ Ac Ah 3h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Ac Ah 3h 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Ac Ah 3h 5c 9d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 6s 6c ] two pair, aces and sixes, nine kicker
+BigBlu4 shows [ Js As ] three aces, jack/nine kickers
+BigBlu4 wins main pot 13763 Tournament chips with three aces, jack/nine kickers.
+Seat 0: QwertySpark (0 Tournament chips) 
+Seat 1: TeamsterV (7501 Tournament chips) 
+Seat 3: hulkaboo1234 (3307 Tournament chips) 
+Seat 4: Dizzle7978 (21305 Tournament chips) 
+Seat 5: BigBlu4 (17107 Tournament chips) 
+Seat 7: fossil54 (12080 Tournament chips) 
+Seat 8: MD4747 (15833 Tournament chips) 
+Game #23986158-72 ends
+Player QwertySpark leaves the table with 0 Tournament chips

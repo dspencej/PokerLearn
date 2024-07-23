@@ -1,0 +1,545 @@
+Game#: 23878255
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+mrz95b is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+QwertySpark is dealt: Js
+The button is moved to seat 2.
+Game #23878255-1 starts
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1500 Tournament chips) 
+Seat 2: RedNeck2024 (1500 Tournament chips) 
+Seat 3: Ron DeMars (1500 Tournament chips) 
+Seat 4: mrz95b (1500 Tournament chips) 
+Seat 5: 4u2race (1500 Tournament chips) 
+Seat 6: yrtbta (1500 Tournament chips) 
+Seat 7: bossN (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 2
+Ron DeMars posts the small blind [5 Tournament chips]
+mrz95b posts the big blind [10 Tournament chips]
+rmd25, at seat 0, is in this hand with 1500 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1500 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1500 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1495 Tournament chips.
+mrz95b, at seat 4, is in this hand with 1490 Tournament chips.
+4u2race, at seat 5, is in this hand with 1500 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1500 Tournament chips.
+bossN, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+Ron DeMars is dealt: **
+mrz95b is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+mrz95b is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to mrz95b [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ 7c Kd ]
+4u2race calls [10 Tournament chips]
+yrtbta folds [10 Tournament chips]
+bossN calls [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+rmd25 folds [10 Tournament chips]
+Colmenaresjk calls [10 Tournament chips]
+RedNeck2024 calls [10 Tournament chips]
+Ron DeMars calls [5 Tournament chips]
+mrz95b checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Tc ] board:[ 9h Tc]
+** Dealing Flop ** [ 4s ] board:[ 9h Tc 4s]
+Ron DeMars checks
+mrz95b checks
+4u2race bets for 100 Tournament chips
+bossN folds [100 Tournament chips]
+Colmenaresjk folds [100 Tournament chips]
+RedNeck2024 folds [100 Tournament chips]
+Ron DeMars folds [100 Tournament chips]
+mrz95b folds [100 Tournament chips]
+4u2race is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 4u2race (Jc 6s 9h Tc 4s: jack high)
+4u2race wins main pot 60 Tournament chips.
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1490 Tournament chips) 
+Seat 2: RedNeck2024 (1490 Tournament chips) 
+Seat 3: Ron DeMars (1490 Tournament chips) 
+Seat 4: mrz95b (1490 Tournament chips) 
+Seat 5: 4u2race (1550 Tournament chips) 
+Seat 6: yrtbta (1500 Tournament chips) 
+Seat 7: bossN (1490 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+Game #23878255-1 ends
+Game #23878255-2 starts
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1490 Tournament chips) 
+Seat 2: RedNeck2024 (1490 Tournament chips) 
+Seat 3: Ron DeMars (1490 Tournament chips) 
+Seat 4: mrz95b (1490 Tournament chips) 
+Seat 5: 4u2race (1550 Tournament chips) 
+Seat 6: yrtbta (1500 Tournament chips) 
+Seat 7: bossN (1490 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+mrz95b posts the small blind [5 Tournament chips]
+4u2race posts the big blind [10 Tournament chips]
+rmd25, at seat 0, is in this hand with 1500 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1490 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1490 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1490 Tournament chips.
+mrz95b, at seat 4, is in this hand with 1485 Tournament chips.
+4u2race, at seat 5, is in this hand with 1540 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1500 Tournament chips.
+bossN, at seat 7, is in this hand with 1490 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+mrz95b is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+mrz95b is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to mrz95b [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ Ad 9c ]
+yrtbta calls [10 Tournament chips]
+bossN raises all-in [1490 Tournament chips]
+QwertySpark folds [1490 Tournament chips]
+rmd25 folds [1490 Tournament chips]
+Colmenaresjk folds [1490 Tournament chips]
+RedNeck2024 folds [1490 Tournament chips]
+Ron DeMars folds [1490 Tournament chips]
+mrz95b calls all-in [1485 Tournament chips]
+4u2race folds [1480 Tournament chips]
+yrtbta folds [1480 Tournament chips]
+Tournament all-in showdown -- players show:
+mrz95b shows [ 9s Ks ]
+bossN shows [ Kh Ah ]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 3s ] board:[ 5d 3s]
+** Dealing Flop ** [ 3h ] board:[ 5d 3s 3h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 5d 3s 3h Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 5d 3s 3h Js 5c]
+        (no action in this round)
+Round 4 is over.
+mrz95b shows [ 9s Ks ] two pair, fives and threes, king kicker
+bossN shows [ Kh Ah ] two pair, fives and threes, ace kicker
+bossN wins main pot 3000 Tournament chips with two pair, fives and threes, ace kicker.
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1490 Tournament chips) 
+Seat 2: RedNeck2024 (1490 Tournament chips) 
+Seat 3: Ron DeMars (1490 Tournament chips) 
+Seat 4: mrz95b (0 Tournament chips) 
+Seat 5: 4u2race (1540 Tournament chips) 
+Seat 6: yrtbta (1490 Tournament chips) 
+Seat 7: bossN (3000 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+Game #23878255-2 ends
+Player mrz95b leaves the table with 0 Tournament chips
+Game #23878255-3 starts
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1490 Tournament chips) 
+Seat 2: RedNeck2024 (1490 Tournament chips) 
+Seat 3: Ron DeMars (1490 Tournament chips) 
+Seat 5: 4u2race (1540 Tournament chips) 
+Seat 6: yrtbta (1490 Tournament chips) 
+Seat 7: bossN (3000 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+4u2race posts the small blind [5 Tournament chips]
+yrtbta posts the big blind [10 Tournament chips]
+rmd25, at seat 0, is in this hand (absent) with 1500 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1490 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1490 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1490 Tournament chips.
+4u2race, at seat 5, is in this hand with 1535 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1480 Tournament chips.
+bossN, at seat 7, is in this hand with 3000 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ Qs Ks ]
+bossN calls [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+rmd25 folds [40 Tournament chips]
+Colmenaresjk calls [40 Tournament chips]
+RedNeck2024 calls [40 Tournament chips]
+Ron DeMars calls [40 Tournament chips]
+4u2race folds [35 Tournament chips]
+yrtbta calls [30 Tournament chips]
+bossN calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 7s ] board:[ 7h 7s]
+** Dealing Flop ** [ 9h ] board:[ 7h 7s 9h]
+yrtbta checks
+bossN bets for 461 Tournament chips
+QwertySpark calls [461 Tournament chips]
+Colmenaresjk folds [461 Tournament chips]
+RedNeck2024 folds [461 Tournament chips]
+Ron DeMars folds [461 Tournament chips]
+yrtbta folds [461 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 7h 7s 9h Ad]
+bossN goes all-in for 2499 Tournament chips
+QwertySpark folds [999 Tournament chips]
+bossN is returned 2499 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bossN (9c 7h 7s 9h Ad: two pair, nines and sevens)
+bossN wins main pot 1167 Tournament chips.
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1450 Tournament chips) 
+Seat 2: RedNeck2024 (1450 Tournament chips) 
+Seat 3: Ron DeMars (1450 Tournament chips) 
+Seat 4: LordBishop (1500 Tournament chips) 
+Seat 5: 4u2race (1535 Tournament chips) 
+Seat 6: yrtbta (1450 Tournament chips) 
+Seat 7: bossN (3666 Tournament chips) 
+Seat 8: QwertySpark (999 Tournament chips) 
+Game #23878255-3 ends
+Game #23878255-4 starts
+Seat 0: rmd25 (1500 Tournament chips) 
+Seat 1: Colmenaresjk (1450 Tournament chips) 
+Seat 2: RedNeck2024 (1450 Tournament chips) 
+Seat 3: Ron DeMars (1450 Tournament chips) 
+Seat 4: LordBishop (1500 Tournament chips) 
+Seat 5: 4u2race (1535 Tournament chips) 
+Seat 6: yrtbta (1450 Tournament chips) 
+Seat 7: bossN (3666 Tournament chips) 
+Seat 8: QwertySpark (999 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+yrtbta posts the small blind [5 Tournament chips]
+bossN posts the big blind [10 Tournament chips]
+rmd25, at seat 0, is in this hand with 1500 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1450 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1450 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1450 Tournament chips.
+LordBishop, at seat 4, is in this hand with 1500 Tournament chips.
+4u2race, at seat 5, is in this hand with 1535 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1445 Tournament chips.
+bossN, at seat 7, is in this hand with 3656 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 999 Tournament chips.
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to LordBishop [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ 5s Qs ]
+QwertySpark folds [10 Tournament chips]
+rmd25 raises [50 Tournament chips]
+Colmenaresjk calls [50 Tournament chips]
+RedNeck2024 calls [50 Tournament chips]
+Ron DeMars calls [50 Tournament chips]
+LordBishop folds [50 Tournament chips]
+4u2race calls [50 Tournament chips]
+yrtbta folds [45 Tournament chips]
+bossN calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Js ] board:[ 3c Js]
+** Dealing Flop ** [ 6h ] board:[ 3c Js 6h]
+bossN checks
+rmd25 bets for 100 Tournament chips
+Colmenaresjk folds [100 Tournament chips]
+RedNeck2024 calls [100 Tournament chips]
+Ron DeMars calls [100 Tournament chips]
+4u2race folds [100 Tournament chips]
+bossN calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 3c Js 6h 7d]
+bossN checks
+rmd25 bets for 140 Tournament chips
+RedNeck2024 folds [140 Tournament chips]
+Ron DeMars calls [140 Tournament chips]
+bossN calls [140 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 3c Js 6h 7d 8c]
+bossN checks
+rmd25 goes all-in for 1210 Tournament chips
+Ron DeMars folds [1160 Tournament chips]
+bossN folds, showing Ad Kc [1210 Tournament chips]
+rmd25 is returned 1210 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for rmd25 (Qd Qc Js 7d 8c: a pair of queens)
+rmd25 wins main pot 1125 Tournament chips.
+Seat 0: rmd25 (2335 Tournament chips) 
+Seat 1: Colmenaresjk (1400 Tournament chips) 
+Seat 2: RedNeck2024 (1300 Tournament chips) 
+Seat 3: Ron DeMars (1160 Tournament chips) 
+Seat 4: LordBishop (1500 Tournament chips) 
+Seat 5: 4u2race (1485 Tournament chips) 
+Seat 6: yrtbta (1445 Tournament chips) 
+Seat 7: bossN (3376 Tournament chips) 
+Seat 8: QwertySpark (999 Tournament chips) 
+Game #23878255-4 ends
+Game #23878255-5 starts
+Seat 0: rmd25 (2335 Tournament chips) 
+Seat 1: Colmenaresjk (1400 Tournament chips) 
+Seat 2: RedNeck2024 (1300 Tournament chips) 
+Seat 3: Ron DeMars (1160 Tournament chips) 
+Seat 4: LordBishop (1500 Tournament chips) 
+Seat 5: 4u2race (1485 Tournament chips) 
+Seat 6: yrtbta (1445 Tournament chips) 
+Seat 7: bossN (3376 Tournament chips) 
+Seat 8: QwertySpark (999 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+bossN posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+rmd25, at seat 0, is in this hand with 2335 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1400 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1300 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1160 Tournament chips.
+LordBishop, at seat 4, is in this hand with 1500 Tournament chips.
+4u2race, at seat 5, is in this hand with 1485 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1445 Tournament chips.
+bossN, at seat 7, is in this hand with 3366 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 979 Tournament chips.
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to LordBishop [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ 3c 9h ]
+rmd25 calls [20 Tournament chips]
+Colmenaresjk folds [20 Tournament chips]
+RedNeck2024 folds [20 Tournament chips]
+Ron DeMars calls [20 Tournament chips]
+LordBishop calls [20 Tournament chips]
+4u2race calls [20 Tournament chips]
+yrtbta folds [20 Tournament chips]
+bossN calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Kd ] board:[ 5s Kd]
+** Dealing Flop ** [ 8c ] board:[ 5s Kd 8c]
+bossN checks
+QwertySpark checks
+rmd25 checks
+Ron DeMars bets for 20 Tournament chips
+LordBishop folds [20 Tournament chips]
+4u2race raises [180 Tournament chips]
+bossN folds [180 Tournament chips]
+QwertySpark folds [180 Tournament chips]
+rmd25 folds [180 Tournament chips]
+Ron DeMars folds [160 Tournament chips]
+4u2race is returned 160 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 4u2race (9c Kh 5s Kd 8c: a pair of kings)
+4u2race wins main pot 160 Tournament chips.
+Seat 0: rmd25 (2315 Tournament chips) 
+Seat 1: Colmenaresjk (1400 Tournament chips) 
+Seat 2: RedNeck2024 (1300 Tournament chips) 
+Seat 3: Ron DeMars (1120 Tournament chips) 
+Seat 4: LordBishop (1480 Tournament chips) 
+Seat 5: 4u2race (1605 Tournament chips) 
+Seat 6: yrtbta (1445 Tournament chips) 
+Seat 7: bossN (3356 Tournament chips) 
+Seat 8: QwertySpark (979 Tournament chips) 
+Game #23878255-5 ends
+Game #23878255-6 starts
+Seat 0: rmd25 (2315 Tournament chips) 
+Seat 1: Colmenaresjk (1400 Tournament chips) 
+Seat 2: RedNeck2024 (1300 Tournament chips) 
+Seat 3: Ron DeMars (1120 Tournament chips) 
+Seat 4: LordBishop (1480 Tournament chips) 
+Seat 5: 4u2race (1605 Tournament chips) 
+Seat 6: yrtbta (1445 Tournament chips) 
+Seat 7: bossN (3356 Tournament chips) 
+Seat 8: QwertySpark (979 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [10 Tournament chips]
+rmd25 posts the big blind [20 Tournament chips]
+rmd25, at seat 0, is in this hand with 2295 Tournament chips.
+Colmenaresjk, at seat 1, is in this hand with 1400 Tournament chips.
+RedNeck2024, at seat 2, is in this hand with 1300 Tournament chips.
+Ron DeMars, at seat 3, is in this hand with 1120 Tournament chips.
+LordBishop, at seat 4, is in this hand with 1480 Tournament chips.
+4u2race, at seat 5, is in this hand with 1605 Tournament chips.
+yrtbta, at seat 6, is in this hand with 1445 Tournament chips.
+bossN, at seat 7, is in this hand with 3356 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 969 Tournament chips.
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+
+rmd25 is dealt: **
+Colmenaresjk is dealt: **
+RedNeck2024 is dealt: **
+Ron DeMars is dealt: **
+LordBishop is dealt: **
+4u2race is dealt: **
+yrtbta is dealt: **
+bossN is dealt: **
+Dealt to rmd25 [ **** ]
+Dealt to Colmenaresjk [ **** ]
+Dealt to RedNeck2024 [ **** ]
+Dealt to Ron DeMars [ **** ]
+Dealt to LordBishop [ **** ]
+Dealt to 4u2race [ **** ]
+Dealt to yrtbta [ **** ]
+Dealt to bossN [ **** ]
+Dealt to QwertySpark [ 4s 4c ]
+Colmenaresjk calls [20 Tournament chips]
+RedNeck2024 calls [20 Tournament chips]
+Ron DeMars calls [20 Tournament chips]
+LordBishop calls [20 Tournament chips]
+4u2race calls [20 Tournament chips]
+yrtbta folds [20 Tournament chips]
+bossN raises all-in [3356 Tournament chips]
+QwertySpark calls all-in [969 Tournament chips]
+rmd25 folds [2295 Tournament chips]
+Colmenaresjk folds [1380 Tournament chips]
+RedNeck2024 folds [1280 Tournament chips]
+Ron DeMars folds [1100 Tournament chips]
+LordBishop folds [1460 Tournament chips]
+4u2race folds [1585 Tournament chips]
+bossN is returned 2377 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+bossN shows [ As Ah ]
+QwertySpark shows [ 4s 4c ]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Th ] board:[ Kh Th]
+** Dealing Flop ** [ 6c ] board:[ Kh Th 6c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Kh Th 6c 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ Kh Th 6c 3d Qh]
+        (no action in this round)
+Round 4 is over.
+bossN shows [ As Ah ] a pair of aces, king/queen kickers
+QwertySpark shows [ 4s 4c ] a pair of fours, king/queen kickers
+bossN wins main pot 2078 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: rmd25 (2295 Tournament chips) 
+Seat 1: Colmenaresjk (1380 Tournament chips) 
+Seat 2: RedNeck2024 (1280 Tournament chips) 
+Seat 3: Ron DeMars (1100 Tournament chips) 
+Seat 4: LordBishop (1460 Tournament chips) 
+Seat 5: 4u2race (1585 Tournament chips) 
+Seat 6: yrtbta (1445 Tournament chips) 
+Seat 7: bossN (4455 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #23878255-6 ends
+Player QwertySpark leaves the table with 0 Tournament chips

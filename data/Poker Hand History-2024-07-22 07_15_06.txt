@@ -1,0 +1,1990 @@
+Game#: 23981155
+Reaper1111 is dealt: **
+QwertySpark is dealt: 6c
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+The button is moved to seat 4.
+Game #23981155-1 starts
+Seat 0: Reaper1111 (1000 Tournament chips) 
+Seat 1: QwertySpark (1000 Tournament chips) 
+Seat 2: sportrack (1000 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (1000 Tournament chips) 
+The button is at seat 4
+INCENDIAR posts the small blind [5 Tournament chips]
+Reaper1111 posts the big blind [10 Tournament chips]
+Reaper1111, at seat 0, is in this hand with 990 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1000 Tournament chips.
+sportrack, at seat 2, is in this hand with 1000 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 995 Tournament chips.
+INCENDIAR is dealt: **
+Reaper1111 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Reaper1111 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to Reaper1111 [ **** ]
+Dealt to QwertySpark [ 8h 9s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark calls [10 Tournament chips]
+sportrack calls [10 Tournament chips]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [5 Tournament chips]
+Reaper1111 raises all-in [990 Tournament chips]
+QwertySpark folds [990 Tournament chips]
+sportrack calls all-in [990 Tournament chips]
+Tournament all-in showdown -- players show:
+Reaper1111 shows [ Qd Ks ]
+sportrack shows [ Ac 9c ]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 2h ] board:[ 5d 2h]
+** Dealing Flop ** [ 8s ] board:[ 5d 2h 8s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 5d 2h 8s 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 5d 2h 8s 6h 5c]
+        (no action in this round)
+Round 4 is over.
+Reaper1111 shows [ Qd Ks ] a pair of fives, king/queen kickers
+sportrack shows [ Ac 9c ] a pair of fives, ace/nine kickers
+sportrack wins main pot 2015 Tournament chips with a pair of fives, ace/nine kickers.
+Seat 0: Reaper1111 (0 Tournament chips) 
+Seat 1: QwertySpark (990 Tournament chips) 
+Seat 2: sportrack (2015 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+Game #23981155-1 ends
+Player Reaper1111 leaves the table with 0 Tournament chips
+Game #23981155-2 starts
+Seat 1: QwertySpark (990 Tournament chips) 
+Seat 2: sportrack (2015 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the big blind [10 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 980 Tournament chips.
+sportrack, at seat 2, is in this hand with 2015 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 995 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to QwertySpark [ Jh 4d ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack calls [10 Tournament chips]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [10 Tournament chips]
+QwertySpark raises [30 Tournament chips]
+sportrack folds [30 Tournament chips]
+QwertySpark is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jh 4d: jack high)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1000 Tournament chips) 
+Seat 2: sportrack (2005 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+Game #23981155-2 ends
+Game #23981155-3 starts
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1000 Tournament chips) 
+Seat 2: sportrack (2005 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+The button is at seat 5
+QwertySpark posts the small blind [5 Tournament chips]
+sportrack posts the big blind [10 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 995 Tournament chips.
+sportrack, at seat 2, is in this hand with 1995 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 995 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to QwertySpark [ 9s 2h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [10 Tournament chips]
+QwertySpark calls [5 Tournament chips]
+sportrack checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 4s ] board:[ 8h 4s]
+** Dealing Flop ** [ 2s ] board:[ 8h 4s 2s]
+QwertySpark bets for 20 Tournament chips
+sportrack folds [20 Tournament chips]
+QwertySpark is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9s 2h 8h 4s 2s: a pair of deuces)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1010 Tournament chips) 
+Seat 2: sportrack (1995 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+Game #23981155-3 ends
+Game #23981155-4 starts
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1010 Tournament chips) 
+Seat 2: sportrack (1995 Tournament chips) 
+Seat 3: nubiprincess (1000 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 1.
+sportrack posts the small blind [5 Tournament chips]
+nubiprincess posts the big blind [10 Tournament chips]
+skipper311, at seat 0, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1010 Tournament chips.
+sportrack, at seat 2, is in this hand with 1990 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 990 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 995 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ Ts Qd ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [10 Tournament chips]
+skipper311 folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+sportrack folds [35 Tournament chips]
+nubiprincess folds [30 Tournament chips]
+QwertySpark is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ts Qd: queen high)
+QwertySpark wins main pot 25 Tournament chips.
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1025 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (990 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+Game #23981155-4 ends
+Game #23981155-5 starts
+Seat 0: skipper311 (1000 Tournament chips) 
+Seat 1: QwertySpark (1025 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (990 Tournament chips) 
+Seat 4: Alpha12 (1000 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+nubiprincess posts the small blind [5 Tournament chips]
+Alpha12 posts the big blind [10 Tournament chips]
+skipper311, at seat 0, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1025 Tournament chips.
+sportrack, at seat 2, is in this hand with 1990 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 985 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 990 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 995 Tournament chips.
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 3h Ks ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+INCENDIAR folds [10 Tournament chips]
+skipper311 calls [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+sportrack folds [10 Tournament chips]
+nubiprincess folds [5 Tournament chips]
+Alpha12 folds
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Ah ] board:[ 5h Ah]
+** Dealing Flop ** [ Td ] board:[ 5h Ah Td]
+skipper311 bets for 35 Tournament chips
+QwertySpark raises [90 Tournament chips]
+skipper311 calls [55 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 5h Ah Td 7d]
+skipper311 bets for 107 Tournament chips
+QwertySpark folds [107 Tournament chips]
+skipper311 is returned 107 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for skipper311 (Kc 5s 5h Ah Td: a pair of fives)
+skipper311 wins main pot 215 Tournament chips.
+Seat 0: skipper311 (1115 Tournament chips) 
+Seat 1: QwertySpark (925 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (990 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+Game #23981155-5 ends
+Game #23981155-6 starts
+Seat 0: skipper311 (1115 Tournament chips) 
+Seat 1: QwertySpark (925 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (990 Tournament chips) 
+Seat 5: INCENDIAR (995 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Alpha12 posts the small blind [5 Tournament chips]
+INCENDIAR posts the big blind [10 Tournament chips]
+skipper311, at seat 0, is in this hand with 1115 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 925 Tournament chips.
+sportrack, at seat 2, is in this hand with 1990 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 985 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 985 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 985 Tournament chips.
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ Qs Ac ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+skipper311 calls [10 Tournament chips]
+QwertySpark raises [50 Tournament chips]
+sportrack folds [50 Tournament chips]
+nubiprincess folds [50 Tournament chips]
+Alpha12 folds [45 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+skipper311 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6d ] board:[ 8h 6d]
+** Dealing Flop ** [ Jd ] board:[ 8h 6d Jd]
+skipper311 checks
+QwertySpark bets for 105 Tournament chips
+skipper311 folds [105 Tournament chips]
+QwertySpark is returned 105 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qs Ac 8h 6d Jd: ace high)
+QwertySpark wins main pot 115 Tournament chips.
+Seat 0: skipper311 (1065 Tournament chips) 
+Seat 1: QwertySpark (990 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (985 Tournament chips) 
+Game #23981155-6 ends
+Game #23981155-7 starts
+Seat 0: skipper311 (1065 Tournament chips) 
+Seat 1: QwertySpark (990 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (985 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+INCENDIAR posts the small blind [5 Tournament chips]
+skipper311 posts the big blind [10 Tournament chips]
+skipper311, at seat 0, is in this hand with 1055 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 990 Tournament chips.
+sportrack, at seat 2, is in this hand with 1990 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 985 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 985 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 980 Tournament chips.
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 7c 8c ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark calls [10 Tournament chips]
+sportrack folds [10 Tournament chips]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [5 Tournament chips]
+skipper311 raises [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Tc ] board:[ Td Tc]
+** Dealing Flop ** [ 8d ] board:[ Td Tc 8d]
+skipper311 bets for 75 Tournament chips
+QwertySpark calls [75 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Td Tc 8d 6s]
+skipper311 bets for 225 Tournament chips
+QwertySpark raises [450 Tournament chips]
+skipper311 calls [225 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ Td Tc 8d 6s 5c]
+skipper311 bets for 10 Tournament chips
+QwertySpark calls [10 Tournament chips]
+Round 4 is over.
+skipper311 shows [ Qd 9d ] a pair of tens
+Hand evaluation for skipper311 (Qd 9d Td Tc 8d: a pair of tens)
+QwertySpark shows [ 7c 8c ] two pair, tens and eights
+Hand evaluation for QwertySpark (7c 8c Td Tc 8d: two pair, tens and eights)
+QwertySpark wins main pot 1145 Tournament chips with two pair, tens and eights, seven kicker.
+Seat 0: skipper311 (495 Tournament chips) 
+Seat 1: QwertySpark (1565 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+Game #23981155-7 ends
+Game #23981155-8 starts
+Seat 0: skipper311 (495 Tournament chips) 
+Seat 1: QwertySpark (1565 Tournament chips) 
+Seat 2: sportrack (1990 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+skipper311 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+skipper311, at seat 0, is in this hand with 490 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1555 Tournament chips.
+sportrack, at seat 2, is in this hand with 1990 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 985 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 985 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 980 Tournament chips.
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 6h Tc ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack calls [10 Tournament chips]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds [10 Tournament chips]
+skipper311 calls [5 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Jh ] board:[ 7d Jh]
+** Dealing Flop ** [ 2s ] board:[ 7d Jh 2s]
+skipper311 bets for 30 Tournament chips
+QwertySpark folds [30 Tournament chips]
+sportrack folds [30 Tournament chips]
+skipper311 is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for skipper311 (5s Qh 7d Jh 2s: queen high)
+skipper311 wins main pot 30 Tournament chips.
+(sportrack has entered the table, is no longer absent.)
+Seat 0: skipper311 (515 Tournament chips) 
+Seat 1: QwertySpark (1555 Tournament chips) 
+Seat 2: sportrack (1980 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+Game #23981155-8 ends
+Game #23981155-9 starts
+Seat 0: skipper311 (515 Tournament chips) 
+Seat 1: QwertySpark (1555 Tournament chips) 
+Seat 2: sportrack (1980 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+sportrack posts the big blind [20 Tournament chips]
+skipper311, at seat 0, is in this hand with 515 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1545 Tournament chips.
+sportrack, at seat 2, is in this hand with 1960 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 985 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 985 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 980 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 7c 6h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [20 Tournament chips]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds [20 Tournament chips]
+skipper311 folds [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+sportrack checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 3s ] board:[ 3c 3s]
+** Dealing Flop ** [ 4h ] board:[ 3c 3s 4h]
+QwertySpark bets for 40 Tournament chips
+sportrack folds [40 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7c 6h 3c 3s 4h: a pair of threes)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: skipper311 (515 Tournament chips) 
+Seat 1: QwertySpark (1575 Tournament chips) 
+Seat 2: sportrack (1960 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+Game #23981155-9 ends
+Game #23981155-10 starts
+Seat 0: skipper311 (515 Tournament chips) 
+Seat 1: QwertySpark (1575 Tournament chips) 
+Seat 2: sportrack (1960 Tournament chips) 
+Seat 3: nubiprincess (985 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sportrack posts the small blind [10 Tournament chips]
+nubiprincess posts the big blind [20 Tournament chips]
+skipper311, at seat 0, is in this hand with 515 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1575 Tournament chips.
+sportrack, at seat 2, is in this hand with 1950 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 965 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 985 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 980 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 6h 3c ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds [20 Tournament chips]
+skipper311 raises [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+sportrack folds [30 Tournament chips]
+nubiprincess folds [20 Tournament chips]
+skipper311 is returned 20 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for skipper311 (8d Th: ten high)
+skipper311 wins main pot 50 Tournament chips.
+(sportrack has entered the table, is no longer absent.)
+Seat 0: skipper311 (545 Tournament chips) 
+Seat 1: QwertySpark (1575 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (965 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+Game #23981155-10 ends
+Game #23981155-11 starts
+Seat 0: skipper311 (545 Tournament chips) 
+Seat 1: QwertySpark (1575 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (965 Tournament chips) 
+Seat 4: Alpha12 (985 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+nubiprincess posts the small blind [10 Tournament chips]
+Alpha12 posts the big blind [20 Tournament chips]
+skipper311, at seat 0, is in this hand with 545 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1575 Tournament chips.
+sportrack, at seat 2, is in this hand with 1950 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 965 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 980 Tournament chips.
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+skipper311 is dealt: **
+
+sportrack is dealt: **
+Dealt to skipper311 [ **** ]
+Dealt to QwertySpark [ 3h 5h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+INCENDIAR folds [20 Tournament chips]
+skipper311 calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+sportrack folds [20 Tournament chips]
+nubiprincess folds [10 Tournament chips]
+Alpha12 folds
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ As ] board:[ 4d As]
+** Dealing Flop ** [ 2h ] board:[ 4d As 2h]
+skipper311 checks
+QwertySpark bets for 20 Tournament chips
+skipper311 raises all-in [525 Tournament chips]
+QwertySpark calls [505 Tournament chips]
+Tournament all-in showdown -- players show:
+skipper311 shows [ 6c 9s ]
+QwertySpark shows [ 3h 5h ]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 4d As 2h 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 4d As 2h 7c Qh]
+        (no action in this round)
+Round 4 is over.
+skipper311 shows [ 6c 9s ] ace/queen/nine high
+QwertySpark shows [ 3h 5h ] straight, five high
+QwertySpark wins main pot 1120 Tournament chips with straight, five high.
+Seat 0: skipper311 (0 Tournament chips) 
+Seat 1: QwertySpark (2150 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (965 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+Game #23981155-11 ends
+Player skipper311 leaves the table with 0 Tournament chips
+Game #23981155-12 starts
+Seat 1: QwertySpark (2150 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (965 Tournament chips) 
+Seat 5: INCENDIAR (980 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Alpha12 posts the small blind [10 Tournament chips]
+INCENDIAR posts the big blind [20 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2150 Tournament chips.
+sportrack, at seat 2, is in this hand with 1950 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 955 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 960 Tournament chips.
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Dealt to QwertySpark [ 6d 3d ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark calls [20 Tournament chips]
+sportrack folds [20 Tournament chips]
+nubiprincess folds [20 Tournament chips]
+Alpha12 folds [10 Tournament chips]
+INCENDIAR folds
+round 1 is over.
+Hand evaluation for QwertySpark (6d 3d: six high)
+QwertySpark wins main pot 50 Tournament chips.
+Seat 1: QwertySpark (2180 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (960 Tournament chips) 
+Game #23981155-12 ends
+Game #23981155-13 starts
+Seat 0: lferrl (1000 Tournament chips) 
+Seat 1: QwertySpark (2180 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (960 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+INCENDIAR posts the small blind [10 Tournament chips]
+lferrl posts the big blind [20 Tournament chips]
+lferrl, at seat 0, is in this hand (absent) with 980 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2180 Tournament chips.
+sportrack, at seat 2, is in this hand with 1950 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 955 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 950 Tournament chips.
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 2h Kh ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark raises [80 Tournament chips]
+sportrack folds [80 Tournament chips]
+nubiprincess folds [80 Tournament chips]
+Alpha12 folds [80 Tournament chips]
+INCENDIAR folds [70 Tournament chips]
+lferrl folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2h Kh: king high)
+QwertySpark wins main pot 50 Tournament chips.
+Seat 0: lferrl (980 Tournament chips) 
+Seat 1: QwertySpark (2210 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+Game #23981155-13 ends
+Game #23981155-14 starts
+Seat 0: lferrl (980 Tournament chips) 
+Seat 1: QwertySpark (2210 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+lferrl posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+lferrl, at seat 0, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2190 Tournament chips.
+sportrack, at seat 2, is in this hand with 1950 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 955 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 950 Tournament chips.
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 8h 3c ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack folds [20 Tournament chips]
+nubiprincess folds [20 Tournament chips]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds [20 Tournament chips]
+lferrl folds [10 Tournament chips]
+QwertySpark is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8h 3c: eight high)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2220 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+Game #23981155-14 ends
+Game #23981155-15 starts
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2220 Tournament chips) 
+Seat 2: sportrack (1950 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+sportrack posts the big blind [20 Tournament chips]
+lferrl, at seat 0, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2210 Tournament chips.
+sportrack, at seat 2, is in this hand with 1930 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 955 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 950 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 7c Ah ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [20 Tournament chips]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds [20 Tournament chips]
+lferrl folds [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+sportrack checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Jd ] board:[ Ts Jd]
+** Dealing Flop ** [ Ks ] board:[ Ts Jd Ks]
+QwertySpark bets for 40 Tournament chips
+sportrack folds [40 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7c Ah Ts Jd Ks: ace high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1930 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+Game #23981155-15 ends
+Game #23981155-16 starts
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1930 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sportrack posts the small blind [10 Tournament chips]
+nubiprincess posts the big blind [20 Tournament chips]
+lferrl, at seat 0, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2240 Tournament chips.
+sportrack, at seat 2, is in this hand with 1920 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 935 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 955 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 950 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 7s 3d ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds [20 Tournament chips]
+lferrl folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+sportrack folds [10 Tournament chips]
+nubiprincess is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for nubiprincess (Kc 2h: king high)
+nubiprincess shows [ Kc 2h ] king high
+Hand evaluation for nubiprincess (Kc 2h: king high)
+nubiprincess wins main pot 20 Tournament chips.
+(sportrack has entered the table, is no longer absent.)
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1920 Tournament chips) 
+Seat 3: nubiprincess (965 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+Game #23981155-16 ends
+Game #23981155-17 starts
+Seat 0: lferrl (970 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1920 Tournament chips) 
+Seat 3: nubiprincess (965 Tournament chips) 
+Seat 4: Alpha12 (955 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+nubiprincess posts the small blind [10 Tournament chips]
+Alpha12 posts the big blind [20 Tournament chips]
+lferrl, at seat 0, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2240 Tournament chips.
+sportrack, at seat 2, is in this hand with 1920 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 935 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 950 Tournament chips.
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 9d 6s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+INCENDIAR folds [20 Tournament chips]
+lferrl raises [70 Tournament chips]
+QwertySpark folds [70 Tournament chips]
+sportrack calls [70 Tournament chips]
+nubiprincess folds [60 Tournament chips]
+Alpha12 folds [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Kd ] board:[ Qd Kd]
+** Dealing Flop ** [ Jc ] board:[ Qd Kd Jc]
+lferrl goes all-in for 900 Tournament chips
+sportrack folds [900 Tournament chips]
+lferrl is returned 900 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for lferrl (Ah Qc Qd Kd Jc: a pair of queens)
+lferrl wins main pot 170 Tournament chips.
+Seat 0: lferrl (1070 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (935 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+Game #23981155-17 ends
+Game #23981155-18 starts
+Seat 0: lferrl (1070 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (935 Tournament chips) 
+Seat 5: INCENDIAR (950 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Alpha12 posts the small blind [15 Tournament chips]
+INCENDIAR posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1070 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2240 Tournament chips.
+sportrack, at seat 2, is in this hand with 1850 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 920 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 920 Tournament chips.
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 5c 5h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+lferrl calls [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+sportrack folds [150 Tournament chips]
+nubiprincess folds [150 Tournament chips]
+Alpha12 folds [135 Tournament chips]
+INCENDIAR folds [120 Tournament chips]
+lferrl calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 7s ] board:[ 3s 7s]
+** Dealing Flop ** [ Kc ] board:[ 3s 7s Kc]
+lferrl checks
+QwertySpark bets for 172 Tournament chips
+lferrl folds [172 Tournament chips]
+QwertySpark is returned 172 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (5c 5h 3s 7s Kc: a pair of fives)
+QwertySpark wins main pot 345 Tournament chips.
+Seat 0: lferrl (920 Tournament chips) 
+Seat 1: QwertySpark (2435 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (920 Tournament chips) 
+Game #23981155-18 ends
+Game #23981155-19 starts
+Seat 0: lferrl (920 Tournament chips) 
+Seat 1: QwertySpark (2435 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (920 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+INCENDIAR posts the small blind [15 Tournament chips]
+lferrl posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 890 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2435 Tournament chips.
+sportrack, at seat 2, is in this hand with 1850 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 920 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 905 Tournament chips.
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ Js 7s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark calls [30 Tournament chips]
+sportrack folds [30 Tournament chips]
+nubiprincess folds [30 Tournament chips]
+Alpha12 folds [30 Tournament chips]
+INCENDIAR folds [15 Tournament chips]
+lferrl raises [75 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Tc ] board:[ 5d Tc]
+** Dealing Flop ** [ 4s ] board:[ 5d Tc 4s]
+lferrl bets for 225 Tournament chips
+QwertySpark folds [225 Tournament chips]
+lferrl is returned 225 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for lferrl (6h 6d 5d Tc 4s: a pair of sixes)
+lferrl wins main pot 225 Tournament chips.
+Seat 0: lferrl (1040 Tournament chips) 
+Seat 1: QwertySpark (2330 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+Game #23981155-19 ends
+Game #23981155-20 starts
+Seat 0: lferrl (1040 Tournament chips) 
+Seat 1: QwertySpark (2330 Tournament chips) 
+Seat 2: sportrack (1850 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+lferrl posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1025 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2300 Tournament chips.
+sportrack, at seat 2, is in this hand with 1850 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 920 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 905 Tournament chips.
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 3h Kc ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack calls [30 Tournament chips]
+nubiprincess folds [30 Tournament chips]
+Alpha12 folds [30 Tournament chips]
+INCENDIAR folds [30 Tournament chips]
+lferrl folds [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 7h ] board:[ Td 7h]
+** Dealing Flop ** [ 3c ] board:[ Td 7h 3c]
+QwertySpark bets for 37 Tournament chips
+sportrack calls [37 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Td 7h 3c 4c]
+QwertySpark bets for 74 Tournament chips
+sportrack folds [74 Tournament chips]
+QwertySpark is returned 74 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (3h Kc Td 7h 3c: a pair of threes)
+QwertySpark wins main pot 149 Tournament chips.
+Seat 0: lferrl (1025 Tournament chips) 
+Seat 1: QwertySpark (2412 Tournament chips) 
+Seat 2: sportrack (1783 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+Game #23981155-20 ends
+Game #23981155-21 starts
+Seat 0: lferrl (1025 Tournament chips) 
+Seat 1: QwertySpark (2412 Tournament chips) 
+Seat 2: sportrack (1783 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+sportrack posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1025 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2397 Tournament chips.
+sportrack, at seat 2, is in this hand with 1753 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 955 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 920 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 905 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 7s Ts ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [30 Tournament chips]
+Alpha12 folds [30 Tournament chips]
+INCENDIAR folds [30 Tournament chips]
+lferrl folds [30 Tournament chips]
+QwertySpark raises [75 Tournament chips]
+sportrack calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 8c ] board:[ 6s 8c]
+** Dealing Flop ** [ Kd ] board:[ 6s 8c Kd]
+QwertySpark bets for 90 Tournament chips
+sportrack folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7s Ts 6s 8c Kd: king high)
+QwertySpark wins main pot 180 Tournament chips.
+Seat 0: lferrl (1025 Tournament chips) 
+Seat 1: QwertySpark (2502 Tournament chips) 
+Seat 2: sportrack (1693 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+Game #23981155-21 ends
+Game #23981155-22 starts
+Seat 0: lferrl (1025 Tournament chips) 
+Seat 1: QwertySpark (2502 Tournament chips) 
+Seat 2: sportrack (1693 Tournament chips) 
+Seat 3: nubiprincess (955 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sportrack posts the small blind [15 Tournament chips]
+nubiprincess posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1025 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2502 Tournament chips.
+sportrack, at seat 2, is in this hand with 1678 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 925 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 920 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 905 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 7d As ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [30 Tournament chips]
+INCENDIAR folds [30 Tournament chips]
+lferrl calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+sportrack folds [15 Tournament chips]
+nubiprincess folds
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Jh ] board:[ 4c Jh]
+** Dealing Flop ** [ Td ] board:[ 4c Jh Td]
+lferrl checks
+QwertySpark bets for 52 Tournament chips
+lferrl folds [52 Tournament chips]
+QwertySpark is returned 52 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7d As 4c Jh Td: ace high)
+QwertySpark wins main pot 105 Tournament chips.
+Seat 0: lferrl (995 Tournament chips) 
+Seat 1: QwertySpark (2577 Tournament chips) 
+Seat 2: sportrack (1678 Tournament chips) 
+Seat 3: nubiprincess (925 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+Game #23981155-22 ends
+Game #23981155-23 starts
+Seat 0: lferrl (995 Tournament chips) 
+Seat 1: QwertySpark (2577 Tournament chips) 
+Seat 2: sportrack (1678 Tournament chips) 
+Seat 3: nubiprincess (925 Tournament chips) 
+Seat 4: Alpha12 (920 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+nubiprincess posts the small blind [15 Tournament chips]
+Alpha12 posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2577 Tournament chips.
+sportrack, at seat 2, is in this hand with 1678 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 910 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 890 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 905 Tournament chips.
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ Kd 8h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+INCENDIAR folds [30 Tournament chips]
+lferrl folds [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+sportrack folds [30 Tournament chips]
+nubiprincess folds [15 Tournament chips]
+Alpha12 folds
+round 1 is over.
+Hand evaluation for QwertySpark (Kd 8h: king high)
+QwertySpark wins main pot 75 Tournament chips.
+Seat 0: lferrl (995 Tournament chips) 
+Seat 1: QwertySpark (2622 Tournament chips) 
+Seat 2: sportrack (1678 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (890 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+Game #23981155-23 ends
+Game #23981155-24 starts
+Seat 0: lferrl (995 Tournament chips) 
+Seat 1: QwertySpark (2622 Tournament chips) 
+Seat 2: sportrack (1678 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (890 Tournament chips) 
+Seat 5: INCENDIAR (905 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Alpha12 posts the small blind [15 Tournament chips]
+INCENDIAR posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2622 Tournament chips.
+sportrack, at seat 2, is in this hand with 1678 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 910 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 875 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 875 Tournament chips.
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 2c 7h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+lferrl calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+sportrack calls [30 Tournament chips]
+nubiprincess folds [30 Tournament chips]
+Alpha12 folds [15 Tournament chips]
+INCENDIAR folds
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Ks ] board:[ 4s Ks]
+** Dealing Flop ** [ 3h ] board:[ 4s Ks 3h]
+lferrl checks
+sportrack checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 4s Ks 3h Ac]
+lferrl bets for 105 Tournament chips
+sportrack folds [105 Tournament chips]
+lferrl is returned 105 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for lferrl (Ah 9c 4s Ks Ac: a pair of aces)
+lferrl wins main pot 105 Tournament chips.
+Seat 0: lferrl (1070 Tournament chips) 
+Seat 1: QwertySpark (2622 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (875 Tournament chips) 
+Game #23981155-24 ends
+Game #23981155-25 starts
+Seat 0: lferrl (1070 Tournament chips) 
+Seat 1: QwertySpark (2622 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (875 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+INCENDIAR posts the small blind [15 Tournament chips]
+lferrl posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1040 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2622 Tournament chips.
+sportrack, at seat 2, is in this hand with 1648 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 910 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 875 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 860 Tournament chips.
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ As 8s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark raises [120 Tournament chips]
+sportrack folds [120 Tournament chips]
+nubiprincess folds [120 Tournament chips]
+Alpha12 folds [120 Tournament chips]
+INCENDIAR folds [105 Tournament chips]
+lferrl folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As 8s: ace high)
+QwertySpark wins main pot 75 Tournament chips.
+Seat 0: lferrl (1040 Tournament chips) 
+Seat 1: QwertySpark (2667 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+Game #23981155-25 ends
+Game #23981155-26 starts
+Seat 0: lferrl (1040 Tournament chips) 
+Seat 1: QwertySpark (2667 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+lferrl posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+lferrl, at seat 0, is in this hand with 1025 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2637 Tournament chips.
+sportrack, at seat 2, is in this hand with 1648 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 910 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 875 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 860 Tournament chips.
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 2c 9h ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack folds [30 Tournament chips]
+nubiprincess folds [30 Tournament chips]
+Alpha12 folds [30 Tournament chips]
+INCENDIAR folds [30 Tournament chips]
+lferrl calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 3h ] board:[ As 3h]
+** Dealing Flop ** [ 4h ] board:[ As 3h 4h]
+lferrl checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ As 3h 4h Ah]
+lferrl checks
+QwertySpark bets for 90 Tournament chips
+lferrl folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9h As 3h 4h Ah: a pair of aces)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2697 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+Game #23981155-26 ends
+Game #23981155-27 starts
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2697 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+QwertySpark posts the small blind [20 Tournament chips]
+sportrack posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 1010 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2677 Tournament chips.
+sportrack, at seat 2, is in this hand with 1608 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 910 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 875 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 860 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ Qh 4s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [40 Tournament chips]
+Alpha12 folds [40 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+lferrl folds [40 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+sportrack folds [40 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh 4s: queen high)
+QwertySpark wins main pot 80 Tournament chips.
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2737 Tournament chips) 
+Seat 2: sportrack (1608 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+Game #23981155-27 ends
+Game #23981155-28 starts
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2737 Tournament chips) 
+Seat 2: sportrack (1608 Tournament chips) 
+Seat 3: nubiprincess (910 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sportrack posts the small blind [20 Tournament chips]
+nubiprincess posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 1010 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2737 Tournament chips.
+sportrack, at seat 2, is in this hand with 1588 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 870 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 875 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 860 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 2c Kh ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [40 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+lferrl folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+sportrack calls [20 Tournament chips]
+nubiprincess folds
+round 1 is over.
+Hand evaluation for sportrack (Qh 8c: queen high)
+sportrack wins main pot 80 Tournament chips.
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2737 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (870 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+Game #23981155-28 ends
+Game #23981155-29 starts
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2737 Tournament chips) 
+Seat 2: sportrack (1648 Tournament chips) 
+Seat 3: nubiprincess (870 Tournament chips) 
+Seat 4: Alpha12 (875 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+nubiprincess posts the small blind [20 Tournament chips]
+Alpha12 posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 1010 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2737 Tournament chips.
+sportrack, at seat 2, is in this hand with 1648 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 850 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 835 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 860 Tournament chips.
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 8h Js ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+INCENDIAR folds [40 Tournament chips]
+lferrl folds [40 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+sportrack calls [80 Tournament chips]
+nubiprincess folds [60 Tournament chips]
+Alpha12 folds [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Tc ] board:[ 6h Tc]
+** Dealing Flop ** [ Qs ] board:[ 6h Tc Qs]
+QwertySpark bets for 40 Tournament chips
+sportrack calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 6h Tc Qs 5c]
+QwertySpark checks
+sportrack checks
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 6h Tc Qs 5c Jd]
+QwertySpark bets for 160 Tournament chips
+sportrack raises [320 Tournament chips]
+QwertySpark calls [160 Tournament chips]
+Round 4 is over.
+sportrack shows [ Ah Kc ] straight, ace high
+Hand evaluation for sportrack (Ah Kc Tc Qs Jd: straight, ace high)
+QwertySpark doesn't show [ 8h Js ]
+(QwertySpark has 8h Js.)
+sportrack wins main pot 940 Tournament chips with straight, ace high.
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2297 Tournament chips) 
+Seat 2: sportrack (2148 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (835 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+Game #23981155-29 ends
+Game #23981155-30 starts
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2297 Tournament chips) 
+Seat 2: sportrack (2148 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (835 Tournament chips) 
+Seat 5: INCENDIAR (860 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Alpha12 posts the small blind [20 Tournament chips]
+INCENDIAR posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 1010 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2297 Tournament chips.
+sportrack, at seat 2, is in this hand with 2148 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 850 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 815 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 820 Tournament chips.
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 7s Tc ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+lferrl folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+sportrack calls [40 Tournament chips]
+nubiprincess folds [40 Tournament chips]
+Alpha12 folds [20 Tournament chips]
+INCENDIAR folds
+round 1 is over.
+Hand evaluation for sportrack (Kh 9d: king high)
+sportrack wins main pot 100 Tournament chips.
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2297 Tournament chips) 
+Seat 2: sportrack (2208 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (820 Tournament chips) 
+Game #23981155-30 ends
+Game #23981155-31 starts
+Seat 0: lferrl (1010 Tournament chips) 
+Seat 1: QwertySpark (2297 Tournament chips) 
+Seat 2: sportrack (2208 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (820 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+INCENDIAR posts the small blind [20 Tournament chips]
+lferrl posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2297 Tournament chips.
+sportrack, at seat 2, is in this hand with 2208 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 850 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 815 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 800 Tournament chips.
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ Qd Qc ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+QwertySpark raises [160 Tournament chips]
+sportrack folds [160 Tournament chips]
+nubiprincess folds [160 Tournament chips]
+Alpha12 folds [160 Tournament chips]
+INCENDIAR folds [140 Tournament chips]
+lferrl calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Qh ] board:[ Js Qh]
+** Dealing Flop ** [ Th ] board:[ Js Qh Th]
+lferrl checks
+QwertySpark bets for 120 Tournament chips
+lferrl calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Js Qh Th 6d]
+lferrl checks
+QwertySpark bets for 330 Tournament chips
+lferrl calls [330 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Js Qh Th 6d 9h]
+lferrl checks
+QwertySpark checks
+Round 4 is over.
+lferrl shows [ Ad 7h ] ace high
+Hand evaluation for lferrl (Ad Js Qh Th 9h: ace high)
+QwertySpark shows [ Qd Qc ] three queens
+Hand evaluation for QwertySpark (Qd Qc Js Qh Th: three queens)
+QwertySpark wins main pot 1240 Tournament chips with three queens, jack/ten kickers.
+Seat 0: lferrl (400 Tournament chips) 
+Seat 1: QwertySpark (2927 Tournament chips) 
+Seat 2: sportrack (2208 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+Game #23981155-31 ends
+Game #23981155-32 starts
+Seat 0: lferrl (400 Tournament chips) 
+Seat 1: QwertySpark (2927 Tournament chips) 
+Seat 2: sportrack (2208 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+lferrl posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 380 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2887 Tournament chips.
+sportrack, at seat 2, is in this hand with 2208 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 850 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 815 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 800 Tournament chips.
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 5c Th ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+sportrack calls [40 Tournament chips]
+nubiprincess folds [40 Tournament chips]
+Alpha12 folds [40 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+lferrl raises all-in [380 Tournament chips]
+QwertySpark folds [360 Tournament chips]
+sportrack folds [360 Tournament chips]
+lferrl is returned 360 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for lferrl (Td 8s: ten high)
+lferrl wins main pot 120 Tournament chips.
+Seat 0: lferrl (480 Tournament chips) 
+Seat 1: QwertySpark (2887 Tournament chips) 
+Seat 2: sportrack (2168 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+Game #23981155-32 ends
+Game #23981155-33 starts
+Seat 0: lferrl (480 Tournament chips) 
+Seat 1: QwertySpark (2887 Tournament chips) 
+Seat 2: sportrack (2168 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+QwertySpark posts the small blind [20 Tournament chips]
+sportrack posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 480 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2867 Tournament chips.
+sportrack, at seat 2, is in this hand with 2128 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 850 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 815 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 800 Tournament chips.
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ Qc 2s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+nubiprincess folds [40 Tournament chips]
+Alpha12 folds [40 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+lferrl raises [140 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+sportrack calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 8h ] board:[ Js 8h]
+** Dealing Flop ** [ 9s ] board:[ Js 8h 9s]
+sportrack bets for 40 Tournament chips
+lferrl calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Js 8h 9s Td]
+sportrack bets for 40 Tournament chips
+lferrl calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Js 8h 9s Td Tc]
+sportrack bets for 40 Tournament chips
+lferrl calls [40 Tournament chips]
+Round 4 is over.
+sportrack shows [ Ks Jd ] two pair, jacks and tens
+Hand evaluation for sportrack (Ks Jd Js Td Tc: two pair, jacks and tens)
+lferrl doesn't show [ 2h Ah ]
+(lferrl has 2h Ah.)
+sportrack wins main pot 540 Tournament chips with two pair, jacks and tens, king kicker.
+Seat 0: lferrl (220 Tournament chips) 
+Seat 1: QwertySpark (2867 Tournament chips) 
+Seat 2: sportrack (2448 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+Game #23981155-33 ends
+Game #23981155-34 starts
+Seat 0: lferrl (220 Tournament chips) 
+Seat 1: QwertySpark (2867 Tournament chips) 
+Seat 2: sportrack (2448 Tournament chips) 
+Seat 3: nubiprincess (850 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sportrack posts the small blind [20 Tournament chips]
+nubiprincess posts the big blind [40 Tournament chips]
+lferrl, at seat 0, is in this hand with 220 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2867 Tournament chips.
+sportrack, at seat 2, is in this hand with 2428 Tournament chips.
+nubiprincess, at seat 3, is in this hand (absent) with 810 Tournament chips.
+Alpha12, at seat 4, is in this hand (absent) with 815 Tournament chips.
+INCENDIAR, at seat 5, is in this hand (absent) with 800 Tournament chips.
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+sportrack is dealt: **
+nubiprincess is dealt: **
+Alpha12 is dealt: **
+INCENDIAR is dealt: **
+lferrl is dealt: **
+
+Dealt to lferrl [ **** ]
+Dealt to QwertySpark [ 5c 5s ]
+Dealt to sportrack [ **** ]
+Dealt to nubiprincess [ **** ]
+Dealt to Alpha12 [ **** ]
+Dealt to INCENDIAR [ **** ]
+Alpha12 folds [40 Tournament chips]
+INCENDIAR folds [40 Tournament chips]
+lferrl raises all-in [220 Tournament chips]
+QwertySpark re-raises [760 Tournament chips]
+sportrack folds [740 Tournament chips]
+nubiprincess folds [720 Tournament chips]
+QwertySpark is returned 540 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+lferrl shows [ Tc 9c ]
+QwertySpark shows [ 5c 5s ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4c ] board:[ Ad 4c]
+** Dealing Flop ** [ 5d ] board:[ Ad 4c 5d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Ad 4c 5d 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Ad 4c 5d 8d As]
+        (no action in this round)
+Round 4 is over.
+lferrl shows [ Tc 9c ] a pair of aces, ten/nine kickers
+QwertySpark shows [ 5c 5s ] full house, fives full of aces
+QwertySpark wins main pot 500 Tournament chips with full house, fives full of aces.
+Seat 0: lferrl (0 Tournament chips) 
+Seat 1: QwertySpark (3147 Tournament chips) 
+Seat 2: sportrack (2428 Tournament chips) 
+Seat 3: nubiprincess (810 Tournament chips) 
+Seat 4: Alpha12 (815 Tournament chips) 
+Seat 5: INCENDIAR (800 Tournament chips) 
+Game #23981155-34 ends
+Player lferrl leaves the table with 0 Tournament chips
+Player INCENDIAR leaves the table with 0 Tournament chips
+Player Alpha12 leaves the table with 0 Tournament chips
+Player nubiprincess leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 3147 Tournament chips
+Player sportrack leaves the table with 2428 Tournament chips

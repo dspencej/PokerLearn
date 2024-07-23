@@ -1,0 +1,44 @@
+Game#: 23936968
+caravanman raises [850 Tournament chips]
+Rattleradams5 folds [850 Tournament chips]
+MrKirtiN raises all-in [6625 Tournament chips]
+opx folds [6525 Tournament chips]
+Z3r0_Chance calls [6425 Tournament chips]
+caravanman raises all-in [23836 Tournament chips]
+Z3r0_Chance calls [18061 Tournament chips]
+Tournament all-in showdown -- players show:
+MrKirtiN shows [ 9c Qc ]
+Z3r0_Chance shows [ Ah Th ]
+caravanman shows [ 6d 6s ]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 8c ] board:[ Js 8c]
+** Dealing Flop ** [ 5h ] board:[ Js 8c 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ Js 8c 5h Ad]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Js 8c 5h Ad 7c]
+        (no action in this round)
+Round 4 is over.
+MrKirtiN shows [ 9c Qc ] ace/queen/jack high
+Z3r0_Chance shows [ Ah Th ] a pair of aces, jack/ten kickers
+caravanman shows [ 6d 6s ] a pair of sixes, ace/jack kickers
+Z3r0_Chance wins main pot 20125 Tournament chips with a pair of aces, jack/ten kickers.
+Z3r0_Chance wins side pot #1 36122 Tournament chips with a pair of aces, jack/ten kickers.
+Seat 1: MrKirtiN (0 Tournament chips) 
+Seat 2: opx (24000 Tournament chips) 
+Seat 3: Z3r0_Chance (56925 Tournament chips) 
+Seat 4: QwertySpark (35697 Tournament chips) 
+Seat 5: FrankM1006 (7488 Tournament chips) 
+Seat 7: caravanman (0 Tournament chips) 
+Seat 8: Rattleradams5 (11437 Tournament chips) 
+Game #23936968-32 ends
+Player MrKirtiN leaves the table with 0 Tournament chips
+Player caravanman leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 35697 Tournament chips
+Player Rattleradams5 leaves the table with 11437 Tournament chips
+Player FrankM1006 leaves the table with 7488 Tournament chips
+Player Z3r0_Chance leaves the table with 56925 Tournament chips
+Player opx leaves the table with 24000 Tournament chips

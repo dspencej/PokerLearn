@@ -1,0 +1,66 @@
+{% extends "layout.html" %}
+
+{% block title %}Hand Details{% endblock %}
+
+{% block content %}
+    <h1>Hand Details</h1>
+    <h2>Hand Number: {{ hand.hand_number }}</h2>
+    <h3>Rounds</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Round Number</th>
+                <th>Round Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for round in rounds %}
+                <tr>
+                    <td>{{ round.round_number }}</td>
+                    <td>{{ round.round_name }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h3>Player Actions</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Player</th>
+                <th>Action</th>
+                <th>Amount</th>
+                <th>Round</th>
+                <th>Cards</th> <!-- New column for cards -->
+            </tr>
+        </thead>
+        <tbody>
+            {% for action in actions %}
+                <tr>
+                    <td>{{ action.player.name }}</td>
+                    <td>{{ action.action }}</td>
+                    <td>{{ action.amount }}</td>
+                    <td>{{ action.round.round_name }}</td>
+                    <td>{{ action.player.cards }}</td> <!-- Display player cards -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <h3>Board Cards</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Round</th>
+                <th>Card</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for card in board_cards %}
+                <tr>
+                    <td>{{ card.round.round_name }}</td>
+                    <td>{{ card.card }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{{ url_for('game_details', game_id=hand.game_id) }}" class="btn btn-primary">Back to Game Details</a>
+{% endblock %}

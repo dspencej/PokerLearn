@@ -1,0 +1,1033 @@
+Game#: 23889790
+nycat folds [800 Tournament chips]
+Rocket454 folds [800 Tournament chips]
+gschumacher calls [400 Tournament chips]
+Razmazter checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 5h ] board:[ 2c 5h]
+** Dealing Flop ** [ 8s ] board:[ 2c 5h 8s]
+gschumacher checks
+Razmazter has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 2c 5h 8s Ac]
+gschumacher checks
+Razmazter checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 2c 5h 8s Ac Jh]
+gschumacher checks
+Razmazter checks
+Round 4 is over.
+gschumacher shows [ 7c 9s ] ace high
+Hand evaluation for gschumacher (7c 9s 8s Ac Jh: ace high)
+Razmazter shows [ 6s Tc ] ace high
+Hand evaluation for Razmazter (6s Tc 8s Ac Jh: ace high)
+Razmazter wins main pot 2200 Tournament chips with ace/jack/ten high.
+Seat 0: QwertySpark (13129 Tournament chips) 
+Seat 2: Acesbrdgplyr (6065 Tournament chips) 
+Seat 3: workinblum (2685 Tournament chips) 
+Seat 4: Johny Pryor (2665 Tournament chips) 
+Seat 5: nycat (22654 Tournament chips) 
+Seat 6: Rocket454 (3895 Tournament chips) 
+Seat 7: gschumacher (6086 Tournament chips) 
+Seat 8: Razmazter (10361 Tournament chips) 
+Game #23889790-51 ends
+Game #23889790-52 starts
+Seat 0: QwertySpark (13129 Tournament chips) 
+Seat 2: Acesbrdgplyr (6065 Tournament chips) 
+Seat 3: workinblum (2685 Tournament chips) 
+Seat 4: Johny Pryor (2665 Tournament chips) 
+Seat 5: nycat (22654 Tournament chips) 
+Seat 6: Rocket454 (3895 Tournament chips) 
+Seat 7: gschumacher (6086 Tournament chips) 
+Seat 8: Razmazter (10361 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 100 Tournament chips
+Acesbrdgplyr posted ante of 100 Tournament chips
+workinblum posted ante of 100 Tournament chips
+Johny Pryor posted ante of 100 Tournament chips
+nycat posted ante of 100 Tournament chips
+Razmazter posted ante of 100 Tournament chips
+Rocket454 posted ante of 100 Tournament chips
+gschumacher posted ante of 100 Tournament chips
+The button is moved to seat 7.
+Razmazter posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 12229 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 5965 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 2585 Tournament chips.
+Johny Pryor, at seat 4, is in this hand with 2565 Tournament chips.
+nycat, at seat 5, is in this hand with 22554 Tournament chips.
+Rocket454, at seat 6, is in this hand with 3795 Tournament chips.
+gschumacher, at seat 7, is in this hand with 5986 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9861 Tournament chips.
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Dealt to QwertySpark [ Ks 5h ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to Johny Pryor [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Acesbrdgplyr folds [800 Tournament chips]
+workinblum folds [800 Tournament chips]
+Johny Pryor folds [800 Tournament chips]
+nycat folds [800 Tournament chips]
+Rocket454 calls [800 Tournament chips]
+gschumacher folds [800 Tournament chips]
+Razmazter folds [400 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 6d ] board:[ 9h 6d]
+** Dealing Flop ** [ Jh ] board:[ 9h 6d Jh]
+QwertySpark checks
+Rocket454 bets for 800 Tournament chips
+QwertySpark calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 9h 6d Jh 7c]
+QwertySpark bets for 2400 Tournament chips
+Rocket454 folds [2195 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ks 9h 6d Jh 7c: king high)
+QwertySpark wins main pot 4400 Tournament chips.
+Seat 0: QwertySpark (15829 Tournament chips) 
+Seat 2: Acesbrdgplyr (5965 Tournament chips) 
+Seat 3: workinblum (2585 Tournament chips) 
+Seat 4: Johny Pryor (2565 Tournament chips) 
+Seat 5: nycat (22554 Tournament chips) 
+Seat 6: Rocket454 (2195 Tournament chips) 
+Seat 7: gschumacher (5986 Tournament chips) 
+Seat 8: Razmazter (9861 Tournament chips) 
+Game #23889790-52 ends
+Game #23889790-53 starts
+Seat 0: QwertySpark (15829 Tournament chips) 
+Seat 2: Acesbrdgplyr (5965 Tournament chips) 
+Seat 3: workinblum (2585 Tournament chips) 
+Seat 4: Johny Pryor (2565 Tournament chips) 
+Seat 5: nycat (22554 Tournament chips) 
+Seat 6: Rocket454 (2195 Tournament chips) 
+Seat 7: gschumacher (5986 Tournament chips) 
+Seat 8: Razmazter (9861 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 100 Tournament chips
+Acesbrdgplyr posted ante of 100 Tournament chips
+workinblum posted ante of 100 Tournament chips
+Johny Pryor posted ante of 100 Tournament chips
+nycat posted ante of 100 Tournament chips
+Rocket454 posted ante of 100 Tournament chips
+gschumacher posted ante of 100 Tournament chips
+Razmazter posted ante of 100 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [400 Tournament chips]
+Acesbrdgplyr posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15329 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 5065 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 2485 Tournament chips.
+Johny Pryor, at seat 4, is in this hand with 2465 Tournament chips.
+nycat, at seat 5, is in this hand with 22454 Tournament chips.
+Rocket454, at seat 6, is in this hand with 2095 Tournament chips.
+gschumacher, at seat 7, is in this hand with 5886 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9761 Tournament chips.
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+Dealt to QwertySpark [ 9c 8d ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to Johny Pryor [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+workinblum folds [800 Tournament chips]
+Johny Pryor calls [800 Tournament chips]
+nycat calls [800 Tournament chips]
+Rocket454 folds [800 Tournament chips]
+gschumacher folds [800 Tournament chips]
+Razmazter folds [800 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Acesbrdgplyr checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ As ] board:[ 3c As]
+** Dealing Flop ** [ Ad ] board:[ 3c As Ad]
+QwertySpark checks
+Acesbrdgplyr bets for 4000 Tournament chips
+Johny Pryor folds [1665 Tournament chips]
+nycat folds [4000 Tournament chips]
+QwertySpark folds [4000 Tournament chips]
+Acesbrdgplyr is returned 4000 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Acesbrdgplyr (6s 3s 3c As Ad: two pair, aces and threes)
+Acesbrdgplyr wins main pot 4000 Tournament chips.
+Seat 0: QwertySpark (14929 Tournament chips) 
+Seat 2: Acesbrdgplyr (9065 Tournament chips) 
+Seat 3: workinblum (2485 Tournament chips) 
+Seat 4: Johny Pryor (1665 Tournament chips) 
+Seat 5: nycat (21654 Tournament chips) 
+Seat 6: Rocket454 (2095 Tournament chips) 
+Seat 7: gschumacher (5886 Tournament chips) 
+Seat 8: Razmazter (9761 Tournament chips) 
+Game #23889790-53 ends
+Game #23889790-54 starts
+Seat 0: QwertySpark (14929 Tournament chips) 
+Seat 2: Acesbrdgplyr (9065 Tournament chips) 
+Seat 3: workinblum (2485 Tournament chips) 
+Seat 4: Johny Pryor (1665 Tournament chips) 
+Seat 5: nycat (21654 Tournament chips) 
+Seat 6: Rocket454 (2095 Tournament chips) 
+Seat 7: gschumacher (5886 Tournament chips) 
+Seat 8: Razmazter (9761 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 125 Tournament chips
+Johny Pryor posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+nycat posted ante of 125 Tournament chips
+Acesbrdgplyr posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+workinblum posted ante of 125 Tournament chips
+The button is moved to seat 0.
+Acesbrdgplyr posts the small blind [600 Tournament chips]
+workinblum posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14804 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 8340 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 1160 Tournament chips.
+Johny Pryor, at seat 4, is in this hand with 1540 Tournament chips.
+nycat, at seat 5, is in this hand with 21529 Tournament chips.
+Rocket454, at seat 6, is in this hand with 1970 Tournament chips.
+gschumacher, at seat 7, is in this hand with 5761 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9636 Tournament chips.
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Johny Pryor is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Dealt to QwertySpark [ 2s 5c ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to Johny Pryor [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Johny Pryor calls [1200 Tournament chips]
+nycat folds [1200 Tournament chips]
+Rocket454 folds [1200 Tournament chips]
+gschumacher folds [1200 Tournament chips]
+Razmazter folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Acesbrdgplyr calls [600 Tournament chips]
+workinblum folds
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 2d ] board:[ 4s 2d]
+** Dealing Flop ** [ 8s ] board:[ 4s 2d 8s]
+Acesbrdgplyr bets for 4600 Tournament chips
+Johny Pryor calls all-in [340 Tournament chips]
+Acesbrdgplyr is returned 4260 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Acesbrdgplyr shows [ Kd 4d ]
+Johny Pryor shows [ Qd Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 4s 2d 8s 6c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 4s 2d 8s 6c 4h]
+        (no action in this round)
+Round 4 is over.
+Acesbrdgplyr shows [ Kd 4d ] three fours, king/eight kickers
+Johny Pryor shows [ Qd Ad ] a pair of fours, ace/queen kickers
+Acesbrdgplyr wins main pot 5280 Tournament chips with three fours, king/eight kickers.
+Seat 0: QwertySpark (14804 Tournament chips) 
+Seat 2: Acesbrdgplyr (12680 Tournament chips) 
+Seat 3: workinblum (1160 Tournament chips) 
+Seat 4: Johny Pryor (0 Tournament chips) 
+Seat 5: nycat (21529 Tournament chips) 
+Seat 6: Rocket454 (1970 Tournament chips) 
+Seat 7: gschumacher (5761 Tournament chips) 
+Seat 8: Razmazter (9636 Tournament chips) 
+Game #23889790-54 ends
+Player Johny Pryor leaves the table with 0 Tournament chips
+Game #23889790-55 starts
+Seat 0: QwertySpark (14804 Tournament chips) 
+Seat 2: Acesbrdgplyr (12680 Tournament chips) 
+Seat 3: workinblum (1160 Tournament chips) 
+Seat 5: nycat (21529 Tournament chips) 
+Seat 6: Rocket454 (1970 Tournament chips) 
+Seat 7: gschumacher (5761 Tournament chips) 
+Seat 8: Razmazter (9636 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 125 Tournament chips
+Acesbrdgplyr posted ante of 125 Tournament chips
+nycat posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+workinblum posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+The button is moved to seat 2.
+workinblum posts the small blind [600 Tournament chips]
+nycat posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14679 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 12555 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 435 Tournament chips.
+nycat, at seat 5, is in this hand with 20204 Tournament chips.
+Rocket454, at seat 6, is in this hand with 1845 Tournament chips.
+gschumacher, at seat 7, is in this hand with 5636 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9511 Tournament chips.
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+Dealt to QwertySpark [ 4d 5s ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Rocket454 folds [1200 Tournament chips]
+gschumacher folds [1200 Tournament chips]
+Razmazter folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Acesbrdgplyr folds [1200 Tournament chips]
+workinblum folds [435 Tournament chips]
+nycat is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for nycat (9s Jd: jack high)
+nycat wins main pot 2075 Tournament chips.
+Seat 0: QwertySpark (14679 Tournament chips) 
+Seat 2: Acesbrdgplyr (12555 Tournament chips) 
+Seat 3: workinblum (435 Tournament chips) 
+Seat 5: nycat (22879 Tournament chips) 
+Seat 6: Rocket454 (1845 Tournament chips) 
+Seat 7: gschumacher (5636 Tournament chips) 
+Seat 8: Razmazter (9511 Tournament chips) 
+Game #23889790-55 ends
+Game #23889790-56 starts
+Seat 0: QwertySpark (14679 Tournament chips) 
+Seat 2: Acesbrdgplyr (12555 Tournament chips) 
+Seat 3: workinblum (435 Tournament chips) 
+Seat 5: nycat (22879 Tournament chips) 
+Seat 6: Rocket454 (1845 Tournament chips) 
+Seat 7: gschumacher (5636 Tournament chips) 
+Seat 8: Razmazter (9511 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 125 Tournament chips
+workinblum posted ante of 125 Tournament chips
+Acesbrdgplyr posted ante of 125 Tournament chips
+nycat posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+The button is moved to seat 3.
+nycat posts the small blind [600 Tournament chips]
+Rocket454 posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14554 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 12430 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 310 Tournament chips.
+nycat, at seat 5, is in this hand with 22154 Tournament chips.
+Rocket454, at seat 6, is in this hand with 520 Tournament chips.
+gschumacher, at seat 7, is in this hand with 5511 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9386 Tournament chips.
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+Dealt to QwertySpark [ 2c 7d ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+gschumacher folds [1200 Tournament chips]
+Razmazter folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Acesbrdgplyr folds [1200 Tournament chips]
+workinblum folds [310 Tournament chips]
+nycat calls [600 Tournament chips]
+Rocket454 checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Kd ] board:[ 2s Kd]
+** Dealing Flop ** [ 7c ] board:[ 2s Kd 7c]
+nycat bets for 1200 Tournament chips
+Rocket454 folds [520 Tournament chips]
+nycat is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for nycat (Th 7h 2s Kd 7c: a pair of sevens)
+nycat wins main pot 3275 Tournament chips.
+Seat 0: QwertySpark (14554 Tournament chips) 
+Seat 2: Acesbrdgplyr (12430 Tournament chips) 
+Seat 3: workinblum (310 Tournament chips) 
+Seat 5: nycat (24829 Tournament chips) 
+Seat 6: Rocket454 (520 Tournament chips) 
+Seat 7: gschumacher (5511 Tournament chips) 
+Seat 8: Razmazter (9386 Tournament chips) 
+Game #23889790-56 ends
+Game #23889790-57 starts
+Seat 0: QwertySpark (14554 Tournament chips) 
+Seat 2: Acesbrdgplyr (12430 Tournament chips) 
+Seat 3: workinblum (310 Tournament chips) 
+Seat 5: nycat (24829 Tournament chips) 
+Seat 6: Rocket454 (520 Tournament chips) 
+Seat 7: gschumacher (5511 Tournament chips) 
+Seat 8: Razmazter (9386 Tournament chips) 
+The button is at seat 3
+Acesbrdgplyr posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+nycat posted ante of 125 Tournament chips
+workinblum posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+The button is moved to seat 5.
+Rocket454 posts the small blind [395 Tournament chips], goes all-in
+gschumacher posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14429 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 12305 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 185 Tournament chips.
+nycat, at seat 5, is in this hand with 24704 Tournament chips.
+Rocket454, at seat 6, is in this hand with 0 Tournament chips.
+gschumacher, at seat 7, is in this hand with 4186 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9261 Tournament chips.
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Dealt to QwertySpark [ 4s Th ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Razmazter folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Acesbrdgplyr folds [1200 Tournament chips]
+workinblum folds [185 Tournament chips]
+nycat folds [1200 Tournament chips]
+gschumacher is returned 805 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rocket454 shows [ 3h 4c ]
+gschumacher shows [ 2c 6c ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4h ] board:[ Ad 4h]
+** Dealing Flop ** [ 7h ] board:[ Ad 4h 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Ad 4h 7h Ac]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ Ad 4h 7h Ac 8c]
+        (no action in this round)
+Round 4 is over.
+Rocket454 shows [ 3h 4c ] two pair, aces and fours, eight kicker
+gschumacher shows [ 2c 6c ] a pair of aces, eight/seven kickers
+Rocket454 wins main pot 1665 Tournament chips with two pair, aces and fours, eight kicker.
+Seat 0: QwertySpark (14429 Tournament chips) 
+Seat 2: Acesbrdgplyr (12305 Tournament chips) 
+Seat 3: workinblum (185 Tournament chips) 
+Seat 5: nycat (24704 Tournament chips) 
+Seat 6: Rocket454 (1665 Tournament chips) 
+Seat 7: gschumacher (4991 Tournament chips) 
+Seat 8: Razmazter (9261 Tournament chips) 
+Game #23889790-57 ends
+Game #23889790-58 starts
+Seat 0: QwertySpark (14429 Tournament chips) 
+Seat 2: Acesbrdgplyr (12305 Tournament chips) 
+Seat 3: workinblum (185 Tournament chips) 
+Seat 5: nycat (24704 Tournament chips) 
+Seat 6: Rocket454 (1665 Tournament chips) 
+Seat 7: gschumacher (4991 Tournament chips) 
+Seat 8: Razmazter (9261 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 125 Tournament chips
+Acesbrdgplyr posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+workinblum posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+nycat posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+The button is moved to seat 6.
+gschumacher posts the small blind [600 Tournament chips]
+Razmazter posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14304 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 12180 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 60 Tournament chips.
+nycat, at seat 5, is in this hand with 24579 Tournament chips.
+Rocket454, at seat 6, is in this hand with 1540 Tournament chips.
+gschumacher, at seat 7, is in this hand with 4266 Tournament chips.
+Razmazter, at seat 8, is in this hand with 7936 Tournament chips.
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+Dealt to QwertySpark [ 7h Qc ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+QwertySpark folds [1200 Tournament chips]
+Acesbrdgplyr folds [1200 Tournament chips]
+workinblum folds [60 Tournament chips]
+nycat calls [1200 Tournament chips]
+Rocket454 folds [1200 Tournament chips]
+gschumacher folds [600 Tournament chips]
+Razmazter checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 2s ] board:[ 9h 2s]
+** Dealing Flop ** [ 3s ] board:[ 9h 2s 3s]
+Razmazter checks
+nycat checks
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 9h 2s 3s 2h]
+Razmazter checks
+nycat checks
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 9h 2s 3s 2h 8h]
+Razmazter checks
+nycat checks
+Round 4 is over.
+Razmazter shows [ 6h Ac ] a pair of deuces
+Hand evaluation for Razmazter (Ac 9h 2s 2h 8h: a pair of deuces)
+nycat shows [ 6s As ] a pair of deuces
+Hand evaluation for nycat (As 9h 2s 2h 8h: a pair of deuces)
+Razmazter wins main pot 1938 Tournament chips of a 3875 Tournament chips pot with a pair of deuces, ace/nine kickers.
+nycat wins main pot 1937 Tournament chips of a 3875 Tournament chips pot with a pair of deuces, ace/nine kickers.
+Seat 0: QwertySpark (14304 Tournament chips) 
+Seat 2: Acesbrdgplyr (12180 Tournament chips) 
+Seat 3: workinblum (60 Tournament chips) 
+Seat 4: keitht (9894 Tournament chips) 
+Seat 5: nycat (25316 Tournament chips) 
+Seat 6: Rocket454 (1540 Tournament chips) 
+Seat 7: gschumacher (4266 Tournament chips) 
+Seat 8: Razmazter (9874 Tournament chips) 
+Game #23889790-58 ends
+Game #23889790-59 starts
+Seat 0: QwertySpark (14304 Tournament chips) 
+Seat 2: Acesbrdgplyr (12180 Tournament chips) 
+Seat 3: workinblum (60 Tournament chips) 
+Seat 4: keitht (9894 Tournament chips) 
+Seat 5: nycat (25316 Tournament chips) 
+Seat 6: Rocket454 (1540 Tournament chips) 
+Seat 7: gschumacher (4266 Tournament chips) 
+Seat 8: Razmazter (9874 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 125 Tournament chips
+Acesbrdgplyr posted ante of 125 Tournament chips
+workinblum posted ante of 60 Tournament chips
+nycat posted ante of 125 Tournament chips
+keitht posted ante of 125 Tournament chips
+gschumacher posted ante of 125 Tournament chips
+Razmazter posted ante of 125 Tournament chips
+Rocket454 posted ante of 125 Tournament chips
+The button is moved to seat 7.
+Razmazter posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 12979 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 12055 Tournament chips.
+workinblum, at seat 3, is in this hand (absent) with 0 Tournament chips.
+keitht, at seat 4, is in this hand with 9769 Tournament chips.
+nycat, at seat 5, is in this hand with 25191 Tournament chips.
+Rocket454, at seat 6, is in this hand with 1415 Tournament chips.
+gschumacher, at seat 7, is in this hand with 4141 Tournament chips.
+Razmazter, at seat 8, is in this hand with 9149 Tournament chips.
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+workinblum is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Dealt to QwertySpark [ 7s 2s ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to workinblum [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Acesbrdgplyr folds [1200 Tournament chips]
+keitht folds [1200 Tournament chips]
+nycat folds [1200 Tournament chips]
+Rocket454 folds [1200 Tournament chips]
+gschumacher folds [1200 Tournament chips]
+Razmazter folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7s 2s ]
+workinblum shows [ 6d 2c ]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 7d ] board:[ Jc 7d]
+** Dealing Flop ** [ 3s ] board:[ Jc 7d 3s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ Jc 7d 3s Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Jc 7d 3s Js 7c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7s 2s ] full house, sevens full of jacks
+QwertySpark wins main pot 480 Tournament chips with full house, sevens full of jacks.
+QwertySpark wins side pot #1 1655 Tournament chips with full house, sevens full of jacks.
+Seat 0: QwertySpark (15714 Tournament chips) 
+Seat 2: Acesbrdgplyr (12055 Tournament chips) 
+Seat 3: workinblum (0 Tournament chips) 
+Seat 4: keitht (9769 Tournament chips) 
+Seat 5: nycat (25191 Tournament chips) 
+Seat 6: Rocket454 (1415 Tournament chips) 
+Seat 7: gschumacher (4141 Tournament chips) 
+Seat 8: Razmazter (9149 Tournament chips) 
+Game #23889790-59 ends
+Player workinblum leaves the table with 0 Tournament chips
+Game #23889790-60 starts
+Seat 0: QwertySpark (15714 Tournament chips) 
+Seat 2: Acesbrdgplyr (12055 Tournament chips) 
+Seat 4: keitht (9769 Tournament chips) 
+Seat 5: nycat (25191 Tournament chips) 
+Seat 6: Rocket454 (1415 Tournament chips) 
+Seat 7: gschumacher (4141 Tournament chips) 
+Seat 8: Razmazter (9149 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 150 Tournament chips
+Acesbrdgplyr posted ante of 150 Tournament chips
+nycat posted ante of 150 Tournament chips
+Rocket454 posted ante of 150 Tournament chips
+keitht posted ante of 150 Tournament chips
+gschumacher posted ante of 150 Tournament chips
+Razmazter posted ante of 150 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [800 Tournament chips]
+Acesbrdgplyr posts the big blind [1600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14764 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 10305 Tournament chips.
+keitht, at seat 4, is in this hand with 9619 Tournament chips.
+nycat, at seat 5, is in this hand with 25041 Tournament chips.
+Rocket454, at seat 6, is in this hand with 1265 Tournament chips.
+gschumacher, at seat 7, is in this hand with 3991 Tournament chips.
+Razmazter, at seat 8, is in this hand with 8999 Tournament chips.
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+Rocket454 is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+Dealt to QwertySpark [ Th Qd ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to Rocket454 [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+keitht folds [1600 Tournament chips]
+nycat calls [1600 Tournament chips]
+Rocket454 calls all-in [1265 Tournament chips]
+gschumacher folds [1600 Tournament chips]
+Razmazter folds [1600 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Acesbrdgplyr checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Jd ] board:[ 6c Jd]
+** Dealing Flop ** [ Jh ] board:[ 6c Jd Jh]
+QwertySpark checks
+Acesbrdgplyr checks
+nycat bets for 7115 Tournament chips
+QwertySpark folds [7115 Tournament chips]
+Acesbrdgplyr folds [7115 Tournament chips]
+nycat is returned 7115 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+nycat shows [ 6d 9d ]
+Rocket454 shows [ Ad Qs ]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 6c Jd Jh 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 6c Jd Jh 3c 8c]
+        (no action in this round)
+Round 4 is over.
+nycat shows [ 6d 9d ] two pair, jacks and sixes, nine kicker
+Rocket454 shows [ Ad Qs ] a pair of jacks, ace/queen kickers
+nycat wins main pot 6110 Tournament chips with two pair, jacks and sixes, nine kicker.
+nycat wins side pot #1 1005 Tournament chips with two pair, jacks and sixes, nine kicker.
+Seat 0: QwertySpark (13964 Tournament chips) 
+Seat 2: Acesbrdgplyr (10305 Tournament chips) 
+Seat 4: keitht (9619 Tournament chips) 
+Seat 5: nycat (30556 Tournament chips) 
+Seat 6: Rocket454 (0 Tournament chips) 
+Seat 7: gschumacher (3991 Tournament chips) 
+Seat 8: Razmazter (8999 Tournament chips) 
+Game #23889790-60 ends
+Player Rocket454 leaves the table with 0 Tournament chips
+Game #23889790-61 starts
+Seat 0: QwertySpark (13964 Tournament chips) 
+Seat 2: Acesbrdgplyr (10305 Tournament chips) 
+Seat 4: keitht (9619 Tournament chips) 
+Seat 5: nycat (30556 Tournament chips) 
+Seat 7: gschumacher (3991 Tournament chips) 
+Seat 8: Razmazter (8999 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 150 Tournament chips
+Acesbrdgplyr posted ante of 150 Tournament chips
+keitht posted ante of 150 Tournament chips
+nycat posted ante of 150 Tournament chips
+gschumacher posted ante of 150 Tournament chips
+Razmazter posted ante of 150 Tournament chips
+The button is moved to seat 0.
+Acesbrdgplyr posts the small blind [800 Tournament chips]
+keitht posts the big blind [1600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13814 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 9355 Tournament chips.
+keitht, at seat 4, is in this hand with 7869 Tournament chips.
+nycat, at seat 5, is in this hand with 30406 Tournament chips.
+gschumacher, at seat 7, is in this hand with 3841 Tournament chips.
+Razmazter, at seat 8, is in this hand with 8849 Tournament chips.
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Dealt to QwertySpark [ 7s Kh ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+nycat folds [1600 Tournament chips]
+gschumacher folds [1600 Tournament chips]
+Razmazter folds [1600 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+Acesbrdgplyr calls [800 Tournament chips]
+keitht checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 4c ] board:[ 8c 4c]
+** Dealing Flop ** [ Js ] board:[ 8c 4c Js]
+Acesbrdgplyr checks
+keitht checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 8c 4c Js Jh]
+Acesbrdgplyr bets for 4100 Tournament chips
+keitht raises all-in [7869 Tournament chips]
+Acesbrdgplyr folds [3769 Tournament chips]
+keitht is returned 3769 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for keitht (Ts 4h 4c Js Jh: two pair, jacks and fours)
+keitht wins main pot 12300 Tournament chips.
+Seat 0: QwertySpark (13814 Tournament chips) 
+Seat 2: Acesbrdgplyr (4455 Tournament chips) 
+Seat 4: keitht (16069 Tournament chips) 
+Seat 5: nycat (30406 Tournament chips) 
+Seat 7: gschumacher (3841 Tournament chips) 
+Seat 8: Razmazter (8849 Tournament chips) 
+Game #23889790-61 ends
+Game #23889790-62 starts
+Seat 0: QwertySpark (13814 Tournament chips) 
+Seat 2: Acesbrdgplyr (4455 Tournament chips) 
+Seat 4: keitht (16069 Tournament chips) 
+Seat 5: nycat (30406 Tournament chips) 
+Seat 7: gschumacher (3841 Tournament chips) 
+Seat 8: Razmazter (8849 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 150 Tournament chips
+Acesbrdgplyr posted ante of 150 Tournament chips
+keitht posted ante of 150 Tournament chips
+nycat posted ante of 150 Tournament chips
+gschumacher posted ante of 150 Tournament chips
+Razmazter posted ante of 150 Tournament chips
+The button is moved to seat 2.
+keitht posts the small blind [800 Tournament chips]
+nycat posts the big blind [1600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13664 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 4305 Tournament chips.
+keitht, at seat 4, is in this hand with 15119 Tournament chips.
+nycat, at seat 5, is in this hand with 28656 Tournament chips.
+gschumacher, at seat 7, is in this hand with 3691 Tournament chips.
+Razmazter, at seat 8, is in this hand with 8699 Tournament chips.
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+Dealt to QwertySpark [ 4h 4d ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+gschumacher folds [1600 Tournament chips]
+Razmazter folds [1600 Tournament chips]
+QwertySpark raises [6400 Tournament chips]
+Acesbrdgplyr folds [4305 Tournament chips]
+keitht folds [5600 Tournament chips]
+nycat folds [4800 Tournament chips]
+QwertySpark is returned 4800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (4h 4d: a pair of fours)
+QwertySpark wins main pot 4900 Tournament chips.
+Seat 0: QwertySpark (16964 Tournament chips) 
+Seat 2: Acesbrdgplyr (4305 Tournament chips) 
+Seat 4: keitht (15119 Tournament chips) 
+Seat 5: nycat (28656 Tournament chips) 
+Seat 7: gschumacher (3691 Tournament chips) 
+Seat 8: Razmazter (8699 Tournament chips) 
+Game #23889790-62 ends
+Game #23889790-63 starts
+Seat 0: QwertySpark (16964 Tournament chips) 
+Seat 2: Acesbrdgplyr (4305 Tournament chips) 
+Seat 4: keitht (15119 Tournament chips) 
+Seat 5: nycat (28656 Tournament chips) 
+Seat 7: gschumacher (3691 Tournament chips) 
+Seat 8: Razmazter (8699 Tournament chips) 
+The button is at seat 2
+Acesbrdgplyr posted ante of 150 Tournament chips
+gschumacher posted ante of 150 Tournament chips
+keitht posted ante of 150 Tournament chips
+Razmazter posted ante of 150 Tournament chips
+nycat posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+The button is moved to seat 4.
+nycat posts the small blind [800 Tournament chips]
+gschumacher posts the big blind [1600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16814 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 4155 Tournament chips.
+keitht, at seat 4, is in this hand with 14969 Tournament chips.
+nycat, at seat 5, is in this hand with 27706 Tournament chips.
+gschumacher, at seat 7, is in this hand with 1941 Tournament chips.
+Razmazter, at seat 8, is in this hand with 8549 Tournament chips.
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+Dealt to QwertySpark [ Kc 6s ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+Razmazter folds [1600 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+Acesbrdgplyr raises all-in [4155 Tournament chips]
+keitht folds [4155 Tournament chips]
+nycat folds [3355 Tournament chips]
+gschumacher folds [1941 Tournament chips]
+Acesbrdgplyr is returned 2555 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Acesbrdgplyr (Th Ks: king high)
+Acesbrdgplyr wins main pot 4900 Tournament chips.
+Seat 0: QwertySpark (16814 Tournament chips) 
+Seat 2: Acesbrdgplyr (7455 Tournament chips) 
+Seat 4: keitht (14969 Tournament chips) 
+Seat 5: nycat (27706 Tournament chips) 
+Seat 7: gschumacher (1941 Tournament chips) 
+Seat 8: Razmazter (8549 Tournament chips) 
+Game #23889790-63 ends
+Game #23889790-64 starts
+Seat 0: QwertySpark (16814 Tournament chips) 
+Seat 2: Acesbrdgplyr (7455 Tournament chips) 
+Seat 4: keitht (14969 Tournament chips) 
+Seat 5: nycat (27706 Tournament chips) 
+Seat 7: gschumacher (1941 Tournament chips) 
+Seat 8: Razmazter (8549 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 200 Tournament chips
+keitht posted ante of 200 Tournament chips
+Acesbrdgplyr posted ante of 200 Tournament chips
+nycat posted ante of 200 Tournament chips
+gschumacher posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+The button is moved to seat 5.
+gschumacher posts the small blind [1000 Tournament chips]
+Razmazter posts the big blind [2000 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16614 Tournament chips.
+Acesbrdgplyr, at seat 2, is in this hand with 7255 Tournament chips.
+keitht, at seat 4, is in this hand with 14769 Tournament chips.
+nycat, at seat 5, is in this hand with 27506 Tournament chips.
+gschumacher, at seat 7, is in this hand with 741 Tournament chips.
+Razmazter, at seat 8, is in this hand with 6349 Tournament chips.
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+gschumacher is dealt: **
+Razmazter is dealt: **
+
+Acesbrdgplyr is dealt: **
+keitht is dealt: **
+nycat is dealt: **
+Dealt to QwertySpark [ 4s Td ]
+Dealt to Acesbrdgplyr [ **** ]
+Dealt to keitht [ **** ]
+Dealt to nycat [ **** ]
+Dealt to gschumacher [ **** ]
+Dealt to Razmazter [ **** ]
+QwertySpark folds [2000 Tournament chips]
+Acesbrdgplyr folds [2000 Tournament chips]
+keitht folds [2000 Tournament chips]
+nycat calls [2000 Tournament chips]
+gschumacher calls all-in [741 Tournament chips]
+Razmazter checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 8c ] board:[ Kh 8c]
+** Dealing Flop ** [ 6d ] board:[ Kh 8c 6d]
+Razmazter checks
+nycat bets for 4000 Tournament chips
+Razmazter folds [4000 Tournament chips]
+nycat is returned 4000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+nycat shows [ Qc 9d ]
+gschumacher shows [ 2h 6h ]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Kh 8c 6d Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Kh 8c 6d Qd As]
+        (no action in this round)
+Round 4 is over.
+nycat shows [ Qc 9d ] a pair of queens, ace/king kickers
+gschumacher shows [ 2h 6h ] a pair of sixes, ace/king kickers
+nycat wins main pot 6423 Tournament chips with a pair of queens, ace/king kickers.
+nycat wins side pot #1 518 Tournament chips with a pair of queens, ace/king kickers.
+Seat 0: QwertySpark (16614 Tournament chips) 
+Seat 2: Acesbrdgplyr (7255 Tournament chips) 
+Seat 4: keitht (14769 Tournament chips) 
+Seat 5: nycat (32447 Tournament chips) 
+Seat 7: gschumacher (0 Tournament chips) 
+Seat 8: Razmazter (6349 Tournament chips) 
+Game #23889790-64 ends
+Player gschumacher leaves the table with 0 Tournament chips
+Player nycat leaves the table with 32447 Tournament chips
+Player QwertySpark leaves the table with 16614 Tournament chips
+Player Acesbrdgplyr leaves the table with 7255 Tournament chips

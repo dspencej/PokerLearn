@@ -1,0 +1,128 @@
+Game#: 23915008
+Cecil25 is dealt: **
+ManOfSeel is dealt: **
+Jdasky is dealt: **
+snakehunter14 is dealt: **
+QwertySpark is dealt: 8s
+The button is moved to seat 5.
+Game #23915008-1 starts
+Seat 1: Cecil25 (2500 Tournament chips) 
+Seat 2: ManOfSeel (2270 Tournament chips) 
+Seat 5: Jdasky (2500 Tournament chips) 
+Seat 6: snakehunter14 (2500 Tournament chips) 
+Seat 8: QwertySpark (2500 Tournament chips) 
+The button is at seat 5
+snakehunter14 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+Cecil25, at seat 1, is in this hand with 2500 Tournament chips.
+ManOfSeel, at seat 2, is in this hand with 2270 Tournament chips.
+Jdasky, at seat 5, is in this hand with 2500 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2495 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2490 Tournament chips.
+snakehunter14 is dealt: **
+
+Cecil25 is dealt: **
+ManOfSeel is dealt: **
+Jdasky is dealt: **
+snakehunter14 is dealt: **
+
+Cecil25 is dealt: **
+ManOfSeel is dealt: **
+Jdasky is dealt: **
+Dealt to Cecil25 [ **** ]
+Dealt to ManOfSeel [ **** ]
+Dealt to Jdasky [ **** ]
+Dealt to snakehunter14 [ **** ]
+Dealt to QwertySpark [ 9s 2c ]
+Cecil25 calls [10 Tournament chips]
+ManOfSeel calls [10 Tournament chips]
+Jdasky folds [10 Tournament chips]
+snakehunter14 folds [5 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ As ] board:[ 4h As]
+** Dealing Flop ** [ Js ] board:[ 4h As Js]
+QwertySpark checks
+Cecil25 bets for 10 Tournament chips
+ManOfSeel folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Cecil25 is returned 10 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Cecil25 (Ad 6s 4h As Js: a pair of aces)
+Cecil25 wins main pot 35 Tournament chips.
+Seat 1: Cecil25 (2525 Tournament chips) 
+Seat 2: ManOfSeel (2260 Tournament chips) 
+Seat 3: spanky75 (2500 Tournament chips) 
+Seat 5: Jdasky (2500 Tournament chips) 
+Seat 6: snakehunter14 (2495 Tournament chips) 
+Seat 7: Eltipo23 (2500 Tournament chips) 
+Seat 8: QwertySpark (2490 Tournament chips) 
+Game #23915008-1 ends
+Game #23915008-2 starts
+Seat 1: Cecil25 (2525 Tournament chips) 
+Seat 2: ManOfSeel (2260 Tournament chips) 
+Seat 3: spanky75 (2500 Tournament chips) 
+Seat 5: Jdasky (2500 Tournament chips) 
+Seat 6: snakehunter14 (2495 Tournament chips) 
+Seat 7: Eltipo23 (2500 Tournament chips) 
+Seat 8: QwertySpark (2490 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [5 Tournament chips]
+Cecil25 posts the big blind [10 Tournament chips]
+Cecil25, at seat 1, is in this hand with 2515 Tournament chips.
+ManOfSeel, at seat 2, is in this hand with 2260 Tournament chips.
+spanky75, at seat 3, is in this hand with 2500 Tournament chips.
+Jdasky, at seat 5, is in this hand with 2500 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2495 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2485 Tournament chips.
+
+Cecil25 is dealt: **
+ManOfSeel is dealt: **
+spanky75 is dealt: **
+Jdasky is dealt: **
+snakehunter14 is dealt: **
+
+Cecil25 is dealt: **
+ManOfSeel is dealt: **
+spanky75 is dealt: **
+Jdasky is dealt: **
+snakehunter14 is dealt: **
+Dealt to Cecil25 [ **** ]
+Dealt to ManOfSeel [ **** ]
+Dealt to spanky75 [ **** ]
+Dealt to Jdasky [ **** ]
+Dealt to snakehunter14 [ **** ]
+Dealt to QwertySpark [ 4h Tc ]
+ManOfSeel folds [10 Tournament chips]
+spanky75 folds [10 Tournament chips]
+Jdasky raises [20 Tournament chips]
+snakehunter14 calls [20 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+Cecil25 calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Ah ] board:[ 3c Ah]
+** Dealing Flop ** [ 5d ] board:[ 3c Ah 5d]
+Cecil25 checks
+Jdasky bets for 65 Tournament chips
+snakehunter14 folds [65 Tournament chips]
+Cecil25 folds [65 Tournament chips]
+Jdasky is returned 65 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Jdasky (Ac Ts 3c Ah 5d: a pair of aces)
+Jdasky wins main pot 65 Tournament chips.
+Seat 0: shark9shark (2490 Tournament chips) 
+Seat 1: Cecil25 (2505 Tournament chips) 
+Seat 2: ManOfSeel (2260 Tournament chips) 
+Seat 3: spanky75 (2500 Tournament chips) 
+Seat 4: Brewster9 (2500 Tournament chips) 
+Seat 5: Jdasky (2545 Tournament chips) 
+Seat 6: snakehunter14 (2475 Tournament chips) 
+Seat 7: Eltipo23 (2500 Tournament chips) 
+Seat 8: QwertySpark (2485 Tournament chips) 
+Game #23915008-2 ends
+Player QwertySpark leaves the table with 2485 Tournament chips
+Player ManOfSeel leaves the table with 2260 Tournament chips
+Player spanky75 leaves the table with 2500 Tournament chips

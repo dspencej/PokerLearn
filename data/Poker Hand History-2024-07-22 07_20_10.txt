@@ -1,0 +1,714 @@
+Game#: 23939873
+QwertySpark is dealt: 4h
+professorace is dealt: **
+The button is moved to seat 1.
+Game #23939873-1 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: professorace (2000 Tournament chips) 
+The button is at seat 1
+professorace posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1980 Tournament chips.
+professorace, at seat 1, is in this hand with 1990 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ Ah Tc ]
+Dealt to professorace [ **** ]
+professorace calls [10 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+professorace folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ah Tc: ace high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (2020 Tournament chips) 
+Seat 1: professorace (1980 Tournament chips) 
+Game #23939873-1 ends
+Game #23939873-2 starts
+Seat 0: QwertySpark (2020 Tournament chips) 
+Seat 1: professorace (1980 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+professorace posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2010 Tournament chips.
+professorace, at seat 1, is in this hand with 1960 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ 2h 2s ]
+Dealt to professorace [ **** ]
+QwertySpark raises [90 Tournament chips]
+professorace calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Kd ] board:[ Qc Kd]
+** Dealing Flop ** [ 7d ] board:[ Qc Kd 7d]
+professorace checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ Qc Kd 7d Kh]
+professorace bets for 20 Tournament chips
+QwertySpark raises [260 Tournament chips]
+professorace folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (2h 2s Qc Kd Kh: two pair, kings and deuces)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: QwertySpark (2140 Tournament chips) 
+Seat 1: professorace (1860 Tournament chips) 
+Game #23939873-2 ends
+Game #23939873-3 starts
+Seat 0: QwertySpark (2140 Tournament chips) 
+Seat 1: professorace (1860 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2120 Tournament chips.
+professorace, at seat 1, is in this hand with 1850 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 6s Qc ]
+Dealt to professorace [ **** ]
+professorace raises [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Js ] board:[ 7c Js]
+** Dealing Flop ** [ 5s ] board:[ 7c Js 5s]
+QwertySpark checks
+professorace checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 7c Js 5s 3c]
+QwertySpark bets for 100 Tournament chips
+professorace calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 7c Js 5s 3c 5d]
+QwertySpark bets for 260 Tournament chips
+professorace calls [260 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 6s Qc ] a pair of fives
+Hand evaluation for QwertySpark (Qc 7c Js 5s 5d: a pair of fives)
+professorace doesn't show [ 9h Ts ]
+(professorace has 9h Ts.)
+QwertySpark wins main pot 800 Tournament chips with a pair of fives, queen/jack kickers.
+Seat 0: QwertySpark (2540 Tournament chips) 
+Seat 1: professorace (1460 Tournament chips) 
+Game #23939873-3 ends
+Game #23939873-4 starts
+Seat 0: QwertySpark (2540 Tournament chips) 
+Seat 1: professorace (1460 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+professorace posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2530 Tournament chips.
+professorace, at seat 1, is in this hand with 1440 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ 3s 5h ]
+Dealt to professorace [ **** ]
+QwertySpark folds [10 Tournament chips]
+professorace is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for professorace (Tc 5c: ten high)
+professorace wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (2530 Tournament chips) 
+Seat 1: professorace (1470 Tournament chips) 
+Game #23939873-4 ends
+Game #23939873-5 starts
+Seat 0: QwertySpark (2530 Tournament chips) 
+Seat 1: professorace (1470 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2510 Tournament chips.
+professorace, at seat 1, is in this hand with 1460 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ Qh 7s ]
+Dealt to professorace [ **** ]
+professorace raises [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Qc ] board:[ 6h Qc]
+** Dealing Flop ** [ 5d ] board:[ 6h Qc 5d]
+QwertySpark bets for 20 Tournament chips
+professorace calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 6h Qc 5d 2s]
+QwertySpark bets for 120 Tournament chips
+professorace calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 6h Qc 5d 2s 3s]
+QwertySpark bets for 180 Tournament chips
+professorace calls [180 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Qh 7s ] a pair of queens
+Hand evaluation for QwertySpark (Qh 7s 6h Qc 5d: a pair of queens)
+professorace doesn't show [ Ts Jh ]
+(professorace has Ts Jh.)
+QwertySpark wins main pot 720 Tournament chips with a pair of queens, seven/six kickers.
+Seat 0: QwertySpark (2890 Tournament chips) 
+Seat 1: professorace (1110 Tournament chips) 
+Game #23939873-5 ends
+Game #23939873-6 starts
+Seat 0: QwertySpark (2890 Tournament chips) 
+Seat 1: professorace (1110 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+professorace posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2880 Tournament chips.
+professorace, at seat 1, is in this hand with 1090 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ Ts 6s ]
+Dealt to professorace [ **** ]
+QwertySpark calls [10 Tournament chips]
+professorace checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 2c ] board:[ Qc 2c]
+** Dealing Flop ** [ Tc ] board:[ Qc 2c Tc]
+professorace checks
+QwertySpark bets for 60 Tournament chips
+professorace folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ts 6s Qc 2c Tc: a pair of tens)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (2910 Tournament chips) 
+Seat 1: professorace (1090 Tournament chips) 
+Game #23939873-6 ends
+Game #23939873-7 starts
+Seat 0: QwertySpark (2910 Tournament chips) 
+Seat 1: professorace (1090 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2890 Tournament chips.
+professorace, at seat 1, is in this hand with 1080 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 8d 6d ]
+Dealt to professorace [ **** ]
+professorace calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Ad ] board:[ 4s Ad]
+** Dealing Flop ** [ Jh ] board:[ 4s Ad Jh]
+QwertySpark checks
+professorace bets for 20 Tournament chips
+QwertySpark folds [20 Tournament chips]
+professorace is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for professorace (7s Ks 4s Ad Jh: ace high)
+professorace wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (2890 Tournament chips) 
+Seat 1: professorace (1110 Tournament chips) 
+Game #23939873-7 ends
+Game #23939873-8 starts
+Seat 0: QwertySpark (2890 Tournament chips) 
+Seat 1: professorace (1110 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+professorace posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2880 Tournament chips.
+professorace, at seat 1, is in this hand with 1090 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ 6c 6d ]
+Dealt to professorace [ **** ]
+QwertySpark raises [90 Tournament chips]
+professorace re-raises [160 Tournament chips]
+QwertySpark raises all-in [2790 Tournament chips]
+professorace calls all-in [930 Tournament chips]
+QwertySpark is returned 1780 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6c 6d ]
+professorace shows [ 7h 7d ]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Ad ] board:[ 4h Ad]
+** Dealing Flop ** [ 2d ] board:[ 4h Ad 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 4h Ad 2d 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 4h Ad 2d 9s 5d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 6c 6d ] a pair of sixes, ace/nine kickers
+professorace shows [ 7h 7d ] a pair of sevens, ace/nine kickers
+professorace wins main pot 2220 Tournament chips with a pair of sevens, ace/nine kickers.
+Seat 0: QwertySpark (1780 Tournament chips) 
+Seat 1: professorace (2220 Tournament chips) 
+Game #23939873-8 ends
+Game #23939873-9 starts
+Seat 0: QwertySpark (1780 Tournament chips) 
+Seat 1: professorace (2220 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1760 Tournament chips.
+professorace, at seat 1, is in this hand with 2210 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 8h 6d ]
+Dealt to professorace [ **** ]
+professorace calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Kd ] board:[ 3c Kd]
+** Dealing Flop ** [ Ts ] board:[ 3c Kd Ts]
+QwertySpark bets for 20 Tournament chips
+professorace calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 3c Kd Ts 3d]
+QwertySpark checks
+professorace bets for 20 Tournament chips
+QwertySpark raises [80 Tournament chips]
+professorace calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3c Kd Ts 3d Ac]
+QwertySpark checks
+professorace checks
+Round 4 is over.
+QwertySpark shows [ 8h 6d ] a pair of threes
+Hand evaluation for QwertySpark (3c Kd Ts 3d Ac: a pair of threes)
+professorace shows [ Jh 6h ] a pair of threes
+Hand evaluation for professorace (Jh 3c Kd 3d Ac: a pair of threes)
+professorace wins main pot 240 Tournament chips with a pair of threes, ace/king kickers.
+Seat 0: QwertySpark (1660 Tournament chips) 
+Seat 1: professorace (2340 Tournament chips) 
+Game #23939873-9 ends
+Game #23939873-10 starts
+Seat 0: QwertySpark (1660 Tournament chips) 
+Seat 1: professorace (2340 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+professorace posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1650 Tournament chips.
+professorace, at seat 1, is in this hand with 2320 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ 8s 9s ]
+Dealt to professorace [ **** ]
+QwertySpark calls [10 Tournament chips]
+professorace checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Kh ] board:[ Td Kh]
+** Dealing Flop ** [ 5d ] board:[ Td Kh 5d]
+professorace checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Td Kh 5d 8h]
+professorace checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Td Kh 5d 8h 7s]
+professorace checks
+QwertySpark bets for 100 Tournament chips
+professorace folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (8s 9s Td Kh 8h: a pair of eights)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (1680 Tournament chips) 
+Seat 1: professorace (2320 Tournament chips) 
+Game #23939873-10 ends
+Game #23939873-11 starts
+Seat 0: QwertySpark (1680 Tournament chips) 
+Seat 1: professorace (2320 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1650 Tournament chips.
+professorace, at seat 1, is in this hand with 2305 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 8s 3h ]
+Dealt to professorace [ **** ]
+professorace folds [15 Tournament chips]
+QwertySpark is returned 15 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8s 3h: eight high)
+QwertySpark wins main pot 30 Tournament chips.
+Seat 0: QwertySpark (1695 Tournament chips) 
+Seat 1: professorace (2305 Tournament chips) 
+Game #23939873-11 ends
+Game #23939873-12 starts
+Seat 0: QwertySpark (1695 Tournament chips) 
+Seat 1: professorace (2305 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+professorace posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1680 Tournament chips.
+professorace, at seat 1, is in this hand with 2275 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ 6c 2s ]
+Dealt to professorace [ **** ]
+QwertySpark calls [15 Tournament chips]
+professorace checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Jd ] board:[ Ts Jd]
+** Dealing Flop ** [ Ad ] board:[ Ts Jd Ad]
+professorace checks
+QwertySpark bets for 120 Tournament chips
+professorace calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Ts Jd Ad 4h]
+professorace checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Ts Jd Ad 4h 3h]
+professorace checks
+QwertySpark checks
+Round 4 is over.
+professorace shows [ 7d Kd ] ace high
+Hand evaluation for professorace (7d Kd Ts Jd Ad: ace high)
+QwertySpark doesn't show [ 6c 2s ]
+(QwertySpark has 6c 2s.)
+professorace wins main pot 300 Tournament chips with ace/king/jack high.
+Seat 0: QwertySpark (1545 Tournament chips) 
+Seat 1: professorace (2455 Tournament chips) 
+Game #23939873-12 ends
+Game #23939873-13 starts
+Seat 0: QwertySpark (1545 Tournament chips) 
+Seat 1: professorace (2455 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+professorace, at seat 1, is in this hand with 2440 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ Kd Ks ]
+Dealt to professorace [ **** ]
+professorace raises [45 Tournament chips]
+QwertySpark re-raises [90 Tournament chips]
+professorace calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 4d ] board:[ 3s 4d]
+** Dealing Flop ** [ Th ] board:[ 3s 4d Th]
+QwertySpark bets for 120 Tournament chips
+professorace calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 3s 4d Th Td]
+QwertySpark checks
+professorace bets for 60 Tournament chips
+QwertySpark calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 3s 4d Th Td Qc]
+QwertySpark bets for 180 Tournament chips
+professorace calls [180 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Kd Ks ] two pair, kings and tens
+Hand evaluation for QwertySpark (Kd Ks Th Td Qc: two pair, kings and tens)
+professorace doesn't show [ Jc Kc ]
+(professorace has Jc Kc.)
+QwertySpark wins main pot 960 Tournament chips with two pair, kings and tens, queen kicker.
+Seat 0: QwertySpark (2025 Tournament chips) 
+Seat 1: professorace (1975 Tournament chips) 
+Game #23939873-13 ends
+Game #23939873-14 starts
+Seat 0: QwertySpark (2025 Tournament chips) 
+Seat 1: professorace (1975 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+professorace posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2010 Tournament chips.
+professorace, at seat 1, is in this hand with 1945 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ Qc Kd ]
+Dealt to professorace [ **** ]
+QwertySpark raises [105 Tournament chips]
+professorace calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ As ] board:[ 9s As]
+** Dealing Flop ** [ Jd ] board:[ 9s As Jd]
+professorace bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 9s As Jd 9c]
+professorace bets for 90 Tournament chips
+QwertySpark calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 9s As Jd 9c Qs]
+professorace bets for 90 Tournament chips
+QwertySpark calls [90 Tournament chips]
+Round 4 is over.
+professorace shows [ Ac 4h ] two pair, aces and nines
+Hand evaluation for professorace (Ac 9s As 9c Qs: two pair, aces and nines)
+QwertySpark doesn't show [ Qc Kd ]
+(QwertySpark has Qc Kd.)
+professorace wins main pot 660 Tournament chips with two pair, aces and nines, queen kicker.
+Seat 0: QwertySpark (1695 Tournament chips) 
+Seat 1: professorace (2305 Tournament chips) 
+Game #23939873-14 ends
+Game #23939873-15 starts
+Seat 0: QwertySpark (1695 Tournament chips) 
+Seat 1: professorace (2305 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1665 Tournament chips.
+professorace, at seat 1, is in this hand with 2290 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ Kc 4d ]
+Dealt to professorace [ **** ]
+professorace calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Ac ] board:[ Ad Ac]
+** Dealing Flop ** [ 7d ] board:[ Ad Ac 7d]
+QwertySpark bets for 60 Tournament chips
+professorace folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc 4d Ad Ac 7d: a pair of aces)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: QwertySpark (1725 Tournament chips) 
+Seat 1: professorace (2275 Tournament chips) 
+Game #23939873-15 ends
+Game #23939873-16 starts
+Seat 0: QwertySpark (1725 Tournament chips) 
+Seat 1: professorace (2275 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+professorace posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1710 Tournament chips.
+professorace, at seat 1, is in this hand with 2245 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ Kd 5s ]
+Dealt to professorace [ **** ]
+QwertySpark raises [75 Tournament chips]
+professorace folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kd 5s: king high)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: QwertySpark (1755 Tournament chips) 
+Seat 1: professorace (2245 Tournament chips) 
+Game #23939873-16 ends
+Game #23939873-17 starts
+Seat 0: QwertySpark (1755 Tournament chips) 
+Seat 1: professorace (2245 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1725 Tournament chips.
+professorace, at seat 1, is in this hand with 2230 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ Qh Jc ]
+Dealt to professorace [ **** ]
+professorace raises [105 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 6c ] board:[ 7c 6c]
+** Dealing Flop ** [ 8h ] board:[ 7c 6c 8h]
+QwertySpark checks
+professorace bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+professorace is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for professorace (8d 6s 7c 6c 8h: two pair, eights and sixes)
+professorace wins main pot 240 Tournament chips.
+Seat 0: QwertySpark (1635 Tournament chips) 
+Seat 1: professorace (2365 Tournament chips) 
+Game #23939873-17 ends
+Game #23939873-18 starts
+Seat 0: QwertySpark (1635 Tournament chips) 
+Seat 1: professorace (2365 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+professorace posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1620 Tournament chips.
+professorace, at seat 1, is in this hand with 2335 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ Kd 4h ]
+Dealt to professorace [ **** ]
+QwertySpark raises [105 Tournament chips]
+professorace calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 8s ] board:[ As 8s]
+** Dealing Flop ** [ 4c ] board:[ As 8s 4c]
+professorace checks
+QwertySpark bets for 90 Tournament chips
+professorace folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kd 4h As 8s 4c: a pair of fours)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: QwertySpark (1755 Tournament chips) 
+Seat 1: professorace (2245 Tournament chips) 
+Game #23939873-18 ends
+Game #23939873-19 starts
+Seat 0: QwertySpark (1755 Tournament chips) 
+Seat 1: professorace (2245 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1725 Tournament chips.
+professorace, at seat 1, is in this hand with 2230 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 8c Qh ]
+Dealt to professorace [ **** ]
+professorace folds [15 Tournament chips]
+QwertySpark is returned 15 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8c Qh: queen high)
+QwertySpark wins main pot 30 Tournament chips.
+Seat 0: QwertySpark (1770 Tournament chips) 
+Seat 1: professorace (2230 Tournament chips) 
+Game #23939873-19 ends
+Game #23939873-20 starts
+Seat 0: QwertySpark (1770 Tournament chips) 
+Seat 1: professorace (2230 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+professorace posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1755 Tournament chips.
+professorace, at seat 1, is in this hand with 2200 Tournament chips.
+professorace is dealt: **
+
+professorace is dealt: **
+
+Dealt to QwertySpark [ Tc 2c ]
+Dealt to professorace [ **** ]
+QwertySpark calls [15 Tournament chips]
+professorace checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Kc ] board:[ 7s Kc]
+** Dealing Flop ** [ Kh ] board:[ 7s Kc Kh]
+professorace bets for 30 Tournament chips
+QwertySpark folds [30 Tournament chips]
+professorace is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for professorace (Qh 3d 7s Kc Kh: a pair of kings)
+professorace wins main pot 60 Tournament chips.
+Seat 0: QwertySpark (1740 Tournament chips) 
+Seat 1: professorace (2260 Tournament chips) 
+Game #23939873-20 ends
+Game #23939873-21 starts
+Seat 0: QwertySpark (1740 Tournament chips) 
+Seat 1: professorace (2260 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+professorace posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1710 Tournament chips.
+professorace, at seat 1, is in this hand with 2245 Tournament chips.
+
+professorace is dealt: **
+
+professorace is dealt: **
+Dealt to QwertySpark [ 6c 2h ]
+Dealt to professorace [ **** ]
+professorace calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 3s ] board:[ 5c 3s]
+** Dealing Flop ** [ 8d ] board:[ 5c 3s 8d]
+QwertySpark checks
+professorace bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 5c 3s 8d 4c]
+QwertySpark checks
+professorace bets for 60 Tournament chips
+QwertySpark calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 5c 3s 8d 4c Qs]
+QwertySpark bets for 240 Tournament chips
+professorace raises [480 Tournament chips]
+QwertySpark re-raises [690 Tournament chips]
+professorace re-raises [900 Tournament chips]
+QwertySpark raises all-in [690 Tournament chips]
+professorace calls [240 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6c 2h ]
+professorace shows [ 7h 6h ]
+Round 4 is over.
+QwertySpark shows [ 6c 2h ] straight, six high
+professorace shows [ 7h 6h ] straight, eight high
+professorace wins main pot 3480 Tournament chips with straight, eight high.
+Seat 0: QwertySpark (0 Tournament chips) 
+Seat 1: professorace (4000 Tournament chips) 
+Game #23939873-21 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player professorace leaves the table with 4000 Tournament chips

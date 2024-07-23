@@ -1,0 +1,201 @@
+Game#: 23979961
+Trupokplayer folds [50 Tournament chips]
+topcattexbamf calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 3h ] board:[ 2h 3h]
+** Dealing Flop ** [ Tc ] board:[ 2h 3h Tc]
+Buckeye1992 bets for 40 Tournament chips
+bryonne2 raises [80 Tournament chips]
+topcattexbamf folds [80 Tournament chips]
+Buckeye1992 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 2h 3h Tc 8d]
+Buckeye1992 checks
+bryonne2 checks
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 2h 3h Tc 8d 4c]
+Buckeye1992 checks
+bryonne2 checks
+Round 4 is over.
+Buckeye1992 shows [ As Qh ] ace high
+Hand evaluation for Buckeye1992 (As Qh Tc 8d 4c: ace high)
+bryonne2 shows [ Js 3c ] a pair of threes
+Hand evaluation for bryonne2 (Js 3c 3h Tc 8d: a pair of threes)
+bryonne2 wins main pot 590 Tournament chips with a pair of threes, jack/ten kickers.
+Seat 0: moneymom3 (970 Tournament chips) 
+Seat 1: topcattexbamf (880 Tournament chips) 
+Seat 3: Buckeye1992 (770 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: bryonne2 (1280 Tournament chips) 
+Seat 6: davehub (1000 Tournament chips) 
+Seat 7: Trupokplayer (1525 Tournament chips) 
+Seat 8: chesterman01 (1000 Tournament chips) 
+Game #23979961-5 ends
+Game #23979961-6 starts
+Seat 0: moneymom3 (970 Tournament chips) 
+Seat 1: topcattexbamf (880 Tournament chips) 
+Seat 3: Buckeye1992 (770 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: bryonne2 (1280 Tournament chips) 
+Seat 6: davehub (1000 Tournament chips) 
+Seat 7: Trupokplayer (1525 Tournament chips) 
+Seat 8: chesterman01 (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+bryonne2 posts the small blind [10 Tournament chips]
+davehub posts the big blind [20 Tournament chips]
+moneymom3, at seat 0, is in this hand (absent) with 970 Tournament chips.
+topcattexbamf, at seat 1, is in this hand with 880 Tournament chips.
+Buckeye1992, at seat 3, is in this hand with 770 Tournament chips.
+bryonne2, at seat 5, is in this hand with 1270 Tournament chips.
+davehub, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Trupokplayer, at seat 7, is in this hand with 1525 Tournament chips.
+chesterman01, at seat 8, is in this hand with 1000 Tournament chips.
+bryonne2 is dealt: **
+davehub is dealt: **
+Trupokplayer is dealt: **
+chesterman01 is dealt: **
+moneymom3 is dealt: **
+topcattexbamf is dealt: **
+Buckeye1992 is dealt: **
+bryonne2 is dealt: **
+davehub is dealt: **
+Trupokplayer is dealt: **
+chesterman01 is dealt: **
+moneymom3 is dealt: **
+topcattexbamf is dealt: **
+Buckeye1992 is dealt: **
+Dealt to moneymom3 [ **** ]
+Dealt to topcattexbamf [ **** ]
+Dealt to Buckeye1992 [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to davehub [ **** ]
+Dealt to Trupokplayer [ **** ]
+Dealt to chesterman01 [ **** ]
+Trupokplayer folds [20 Tournament chips]
+chesterman01 folds [20 Tournament chips]
+moneymom3 folds [20 Tournament chips]
+topcattexbamf calls [20 Tournament chips]
+Buckeye1992 folds [20 Tournament chips]
+bryonne2 calls [10 Tournament chips]
+davehub folds
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Kc ] board:[ Tc Kc]
+** Dealing Flop ** [ 5s ] board:[ Tc Kc 5s]
+bryonne2 checks
+topcattexbamf checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Tc Kc 5s Qd]
+bryonne2 bets for 20 Tournament chips
+topcattexbamf folds [20 Tournament chips]
+bryonne2 is returned 20 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bryonne2 (Th Tc Kc 5s Qd: a pair of tens)
+bryonne2 wins main pot 60 Tournament chips.
+Seat 0: moneymom3 (970 Tournament chips) 
+Seat 1: topcattexbamf (860 Tournament chips) 
+Seat 3: Buckeye1992 (770 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: bryonne2 (1320 Tournament chips) 
+Seat 6: davehub (980 Tournament chips) 
+Seat 7: Trupokplayer (1525 Tournament chips) 
+Seat 8: chesterman01 (1000 Tournament chips) 
+Game #23979961-6 ends
+Game #23979961-7 starts
+Seat 0: moneymom3 (970 Tournament chips) 
+Seat 1: topcattexbamf (860 Tournament chips) 
+Seat 3: Buckeye1992 (770 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: bryonne2 (1320 Tournament chips) 
+Seat 6: davehub (980 Tournament chips) 
+Seat 7: Trupokplayer (1525 Tournament chips) 
+Seat 8: chesterman01 (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+davehub posts the small blind [10 Tournament chips]
+Trupokplayer posts the big blind [20 Tournament chips]
+moneymom3, at seat 0, is in this hand (absent) with 970 Tournament chips.
+topcattexbamf, at seat 1, is in this hand with 860 Tournament chips.
+Buckeye1992, at seat 3, is in this hand with 770 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1000 Tournament chips.
+bryonne2, at seat 5, is in this hand with 1320 Tournament chips.
+davehub, at seat 6, is in this hand (absent) with 970 Tournament chips.
+Trupokplayer, at seat 7, is in this hand with 1505 Tournament chips.
+chesterman01, at seat 8, is in this hand with 1000 Tournament chips.
+davehub is dealt: **
+Trupokplayer is dealt: **
+chesterman01 is dealt: **
+moneymom3 is dealt: **
+topcattexbamf is dealt: **
+Buckeye1992 is dealt: **
+
+bryonne2 is dealt: **
+davehub is dealt: **
+Trupokplayer is dealt: **
+chesterman01 is dealt: **
+moneymom3 is dealt: **
+topcattexbamf is dealt: **
+Buckeye1992 is dealt: **
+
+bryonne2 is dealt: **
+Dealt to moneymom3 [ **** ]
+Dealt to topcattexbamf [ **** ]
+Dealt to Buckeye1992 [ **** ]
+Dealt to QwertySpark [ Ks 2s ]
+Dealt to bryonne2 [ **** ]
+Dealt to davehub [ **** ]
+Dealt to Trupokplayer [ **** ]
+Dealt to chesterman01 [ **** ]
+chesterman01 folds [20 Tournament chips]
+moneymom3 folds [20 Tournament chips]
+topcattexbamf raises [70 Tournament chips]
+Buckeye1992 folds [70 Tournament chips]
+QwertySpark calls [70 Tournament chips]
+bryonne2 calls [70 Tournament chips]
+davehub folds [60 Tournament chips]
+Trupokplayer calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 9d ] board:[ 6h 9d]
+** Dealing Flop ** [ Kc ] board:[ 6h 9d Kc]
+Trupokplayer checks
+topcattexbamf checks
+QwertySpark bets for 165 Tournament chips
+bryonne2 calls [165 Tournament chips]
+Trupokplayer calls [165 Tournament chips]
+topcattexbamf calls [165 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 6h 9d Kc 5s]
+Trupokplayer checks
+topcattexbamf checks
+QwertySpark goes all-in for 765 Tournament chips
+bryonne2 raises all-in [1085 Tournament chips]
+Trupokplayer raises all-in [1290 Tournament chips]
+topcattexbamf folds [625 Tournament chips]
+Trupokplayer is returned 205 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ks 2s ]
+bryonne2 shows [ 7c 4d ]
+Trupokplayer shows [ Tc Kh ]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 6h 9d Kc 5s Ts]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ks 2s ] a pair of kings, ten/nine kickers
+bryonne2 shows [ 7c 4d ] king/ten/nine high
+Trupokplayer shows [ Tc Kh ] two pair, kings and tens, nine kicker
+Trupokplayer wins main pot 3245 Tournament chips with two pair, kings and tens, nine kicker.
+Trupokplayer wins side pot #1 640 Tournament chips with two pair, kings and tens, nine kicker.
+Seat 0: moneymom3 (970 Tournament chips) 
+Seat 1: topcattexbamf (625 Tournament chips) 
+Seat 3: Buckeye1992 (770 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: bryonne2 (0 Tournament chips) 
+Seat 6: davehub (970 Tournament chips) 
+Seat 7: Trupokplayer (4090 Tournament chips) 
+Seat 8: chesterman01 (1000 Tournament chips) 
+Game #23979961-7 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player bryonne2 leaves the table with 0 Tournament chips

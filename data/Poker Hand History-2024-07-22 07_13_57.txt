@@ -1,0 +1,955 @@
+Game#: 23986191
+EPM6056 folds [10 Tournament chips]
+richkitty folds [10 Tournament chips]
+ScottVDH folds [5 Tournament chips]
+ninerpat49 folds
+round 1 is over.
+Hand evaluation for collector1954 (4h 6c: six high)
+collector1954 wins main pot 25 Tournament chips.
+Seat 0: collector1954 (1950 Tournament chips) 
+Seat 1: Yawwho (2000 Tournament chips) 
+Seat 2: EPM6056 (2000 Tournament chips) 
+Seat 3: richkitty (1995 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1990 Tournament chips) 
+Seat 7: Wall2 (2000 Tournament chips) 
+Seat 8: QwertySpark (2000 Tournament chips) 
+Game #23986191-2 ends
+Player richkitty leaves the table with 1995 Tournament chips
+Game #23986191-3 starts
+Seat 0: collector1954 (1950 Tournament chips) 
+Seat 1: Yawwho (2000 Tournament chips) 
+Seat 2: EPM6056 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1990 Tournament chips) 
+Seat 7: Wall2 (2000 Tournament chips) 
+Seat 8: QwertySpark (2000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+ninerpat49 posts the small blind [5 Tournament chips]
+Wall2 posts the big blind [10 Tournament chips]
+collector1954, at seat 0, is in this hand with 1950 Tournament chips.
+Yawwho, at seat 1, is in this hand with 2000 Tournament chips.
+EPM6056, at seat 2, is in this hand with 2000 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+ninerpat49, at seat 6, is in this hand (absent) with 1985 Tournament chips.
+Wall2, at seat 7, is in this hand (absent) with 1990 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2000 Tournament chips.
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+ScottVDH is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+ScottVDH is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 3s 2d ]
+QwertySpark folds [10 Tournament chips]
+collector1954 calls [10 Tournament chips]
+Yawwho folds [10 Tournament chips]
+EPM6056 folds [10 Tournament chips]
+ScottVDH folds [10 Tournament chips]
+ninerpat49 calls [5 Tournament chips]
+Wall2 folds
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Kc ] board:[ 3c Kc]
+** Dealing Flop ** [ Tc ] board:[ 3c Kc Tc]
+ninerpat49 checks
+collector1954 bets for 30 Tournament chips
+ninerpat49 folds [30 Tournament chips]
+collector1954 is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for collector1954 (6c Js 3c Kc Tc: king high)
+collector1954 wins main pot 30 Tournament chips.
+Seat 0: collector1954 (1970 Tournament chips) 
+Seat 1: Yawwho (2000 Tournament chips) 
+Seat 2: EPM6056 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1990 Tournament chips) 
+Seat 8: QwertySpark (2000 Tournament chips) 
+Game #23986191-3 ends
+Game #23986191-4 starts
+Seat 0: collector1954 (1970 Tournament chips) 
+Seat 1: Yawwho (2000 Tournament chips) 
+Seat 2: EPM6056 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1990 Tournament chips) 
+Seat 8: QwertySpark (2000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Wall2 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+collector1954, at seat 0, is in this hand with 1970 Tournament chips.
+Yawwho, at seat 1, is in this hand with 2000 Tournament chips.
+EPM6056, at seat 2, is in this hand with 2000 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 1980 Tournament chips.
+Wall2, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1990 Tournament chips.
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ Ah 3d ]
+collector1954 calls [10 Tournament chips]
+Yawwho raises [100 Tournament chips]
+EPM6056 calls [100 Tournament chips]
+ScottVDH folds [100 Tournament chips]
+sable541 folds [100 Tournament chips]
+ninerpat49 folds [100 Tournament chips]
+Wall2 folds [95 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+collector1954 calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 5c ] board:[ 8s 5c]
+** Dealing Flop ** [ 7h ] board:[ 8s 5c 7h]
+QwertySpark bets for 212 Tournament chips
+collector1954 calls [212 Tournament chips]
+Yawwho calls [212 Tournament chips]
+EPM6056 calls [212 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 8s 5c 7h 3c]
+QwertySpark bets for 636 Tournament chips
+collector1954 folds [636 Tournament chips]
+Yawwho calls [636 Tournament chips]
+EPM6056 folds [636 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ 8s 5c 7h 3c Kc]
+QwertySpark bets for 819 Tournament chips
+Yawwho folds [819 Tournament chips]
+QwertySpark is returned 819 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ah 3d 8s 3c Kc: a pair of threes)
+QwertySpark wins main pot 2525 Tournament chips.
+Seat 0: collector1954 (1658 Tournament chips) 
+Seat 1: Yawwho (1052 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3577 Tournament chips) 
+Game #23986191-4 ends
+Game #23986191-5 starts
+Seat 0: collector1954 (1658 Tournament chips) 
+Seat 1: Yawwho (1052 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3577 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [5 Tournament chips]
+collector1954 posts the big blind [10 Tournament chips]
+collector1954, at seat 0, is in this hand with 1648 Tournament chips.
+Yawwho, at seat 1, is in this hand with 1052 Tournament chips.
+EPM6056, at seat 2, is in this hand (absent) with 1688 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2000 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 1980 Tournament chips.
+Wall2, at seat 7, is in this hand with 1985 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3572 Tournament chips.
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 3c 9s ]
+Yawwho raises all-in [1052 Tournament chips]
+EPM6056 folds [1052 Tournament chips]
+Tmoore41 folds [1052 Tournament chips]
+ScottVDH folds [1052 Tournament chips]
+sable541 folds [1052 Tournament chips]
+ninerpat49 folds [1052 Tournament chips]
+Wall2 folds [1052 Tournament chips]
+QwertySpark folds [1047 Tournament chips]
+collector1954 folds [1042 Tournament chips]
+Yawwho is returned 1042 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Yawwho (Td 8d: ten high)
+Yawwho wins main pot 25 Tournament chips.
+Seat 0: collector1954 (1648 Tournament chips) 
+Seat 1: Yawwho (1067 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3572 Tournament chips) 
+Game #23986191-5 ends
+Game #23986191-6 starts
+Seat 0: collector1954 (1648 Tournament chips) 
+Seat 1: Yawwho (1067 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2000 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3572 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+collector1954 posts the small blind [10 Tournament chips]
+Yawwho posts the big blind [20 Tournament chips]
+collector1954, at seat 0, is in this hand with 1638 Tournament chips.
+Yawwho, at seat 1, is in this hand with 1047 Tournament chips.
+EPM6056, at seat 2, is in this hand (absent) with 1688 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2000 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 1980 Tournament chips.
+Wall2, at seat 7, is in this hand with 1985 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3572 Tournament chips.
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ Ks 7c ]
+EPM6056 folds [20 Tournament chips]
+Tmoore41 calls [20 Tournament chips]
+ScottVDH folds [20 Tournament chips]
+(EPM6056 has entered the table, is no longer absent.)
+sable541 folds [20 Tournament chips]
+ninerpat49 folds [20 Tournament chips]
+Wall2 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+collector1954 calls [10 Tournament chips]
+Yawwho checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 9c ] board:[ Qs 9c]
+** Dealing Flop ** [ 6c ] board:[ Qs 9c 6c]
+collector1954 checks
+Yawwho checks
+Tmoore41 bets for 20 Tournament chips
+collector1954 calls [20 Tournament chips]
+Yawwho folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Qs 9c 6c 7h]
+collector1954 checks
+Tmoore41 bets for 20 Tournament chips
+collector1954 calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Qs 9c 6c 7h Kd]
+collector1954 checks
+Tmoore41 bets for 140 Tournament chips
+collector1954 folds [140 Tournament chips]
+Tmoore41 is returned 140 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Tmoore41 (Tc Kc Qs 9c Kd: a pair of kings)
+Tmoore41 wins main pot 140 Tournament chips.
+Seat 0: collector1954 (1588 Tournament chips) 
+Seat 1: Yawwho (1047 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2080 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3572 Tournament chips) 
+Game #23986191-6 ends
+Game #23986191-7 starts
+Seat 0: collector1954 (1588 Tournament chips) 
+Seat 1: Yawwho (1047 Tournament chips) 
+Seat 2: EPM6056 (1688 Tournament chips) 
+Seat 3: Tmoore41 (2080 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1985 Tournament chips) 
+Seat 8: QwertySpark (3572 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Yawwho posts the small blind [10 Tournament chips]
+EPM6056 posts the big blind [20 Tournament chips]
+collector1954, at seat 0, is in this hand with 1588 Tournament chips.
+Yawwho, at seat 1, is in this hand with 1037 Tournament chips.
+EPM6056, at seat 2, is in this hand with 1668 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2080 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 1980 Tournament chips.
+Wall2, at seat 7, is in this hand with 1985 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3572 Tournament chips.
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 5s 6d ]
+Tmoore41 calls [20 Tournament chips]
+ScottVDH folds [20 Tournament chips]
+sable541 folds [20 Tournament chips]
+ninerpat49 folds [20 Tournament chips]
+Wall2 calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+collector1954 calls [20 Tournament chips]
+Yawwho calls [10 Tournament chips]
+EPM6056 checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 5h ] board:[ Kc 5h]
+** Dealing Flop ** [ 8d ] board:[ Kc 5h 8d]
+Yawwho checks
+EPM6056 has timed out - the hand is checked
+Tmoore41 checks
+Wall2 checks
+QwertySpark bets for 80 Tournament chips
+collector1954 calls [80 Tournament chips]
+Yawwho calls [80 Tournament chips]
+EPM6056 calls [80 Tournament chips]
+Tmoore41 folds [80 Tournament chips]
+Wall2 folds [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Kc 5h 8d 4s]
+Yawwho checks
+EPM6056 has timed out - the hand is checked
+QwertySpark bets for 300 Tournament chips
+collector1954 folds [300 Tournament chips]
+Yawwho folds [300 Tournament chips]
+EPM6056 calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Kc 5h 8d 4s 4c]
+EPM6056 checks
+QwertySpark bets for 1300 Tournament chips
+EPM6056 folds [1288 Tournament chips]
+QwertySpark is returned 1300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (5s Kc 5h 4s 4c: two pair, fives and fours)
+QwertySpark wins main pot 1040 Tournament chips.
+Seat 0: collector1954 (1488 Tournament chips) 
+Seat 1: Yawwho (947 Tournament chips) 
+Seat 2: EPM6056 (1288 Tournament chips) 
+Seat 3: Tmoore41 (2060 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1965 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+Game #23986191-7 ends
+Game #23986191-8 starts
+Seat 0: collector1954 (1488 Tournament chips) 
+Seat 1: Yawwho (947 Tournament chips) 
+Seat 2: EPM6056 (1288 Tournament chips) 
+Seat 3: Tmoore41 (2060 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (1980 Tournament chips) 
+Seat 7: Wall2 (1965 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+EPM6056 posts the small blind [10 Tournament chips]
+Tmoore41 posts the big blind [20 Tournament chips]
+collector1954, at seat 0, is in this hand with 1488 Tournament chips.
+Yawwho, at seat 1, is in this hand with 947 Tournament chips.
+EPM6056, at seat 2, is in this hand with 1278 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2040 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 1980 Tournament chips.
+Wall2, at seat 7, is in this hand with 1965 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4212 Tournament chips.
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+Yawwho is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to Yawwho [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 9h Ks ]
+ScottVDH folds [20 Tournament chips]
+sable541 folds [20 Tournament chips]
+ninerpat49 raises [400 Tournament chips]
+Wall2 calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+collector1954 folds [400 Tournament chips]
+Yawwho raises all-in [947 Tournament chips]
+EPM6056 folds [937 Tournament chips]
+Tmoore41 folds [927 Tournament chips]
+ninerpat49 raises all-in [1580 Tournament chips]
+Wall2 calls all-in [1565 Tournament chips]
+ninerpat49 is returned 15 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Yawwho shows [ Jc As ]
+ninerpat49 shows [ Ad Qc ]
+Wall2 shows [ 8s 9c ]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 3c ] board:[ 9d 3c]
+** Dealing Flop ** [ 7d ] board:[ 9d 3c 7d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 9d 3c 7d 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 9d 3c 7d 2d 9s]
+        (no action in this round)
+Round 4 is over.
+Yawwho shows [ Jc As ] a pair of nines, ace/jack kickers
+ninerpat49 shows [ Ad Qc ] a pair of nines, ace/queen kickers
+Wall2 shows [ 8s 9c ] three nines, eight/seven kickers
+Wall2 wins main pot 2871 Tournament chips with three nines, eight/seven kickers.
+Wall2 wins side pot #1 2036 Tournament chips with three nines, eight/seven kickers.
+Seat 0: collector1954 (1488 Tournament chips) 
+Seat 1: Yawwho (0 Tournament chips) 
+Seat 2: EPM6056 (1278 Tournament chips) 
+Seat 3: Tmoore41 (2040 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4907 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+Game #23986191-8 ends
+Player Yawwho leaves the table with 0 Tournament chips
+Game #23986191-9 starts
+Seat 0: collector1954 (1488 Tournament chips) 
+Seat 2: EPM6056 (1278 Tournament chips) 
+Seat 3: Tmoore41 (2040 Tournament chips) 
+Seat 4: ScottVDH (1985 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4907 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Tmoore41 posts the small blind [15 Tournament chips]
+ScottVDH posts the big blind [30 Tournament chips]
+collector1954, at seat 0, is in this hand with 1488 Tournament chips.
+EPM6056, at seat 2, is in this hand with 1278 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2025 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1955 Tournament chips.
+sable541, at seat 5, is in this hand with 2000 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 15 Tournament chips.
+Wall2, at seat 7, is in this hand with 4907 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4212 Tournament chips.
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ Kh 3s ]
+sable541 folds [30 Tournament chips]
+ninerpat49 folds [15 Tournament chips]
+Wall2 calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+collector1954 calls [30 Tournament chips]
+EPM6056 folds [30 Tournament chips]
+Tmoore41 calls [15 Tournament chips]
+ScottVDH folds
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 2s ] board:[ 4c 2s]
+** Dealing Flop ** [ 5s ] board:[ 4c 2s 5s]
+Tmoore41 checks
+Wall2 checks
+collector1954 checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 4c 2s 5s 8d]
+Tmoore41 bets for 30 Tournament chips
+Wall2 folds [30 Tournament chips]
+collector1954 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 4c 2s 5s 8d 8h]
+Tmoore41 bets for 30 Tournament chips
+collector1954 folds [30 Tournament chips]
+Tmoore41 is returned 30 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Tmoore41 (6h 5h 5s 8d 8h: two pair, eights and fives)
+Tmoore41 wins main pot 180 Tournament chips.
+Seat 0: collector1954 (1428 Tournament chips) 
+Seat 2: EPM6056 (1278 Tournament chips) 
+Seat 3: Tmoore41 (2160 Tournament chips) 
+Seat 4: ScottVDH (1955 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4877 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+Game #23986191-9 ends
+Game #23986191-10 starts
+Seat 0: collector1954 (1428 Tournament chips) 
+Seat 2: EPM6056 (1278 Tournament chips) 
+Seat 3: Tmoore41 (2160 Tournament chips) 
+Seat 4: ScottVDH (1955 Tournament chips) 
+Seat 5: sable541 (2000 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4877 Tournament chips) 
+Seat 8: QwertySpark (4212 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+ScottVDH posts the small blind [15 Tournament chips]
+sable541 posts the big blind [30 Tournament chips]
+collector1954, at seat 0, is in this hand with 1428 Tournament chips.
+EPM6056, at seat 2, is in this hand with 1278 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 2160 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1940 Tournament chips.
+sable541, at seat 5, is in this hand with 1970 Tournament chips.
+ninerpat49, at seat 6, is in this hand (absent) with 15 Tournament chips.
+Wall2, at seat 7, is in this hand with 4877 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4212 Tournament chips.
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 2h 4h ]
+ninerpat49 folds [15 Tournament chips]
+Wall2 folds [30 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+collector1954 calls [60 Tournament chips]
+EPM6056 calls [60 Tournament chips]
+Tmoore41 calls [60 Tournament chips]
+ScottVDH folds [45 Tournament chips]
+sable541 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 4c ] board:[ Tc 4c]
+** Dealing Flop ** [ Qs ] board:[ Tc 4c Qs]
+sable541 checks
+QwertySpark bets for 157 Tournament chips
+collector1954 calls [157 Tournament chips]
+EPM6056 calls [157 Tournament chips]
+Tmoore41 calls [157 Tournament chips]
+sable541 calls [157 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Tc 4c Qs 9d]
+sable541 checks
+QwertySpark checks
+collector1954 checks
+EPM6056 has timed out - the hand is checked
+Tmoore41 checks
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Tc 4c Qs 9d 4d]
+sable541 checks
+QwertySpark bets for 1100 Tournament chips
+collector1954 calls [1100 Tournament chips]
+EPM6056 folds [1061 Tournament chips]
+Tmoore41 calls [1100 Tournament chips]
+sable541 folds [1100 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 2h 4h ] three fours
+Hand evaluation for QwertySpark (4h Tc 4c Qs 4d: three fours)
+collector1954 doesn't show [ Jc Js ]
+(collector1954 has Jc Js.)
+Tmoore41 doesn't show [ 5h Kc ]
+(Tmoore41 has 5h Kc.)
+QwertySpark wins main pot 4400 Tournament chips with three fours, queen/ten kickers.
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1783 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4877 Tournament chips) 
+Seat 8: QwertySpark (7295 Tournament chips) 
+Game #23986191-10 ends
+Game #23986191-11 starts
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1783 Tournament chips) 
+Seat 6: ninerpat49 (15 Tournament chips) 
+Seat 7: Wall2 (4877 Tournament chips) 
+Seat 8: QwertySpark (7295 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+sable541 posts the small blind [15 Tournament chips]
+ninerpat49 posts the big blind [15 Tournament chips], goes all-in
+collector1954, at seat 0, is in this hand with 111 Tournament chips.
+EPM6056, at seat 2, is in this hand with 1061 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 843 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1940 Tournament chips.
+sable541, at seat 5, is in this hand with 1768 Tournament chips.
+ninerpat49, at seat 6, is in this hand with 0 Tournament chips.
+Wall2, at seat 7, is in this hand with 4877 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 7295 Tournament chips.
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+ninerpat49 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to ninerpat49 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ 6d 9s ]
+Wall2 raises [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+collector1954 folds [60 Tournament chips]
+EPM6056 folds [60 Tournament chips]
+Tmoore41 folds [60 Tournament chips]
+ScottVDH folds [60 Tournament chips]
+sable541 calls [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 7s ] board:[ 7d 7s]
+** Dealing Flop ** [ Qs ] board:[ 7d 7s Qs]
+sable541 checks
+Wall2 bets for 30 Tournament chips
+sable541 folds [30 Tournament chips]
+Wall2 is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ninerpat49 shows [ 3h 2c ]
+Wall2 shows [ Jd As ]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 7d 7s Qs 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 7d 7s Qs 6s 8s]
+        (no action in this round)
+Round 4 is over.
+ninerpat49 shows [ 3h 2c ] a pair of sevens, queen/eight kickers
+Wall2 shows [ Jd As ] flush, ace/queen/eight high
+Wall2 wins main pot 45 Tournament chips with flush, ace/queen/eight high.
+Wall2 wins side pot #1 90 Tournament chips with flush, ace/queen/eight high.
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1723 Tournament chips) 
+Seat 6: ninerpat49 (0 Tournament chips) 
+Seat 7: Wall2 (4952 Tournament chips) 
+Seat 8: QwertySpark (7295 Tournament chips) 
+Game #23986191-11 ends
+Player ninerpat49 leaves the table with 0 Tournament chips
+Game #23986191-12 starts
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1723 Tournament chips) 
+Seat 7: Wall2 (4952 Tournament chips) 
+Seat 8: QwertySpark (7295 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Wall2 posts the big blind [40 Tournament chips]
+collector1954, at seat 0, is in this hand with 111 Tournament chips.
+EPM6056, at seat 2, is in this hand (absent) with 1061 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 843 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1940 Tournament chips.
+sable541, at seat 5, is in this hand with 1723 Tournament chips.
+Wall2, at seat 7, is in this hand with 4912 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 7295 Tournament chips.
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ Ah Jc ]
+QwertySpark raises [160 Tournament chips]
+collector1954 folds [111 Tournament chips]
+EPM6056 folds [160 Tournament chips]
+Tmoore41 folds [160 Tournament chips]
+ScottVDH folds [160 Tournament chips]
+sable541 calls [160 Tournament chips]
+Wall2 folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Kh ] board:[ Td Kh]
+** Dealing Flop ** [ 4h ] board:[ Td Kh 4h]
+QwertySpark checks
+sable541 checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ Td Kh 4h 3c]
+QwertySpark bets for 80 Tournament chips
+sable541 calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Td Kh 4h 3c 8d]
+QwertySpark bets for 520 Tournament chips
+sable541 folds [520 Tournament chips]
+QwertySpark is returned 520 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ah Jc Td Kh 8d: ace high)
+QwertySpark wins main pot 520 Tournament chips.
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1483 Tournament chips) 
+Seat 7: Wall2 (4912 Tournament chips) 
+Seat 8: QwertySpark (7575 Tournament chips) 
+Game #23986191-12 ends
+Game #23986191-13 starts
+Seat 0: collector1954 (111 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (843 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1483 Tournament chips) 
+Seat 7: Wall2 (4912 Tournament chips) 
+Seat 8: QwertySpark (7575 Tournament chips) 
+The button is at seat 5
+Wall2 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+collector1954, at seat 0, is in this hand with 111 Tournament chips.
+EPM6056, at seat 2, is in this hand (absent) with 1061 Tournament chips.
+Tmoore41, at seat 3, is in this hand with 843 Tournament chips.
+ScottVDH, at seat 4, is in this hand (absent) with 1940 Tournament chips.
+sable541, at seat 5, is in this hand with 1483 Tournament chips.
+Wall2, at seat 7, is in this hand with 4892 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 7535 Tournament chips.
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+Wall2 is dealt: **
+
+collector1954 is dealt: **
+EPM6056 is dealt: **
+Tmoore41 is dealt: **
+ScottVDH is dealt: **
+sable541 is dealt: **
+Dealt to collector1954 [ **** ]
+Dealt to EPM6056 [ **** ]
+Dealt to Tmoore41 [ **** ]
+Dealt to ScottVDH [ **** ]
+Dealt to sable541 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to QwertySpark [ Kc 8c ]
+collector1954 calls [40 Tournament chips]
+EPM6056 folds [40 Tournament chips]
+Tmoore41 calls [40 Tournament chips]
+ScottVDH folds [40 Tournament chips]
+sable541 raises [220 Tournament chips]
+Wall2 calls [200 Tournament chips]
+QwertySpark calls [180 Tournament chips]
+collector1954 calls all-in [71 Tournament chips]
+Tmoore41 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Js ] board:[ 2d Js]
+** Dealing Flop ** [ 7c ] board:[ 2d Js 7c]
+Wall2 checks
+QwertySpark bets for 360 Tournament chips
+Tmoore41 raises all-in [623 Tournament chips]
+sable541 folds [623 Tournament chips]
+Wall2 folds [623 Tournament chips]
+QwertySpark calls [263 Tournament chips]
+Tournament all-in showdown -- players show:
+collector1954 shows [ Ac 4d ]
+Tmoore41 shows [ 4s Kd ]
+QwertySpark shows [ Kc 8c ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 2d Js 7c 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 2d Js 7c 5c Td]
+        (no action in this round)
+Round 4 is over.
+collector1954 shows [ Ac 4d ] ace/jack/ten high
+Tmoore41 shows [ 4s Kd ] king/jack/ten high
+QwertySpark shows [ Kc 8c ] king/jack/ten high
+collector1954 wins main pot 555 Tournament chips with ace/jack/ten high.
+QwertySpark wins side pot #1 1682 Tournament chips with king/jack/ten high.
+Seat 0: collector1954 (555 Tournament chips) 
+Seat 2: EPM6056 (1061 Tournament chips) 
+Seat 3: Tmoore41 (0 Tournament chips) 
+Seat 4: ScottVDH (1940 Tournament chips) 
+Seat 5: sable541 (1263 Tournament chips) 
+Seat 7: Wall2 (4692 Tournament chips) 
+Seat 8: QwertySpark (8414 Tournament chips) 
+Game #23986191-13 ends
+Player Tmoore41 leaves the table with 0 Tournament chips
+Player ScottVDH leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 8414 Tournament chips
+Player collector1954 leaves the table with 555 Tournament chips
+Player EPM6056 leaves the table with 1061 Tournament chips
+Player sable541 leaves the table with 1263 Tournament chips
+Player Wall2 leaves the table with 4692 Tournament chips

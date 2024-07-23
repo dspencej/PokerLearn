@@ -1,0 +1,365 @@
+Game#: 23939707
+QwertySpark is dealt: 9s
+Enamel is dealt: **
+The button is moved to seat 1.
+Game #23939707-1 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: Enamel (2000 Tournament chips) 
+The button is at seat 1
+Enamel posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1980 Tournament chips.
+Enamel, at seat 1, is in this hand with 1990 Tournament chips.
+
+Enamel is dealt: **
+
+Enamel is dealt: **
+Dealt to QwertySpark [ 7h 5h ]
+Dealt to Enamel [ **** ]
+Enamel calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3s ] board:[ Qd 3s]
+** Dealing Flop ** [ Kc ] board:[ Qd 3s Kc]
+QwertySpark bets for 40 Tournament chips
+Enamel raises [80 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Qd 3s Kc 9s]
+QwertySpark checks
+Enamel bets for 200 Tournament chips
+QwertySpark folds [200 Tournament chips]
+Enamel is returned 200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Enamel (3d Kh Qd 3s Kc: two pair, kings and threes)
+Enamel wins main pot 200 Tournament chips.
+Seat 0: QwertySpark (1900 Tournament chips) 
+Seat 1: Enamel (2100 Tournament chips) 
+Game #23939707-1 ends
+Game #23939707-2 starts
+Seat 0: QwertySpark (1900 Tournament chips) 
+Seat 1: Enamel (2100 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Enamel posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1890 Tournament chips.
+Enamel, at seat 1, is in this hand with 2080 Tournament chips.
+Enamel is dealt: **
+
+Enamel is dealt: **
+
+Dealt to QwertySpark [ Tc 2h ]
+Dealt to Enamel [ **** ]
+QwertySpark folds [10 Tournament chips]
+Enamel is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Enamel (Ts Jc: jack high)
+Enamel wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (1890 Tournament chips) 
+Seat 1: Enamel (2110 Tournament chips) 
+Game #23939707-2 ends
+Game #23939707-3 starts
+Seat 0: QwertySpark (1890 Tournament chips) 
+Seat 1: Enamel (2110 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Enamel posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1870 Tournament chips.
+Enamel, at seat 1, is in this hand with 2100 Tournament chips.
+
+Enamel is dealt: **
+
+Enamel is dealt: **
+Dealt to QwertySpark [ Td 2s ]
+Dealt to Enamel [ **** ]
+Enamel raises [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 3d ] board:[ 9c 3d]
+** Dealing Flop ** [ 8h ] board:[ 9c 3d 8h]
+QwertySpark checks
+Enamel bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 9c 3d 8h Qc]
+QwertySpark bets for 80 Tournament chips
+Enamel calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 9c 3d 8h Qc Jc]
+QwertySpark bets for 500 Tournament chips
+Enamel folds [500 Tournament chips]
+QwertySpark is returned 500 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Td 9c 8h Qc Jc: straight, queen high)
+QwertySpark wins main pot 280 Tournament chips.
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Enamel (1970 Tournament chips) 
+Game #23939707-3 ends
+Game #23939707-4 starts
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Enamel (1970 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Enamel posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2020 Tournament chips.
+Enamel, at seat 1, is in this hand with 1950 Tournament chips.
+Enamel is dealt: **
+
+Enamel is dealt: **
+
+Dealt to QwertySpark [ 6c 4s ]
+Dealt to Enamel [ **** ]
+QwertySpark calls [10 Tournament chips]
+Enamel raises [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Kc ] board:[ 5d Kc]
+** Dealing Flop ** [ 9c ] board:[ 5d Kc 9c]
+Enamel bets for 20 Tournament chips
+QwertySpark folds [20 Tournament chips]
+Enamel is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Enamel (8c 5h 5d Kc 9c: a pair of fives)
+Enamel wins main pot 80 Tournament chips.
+Seat 0: QwertySpark (1990 Tournament chips) 
+Seat 1: Enamel (2010 Tournament chips) 
+Game #23939707-4 ends
+Game #23939707-5 starts
+Seat 0: QwertySpark (1990 Tournament chips) 
+Seat 1: Enamel (2010 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Enamel posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1970 Tournament chips.
+Enamel, at seat 1, is in this hand with 2000 Tournament chips.
+
+Enamel is dealt: **
+
+Enamel is dealt: **
+Dealt to QwertySpark [ Jd 3d ]
+Dealt to Enamel [ **** ]
+Enamel raises [30 Tournament chips]
+QwertySpark re-raises [100 Tournament chips]
+Enamel re-raises [160 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 2s ] board:[ 7h 2s]
+** Dealing Flop ** [ Tc ] board:[ 7h 2s Tc]
+QwertySpark checks
+Enamel bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 7h 2s Tc Qs]
+QwertySpark bets for 160 Tournament chips
+Enamel calls [160 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 7h 2s Tc Qs 5h]
+QwertySpark bets for 380 Tournament chips
+Enamel folds [380 Tournament chips]
+QwertySpark is returned 380 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Jd 7h Tc Qs 5h: queen high)
+QwertySpark wins main pot 760 Tournament chips.
+Seat 0: QwertySpark (2370 Tournament chips) 
+Seat 1: Enamel (1630 Tournament chips) 
+Game #23939707-5 ends
+Game #23939707-6 starts
+Seat 0: QwertySpark (2370 Tournament chips) 
+Seat 1: Enamel (1630 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Enamel posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2360 Tournament chips.
+Enamel, at seat 1, is in this hand with 1610 Tournament chips.
+Enamel is dealt: **
+
+Enamel is dealt: **
+
+Dealt to QwertySpark [ 2h Qd ]
+Dealt to Enamel [ **** ]
+QwertySpark calls [10 Tournament chips]
+Enamel raises [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Ah ] board:[ 8h Ah]
+** Dealing Flop ** [ Th ] board:[ 8h Ah Th]
+Enamel bets for 20 Tournament chips
+QwertySpark raises [80 Tournament chips]
+Enamel calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 8h Ah Th 8c]
+Enamel bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 8h Ah Th 8c 2c]
+Enamel bets for 100 Tournament chips
+QwertySpark calls [100 Tournament chips]
+Round 4 is over.
+Enamel shows [ Kd Ks ] two pair, kings and eights
+Hand evaluation for Enamel (Kd Ks 8h Ah 8c: two pair, kings and eights)
+QwertySpark doesn't show [ 2h Qd ]
+(QwertySpark has 2h Qd.)
+Enamel wins main pot 480 Tournament chips with two pair, kings and eights, ace kicker.
+Seat 0: QwertySpark (2130 Tournament chips) 
+Seat 1: Enamel (1870 Tournament chips) 
+Game #23939707-6 ends
+Game #23939707-7 starts
+Seat 0: QwertySpark (2130 Tournament chips) 
+Seat 1: Enamel (1870 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Enamel posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2110 Tournament chips.
+Enamel, at seat 1, is in this hand with 1860 Tournament chips.
+
+Enamel is dealt: **
+
+Enamel is dealt: **
+Dealt to QwertySpark [ 5c Qh ]
+Dealt to Enamel [ **** ]
+Enamel raises [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 9h ] board:[ 9c 9h]
+** Dealing Flop ** [ Kd ] board:[ 9c 9h Kd]
+QwertySpark checks
+Enamel bets for 20 Tournament chips
+QwertySpark folds [20 Tournament chips]
+Enamel is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Enamel (8c 5d 9c 9h Kd: a pair of nines)
+Enamel wins main pot 80 Tournament chips.
+Seat 0: QwertySpark (2090 Tournament chips) 
+Seat 1: Enamel (1910 Tournament chips) 
+Game #23939707-7 ends
+Game #23939707-8 starts
+Seat 0: QwertySpark (2090 Tournament chips) 
+Seat 1: Enamel (1910 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Enamel posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2080 Tournament chips.
+Enamel, at seat 1, is in this hand with 1890 Tournament chips.
+Enamel is dealt: **
+
+Enamel is dealt: **
+
+Dealt to QwertySpark [ 8s 7d ]
+Dealt to Enamel [ **** ]
+QwertySpark raises [70 Tournament chips]
+Enamel re-raises [120 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Jd ] board:[ Kc Jd]
+** Dealing Flop ** [ 9c ] board:[ Kc Jd 9c]
+Enamel bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Kc Jd 9c Th]
+Enamel bets for 20 Tournament chips
+QwertySpark raises [380 Tournament chips]
+Enamel calls [360 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Kc Jd 9c Th 8h]
+Enamel bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 4 is over.
+Enamel shows [ Td 6d ] a pair of tens
+Hand evaluation for Enamel (Td Kc Jd 9c Th: a pair of tens)
+QwertySpark shows [ 8s 7d ] straight, jack high
+Hand evaluation for QwertySpark (8s 7d Jd 9c Th: straight, jack high)
+QwertySpark wins main pot 1120 Tournament chips with straight, jack high.
+Seat 0: QwertySpark (2650 Tournament chips) 
+Seat 1: Enamel (1350 Tournament chips) 
+Game #23939707-8 ends
+Game #23939707-9 starts
+Seat 0: QwertySpark (2650 Tournament chips) 
+Seat 1: Enamel (1350 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Enamel posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2630 Tournament chips.
+Enamel, at seat 1, is in this hand with 1340 Tournament chips.
+
+Enamel is dealt: **
+
+Enamel is dealt: **
+Dealt to QwertySpark [ Ad 8d ]
+Dealt to Enamel [ **** ]
+Enamel raises [30 Tournament chips]
+QwertySpark re-raises [80 Tournament chips]
+Enamel calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Qd ] board:[ 7s Qd]
+** Dealing Flop ** [ 3d ] board:[ 7s Qd 3d]
+QwertySpark bets for 200 Tournament chips
+Enamel folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ad 8d 7s Qd 3d: ace high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: QwertySpark (2750 Tournament chips) 
+Seat 1: Enamel (1250 Tournament chips) 
+Game #23939707-9 ends
+Game #23939707-10 starts
+Seat 0: QwertySpark (2750 Tournament chips) 
+Seat 1: Enamel (1250 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Enamel posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2740 Tournament chips.
+Enamel, at seat 1, is in this hand with 1230 Tournament chips.
+Enamel is dealt: **
+
+Enamel is dealt: **
+
+Dealt to QwertySpark [ Tc Qc ]
+Dealt to Enamel [ **** ]
+QwertySpark raises [70 Tournament chips]
+Enamel re-raises [120 Tournament chips]
+QwertySpark re-raises [340 Tournament chips]
+Enamel re-raises [560 Tournament chips]
+QwertySpark calls [280 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Ks ] board:[ Kd Ks]
+** Dealing Flop ** [ Qs ] board:[ Kd Ks Qs]
+Enamel bets for 20 Tournament chips
+QwertySpark raises [730 Tournament chips]
+Enamel calls all-in [530 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Tc Qc ]
+Enamel shows [ Ts 3d ]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Kd Ks Qs Kc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ Kd Ks Qs Kc 8c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Tc Qc ] full house, kings full of queens
+Enamel shows [ Ts 3d ] three kings, queen/ten kickers
+QwertySpark wins main pot 2500 Tournament chips with full house, kings full of queens.
+Seat 0: QwertySpark (4000 Tournament chips) 
+Seat 1: Enamel (0 Tournament chips) 
+Game #23939707-10 ends
+Player Enamel leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4000 Tournament chips

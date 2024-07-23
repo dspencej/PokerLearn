@@ -1,0 +1,343 @@
+Game#: 23827895
+vickylynn2024: donkey time
+ccleach66 is dealt: **
+mironovas is dealt: **
+QwertySpark is dealt: Ts
+IUFB1187 is dealt: **
+JDZORRO is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+ruby per is dealt: **
+The button is moved to seat 4.
+Game #23827895-1 starts
+Seat 0: ccleach66 (1000 Tournament chips) 
+Seat 1: mironovas (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: JDZORRO (1000 Tournament chips) 
+Seat 5: jadawa91 (1000 Tournament chips) 
+Seat 6: SACKofENIFMAN (1000 Tournament chips) 
+Seat 7: vickylynn2024 (1000 Tournament chips) 
+Seat 8: ruby per (1000 Tournament chips) 
+The button is at seat 4
+jadawa91 posts the small blind [5 Tournament chips]
+SACKofENIFMAN posts the big blind [10 Tournament chips]
+ccleach66, at seat 0, is in this hand with 1000 Tournament chips.
+mironovas, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1000 Tournament chips.
+IUFB1187, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+JDZORRO, at seat 4, is in this hand with 1000 Tournament chips.
+jadawa91, at seat 5, is in this hand (absent) with 995 Tournament chips.
+SACKofENIFMAN, at seat 6, is in this hand with 990 Tournament chips.
+vickylynn2024, at seat 7, is in this hand with 1000 Tournament chips.
+ruby per, at seat 8, is in this hand with 1000 Tournament chips.
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+ruby per is dealt: **
+ccleach66 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+JDZORRO is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+ruby per is dealt: **
+ccleach66 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+JDZORRO is dealt: **
+Dealt to ccleach66 [ **** ]
+Dealt to mironovas [ **** ]
+Dealt to QwertySpark [ Js 7d ]
+Dealt to IUFB1187 [ **** ]
+Dealt to JDZORRO [ **** ]
+Dealt to jadawa91 [ **** ]
+Dealt to SACKofENIFMAN [ **** ]
+Dealt to vickylynn2024 [ **** ]
+Dealt to ruby per [ **** ]
+vickylynn2024 raises [45 Tournament chips]
+ruby per folds [45 Tournament chips]
+ccleach66 calls [45 Tournament chips]
+mironovas folds [45 Tournament chips]
+QwertySpark folds [45 Tournament chips]
+IUFB1187 folds [45 Tournament chips]
+JDZORRO folds [45 Tournament chips]
+jadawa91 folds [40 Tournament chips]
+SACKofENIFMAN folds [35 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 5s ] board:[ 4d 5s]
+** Dealing Flop ** [ 5d ] board:[ 4d 5s 5d]
+vickylynn2024 bets for 245 Tournament chips
+ccleach66 folds [245 Tournament chips]
+vickylynn2024 is returned 245 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for vickylynn2024 (9d Tc 4d 5s 5d: a pair of fives)
+vickylynn2024 wins main pot 105 Tournament chips.
+Seat 0: ccleach66 (955 Tournament chips) 
+Seat 1: mironovas (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: JDZORRO (1000 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (990 Tournament chips) 
+Seat 7: vickylynn2024 (1060 Tournament chips) 
+Seat 8: ruby per (1000 Tournament chips) 
+Game #23827895-1 ends
+Game #23827895-2 starts
+Seat 0: ccleach66 (955 Tournament chips) 
+Seat 1: mironovas (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: JDZORRO (1000 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (990 Tournament chips) 
+Seat 7: vickylynn2024 (1060 Tournament chips) 
+Seat 8: ruby per (1000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+SACKofENIFMAN posts the small blind [5 Tournament chips]
+vickylynn2024 posts the big blind [10 Tournament chips]
+ccleach66, at seat 0, is in this hand with 955 Tournament chips.
+mironovas, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1000 Tournament chips.
+IUFB1187, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+JDZORRO, at seat 4, is in this hand with 1000 Tournament chips.
+jadawa91, at seat 5, is in this hand (absent) with 995 Tournament chips.
+SACKofENIFMAN, at seat 6, is in this hand with 985 Tournament chips.
+vickylynn2024, at seat 7, is in this hand with 1050 Tournament chips.
+ruby per, at seat 8, is in this hand with 1000 Tournament chips.
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+ruby per is dealt: **
+ccleach66 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+JDZORRO is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+ruby per is dealt: **
+ccleach66 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+JDZORRO is dealt: **
+jadawa91 is dealt: **
+Dealt to ccleach66 [ **** ]
+Dealt to mironovas [ **** ]
+Dealt to QwertySpark [ 5c 6c ]
+Dealt to IUFB1187 [ **** ]
+Dealt to JDZORRO [ **** ]
+Dealt to jadawa91 [ **** ]
+Dealt to SACKofENIFMAN [ **** ]
+Dealt to vickylynn2024 [ **** ]
+Dealt to ruby per [ **** ]
+ruby per raises [35 Tournament chips]
+ccleach66 re-raises [191 Tournament chips]
+mironovas folds [191 Tournament chips]
+QwertySpark calls [191 Tournament chips]
+IUFB1187 folds [191 Tournament chips]
+JDZORRO raises all-in [1000 Tournament chips]
+jadawa91 folds [995 Tournament chips]
+SACKofENIFMAN folds [985 Tournament chips]
+vickylynn2024 raises all-in [1050 Tournament chips]
+ruby per calls all-in [965 Tournament chips]
+ccleach66 calls all-in [764 Tournament chips]
+QwertySpark folds [809 Tournament chips]
+vickylynn2024 is returned 60 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ccleach66 shows [ Kd Qc ]
+JDZORRO shows [ 6d 9d ]
+vickylynn2024 shows [ Td Ah ]
+ruby per shows [ Jc Jd ]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Ks ] board:[ 3s Ks]
+** Dealing Flop ** [ Ac ] board:[ 3s Ks Ac]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 3s Ks Ac 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 3s Ks Ac 5s 7c]
+        (no action in this round)
+Round 4 is over.
+ccleach66 shows [ Kd Qc ] a pair of kings, ace/queen kickers
+JDZORRO shows [ 6d 9d ] ace/king/nine high
+vickylynn2024 shows [ Td Ah ] a pair of aces, king/ten kickers
+ruby per shows [ Jc Jd ] a pair of jacks, ace/king kickers
+vickylynn2024 wins main pot 4016 Tournament chips with a pair of aces, king/ten kickers.
+vickylynn2024 wins side pot #1 135 Tournament chips with a pair of aces, king/ten kickers.
+Seat 0: ccleach66 (0 Tournament chips) 
+Seat 1: mironovas (1000 Tournament chips) 
+Seat 2: QwertySpark (809 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: JDZORRO (0 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (985 Tournament chips) 
+Seat 7: vickylynn2024 (4211 Tournament chips) 
+Seat 8: ruby per (0 Tournament chips) 
+Game #23827895-2 ends
+Player ccleach66 leaves the table with 0 Tournament chips
+Player JDZORRO leaves the table with 0 Tournament chips
+Player ruby per leaves the table with 0 Tournament chips
+Game #23827895-3 starts
+Seat 1: mironovas (1000 Tournament chips) 
+Seat 2: QwertySpark (809 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (985 Tournament chips) 
+Seat 7: vickylynn2024 (4211 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+vickylynn2024 posts the small blind [5 Tournament chips]
+mironovas posts the big blind [10 Tournament chips]
+mironovas, at seat 1, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 809 Tournament chips.
+IUFB1187, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+jadawa91, at seat 5, is in this hand (absent) with 995 Tournament chips.
+SACKofENIFMAN, at seat 6, is in this hand with 985 Tournament chips.
+vickylynn2024, at seat 7, is in this hand with 4206 Tournament chips.
+vickylynn2024 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+Dealt to mironovas [ **** ]
+Dealt to QwertySpark [ 2h Ac ]
+Dealt to IUFB1187 [ **** ]
+Dealt to jadawa91 [ **** ]
+Dealt to SACKofENIFMAN [ **** ]
+Dealt to vickylynn2024 [ **** ]
+QwertySpark raises [40 Tournament chips]
+IUFB1187 folds [40 Tournament chips]
+jadawa91 folds [40 Tournament chips]
+SACKofENIFMAN folds [40 Tournament chips]
+vickylynn2024 calls [35 Tournament chips]
+mironovas folds [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Qs ] board:[ Ks Qs]
+** Dealing Flop ** [ Tc ] board:[ Ks Qs Tc]
+vickylynn2024 checks
+QwertySpark bets for 90 Tournament chips
+vickylynn2024 calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Ks Qs Tc 3h]
+vickylynn2024 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ Ks Qs Tc 3h Qh]
+vickylynn2024 checks
+QwertySpark goes all-in for 679 Tournament chips
+vickylynn2024 folds [679 Tournament chips]
+QwertySpark is returned 679 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ac Ks Qs Tc Qh: a pair of queens)
+QwertySpark wins main pot 270 Tournament chips.
+Seat 0: pokerdealer47 (1000 Tournament chips) 
+Seat 1: mironovas (990 Tournament chips) 
+Seat 2: QwertySpark (949 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: seegie1 (1000 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (985 Tournament chips) 
+Seat 7: vickylynn2024 (4081 Tournament chips) 
+Seat 8: tcelli (1000 Tournament chips) 
+Game #23827895-3 ends
+Game #23827895-4 starts
+Seat 0: pokerdealer47 (1000 Tournament chips) 
+Seat 1: mironovas (990 Tournament chips) 
+Seat 2: QwertySpark (949 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: seegie1 (1000 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (985 Tournament chips) 
+Seat 7: vickylynn2024 (4081 Tournament chips) 
+Seat 8: tcelli (1000 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+mironovas posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+mironovas, at seat 1, is in this hand (absent) with 980 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 929 Tournament chips.
+IUFB1187, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+seegie1, at seat 4, is in this hand with 1000 Tournament chips.
+jadawa91, at seat 5, is in this hand (absent) with 995 Tournament chips.
+SACKofENIFMAN, at seat 6, is in this hand with 985 Tournament chips.
+vickylynn2024, at seat 7, is in this hand with 4081 Tournament chips.
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+seegie1 is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+mironovas is dealt: **
+
+IUFB1187 is dealt: **
+seegie1 is dealt: **
+jadawa91 is dealt: **
+SACKofENIFMAN is dealt: **
+vickylynn2024 is dealt: **
+Dealt to mironovas [ **** ]
+Dealt to QwertySpark [ 7h Ad ]
+Dealt to IUFB1187 [ **** ]
+Dealt to seegie1 [ **** ]
+Dealt to jadawa91 [ **** ]
+Dealt to SACKofENIFMAN [ **** ]
+Dealt to vickylynn2024 [ **** ]
+IUFB1187 folds [20 Tournament chips]
+seegie1 calls [20 Tournament chips]
+jadawa91 folds [20 Tournament chips]
+SACKofENIFMAN calls [20 Tournament chips]
+vickylynn2024 calls [20 Tournament chips]
+mironovas folds [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 9d ] board:[ 8d 9d]
+** Dealing Flop ** [ Qd ] board:[ 8d 9d Qd]
+QwertySpark bets for 80 Tournament chips
+seegie1 folds [80 Tournament chips]
+SACKofENIFMAN calls [80 Tournament chips]
+vickylynn2024 folds [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 8d 9d Qd 8c]
+QwertySpark bets for 125 Tournament chips
+SACKofENIFMAN calls [125 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 8d 9d Qd 8c 6s]
+QwertySpark goes all-in for 724 Tournament chips
+SACKofENIFMAN calls [724 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7h Ad ]
+SACKofENIFMAN shows [ Jd Js ]
+Round 4 is over.
+QwertySpark shows [ 7h Ad ] a pair of eights, ace/queen kickers
+SACKofENIFMAN shows [ Jd Js ] two pair, jacks and eights, queen kicker
+SACKofENIFMAN wins main pot 1948 Tournament chips with two pair, jacks and eights, queen kicker.
+Seat 0: pokerdealer47 (1000 Tournament chips) 
+Seat 1: mironovas (980 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: IUFB1187 (1000 Tournament chips) 
+Seat 4: seegie1 (980 Tournament chips) 
+Seat 5: jadawa91 (995 Tournament chips) 
+Seat 6: SACKofENIFMAN (1984 Tournament chips) 
+Seat 7: vickylynn2024 (4061 Tournament chips) 
+Seat 8: tcelli (1000 Tournament chips) 
+Game #23827895-4 ends
+Player QwertySpark leaves the table with 0 Tournament chips

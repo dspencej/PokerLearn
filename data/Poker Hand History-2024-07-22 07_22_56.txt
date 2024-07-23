@@ -1,0 +1,1257 @@
+Game#: 23877943
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+QwertySpark is dealt: 7s
+The button is moved to seat 1.
+Game #23877943-1 starts
+Seat 1: Abibytodd (7500 Tournament chips) 
+Seat 3: doc1954 (7500 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (7500 Tournament chips) 
+Seat 6: QwertySpark (7500 Tournament chips) 
+The button is at seat 1
+doc1954 posts the small blind [25 Tournament chips]
+niteal52 posts the big blind [50 Tournament chips]
+Abibytodd, at seat 1, is in this hand with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand (absent) with 7475 Tournament chips.
+niteal52, at seat 4, is in this hand with 7325 Tournament chips.
+Lew1975, at seat 5, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7500 Tournament chips.
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Abibytodd is dealt: **
+Dealt to Abibytodd [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ Kh 2s ]
+Lew1975 calls [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Abibytodd raises [100 Tournament chips]
+doc1954 folds [75 Tournament chips]
+niteal52 folds [50 Tournament chips]
+Lew1975 calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 8s ] board:[ 7h 8s]
+** Dealing Flop ** [ 6c ] board:[ 7h 8s 6c]
+Lew1975 bets for 50 Tournament chips
+Abibytodd calls [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 7h 8s 6c 6s]
+Lew1975 bets for 50 Tournament chips
+Abibytodd calls [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 7h 8s 6c 6s 4h]
+Lew1975 bets for 50 Tournament chips
+Abibytodd folds, showing Qs 9s [50 Tournament chips]
+Lew1975 is returned 50 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Lew1975 (7c Th 7h 6c 6s: two pair, sevens and sixes)
+Lew1975 wins main pot 475 Tournament chips.
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7325 Tournament chips) 
+Seat 5: Lew1975 (7775 Tournament chips) 
+Seat 6: QwertySpark (7500 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+Game #23877943-1 ends
+Game #23877943-2 starts
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7325 Tournament chips) 
+Seat 5: Lew1975 (7775 Tournament chips) 
+Seat 6: QwertySpark (7500 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+niteal52 posts the small blind [25 Tournament chips]
+Lew1975 posts the big blind [50 Tournament chips]
+awprob, at seat 0, is in this hand with 7950 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand (absent) with 7475 Tournament chips.
+niteal52, at seat 4, is in this hand with 7300 Tournament chips.
+Lew1975, at seat 5, is in this hand with 7725 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7500 Tournament chips.
+Kingring, at seat 8, is in this hand with 7538 Tournament chips.
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ Kc 2s ]
+Dealt to Kingring [ **** ]
+QwertySpark folds [50 Tournament chips]
+Kingring folds [50 Tournament chips]
+awprob folds [50 Tournament chips]
+Abibytodd folds [50 Tournament chips]
+RCK folds [50 Tournament chips]
+doc1954 folds [50 Tournament chips]
+niteal52 calls [25 Tournament chips]
+Lew1975 checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 2c ] board:[ 5c 2c]
+** Dealing Flop ** [ Qs ] board:[ 5c 2c Qs]
+niteal52 checks
+Lew1975 checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 5c 2c Qs 7s]
+niteal52 bets for 50 Tournament chips
+Lew1975 folds [50 Tournament chips]
+niteal52 is returned 50 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for niteal52 (8s 8h 5c Qs 7s: a pair of eights)
+niteal52 wins main pot 100 Tournament chips.
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (7725 Tournament chips) 
+Seat 6: QwertySpark (7500 Tournament chips) 
+Seat 7: rileydog13 (7050 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+Game #23877943-2 ends
+Game #23877943-3 starts
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (7725 Tournament chips) 
+Seat 6: QwertySpark (7500 Tournament chips) 
+Seat 7: rileydog13 (7050 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Lew1975 posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+awprob, at seat 0, is in this hand with 7950 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand (absent) with 7475 Tournament chips.
+niteal52, at seat 4, is in this hand with 7375 Tournament chips.
+Lew1975, at seat 5, is in this hand with 7700 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7450 Tournament chips.
+rileydog13, at seat 7, is in this hand with 7050 Tournament chips.
+Kingring, at seat 8, is in this hand with 7538 Tournament chips.
+Lew1975 is dealt: **
+
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 4s Js ]
+Dealt to rileydog13 [ **** ]
+Dealt to Kingring [ **** ]
+rileydog13 calls [50 Tournament chips]
+Kingring folds [50 Tournament chips]
+awprob folds [50 Tournament chips]
+Abibytodd folds [50 Tournament chips]
+RCK folds [50 Tournament chips]
+doc1954 folds [50 Tournament chips]
+niteal52 folds [50 Tournament chips]
+Lew1975 raises [75 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+rileydog13 calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 2c ] board:[ 9s 2c]
+** Dealing Flop ** [ Jd ] board:[ 9s 2c Jd]
+Lew1975 bets for 50 Tournament chips
+QwertySpark raises [225 Tournament chips]
+rileydog13 calls [225 Tournament chips]
+Lew1975 calls [175 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 9s 2c Jd Ks]
+Lew1975 checks
+QwertySpark checks
+rileydog13 checks
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 9s 2c Jd Ks Kd]
+(doc1954 has entered the table, is no longer absent.)
+Lew1975 bets for 2025 Tournament chips
+QwertySpark calls [2025 Tournament chips]
+rileydog13 folds [2025 Tournament chips]
+Round 4 is over.
+Lew1975 shows [ Tc Qh ] straight, king high
+Hand evaluation for Lew1975 (Tc Qh 9s Jd Ks: straight, king high)
+QwertySpark doesn't show [ 4s Js ]
+(QwertySpark has 4s Js.)
+Lew1975 wins main pot 5025 Tournament chips with straight, king high.
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (10400 Tournament chips) 
+Seat 6: QwertySpark (5150 Tournament chips) 
+Seat 7: rileydog13 (6725 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+Game #23877943-3 ends
+Game #23877943-4 starts
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (10400 Tournament chips) 
+Seat 6: QwertySpark (5150 Tournament chips) 
+Seat 7: rileydog13 (6725 Tournament chips) 
+Seat 8: Kingring (7538 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [25 Tournament chips]
+rileydog13 posts the big blind [50 Tournament chips]
+awprob, at seat 0, is in this hand with 7950 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand with 7475 Tournament chips.
+niteal52, at seat 4, is in this hand (absent) with 7375 Tournament chips.
+Lew1975, at seat 5, is in this hand with 10400 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5125 Tournament chips.
+rileydog13, at seat 7, is in this hand with 6675 Tournament chips.
+Kingring, at seat 8, is in this hand with 7538 Tournament chips.
+
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 4c Jc ]
+Dealt to rileydog13 [ **** ]
+Dealt to Kingring [ **** ]
+Kingring calls [50 Tournament chips]
+awprob folds [50 Tournament chips]
+Abibytodd folds [50 Tournament chips]
+RCK folds [50 Tournament chips]
+doc1954 folds [50 Tournament chips]
+niteal52 folds [50 Tournament chips]
+Lew1975 calls [50 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+rileydog13 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 2s ] board:[ 7h 2s]
+** Dealing Flop ** [ 9c ] board:[ 7h 2s 9c]
+QwertySpark checks
+rileydog13 bets for 200 Tournament chips
+Kingring raises [400 Tournament chips]
+Lew1975 calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+rileydog13 calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 7h 2s 9c 6c]
+rileydog13 checks
+Kingring bets for 700 Tournament chips
+Lew1975 calls [700 Tournament chips]
+rileydog13 folds [700 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 7h 2s 9c 6c 8c]
+Kingring bets for 1400 Tournament chips
+Lew1975 calls [1400 Tournament chips]
+Round 4 is over.
+Kingring shows [ 9h Qc ] a pair of nines
+Hand evaluation for Kingring (9h Qc 7h 9c 8c: a pair of nines)
+Lew1975 shows [ 8s 2h ] two pair, eights and deuces
+Hand evaluation for Lew1975 (8s 2h 2s 9c 8c: two pair, eights and deuces)
+Lew1975 wins main pot 5600 Tournament chips with two pair, eights and deuces, nine kicker.
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (13450 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 7: rileydog13 (6275 Tournament chips) 
+Seat 8: Kingring (4988 Tournament chips) 
+Game #23877943-4 ends
+Game #23877943-5 starts
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (7475 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (13450 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 7: rileydog13 (6275 Tournament chips) 
+Seat 8: Kingring (4988 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+rileydog13 posts the small blind [50 Tournament chips]
+Kingring posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 7950 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand with 7475 Tournament chips.
+niteal52, at seat 4, is in this hand (absent) with 7375 Tournament chips.
+Lew1975, at seat 5, is in this hand with 13450 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5100 Tournament chips.
+rileydog13, at seat 7, is in this hand with 6225 Tournament chips.
+Kingring, at seat 8, is in this hand with 4888 Tournament chips.
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+rileydog13 is dealt: **
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 3h Jc ]
+Dealt to rileydog13 [ **** ]
+Dealt to Kingring [ **** ]
+awprob folds [100 Tournament chips]
+Abibytodd folds [100 Tournament chips]
+RCK folds [100 Tournament chips]
+doc1954 raises [200 Tournament chips]
+niteal52 folds [200 Tournament chips]
+Lew1975 calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+rileydog13 calls [150 Tournament chips]
+Kingring calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 9h ] board:[ 5d 9h]
+** Dealing Flop ** [ Kd ] board:[ 5d 9h Kd]
+rileydog13 bets for 533 Tournament chips
+(niteal52 has entered the table, is no longer absent.)
+Kingring folds [533 Tournament chips]
+doc1954 calls [533 Tournament chips]
+Lew1975 raises [1066 Tournament chips]
+rileydog13 calls [533 Tournament chips]
+doc1954 calls [533 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 5d 9h Kd 8d]
+rileydog13 checks
+doc1954 checks
+Lew1975 bets for 3998 Tournament chips
+rileydog13 raises all-in [5009 Tournament chips]
+doc1954 folds [5009 Tournament chips]
+Lew1975 calls [1011 Tournament chips]
+Tournament all-in showdown -- players show:
+Lew1975 shows [ 5s Kh ]
+rileydog13 shows [ 5c Qd ]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 5d 9h Kd 8d 6s]
+        (no action in this round)
+Round 4 is over.
+Lew1975 shows [ 5s Kh ] two pair, kings and fives, nine kicker
+rileydog13 shows [ 5c Qd ] a pair of fives, king/queen kickers
+Lew1975 wins main pot 14016 Tournament chips with two pair, kings and fives, nine kicker.
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6209 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (21191 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 7: rileydog13 (0 Tournament chips) 
+Seat 8: Kingring (4788 Tournament chips) 
+Game #23877943-5 ends
+Player rileydog13 leaves the table with 0 Tournament chips
+Game #23877943-6 starts
+Seat 0: awprob (7950 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6209 Tournament chips) 
+Seat 4: niteal52 (7375 Tournament chips) 
+Seat 5: Lew1975 (21191 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 8: Kingring (4788 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Kingring posts the small blind [50 Tournament chips]
+awprob posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 7850 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand (absent) with 6209 Tournament chips.
+niteal52, at seat 4, is in this hand with 7375 Tournament chips.
+Lew1975, at seat 5, is in this hand with 21191 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5100 Tournament chips.
+Kingring, at seat 8, is in this hand with 4738 Tournament chips.
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 2c 5h ]
+Dealt to Kingring [ **** ]
+Abibytodd calls [100 Tournament chips]
+RCK folds [100 Tournament chips]
+doc1954 folds [100 Tournament chips]
+niteal52 calls [100 Tournament chips]
+Lew1975 raises [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Kingring calls [150 Tournament chips]
+awprob calls [100 Tournament chips]
+Abibytodd calls [100 Tournament chips]
+niteal52 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 9s ] board:[ Ks 9s]
+** Dealing Flop ** [ 6h ] board:[ Ks 9s 6h]
+Kingring checks
+awprob checks
+Abibytodd bets for 100 Tournament chips
+niteal52 folds [100 Tournament chips]
+Lew1975 calls [100 Tournament chips]
+Kingring folds [100 Tournament chips]
+awprob calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Ks 9s 6h 8s]
+awprob checks
+Abibytodd checks
+Lew1975 bets for 650 Tournament chips
+awprob calls [650 Tournament chips]
+Abibytodd folds [650 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ Ks 9s 6h 8s Ts]
+awprob checks
+Lew1975 checks
+Round 4 is over.
+awprob shows [ Qs 4s ] flush, king high
+Hand evaluation for awprob (Qs Ks 9s 8s Ts: flush, king high)
+Lew1975 doesn't show [ 7s 7c ]
+(Lew1975 has 7s 7c.)
+awprob wins main pot 2600 Tournament chips with flush, king/queen/ten high.
+Seat 0: awprob (9600 Tournament chips) 
+Seat 1: Abibytodd (7000 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6209 Tournament chips) 
+Seat 4: niteal52 (7175 Tournament chips) 
+Seat 5: Lew1975 (20241 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-6 ends
+Game #23877943-7 starts
+Seat 0: awprob (9600 Tournament chips) 
+Seat 1: Abibytodd (7000 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6209 Tournament chips) 
+Seat 4: niteal52 (7175 Tournament chips) 
+Seat 5: Lew1975 (20241 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+awprob posts the small blind [50 Tournament chips]
+Abibytodd posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 9550 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 6900 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+doc1954, at seat 3, is in this hand with 6209 Tournament chips.
+niteal52, at seat 4, is in this hand with 7175 Tournament chips.
+Lew1975, at seat 5, is in this hand with 20241 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5100 Tournament chips.
+Kingring, at seat 8, is in this hand with 4588 Tournament chips.
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 6s 3d ]
+Dealt to Kingring [ **** ]
+RCK folds [100 Tournament chips]
+doc1954 calls [100 Tournament chips]
+niteal52 folds [100 Tournament chips]
+Lew1975 calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Kingring folds [100 Tournament chips]
+awprob calls [50 Tournament chips]
+Abibytodd checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Ts ] board:[ 9h Ts]
+** Dealing Flop ** [ As ] board:[ 9h Ts As]
+awprob checks
+Abibytodd bets for 100 Tournament chips
+doc1954 folds [100 Tournament chips]
+Lew1975 folds [100 Tournament chips]
+awprob calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 9h Ts As 5s]
+awprob checks
+Abibytodd bets for 100 Tournament chips
+awprob calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 9h Ts As 5s 8c]
+awprob checks
+Abibytodd checks
+Round 4 is over.
+awprob shows [ Kc 2s ] ace high
+Hand evaluation for awprob (Kc 9h Ts As 8c: ace high)
+Abibytodd shows [ 2c Ad ] a pair of aces
+Hand evaluation for Abibytodd (Ad 9h Ts As 8c: a pair of aces)
+Abibytodd wins main pot 800 Tournament chips with a pair of aces, ten/nine kickers.
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7500 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6109 Tournament chips) 
+Seat 4: niteal52 (7175 Tournament chips) 
+Seat 5: Lew1975 (20141 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-7 ends
+Game #23877943-8 starts
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7500 Tournament chips) 
+Seat 2: RCK (7500 Tournament chips) 
+Seat 3: doc1954 (6109 Tournament chips) 
+Seat 4: niteal52 (7175 Tournament chips) 
+Seat 5: Lew1975 (20141 Tournament chips) 
+Seat 6: QwertySpark (5100 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Abibytodd posts the small blind [50 Tournament chips]
+RCK posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 9300 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7400 Tournament chips.
+doc1954, at seat 3, is in this hand with 6109 Tournament chips.
+niteal52, at seat 4, is in this hand with 7175 Tournament chips.
+Lew1975, at seat 5, is in this hand with 20141 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5100 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4588 Tournament chips.
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ Qc Ac ]
+Dealt to Kingring [ **** ]
+doc1954 folds [100 Tournament chips]
+niteal52 calls [100 Tournament chips]
+Lew1975 raises [200 Tournament chips]
+QwertySpark re-raises [1000 Tournament chips]
+Kingring folds [1000 Tournament chips]
+awprob folds [1000 Tournament chips]
+Abibytodd folds [950 Tournament chips]
+RCK folds [900 Tournament chips]
+niteal52 folds [900 Tournament chips]
+Lew1975 calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Ks ] board:[ 4h Ks]
+** Dealing Flop ** [ 5c ] board:[ 4h Ks 5c]
+Lew1975 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 4h Ks 5c 2d]
+Lew1975 bets for 100 Tournament chips
+QwertySpark raises [1275 Tournament chips]
+Lew1975 calls [1175 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 4h Ks 5c 2d 3d]
+Lew1975 checks
+QwertySpark bets for 1800 Tournament chips
+Lew1975 calls [1800 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Qc Ac ] straight, five high
+Hand evaluation for QwertySpark (Ac 4h 5c 2d 3d: straight, five high)
+Lew1975 doesn't show [ Td Kh ]
+(Lew1975 has Td Kh.)
+QwertySpark wins main pot 8400 Tournament chips with straight, five high.
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7400 Tournament chips) 
+Seat 3: doc1954 (6109 Tournament chips) 
+Seat 4: niteal52 (7075 Tournament chips) 
+Seat 5: Lew1975 (16066 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-8 ends
+Game #23877943-9 starts
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7400 Tournament chips) 
+Seat 3: doc1954 (6109 Tournament chips) 
+Seat 4: niteal52 (7075 Tournament chips) 
+Seat 5: Lew1975 (16066 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+RCK posts the small blind [50 Tournament chips]
+doc1954 posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 9300 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7350 Tournament chips.
+doc1954, at seat 3, is in this hand with 6009 Tournament chips.
+niteal52, at seat 4, is in this hand with 7075 Tournament chips.
+Lew1975, at seat 5, is in this hand with 16066 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9425 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4588 Tournament chips.
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 8c 3s ]
+Dealt to Kingring [ **** ]
+niteal52 folds [100 Tournament chips]
+Lew1975 raises [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+Kingring folds [350 Tournament chips]
+awprob folds [350 Tournament chips]
+Abibytodd folds [350 Tournament chips]
+RCK folds [300 Tournament chips]
+doc1954 calls [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 9d ] board:[ 3h 9d]
+** Dealing Flop ** [ Ah ] board:[ 3h 9d Ah]
+doc1954 has timed out - the hand is checked
+Lew1975 bets for 375 Tournament chips
+doc1954 folds [375 Tournament chips]
+Lew1975 is returned 375 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Lew1975 (5c Qc 3h 9d Ah: ace high)
+Lew1975 wins main pot 750 Tournament chips.
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5759 Tournament chips) 
+Seat 4: niteal52 (7075 Tournament chips) 
+Seat 5: Lew1975 (16466 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-9 ends
+Game #23877943-10 starts
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5759 Tournament chips) 
+Seat 4: niteal52 (7075 Tournament chips) 
+Seat 5: Lew1975 (16466 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+doc1954 posts the small blind [50 Tournament chips]
+niteal52 posts the big blind [100 Tournament chips]
+awprob, at seat 0, is in this hand with 9300 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7350 Tournament chips.
+doc1954, at seat 3, is in this hand with 5709 Tournament chips.
+niteal52, at seat 4, is in this hand with 6975 Tournament chips.
+Lew1975, at seat 5, is in this hand with 16466 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9425 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4588 Tournament chips.
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 2h Js ]
+Dealt to Kingring [ **** ]
+Lew1975 raises [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Kingring folds [200 Tournament chips]
+awprob folds [200 Tournament chips]
+Abibytodd folds [200 Tournament chips]
+RCK folds [200 Tournament chips]
+doc1954 folds [150 Tournament chips]
+niteal52 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Jd ] board:[ 2c Jd]
+** Dealing Flop ** [ 7d ] board:[ 2c Jd 7d]
+niteal52 checks
+Lew1975 bets for 225 Tournament chips
+niteal52 calls [225 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 2c Jd 7d 9h]
+niteal52 checks
+Lew1975 bets for 450 Tournament chips
+niteal52 calls [450 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 2c Jd 7d 9h 7c]
+niteal52 checks
+Lew1975 bets for 1800 Tournament chips
+niteal52 folds [1800 Tournament chips]
+Lew1975 is returned 1800 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Lew1975 (Kc Jd 7d 9h 7c: a pair of sevens)
+Lew1975 wins main pot 1800 Tournament chips.
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (6200 Tournament chips) 
+Seat 5: Lew1975 (17391 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-10 ends
+Game #23877943-11 starts
+Seat 0: awprob (9300 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (6200 Tournament chips) 
+Seat 5: Lew1975 (17391 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+niteal52 posts the small blind [75 Tournament chips]
+Lew1975 posts the big blind [150 Tournament chips]
+awprob, at seat 0, is in this hand with 9300 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7350 Tournament chips.
+doc1954, at seat 3, is in this hand with 5709 Tournament chips.
+niteal52, at seat 4, is in this hand with 6125 Tournament chips.
+Lew1975, at seat 5, is in this hand with 17241 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9425 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4588 Tournament chips.
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 8c 6c ]
+Dealt to Kingring [ **** ]
+QwertySpark folds [150 Tournament chips]
+Kingring folds [150 Tournament chips]
+awprob raises [300 Tournament chips]
+Abibytodd folds [300 Tournament chips]
+RCK folds [300 Tournament chips]
+doc1954 folds [300 Tournament chips]
+niteal52 calls [225 Tournament chips]
+Lew1975 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Jh ] board:[ Qd Jh]
+** Dealing Flop ** [ 7s ] board:[ Qd Jh 7s]
+niteal52 checks
+Lew1975 checks
+awprob checks
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Qd Jh 7s 4h]
+niteal52 bets for 150 Tournament chips
+Lew1975 folds [150 Tournament chips]
+awprob calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Qd Jh 7s 4h 8h]
+niteal52 checks
+awprob checks
+Round 4 is over.
+niteal52 shows [ 3c Js ] a pair of jacks
+Hand evaluation for niteal52 (Js Qd Jh 7s 8h: a pair of jacks)
+awprob doesn't show [ Ah 5d ]
+(awprob has Ah 5d.)
+niteal52 wins main pot 1200 Tournament chips with a pair of jacks, queen/eight kickers.
+Seat 0: awprob (8850 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (6950 Tournament chips) 
+Seat 5: Lew1975 (17091 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-11 ends
+Game #23877943-12 starts
+Seat 0: awprob (8850 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (6950 Tournament chips) 
+Seat 5: Lew1975 (17091 Tournament chips) 
+Seat 6: QwertySpark (9425 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Lew1975 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+awprob, at seat 0, is in this hand with 8850 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+RCK, at seat 2, is in this hand (absent) with 7350 Tournament chips.
+doc1954, at seat 3, is in this hand with 5709 Tournament chips.
+niteal52, at seat 4, is in this hand with 6950 Tournament chips.
+Lew1975, at seat 5, is in this hand with 17016 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9275 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4588 Tournament chips.
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+RCK is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to RCK [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 4s 3c ]
+Dealt to Kingring [ **** ]
+Kingring folds [150 Tournament chips]
+awprob raises [450 Tournament chips]
+Abibytodd folds [450 Tournament chips]
+RCK folds [450 Tournament chips]
+doc1954 folds [450 Tournament chips]
+niteal52 calls [450 Tournament chips]
+Lew1975 folds [375 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 6d ] board:[ 2s 6d]
+** Dealing Flop ** [ 4c ] board:[ 2s 6d 4c]
+awprob bets for 1125 Tournament chips
+niteal52 calls [1125 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 2s 6d 4c 2d]
+awprob bets for 3375 Tournament chips
+niteal52 calls [3375 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 2s 6d 4c 2d Kd]
+awprob bets for 3600 Tournament chips
+niteal52 calls all-in [2000 Tournament chips]
+awprob is returned 1600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+awprob shows [ As Qs ]
+niteal52 shows [ 5d 7d ]
+Round 4 is over.
+awprob shows [ As Qs ] a pair of deuces, ace/king kickers
+niteal52 shows [ 5d 7d ] flush, king/seven/six high
+niteal52 wins main pot 14125 Tournament chips with flush, king/seven/six high.
+Seat 0: awprob (1900 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 2: RCK (7350 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (14125 Tournament chips) 
+Seat 5: Lew1975 (17016 Tournament chips) 
+Seat 6: QwertySpark (9275 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+Game #23877943-12 ends
+Player RCK leaves the table with 0 Tournament chips
+Game #23877943-13 starts
+Seat 0: awprob (1900 Tournament chips) 
+Seat 1: Abibytodd (7450 Tournament chips) 
+Seat 3: doc1954 (5709 Tournament chips) 
+Seat 4: niteal52 (14125 Tournament chips) 
+Seat 5: Lew1975 (17016 Tournament chips) 
+Seat 6: QwertySpark (9275 Tournament chips) 
+Seat 8: Kingring (4588 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [75 Tournament chips]
+Kingring posts the big blind [150 Tournament chips]
+awprob, at seat 0, is in this hand with 1900 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7450 Tournament chips.
+doc1954, at seat 3, is in this hand with 5709 Tournament chips.
+niteal52, at seat 4, is in this hand with 14125 Tournament chips.
+Lew1975, at seat 5, is in this hand with 17016 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9200 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4438 Tournament chips.
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 5s Jc ]
+Dealt to Kingring [ **** ]
+awprob folds [150 Tournament chips]
+Abibytodd calls [150 Tournament chips]
+doc1954 calls [150 Tournament chips]
+niteal52 calls [150 Tournament chips]
+Lew1975 calls [150 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+Kingring folds
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Ad ] board:[ Th Ad]
+** Dealing Flop ** [ Tc ] board:[ Th Ad Tc]
+Abibytodd checks
+doc1954 checks
+niteal52 bets for 150 Tournament chips
+Lew1975 folds [150 Tournament chips]
+Abibytodd folds [150 Tournament chips]
+doc1954 folds [150 Tournament chips]
+niteal52 is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for niteal52 (2h Qd Th Ad Tc: a pair of tens)
+niteal52 wins main pot 825 Tournament chips.
+Seat 0: awprob (1900 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 3: doc1954 (5559 Tournament chips) 
+Seat 4: niteal52 (14800 Tournament chips) 
+Seat 5: Lew1975 (16866 Tournament chips) 
+Seat 6: QwertySpark (9200 Tournament chips) 
+Seat 8: Kingring (4438 Tournament chips) 
+Game #23877943-13 ends
+Game #23877943-14 starts
+Seat 0: awprob (1900 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 3: doc1954 (5559 Tournament chips) 
+Seat 4: niteal52 (14800 Tournament chips) 
+Seat 5: Lew1975 (16866 Tournament chips) 
+Seat 6: QwertySpark (9200 Tournament chips) 
+Seat 8: Kingring (4438 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Kingring posts the small blind [75 Tournament chips]
+awprob posts the big blind [150 Tournament chips]
+awprob, at seat 0, is in this hand with 1750 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7300 Tournament chips.
+doc1954, at seat 3, is in this hand (absent) with 5559 Tournament chips.
+niteal52, at seat 4, is in this hand with 14800 Tournament chips.
+Lew1975, at seat 5, is in this hand with 16866 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9200 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4363 Tournament chips.
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 3h Kh ]
+Dealt to Kingring [ **** ]
+Abibytodd folds [150 Tournament chips]
+doc1954 folds [150 Tournament chips]
+niteal52 raises [300 Tournament chips]
+Lew1975 calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Kingring folds [225 Tournament chips]
+(doc1954 has entered the table, is no longer absent.)
+awprob raises all-in [1750 Tournament chips]
+niteal52 calls [1600 Tournament chips]
+Lew1975 folds [1600 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+Tournament all-in showdown -- players show:
+awprob shows [ 3s 4s ]
+niteal52 shows [ Td Qs ]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6d ] board:[ 8h 6d]
+** Dealing Flop ** [ 3d ] board:[ 8h 6d 3d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 8h 6d 3d 9d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 8h 6d 3d 9d 3c]
+        (no action in this round)
+Round 4 is over.
+awprob shows [ 3s 4s ] three threes, nine/eight kickers
+niteal52 shows [ Td Qs ] a pair of threes, queen/ten kickers
+awprob wins main pot 4475 Tournament chips with three threes, nine/eight kickers.
+Seat 0: awprob (4475 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 3: doc1954 (5559 Tournament chips) 
+Seat 4: niteal52 (12900 Tournament chips) 
+Seat 5: Lew1975 (16566 Tournament chips) 
+Seat 6: QwertySpark (8900 Tournament chips) 
+Seat 8: Kingring (4363 Tournament chips) 
+Game #23877943-14 ends
+Game #23877943-15 starts
+Seat 0: awprob (4475 Tournament chips) 
+Seat 1: Abibytodd (7300 Tournament chips) 
+Seat 3: doc1954 (5559 Tournament chips) 
+Seat 4: niteal52 (12900 Tournament chips) 
+Seat 5: Lew1975 (16566 Tournament chips) 
+Seat 6: QwertySpark (8900 Tournament chips) 
+Seat 8: Kingring (4363 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+awprob posts the small blind [75 Tournament chips]
+Abibytodd posts the big blind [150 Tournament chips]
+awprob, at seat 0, is in this hand with 4400 Tournament chips.
+Abibytodd, at seat 1, is in this hand with 7150 Tournament chips.
+doc1954, at seat 3, is in this hand with 5559 Tournament chips.
+niteal52, at seat 4, is in this hand with 12900 Tournament chips.
+Lew1975, at seat 5, is in this hand with 16566 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8900 Tournament chips.
+Kingring, at seat 8, is in this hand (absent) with 4363 Tournament chips.
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+awprob is dealt: **
+Abibytodd is dealt: **
+doc1954 is dealt: **
+niteal52 is dealt: **
+Lew1975 is dealt: **
+
+Kingring is dealt: **
+Dealt to awprob [ **** ]
+Dealt to Abibytodd [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to niteal52 [ **** ]
+Dealt to Lew1975 [ **** ]
+Dealt to QwertySpark [ 7d 7s ]
+Dealt to Kingring [ **** ]
+doc1954 calls [150 Tournament chips]
+niteal52 folds [150 Tournament chips]
+Lew1975 calls [150 Tournament chips]
+QwertySpark raises [1050 Tournament chips]
+Kingring folds [1050 Tournament chips]
+awprob raises all-in [4400 Tournament chips]
+Abibytodd folds [4325 Tournament chips]
+doc1954 folds [4325 Tournament chips]
+Lew1975 calls [4325 Tournament chips]
+QwertySpark raises all-in [7850 Tournament chips]
+Lew1975 calls [4425 Tournament chips]
+Tournament all-in showdown -- players show:
+awprob shows [ 3h 3c ]
+Lew1975 shows [ As 4h ]
+QwertySpark shows [ 7d 7s ]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Ad ] board:[ 8c Ad]
+** Dealing Flop ** [ 4c ] board:[ 8c Ad 4c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 8c Ad 4c Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 8c Ad 4c Qs Tc]
+        (no action in this round)
+Round 4 is over.
+awprob shows [ 3h 3c ] a pair of threes, ace/queen kickers
+Lew1975 shows [ As 4h ] two pair, aces and fours, queen kicker
+QwertySpark shows [ 7d 7s ] a pair of sevens, ace/queen kickers
+Lew1975 wins main pot 13725 Tournament chips with two pair, aces and fours, queen kicker.
+Lew1975 wins side pot #1 8850 Tournament chips with two pair, aces and fours, queen kicker.
+Seat 0: awprob (0 Tournament chips) 
+Seat 1: Abibytodd (7150 Tournament chips) 
+Seat 3: doc1954 (5409 Tournament chips) 
+Seat 4: niteal52 (12900 Tournament chips) 
+Seat 5: Lew1975 (30241 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Seat 8: Kingring (4363 Tournament chips) 
+Game #23877943-15 ends
+Player awprob leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips
+Player niteal52 leaves the table with 12900 Tournament chips
+Player Kingring leaves the table with 4363 Tournament chips
+Player Lew1975 leaves the table with 30241 Tournament chips
+Player Abibytodd leaves the table with 7150 Tournament chips
+Player doc1954 leaves the table with 5409 Tournament chips

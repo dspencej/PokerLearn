@@ -1,0 +1,1509 @@
+Game#: 23878585
+dozer850 is dealt: **
+QwertySpark is dealt: Qc
+The button is moved to seat 1.
+Game #23878585-1 starts
+Seat 0: dozer850 (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+The button is at seat 1
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 1980 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1990 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 9d 4s ]
+QwertySpark folds [10 Tournament chips]
+dozer850 is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (2c 6s: six high)
+dozer850 wins main pot 20 Tournament chips.
+Seat 0: dozer850 (2010 Tournament chips) 
+Seat 1: QwertySpark (1990 Tournament chips) 
+Game #23878585-1 ends
+Game #23878585-2 starts
+Seat 0: dozer850 (2010 Tournament chips) 
+Seat 1: QwertySpark (1990 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2000 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1970 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 5d Tc ]
+dozer850 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 4c ] board:[ Ks 4c]
+** Dealing Flop ** [ 4h ] board:[ Ks 4c 4h]
+QwertySpark checks
+dozer850 checks
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ Ks 4c 4h Jd]
+QwertySpark bets for 60 Tournament chips
+dozer850 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Ks 4c 4h Jd 6h]
+QwertySpark checks
+dozer850 bets for 100 Tournament chips
+QwertySpark folds [100 Tournament chips]
+dozer850 is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dozer850 (Jh Ks 4c 4h Jd: two pair, jacks and fours)
+dozer850 wins main pot 160 Tournament chips.
+Seat 0: dozer850 (2090 Tournament chips) 
+Seat 1: QwertySpark (1910 Tournament chips) 
+Game #23878585-2 ends
+Game #23878585-3 starts
+Seat 0: dozer850 (2090 Tournament chips) 
+Seat 1: QwertySpark (1910 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1900 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8h 7c ]
+QwertySpark calls [10 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 7s ] board:[ 3d 7s]
+** Dealing Flop ** [ Kh ] board:[ 3d 7s Kh]
+dozer850 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 3d 7s Kh Ac]
+dozer850 checks
+QwertySpark bets for 60 Tournament chips
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (8h 7c 7s Kh Ac: a pair of sevens)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2070 Tournament chips) 
+Seat 1: QwertySpark (1930 Tournament chips) 
+Game #23878585-3 ends
+Game #23878585-4 starts
+Seat 0: dozer850 (2070 Tournament chips) 
+Seat 1: QwertySpark (1930 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2060 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1910 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 5c 5d ]
+dozer850 raises [50 Tournament chips]
+QwertySpark re-raises [100 Tournament chips]
+dozer850 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ Ad ] board:[ 6d Ad]
+** Dealing Flop ** [ 3s ] board:[ 6d Ad 3s]
+QwertySpark bets for 80 Tournament chips
+dozer850 raises [160 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 6d Ad 3s Qd]
+QwertySpark checks
+dozer850 bets for 280 Tournament chips
+QwertySpark calls [280 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 6d Ad 3s Qd 9h]
+QwertySpark checks
+dozer850 bets for 560 Tournament chips
+QwertySpark folds [560 Tournament chips]
+dozer850 is returned 560 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dozer850 (Ah Th Ad Qd 9h: a pair of aces)
+dozer850 wins main pot 1120 Tournament chips.
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+Game #23878585-4 ends
+Game #23878585-5 starts
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2610 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1360 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 4c Th ]
+QwertySpark calls [10 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 3h ] board:[ 3s 3h]
+** Dealing Flop ** [ 9c ] board:[ 3s 3h 9c]
+dozer850 bets for 80 Tournament chips
+QwertySpark folds [80 Tournament chips]
+dozer850 is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (4s 3c 3s 3h 9c: three threes)
+dozer850 wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2650 Tournament chips) 
+Seat 1: QwertySpark (1350 Tournament chips) 
+Game #23878585-5 ends
+Game #23878585-6 starts
+Seat 0: dozer850 (2650 Tournament chips) 
+Seat 1: QwertySpark (1350 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2640 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1330 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 2s 7h ]
+dozer850 raises [50 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+dozer850 is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (Ah 3s: ace high)
+dozer850 wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2670 Tournament chips) 
+Seat 1: QwertySpark (1330 Tournament chips) 
+Game #23878585-6 ends
+Game #23878585-7 starts
+Seat 0: dozer850 (2670 Tournament chips) 
+Seat 1: QwertySpark (1330 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2650 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1320 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 6d 2d ]
+QwertySpark raises [70 Tournament chips]
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (6d 2d: six high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2650 Tournament chips) 
+Seat 1: QwertySpark (1350 Tournament chips) 
+Game #23878585-7 ends
+Game #23878585-8 starts
+Seat 0: dozer850 (2650 Tournament chips) 
+Seat 1: QwertySpark (1350 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2640 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1330 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Jc 3c ]
+dozer850 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 4c ] board:[ 8c 4c]
+** Dealing Flop ** [ Ac ] board:[ 8c 4c Ac]
+QwertySpark bets for 20 Tournament chips
+dozer850 folds [20 Tournament chips]
+QwertySpark is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jc 3c 8c 4c Ac: flush, ace high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+Game #23878585-8 ends
+Game #23878585-9 starts
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2610 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1360 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Ac Kh ]
+QwertySpark raises [70 Tournament chips]
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ac Kh: ace high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2610 Tournament chips) 
+Seat 1: QwertySpark (1390 Tournament chips) 
+Game #23878585-9 ends
+Game #23878585-10 starts
+Seat 0: dozer850 (2610 Tournament chips) 
+Seat 1: QwertySpark (1390 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2600 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1370 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 2d Js ]
+dozer850 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Td ] board:[ 2s Td]
+** Dealing Flop ** [ 9s ] board:[ 2s Td 9s]
+QwertySpark bets for 60 Tournament chips
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (2d Js 2s Td 9s: a pair of deuces)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2590 Tournament chips) 
+Seat 1: QwertySpark (1410 Tournament chips) 
+Game #23878585-10 ends
+Game #23878585-11 starts
+Seat 0: dozer850 (2590 Tournament chips) 
+Seat 1: QwertySpark (1410 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+dozer850 posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2570 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1400 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Js 8c ]
+QwertySpark calls [10 Tournament chips]
+dozer850 raises [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 2h ] board:[ 4c 2h]
+** Dealing Flop ** [ 7s ] board:[ 4c 2h 7s]
+dozer850 bets for 80 Tournament chips
+QwertySpark folds [80 Tournament chips]
+dozer850 is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (4d 5h 4c 2h 7s: a pair of fours)
+dozer850 wins main pot 160 Tournament chips.
+Seat 0: dozer850 (2670 Tournament chips) 
+Seat 1: QwertySpark (1330 Tournament chips) 
+Game #23878585-11 ends
+Game #23878585-12 starts
+Seat 0: dozer850 (2670 Tournament chips) 
+Seat 1: QwertySpark (1330 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dozer850, at seat 0, is in this hand with 2660 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1310 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Js 2c ]
+dozer850 raises [50 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 8d ] board:[ 7s 8d]
+** Dealing Flop ** [ 5h ] board:[ 7s 8d 5h]
+QwertySpark checks
+dozer850 bets for 80 Tournament chips
+QwertySpark folds [80 Tournament chips]
+dozer850 is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (3c 7c 7s 8d 5h: a pair of sevens)
+dozer850 wins main pot 120 Tournament chips.
+Seat 0: dozer850 (2730 Tournament chips) 
+Seat 1: QwertySpark (1270 Tournament chips) 
+Game #23878585-12 ends
+Game #23878585-13 starts
+Seat 0: dozer850 (2730 Tournament chips) 
+Seat 1: QwertySpark (1270 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2700 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1255 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Th As ]
+QwertySpark raises [105 Tournament chips]
+dozer850 folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Th As: ace high)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: dozer850 (2700 Tournament chips) 
+Seat 1: QwertySpark (1300 Tournament chips) 
+Game #23878585-13 ends
+Game #23878585-14 starts
+Seat 0: dozer850 (2700 Tournament chips) 
+Seat 1: QwertySpark (1300 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2685 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1270 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8d 3d ]
+dozer850 calls [15 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+dozer850 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 3c ] board:[ Jd 3c]
+** Dealing Flop ** [ Qc ] board:[ Jd 3c Qc]
+QwertySpark bets for 60 Tournament chips
+dozer850 raises [120 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Jd 3c Qc 9s]
+QwertySpark checks
+dozer850 bets for 210 Tournament chips
+QwertySpark calls [210 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ Jd 3c Qc 9s Ts]
+QwertySpark goes all-in for 880 Tournament chips
+dozer850 folds [880 Tournament chips]
+QwertySpark is returned 880 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (8d Jd Qc 9s Ts: straight, queen high)
+QwertySpark wins main pot 840 Tournament chips.
+Seat 0: dozer850 (2280 Tournament chips) 
+Seat 1: QwertySpark (1720 Tournament chips) 
+Game #23878585-14 ends
+Game #23878585-15 starts
+Seat 0: dozer850 (2280 Tournament chips) 
+Seat 1: QwertySpark (1720 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2250 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1705 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 5c Th ]
+QwertySpark calls [15 Tournament chips]
+dozer850 raises [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Ac ] board:[ Qc Ac]
+** Dealing Flop ** [ Kd ] board:[ Qc Ac Kd]
+dozer850 bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+dozer850 is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (2s 2d Qc Ac Kd: a pair of deuces)
+dozer850 wins main pot 180 Tournament chips.
+Seat 0: dozer850 (2370 Tournament chips) 
+Seat 1: QwertySpark (1630 Tournament chips) 
+Game #23878585-15 ends
+Game #23878585-16 starts
+Seat 0: dozer850 (2370 Tournament chips) 
+Seat 1: QwertySpark (1630 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2355 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1600 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8c Th ]
+dozer850 calls [15 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+dozer850 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 9h ] board:[ 9d 9h]
+** Dealing Flop ** [ Kc ] board:[ 9d 9h Kc]
+QwertySpark bets for 90 Tournament chips
+dozer850 folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (8c Th 9d 9h Kc: a pair of nines)
+QwertySpark wins main pot 180 Tournament chips.
+Seat 0: dozer850 (2280 Tournament chips) 
+Seat 1: QwertySpark (1720 Tournament chips) 
+Game #23878585-16 ends
+Game #23878585-17 starts
+Seat 0: dozer850 (2280 Tournament chips) 
+Seat 1: QwertySpark (1720 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2250 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1705 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8c Ac ]
+QwertySpark raises [105 Tournament chips]
+dozer850 re-raises [180 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 6c ] board:[ Jd 6c]
+** Dealing Flop ** [ Jh ] board:[ Jd 6c Jh]
+dozer850 bets for 210 Tournament chips
+QwertySpark calls [210 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Jd 6c Jh 2h]
+dozer850 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Jd 6c Jh 2h 5d]
+dozer850 goes all-in for 1860 Tournament chips
+QwertySpark folds [1300 Tournament chips]
+dozer850 is returned 1860 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dozer850 (As Th Jd 6c Jh: a pair of jacks)
+dozer850 wins main pot 840 Tournament chips.
+Seat 0: dozer850 (2700 Tournament chips) 
+Seat 1: QwertySpark (1300 Tournament chips) 
+Game #23878585-17 ends
+Game #23878585-18 starts
+Seat 0: dozer850 (2700 Tournament chips) 
+Seat 1: QwertySpark (1300 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2685 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1270 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Jh Ac ]
+dozer850 calls [15 Tournament chips]
+QwertySpark raises [90 Tournament chips]
+dozer850 calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 8d ] board:[ Kd 8d]
+** Dealing Flop ** [ 4h ] board:[ Kd 8d 4h]
+QwertySpark bets for 120 Tournament chips
+dozer850 folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jh Ac Kd 8d 4h: ace high)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: dozer850 (2580 Tournament chips) 
+Seat 1: QwertySpark (1420 Tournament chips) 
+Game #23878585-18 ends
+Game #23878585-19 starts
+Seat 0: dozer850 (2580 Tournament chips) 
+Seat 1: QwertySpark (1420 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2550 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1405 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8s 3d ]
+QwertySpark folds [15 Tournament chips]
+dozer850 is returned 15 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (8d 6c: eight high)
+dozer850 wins main pot 30 Tournament chips.
+Seat 0: dozer850 (2595 Tournament chips) 
+Seat 1: QwertySpark (1405 Tournament chips) 
+Game #23878585-19 ends
+Game #23878585-20 starts
+Seat 0: dozer850 (2595 Tournament chips) 
+Seat 1: QwertySpark (1405 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2580 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1375 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Jd Ad ]
+dozer850 raises [75 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 5h ] board:[ 3s 5h]
+** Dealing Flop ** [ 8c ] board:[ 3s 5h 8c]
+QwertySpark checks
+dozer850 bets for 90 Tournament chips
+QwertySpark calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 3s 5h 8c 9d]
+QwertySpark bets for 60 Tournament chips
+dozer850 raises [120 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 3s 5h 8c 9d 7s]
+QwertySpark bets for 600 Tournament chips
+dozer850 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Jd Ad 8c 9d 7s: ace high)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: dozer850 (2295 Tournament chips) 
+Seat 1: QwertySpark (1705 Tournament chips) 
+Game #23878585-20 ends
+Game #23878585-21 starts
+Seat 0: dozer850 (2295 Tournament chips) 
+Seat 1: QwertySpark (1705 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2265 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1690 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Ks 8s ]
+QwertySpark raises [105 Tournament chips]
+dozer850 folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ks 8s: king high)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: dozer850 (2265 Tournament chips) 
+Seat 1: QwertySpark (1735 Tournament chips) 
+Game #23878585-21 ends
+Game #23878585-22 starts
+Seat 0: dozer850 (2265 Tournament chips) 
+Seat 1: QwertySpark (1735 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2250 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1705 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Js 7c ]
+dozer850 calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 4s ] board:[ 3s 4s]
+** Dealing Flop ** [ 4d ] board:[ 3s 4s 4d]
+QwertySpark checks
+dozer850 checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 3s 4s 4d 8h]
+QwertySpark checks
+dozer850 checks
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 3s 4s 4d 8h Qh]
+QwertySpark bets for 60 Tournament chips
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Js 4s 4d 8h Qh: a pair of fours)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: dozer850 (2235 Tournament chips) 
+Seat 1: QwertySpark (1765 Tournament chips) 
+Game #23878585-22 ends
+Game #23878585-23 starts
+Seat 0: dozer850 (2235 Tournament chips) 
+Seat 1: QwertySpark (1765 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+dozer850 posts the big blind [30 Tournament chips]
+dozer850, at seat 0, is in this hand with 2205 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1750 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Qd 4s ]
+QwertySpark calls [15 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ Ah ] board:[ Ac Ah]
+** Dealing Flop ** [ 5c ] board:[ Ac Ah 5c]
+dozer850 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Ac Ah 5c 8d]
+dozer850 checks
+QwertySpark bets for 60 Tournament chips
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qd Ac Ah 5c 8d: a pair of aces)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: dozer850 (2205 Tournament chips) 
+Seat 1: QwertySpark (1795 Tournament chips) 
+Game #23878585-23 ends
+Game #23878585-24 starts
+Seat 0: dozer850 (2205 Tournament chips) 
+Seat 1: QwertySpark (1795 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2185 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1755 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Qh Kh ]
+dozer850 calls [20 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+dozer850 folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh Kh: king high)
+QwertySpark wins main pot 80 Tournament chips.
+Seat 0: dozer850 (2165 Tournament chips) 
+Seat 1: QwertySpark (1835 Tournament chips) 
+Game #23878585-24 ends
+Game #23878585-25 starts
+Seat 0: dozer850 (2165 Tournament chips) 
+Seat 1: QwertySpark (1835 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+dozer850 posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2125 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1815 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ As 8c ]
+QwertySpark calls [20 Tournament chips]
+dozer850 raises [80 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Qs ] board:[ Ks Qs]
+** Dealing Flop ** [ Ac ] board:[ Ks Qs Ac]
+dozer850 bets for 160 Tournament chips
+QwertySpark calls [160 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Ks Qs Ac 6s]
+dozer850 bets for 280 Tournament chips
+QwertySpark raises [560 Tournament chips]
+dozer850 folds [280 Tournament chips]
+QwertySpark is returned 280 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (As 8c Ks Qs Ac: a pair of aces)
+QwertySpark wins main pot 1120 Tournament chips.
+Seat 0: dozer850 (1605 Tournament chips) 
+Seat 1: QwertySpark (2395 Tournament chips) 
+Game #23878585-25 ends
+Game #23878585-26 starts
+Seat 0: dozer850 (1605 Tournament chips) 
+Seat 1: QwertySpark (2395 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 1585 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2355 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 6c 3c ]
+dozer850 raises [100 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 5d ] board:[ 5h 5d]
+** Dealing Flop ** [ 4s ] board:[ 5h 5d 4s]
+QwertySpark bets for 80 Tournament chips
+dozer850 calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 5h 5d 4s 4d]
+QwertySpark checks
+dozer850 bets for 240 Tournament chips
+QwertySpark folds [240 Tournament chips]
+dozer850 is returned 240 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for dozer850 (Kh 5h 5d 4s 4d: two pair, fives and fours)
+dozer850 wins main pot 400 Tournament chips.
+Seat 0: dozer850 (1805 Tournament chips) 
+Seat 1: QwertySpark (2195 Tournament chips) 
+Game #23878585-26 ends
+Game #23878585-27 starts
+Seat 0: dozer850 (1805 Tournament chips) 
+Seat 1: QwertySpark (2195 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+dozer850 posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 1765 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2175 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Th 5c ]
+QwertySpark calls [20 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ As ] board:[ 7h As]
+** Dealing Flop ** [ Jh ] board:[ 7h As Jh]
+dozer850 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 7h As Jh 4c]
+dozer850 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 7h As Jh 4c 6d]
+dozer850 checks
+QwertySpark checks
+Round 4 is over.
+dozer850 shows [ 8d 6c ] a pair of sixes
+Hand evaluation for dozer850 (8d 6c As Jh 6d: a pair of sixes)
+QwertySpark doesn't show [ Th 5c ]
+(QwertySpark has Th 5c.)
+dozer850 wins main pot 80 Tournament chips with a pair of sixes, ace/jack kickers.
+Seat 0: dozer850 (1845 Tournament chips) 
+Seat 1: QwertySpark (2155 Tournament chips) 
+Game #23878585-27 ends
+Game #23878585-28 starts
+Seat 0: dozer850 (1845 Tournament chips) 
+Seat 1: QwertySpark (2155 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 1825 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2115 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 2s Ac ]
+dozer850 calls [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+dozer850 calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Jh ] board:[ Qd Jh]
+** Dealing Flop ** [ 6h ] board:[ Qd Jh 6h]
+QwertySpark checks
+dozer850 checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Qd Jh 6h Td]
+QwertySpark bets for 120 Tournament chips
+dozer850 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Qd Jh 6h Td 5d]
+QwertySpark checks
+dozer850 bets for 320 Tournament chips
+QwertySpark folds [320 Tournament chips]
+dozer850 is returned 320 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dozer850 (7h Qd Jh 6h Td: queen high)
+dozer850 wins main pot 480 Tournament chips.
+Seat 0: dozer850 (2085 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Game #23878585-28 ends
+Game #23878585-29 starts
+Seat 0: dozer850 (2085 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+dozer850 posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2045 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1895 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Ac 3d ]
+QwertySpark calls [20 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 4h ] board:[ Qd 4h]
+** Dealing Flop ** [ 8s ] board:[ Qd 4h 8s]
+dozer850 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ Qd 4h 8s Ks]
+dozer850 bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+dozer850 is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for dozer850 (7c Kd Qd 8s Ks: a pair of kings)
+dozer850 wins main pot 80 Tournament chips.
+Seat 0: dozer850 (2125 Tournament chips) 
+Seat 1: QwertySpark (1875 Tournament chips) 
+Game #23878585-29 ends
+Game #23878585-30 starts
+Seat 0: dozer850 (2125 Tournament chips) 
+Seat 1: QwertySpark (1875 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2105 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1835 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 5h 6c ]
+dozer850 raises [100 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+dozer850 is returned 80 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (Td Kc: king high)
+dozer850 wins main pot 80 Tournament chips.
+Seat 0: dozer850 (2165 Tournament chips) 
+Seat 1: QwertySpark (1835 Tournament chips) 
+Game #23878585-30 ends
+Game #23878585-31 starts
+Seat 0: dozer850 (2165 Tournament chips) 
+Seat 1: QwertySpark (1835 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+dozer850 posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2125 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1815 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Ad 3d ]
+QwertySpark raises [60 Tournament chips]
+dozer850 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Ts ] board:[ 6s Ts]
+** Dealing Flop ** [ 8s ] board:[ 6s Ts 8s]
+dozer850 bets for 160 Tournament chips
+QwertySpark folds [160 Tournament chips]
+dozer850 is returned 160 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (7c Td 6s Ts 8s: a pair of tens)
+dozer850 wins main pot 160 Tournament chips.
+Seat 0: dozer850 (2245 Tournament chips) 
+Seat 1: QwertySpark (1755 Tournament chips) 
+Game #23878585-31 ends
+Game #23878585-32 starts
+Seat 0: dozer850 (2245 Tournament chips) 
+Seat 1: QwertySpark (1755 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2225 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1715 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8h 9h ]
+dozer850 folds [20 Tournament chips]
+QwertySpark is returned 20 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8h 9h: nine high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: dozer850 (2225 Tournament chips) 
+Seat 1: QwertySpark (1775 Tournament chips) 
+Game #23878585-32 ends
+Game #23878585-33 starts
+Seat 0: dozer850 (2225 Tournament chips) 
+Seat 1: QwertySpark (1775 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+dozer850 posts the big blind [40 Tournament chips]
+dozer850, at seat 0, is in this hand with 2185 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1755 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ As 2d ]
+QwertySpark calls [20 Tournament chips]
+dozer850 raises [80 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Jc ] board:[ 5d Jc]
+** Dealing Flop ** [ Ad ] board:[ 5d Jc Ad]
+dozer850 bets for 160 Tournament chips
+QwertySpark calls [160 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 5d Jc Ad Ah]
+dozer850 bets for 280 Tournament chips
+QwertySpark raises [1400 Tournament chips]
+dozer850 folds [1120 Tournament chips]
+QwertySpark is returned 1120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (As 5d Jc Ad Ah: three aces)
+QwertySpark wins main pot 1120 Tournament chips.
+Seat 0: dozer850 (1665 Tournament chips) 
+Seat 1: QwertySpark (2335 Tournament chips) 
+Game #23878585-33 ends
+Game #23878585-34 starts
+Seat 0: dozer850 (1665 Tournament chips) 
+Seat 1: QwertySpark (2335 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1635 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2275 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8h Th ]
+dozer850 raises [150 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Jc ] board:[ Qs Jc]
+** Dealing Flop ** [ Js ] board:[ Qs Jc Js]
+QwertySpark checks
+dozer850 bets for 300 Tournament chips
+QwertySpark calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ Qs Jc Js 5d]
+QwertySpark checks
+dozer850 bets for 480 Tournament chips
+QwertySpark folds [480 Tournament chips]
+dozer850 is returned 480 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for dozer850 (9c Qc Qs Jc Js: two pair, queens and jacks)
+dozer850 wins main pot 960 Tournament chips.
+Seat 0: dozer850 (2145 Tournament chips) 
+Seat 1: QwertySpark (1855 Tournament chips) 
+Game #23878585-34 ends
+Game #23878585-35 starts
+Seat 0: dozer850 (2145 Tournament chips) 
+Seat 1: QwertySpark (1855 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+dozer850 posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 2085 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1825 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 4c Jh ]
+QwertySpark calls [30 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 3h ] board:[ Kh 3h]
+** Dealing Flop ** [ 6c ] board:[ Kh 3h 6c]
+dozer850 checks
+QwertySpark bets for 120 Tournament chips
+dozer850 calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Kh 3h 6c 9h]
+dozer850 checks
+QwertySpark bets for 180 Tournament chips
+dozer850 folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (4c Jh Kh 6c 9h: king high)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 0: dozer850 (1965 Tournament chips) 
+Seat 1: QwertySpark (2035 Tournament chips) 
+Game #23878585-35 ends
+Game #23878585-36 starts
+Seat 0: dozer850 (1965 Tournament chips) 
+Seat 1: QwertySpark (2035 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1935 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1975 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Kd 2s ]
+dozer850 raises [150 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+dozer850 is returned 120 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (Kc 7c: king high)
+dozer850 wins main pot 120 Tournament chips.
+Seat 0: dozer850 (2025 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Game #23878585-36 ends
+Game #23878585-37 starts
+Seat 0: dozer850 (2025 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+dozer850 posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1945 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 9d 8h ]
+QwertySpark calls [30 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Th ] board:[ Kh Th]
+** Dealing Flop ** [ 6h ] board:[ Kh Th 6h]
+dozer850 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Kh Th 6h 2h]
+dozer850 checks
+QwertySpark bets for 60 Tournament chips
+dozer850 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (8h Kh Th 6h 2h: flush, king high)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 0: dozer850 (1965 Tournament chips) 
+Seat 1: QwertySpark (2035 Tournament chips) 
+Game #23878585-37 ends
+Game #23878585-38 starts
+Seat 0: dozer850 (1965 Tournament chips) 
+Seat 1: QwertySpark (2035 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1935 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1975 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 5h 8d ]
+dozer850 raises [210 Tournament chips]
+QwertySpark folds [180 Tournament chips]
+dozer850 is returned 180 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dozer850 (2c Ad: ace high)
+dozer850 wins main pot 120 Tournament chips.
+Seat 0: dozer850 (2025 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Game #23878585-38 ends
+Game #23878585-39 starts
+Seat 0: dozer850 (2025 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+dozer850 posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1945 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 6c Qs ]
+QwertySpark calls [30 Tournament chips]
+dozer850 raises [120 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 8h ] board:[ 6h 8h]
+** Dealing Flop ** [ Ac ] board:[ 6h 8h Ac]
+dozer850 goes all-in for 1845 Tournament chips
+QwertySpark folds [1795 Tournament chips]
+dozer850 is returned 1845 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dozer850 (Kd Ts 6h 8h Ac: ace high)
+dozer850 wins main pot 360 Tournament chips.
+Seat 0: dozer850 (2205 Tournament chips) 
+Seat 1: QwertySpark (1795 Tournament chips) 
+Game #23878585-39 ends
+Game #23878585-40 starts
+Seat 0: dozer850 (2205 Tournament chips) 
+Seat 1: QwertySpark (1795 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 2175 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1735 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 9d Jc ]
+dozer850 calls [30 Tournament chips]
+QwertySpark raises [180 Tournament chips]
+dozer850 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Th ] board:[ Qh Th]
+** Dealing Flop ** [ 8s ] board:[ Qh Th 8s]
+QwertySpark bets for 180 Tournament chips
+dozer850 calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Qh Th 8s 4c]
+QwertySpark checks
+dozer850 checks
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ Qh Th 8s 4c 5h]
+QwertySpark bets for 240 Tournament chips
+dozer850 folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (9d Jc Qh Th 8s: straight, queen high)
+QwertySpark wins main pot 840 Tournament chips.
+Seat 0: dozer850 (1785 Tournament chips) 
+Seat 1: QwertySpark (2215 Tournament chips) 
+Game #23878585-40 ends
+Game #23878585-41 starts
+Seat 0: dozer850 (1785 Tournament chips) 
+Seat 1: QwertySpark (2215 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+dozer850 posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 1725 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2185 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Qd Qs ]
+QwertySpark raises [90 Tournament chips]
+dozer850 re-raises [180 Tournament chips]
+QwertySpark raises all-in [2095 Tournament chips]
+dozer850 calls all-in [1545 Tournament chips]
+QwertySpark is returned 430 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+dozer850 shows [ Kd Js ]
+QwertySpark shows [ Qd Qs ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 3d ] board:[ Ks 3d]
+** Dealing Flop ** [ 6d ] board:[ Ks 3d 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Ks 3d 6d 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Ks 3d 6d 5h 4c]
+        (no action in this round)
+Round 4 is over.
+dozer850 shows [ Kd Js ] a pair of kings, jack/six kickers
+QwertySpark shows [ Qd Qs ] a pair of queens, king/six kickers
+dozer850 wins main pot 3570 Tournament chips with a pair of kings, jack/six kickers.
+Seat 0: dozer850 (3570 Tournament chips) 
+Seat 1: QwertySpark (430 Tournament chips) 
+Game #23878585-41 ends
+Game #23878585-42 starts
+Seat 0: dozer850 (3570 Tournament chips) 
+Seat 1: QwertySpark (430 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 3540 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 370 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Ks Ah ]
+dozer850 calls [30 Tournament chips]
+QwertySpark raises all-in [370 Tournament chips]
+dozer850 calls [370 Tournament chips]
+Tournament all-in showdown -- players show:
+dozer850 shows [ 7c Jc ]
+QwertySpark shows [ Ks Ah ]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 6c ] board:[ 6h 6c]
+** Dealing Flop ** [ As ] board:[ 6h 6c As]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 6h 6c As Th]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 6h 6c As Th 4c]
+        (no action in this round)
+Round 4 is over.
+dozer850 shows [ 7c Jc ] a pair of sixes, ace/jack kickers
+QwertySpark shows [ Ks Ah ] two pair, aces and sixes, king kicker
+QwertySpark wins main pot 860 Tournament chips with two pair, aces and sixes, king kicker.
+Seat 0: dozer850 (3140 Tournament chips) 
+Seat 1: QwertySpark (860 Tournament chips) 
+Game #23878585-42 ends
+Game #23878585-43 starts
+Seat 0: dozer850 (3140 Tournament chips) 
+Seat 1: QwertySpark (860 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+dozer850 posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 3080 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 830 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Qh Kc ]
+QwertySpark raises [270 Tournament chips]
+dozer850 folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh Kc: king high)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 0: dozer850 (3080 Tournament chips) 
+Seat 1: QwertySpark (920 Tournament chips) 
+Game #23878585-43 ends
+Game #23878585-44 starts
+Seat 0: dozer850 (3080 Tournament chips) 
+Seat 1: QwertySpark (920 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+dozer850, at seat 0, is in this hand with 3050 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 860 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ Jc 9d ]
+dozer850 calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Tc ] board:[ Kc Tc]
+** Dealing Flop ** [ Ad ] board:[ Kc Tc Ad]
+QwertySpark checks
+dozer850 bets for 240 Tournament chips
+QwertySpark calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Kc Tc Ad 5s]
+QwertySpark goes all-in for 620 Tournament chips
+dozer850 folds [620 Tournament chips]
+QwertySpark is returned 620 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Jc 9d Kc Tc Ad: ace high)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: dozer850 (2780 Tournament chips) 
+Seat 1: QwertySpark (1220 Tournament chips) 
+Game #23878585-44 ends
+Game #23878585-45 starts
+Seat 0: dozer850 (2780 Tournament chips) 
+Seat 1: QwertySpark (1220 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+dozer850 posts the big blind [100 Tournament chips]
+dozer850, at seat 0, is in this hand with 2680 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1170 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 8h Jh ]
+QwertySpark calls [50 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 8s ] board:[ 6s 8s]
+** Dealing Flop ** [ 3d ] board:[ 6s 8s 3d]
+dozer850 checks
+QwertySpark bets for 500 Tournament chips
+dozer850 folds [500 Tournament chips]
+QwertySpark is returned 500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (8h Jh 6s 8s 3d: a pair of eights)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: dozer850 (2680 Tournament chips) 
+Seat 1: QwertySpark (1320 Tournament chips) 
+Game #23878585-45 ends
+Game #23878585-46 starts
+Seat 0: dozer850 (2680 Tournament chips) 
+Seat 1: QwertySpark (1320 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+dozer850 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+dozer850, at seat 0, is in this hand with 2630 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1220 Tournament chips.
+
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 2d 6d ]
+dozer850 folds [50 Tournament chips]
+QwertySpark is returned 50 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2d 6d: six high)
+QwertySpark wins main pot 100 Tournament chips.
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+Game #23878585-46 ends
+Game #23878585-47 starts
+Seat 0: dozer850 (2630 Tournament chips) 
+Seat 1: QwertySpark (1370 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+dozer850 posts the big blind [100 Tournament chips]
+dozer850, at seat 0, is in this hand with 2530 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1320 Tournament chips.
+dozer850 is dealt: **
+
+dozer850 is dealt: **
+
+Dealt to dozer850 [ **** ]
+Dealt to QwertySpark [ 6h As ]
+QwertySpark calls [50 Tournament chips]
+dozer850 checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 3h ] board:[ 7c 3h]
+** Dealing Flop ** [ 4s ] board:[ 7c 3h 4s]
+dozer850 bets for 200 Tournament chips
+QwertySpark raises [800 Tournament chips]
+dozer850 re-raises [1200 Tournament chips]
+QwertySpark calls all-in [470 Tournament chips]
+dozer850 is returned 130 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+dozer850 shows [ 3d 2h ]
+QwertySpark shows [ 6h As ]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 7c 3h 4s Ks]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 7c 3h 4s Ks Ts]
+        (no action in this round)
+Round 4 is over.
+dozer850 shows [ 3d 2h ] a pair of threes, king/ten kickers
+QwertySpark shows [ 6h As ] ace/king/ten high
+dozer850 wins main pot 2740 Tournament chips with a pair of threes, king/ten kickers.
+Seat 0: dozer850 (4000 Tournament chips) 
+Seat 1: QwertySpark (0 Tournament chips) 
+Game #23878585-47 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player dozer850 leaves the table with 4000 Tournament chips
+Game 23878585 is now shutting down

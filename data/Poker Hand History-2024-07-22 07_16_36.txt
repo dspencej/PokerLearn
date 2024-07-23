@@ -1,0 +1,69 @@
+Game#: 23972136
+NavyMedic12 is dealt: **
+ROQ is dealt: **
+Wayne1972 is dealt: **
+QwertySpark is dealt: 9s
+usmcMARINE is dealt: **
+The button is moved to seat 7.
+Game #23972136-1 starts
+Seat 2: NavyMedic12 (1000 Tournament chips) 
+Seat 5: ROQ (1000 Tournament chips) 
+Seat 6: Wayne1972 (1000 Tournament chips) 
+Seat 7: QwertySpark (965 Tournament chips) 
+Seat 8: usmcMARINE (1000 Tournament chips) 
+The button is at seat 7
+usmcMARINE posts the small blind [10 Tournament chips]
+NavyMedic12 posts the big blind [20 Tournament chips]
+NavyMedic12, at seat 2, is in this hand with 980 Tournament chips.
+ROQ, at seat 5, is in this hand with 1000 Tournament chips.
+Wayne1972, at seat 6, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 965 Tournament chips.
+usmcMARINE, at seat 8, is in this hand with 990 Tournament chips.
+usmcMARINE is dealt: **
+NavyMedic12 is dealt: **
+ROQ is dealt: **
+Wayne1972 is dealt: **
+
+usmcMARINE is dealt: **
+NavyMedic12 is dealt: **
+ROQ is dealt: **
+Wayne1972 is dealt: **
+
+Dealt to NavyMedic12 [ **** ]
+Dealt to ROQ [ **** ]
+Dealt to Wayne1972 [ **** ]
+Dealt to QwertySpark [ 7h 7c ]
+Dealt to usmcMARINE [ **** ]
+ROQ folds [20 Tournament chips]
+Wayne1972 folds [20 Tournament chips]
+QwertySpark raises all-in [965 Tournament chips]
+usmcMARINE folds [955 Tournament chips]
+NavyMedic12 calls [945 Tournament chips]
+Tournament all-in showdown -- players show:
+NavyMedic12 shows [ Ad 9d ]
+QwertySpark shows [ 7h 7c ]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 6h ] board:[ 3s 6h]
+** Dealing Flop ** [ 6c ] board:[ 3s 6h 6c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 3s 6h 6c 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 3s 6h 6c 6s Ah]
+        (no action in this round)
+Round 4 is over.
+NavyMedic12 shows [ Ad 9d ] full house, sixes full of aces
+QwertySpark shows [ 7h 7c ] full house, sixes full of sevens
+NavyMedic12 wins main pot 1940 Tournament chips with full house, sixes full of aces.
+Seat 1: Stayback (985 Tournament chips) 
+Seat 2: NavyMedic12 (1975 Tournament chips) 
+Seat 3: 69shelby (1470 Tournament chips) 
+Seat 4: Skeeterjoe (1000 Tournament chips) 
+Seat 5: ROQ (1000 Tournament chips) 
+Seat 6: Wayne1972 (1000 Tournament chips) 
+Seat 7: QwertySpark (0 Tournament chips) 
+Seat 8: usmcMARINE (990 Tournament chips) 
+Game #23972136-1 ends
+Player QwertySpark leaves the table with 0 Tournament chips

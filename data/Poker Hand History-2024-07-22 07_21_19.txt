@@ -1,0 +1,3243 @@
+Game#: 23936611
+Treesnkeys63 calls [10 Tournament chips]
+Brokergal folds [10 Tournament chips]
+KINGCOBRA5555 folds [10 Tournament chips]
+rlbirm calls [5 Tournament chips]
+Gray40 checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9d ] board:[ Qh 9d]
+** Dealing Flop ** [ As ] board:[ Qh 9d As]
+rlbirm bets for 10 Tournament chips
+Gray40 folds [10 Tournament chips]
+Treesnkeys63 calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Qh 9d As 8h]
+rlbirm bets for 50 Tournament chips
+Treesnkeys63 folds [50 Tournament chips]
+rlbirm is returned 50 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for rlbirm (Ts Qh 9d As 8h: ace high)
+rlbirm wins main pot 50 Tournament chips.
+Seat 0: KINGCOBRA5555 (1500 Tournament chips) 
+Seat 1: rlbirm (1530 Tournament chips) 
+Seat 2: Gray40 (1490 Tournament chips) 
+Seat 4: Treesnkeys63 (1480 Tournament chips) 
+Seat 5: Brokergal (1500 Tournament chips) 
+Seat 6: bsbaebsbae (1490 Tournament chips) 
+Seat 7: Duckdoger (1490 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+Game #23936611-1 ends
+Game #23936611-2 starts
+Seat 0: KINGCOBRA5555 (1500 Tournament chips) 
+Seat 1: rlbirm (1530 Tournament chips) 
+Seat 2: Gray40 (1490 Tournament chips) 
+Seat 4: Treesnkeys63 (1480 Tournament chips) 
+Seat 5: Brokergal (1500 Tournament chips) 
+Seat 6: bsbaebsbae (1490 Tournament chips) 
+Seat 7: Duckdoger (1490 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Gray40 posts the small blind [5 Tournament chips]
+Treesnkeys63 posts the big blind [10 Tournament chips]
+KINGCOBRA5555, at seat 0, is in this hand with 1500 Tournament chips.
+rlbirm, at seat 1, is in this hand with 1530 Tournament chips.
+Gray40, at seat 2, is in this hand with 1485 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1470 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1500 Tournament chips.
+bsbaebsbae, at seat 6, is in this hand with 1490 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1490 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+Gray40 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+bsbaebsbae is dealt: **
+Duckdoger is dealt: **
+
+KINGCOBRA5555 is dealt: **
+rlbirm is dealt: **
+Gray40 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+bsbaebsbae is dealt: **
+Duckdoger is dealt: **
+
+KINGCOBRA5555 is dealt: **
+rlbirm is dealt: **
+Dealt to KINGCOBRA5555 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to bsbaebsbae [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8d 7h ]
+Brokergal folds [10 Tournament chips]
+bsbaebsbae folds [10 Tournament chips]
+Duckdoger calls [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+KINGCOBRA5555 calls [10 Tournament chips]
+rlbirm raises [30 Tournament chips]
+Gray40 calls [25 Tournament chips]
+Treesnkeys63 folds [20 Tournament chips]
+Duckdoger calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+KINGCOBRA5555 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 8h ] board:[ 5s 8h]
+** Dealing Flop ** [ Ah ] board:[ 5s 8h Ah]
+Gray40 checks
+Duckdoger checks
+QwertySpark checks
+KINGCOBRA5555 checks
+rlbirm checks
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 5s 8h Ah 7d]
+Gray40 checks
+Duckdoger checks
+QwertySpark bets for 70 Tournament chips
+KINGCOBRA5555 folds [70 Tournament chips]
+rlbirm calls [70 Tournament chips]
+Gray40 calls [70 Tournament chips]
+Duckdoger folds [70 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 5s 8h Ah 7d 4d]
+Gray40 checks
+QwertySpark checks
+rlbirm checks
+Round 4 is over.
+Gray40 shows [ 9h Kc ] ace high
+Hand evaluation for Gray40 (9h Kc 8h Ah 7d: ace high)
+QwertySpark shows [ 8d 7h ] two pair, eights and sevens
+Hand evaluation for QwertySpark (8d 7h 8h Ah 7d: two pair, eights and sevens)
+rlbirm doesn't show [ Tc 4c ]
+(rlbirm has Tc 4c.)
+QwertySpark wins main pot 370 Tournament chips with two pair, eights and sevens, ace kicker.
+Seat 0: KINGCOBRA5555 (1470 Tournament chips) 
+Seat 1: rlbirm (1430 Tournament chips) 
+Seat 2: Gray40 (1390 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1470 Tournament chips) 
+Seat 5: Brokergal (1500 Tournament chips) 
+Seat 6: bsbaebsbae (1490 Tournament chips) 
+Seat 7: Duckdoger (1460 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+Game #23936611-2 ends
+Player bsbaebsbae leaves the table with 1490 Tournament chips
+Player KINGCOBRA5555 leaves the table with 1470 Tournament chips
+Player Gray40 leaves the table with 1390 Tournament chips
+Game #23936611-3 starts
+Seat 1: rlbirm (1430 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1470 Tournament chips) 
+Seat 5: Brokergal (1500 Tournament chips) 
+Seat 7: Duckdoger (1460 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Treesnkeys63 posts the small blind [5 Tournament chips]
+Brokergal posts the big blind [10 Tournament chips]
+rlbirm, at seat 1, is in this hand with 1430 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1465 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1490 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1460 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1770 Tournament chips.
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8d 5d ]
+Duckdoger raises [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+rlbirm folds [20 Tournament chips]
+Treesnkeys63 folds [15 Tournament chips]
+Brokergal calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 2h ] board:[ Qd 2h]
+** Dealing Flop ** [ Th ] board:[ Qd 2h Th]
+Brokergal checks
+Duckdoger bets for 10 Tournament chips
+Brokergal folds [10 Tournament chips]
+Duckdoger is returned 10 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Duckdoger (3h Qh Qd 2h Th: a pair of queens)
+Duckdoger wins main pot 45 Tournament chips.
+Seat 0: fr5154 (1500 Tournament chips) 
+Seat 1: rlbirm (1430 Tournament chips) 
+Seat 2: Waynesworlds (1500 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1465 Tournament chips) 
+Seat 5: Brokergal (1480 Tournament chips) 
+Seat 6: To2lee OZZuM (1500 Tournament chips) 
+Seat 7: Duckdoger (1485 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+Game #23936611-3 ends
+Game #23936611-4 starts
+Seat 0: fr5154 (1500 Tournament chips) 
+Seat 1: rlbirm (1430 Tournament chips) 
+Seat 2: Waynesworlds (1500 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1465 Tournament chips) 
+Seat 5: Brokergal (1480 Tournament chips) 
+Seat 6: To2lee OZZuM (1500 Tournament chips) 
+Seat 7: Duckdoger (1485 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+Brokergal posts the small blind [5 Tournament chips]
+To2lee OZZuM posts the big blind [10 Tournament chips]
+fr5154, at seat 0, is in this hand with 1500 Tournament chips.
+rlbirm, at seat 1, is in this hand with 1430 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 1500 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1465 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1475 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1490 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1485 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1770 Tournament chips.
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Qc Th ]
+Duckdoger raises [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+fr5154 folds [20 Tournament chips]
+rlbirm calls [20 Tournament chips]
+Waynesworlds calls [20 Tournament chips]
+oldlimper31 folds [20 Tournament chips]
+Treesnkeys63 folds [20 Tournament chips]
+Brokergal calls [15 Tournament chips]
+To2lee OZZuM folds [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ Kd ] board:[ 9s Kd]
+** Dealing Flop ** [ 5d ] board:[ 9s Kd 5d]
+Brokergal checks
+Duckdoger checks
+rlbirm checks
+Waynesworlds bets for 45 Tournament chips
+Brokergal folds [45 Tournament chips]
+Duckdoger folds [45 Tournament chips]
+rlbirm calls [45 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 9s Kd 5d 4s]
+rlbirm checks
+Waynesworlds bets for 90 Tournament chips
+rlbirm calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 9s Kd 5d 4s 2h]
+rlbirm bets for 360 Tournament chips
+Waynesworlds calls [360 Tournament chips]
+Round 4 is over.
+rlbirm shows [ 4h 4d ] three fours
+Hand evaluation for rlbirm (4h 4d 9s Kd 4s: three fours)
+Waynesworlds doesn't show [ Jh 9h ]
+(Waynesworlds has Jh 9h.)
+rlbirm wins main pot 1080 Tournament chips with three fours, king/nine kickers.
+Seat 0: fr5154 (1500 Tournament chips) 
+Seat 1: rlbirm (1995 Tournament chips) 
+Seat 2: Waynesworlds (985 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1465 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1490 Tournament chips) 
+Seat 7: Duckdoger (1465 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+Game #23936611-4 ends
+Game #23936611-5 starts
+Seat 0: fr5154 (1500 Tournament chips) 
+Seat 1: rlbirm (1995 Tournament chips) 
+Seat 2: Waynesworlds (985 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1465 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1490 Tournament chips) 
+Seat 7: Duckdoger (1465 Tournament chips) 
+Seat 8: QwertySpark (1770 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+To2lee OZZuM posts the small blind [10 Tournament chips]
+Duckdoger posts the big blind [20 Tournament chips]
+fr5154, at seat 0, is in this hand with 1500 Tournament chips.
+rlbirm, at seat 1, is in this hand with 1995 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 985 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1465 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1460 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1445 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1770 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Tc Kh ]
+QwertySpark calls [20 Tournament chips]
+fr5154 calls [20 Tournament chips]
+rlbirm calls [20 Tournament chips]
+Waynesworlds calls [20 Tournament chips]
+oldlimper31 folds [20 Tournament chips]
+Treesnkeys63 raises all-in [1465 Tournament chips]
+Brokergal folds [1460 Tournament chips]
+To2lee OZZuM folds [1455 Tournament chips]
+Duckdoger folds [1445 Tournament chips]
+QwertySpark folds [1445 Tournament chips]
+fr5154 calls [1445 Tournament chips]
+rlbirm folds [1445 Tournament chips]
+Waynesworlds calls all-in [965 Tournament chips]
+Tournament all-in showdown -- players show:
+fr5154 shows [ Th Jd ]
+Waynesworlds shows [ Kd Td ]
+Treesnkeys63 shows [ Qd Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 2h ] board:[ 8c 2h]
+** Dealing Flop ** [ Kc ] board:[ 8c 2h Kc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 8c 2h Kc 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 8c 2h Kc 8s 5s]
+        (no action in this round)
+Round 4 is over.
+fr5154 shows [ Th Jd ] a pair of eights, king/jack kickers
+Waynesworlds shows [ Kd Td ] two pair, kings and eights, ten kicker
+Treesnkeys63 shows [ Qd Ad ] a pair of eights, ace/king kickers
+Waynesworlds wins main pot 3025 Tournament chips with two pair, kings and eights, ten kicker.
+Treesnkeys63 wins side pot #1 960 Tournament chips with a pair of eights, ace/king kickers.
+Seat 0: fr5154 (35 Tournament chips) 
+Seat 1: rlbirm (1975 Tournament chips) 
+Seat 2: Waynesworlds (3025 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (960 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1445 Tournament chips) 
+Seat 8: QwertySpark (1750 Tournament chips) 
+Game #23936611-5 ends
+Game #23936611-6 starts
+Seat 0: fr5154 (35 Tournament chips) 
+Seat 1: rlbirm (1975 Tournament chips) 
+Seat 2: Waynesworlds (3025 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (960 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1445 Tournament chips) 
+Seat 8: QwertySpark (1750 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Duckdoger posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+fr5154, at seat 0, is in this hand with 35 Tournament chips.
+rlbirm, at seat 1, is in this hand with 1975 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 3025 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 960 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1460 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1435 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1730 Tournament chips.
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 2c 7d ]
+fr5154 folds [20 Tournament chips]
+rlbirm raises [90 Tournament chips]
+Waynesworlds folds [90 Tournament chips]
+oldlimper31 folds [90 Tournament chips]
+Treesnkeys63 folds [90 Tournament chips]
+Brokergal folds [90 Tournament chips]
+To2lee OZZuM folds [90 Tournament chips]
+Duckdoger folds [80 Tournament chips]
+QwertySpark folds [70 Tournament chips]
+rlbirm is returned 70 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for rlbirm (Ac 3h: ace high)
+rlbirm wins main pot 50 Tournament chips.
+Seat 0: fr5154 (35 Tournament chips) 
+Seat 1: rlbirm (2005 Tournament chips) 
+Seat 2: Waynesworlds (3025 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (960 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1730 Tournament chips) 
+Game #23936611-6 ends
+Game #23936611-7 starts
+Seat 0: fr5154 (35 Tournament chips) 
+Seat 1: rlbirm (2005 Tournament chips) 
+Seat 2: Waynesworlds (3025 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (960 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1730 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [10 Tournament chips]
+fr5154 posts the big blind [20 Tournament chips]
+fr5154, at seat 0, is in this hand with 15 Tournament chips.
+rlbirm, at seat 1, is in this hand with 2005 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 3025 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 960 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1460 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1435 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1720 Tournament chips.
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 6d Jd ]
+rlbirm raises [40 Tournament chips]
+Waynesworlds calls [40 Tournament chips]
+oldlimper31 folds [40 Tournament chips]
+Treesnkeys63 calls [40 Tournament chips]
+Brokergal folds [40 Tournament chips]
+To2lee OZZuM folds [40 Tournament chips]
+Duckdoger folds [40 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+fr5154 calls all-in [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Ts ] board:[ Td Ts]
+** Dealing Flop ** [ 4h ] board:[ Td Ts 4h]
+QwertySpark checks
+rlbirm bets for 40 Tournament chips
+Waynesworlds calls [40 Tournament chips]
+Treesnkeys63 calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Td Ts 4h 8c]
+QwertySpark checks
+rlbirm bets for 177 Tournament chips
+Waynesworlds folds [177 Tournament chips]
+Treesnkeys63 calls [177 Tournament chips]
+QwertySpark folds [177 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Td Ts 4h 8c 2d]
+rlbirm checks
+Treesnkeys63 checks
+Round 4 is over.
+rlbirm shows [ 6c 7h ] a pair of tens
+Hand evaluation for rlbirm (6c 7h Td Ts 8c: a pair of tens)
+Treesnkeys63 shows [ Qs 9c ] a pair of tens
+Hand evaluation for Treesnkeys63 (Qs 9c Td Ts 8c: a pair of tens)
+fr5154 shows [ Jh Qd ] a pair of tens
+Hand evaluation for fr5154 (Jh Qd Td Ts 8c: a pair of tens)
+fr5154 wins main pot 175 Tournament chips with a pair of tens, queen/jack kickers.
+Treesnkeys63 wins side pot #1 534 Tournament chips with a pair of tens, queen/nine kickers.
+Seat 0: fr5154 (175 Tournament chips) 
+Seat 1: rlbirm (1748 Tournament chips) 
+Seat 2: Waynesworlds (2945 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1650 Tournament chips) 
+Game #23936611-7 ends
+Game #23936611-8 starts
+Seat 0: fr5154 (175 Tournament chips) 
+Seat 1: rlbirm (1748 Tournament chips) 
+Seat 2: Waynesworlds (2945 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1650 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+fr5154 posts the small blind [10 Tournament chips]
+rlbirm posts the big blind [20 Tournament chips]
+fr5154, at seat 0, is in this hand with 165 Tournament chips.
+rlbirm, at seat 1, is in this hand with 1728 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 2945 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1237 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1460 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1435 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1650 Tournament chips.
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Td 5s ]
+Waynesworlds calls [20 Tournament chips]
+oldlimper31 folds [20 Tournament chips]
+Treesnkeys63 folds [20 Tournament chips]
+Brokergal folds [20 Tournament chips]
+To2lee OZZuM folds [20 Tournament chips]
+Duckdoger folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+fr5154 calls [10 Tournament chips]
+rlbirm raises [100 Tournament chips]
+Waynesworlds calls [100 Tournament chips]
+fr5154 folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Ac ] board:[ 7s Ac]
+** Dealing Flop ** [ Kh ] board:[ 7s Ac Kh]
+rlbirm bets for 260 Tournament chips
+Waynesworlds calls [260 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 7s Ac Kh Jc]
+rlbirm bets for 780 Tournament chips
+Waynesworlds calls [780 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 7s Ac Kh Jc 7h]
+rlbirm goes all-in for 588 Tournament chips
+Waynesworlds calls [588 Tournament chips]
+Tournament all-in showdown -- players show:
+rlbirm shows [ 4h As ]
+Waynesworlds shows [ Kc Qh ]
+Round 4 is over.
+rlbirm shows [ 4h As ] two pair, aces and sevens, king kicker
+Waynesworlds shows [ Kc Qh ] two pair, kings and sevens, ace kicker
+rlbirm wins main pot 3516 Tournament chips with two pair, aces and sevens, king kicker.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (3516 Tournament chips) 
+Seat 2: Waynesworlds (1197 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1650 Tournament chips) 
+Game #23936611-8 ends
+Game #23936611-9 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (3516 Tournament chips) 
+Seat 2: Waynesworlds (1197 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1460 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1435 Tournament chips) 
+Seat 8: QwertySpark (1650 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+rlbirm posts the small blind [15 Tournament chips]
+Waynesworlds posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 3501 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 1167 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1237 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1460 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1435 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1650 Tournament chips.
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 9s Qs ]
+oldlimper31 folds [30 Tournament chips]
+Treesnkeys63 folds [30 Tournament chips]
+Brokergal calls [30 Tournament chips]
+To2lee OZZuM folds [30 Tournament chips]
+Duckdoger raises [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+fr5154 folds [60 Tournament chips]
+rlbirm calls [45 Tournament chips]
+Waynesworlds raises all-in [1167 Tournament chips]
+Brokergal folds [1167 Tournament chips]
+Duckdoger folds [1137 Tournament chips]
+QwertySpark folds [1137 Tournament chips]
+rlbirm folds [1137 Tournament chips]
+Waynesworlds is returned 1137 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Waynesworlds (6h 6c: a pair of sixes)
+Waynesworlds wins main pot 270 Tournament chips.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (3456 Tournament chips) 
+Seat 2: Waynesworlds (1407 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1430 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1375 Tournament chips) 
+Seat 8: QwertySpark (1590 Tournament chips) 
+Game #23936611-9 ends
+Game #23936611-10 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (3456 Tournament chips) 
+Seat 2: Waynesworlds (1407 Tournament chips) 
+Seat 3: oldlimper31 (1500 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1430 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1375 Tournament chips) 
+Seat 8: QwertySpark (1590 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Waynesworlds posts the small blind [15 Tournament chips]
+oldlimper31 posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 3456 Tournament chips.
+Waynesworlds, at seat 2, is in this hand with 1392 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1470 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1237 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1430 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1590 Tournament chips.
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Waynesworlds is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to Waynesworlds [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Kd 9h ]
+Treesnkeys63 folds [30 Tournament chips]
+Brokergal folds [30 Tournament chips]
+To2lee OZZuM folds [30 Tournament chips]
+Duckdoger calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+fr5154 folds [30 Tournament chips]
+rlbirm calls [30 Tournament chips]
+Waynesworlds raises [165 Tournament chips]
+oldlimper31 folds [150 Tournament chips]
+Duckdoger folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+rlbirm calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Kc ] board:[ 8d Kc]
+** Dealing Flop ** [ Th ] board:[ 8d Kc Th]
+Waynesworlds bets for 30 Tournament chips
+rlbirm calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 8d Kc Th As]
+Waynesworlds bets for 255 Tournament chips
+rlbirm calls [255 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 8d Kc Th As 4d]
+Waynesworlds goes all-in for 942 Tournament chips
+rlbirm calls [942 Tournament chips]
+Tournament all-in showdown -- players show:
+rlbirm shows [ 8c Ac ]
+Waynesworlds shows [ Jc Ah ]
+Round 4 is over.
+rlbirm shows [ 8c Ac ] two pair, aces and eights, king kicker
+Waynesworlds shows [ Jc Ah ] a pair of aces, king/jack kickers
+rlbirm wins main pot 2904 Tournament chips with two pair, aces and eights, king kicker.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4953 Tournament chips) 
+Seat 2: Waynesworlds (0 Tournament chips) 
+Seat 3: oldlimper31 (1470 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1430 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1345 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+Game #23936611-10 ends
+Player Waynesworlds leaves the table with 0 Tournament chips
+Game #23936611-11 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4953 Tournament chips) 
+Seat 3: oldlimper31 (1470 Tournament chips) 
+Seat 4: Treesnkeys63 (1237 Tournament chips) 
+Seat 5: Brokergal (1430 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1345 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+oldlimper31 posts the small blind [15 Tournament chips]
+Treesnkeys63 posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 4953 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1207 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1430 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1345 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1560 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Ad 7h ]
+Brokergal raises [60 Tournament chips]
+To2lee OZZuM folds [60 Tournament chips]
+Duckdoger re-raises [90 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+fr5154 folds [90 Tournament chips]
+rlbirm calls [90 Tournament chips]
+oldlimper31 folds [75 Tournament chips]
+Treesnkeys63 folds [60 Tournament chips]
+Brokergal calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 8c ] board:[ 2d 8c]
+** Dealing Flop ** [ Qc ] board:[ 2d 8c Qc]
+Brokergal bets for 315 Tournament chips
+Duckdoger calls [315 Tournament chips]
+rlbirm folds [315 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 2d 8c Qc 9c]
+Brokergal bets for 945 Tournament chips
+Duckdoger folds [940 Tournament chips]
+Brokergal is returned 945 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Brokergal (As Kc 8c Qc 9c: ace high)
+Brokergal wins main pot 945 Tournament chips.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4863 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1207 Tournament chips) 
+Seat 5: Brokergal (1970 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (940 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+Game #23936611-11 ends
+Game #23936611-12 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4863 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1207 Tournament chips) 
+Seat 5: Brokergal (1970 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (940 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Treesnkeys63 posts the small blind [15 Tournament chips]
+Brokergal posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 4863 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1940 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1480 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 940 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1560 Tournament chips.
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Kh 6c ]
+To2lee OZZuM folds [30 Tournament chips]
+Duckdoger raises [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+fr5154 folds [60 Tournament chips]
+rlbirm folds [60 Tournament chips]
+oldlimper31 folds [60 Tournament chips]
+Treesnkeys63 folds [45 Tournament chips]
+Brokergal calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 2d ] board:[ 6d 2d]
+** Dealing Flop ** [ 2c ] board:[ 6d 2d 2c]
+Brokergal checks
+Duckdoger bets for 135 Tournament chips
+Brokergal folds [135 Tournament chips]
+Duckdoger is returned 135 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Duckdoger (Jc 6s 6d 2d 2c: two pair, sixes and deuces)
+Duckdoger wins main pot 135 Tournament chips.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4863 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1910 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1015 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+Game #23936611-12 ends
+Game #23936611-13 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4863 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1910 Tournament chips) 
+Seat 6: To2lee OZZuM (1480 Tournament chips) 
+Seat 7: Duckdoger (1015 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Brokergal posts the small blind [15 Tournament chips]
+To2lee OZZuM posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 4863 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1895 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1450 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1015 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1560 Tournament chips.
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 3c 3h ]
+Duckdoger folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+fr5154 folds [30 Tournament chips]
+rlbirm raises [90 Tournament chips]
+oldlimper31 folds [90 Tournament chips]
+Treesnkeys63 folds [90 Tournament chips]
+Brokergal folds [75 Tournament chips]
+To2lee OZZuM folds [60 Tournament chips]
+rlbirm is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for rlbirm (5s Ah: ace high)
+rlbirm wins main pot 75 Tournament chips.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4908 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1895 Tournament chips) 
+Seat 6: To2lee OZZuM (1450 Tournament chips) 
+Seat 7: Duckdoger (1015 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+Game #23936611-13 ends
+Game #23936611-14 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4908 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1895 Tournament chips) 
+Seat 6: To2lee OZZuM (1450 Tournament chips) 
+Seat 7: Duckdoger (1015 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+To2lee OZZuM posts the small blind [15 Tournament chips]
+Duckdoger posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 4908 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1895 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 985 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1560 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 7h Jd ]
+QwertySpark folds [30 Tournament chips]
+fr5154 folds [30 Tournament chips]
+rlbirm calls [30 Tournament chips]
+oldlimper31 folds [30 Tournament chips]
+Treesnkeys63 folds [30 Tournament chips]
+Brokergal folds [30 Tournament chips]
+To2lee OZZuM folds [15 Tournament chips]
+Duckdoger checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Ks ] board:[ 5h Ks]
+** Dealing Flop ** [ Kd ] board:[ 5h Ks Kd]
+Duckdoger checks
+rlbirm bets for 30 Tournament chips
+Duckdoger folds [30 Tournament chips]
+rlbirm is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rlbirm (6c Qd 5h Ks Kd: a pair of kings)
+rlbirm wins main pot 75 Tournament chips.
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4953 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1895 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (985 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+Game #23936611-14 ends
+Game #23936611-15 starts
+Seat 0: fr5154 (155 Tournament chips) 
+Seat 1: rlbirm (4953 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (1895 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (985 Tournament chips) 
+Seat 8: QwertySpark (1560 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Duckdoger posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+fr5154, at seat 0, is in this hand with 155 Tournament chips.
+rlbirm, at seat 1, is in this hand with 4953 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 1895 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1530 Tournament chips.
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+fr5154 is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to fr5154 [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ As Td ]
+fr5154 calls [30 Tournament chips]
+rlbirm calls [30 Tournament chips]
+oldlimper31 folds [30 Tournament chips]
+Treesnkeys63 folds [30 Tournament chips]
+Brokergal calls [30 Tournament chips]
+To2lee OZZuM folds [30 Tournament chips]
+Duckdoger calls [15 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+fr5154 calls all-in [125 Tournament chips]
+rlbirm calls [150 Tournament chips]
+Brokergal calls [150 Tournament chips]
+Duckdoger folds [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Kh ] board:[ Qs Kh]
+** Dealing Flop ** [ 7c ] board:[ Qs Kh 7c]
+QwertySpark bets for 362 Tournament chips
+rlbirm folds [362 Tournament chips]
+Brokergal calls [362 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ Qs Kh 7c Jc]
+QwertySpark checks
+Brokergal bets for 60 Tournament chips
+QwertySpark calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ Qs Kh 7c Jc Jd]
+QwertySpark goes all-in for 958 Tournament chips
+Brokergal calls [958 Tournament chips]
+Tournament all-in showdown -- players show:
+fr5154 shows [ Tc Qh ]
+Brokergal shows [ Js Ts ]
+QwertySpark shows [ As Td ]
+Round 4 is over.
+fr5154 shows [ Tc Qh ] two pair, queens and jacks, king kicker
+Brokergal shows [ Js Ts ] three jacks, king/queen kickers
+QwertySpark shows [ As Td ] straight, ace high
+QwertySpark wins main pot 650 Tournament chips with straight, ace high.
+QwertySpark wins side pot #1 2835 Tournament chips with straight, ace high.
+Seat 0: fr5154 (0 Tournament chips) 
+Seat 1: rlbirm (4773 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (335 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (955 Tournament chips) 
+Seat 8: QwertySpark (3485 Tournament chips) 
+Game #23936611-15 ends
+Player fr5154 leaves the table with 0 Tournament chips
+Game #23936611-16 starts
+Seat 1: rlbirm (4773 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (335 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (955 Tournament chips) 
+Seat 8: QwertySpark (3485 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [20 Tournament chips]
+rlbirm posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4733 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 335 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 955 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3465 Tournament chips.
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 5h 2c ]
+oldlimper31 folds [40 Tournament chips]
+Treesnkeys63 folds [40 Tournament chips]
+Brokergal folds [40 Tournament chips]
+To2lee OZZuM folds [40 Tournament chips]
+Duckdoger calls [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+rlbirm checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ As ] board:[ 9d As]
+** Dealing Flop ** [ 6d ] board:[ 9d As 6d]
+QwertySpark checks
+rlbirm checks
+Duckdoger checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 9d As 6d Ts]
+QwertySpark checks
+rlbirm checks
+Duckdoger checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 9d As 6d Ts Qd]
+QwertySpark checks
+rlbirm checks
+Duckdoger checks
+Round 4 is over.
+QwertySpark shows [ 5h 2c ] ace high
+Hand evaluation for QwertySpark (9d As 6d Ts Qd: ace high)
+rlbirm shows [ Kh 2d ] ace high
+Hand evaluation for rlbirm (Kh 9d As Ts Qd: ace high)
+Duckdoger doesn't show [ 3c 4c ]
+(Duckdoger has 3c 4c.)
+rlbirm wins main pot 120 Tournament chips with ace/king/queen high.
+Seat 1: rlbirm (4853 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (335 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (915 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+Game #23936611-16 ends
+Game #23936611-17 starts
+Seat 1: rlbirm (4853 Tournament chips) 
+Seat 3: oldlimper31 (1455 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (335 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (915 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rlbirm posts the small blind [20 Tournament chips]
+oldlimper31 posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4833 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1415 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1192 Tournament chips.
+Brokergal, at seat 5, is in this hand with 335 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 915 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3445 Tournament chips.
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 7s 3h ]
+Treesnkeys63 folds [40 Tournament chips]
+Brokergal raises all-in [335 Tournament chips]
+To2lee OZZuM folds [335 Tournament chips]
+Duckdoger calls [335 Tournament chips]
+QwertySpark folds [335 Tournament chips]
+rlbirm folds [315 Tournament chips]
+oldlimper31 folds [295 Tournament chips]
+Tournament all-in showdown -- players show:
+Brokergal shows [ Kc 8s ]
+Duckdoger shows [ Ks Kd ]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 7d ] board:[ 9s 7d]
+** Dealing Flop ** [ Td ] board:[ 9s 7d Td]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 9s 7d Td 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 9s 7d Td 5c 6d]
+        (no action in this round)
+Round 4 is over.
+Brokergal shows [ Kc 8s ] straight, ten high
+Duckdoger shows [ Ks Kd ] a pair of kings, ten/nine kickers
+Brokergal wins main pot 730 Tournament chips with straight, ten high.
+Seat 1: rlbirm (4833 Tournament chips) 
+Seat 3: oldlimper31 (1415 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (730 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (580 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+Game #23936611-17 ends
+Game #23936611-18 starts
+Seat 1: rlbirm (4833 Tournament chips) 
+Seat 3: oldlimper31 (1415 Tournament chips) 
+Seat 4: Treesnkeys63 (1192 Tournament chips) 
+Seat 5: Brokergal (730 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (580 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+oldlimper31 posts the small blind [20 Tournament chips]
+Treesnkeys63 posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4833 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1152 Tournament chips.
+Brokergal, at seat 5, is in this hand with 730 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 580 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3445 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Js 8h ]
+Brokergal folds [40 Tournament chips]
+To2lee OZZuM folds [40 Tournament chips]
+Duckdoger folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+rlbirm raises [80 Tournament chips]
+oldlimper31 folds [60 Tournament chips]
+Treesnkeys63 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 4d ] board:[ Ah 4d]
+** Dealing Flop ** [ Ac ] board:[ Ah 4d Ac]
+Treesnkeys63 checks
+rlbirm bets for 40 Tournament chips
+Treesnkeys63 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Ah 4d Ac 8s]
+Treesnkeys63 checks
+rlbirm bets for 40 Tournament chips
+Treesnkeys63 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Ah 4d Ac 8s 2s]
+Treesnkeys63 checks
+rlbirm checks
+Round 4 is over.
+Treesnkeys63 shows [ Kc 4c ] two pair, aces and fours
+Hand evaluation for Treesnkeys63 (Kc 4c Ah 4d Ac: two pair, aces and fours)
+rlbirm doesn't show [ 7h 9s ]
+(rlbirm has 7h 9s.)
+Treesnkeys63 wins main pot 340 Tournament chips with two pair, aces and fours, king kicker.
+Seat 1: rlbirm (4673 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1372 Tournament chips) 
+Seat 5: Brokergal (730 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (580 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+Game #23936611-18 ends
+Game #23936611-19 starts
+Seat 1: rlbirm (4673 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1372 Tournament chips) 
+Seat 5: Brokergal (730 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (580 Tournament chips) 
+Seat 8: QwertySpark (3445 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+Treesnkeys63 posts the small blind [20 Tournament chips]
+Brokergal posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4673 Tournament chips.
+oldlimper31, at seat 3, is in this hand (absent) with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1352 Tournament chips.
+Brokergal, at seat 5, is in this hand with 690 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1435 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 580 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3445 Tournament chips.
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Ac 6c ]
+To2lee OZZuM folds [40 Tournament chips]
+Duckdoger raises [80 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+rlbirm re-raises [120 Tournament chips]
+oldlimper31 folds [120 Tournament chips]
+Treesnkeys63 calls [100 Tournament chips]
+Brokergal folds [80 Tournament chips]
+Duckdoger calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 2s ] board:[ 2c 2s]
+** Dealing Flop ** [ 7d ] board:[ 2c 2s 7d]
+Treesnkeys63 checks
+Duckdoger goes all-in for 460 Tournament chips
+QwertySpark folds [460 Tournament chips]
+rlbirm folds [460 Tournament chips]
+(oldlimper31 has entered the table, is no longer absent.)
+Treesnkeys63 folds, showing 4d 5d [460 Tournament chips]
+Duckdoger is returned 460 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Duckdoger (Kd 9c 2c 2s 7d: a pair of deuces)
+Duckdoger shows [ Kd 9c ] a pair of deuces
+Hand evaluation for Duckdoger (Kd 9c 2c 2s 7d: a pair of deuces)
+Duckdoger wins main pot 520 Tournament chips.
+Seat 1: rlbirm (4553 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (690 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (980 Tournament chips) 
+Seat 8: QwertySpark (3325 Tournament chips) 
+Game #23936611-19 ends
+Game #23936611-20 starts
+Seat 1: rlbirm (4553 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (690 Tournament chips) 
+Seat 6: To2lee OZZuM (1435 Tournament chips) 
+Seat 7: Duckdoger (980 Tournament chips) 
+Seat 8: QwertySpark (3325 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Brokergal posts the small blind [20 Tournament chips]
+To2lee OZZuM posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4553 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1252 Tournament chips.
+Brokergal, at seat 5, is in this hand with 670 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1395 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 980 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3325 Tournament chips.
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 3s 8s ]
+Duckdoger raises [80 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+rlbirm folds [80 Tournament chips]
+oldlimper31 folds [80 Tournament chips]
+Treesnkeys63 folds [80 Tournament chips]
+Brokergal folds [60 Tournament chips]
+To2lee OZZuM folds [40 Tournament chips]
+Duckdoger is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Duckdoger (Ks 2d: king high)
+Duckdoger wins main pot 100 Tournament chips.
+Seat 1: rlbirm (4553 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (1395 Tournament chips) 
+Seat 7: Duckdoger (1040 Tournament chips) 
+Seat 8: QwertySpark (3325 Tournament chips) 
+Game #23936611-20 ends
+Game #23936611-21 starts
+Seat 1: rlbirm (4553 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (1395 Tournament chips) 
+Seat 7: Duckdoger (1040 Tournament chips) 
+Seat 8: QwertySpark (3325 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+To2lee OZZuM posts the small blind [20 Tournament chips]
+Duckdoger posts the big blind [40 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4553 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1252 Tournament chips.
+Brokergal, at seat 5, is in this hand with 670 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 1375 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3325 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Ac Kc ]
+QwertySpark raises [160 Tournament chips]
+rlbirm calls [160 Tournament chips]
+oldlimper31 folds [160 Tournament chips]
+Treesnkeys63 folds [160 Tournament chips]
+Brokergal folds [160 Tournament chips]
+To2lee OZZuM folds [140 Tournament chips]
+Duckdoger folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 3d ] board:[ Jc 3d]
+** Dealing Flop ** [ 3s ] board:[ Jc 3d 3s]
+QwertySpark checks
+rlbirm checks
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Jc 3d 3s 3h]
+QwertySpark bets for 120 Tournament chips
+rlbirm calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Jc 3d 3s 3h 8h]
+QwertySpark checks
+rlbirm checks
+Round 4 is over.
+QwertySpark shows [ Ac Kc ] three threes
+Hand evaluation for QwertySpark (Ac Kc 3d 3s 3h: three threes)
+rlbirm doesn't show [ 5c As ]
+(rlbirm has 5c As.)
+QwertySpark wins main pot 620 Tournament chips with three threes, ace/king kickers.
+Seat 1: rlbirm (4273 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (1375 Tournament chips) 
+Seat 7: Duckdoger (1000 Tournament chips) 
+Seat 8: QwertySpark (3665 Tournament chips) 
+Game #23936611-21 ends
+Game #23936611-22 starts
+Seat 1: rlbirm (4273 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (1375 Tournament chips) 
+Seat 7: Duckdoger (1000 Tournament chips) 
+Seat 8: QwertySpark (3665 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Duckdoger posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+rlbirm, at seat 1, is in this hand with 4273 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1252 Tournament chips.
+Brokergal, at seat 5, is in this hand with 670 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 1375 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3605 Tournament chips.
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 6h 8d ]
+rlbirm raises [180 Tournament chips]
+oldlimper31 folds [180 Tournament chips]
+Treesnkeys63 folds [180 Tournament chips]
+Brokergal folds [180 Tournament chips]
+To2lee OZZuM calls [180 Tournament chips]
+Duckdoger calls [150 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 8c ] board:[ Jd 8c]
+** Dealing Flop ** [ 5s ] board:[ Jd 8c 5s]
+Duckdoger goes all-in for 820 Tournament chips
+rlbirm calls [820 Tournament chips]
+To2lee OZZuM raises all-in [1195 Tournament chips]
+rlbirm calls [375 Tournament chips]
+Tournament all-in showdown -- players show:
+rlbirm shows [ 8h Ad ]
+To2lee OZZuM shows [ Jh Th ]
+Duckdoger shows [ Td Js ]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd 8c 5s 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ Jd 8c 5s 6d Jc]
+        (no action in this round)
+Round 4 is over.
+rlbirm shows [ 8h Ad ] two pair, jacks and eights, ace kicker
+To2lee OZZuM shows [ Jh Th ] three jacks, ten/eight kickers
+Duckdoger shows [ Td Js ] three jacks, ten/eight kickers
+Duckdoger wins main pot 1530 Tournament chips of a 3060 Tournament chips pot with three jacks, ten/eight kickers.
+To2lee OZZuM wins main pot 1530 Tournament chips of a 3060 Tournament chips pot with three jacks, ten/eight kickers.
+To2lee OZZuM wins side pot #1 750 Tournament chips with three jacks, ten/eight kickers.
+Seat 1: rlbirm (2898 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3605 Tournament chips) 
+Game #23936611-22 ends
+Game #23936611-23 starts
+Seat 1: rlbirm (2898 Tournament chips) 
+Seat 3: oldlimper31 (1395 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (670 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3605 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [30 Tournament chips]
+rlbirm posts the big blind [60 Tournament chips]
+rlbirm, at seat 1, is in this hand with 2838 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1395 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1252 Tournament chips.
+Brokergal, at seat 5, is in this hand with 670 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2280 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3575 Tournament chips.
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Brokergal is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Brokergal [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 9h Qc ]
+oldlimper31 raises all-in [1395 Tournament chips]
+Treesnkeys63 folds [1252 Tournament chips]
+Brokergal calls all-in [670 Tournament chips]
+To2lee OZZuM folds [1395 Tournament chips]
+Duckdoger folds [1395 Tournament chips]
+QwertySpark folds [1365 Tournament chips]
+rlbirm calls [1335 Tournament chips]
+Tournament all-in showdown -- players show:
+rlbirm shows [ 6h 3h ]
+oldlimper31 shows [ Ah Ac ]
+Brokergal shows [ 4c Ad ]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Tc ] board:[ Qd Tc]
+** Dealing Flop ** [ Kh ] board:[ Qd Tc Kh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Qd Tc Kh 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ Qd Tc Kh 4d Qs]
+        (no action in this round)
+Round 4 is over.
+rlbirm shows [ 6h 3h ] a pair of queens, king/ten kickers
+oldlimper31 shows [ Ah Ac ] two pair, aces and queens, king kicker
+Brokergal shows [ 4c Ad ] two pair, queens and fours, ace kicker
+oldlimper31 wins main pot 2040 Tournament chips with two pair, aces and queens, king kicker.
+oldlimper31 wins side pot #1 1450 Tournament chips with two pair, aces and queens, king kicker.
+Seat 1: rlbirm (1503 Tournament chips) 
+Seat 3: oldlimper31 (3490 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 5: Brokergal (0 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3575 Tournament chips) 
+Game #23936611-23 ends
+Player Brokergal leaves the table with 0 Tournament chips
+Game #23936611-24 starts
+Seat 1: rlbirm (1503 Tournament chips) 
+Seat 3: oldlimper31 (3490 Tournament chips) 
+Seat 4: Treesnkeys63 (1252 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3575 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rlbirm posts the small blind [30 Tournament chips]
+oldlimper31 posts the big blind [60 Tournament chips]
+rlbirm, at seat 1, is in this hand with 1473 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3430 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1252 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2280 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3575 Tournament chips.
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 3d As ]
+Treesnkeys63 calls [60 Tournament chips]
+To2lee OZZuM folds [60 Tournament chips]
+Duckdoger folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+rlbirm raises all-in [1473 Tournament chips]
+oldlimper31 folds [1443 Tournament chips]
+Treesnkeys63 calls all-in [1192 Tournament chips]
+rlbirm is returned 251 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rlbirm shows [ Js Ks ]
+Treesnkeys63 shows [ Ad 6d ]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 5c ] board:[ Th 5c]
+** Dealing Flop ** [ 4s ] board:[ Th 5c 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Th 5c 4s 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Th 5c 4s 9s 2h]
+        (no action in this round)
+Round 4 is over.
+rlbirm shows [ Js Ks ] king/jack/ten high
+Treesnkeys63 shows [ Ad 6d ] ace/ten/nine high
+Treesnkeys63 wins main pot 2564 Tournament chips with ace/ten/nine high.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3430 Tournament chips) 
+Seat 4: Treesnkeys63 (2564 Tournament chips) 
+Seat 5: CBoyd (1070 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3575 Tournament chips) 
+Game #23936611-24 ends
+Game #23936611-25 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3430 Tournament chips) 
+Seat 4: Treesnkeys63 (2564 Tournament chips) 
+Seat 5: CBoyd (1070 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3575 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+oldlimper31 posts the small blind [30 Tournament chips]
+Treesnkeys63 posts the big blind [60 Tournament chips]
+rlbirm, at seat 1, is in this hand with 251 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3400 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2504 Tournament chips.
+CBoyd, at seat 5, is in this hand with 1070 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2280 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3575 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to CBoyd [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Ad Ts ]
+CBoyd folds [60 Tournament chips]
+To2lee OZZuM folds [60 Tournament chips]
+Duckdoger folds [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+rlbirm folds [240 Tournament chips]
+oldlimper31 folds [210 Tournament chips]
+Treesnkeys63 folds, showing 9h 8s [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad Ts: ace high)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2504 Tournament chips) 
+Seat 5: CBoyd (1070 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3665 Tournament chips) 
+Game #23936611-25 ends
+Game #23936611-26 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2504 Tournament chips) 
+Seat 5: CBoyd (1070 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3665 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+Treesnkeys63 posts the small blind [30 Tournament chips]
+CBoyd posts the big blind [60 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 251 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3400 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2474 Tournament chips.
+CBoyd, at seat 5, is in this hand with 1010 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2280 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3665 Tournament chips.
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to CBoyd [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Th Ad ]
+To2lee OZZuM folds [60 Tournament chips]
+Duckdoger folds [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+rlbirm folds [240 Tournament chips]
+oldlimper31 folds [240 Tournament chips]
+Treesnkeys63 calls [210 Tournament chips]
+CBoyd folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 5s ] board:[ 2h 5s]
+** Dealing Flop ** [ 6s ] board:[ 2h 5s 6s]
+Treesnkeys63 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 2h 5s 6s 6h]
+Treesnkeys63 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 2h 5s 6s 6h Jh]
+Treesnkeys63 checks
+QwertySpark checks
+Round 4 is over.
+Treesnkeys63 shows [ Qh Tc ] a pair of sixes
+Hand evaluation for Treesnkeys63 (Qh Tc 6s 6h Jh: a pair of sixes)
+QwertySpark shows [ Th Ad ] a pair of sixes
+Hand evaluation for QwertySpark (Th Ad 6s 6h Jh: a pair of sixes)
+QwertySpark wins main pot 540 Tournament chips with a pair of sixes, ace/jack kickers.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2264 Tournament chips) 
+Seat 5: CBoyd (1010 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+Game #23936611-26 ends
+Game #23936611-27 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2264 Tournament chips) 
+Seat 5: CBoyd (1010 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+CBoyd posts the small blind [50 Tournament chips]
+To2lee OZZuM posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 251 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3400 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2264 Tournament chips.
+CBoyd, at seat 5, is in this hand with 960 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2180 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3965 Tournament chips.
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to CBoyd [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 3d Jc ]
+Duckdoger folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+rlbirm folds [100 Tournament chips]
+oldlimper31 folds [100 Tournament chips]
+Treesnkeys63 calls [100 Tournament chips]
+CBoyd calls [50 Tournament chips]
+To2lee OZZuM raises all-in [2180 Tournament chips]
+Treesnkeys63 folds [2164 Tournament chips]
+CBoyd folds [910 Tournament chips]
+To2lee OZZuM is returned 2180 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for To2lee OZZuM (Tc Td: a pair of tens)
+To2lee OZZuM wins main pot 300 Tournament chips.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2164 Tournament chips) 
+Seat 5: CBoyd (910 Tournament chips) 
+Seat 6: To2lee OZZuM (2480 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+Game #23936611-27 ends
+Game #23936611-28 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3400 Tournament chips) 
+Seat 4: Treesnkeys63 (2164 Tournament chips) 
+Seat 5: CBoyd (910 Tournament chips) 
+Seat 6: To2lee OZZuM (2480 Tournament chips) 
+Seat 7: Duckdoger (1530 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+To2lee OZZuM posts the small blind [50 Tournament chips]
+Duckdoger posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 251 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3400 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2164 Tournament chips.
+CBoyd, at seat 5, is in this hand with 910 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1430 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3965 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+CBoyd is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to CBoyd [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Ac 3s ]
+QwertySpark folds [100 Tournament chips]
+rlbirm folds [100 Tournament chips]
+oldlimper31 calls [100 Tournament chips]
+Treesnkeys63 raises [200 Tournament chips]
+CBoyd calls [200 Tournament chips]
+To2lee OZZuM folds [150 Tournament chips]
+Duckdoger calls [100 Tournament chips]
+oldlimper31 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 4h ] board:[ 5s 4h]
+** Dealing Flop ** [ 6h ] board:[ 5s 4h 6h]
+Duckdoger checks
+oldlimper31 checks
+Treesnkeys63 bets for 850 Tournament chips
+CBoyd calls all-in [710 Tournament chips]
+Duckdoger folds [850 Tournament chips]
+oldlimper31 folds [850 Tournament chips]
+Treesnkeys63 is returned 140 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Treesnkeys63 shows [ Kd Ks ]
+CBoyd shows [ Qc Jh ]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 5s 4h 6h Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 5s 4h 6h Jc 2s]
+        (no action in this round)
+Round 4 is over.
+Treesnkeys63 shows [ Kd Ks ] a pair of kings, jack/six kickers
+CBoyd shows [ Qc Jh ] a pair of jacks, queen/six kickers
+Treesnkeys63 wins main pot 2270 Tournament chips with a pair of kings, jack/six kickers.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3524 Tournament chips) 
+Seat 5: CBoyd (0 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1330 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+Game #23936611-28 ends
+Player CBoyd leaves the table with 0 Tournament chips
+Game #23936611-29 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3524 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1330 Tournament chips) 
+Seat 8: QwertySpark (3965 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Duckdoger posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 251 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3200 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 3524 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1280 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3865 Tournament chips.
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8d 5c ]
+rlbirm folds [100 Tournament chips]
+oldlimper31 folds [100 Tournament chips]
+Treesnkeys63 calls [100 Tournament chips]
+To2lee OZZuM folds [100 Tournament chips]
+Duckdoger calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 7h ] board:[ Qh 7h]
+** Dealing Flop ** [ Kc ] board:[ Qh 7h Kc]
+Duckdoger checks
+QwertySpark checks
+Treesnkeys63 checks
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Qh 7h Kc 5s]
+Duckdoger checks
+QwertySpark checks
+Treesnkeys63 checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qh 7h Kc 5s 7c]
+Duckdoger checks
+QwertySpark checks
+Treesnkeys63 checks
+Round 4 is over.
+Duckdoger shows [ 9d 8c ] a pair of sevens
+Hand evaluation for Duckdoger (9d Qh 7h Kc 7c: a pair of sevens)
+QwertySpark shows [ 8d 5c ] two pair, sevens and fives
+Hand evaluation for QwertySpark (5c 7h Kc 5s 7c: two pair, sevens and fives)
+Treesnkeys63 doesn't show [ 2d 4d ]
+(Treesnkeys63 has 2d 4d.)
+QwertySpark wins main pot 300 Tournament chips with two pair, sevens and fives, king kicker.
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 2: Faustn316 (1020 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1230 Tournament chips) 
+Seat 8: QwertySpark (4165 Tournament chips) 
+Game #23936611-29 ends
+Game #23936611-30 starts
+Seat 1: rlbirm (251 Tournament chips) 
+Seat 2: Faustn316 (1020 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1230 Tournament chips) 
+Seat 8: QwertySpark (4165 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+rlbirm posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 151 Tournament chips.
+Faustn316, at seat 2, is in this hand with 1020 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3200 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 3424 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1230 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4115 Tournament chips.
+
+rlbirm is dealt: **
+Faustn316 is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Faustn316 is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to Faustn316 [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Jh Kc ]
+Faustn316 folds [100 Tournament chips]
+oldlimper31 folds [100 Tournament chips]
+Treesnkeys63 folds [100 Tournament chips]
+To2lee OZZuM folds [100 Tournament chips]
+Duckdoger folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+rlbirm folds
+round 1 is over.
+Hand evaluation for QwertySpark (Jh Kc: king high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: rlbirm (151 Tournament chips) 
+Seat 2: Faustn316 (1020 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1230 Tournament chips) 
+Seat 8: QwertySpark (4265 Tournament chips) 
+Game #23936611-30 ends
+Game #23936611-31 starts
+Seat 1: rlbirm (151 Tournament chips) 
+Seat 2: Faustn316 (1020 Tournament chips) 
+Seat 3: oldlimper31 (3200 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (1230 Tournament chips) 
+Seat 8: QwertySpark (4265 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rlbirm posts the small blind [50 Tournament chips]
+Faustn316 posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+Faustn316, at seat 2, is in this hand with 920 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3200 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 3424 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 1230 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4265 Tournament chips.
+rlbirm is dealt: **
+Faustn316 is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Faustn316 is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+Dealt to rlbirm [ **** ]
+Dealt to Faustn316 [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 4s 3d ]
+oldlimper31 calls [100 Tournament chips]
+Treesnkeys63 folds [100 Tournament chips]
+To2lee OZZuM folds [100 Tournament chips]
+Duckdoger raises [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+rlbirm folds [101 Tournament chips]
+Faustn316 raises all-in [920 Tournament chips]
+oldlimper31 calls [920 Tournament chips]
+Duckdoger calls [820 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 9c ] board:[ 5c 9c]
+** Dealing Flop ** [ Ah ] board:[ 5c 9c Ah]
+oldlimper31 goes all-in for 2180 Tournament chips
+Duckdoger calls all-in [210 Tournament chips]
+oldlimper31 is returned 1970 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Faustn316 shows [ Td Ts ]
+oldlimper31 shows [ 6s As ]
+Duckdoger shows [ Ac Jh ]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 5c 9c Ah Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 5c 9c Ah Js 6d]
+        (no action in this round)
+Round 4 is over.
+Faustn316 shows [ Td Ts ] a pair of tens, ace/jack kickers
+oldlimper31 shows [ 6s As ] two pair, aces and sixes, jack kicker
+Duckdoger shows [ Ac Jh ] two pair, aces and jacks, nine kicker
+Duckdoger wins main pot 3110 Tournament chips with two pair, aces and jacks, nine kicker.
+Duckdoger wins side pot #1 420 Tournament chips with two pair, aces and jacks, nine kicker.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 2: Faustn316 (0 Tournament chips) 
+Seat 3: oldlimper31 (1970 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4265 Tournament chips) 
+Game #23936611-31 ends
+Player Faustn316 leaves the table with 0 Tournament chips
+Game #23936611-32 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (1970 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4265 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+oldlimper31 posts the big blind [100 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1870 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 3424 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4265 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Kd 3d ]
+Treesnkeys63 folds [100 Tournament chips]
+To2lee OZZuM folds [100 Tournament chips]
+Duckdoger folds [100 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+rlbirm folds [101 Tournament chips]
+oldlimper31 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ Tc ] board:[ 6d Tc]
+** Dealing Flop ** [ Ac ] board:[ 6d Tc Ac]
+oldlimper31 goes all-in for 1770 Tournament chips
+QwertySpark folds [1770 Tournament chips]
+oldlimper31 is returned 1770 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for oldlimper31 (2h As 6d Tc Ac: a pair of aces)
+oldlimper31 wins main pot 400 Tournament chips.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2170 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4065 Tournament chips) 
+Game #23936611-32 ends
+Game #23936611-33 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2170 Tournament chips) 
+Seat 4: Treesnkeys63 (3424 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4065 Tournament chips) 
+The button is at seat 1
+oldlimper31 posts the small blind [75 Tournament chips]
+Treesnkeys63 posts the big blind [150 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 2095 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 3274 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4065 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Jc Kc ]
+To2lee OZZuM folds [150 Tournament chips]
+Duckdoger folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+rlbirm folds [101 Tournament chips]
+oldlimper31 folds [75 Tournament chips]
+Treesnkeys63 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 8h ] board:[ 7h 8h]
+** Dealing Flop ** [ Tc ] board:[ 7h 8h Tc]
+Treesnkeys63 bets for 150 Tournament chips
+QwertySpark raises [300 Tournament chips]
+Treesnkeys63 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 7h 8h Tc 2h]
+Treesnkeys63 checks
+QwertySpark bets for 637 Tournament chips
+Treesnkeys63 folds, showing 4h 7d [637 Tournament chips]
+QwertySpark is returned 637 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Jc Kc 7h 8h Tc: king high)
+QwertySpark wins main pot 975 Tournament chips.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2095 Tournament chips) 
+Seat 4: Treesnkeys63 (2974 Tournament chips) 
+Seat 5: hzhang (10 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+Game #23936611-33 ends
+Game #23936611-34 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2095 Tournament chips) 
+Seat 4: Treesnkeys63 (2974 Tournament chips) 
+Seat 5: hzhang (10 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+Treesnkeys63 posts the small blind [75 Tournament chips]
+hzhang posts the big blind [10 Tournament chips], goes all-in
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 2095 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2899 Tournament chips.
+hzhang, at seat 5, is in this hand with 0 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2430 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4590 Tournament chips.
+Treesnkeys63 is dealt: **
+hzhang is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+hzhang is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to hzhang [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 6d 5h ]
+To2lee OZZuM folds [150 Tournament chips]
+Duckdoger folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+rlbirm folds [101 Tournament chips]
+oldlimper31 calls [150 Tournament chips]
+Treesnkeys63 calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Qs ] board:[ 7d Qs]
+** Dealing Flop ** [ Ad ] board:[ 7d Qs Ad]
+Treesnkeys63 checks
+oldlimper31 checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 7d Qs Ad 8s]
+Treesnkeys63 checks
+oldlimper31 has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 7d Qs Ad 8s Tc]
+Treesnkeys63 bets for 150 Tournament chips
+oldlimper31 raises [300 Tournament chips]
+Treesnkeys63 calls [150 Tournament chips]
+Round 4 is over.
+oldlimper31 shows [ 7h Th ] two pair, tens and sevens
+Hand evaluation for oldlimper31 (7h Th 7d Ad Tc: two pair, tens and sevens)
+Treesnkeys63 shows [ Qh 2h ] a pair of queens
+Hand evaluation for Treesnkeys63 (Qh Qs Ad 8s Tc: a pair of queens)
+hzhang shows [ Jd 2c ] ace high
+Hand evaluation for hzhang (Jd Qs Ad 8s Tc: ace high)
+oldlimper31 wins main pot 30 Tournament chips with two pair, tens and sevens, ace kicker.
+oldlimper31 wins side pot #1 880 Tournament chips with two pair, tens and sevens, ace kicker.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2555 Tournament chips) 
+Seat 4: Treesnkeys63 (2524 Tournament chips) 
+Seat 5: hzhang (0 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+Game #23936611-34 ends
+Player hzhang leaves the table with 0 Tournament chips
+Game #23936611-35 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2555 Tournament chips) 
+Seat 4: Treesnkeys63 (2524 Tournament chips) 
+Seat 6: To2lee OZZuM (2430 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+To2lee OZZuM posts the big blind [150 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 2555 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2524 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2280 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3530 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4590 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 4d Kd ]
+Duckdoger folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+rlbirm folds [101 Tournament chips]
+oldlimper31 folds [150 Tournament chips]
+Treesnkeys63 raises [300 Tournament chips]
+To2lee OZZuM folds [150 Tournament chips]
+Treesnkeys63 is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Treesnkeys63 (8c Ac: ace high)
+Treesnkeys63 wins main pot 300 Tournament chips.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2555 Tournament chips) 
+Seat 4: Treesnkeys63 (2674 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+Game #23936611-35 ends
+Game #23936611-36 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (2555 Tournament chips) 
+Seat 4: Treesnkeys63 (2674 Tournament chips) 
+Seat 6: To2lee OZZuM (2280 Tournament chips) 
+Seat 7: Duckdoger (3530 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+The button is at seat 4
+To2lee OZZuM posts the small blind [75 Tournament chips]
+Duckdoger posts the big blind [150 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 2555 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 2674 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3380 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4590 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8h 5h ]
+QwertySpark folds [150 Tournament chips]
+rlbirm folds [101 Tournament chips]
+oldlimper31 calls [150 Tournament chips]
+Treesnkeys63 calls [150 Tournament chips]
+To2lee OZZuM folds [75 Tournament chips]
+Duckdoger checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Th ] board:[ 6s Th]
+** Dealing Flop ** [ Jd ] board:[ 6s Th Jd]
+Duckdoger checks
+oldlimper31 checks
+Treesnkeys63 bets for 525 Tournament chips
+Duckdoger folds [525 Tournament chips]
+oldlimper31 calls [525 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 6s Th Jd Kh]
+oldlimper31 goes all-in for 1880 Tournament chips
+Treesnkeys63 folds, showing 8s Js [1880 Tournament chips]
+oldlimper31 is returned 1880 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for oldlimper31 (Qd Ah Th Jd Kh: straight, ace high)
+oldlimper31 wins main pot 1575 Tournament chips.
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3455 Tournament chips) 
+Seat 4: Treesnkeys63 (1999 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3380 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+Game #23936611-36 ends
+Game #23936611-37 starts
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3455 Tournament chips) 
+Seat 4: Treesnkeys63 (1999 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3380 Tournament chips) 
+Seat 8: QwertySpark (4590 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Duckdoger posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3455 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1999 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3305 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4440 Tournament chips.
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 7h Ac ]
+rlbirm folds [101 Tournament chips]
+oldlimper31 calls [150 Tournament chips]
+Treesnkeys63 folds [150 Tournament chips]
+To2lee OZZuM folds [150 Tournament chips]
+Duckdoger calls [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Qh ] board:[ 3d Qh]
+** Dealing Flop ** [ 4d ] board:[ 3d Qh 4d]
+Duckdoger checks
+QwertySpark checks
+oldlimper31 bets for 1050 Tournament chips
+Duckdoger folds [1050 Tournament chips]
+QwertySpark folds [1050 Tournament chips]
+oldlimper31 is returned 1050 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for oldlimper31 (Ah Qs 3d Qh 4d: a pair of queens)
+oldlimper31 wins main pot 450 Tournament chips.
+Seat 0: 44raymo (11660 Tournament chips) 
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3755 Tournament chips) 
+Seat 4: Treesnkeys63 (1999 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3230 Tournament chips) 
+Seat 8: QwertySpark (4440 Tournament chips) 
+Game #23936611-37 ends
+Game #23936611-38 starts
+Seat 0: 44raymo (11660 Tournament chips) 
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3755 Tournament chips) 
+Seat 4: Treesnkeys63 (1999 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3230 Tournament chips) 
+Seat 8: QwertySpark (4440 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [75 Tournament chips]
+44raymo posts the big blind [150 Tournament chips]
+44raymo, at seat 0, is in this hand with 11510 Tournament chips.
+rlbirm, at seat 1, is in this hand (absent) with 101 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3755 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 1999 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand (absent) with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3230 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+
+44raymo is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 5h Kd ]
+rlbirm folds [101 Tournament chips]
+oldlimper31 calls [150 Tournament chips]
+Treesnkeys63 calls [150 Tournament chips]
+To2lee OZZuM folds [150 Tournament chips]
+Duckdoger calls [150 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+44raymo checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Ts ] board:[ 3s Ts]
+** Dealing Flop ** [ Jd ] board:[ 3s Ts Jd]
+44raymo bets for 675 Tournament chips
+oldlimper31 raises [1350 Tournament chips]
+Treesnkeys63 calls [1350 Tournament chips]
+Duckdoger folds [1350 Tournament chips]
+44raymo calls [675 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 3s Ts Jd 3c]
+44raymo bets for 2362 Tournament chips
+oldlimper31 calls all-in [2255 Tournament chips]
+Treesnkeys63 calls all-in [499 Tournament chips]
+44raymo is returned 107 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+44raymo shows [ 8s 2s ]
+oldlimper31 shows [ Js Ks ]
+Treesnkeys63 shows [ Jh 3h ]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 3s Ts Jd 3c 2c]
+        (no action in this round)
+Round 4 is over.
+44raymo shows [ 8s 2s ] two pair, threes and deuces, jack kicker
+oldlimper31 shows [ Js Ks ] two pair, jacks and threes, king kicker
+Treesnkeys63 shows [ Jh 3h ] full house, threes full of jacks
+Treesnkeys63 wins main pot 6222 Tournament chips with full house, threes full of jacks.
+oldlimper31 wins side pot #1 3512 Tournament chips with two pair, jacks and threes, king kicker.
+Seat 0: 44raymo (7905 Tournament chips) 
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3512 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-38 ends
+Game #23936611-39 starts
+Seat 0: 44raymo (7905 Tournament chips) 
+Seat 1: rlbirm (101 Tournament chips) 
+Seat 3: oldlimper31 (3512 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+44raymo posts the small blind [100 Tournament chips]
+rlbirm posts the big blind [101 Tournament chips], goes all-in
+44raymo, at seat 0, is in this hand with 7805 Tournament chips.
+rlbirm, at seat 1, is in this hand (absent) with 0 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3512 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 6222 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3080 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+44raymo is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+rlbirm is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+Dealt to 44raymo [ **** ]
+Dealt to rlbirm [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Kc 8h ]
+oldlimper31 calls [200 Tournament chips]
+Treesnkeys63 folds [200 Tournament chips]
+To2lee OZZuM folds [200 Tournament chips]
+Duckdoger folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+44raymo calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 3s ] board:[ Qh 3s]
+** Dealing Flop ** [ Jc ] board:[ Qh 3s Jc]
+44raymo checks
+oldlimper31 checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Qh 3s Jc Ah]
+44raymo bets for 200 Tournament chips
+oldlimper31 folds [200 Tournament chips]
+44raymo is returned 200 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+44raymo shows [ Ts 3c ]
+rlbirm shows [ Kd 7h ]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Qh 3s Jc Ah 3h]
+        (no action in this round)
+Round 4 is over.
+44raymo shows [ Ts 3c ] three threes, ace/queen kickers
+44raymo wins main pot 303 Tournament chips with three threes, ace/queen kickers.
+44raymo wins side pot #1 198 Tournament chips with three threes, ace/queen kickers.
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 1: rlbirm (0 Tournament chips) 
+Seat 3: oldlimper31 (3312 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-39 ends
+Player rlbirm leaves the table with 0 Tournament chips
+Game #23936611-40 starts
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 3: oldlimper31 (3312 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+oldlimper31 posts the big blind [200 Tournament chips]
+44raymo, at seat 0, is in this hand with 8206 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3112 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 6222 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3080 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8h Jd ]
+Treesnkeys63 calls [200 Tournament chips]
+To2lee OZZuM folds [200 Tournament chips]
+Duckdoger folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+44raymo folds [200 Tournament chips]
+oldlimper31 checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Kc ] board:[ 2d Kc]
+** Dealing Flop ** [ 7d ] board:[ 2d Kc 7d]
+oldlimper31 checks
+Treesnkeys63 checks
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ 2d Kc 7d Tc]
+oldlimper31 checks
+Treesnkeys63 checks
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 2d Kc 7d Tc 9h]
+oldlimper31 checks
+Treesnkeys63 checks
+Round 4 is over.
+oldlimper31 shows [ 2s 8c ] a pair of deuces
+Hand evaluation for oldlimper31 (2s 2d Kc Tc 9h: a pair of deuces)
+Treesnkeys63 shows [ 6h 2h ] a pair of deuces
+Hand evaluation for Treesnkeys63 (2h 2d Kc Tc 9h: a pair of deuces)
+oldlimper31 wins main pot 200 Tournament chips of a 400 Tournament chips pot with a pair of deuces, king/ten kickers.
+Treesnkeys63 wins main pot 200 Tournament chips of a 400 Tournament chips pot with a pair of deuces, king/ten kickers.
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (3312 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-40 ends
+Game #23936611-41 starts
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (3312 Tournament chips) 
+Seat 4: Treesnkeys63 (6222 Tournament chips) 
+Seat 6: To2lee OZZuM (2205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 0
+oldlimper31 posts the small blind [100 Tournament chips]
+Treesnkeys63 posts the big blind [200 Tournament chips]
+44raymo, at seat 0, is in this hand with 8206 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 3212 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 6022 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 2205 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3080 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8s Kd ]
+To2lee OZZuM raises [400 Tournament chips]
+Duckdoger folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+44raymo folds [400 Tournament chips]
+oldlimper31 calls [300 Tournament chips]
+Treesnkeys63 folds [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6h ] board:[ 8h 6h]
+** Dealing Flop ** [ 7c ] board:[ 8h 6h 7c]
+oldlimper31 bets for 1400 Tournament chips
+To2lee OZZuM raises all-in [1805 Tournament chips]
+oldlimper31 folds [405 Tournament chips]
+To2lee OZZuM is returned 405 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for To2lee OZZuM (5c Ac 8h 6h 7c: ace high)
+To2lee OZZuM wins main pot 3800 Tournament chips.
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (1512 Tournament chips) 
+Seat 4: Treesnkeys63 (6022 Tournament chips) 
+Seat 6: To2lee OZZuM (4205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-41 ends
+Game #23936611-42 starts
+Seat 0: 44raymo (8206 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (1512 Tournament chips) 
+Seat 4: Treesnkeys63 (6022 Tournament chips) 
+Seat 6: To2lee OZZuM (4205 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 3.
+Treesnkeys63 posts the small blind [100 Tournament chips]
+To2lee OZZuM posts the big blind [200 Tournament chips]
+44raymo, at seat 0, is in this hand with 8206 Tournament chips.
+RexLee, at seat 2, is in this hand with 760 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1512 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 5922 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 4005 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3080 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to RexLee [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 8s Th ]
+Duckdoger folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+44raymo raises [400 Tournament chips]
+RexLee folds [400 Tournament chips]
+oldlimper31 calls [400 Tournament chips]
+Treesnkeys63 folds [300 Tournament chips]
+To2lee OZZuM calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 8d ] board:[ 6d 8d]
+** Dealing Flop ** [ Qc ] board:[ 6d 8d Qc]
+To2lee OZZuM bets for 400 Tournament chips
+44raymo raises [3900 Tournament chips]
+oldlimper31 folds [1112 Tournament chips]
+To2lee OZZuM calls all-in [3405 Tournament chips]
+44raymo is returned 95 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+44raymo shows [ Ac As ]
+To2lee OZZuM shows [ Ad Td ]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 6d 8d Qc 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 6d 8d Qc 3d Qs]
+        (no action in this round)
+Round 4 is over.
+44raymo shows [ Ac As ] two pair, aces and queens, eight kicker
+To2lee OZZuM shows [ Ad Td ] flush, ace/ten/eight high
+To2lee OZZuM wins main pot 8910 Tournament chips with flush, ace/ten/eight high.
+Seat 0: 44raymo (4001 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (1112 Tournament chips) 
+Seat 4: Treesnkeys63 (5922 Tournament chips) 
+Seat 6: To2lee OZZuM (8910 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-42 ends
+Game #23936611-43 starts
+Seat 0: 44raymo (4001 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (1112 Tournament chips) 
+Seat 4: Treesnkeys63 (5922 Tournament chips) 
+Seat 6: To2lee OZZuM (8910 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+To2lee OZZuM posts the small blind [150 Tournament chips]
+Duckdoger posts the big blind [300 Tournament chips]
+44raymo, at seat 0, is in this hand with 4001 Tournament chips.
+RexLee, at seat 2, is in this hand with 760 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 1112 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 5922 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 8760 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 2780 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4365 Tournament chips.
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to RexLee [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ Tc 8d ]
+QwertySpark folds [300 Tournament chips]
+44raymo folds [300 Tournament chips]
+RexLee folds [300 Tournament chips]
+oldlimper31 calls [300 Tournament chips]
+Treesnkeys63 calls [300 Tournament chips]
+To2lee OZZuM calls [150 Tournament chips]
+Duckdoger checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Ks ] board:[ 2c Ks]
+** Dealing Flop ** [ 4h ] board:[ 2c Ks 4h]
+To2lee OZZuM checks
+Duckdoger checks
+oldlimper31 checks
+Treesnkeys63 checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 2c Ks 4h Ac]
+To2lee OZZuM checks
+Duckdoger bets for 1200 Tournament chips
+oldlimper31 folds [812 Tournament chips]
+Treesnkeys63 folds [1200 Tournament chips]
+To2lee OZZuM folds [1200 Tournament chips]
+Duckdoger is returned 1200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Duckdoger (Ad 4d Ks 4h Ac: two pair, aces and fours)
+Duckdoger wins main pot 1200 Tournament chips.
+(oldlimper31 has entered the table, is no longer absent.)
+Seat 0: 44raymo (4001 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (812 Tournament chips) 
+Seat 4: Treesnkeys63 (5622 Tournament chips) 
+Seat 6: To2lee OZZuM (8610 Tournament chips) 
+Seat 7: Duckdoger (3980 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+Game #23936611-43 ends
+Game #23936611-44 starts
+Seat 0: 44raymo (4001 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (812 Tournament chips) 
+Seat 4: Treesnkeys63 (5622 Tournament chips) 
+Seat 6: To2lee OZZuM (8610 Tournament chips) 
+Seat 7: Duckdoger (3980 Tournament chips) 
+Seat 8: QwertySpark (4365 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Duckdoger posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+44raymo, at seat 0, is in this hand with 4001 Tournament chips.
+RexLee, at seat 2, is in this hand with 760 Tournament chips.
+oldlimper31, at seat 3, is in this hand with 812 Tournament chips.
+Treesnkeys63, at seat 4, is in this hand with 5622 Tournament chips.
+To2lee OZZuM, at seat 6, is in this hand with 8610 Tournament chips.
+Duckdoger, at seat 7, is in this hand with 3830 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4065 Tournament chips.
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Duckdoger is dealt: **
+
+44raymo is dealt: **
+RexLee is dealt: **
+oldlimper31 is dealt: **
+Treesnkeys63 is dealt: **
+To2lee OZZuM is dealt: **
+Dealt to 44raymo [ **** ]
+Dealt to RexLee [ **** ]
+Dealt to oldlimper31 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to To2lee OZZuM [ **** ]
+Dealt to Duckdoger [ **** ]
+Dealt to QwertySpark [ 5h 7h ]
+44raymo raises [900 Tournament chips]
+RexLee folds [760 Tournament chips]
+oldlimper31 folds [812 Tournament chips]
+Treesnkeys63 calls [900 Tournament chips]
+To2lee OZZuM calls [900 Tournament chips]
+Duckdoger calls [750 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 6c ] board:[ 3h 6c]
+** Dealing Flop ** [ Qs ] board:[ 3h 6c Qs]
+Duckdoger checks
+QwertySpark bets for 1200 Tournament chips
+44raymo folds [1200 Tournament chips]
+Treesnkeys63 calls [1200 Tournament chips]
+To2lee OZZuM calls [1200 Tournament chips]
+Duckdoger folds [1200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 3h 6c Qs 3s]
+QwertySpark goes all-in for 2265 Tournament chips
+Treesnkeys63 calls [2265 Tournament chips]
+To2lee OZZuM folds [2265 Tournament chips]
+Tournament all-in showdown -- players show:
+Treesnkeys63 shows [ Ks 6s ]
+QwertySpark shows [ 5h 7h ]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 3h 6c Qs 3s 5c]
+        (no action in this round)
+Round 4 is over.
+Treesnkeys63 shows [ Ks 6s ] two pair, sixes and threes, king kicker
+QwertySpark shows [ 5h 7h ] two pair, fives and threes, queen kicker
+Treesnkeys63 wins main pot 12630 Tournament chips with two pair, sixes and threes, king kicker.
+Seat 0: 44raymo (3101 Tournament chips) 
+Seat 2: RexLee (760 Tournament chips) 
+Seat 3: oldlimper31 (812 Tournament chips) 
+Seat 4: Treesnkeys63 (13887 Tournament chips) 
+Seat 6: To2lee OZZuM (6510 Tournament chips) 
+Seat 7: Duckdoger (3080 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #23936611-44 ends
+Player QwertySpark leaves the table with 0 Tournament chips

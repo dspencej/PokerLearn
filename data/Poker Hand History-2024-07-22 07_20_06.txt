@@ -1,0 +1,769 @@
+Game#: 23943125
+GIGI51 checks
+OffWeGo checks
+destroyerbob checks
+MandyOregon76 checks
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 3c 8d Td 9c]
+GIGI51 bets for 150 Tournament chips
+OffWeGo raises [300 Tournament chips]
+destroyerbob folds [300 Tournament chips]
+MandyOregon76 folds [300 Tournament chips]
+GIGI51 calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 3c 8d Td 9c As]
+GIGI51 checks
+OffWeGo bets for 300 Tournament chips
+GIGI51 folds [300 Tournament chips]
+OffWeGo is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for OffWeGo (Jc Qc 8d Td 9c: straight, queen high)
+OffWeGo shows [ Jc Qc ] straight, queen high
+Hand evaluation for OffWeGo (Jc Qc 8d Td 9c: straight, queen high)
+OffWeGo wins main pot 1350 Tournament chips.
+Seat 0: GIGI51 (2065 Tournament chips) 
+Seat 1: Mustang Joe (800 Tournament chips) 
+Seat 2: QwertySpark (940 Tournament chips) 
+Seat 3: OffWeGo (7895 Tournament chips) 
+Seat 4: destroyerbob (480 Tournament chips) 
+Seat 5: MandyOregon76 (2100 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4655 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-15 ends
+(camp1215 has entered the table, is no longer absent.)
+Game #23943125-16 starts
+Seat 0: GIGI51 (2065 Tournament chips) 
+Seat 1: Mustang Joe (800 Tournament chips) 
+Seat 2: QwertySpark (940 Tournament chips) 
+Seat 3: OffWeGo (7895 Tournament chips) 
+Seat 4: destroyerbob (480 Tournament chips) 
+Seat 5: MandyOregon76 (2100 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4655 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Mustang Joe posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+GIGI51, at seat 0, is in this hand with 2065 Tournament chips.
+Mustang Joe, at seat 1, is in this hand (absent) with 725 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 790 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 7895 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 480 Tournament chips.
+MandyOregon76, at seat 5, is in this hand with 2100 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 845 Tournament chips.
+camp1215, at seat 7, is in this hand with 4655 Tournament chips.
+DrFish, at seat 8, is in this hand with 1200 Tournament chips.
+Mustang Joe is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Mustang Joe is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to Mustang Joe [ **** ]
+Dealt to QwertySpark [ Kd 7c ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to MandyOregon76 [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+OffWeGo folds [150 Tournament chips]
+destroyerbob folds [150 Tournament chips]
+MandyOregon76 folds [150 Tournament chips]
+GeeWiz333 folds [150 Tournament chips]
+camp1215 calls [150 Tournament chips]
+DrFish folds [150 Tournament chips]
+GIGI51 calls [150 Tournament chips]
+Mustang Joe folds [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 2s ] board:[ 8d 2s]
+** Dealing Flop ** [ 3d ] board:[ 8d 2s 3d]
+QwertySpark goes all-in for 790 Tournament chips
+camp1215 folds [790 Tournament chips]
+GIGI51 folds [790 Tournament chips]
+QwertySpark is returned 790 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kd 7c 8d 2s 3d: king high)
+QwertySpark wins main pot 525 Tournament chips.
+Seat 0: GIGI51 (1915 Tournament chips) 
+Seat 1: Mustang Joe (725 Tournament chips) 
+Seat 2: QwertySpark (1315 Tournament chips) 
+Seat 3: OffWeGo (7895 Tournament chips) 
+Seat 4: destroyerbob (480 Tournament chips) 
+Seat 5: MandyOregon76 (2100 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-16 ends
+Game #23943125-17 starts
+Seat 0: GIGI51 (1915 Tournament chips) 
+Seat 1: Mustang Joe (725 Tournament chips) 
+Seat 2: QwertySpark (1315 Tournament chips) 
+Seat 3: OffWeGo (7895 Tournament chips) 
+Seat 4: destroyerbob (480 Tournament chips) 
+Seat 5: MandyOregon76 (2100 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [100 Tournament chips]
+OffWeGo posts the big blind [200 Tournament chips]
+GIGI51, at seat 0, is in this hand with 1915 Tournament chips.
+Mustang Joe, at seat 1, is in this hand (absent) with 725 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1215 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 7695 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 480 Tournament chips.
+MandyOregon76, at seat 5, is in this hand with 2100 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 845 Tournament chips.
+camp1215, at seat 7, is in this hand with 4505 Tournament chips.
+DrFish, at seat 8, is in this hand with 1200 Tournament chips.
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Mustang Joe is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Mustang Joe is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to Mustang Joe [ **** ]
+Dealt to QwertySpark [ 7h Ac ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to MandyOregon76 [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+destroyerbob calls [200 Tournament chips]
+MandyOregon76 calls [200 Tournament chips]
+GeeWiz333 folds [200 Tournament chips]
+camp1215 folds [200 Tournament chips]
+DrFish folds [200 Tournament chips]
+GIGI51 folds [200 Tournament chips]
+Mustang Joe folds [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+OffWeGo checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Qd ] board:[ Jh Qd]
+** Dealing Flop ** [ Ah ] board:[ Jh Qd Ah]
+QwertySpark bets for 800 Tournament chips
+OffWeGo folds [800 Tournament chips]
+destroyerbob calls all-in [280 Tournament chips]
+MandyOregon76 calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Jh Qd Ah 3h]
+QwertySpark goes all-in for 315 Tournament chips
+MandyOregon76 calls [315 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7h Ac ]
+destroyerbob shows [ As Kc ]
+MandyOregon76 shows [ Qs Ks ]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Jh Qd Ah 3h 4s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7h Ac ] a pair of aces, queen/jack kickers
+destroyerbob shows [ As Kc ] a pair of aces, king/queen kickers
+MandyOregon76 shows [ Qs Ks ] a pair of queens, ace/king kickers
+destroyerbob wins main pot 1640 Tournament chips with a pair of aces, king/queen kickers.
+QwertySpark wins side pot #1 1670 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 0: GIGI51 (1915 Tournament chips) 
+Seat 1: Mustang Joe (725 Tournament chips) 
+Seat 2: QwertySpark (1670 Tournament chips) 
+Seat 3: OffWeGo (7695 Tournament chips) 
+Seat 4: destroyerbob (1640 Tournament chips) 
+Seat 5: MandyOregon76 (785 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-17 ends
+Game #23943125-18 starts
+Seat 0: GIGI51 (1915 Tournament chips) 
+Seat 1: Mustang Joe (725 Tournament chips) 
+Seat 2: QwertySpark (1670 Tournament chips) 
+Seat 3: OffWeGo (7695 Tournament chips) 
+Seat 4: destroyerbob (1640 Tournament chips) 
+Seat 5: MandyOregon76 (785 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+OffWeGo posts the small blind [100 Tournament chips]
+destroyerbob posts the big blind [200 Tournament chips]
+GIGI51, at seat 0, is in this hand with 1915 Tournament chips.
+Mustang Joe, at seat 1, is in this hand (absent) with 725 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1670 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 7595 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 1440 Tournament chips.
+MandyOregon76, at seat 5, is in this hand with 785 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 845 Tournament chips.
+camp1215, at seat 7, is in this hand with 4505 Tournament chips.
+DrFish, at seat 8, is in this hand with 1200 Tournament chips.
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Mustang Joe is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+Mustang Joe is dealt: **
+
+Dealt to GIGI51 [ **** ]
+Dealt to Mustang Joe [ **** ]
+Dealt to QwertySpark [ Jh 6h ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to MandyOregon76 [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+MandyOregon76 calls [200 Tournament chips]
+GeeWiz333 folds [200 Tournament chips]
+camp1215 folds [200 Tournament chips]
+DrFish folds [200 Tournament chips]
+GIGI51 calls [200 Tournament chips]
+Mustang Joe folds [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+OffWeGo calls [100 Tournament chips]
+destroyerbob checks
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Qd ] board:[ 7d Qd]
+** Dealing Flop ** [ Kd ] board:[ 7d Qd Kd]
+OffWeGo checks
+destroyerbob bets for 200 Tournament chips
+MandyOregon76 calls [200 Tournament chips]
+GIGI51 calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+OffWeGo calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 7d Qd Kd Ac]
+OffWeGo checks
+destroyerbob bets for 600 Tournament chips
+MandyOregon76 folds [385 Tournament chips]
+GIGI51 raises all-in [1515 Tournament chips]
+OffWeGo calls [1515 Tournament chips]
+destroyerbob calls all-in [640 Tournament chips]
+Tournament all-in showdown -- players show:
+GIGI51 shows [ Js Td ]
+OffWeGo shows [ Qc Ad ]
+destroyerbob shows [ 5d 9d ]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 7d Qd Kd Ac 3h]
+        (no action in this round)
+Round 4 is over.
+GIGI51 shows [ Js Td ] straight, ace high
+OffWeGo shows [ Qc Ad ] two pair, aces and queens, king kicker
+destroyerbob shows [ 5d 9d ] flush, king/queen/nine high
+destroyerbob wins main pot 5520 Tournament chips with flush, king/queen/nine high.
+GIGI51 wins side pot #1 550 Tournament chips with straight, ace high.
+Seat 0: GIGI51 (550 Tournament chips) 
+Seat 1: Mustang Joe (725 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5780 Tournament chips) 
+Seat 4: destroyerbob (5520 Tournament chips) 
+Seat 5: MandyOregon76 (385 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-18 ends
+Player Mustang Joe leaves the table with 0 Tournament chips
+Game #23943125-19 starts
+Seat 0: GIGI51 (550 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5780 Tournament chips) 
+Seat 4: destroyerbob (5520 Tournament chips) 
+Seat 5: MandyOregon76 (385 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (4505 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+destroyerbob posts the small blind [150 Tournament chips]
+MandyOregon76 posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 550 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1470 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5780 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5370 Tournament chips.
+MandyOregon76, at seat 5, is in this hand with 85 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 845 Tournament chips.
+camp1215, at seat 7, is in this hand with 4505 Tournament chips.
+DrFish, at seat 8, is in this hand with 1200 Tournament chips.
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ Kd 3c ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to MandyOregon76 [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+GeeWiz333 folds [300 Tournament chips]
+camp1215 calls [300 Tournament chips]
+DrFish folds [300 Tournament chips]
+GIGI51 calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+OffWeGo folds [300 Tournament chips]
+destroyerbob calls [150 Tournament chips]
+MandyOregon76 checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Ts ] board:[ 5d Ts]
+** Dealing Flop ** [ 3h ] board:[ 5d Ts 3h]
+destroyerbob checks
+MandyOregon76 checks
+camp1215 bets for 600 Tournament chips
+GIGI51 folds [250 Tournament chips]
+destroyerbob folds [600 Tournament chips]
+MandyOregon76 folds [85 Tournament chips]
+camp1215 is returned 600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for camp1215 (3s 3d 5d Ts 3h: three threes)
+camp1215 wins main pot 1200 Tournament chips.
+Seat 0: GIGI51 (250 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5780 Tournament chips) 
+Seat 4: destroyerbob (5220 Tournament chips) 
+Seat 5: MandyOregon76 (85 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (5405 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-19 ends
+Game #23943125-20 starts
+Seat 0: GIGI51 (250 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5780 Tournament chips) 
+Seat 4: destroyerbob (5220 Tournament chips) 
+Seat 5: MandyOregon76 (85 Tournament chips) 
+Seat 6: GeeWiz333 (845 Tournament chips) 
+Seat 7: camp1215 (5405 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+MandyOregon76 posts the small blind [85 Tournament chips], goes all-in
+GeeWiz333 posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 250 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1470 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5780 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5220 Tournament chips.
+MandyOregon76, at seat 5, is in this hand with 0 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 545 Tournament chips.
+camp1215, at seat 7, is in this hand with 5405 Tournament chips.
+DrFish, at seat 8, is in this hand with 1200 Tournament chips.
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+MandyOregon76 is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ 6h 7s ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to MandyOregon76 [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+camp1215 folds [300 Tournament chips]
+DrFish folds [300 Tournament chips]
+GIGI51 calls all-in [250 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+OffWeGo calls [300 Tournament chips]
+destroyerbob folds [300 Tournament chips]
+GeeWiz333 folds
+Tournament all-in showdown -- players show:
+GIGI51 shows [ 7d 9c ]
+OffWeGo shows [ Ac 5c ]
+MandyOregon76 shows [ 2d Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 8s ] board:[ 6c 8s]
+** Dealing Flop ** [ 5s ] board:[ 6c 8s 5s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 6c 8s 5s Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 6c 8s 5s Js 2c]
+        (no action in this round)
+Round 4 is over.
+GIGI51 shows [ 7d 9c ] straight, nine high
+OffWeGo shows [ Ac 5c ] a pair of fives, ace/jack kickers
+MandyOregon76 shows [ 2d Kh ] a pair of deuces, king/jack kickers
+GIGI51 wins main pot 340 Tournament chips with straight, nine high.
+GIGI51 wins side pot #1 495 Tournament chips with straight, nine high.
+OffWeGo wins side pot #2 100 Tournament chips with a pair of fives, ace/jack kickers.
+Seat 0: GIGI51 (835 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5580 Tournament chips) 
+Seat 4: destroyerbob (5220 Tournament chips) 
+Seat 5: MandyOregon76 (0 Tournament chips) 
+Seat 6: GeeWiz333 (545 Tournament chips) 
+Seat 7: camp1215 (5405 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+Game #23943125-20 ends
+Player MandyOregon76 leaves the table with 0 Tournament chips
+Game #23943125-21 starts
+Seat 0: GIGI51 (835 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: OffWeGo (5580 Tournament chips) 
+Seat 4: destroyerbob (5220 Tournament chips) 
+Seat 6: GeeWiz333 (545 Tournament chips) 
+Seat 7: camp1215 (5405 Tournament chips) 
+Seat 8: DrFish (1200 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+OffWeGo posted ante of 25 Tournament chips
+GIGI51 posted ante of 25 Tournament chips
+GeeWiz333 posted ante of 25 Tournament chips
+destroyerbob posted ante of 25 Tournament chips
+DrFish posted ante of 25 Tournament chips
+camp1215 posted ante of 25 Tournament chips
+The button is moved to seat 5.
+GeeWiz333 posts the small blind [150 Tournament chips]
+camp1215 posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 810 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1445 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5555 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5195 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 370 Tournament chips.
+camp1215, at seat 7, is in this hand with 5080 Tournament chips.
+DrFish, at seat 8, is in this hand with 1175 Tournament chips.
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ 5h 9d ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+DrFish raises all-in [1175 Tournament chips]
+GIGI51 folds [810 Tournament chips]
+QwertySpark folds [1175 Tournament chips]
+OffWeGo folds [1175 Tournament chips]
+destroyerbob folds [1175 Tournament chips]
+GeeWiz333 folds [370 Tournament chips]
+camp1215 folds [875 Tournament chips]
+DrFish is returned 875 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for DrFish (As Td: ace high)
+DrFish wins main pot 925 Tournament chips.
+Seat 0: GIGI51 (810 Tournament chips) 
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: OffWeGo (5555 Tournament chips) 
+Seat 4: destroyerbob (5195 Tournament chips) 
+Seat 6: GeeWiz333 (370 Tournament chips) 
+Seat 7: camp1215 (5080 Tournament chips) 
+Seat 8: DrFish (1800 Tournament chips) 
+Game #23943125-21 ends
+Game #23943125-22 starts
+Seat 0: GIGI51 (810 Tournament chips) 
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: OffWeGo (5555 Tournament chips) 
+Seat 4: destroyerbob (5195 Tournament chips) 
+Seat 6: GeeWiz333 (370 Tournament chips) 
+Seat 7: camp1215 (5080 Tournament chips) 
+Seat 8: DrFish (1800 Tournament chips) 
+The button is at seat 5
+GIGI51 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+OffWeGo posted ante of 25 Tournament chips
+GeeWiz333 posted ante of 25 Tournament chips
+destroyerbob posted ante of 25 Tournament chips
+camp1215 posted ante of 25 Tournament chips
+DrFish posted ante of 25 Tournament chips
+The button is moved to seat 6.
+camp1215 posts the small blind [150 Tournament chips]
+DrFish posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 785 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1420 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5530 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5170 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 345 Tournament chips.
+camp1215, at seat 7, is in this hand with 4905 Tournament chips.
+DrFish, at seat 8, is in this hand with 1475 Tournament chips.
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ Js 2s ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+GIGI51 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+OffWeGo folds [300 Tournament chips]
+destroyerbob folds [300 Tournament chips]
+GeeWiz333 folds [300 Tournament chips]
+camp1215 folds [150 Tournament chips]
+DrFish is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for DrFish (8s 9s: nine high)
+DrFish wins main pot 475 Tournament chips.
+Seat 0: GIGI51 (785 Tournament chips) 
+Seat 2: QwertySpark (1420 Tournament chips) 
+Seat 3: OffWeGo (5530 Tournament chips) 
+Seat 4: destroyerbob (5170 Tournament chips) 
+Seat 6: GeeWiz333 (345 Tournament chips) 
+Seat 7: camp1215 (4905 Tournament chips) 
+Seat 8: DrFish (2100 Tournament chips) 
+Game #23943125-22 ends
+Game #23943125-23 starts
+Seat 0: GIGI51 (785 Tournament chips) 
+Seat 2: QwertySpark (1420 Tournament chips) 
+Seat 3: OffWeGo (5530 Tournament chips) 
+Seat 4: destroyerbob (5170 Tournament chips) 
+Seat 6: GeeWiz333 (345 Tournament chips) 
+Seat 7: camp1215 (4905 Tournament chips) 
+Seat 8: DrFish (2100 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 25 Tournament chips
+GIGI51 posted ante of 25 Tournament chips
+destroyerbob posted ante of 25 Tournament chips
+GeeWiz333 posted ante of 25 Tournament chips
+DrFish posted ante of 25 Tournament chips
+camp1215 posted ante of 25 Tournament chips
+OffWeGo posted ante of 25 Tournament chips
+The button is moved to seat 7.
+DrFish posts the small blind [150 Tournament chips]
+GIGI51 posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 460 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1395 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5505 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5145 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 320 Tournament chips.
+camp1215, at seat 7, is in this hand with 4880 Tournament chips.
+DrFish, at seat 8, is in this hand with 1925 Tournament chips.
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ 5c Tc ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+QwertySpark raises [900 Tournament chips]
+OffWeGo folds [900 Tournament chips]
+destroyerbob folds [900 Tournament chips]
+GeeWiz333 folds [320 Tournament chips]
+camp1215 folds [900 Tournament chips]
+DrFish folds [750 Tournament chips]
+GIGI51 calls all-in [460 Tournament chips]
+QwertySpark is returned 140 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+GIGI51 shows [ 8h 8c ]
+QwertySpark shows [ 5c Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ As ] board:[ 3h As]
+** Dealing Flop ** [ 6d ] board:[ 3h As 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 3h As 6d 9h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 3h As 6d 9h Jd]
+        (no action in this round)
+Round 4 is over.
+GIGI51 shows [ 8h 8c ] a pair of eights, ace/jack kickers
+QwertySpark shows [ 5c Tc ] ace/jack/ten high
+GIGI51 wins main pot 1845 Tournament chips with a pair of eights, ace/jack kickers.
+Seat 0: GIGI51 (1845 Tournament chips) 
+Seat 2: QwertySpark (635 Tournament chips) 
+Seat 3: OffWeGo (5505 Tournament chips) 
+Seat 4: destroyerbob (5145 Tournament chips) 
+Seat 6: GeeWiz333 (320 Tournament chips) 
+Seat 7: camp1215 (4880 Tournament chips) 
+Seat 8: DrFish (1925 Tournament chips) 
+Game #23943125-23 ends
+Game #23943125-24 starts
+Seat 0: GIGI51 (1845 Tournament chips) 
+Seat 2: QwertySpark (635 Tournament chips) 
+Seat 3: OffWeGo (5505 Tournament chips) 
+Seat 4: destroyerbob (5145 Tournament chips) 
+Seat 6: GeeWiz333 (320 Tournament chips) 
+Seat 7: camp1215 (4880 Tournament chips) 
+Seat 8: DrFish (1925 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 25 Tournament chips
+GIGI51 posted ante of 25 Tournament chips
+destroyerbob posted ante of 25 Tournament chips
+OffWeGo posted ante of 25 Tournament chips
+GeeWiz333 posted ante of 25 Tournament chips
+camp1215 posted ante of 25 Tournament chips
+DrFish posted ante of 25 Tournament chips
+The button is moved to seat 8.
+GIGI51 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+GIGI51, at seat 0, is in this hand with 1670 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 310 Tournament chips.
+OffWeGo, at seat 3, is in this hand with 5480 Tournament chips.
+destroyerbob, at seat 4, is in this hand with 5120 Tournament chips.
+GeeWiz333, at seat 6, is in this hand (absent) with 295 Tournament chips.
+camp1215, at seat 7, is in this hand with 4855 Tournament chips.
+DrFish, at seat 8, is in this hand with 1900 Tournament chips.
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+GIGI51 is dealt: **
+
+OffWeGo is dealt: **
+destroyerbob is dealt: **
+GeeWiz333 is dealt: **
+camp1215 is dealt: **
+DrFish is dealt: **
+Dealt to GIGI51 [ **** ]
+Dealt to QwertySpark [ 6c 7s ]
+Dealt to OffWeGo [ **** ]
+Dealt to destroyerbob [ **** ]
+Dealt to GeeWiz333 [ **** ]
+Dealt to camp1215 [ **** ]
+Dealt to DrFish [ **** ]
+OffWeGo folds [300 Tournament chips]
+destroyerbob calls [300 Tournament chips]
+GeeWiz333 folds [295 Tournament chips]
+camp1215 folds [300 Tournament chips]
+DrFish folds [300 Tournament chips]
+GIGI51 raises [750 Tournament chips]
+QwertySpark calls all-in [310 Tournament chips]
+destroyerbob calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Jh ] board:[ Kd Jh]
+** Dealing Flop ** [ Qh ] board:[ Kd Jh Qh]
+GIGI51 checks
+destroyerbob checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Kd Jh Qh 9h]
+GIGI51 checks
+destroyerbob bets for 300 Tournament chips
+GIGI51 folds [300 Tournament chips]
+destroyerbob is returned 300 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6c 7s ]
+destroyerbob shows [ 6h Ad ]
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Kd Jh Qh 9h Ah]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 6c 7s ] ace/king/queen high
+destroyerbob shows [ 6h Ad ] flush, ace/queen/jack high
+destroyerbob wins main pot 2005 Tournament chips with flush, ace/queen/jack high.
+destroyerbob wins side pot #1 580 Tournament chips with flush, ace/queen/jack high.
+Seat 0: GIGI51 (920 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: OffWeGo (5480 Tournament chips) 
+Seat 4: destroyerbob (6805 Tournament chips) 
+Seat 5: Dave85053 (3330 Tournament chips) 
+Seat 6: GeeWiz333 (295 Tournament chips) 
+Seat 7: camp1215 (4855 Tournament chips) 
+Seat 8: DrFish (1900 Tournament chips) 
+Game #23943125-24 ends
+Player QwertySpark leaves the table with 0 Tournament chips

@@ -1,0 +1,2512 @@
+Game#: 23980085
+TheGad68 is dealt: **
+James215 is dealt: **
+Scottjhg is dealt: **
+Donkeylife is dealt: **
+QwertySpark is dealt: Ah
+mojobird is dealt: **
+kurupt28545 is dealt: **
+JerryFastLane is dealt: **
+Tacodraw is dealt: **
+The button is moved to seat 4.
+Game #23980085-1 starts
+Seat 0: TheGad68 (1000 Tournament chips) 
+Seat 1: James215 (1000 Tournament chips) 
+Seat 2: Scottjhg (1000 Tournament chips) 
+Seat 3: Donkeylife (1000 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: mojobird (1000 Tournament chips) 
+Seat 6: kurupt28545 (1000 Tournament chips) 
+Seat 7: JerryFastLane (1000 Tournament chips) 
+Seat 8: Tacodraw (1000 Tournament chips) 
+The button is at seat 4
+mojobird posts the small blind [5 Tournament chips]
+kurupt28545 posts the big blind [10 Tournament chips]
+TheGad68, at seat 0, is in this hand with 1000 Tournament chips.
+James215, at seat 1, is in this hand with 1000 Tournament chips.
+Scottjhg, at seat 2, is in this hand with 1000 Tournament chips.
+Donkeylife, at seat 3, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1000 Tournament chips.
+mojobird, at seat 5, is in this hand with 995 Tournament chips.
+kurupt28545, at seat 6, is in this hand with 990 Tournament chips.
+JerryFastLane, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 1000 Tournament chips.
+mojobird is dealt: **
+kurupt28545 is dealt: **
+JerryFastLane is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+James215 is dealt: **
+Scottjhg is dealt: **
+Donkeylife is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+JerryFastLane is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+James215 is dealt: **
+Scottjhg is dealt: **
+Donkeylife is dealt: **
+
+Dealt to TheGad68 [ **** ]
+Dealt to James215 [ **** ]
+Dealt to Scottjhg [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to QwertySpark [ 2h Qd ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to JerryFastLane [ **** ]
+Dealt to Tacodraw [ **** ]
+JerryFastLane folds [10 Tournament chips]
+Tacodraw folds [10 Tournament chips]
+TheGad68 calls [10 Tournament chips]
+James215 calls [10 Tournament chips]
+Scottjhg raises [320 Tournament chips]
+Donkeylife folds [320 Tournament chips]
+QwertySpark folds [320 Tournament chips]
+mojobird folds [315 Tournament chips]
+kurupt28545 raises all-in [990 Tournament chips]
+TheGad68 folds [990 Tournament chips]
+James215 folds [990 Tournament chips]
+Scottjhg calls all-in [680 Tournament chips]
+Tournament all-in showdown -- players show:
+Scottjhg shows [ 8c 8d ]
+kurupt28545 shows [ 9h Ah ]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Th ] board:[ 3s Th]
+** Dealing Flop ** [ 9d ] board:[ 3s Th 9d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 3s Th 9d 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 3s Th 9d 5s 7h]
+        (no action in this round)
+Round 4 is over.
+Scottjhg shows [ 8c 8d ] a pair of eights, ten/nine kickers
+kurupt28545 shows [ 9h Ah ] a pair of nines, ace/ten kickers
+kurupt28545 wins main pot 2025 Tournament chips with a pair of nines, ace/ten kickers.
+Seat 0: TheGad68 (990 Tournament chips) 
+Seat 1: James215 (990 Tournament chips) 
+Seat 2: Scottjhg (0 Tournament chips) 
+Seat 3: Donkeylife (1000 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: mojobird (995 Tournament chips) 
+Seat 6: kurupt28545 (2025 Tournament chips) 
+Seat 7: JerryFastLane (1000 Tournament chips) 
+Seat 8: Tacodraw (1000 Tournament chips) 
+Game #23980085-1 ends
+Player Donkeylife leaves the table with 1000 Tournament chips
+Player JerryFastLane leaves the table with 1000 Tournament chips
+Player Scottjhg leaves the table with 0 Tournament chips
+Game #23980085-2 starts
+Seat 0: TheGad68 (990 Tournament chips) 
+Seat 1: James215 (990 Tournament chips) 
+Seat 3: Jobinmm1 (1000 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 5: mojobird (995 Tournament chips) 
+Seat 6: kurupt28545 (2025 Tournament chips) 
+Seat 8: Tacodraw (1000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kurupt28545 posts the small blind [5 Tournament chips]
+Tacodraw posts the big blind [10 Tournament chips]
+TheGad68, at seat 0, is in this hand with 990 Tournament chips.
+James215, at seat 1, is in this hand with 990 Tournament chips.
+Jobinmm1, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1000 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 995 Tournament chips.
+kurupt28545, at seat 6, is in this hand with 2020 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 990 Tournament chips.
+kurupt28545 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+James215 is dealt: **
+Jobinmm1 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+James215 is dealt: **
+Jobinmm1 is dealt: **
+
+mojobird is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to James215 [ **** ]
+Dealt to Jobinmm1 [ **** ]
+Dealt to QwertySpark [ Jc Tc ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Tacodraw [ **** ]
+TheGad68 calls [10 Tournament chips]
+James215 folds [10 Tournament chips]
+(mojobird has entered the table, is no longer absent.)
+Jobinmm1 folds [10 Tournament chips]
+QwertySpark raises [50 Tournament chips]
+mojobird calls [50 Tournament chips]
+kurupt28545 raises all-in [2020 Tournament chips]
+Tacodraw folds [990 Tournament chips]
+TheGad68 folds [980 Tournament chips]
+QwertySpark folds [950 Tournament chips]
+mojobird calls all-in [945 Tournament chips]
+kurupt28545 is returned 1030 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+mojobird shows [ 9c Js ]
+kurupt28545 shows [ 3h 4c ]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Jd ] board:[ 5d Jd]
+** Dealing Flop ** [ Jh ] board:[ 5d Jd Jh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 5d Jd Jh 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 5d Jd Jh 5h 7d]
+        (no action in this round)
+Round 4 is over.
+mojobird shows [ 9c Js ] full house, jacks full of fives
+kurupt28545 shows [ 3h 4c ] two pair, jacks and fives, seven kicker
+mojobird wins main pot 2060 Tournament chips with full house, jacks full of fives.
+Seat 0: TheGad68 (980 Tournament chips) 
+Seat 1: James215 (990 Tournament chips) 
+Seat 2: Sscunk (1000 Tournament chips) 
+Seat 3: Jobinmm1 (1000 Tournament chips) 
+Seat 4: QwertySpark (950 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (1030 Tournament chips) 
+Seat 7: Renagade407 (1000 Tournament chips) 
+Seat 8: Tacodraw (990 Tournament chips) 
+Game #23980085-2 ends
+Player Jobinmm1 leaves the table with 1000 Tournament chips
+Player James215 leaves the table with 990 Tournament chips
+Game #23980085-3 starts
+Seat 0: TheGad68 (980 Tournament chips) 
+Seat 2: Sscunk (1000 Tournament chips) 
+Seat 4: QwertySpark (950 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (1030 Tournament chips) 
+Seat 7: Renagade407 (1000 Tournament chips) 
+Seat 8: Tacodraw (990 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Tacodraw posts the small blind [10 Tournament chips]
+TheGad68 posts the big blind [20 Tournament chips]
+TheGad68, at seat 0, is in this hand with 960 Tournament chips.
+Sscunk, at seat 2, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 950 Tournament chips.
+mojobird, at seat 5, is in this hand with 2060 Tournament chips.
+kurupt28545, at seat 6, is in this hand with 1030 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 980 Tournament chips.
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Sscunk is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Sscunk is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Sscunk [ **** ]
+Dealt to QwertySpark [ Kc Th ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Tacodraw [ **** ]
+Sscunk raises [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+mojobird folds [40 Tournament chips]
+kurupt28545 raises all-in [1030 Tournament chips]
+Tacodraw folds [980 Tournament chips]
+TheGad68 folds [960 Tournament chips]
+Sscunk calls all-in [960 Tournament chips]
+QwertySpark folds [910 Tournament chips]
+kurupt28545 is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Sscunk shows [ Kd Ks ]
+kurupt28545 shows [ 6s 3h ]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 8s ] board:[ 8c 8s]
+** Dealing Flop ** [ 5h ] board:[ 8c 8s 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 8c 8s 5h 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 8c 8s 5h 4s As]
+        (no action in this round)
+Round 4 is over.
+Sscunk shows [ Kd Ks ] two pair, kings and eights, ace kicker
+kurupt28545 shows [ 6s 3h ] a pair of eights, ace/six kickers
+Sscunk wins main pot 2070 Tournament chips with two pair, kings and eights, ace kicker.
+Seat 0: TheGad68 (960 Tournament chips) 
+Seat 1: Rosendo (985 Tournament chips) 
+Seat 2: Sscunk (2070 Tournament chips) 
+Seat 3: bryonne2 (995 Tournament chips) 
+Seat 4: QwertySpark (910 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1000 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+Game #23980085-3 ends
+Player Sscunk leaves the table with 2070 Tournament chips
+Game #23980085-4 starts
+Seat 0: TheGad68 (960 Tournament chips) 
+Seat 1: Rosendo (985 Tournament chips) 
+Seat 3: bryonne2 (995 Tournament chips) 
+Seat 4: QwertySpark (910 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1000 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+TheGad68 posts the small blind [10 Tournament chips]
+Rosendo posts the big blind [20 Tournament chips]
+TheGad68, at seat 0, is in this hand with 950 Tournament chips.
+Rosendo, at seat 1, is in this hand with 965 Tournament chips.
+bryonne2, at seat 3, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 910 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2060 Tournament chips.
+kurupt28545, at seat 6, is in this hand (absent) with 30 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1000 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 980 Tournament chips.
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2c Jd ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+bryonne2 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+mojobird folds [20 Tournament chips]
+kurupt28545 folds [20 Tournament chips]
+Renagade407 calls [20 Tournament chips]
+Tacodraw folds [20 Tournament chips]
+TheGad68 calls [10 Tournament chips]
+Rosendo raises [20 Tournament chips]
+Renagade407 calls [20 Tournament chips]
+TheGad68 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 5s ] board:[ Ah 5s]
+** Dealing Flop ** [ Kd ] board:[ Ah 5s Kd]
+TheGad68 checks
+Rosendo bets for 100 Tournament chips
+Renagade407 folds [100 Tournament chips]
+TheGad68 folds [100 Tournament chips]
+Rosendo is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Rosendo (Ac 7s Ah 5s Kd: a pair of aces)
+Rosendo wins main pot 120 Tournament chips.
+Seat 0: TheGad68 (920 Tournament chips) 
+Seat 1: Rosendo (1065 Tournament chips) 
+Seat 3: bryonne2 (995 Tournament chips) 
+Seat 4: QwertySpark (910 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (960 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+Game #23980085-4 ends
+Game #23980085-5 starts
+Seat 0: TheGad68 (920 Tournament chips) 
+Seat 1: Rosendo (1065 Tournament chips) 
+Seat 3: bryonne2 (995 Tournament chips) 
+Seat 4: QwertySpark (910 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (960 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Rosendo posts the small blind [15 Tournament chips]
+bryonne2 posts the big blind [30 Tournament chips]
+TheGad68, at seat 0, is in this hand with 920 Tournament chips.
+Rosendo, at seat 1, is in this hand with 1050 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 965 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 910 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2060 Tournament chips.
+kurupt28545, at seat 6, is in this hand (absent) with 30 Tournament chips.
+Renagade407, at seat 7, is in this hand with 960 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 980 Tournament chips.
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ As 2s ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+QwertySpark raises [120 Tournament chips]
+mojobird folds [120 Tournament chips]
+kurupt28545 folds [30 Tournament chips]
+Renagade407 folds [120 Tournament chips]
+Tacodraw folds [120 Tournament chips]
+TheGad68 folds [120 Tournament chips]
+Rosendo re-raises [195 Tournament chips]
+bryonne2 folds [180 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 7h ] board:[ 4d 7h]
+** Dealing Flop ** [ 3s ] board:[ 4d 7h 3s]
+Rosendo bets for 225 Tournament chips
+QwertySpark calls [225 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 4d 7h 3s 5c]
+Rosendo bets for 450 Tournament chips
+QwertySpark raises all-in [475 Tournament chips]
+Rosendo calls [25 Tournament chips]
+Tournament all-in showdown -- players show:
+Rosendo shows [ Th Ts ]
+QwertySpark shows [ As 2s ]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 4d 7h 3s 5c Qc]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ Th Ts ] a pair of tens, queen/seven kickers
+QwertySpark shows [ As 2s ] straight, five high
+QwertySpark wins main pot 1850 Tournament chips with straight, five high.
+Seat 0: TheGad68 (920 Tournament chips) 
+Seat 1: Rosendo (155 Tournament chips) 
+Seat 3: bryonne2 (965 Tournament chips) 
+Seat 4: QwertySpark (1850 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (960 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+Game #23980085-5 ends
+Game #23980085-6 starts
+Seat 0: TheGad68 (920 Tournament chips) 
+Seat 1: Rosendo (155 Tournament chips) 
+Seat 3: bryonne2 (965 Tournament chips) 
+Seat 4: QwertySpark (1850 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (960 Tournament chips) 
+Seat 8: Tacodraw (980 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bryonne2 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+TheGad68, at seat 0, is in this hand with 920 Tournament chips.
+Rosendo, at seat 1, is in this hand with 155 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1820 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2060 Tournament chips.
+kurupt28545, at seat 6, is in this hand (absent) with 30 Tournament chips.
+Renagade407, at seat 7, is in this hand with 960 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 980 Tournament chips.
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 3c Qd ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+mojobird folds [30 Tournament chips]
+kurupt28545 folds [30 Tournament chips]
+Renagade407 calls [30 Tournament chips]
+Tacodraw calls [30 Tournament chips]
+TheGad68 calls [30 Tournament chips]
+Rosendo raises all-in [155 Tournament chips]
+bryonne2 folds [140 Tournament chips]
+QwertySpark folds [125 Tournament chips]
+Renagade407 calls [125 Tournament chips]
+Tacodraw re-raises [250 Tournament chips]
+TheGad68 calls [250 Tournament chips]
+Renagade407 calls [125 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 5s ] board:[ 9s 5s]
+** Dealing Flop ** [ Jc ] board:[ 9s 5s Jc]
+Renagade407 goes all-in for 680 Tournament chips
+Tacodraw raises all-in [700 Tournament chips]
+TheGad68 folds [640 Tournament chips]
+Tacodraw is returned 20 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rosendo shows [ 7s 9d ]
+Renagade407 shows [ Jh Tc ]
+Tacodraw shows [ 8d 8h ]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 9s 5s Jc 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 9s 5s Jc 4c 9c]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ 7s 9d ] three nines, jack/seven kickers
+Renagade407 shows [ Jh Tc ] two pair, jacks and nines, ten kicker
+Tacodraw shows [ 8d 8h ] two pair, nines and eights, jack kicker
+Rosendo wins main pot 665 Tournament chips with three nines, jack/seven kickers.
+Renagade407 wins side pot #1 1735 Tournament chips with two pair, jacks and nines, ten kicker.
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (665 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1820 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1735 Tournament chips) 
+Seat 8: Tacodraw (20 Tournament chips) 
+Game #23980085-6 ends
+Game #23980085-7 starts
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (665 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1820 Tournament chips) 
+Seat 5: mojobird (2060 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1735 Tournament chips) 
+Seat 8: Tacodraw (20 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+QwertySpark posts the small blind [20 Tournament chips]
+mojobird posts the big blind [40 Tournament chips]
+TheGad68, at seat 0, is in this hand with 640 Tournament chips.
+Rosendo, at seat 1, is in this hand with 665 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1800 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2020 Tournament chips.
+kurupt28545, at seat 6, is in this hand (absent) with 30 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1735 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 20 Tournament chips.
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Th 3c ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+kurupt28545 folds [30 Tournament chips]
+Renagade407 folds [40 Tournament chips]
+Tacodraw calls all-in [20 Tournament chips]
+TheGad68 folds [40 Tournament chips]
+Rosendo calls [40 Tournament chips]
+bryonne2 folds [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+mojobird folds
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 7s ] board:[ Tc 7s]
+** Dealing Flop ** [ Kc ] board:[ Tc 7s Kc]
+QwertySpark bets for 120 Tournament chips
+Rosendo folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Th 3c ]
+Tacodraw shows [ 4s As ]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Tc 7s Kc 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Tc 7s Kc 6s Ah]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Th 3c ] a pair of tens, ace/king kickers
+Tacodraw shows [ 4s As ] a pair of aces, king/ten kickers
+Tacodraw wins main pot 80 Tournament chips with a pair of aces, king/ten kickers.
+QwertySpark wins side pot #1 60 Tournament chips with a pair of tens, ace/king kickers.
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (625 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2020 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1735 Tournament chips) 
+Seat 8: Tacodraw (80 Tournament chips) 
+Game #23980085-7 ends
+Game #23980085-8 starts
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (625 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2020 Tournament chips) 
+Seat 6: kurupt28545 (30 Tournament chips) 
+Seat 7: Renagade407 (1735 Tournament chips) 
+Seat 8: Tacodraw (80 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+mojobird posts the small blind [20 Tournament chips]
+kurupt28545 posts the big blind [30 Tournament chips], goes all-in
+TheGad68, at seat 0, is in this hand with 640 Tournament chips.
+Rosendo, at seat 1, is in this hand with 625 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1840 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+kurupt28545, at seat 6, is in this hand (absent) with 0 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1735 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 80 Tournament chips.
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+kurupt28545 is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2c 4d ]
+Dealt to mojobird [ **** ]
+Dealt to kurupt28545 [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+Renagade407 raises [120 Tournament chips]
+Tacodraw folds [80 Tournament chips]
+TheGad68 folds [120 Tournament chips]
+Rosendo raises all-in [625 Tournament chips]
+bryonne2 folds [625 Tournament chips]
+QwertySpark folds [625 Tournament chips]
+mojobird folds [605 Tournament chips]
+Renagade407 calls [505 Tournament chips]
+Tournament all-in showdown -- players show:
+Rosendo shows [ Ks Kc ]
+kurupt28545 shows [ 3c 9s ]
+Renagade407 shows [ Jc Qh ]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 8d ] board:[ Td 8d]
+** Dealing Flop ** [ 3s ] board:[ Td 8d 3s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Td 8d 3s 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Td 8d 3s 4c As]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ Ks Kc ] a pair of kings, ace/ten kickers
+Renagade407 shows [ Jc Qh ] ace/queen/jack high
+Rosendo wins main pot 110 Tournament chips with a pair of kings, ace/ten kickers.
+Rosendo wins side pot #1 1190 Tournament chips with a pair of kings, ace/ten kickers.
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (1300 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 6: kurupt28545 (0 Tournament chips) 
+Seat 7: Renagade407 (1110 Tournament chips) 
+Seat 8: Tacodraw (80 Tournament chips) 
+Game #23980085-8 ends
+Player kurupt28545 leaves the table with 0 Tournament chips
+Game #23980085-9 starts
+Seat 0: TheGad68 (640 Tournament chips) 
+Seat 1: Rosendo (1300 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (1110 Tournament chips) 
+Seat 8: Tacodraw (80 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Renagade407 posts the big blind [60 Tournament chips]
+TheGad68, at seat 0, is in this hand with 640 Tournament chips.
+Rosendo, at seat 1, is in this hand with 1300 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1840 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1050 Tournament chips.
+Tacodraw, at seat 8, is in this hand with 80 Tournament chips.
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+Tacodraw is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 8s 2s ]
+Dealt to mojobird [ **** ]
+Dealt to Renagade407 [ **** ]
+Dealt to Tacodraw [ **** ]
+Tacodraw raises all-in [80 Tournament chips]
+TheGad68 calls [80 Tournament chips]
+Rosendo re-raises [140 Tournament chips]
+bryonne2 folds [140 Tournament chips]
+QwertySpark folds [140 Tournament chips]
+mojobird folds [140 Tournament chips]
+Renagade407 folds [80 Tournament chips]
+TheGad68 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 6c ] board:[ Jc 6c]
+** Dealing Flop ** [ 9s ] board:[ Jc 6c 9s]
+TheGad68 checks
+Rosendo bets for 120 Tournament chips
+TheGad68 folds [120 Tournament chips]
+Rosendo is returned 120 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rosendo shows [ 4c Ac ]
+Tacodraw shows [ 3h Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Jc 6c 9s 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ Jc 6c 9s 4s Jd]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ 4c Ac ] two pair, jacks and fours, ace kicker
+Tacodraw shows [ 3h Ad ] a pair of jacks, ace/nine kickers
+Rosendo wins main pot 300 Tournament chips with two pair, jacks and fours, ace kicker.
+Rosendo wins side pot #1 120 Tournament chips with two pair, jacks and fours, ace kicker.
+Seat 0: TheGad68 (500 Tournament chips) 
+Seat 1: Rosendo (1580 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (1050 Tournament chips) 
+Seat 8: Tacodraw (0 Tournament chips) 
+Game #23980085-9 ends
+Player Tacodraw leaves the table with 0 Tournament chips
+Game #23980085-10 starts
+Seat 0: TheGad68 (500 Tournament chips) 
+Seat 1: Rosendo (1580 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (1840 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (1050 Tournament chips) 
+The button is at seat 5
+Renagade407 posts the small blind [30 Tournament chips]
+TheGad68 posts the big blind [60 Tournament chips]
+TheGad68, at seat 0, is in this hand with 440 Tournament chips.
+Rosendo, at seat 1, is in this hand with 1580 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1840 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1020 Tournament chips.
+Renagade407 is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 9s 7s ]
+Dealt to mojobird [ **** ]
+Dealt to Renagade407 [ **** ]
+Rosendo raises [120 Tournament chips]
+bryonne2 folds [120 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+mojobird folds [120 Tournament chips]
+Renagade407 folds [90 Tournament chips]
+TheGad68 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 2d ] board:[ 2c 2d]
+** Dealing Flop ** [ 7d ] board:[ 2c 2d 7d]
+TheGad68 checks
+Rosendo bets for 120 Tournament chips
+QwertySpark calls [120 Tournament chips]
+TheGad68 folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 2c 2d 7d 8s]
+Rosendo checks
+QwertySpark bets for 750 Tournament chips
+Rosendo folds [750 Tournament chips]
+QwertySpark is returned 750 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9s 7s 2c 2d 7d: two pair, sevens and deuces)
+QwertySpark wins main pot 630 Tournament chips.
+Seat 0: TheGad68 (380 Tournament chips) 
+Seat 1: Rosendo (1340 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (2230 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (1020 Tournament chips) 
+Game #23980085-10 ends
+Game #23980085-11 starts
+Seat 0: TheGad68 (380 Tournament chips) 
+Seat 1: Rosendo (1340 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (2230 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (1020 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+TheGad68 posts the small blind [30 Tournament chips]
+Rosendo posts the big blind [60 Tournament chips]
+TheGad68, at seat 0, is in this hand with 350 Tournament chips.
+Rosendo, at seat 1, is in this hand with 1280 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2230 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+Renagade407, at seat 7, is in this hand with 1020 Tournament chips.
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 3d 5d ]
+Dealt to mojobird [ **** ]
+Dealt to Renagade407 [ **** ]
+bryonne2 folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+mojobird folds [60 Tournament chips]
+Renagade407 raises [300 Tournament chips]
+TheGad68 calls [270 Tournament chips]
+Rosendo folds [240 Tournament chips]
+QwertySpark folds [240 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 9h ] board:[ Qs 9h]
+** Dealing Flop ** [ 8h ] board:[ Qs 9h 8h]
+TheGad68 goes all-in for 80 Tournament chips
+Renagade407 calls [80 Tournament chips]
+Tournament all-in showdown -- players show:
+TheGad68 shows [ Qd Ac ]
+Renagade407 shows [ Ah Td ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Qs 9h 8h 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Qs 9h 8h 5c 8s]
+        (no action in this round)
+Round 4 is over.
+TheGad68 shows [ Qd Ac ] two pair, queens and eights, ace kicker
+Renagade407 shows [ Ah Td ] a pair of eights, ace/queen kickers
+TheGad68 wins main pot 880 Tournament chips with two pair, queens and eights, ace kicker.
+Seat 0: TheGad68 (880 Tournament chips) 
+Seat 1: Rosendo (1280 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (2170 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (640 Tournament chips) 
+Game #23980085-11 ends
+Game #23980085-12 starts
+Seat 0: TheGad68 (880 Tournament chips) 
+Seat 1: Rosendo (1280 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (2170 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (640 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+Rosendo posts the small blind [50 Tournament chips]
+bryonne2 posts the big blind [100 Tournament chips]
+TheGad68, at seat 0, is in this hand with 880 Tournament chips.
+Rosendo, at seat 1, is in this hand with 1230 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 850 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2170 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+Renagade407, at seat 7, is in this hand with 640 Tournament chips.
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Renagade407 is dealt: **
+TheGad68 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 5d 3s ]
+Dealt to mojobird [ **** ]
+Dealt to Renagade407 [ **** ]
+QwertySpark folds [100 Tournament chips]
+mojobird folds [100 Tournament chips]
+Renagade407 raises [300 Tournament chips]
+TheGad68 raises all-in [880 Tournament chips]
+Rosendo calls [830 Tournament chips]
+bryonne2 folds [780 Tournament chips]
+Renagade407 calls all-in [340 Tournament chips]
+Tournament all-in showdown -- players show:
+TheGad68 shows [ Ah Ad ]
+Rosendo shows [ Jh Qs ]
+Renagade407 shows [ Qc 8c ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Qd ] board:[ Ts Qd]
+** Dealing Flop ** [ 3c ] board:[ Ts Qd 3c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Ts Qd 3c 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Ts Qd 3c 5h 5s]
+        (no action in this round)
+Round 4 is over.
+TheGad68 shows [ Ah Ad ] two pair, aces and fives, queen kicker
+Rosendo shows [ Jh Qs ] two pair, queens and fives, jack kicker
+Renagade407 shows [ Qc 8c ] two pair, queens and fives, ten kicker
+TheGad68 wins main pot 2020 Tournament chips with two pair, aces and fives, queen kicker.
+TheGad68 wins side pot #1 480 Tournament chips with two pair, aces and fives, queen kicker.
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (400 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (850 Tournament chips) 
+Seat 4: QwertySpark (2170 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 7: Renagade407 (0 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+Game #23980085-12 ends
+Player Renagade407 leaves the table with 0 Tournament chips
+Game #23980085-13 starts
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (400 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (850 Tournament chips) 
+Seat 4: QwertySpark (2170 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bryonne2 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+TheGad68, at seat 0, is in this hand with 2500 Tournament chips.
+Rosendo, at seat 1, is in this hand with 400 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2070 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 2000 Tournament chips.
+RFC Danielle, at seat 8, is in this hand with 820 Tournament chips.
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 9h Jd ]
+Dealt to mojobird [ **** ]
+Dealt to RFC Danielle [ **** ]
+mojobird folds [100 Tournament chips]
+RFC Danielle folds [100 Tournament chips]
+TheGad68 folds [100 Tournament chips]
+Rosendo raises all-in [400 Tournament chips]
+bryonne2 folds [350 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Tournament all-in showdown -- players show:
+Rosendo shows [ 5s Kh ]
+QwertySpark shows [ 9h Jd ]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Ks ] board:[ 8d Ks]
+** Dealing Flop ** [ 2d ] board:[ 8d Ks 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 8d Ks 2d 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 8d Ks 2d 4d 4h]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ 5s Kh ] two pair, kings and fours, eight kicker
+QwertySpark shows [ 9h Jd ] a pair of fours, king/jack kickers
+Rosendo wins main pot 850 Tournament chips with two pair, kings and fours, eight kicker.
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (1770 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+Game #23980085-13 ends
+Game #23980085-14 starts
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (1770 Tournament chips) 
+Seat 5: mojobird (2000 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+QwertySpark posts the small blind [75 Tournament chips]
+mojobird posts the big blind [150 Tournament chips]
+TheGad68, at seat 0, is in this hand with 2500 Tournament chips.
+Rosendo, at seat 1, is in this hand with 850 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 835 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1695 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1850 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 820 Tournament chips.
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 4h 5d ]
+Dealt to mojobird [ **** ]
+Dealt to RFC Danielle [ **** ]
+RFC Danielle folds [150 Tournament chips]
+TheGad68 calls [150 Tournament chips]
+Rosendo folds [150 Tournament chips]
+EdBishara folds [150 Tournament chips]
+bryonne2 folds [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+mojobird folds
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 6h ] board:[ 5c 6h]
+** Dealing Flop ** [ 2c ] board:[ 5c 6h 2c]
+QwertySpark bets for 225 Tournament chips
+TheGad68 calls [225 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 5c 6h 2c 2d]
+QwertySpark checks
+TheGad68 checks
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 5c 6h 2c 2d Ad]
+QwertySpark bets for 450 Tournament chips
+TheGad68 folds [450 Tournament chips]
+QwertySpark is returned 450 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (5d 5c 2c 2d Ad: two pair, fives and deuces)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 0: TheGad68 (2125 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2295 Tournament chips) 
+Seat 5: mojobird (1850 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+Game #23980085-14 ends
+Game #23980085-15 starts
+Seat 0: TheGad68 (2125 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2295 Tournament chips) 
+Seat 5: mojobird (1850 Tournament chips) 
+Seat 8: RFC Danielle (820 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+mojobird posts the small blind [75 Tournament chips]
+RFC Danielle posts the big blind [150 Tournament chips]
+TheGad68, at seat 0, is in this hand with 2125 Tournament chips.
+Rosendo, at seat 1, is in this hand with 850 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 835 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2295 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 670 Tournament chips.
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 3s 5s ]
+Dealt to mojobird [ **** ]
+Dealt to RFC Danielle [ **** ]
+TheGad68 calls [150 Tournament chips]
+Rosendo folds [150 Tournament chips]
+EdBishara folds [150 Tournament chips]
+bryonne2 folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+mojobird folds [75 Tournament chips]
+RFC Danielle folds
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Ah ] board:[ Kd Ah]
+** Dealing Flop ** [ Kh ] board:[ Kd Ah Kh]
+TheGad68 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ Kd Ah Kh 7d]
+TheGad68 bets for 150 Tournament chips
+QwertySpark folds [150 Tournament chips]
+TheGad68 is returned 150 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for TheGad68 (6h Kd Ah Kh 7d: a pair of kings)
+TheGad68 wins main pot 525 Tournament chips.
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2145 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 8: RFC Danielle (670 Tournament chips) 
+Game #23980085-15 ends
+Game #23980085-16 starts
+Seat 0: TheGad68 (2500 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2145 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 8: RFC Danielle (670 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+RFC Danielle posts the small blind [75 Tournament chips]
+TheGad68 posts the big blind [150 Tournament chips]
+TheGad68, at seat 0, is in this hand with 2350 Tournament chips.
+Rosendo, at seat 1, is in this hand with 850 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 835 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2145 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2c Ad ]
+Dealt to mojobird [ **** ]
+Dealt to RFC Danielle [ **** ]
+Rosendo folds [150 Tournament chips]
+EdBishara folds [150 Tournament chips]
+bryonne2 folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+mojobird folds [150 Tournament chips]
+RFC Danielle folds [75 Tournament chips]
+TheGad68 checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Ac ] board:[ Ts Ac]
+** Dealing Flop ** [ Qd ] board:[ Ts Ac Qd]
+TheGad68 checks
+QwertySpark bets for 187 Tournament chips
+TheGad68 folds [187 Tournament chips]
+QwertySpark is returned 187 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (2c Ad Ts Ac Qd: a pair of aces)
+QwertySpark wins main pot 375 Tournament chips.
+Seat 0: TheGad68 (2350 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2370 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-16 ends
+Game #23980085-17 starts
+Seat 0: TheGad68 (2350 Tournament chips) 
+Seat 1: Rosendo (850 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (2370 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 8.
+TheGad68 posts the small blind [100 Tournament chips]
+Rosendo posts the big blind [200 Tournament chips]
+TheGad68, at seat 0, is in this hand with 2250 Tournament chips.
+Rosendo, at seat 1, is in this hand with 650 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 835 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2370 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+Gray40, at seat 7, is in this hand with 815 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+TheGad68 is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+Dealt to TheGad68 [ **** ]
+Dealt to Rosendo [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2h 5h ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+EdBishara folds [200 Tournament chips]
+bryonne2 folds [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+mojobird folds [200 Tournament chips]
+Gray40 folds [200 Tournament chips]
+RFC Danielle folds [200 Tournament chips]
+TheGad68 calls [100 Tournament chips]
+Rosendo checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 5d ] board:[ Kh 5d]
+** Dealing Flop ** [ 2c ] board:[ Kh 5d 2c]
+TheGad68 checks
+Rosendo checks
+(RFC Danielle has entered the table, is no longer absent.)
+QwertySpark bets for 500 Tournament chips
+TheGad68 raises [2100 Tournament chips]
+Rosendo folds [650 Tournament chips]
+QwertySpark raises all-in [1670 Tournament chips]
+TheGad68 calls all-in [50 Tournament chips]
+QwertySpark is returned 20 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TheGad68 shows [ 8h Kd ]
+QwertySpark shows [ 2h 5h ]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Kh 5d 2c Tc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Kh 5d 2c Tc Jh]
+        (no action in this round)
+Round 4 is over.
+TheGad68 shows [ 8h Kd ] a pair of kings, jack/ten kickers
+QwertySpark shows [ 2h 5h ] two pair, fives and deuces, king kicker
+QwertySpark wins main pot 4900 Tournament chips with two pair, fives and deuces, king kicker.
+Seat 0: TheGad68 (0 Tournament chips) 
+Seat 1: Rosendo (650 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4920 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-17 ends
+Player TheGad68 leaves the table with 0 Tournament chips
+Game #23980085-18 starts
+Seat 1: Rosendo (650 Tournament chips) 
+Seat 2: EdBishara (835 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4920 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Rosendo posts the small blind [100 Tournament chips]
+EdBishara posts the big blind [200 Tournament chips]
+Rosendo, at seat 1, is in this hand with 550 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 635 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4920 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+Gray40, at seat 7, is in this hand with 815 Tournament chips.
+RFC Danielle, at seat 8, is in this hand with 595 Tournament chips.
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+Rosendo is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+Dealt to Rosendo [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 9c 9s ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+bryonne2 folds [200 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+mojobird folds [800 Tournament chips]
+Gray40 folds [800 Tournament chips]
+RFC Danielle folds [595 Tournament chips]
+Rosendo calls all-in [550 Tournament chips]
+EdBishara folds [600 Tournament chips]
+QwertySpark is returned 150 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rosendo shows [ Ah Ad ]
+QwertySpark shows [ 9c 9s ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Jd ] board:[ 7s Jd]
+** Dealing Flop ** [ 9h ] board:[ 7s Jd 9h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 7s Jd 9h Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 7s Jd 9h Jc 3d]
+        (no action in this round)
+Round 4 is over.
+Rosendo shows [ Ah Ad ] two pair, aces and jacks, nine kicker
+QwertySpark shows [ 9c 9s ] full house, nines full of jacks
+QwertySpark wins main pot 1500 Tournament chips with full house, nines full of jacks.
+Seat 1: Rosendo (0 Tournament chips) 
+Seat 2: EdBishara (635 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (5770 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-18 ends
+Player Rosendo leaves the table with 0 Tournament chips
+Game #23980085-19 starts
+Seat 2: EdBishara (635 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (5770 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+EdBishara posts the small blind [150 Tournament chips]
+bryonne2 posts the big blind [300 Tournament chips]
+EdBishara, at seat 2, is in this hand (absent) with 485 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5770 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+Gray40, at seat 7, is in this hand with 815 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Jh 4s ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+QwertySpark folds [300 Tournament chips]
+mojobird folds [300 Tournament chips]
+Gray40 folds [300 Tournament chips]
+RFC Danielle folds [300 Tournament chips]
+EdBishara folds [150 Tournament chips]
+bryonne2 is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for bryonne2 (Ks Kh: a pair of kings)
+bryonne2 shows [ Ks Kh ] a pair of kings
+Hand evaluation for bryonne2 (Ks Kh: a pair of kings)
+bryonne2 wins main pot 300 Tournament chips.
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (5770 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-19 ends
+Game #23980085-20 starts
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (950 Tournament chips) 
+Seat 4: QwertySpark (5770 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (815 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+bryonne2 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+EdBishara, at seat 2, is in this hand (absent) with 485 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5470 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1775 Tournament chips.
+Gray40, at seat 7, is in this hand with 815 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+EdBishara is dealt: **
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2d 8d ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+mojobird folds [300 Tournament chips]
+Gray40 raises [600 Tournament chips]
+RFC Danielle folds [595 Tournament chips]
+EdBishara folds [485 Tournament chips]
+bryonne2 folds [450 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Jc ] board:[ Qh Jc]
+** Dealing Flop ** [ 5s ] board:[ Qh Jc 5s]
+QwertySpark checks
+Gray40 goes all-in for 215 Tournament chips
+QwertySpark calls [215 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 2d 8d ]
+Gray40 shows [ As Ks ]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Qh Jc 5s Ah]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Qh Jc 5s Ah Jh]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 2d 8d ] a pair of jacks, ace/queen kickers
+Gray40 shows [ As Ks ] two pair, aces and jacks, king kicker
+Gray40 wins main pot 1780 Tournament chips with two pair, aces and jacks, king kicker.
+Seat 0: 4realestate2 (2180 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4955 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (1780 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-20 ends
+Game #23980085-21 starts
+Seat 0: 4realestate2 (2180 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4955 Tournament chips) 
+Seat 5: mojobird (1775 Tournament chips) 
+Seat 7: Gray40 (1780 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+mojobird posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 2180 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 1505 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 485 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4805 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1475 Tournament chips.
+Gray40, at seat 7, is in this hand with 1780 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Ah 6d ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+Gray40 calls [300 Tournament chips]
+RFC Danielle folds [300 Tournament chips]
+4realestate2 folds [300 Tournament chips]
+Debutaunt folds [300 Tournament chips]
+EdBishara folds [300 Tournament chips]
+bryonne2 folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+mojobird folds
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Qs ] board:[ 2d Qs]
+** Dealing Flop ** [ 9c ] board:[ 2d Qs 9c]
+QwertySpark checks
+Gray40 bets for 300 Tournament chips
+QwertySpark folds [300 Tournament chips]
+Gray40 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Gray40 (2s 2c 2d Qs 9c: three deuces)
+Gray40 wins main pot 900 Tournament chips.
+Seat 0: 4realestate2 (2180 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1475 Tournament chips) 
+Seat 7: Gray40 (2380 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-21 ends
+Game #23980085-22 starts
+Seat 0: 4realestate2 (2180 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1475 Tournament chips) 
+Seat 7: Gray40 (2380 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+mojobird posts the small blind [150 Tournament chips]
+Gray40 posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 2180 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 1505 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 485 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4655 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1325 Tournament chips.
+Gray40, at seat 7, is in this hand with 2080 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 595 Tournament chips.
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 4s Ad ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+RFC Danielle folds [300 Tournament chips]
+4realestate2 raises [1200 Tournament chips]
+Debutaunt folds [1200 Tournament chips]
+EdBishara folds [485 Tournament chips]
+bryonne2 folds [800 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+mojobird folds [1050 Tournament chips]
+Gray40 calls [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8s ] board:[ Qs 8s]
+** Dealing Flop ** [ 3c ] board:[ Qs 8s 3c]
+Gray40 checks
+4realestate2 goes all-in for 980 Tournament chips
+Gray40 folds [980 Tournament chips]
+4realestate2 is returned 980 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 4realestate2 (Ah Kd Qs 8s 3c: ace high)
+4realestate2 wins main pot 2550 Tournament chips.
+Seat 0: 4realestate2 (3530 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1325 Tournament chips) 
+Seat 7: Gray40 (1180 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+Game #23980085-22 ends
+Game #23980085-23 starts
+Seat 0: 4realestate2 (3530 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1325 Tournament chips) 
+Seat 7: Gray40 (1180 Tournament chips) 
+Seat 8: RFC Danielle (595 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Gray40 posts the small blind [150 Tournament chips]
+RFC Danielle posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3530 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 1505 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 485 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4655 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1325 Tournament chips.
+Gray40, at seat 7, is in this hand with 1030 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 295 Tournament chips.
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 3s Th ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+4realestate2 calls [300 Tournament chips]
+Debutaunt folds [300 Tournament chips]
+EdBishara folds [300 Tournament chips]
+bryonne2 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+mojobird folds [300 Tournament chips]
+Gray40 calls [150 Tournament chips]
+RFC Danielle folds
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ As ] board:[ 8h As]
+** Dealing Flop ** [ Kc ] board:[ 8h As Kc]
+Gray40 checks
+4realestate2 checks
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 8h As Kc 2s]
+Gray40 checks
+4realestate2 checks
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 8h As Kc 2s Td]
+Gray40 checks
+4realestate2 checks
+Round 4 is over.
+Gray40 shows [ Qd 5h ] ace high
+Hand evaluation for Gray40 (Qd 8h As Kc Td: ace high)
+4realestate2 shows [ 7h Qh ] ace high
+Hand evaluation for 4realestate2 (Qh 8h As Kc Td: ace high)
+Gray40 wins main pot 450 Tournament chips of a 900 Tournament chips pot with ace/king/queen high.
+4realestate2 wins main pot 450 Tournament chips of a 900 Tournament chips pot with ace/king/queen high.
+Seat 0: 4realestate2 (3680 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1325 Tournament chips) 
+Seat 7: Gray40 (1330 Tournament chips) 
+Seat 8: RFC Danielle (295 Tournament chips) 
+Game #23980085-23 ends
+Game #23980085-24 starts
+Seat 0: 4realestate2 (3680 Tournament chips) 
+Seat 1: Debutaunt (1505 Tournament chips) 
+Seat 2: EdBishara (485 Tournament chips) 
+Seat 3: bryonne2 (800 Tournament chips) 
+Seat 4: QwertySpark (4655 Tournament chips) 
+Seat 5: mojobird (1325 Tournament chips) 
+Seat 7: Gray40 (1330 Tournament chips) 
+Seat 8: RFC Danielle (295 Tournament chips) 
+The button is at seat 5
+4realestate2 posted ante of 25 Tournament chips
+Debutaunt posted ante of 25 Tournament chips
+EdBishara posted ante of 25 Tournament chips
+bryonne2 posted ante of 25 Tournament chips
+mojobird posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Gray40 posted ante of 25 Tournament chips
+RFC Danielle posted ante of 25 Tournament chips
+The button is moved to seat 7.
+RFC Danielle posts the small blind [150 Tournament chips]
+4realestate2 posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3355 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 1480 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 460 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 775 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4630 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1300 Tournament chips.
+Gray40, at seat 7, is in this hand with 1305 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 120 Tournament chips.
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ As 4s ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+Debutaunt folds [300 Tournament chips]
+EdBishara folds [300 Tournament chips]
+bryonne2 folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+mojobird folds [1200 Tournament chips]
+Gray40 folds [1200 Tournament chips]
+RFC Danielle folds [120 Tournament chips]
+4realestate2 folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As 4s: ace high)
+QwertySpark wins main pot 950 Tournament chips.
+Seat 0: 4realestate2 (3355 Tournament chips) 
+Seat 1: Debutaunt (1480 Tournament chips) 
+Seat 2: EdBishara (460 Tournament chips) 
+Seat 3: bryonne2 (775 Tournament chips) 
+Seat 4: QwertySpark (5280 Tournament chips) 
+Seat 5: mojobird (1300 Tournament chips) 
+Seat 7: Gray40 (1305 Tournament chips) 
+Seat 8: RFC Danielle (120 Tournament chips) 
+Game #23980085-24 ends
+Game #23980085-25 starts
+Seat 0: 4realestate2 (3355 Tournament chips) 
+Seat 1: Debutaunt (1480 Tournament chips) 
+Seat 2: EdBishara (460 Tournament chips) 
+Seat 3: bryonne2 (775 Tournament chips) 
+Seat 4: QwertySpark (5280 Tournament chips) 
+Seat 5: mojobird (1300 Tournament chips) 
+Seat 7: Gray40 (1305 Tournament chips) 
+Seat 8: RFC Danielle (120 Tournament chips) 
+The button is at seat 7
+EdBishara posted ante of 25 Tournament chips
+Debutaunt posted ante of 25 Tournament chips
+4realestate2 posted ante of 25 Tournament chips
+bryonne2 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+mojobird posted ante of 25 Tournament chips
+Gray40 posted ante of 25 Tournament chips
+RFC Danielle posted ante of 25 Tournament chips
+The button is moved to seat 8.
+4realestate2 posts the small blind [150 Tournament chips]
+Debutaunt posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3180 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 1155 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 435 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 750 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5255 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1275 Tournament chips.
+Gray40, at seat 7, is in this hand with 1280 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 95 Tournament chips.
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Ad 3d ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+EdBishara folds [300 Tournament chips]
+bryonne2 folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+mojobird folds [1200 Tournament chips]
+Gray40 folds [1200 Tournament chips]
+RFC Danielle folds [95 Tournament chips]
+4realestate2 folds [1050 Tournament chips]
+Debutaunt folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad 3d: ace high)
+QwertySpark wins main pot 950 Tournament chips.
+Seat 0: 4realestate2 (3180 Tournament chips) 
+Seat 1: Debutaunt (1155 Tournament chips) 
+Seat 2: EdBishara (435 Tournament chips) 
+Seat 3: bryonne2 (750 Tournament chips) 
+Seat 4: QwertySpark (5905 Tournament chips) 
+Seat 5: mojobird (1275 Tournament chips) 
+Seat 7: Gray40 (1280 Tournament chips) 
+Seat 8: RFC Danielle (95 Tournament chips) 
+Game #23980085-25 ends
+Game #23980085-26 starts
+Seat 0: 4realestate2 (3180 Tournament chips) 
+Seat 1: Debutaunt (1155 Tournament chips) 
+Seat 2: EdBishara (435 Tournament chips) 
+Seat 3: bryonne2 (750 Tournament chips) 
+Seat 4: QwertySpark (5905 Tournament chips) 
+Seat 5: mojobird (1275 Tournament chips) 
+Seat 7: Gray40 (1280 Tournament chips) 
+Seat 8: RFC Danielle (95 Tournament chips) 
+The button is at seat 8
+Debutaunt posted ante of 25 Tournament chips
+EdBishara posted ante of 25 Tournament chips
+mojobird posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+bryonne2 posted ante of 25 Tournament chips
+4realestate2 posted ante of 25 Tournament chips
+Gray40 posted ante of 25 Tournament chips
+RFC Danielle posted ante of 25 Tournament chips
+The button is moved to seat 0.
+Debutaunt posts the small blind [150 Tournament chips]
+EdBishara posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3155 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 980 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 110 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 725 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5880 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1250 Tournament chips.
+Gray40, at seat 7, is in this hand with 1255 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 70 Tournament chips.
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 9d 2h ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+bryonne2 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+mojobird folds [300 Tournament chips]
+Gray40 calls [300 Tournament chips]
+RFC Danielle folds [70 Tournament chips]
+4realestate2 folds [300 Tournament chips]
+Debutaunt folds [150 Tournament chips]
+EdBishara folds
+round 1 is over.
+Hand evaluation for Gray40 (Ts Jd: jack high)
+Gray40 wins main pot 950 Tournament chips.
+Seat 0: 4realestate2 (3155 Tournament chips) 
+Seat 1: Debutaunt (980 Tournament chips) 
+Seat 2: EdBishara (110 Tournament chips) 
+Seat 3: bryonne2 (725 Tournament chips) 
+Seat 4: QwertySpark (5880 Tournament chips) 
+Seat 5: mojobird (1250 Tournament chips) 
+Seat 7: Gray40 (1905 Tournament chips) 
+Seat 8: RFC Danielle (70 Tournament chips) 
+Game #23980085-26 ends
+Game #23980085-27 starts
+Seat 0: 4realestate2 (3155 Tournament chips) 
+Seat 1: Debutaunt (980 Tournament chips) 
+Seat 2: EdBishara (110 Tournament chips) 
+Seat 3: bryonne2 (725 Tournament chips) 
+Seat 4: QwertySpark (5880 Tournament chips) 
+Seat 5: mojobird (1250 Tournament chips) 
+Seat 7: Gray40 (1905 Tournament chips) 
+Seat 8: RFC Danielle (70 Tournament chips) 
+The button is at seat 0
+4realestate2 posted ante of 25 Tournament chips
+EdBishara posted ante of 25 Tournament chips
+Debutaunt posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+bryonne2 posted ante of 25 Tournament chips
+mojobird posted ante of 25 Tournament chips
+Gray40 posted ante of 25 Tournament chips
+RFC Danielle posted ante of 25 Tournament chips
+The button is moved to seat 1.
+EdBishara posts the small blind [85 Tournament chips], goes all-in
+bryonne2 posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3130 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 955 Tournament chips.
+EdBishara, at seat 2, is in this hand (absent) with 0 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 400 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5855 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1225 Tournament chips.
+Gray40, at seat 7, is in this hand with 1880 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 45 Tournament chips.
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+EdBishara is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to EdBishara [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 4h Tc ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+QwertySpark folds [300 Tournament chips]
+mojobird folds [300 Tournament chips]
+Gray40 folds [300 Tournament chips]
+RFC Danielle folds [45 Tournament chips]
+4realestate2 raises [600 Tournament chips]
+Debutaunt folds [600 Tournament chips]
+bryonne2 folds [300 Tournament chips]
+4realestate2 is returned 300 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+4realestate2 shows [ Ac Jh ]
+EdBishara shows [ 9s 4s ]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 8d ] board:[ 4d 8d]
+** Dealing Flop ** [ Qc ] board:[ 4d 8d Qc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 4d 8d Qc Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 4d 8d Qc Kh Jd]
+        (no action in this round)
+Round 4 is over.
+4realestate2 shows [ Ac Jh ] a pair of jacks, ace/king kickers
+4realestate2 wins main pot 455 Tournament chips with a pair of jacks, ace/king kickers.
+4realestate2 wins side pot #1 430 Tournament chips with a pair of jacks, ace/king kickers.
+Seat 0: 4realestate2 (3715 Tournament chips) 
+Seat 1: Debutaunt (955 Tournament chips) 
+Seat 2: EdBishara (0 Tournament chips) 
+Seat 3: bryonne2 (400 Tournament chips) 
+Seat 4: QwertySpark (5855 Tournament chips) 
+Seat 5: mojobird (1225 Tournament chips) 
+Seat 7: Gray40 (1880 Tournament chips) 
+Seat 8: RFC Danielle (45 Tournament chips) 
+Game #23980085-27 ends
+Player EdBishara leaves the table with 0 Tournament chips
+Game #23980085-28 starts
+Seat 0: 4realestate2 (3715 Tournament chips) 
+Seat 1: Debutaunt (955 Tournament chips) 
+Seat 3: bryonne2 (400 Tournament chips) 
+Seat 4: QwertySpark (5855 Tournament chips) 
+Seat 5: mojobird (1225 Tournament chips) 
+Seat 7: Gray40 (1880 Tournament chips) 
+Seat 8: RFC Danielle (45 Tournament chips) 
+The button is at seat 1
+4realestate2 posted ante of 25 Tournament chips
+Debutaunt posted ante of 25 Tournament chips
+bryonne2 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+mojobird posted ante of 25 Tournament chips
+Gray40 posted ante of 25 Tournament chips
+RFC Danielle posted ante of 25 Tournament chips
+The button is moved to seat 2.
+bryonne2 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3690 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 930 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 225 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5530 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 1200 Tournament chips.
+Gray40, at seat 7, is in this hand with 1855 Tournament chips.
+RFC Danielle, at seat 8, is in this hand (absent) with 20 Tournament chips.
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 8h 2d ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+(RFC Danielle has entered the table, is no longer absent.)
+mojobird folds [300 Tournament chips]
+Gray40 raises [1225 Tournament chips]
+RFC Danielle calls all-in [20 Tournament chips]
+4realestate2 folds [1225 Tournament chips]
+Debutaunt folds [930 Tournament chips]
+bryonne2 folds [225 Tournament chips]
+QwertySpark folds [925 Tournament chips]
+Gray40 is returned 925 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Gray40 shows [ As Kh ]
+RFC Danielle shows [ Js Ah ]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Qd ] board:[ 9d Qd]
+** Dealing Flop ** [ Ks ] board:[ 9d Qd Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 9d Qd Ks Ts]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 9d Qd Ks Ts 6s]
+        (no action in this round)
+Round 4 is over.
+Gray40 shows [ As Kh ] a pair of kings, ace/queen kickers
+RFC Danielle shows [ Js Ah ] straight, ace high
+RFC Danielle wins main pot 255 Tournament chips with straight, ace high.
+Gray40 wins side pot #1 690 Tournament chips with a pair of kings, ace/queen kickers.
+Seat 0: 4realestate2 (3690 Tournament chips) 
+Seat 1: Debutaunt (930 Tournament chips) 
+Seat 3: bryonne2 (225 Tournament chips) 
+Seat 4: QwertySpark (5530 Tournament chips) 
+Seat 5: mojobird (1200 Tournament chips) 
+Seat 7: Gray40 (2245 Tournament chips) 
+Seat 8: RFC Danielle (255 Tournament chips) 
+Game #23980085-28 ends
+Game #23980085-29 starts
+Seat 0: 4realestate2 (3690 Tournament chips) 
+Seat 1: Debutaunt (930 Tournament chips) 
+Seat 3: bryonne2 (225 Tournament chips) 
+Seat 4: QwertySpark (5530 Tournament chips) 
+Seat 5: mojobird (1200 Tournament chips) 
+Seat 7: Gray40 (2245 Tournament chips) 
+Seat 8: RFC Danielle (255 Tournament chips) 
+The button is at seat 2
+4realestate2 posted ante of 50 Tournament chips
+Debutaunt posted ante of 50 Tournament chips
+bryonne2 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+mojobird posted ante of 50 Tournament chips
+Gray40 posted ante of 50 Tournament chips
+RFC Danielle posted ante of 50 Tournament chips
+The button is moved to seat 3.
+QwertySpark posts the small blind [200 Tournament chips]
+mojobird posts the big blind [400 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3640 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 880 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 175 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5280 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 750 Tournament chips.
+Gray40, at seat 7, is in this hand with 2195 Tournament chips.
+RFC Danielle, at seat 8, is in this hand with 205 Tournament chips.
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+RFC Danielle is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 7s Tc ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to RFC Danielle [ **** ]
+Gray40 folds [400 Tournament chips]
+RFC Danielle calls all-in [205 Tournament chips]
+4realestate2 folds [400 Tournament chips]
+Debutaunt folds [400 Tournament chips]
+bryonne2 folds [175 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+mojobird folds
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7s Tc ]
+RFC Danielle shows [ Kc 3s ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 3c ] board:[ Ts 3c]
+** Dealing Flop ** [ 2s ] board:[ Ts 3c 2s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ Ts 3c 2s 6c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Ts 3c 2s 6c 8h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7s Tc ] a pair of tens, eight/seven kickers
+RFC Danielle shows [ Kc 3s ] a pair of threes, king/ten kickers
+QwertySpark wins main pot 965 Tournament chips with a pair of tens, eight/seven kickers.
+QwertySpark wins side pot #1 390 Tournament chips with a pair of tens, eight/seven kickers.
+Seat 0: 4realestate2 (3640 Tournament chips) 
+Seat 1: Debutaunt (880 Tournament chips) 
+Seat 3: bryonne2 (175 Tournament chips) 
+Seat 4: QwertySpark (6435 Tournament chips) 
+Seat 5: mojobird (750 Tournament chips) 
+Seat 7: Gray40 (2195 Tournament chips) 
+Seat 8: RFC Danielle (0 Tournament chips) 
+Game #23980085-29 ends
+Player RFC Danielle leaves the table with 0 Tournament chips
+Game #23980085-30 starts
+Seat 0: 4realestate2 (3640 Tournament chips) 
+Seat 1: Debutaunt (880 Tournament chips) 
+Seat 3: bryonne2 (175 Tournament chips) 
+Seat 4: QwertySpark (6435 Tournament chips) 
+Seat 5: mojobird (750 Tournament chips) 
+Seat 7: Gray40 (2195 Tournament chips) 
+The button is at seat 3
+4realestate2 posted ante of 50 Tournament chips
+Debutaunt posted ante of 50 Tournament chips
+bryonne2 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+mojobird posted ante of 50 Tournament chips
+Gray40 posted ante of 50 Tournament chips
+The button is moved to seat 4.
+mojobird posts the small blind [200 Tournament chips]
+Gray40 posts the big blind [400 Tournament chips]
+4realestate2, at seat 0, is in this hand with 3590 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 830 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6385 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 500 Tournament chips.
+Gray40, at seat 7, is in this hand with 1745 Tournament chips.
+mojobird is dealt: **
+Gray40 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ 2h Jd ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+4realestate2 raises all-in [3590 Tournament chips]
+Debutaunt folds [830 Tournament chips]
+bryonne2 folds [125 Tournament chips]
+QwertySpark folds [3590 Tournament chips]
+mojobird folds [500 Tournament chips]
+Gray40 folds [1745 Tournament chips]
+4realestate2 is returned 3190 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 4realestate2 (Kd 7c: king high)
+4realestate2 wins main pot 1300 Tournament chips.
+Seat 0: 4realestate2 (4490 Tournament chips) 
+Seat 1: Debutaunt (830 Tournament chips) 
+Seat 3: bryonne2 (125 Tournament chips) 
+Seat 4: QwertySpark (6385 Tournament chips) 
+Seat 5: mojobird (500 Tournament chips) 
+Seat 7: Gray40 (1745 Tournament chips) 
+Game #23980085-30 ends
+Game #23980085-31 starts
+Seat 0: 4realestate2 (4490 Tournament chips) 
+Seat 1: Debutaunt (830 Tournament chips) 
+Seat 3: bryonne2 (125 Tournament chips) 
+Seat 4: QwertySpark (6385 Tournament chips) 
+Seat 5: mojobird (500 Tournament chips) 
+Seat 7: Gray40 (1745 Tournament chips) 
+The button is at seat 4
+Debutaunt posted ante of 50 Tournament chips
+4realestate2 posted ante of 50 Tournament chips
+bryonne2 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+mojobird posted ante of 50 Tournament chips
+Gray40 posted ante of 50 Tournament chips
+The button is moved to seat 5.
+Gray40 posts the small blind [200 Tournament chips]
+4realestate2 posts the big blind [400 Tournament chips]
+4realestate2, at seat 0, is in this hand with 4040 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 780 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 75 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6335 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 450 Tournament chips.
+Gray40, at seat 7, is in this hand with 1495 Tournament chips.
+Gray40 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Qs 7s ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Debutaunt folds [400 Tournament chips]
+bryonne2 folds [75 Tournament chips]
+QwertySpark raises [1600 Tournament chips]
+mojobird folds [450 Tournament chips]
+Gray40 raises all-in [1495 Tournament chips]
+4realestate2 calls [1295 Tournament chips]
+QwertySpark calls [95 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 7c ] board:[ 9d 7c]
+** Dealing Flop ** [ As ] board:[ 9d 7c As]
+4realestate2 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 9d 7c As 9c]
+4realestate2 checks
+QwertySpark bets for 1200 Tournament chips
+4realestate2 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qs 7s ]
+Gray40 shows [ Kd Ah ]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 9d 7c As 9c 3h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qs 7s ] two pair, nines and sevens, ace kicker
+Gray40 shows [ Kd Ah ] two pair, aces and nines, king kicker
+Gray40 wins main pot 5385 Tournament chips with two pair, aces and nines, king kicker.
+Seat 0: 4realestate2 (2745 Tournament chips) 
+Seat 1: Debutaunt (780 Tournament chips) 
+Seat 3: bryonne2 (75 Tournament chips) 
+Seat 4: QwertySpark (4640 Tournament chips) 
+Seat 5: mojobird (450 Tournament chips) 
+Seat 7: Gray40 (5385 Tournament chips) 
+Game #23980085-31 ends
+Game #23980085-32 starts
+Seat 0: 4realestate2 (2745 Tournament chips) 
+Seat 1: Debutaunt (780 Tournament chips) 
+Seat 3: bryonne2 (75 Tournament chips) 
+Seat 4: QwertySpark (4640 Tournament chips) 
+Seat 5: mojobird (450 Tournament chips) 
+Seat 7: Gray40 (5385 Tournament chips) 
+The button is at seat 5
+4realestate2 posted ante of 75 Tournament chips
+bryonne2 posted ante of 75 Tournament chips
+Debutaunt posted ante of 75 Tournament chips
+mojobird posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+Gray40 posted ante of 75 Tournament chips
+The button is moved to seat 7.
+4realestate2 posts the small blind [300 Tournament chips]
+Debutaunt posts the big blind [600 Tournament chips]
+4realestate2, at seat 0, is in this hand with 2370 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 105 Tournament chips.
+bryonne2, at seat 3, is in this hand (absent) with 0 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4565 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 375 Tournament chips.
+Gray40, at seat 7, is in this hand with 5310 Tournament chips.
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+bryonne2 is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to bryonne2 [ **** ]
+Dealt to QwertySpark [ Ks 4d ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+QwertySpark folds [600 Tournament chips]
+mojobird folds [375 Tournament chips]
+Gray40 calls [600 Tournament chips]
+4realestate2 calls [300 Tournament chips]
+Debutaunt folds
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9h ] board:[ Qh 9h]
+** Dealing Flop ** [ 6d ] board:[ Qh 9h 6d]
+4realestate2 goes all-in for 2070 Tournament chips
+Gray40 folds [2070 Tournament chips]
+4realestate2 is returned 2070 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+4realestate2 shows [ Qs 7s ]
+bryonne2 shows [ Ah 8s ]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Qh 9h 6d 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qh 9h 6d 4s 7c]
+        (no action in this round)
+Round 4 is over.
+4realestate2 shows [ Qs 7s ] two pair, queens and sevens, nine kicker
+4realestate2 wins main pot 450 Tournament chips with two pair, queens and sevens, nine kicker.
+4realestate2 wins side pot #1 1800 Tournament chips with two pair, queens and sevens, nine kicker.
+Seat 0: 4realestate2 (4320 Tournament chips) 
+Seat 1: Debutaunt (105 Tournament chips) 
+Seat 3: bryonne2 (0 Tournament chips) 
+Seat 4: QwertySpark (4565 Tournament chips) 
+Seat 5: mojobird (375 Tournament chips) 
+Seat 7: Gray40 (4710 Tournament chips) 
+Seat 8: ldmckay1701 (7405 Tournament chips) 
+Game #23980085-32 ends
+Player bryonne2 leaves the table with 0 Tournament chips
+Game #23980085-33 starts
+Seat 0: 4realestate2 (4320 Tournament chips) 
+Seat 1: Debutaunt (105 Tournament chips) 
+Seat 4: QwertySpark (4565 Tournament chips) 
+Seat 5: mojobird (375 Tournament chips) 
+Seat 7: Gray40 (4710 Tournament chips) 
+Seat 8: ldmckay1701 (7405 Tournament chips) 
+The button is at seat 7
+4realestate2 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+Debutaunt posted ante of 75 Tournament chips
+mojobird posted ante of 75 Tournament chips
+Gray40 posted ante of 75 Tournament chips
+ldmckay1701 posted ante of 75 Tournament chips
+The button is moved to seat 0.
+Debutaunt posts the small blind [30 Tournament chips], goes all-in
+QwertySpark posts the big blind [600 Tournament chips]
+4realestate2, at seat 0, is in this hand with 4245 Tournament chips.
+Debutaunt, at seat 1, is in this hand (absent) with 0 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3890 Tournament chips.
+mojobird, at seat 5, is in this hand (absent) with 300 Tournament chips.
+Gray40, at seat 7, is in this hand with 4635 Tournament chips.
+ldmckay1701, at seat 8, is in this hand with 7330 Tournament chips.
+Debutaunt is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+ldmckay1701 is dealt: **
+4realestate2 is dealt: **
+Debutaunt is dealt: **
+
+mojobird is dealt: **
+Gray40 is dealt: **
+ldmckay1701 is dealt: **
+4realestate2 is dealt: **
+Dealt to 4realestate2 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to QwertySpark [ Ad As ]
+Dealt to mojobird [ **** ]
+Dealt to Gray40 [ **** ]
+Dealt to ldmckay1701 [ **** ]
+mojobird folds [300 Tournament chips]
+Gray40 folds [600 Tournament chips]
+ldmckay1701 folds [600 Tournament chips]
+4realestate2 folds [600 Tournament chips]
+QwertySpark is returned 570 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Debutaunt shows [ 4s 2h ]
+QwertySpark shows [ Ad As ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 5d ] board:[ 2s 5d]
+** Dealing Flop ** [ 3d ] board:[ 2s 5d 3d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 2s 5d 3d 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 2s 5d 3d 9s 9h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad As ] two pair, aces and nines, five kicker
+QwertySpark wins main pot 510 Tournament chips with two pair, aces and nines, five kicker.
+Seat 0: 4realestate2 (4245 Tournament chips) 
+Seat 1: Debutaunt (0 Tournament chips) 
+Seat 4: QwertySpark (4970 Tournament chips) 
+Seat 5: mojobird (300 Tournament chips) 
+Seat 7: Gray40 (4635 Tournament chips) 
+Seat 8: ldmckay1701 (7330 Tournament chips) 
+Game #23980085-33 ends
+Player Debutaunt leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4970 Tournament chips
+Player 4realestate2 leaves the table with 4245 Tournament chips
+Player Gray40 leaves the table with 4635 Tournament chips
+Player ldmckay1701 leaves the table with 7330 Tournament chips
+Player mojobird leaves the table with 300 Tournament chips

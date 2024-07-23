@@ -1,0 +1,102 @@
+Game#: 23983748
+gary4unme is dealt: **
+AARogerAA is dealt: **
+oceangoen is dealt: **
+Hernan77 is dealt: **
+azwldcat is dealt: **
+bearfan23 HR is dealt: **
+doc1954 is dealt: **
+aNiteOwl is dealt: **
+QwertySpark is dealt: 8d
+The button is moved to seat 6.
+Game #23983748-1 starts
+Seat 0: gary4unme (10000 Tournament chips) 
+Seat 1: AARogerAA (10000 Tournament chips) 
+Seat 2: oceangoen (10000 Tournament chips) 
+Seat 3: Hernan77 (10000 Tournament chips) 
+Seat 4: azwldcat (10000 Tournament chips) 
+Seat 5: bearfan23 HR (10000 Tournament chips) 
+Seat 6: doc1954 (10000 Tournament chips) 
+Seat 7: aNiteOwl (10000 Tournament chips) 
+Seat 8: QwertySpark (10000 Tournament chips) 
+The button is at seat 6
+aNiteOwl posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+gary4unme, at seat 0, is in this hand (absent) with 10000 Tournament chips.
+AARogerAA, at seat 1, is in this hand with 10000 Tournament chips.
+oceangoen, at seat 2, is in this hand (absent) with 10000 Tournament chips.
+Hernan77, at seat 3, is in this hand (absent) with 10000 Tournament chips.
+azwldcat, at seat 4, is in this hand with 10000 Tournament chips.
+bearfan23 HR, at seat 5, is in this hand with 10000 Tournament chips.
+doc1954, at seat 6, is in this hand (absent) with 10000 Tournament chips.
+aNiteOwl, at seat 7, is in this hand with 9975 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9950 Tournament chips.
+aNiteOwl is dealt: **
+
+gary4unme is dealt: **
+AARogerAA is dealt: **
+oceangoen is dealt: **
+Hernan77 is dealt: **
+azwldcat is dealt: **
+bearfan23 HR is dealt: **
+doc1954 is dealt: **
+aNiteOwl is dealt: **
+
+gary4unme is dealt: **
+AARogerAA is dealt: **
+oceangoen is dealt: **
+Hernan77 is dealt: **
+azwldcat is dealt: **
+bearfan23 HR is dealt: **
+doc1954 is dealt: **
+Dealt to gary4unme [ **** ]
+Dealt to AARogerAA [ **** ]
+Dealt to oceangoen [ **** ]
+Dealt to Hernan77 [ **** ]
+Dealt to azwldcat [ **** ]
+Dealt to bearfan23 HR [ **** ]
+Dealt to doc1954 [ **** ]
+Dealt to aNiteOwl [ **** ]
+Dealt to QwertySpark [ 8s Ks ]
+gary4unme folds [50 Tournament chips]
+AARogerAA folds [50 Tournament chips]
+oceangoen folds [50 Tournament chips]
+Hernan77 folds [50 Tournament chips]
+azwldcat raises [100 Tournament chips]
+bearfan23 HR folds [100 Tournament chips]
+doc1954 folds [100 Tournament chips]
+aNiteOwl folds [75 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 3d ] board:[ 7s 3d]
+** Dealing Flop ** [ Kc ] board:[ 7s 3d Kc]
+QwertySpark checks
+azwldcat bets for 225 Tournament chips
+QwertySpark raises [900 Tournament chips]
+azwldcat calls [675 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 7s 3d Kc 9s]
+QwertySpark goes all-in for 9000 Tournament chips
+azwldcat calls all-in [9000 Tournament chips]
+Tournament all-in showdown -- players show:
+azwldcat shows [ Jc Kh ]
+QwertySpark shows [ 8s Ks ]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 7s 3d Kc 9s 6c]
+        (no action in this round)
+Round 4 is over.
+azwldcat shows [ Jc Kh ] a pair of kings, jack/nine kickers
+QwertySpark shows [ 8s Ks ] a pair of kings, nine/eight kickers
+azwldcat wins main pot 20025 Tournament chips with a pair of kings, jack/nine kickers.
+Seat 0: gary4unme (10000 Tournament chips) 
+Seat 1: AARogerAA (10000 Tournament chips) 
+Seat 2: oceangoen (10000 Tournament chips) 
+Seat 3: Hernan77 (10000 Tournament chips) 
+Seat 4: azwldcat (20025 Tournament chips) 
+Seat 5: bearfan23 HR (10000 Tournament chips) 
+Seat 6: doc1954 (10000 Tournament chips) 
+Seat 7: aNiteOwl (9975 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #23983748-1 ends
+Player QwertySpark leaves the table with 0 Tournament chips

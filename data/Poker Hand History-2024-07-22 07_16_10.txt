@@ -1,0 +1,382 @@
+Game#: 23980036
+QwertySpark is dealt: Th
+Pescotore is dealt: **
+The button is moved to seat 0.
+Game #23980036-1 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: Pescotore (2000 Tournament chips) 
+The button is at seat 0
+QwertySpark posts the small blind [10 Tournament chips]
+Pescotore posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1990 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1980 Tournament chips.
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+
+Dealt to QwertySpark [ 5d 4d ]
+Dealt to Pescotore [ **** ]
+QwertySpark raises [30 Tournament chips]
+Pescotore calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9s ] board:[ Qh 9s]
+** Dealing Flop ** [ 9h ] board:[ Qh 9s 9h]
+Pescotore checks
+QwertySpark bets for 60 Tournament chips
+Pescotore calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Qh 9s 9h 8d]
+Pescotore checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ Qh 9s 9h 8d Kc]
+Pescotore checks
+QwertySpark bets for 280 Tournament chips
+Pescotore folds [280 Tournament chips]
+QwertySpark is returned 280 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Qh 9s 9h 8d Kc: a pair of nines)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: QwertySpark (2100 Tournament chips) 
+Seat 1: Pescotore (1900 Tournament chips) 
+Game #23980036-1 ends
+Game #23980036-2 starts
+Seat 0: QwertySpark (2100 Tournament chips) 
+Seat 1: Pescotore (1900 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Pescotore posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2080 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1890 Tournament chips.
+
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+Dealt to QwertySpark [ Qc 7d ]
+Dealt to Pescotore [ **** ]
+Pescotore calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 7h ] board:[ 9d 7h]
+** Dealing Flop ** [ Ks ] board:[ 9d 7h Ks]
+QwertySpark bets for 60 Tournament chips
+Pescotore raises [120 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 9d 7h Ks Js]
+QwertySpark checks
+Pescotore bets for 210 Tournament chips
+QwertySpark folds [210 Tournament chips]
+Pescotore is returned 210 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Pescotore (Qh Kc 9d Ks Js: a pair of kings)
+Pescotore wins main pot 280 Tournament chips.
+Seat 0: QwertySpark (1960 Tournament chips) 
+Seat 1: Pescotore (2040 Tournament chips) 
+Game #23980036-2 ends
+Game #23980036-3 starts
+Seat 0: QwertySpark (1960 Tournament chips) 
+Seat 1: Pescotore (2040 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Pescotore posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1950 Tournament chips.
+Pescotore, at seat 1, is in this hand with 2020 Tournament chips.
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+
+Dealt to QwertySpark [ 2h 2s ]
+Dealt to Pescotore [ **** ]
+QwertySpark raises [70 Tournament chips]
+Pescotore calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Jh ] board:[ Qs Jh]
+** Dealing Flop ** [ Ad ] board:[ Qs Jh Ad]
+Pescotore checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Qs Jh Ad 8h]
+Pescotore bets for 20 Tournament chips
+QwertySpark folds [20 Tournament chips]
+Pescotore is returned 20 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Pescotore (7d Qs Jh Ad 8h: ace high)
+Pescotore wins main pot 160 Tournament chips.
+Seat 0: QwertySpark (1880 Tournament chips) 
+Seat 1: Pescotore (2120 Tournament chips) 
+Game #23980036-3 ends
+Game #23980036-4 starts
+Seat 0: QwertySpark (1880 Tournament chips) 
+Seat 1: Pescotore (2120 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Pescotore posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1860 Tournament chips.
+Pescotore, at seat 1, is in this hand with 2110 Tournament chips.
+
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+Dealt to QwertySpark [ 7c 9s ]
+Dealt to Pescotore [ **** ]
+Pescotore calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 9c ] board:[ Qc 9c]
+** Dealing Flop ** [ Qd ] board:[ Qc 9c Qd]
+QwertySpark bets for 20 Tournament chips
+Pescotore calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Qc 9c Qd 4d]
+QwertySpark bets for 80 Tournament chips
+Pescotore calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Qc 9c Qd 4d 3s]
+QwertySpark bets for 240 Tournament chips
+Pescotore folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (7c 9s Qc 9c Qd: two pair, queens and nines)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: Pescotore (2000 Tournament chips) 
+Game #23980036-4 ends
+Game #23980036-5 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: Pescotore (2000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Pescotore posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1990 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1980 Tournament chips.
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+
+Dealt to QwertySpark [ Qh 2s ]
+Dealt to Pescotore [ **** ]
+QwertySpark calls [10 Tournament chips]
+Pescotore checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Kd ] board:[ 7s Kd]
+** Dealing Flop ** [ 4c ] board:[ 7s Kd 4c]
+Pescotore checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 7s Kd 4c Ah]
+Pescotore bets for 20 Tournament chips
+QwertySpark raises [120 Tournament chips]
+Pescotore calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 7s Kd 4c Ah Td]
+Pescotore checks
+QwertySpark checks
+Round 4 is over.
+Pescotore shows [ 3c 2c ] ace high
+Hand evaluation for Pescotore (7s Kd 4c Ah Td: ace high)
+QwertySpark shows [ Qh 2s ] ace high
+Hand evaluation for QwertySpark (Qh 7s Kd Ah Td: ace high)
+QwertySpark wins main pot 280 Tournament chips with ace/king/queen high.
+Seat 0: QwertySpark (2140 Tournament chips) 
+Seat 1: Pescotore (1860 Tournament chips) 
+Game #23980036-5 ends
+Game #23980036-6 starts
+Seat 0: QwertySpark (2140 Tournament chips) 
+Seat 1: Pescotore (1860 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Pescotore posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2120 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1850 Tournament chips.
+
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+Dealt to QwertySpark [ 2h Jh ]
+Dealt to Pescotore [ **** ]
+Pescotore calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 6h ] board:[ Jd 6h]
+** Dealing Flop ** [ Jc ] board:[ Jd 6h Jc]
+QwertySpark bets for 20 Tournament chips
+Pescotore raises [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Jd 6h Jc 3d]
+QwertySpark checks
+Pescotore checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Jd 6h Jc 3d Js]
+QwertySpark bets for 120 Tournament chips
+Pescotore calls [120 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 2h Jh ] four jacks
+Hand evaluation for QwertySpark (Jh Jd 6h Jc Js: four jacks)
+Pescotore doesn't show [ 6c 7s ]
+(Pescotore has 6c 7s.)
+QwertySpark wins main pot 360 Tournament chips with four jacks, six kicker.
+Seat 0: QwertySpark (2320 Tournament chips) 
+Seat 1: Pescotore (1680 Tournament chips) 
+Game #23980036-6 ends
+Game #23980036-7 starts
+Seat 0: QwertySpark (2320 Tournament chips) 
+Seat 1: Pescotore (1680 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Pescotore posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2310 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1660 Tournament chips.
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+
+Dealt to QwertySpark [ 6h 2h ]
+Dealt to Pescotore [ **** ]
+QwertySpark calls [10 Tournament chips]
+Pescotore checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 7d ] board:[ Jh 7d]
+** Dealing Flop ** [ Jd ] board:[ Jh 7d Jd]
+Pescotore: nice quad brother
+Pescotore checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ Jh 7d Jd 3c]
+Pescotore checks
+QwertySpark bets for 60 Tournament chips
+Pescotore calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Jh 7d Jd 3c 6d]
+Pescotore checks
+QwertySpark checks
+Round 4 is over.
+Pescotore shows [ Ts As ] a pair of jacks
+Hand evaluation for Pescotore (Ts As Jh 7d Jd: a pair of jacks)
+QwertySpark shows [ 6h 2h ] two pair, jacks and sixes
+Hand evaluation for QwertySpark (6h Jh 7d Jd 6d: two pair, jacks and sixes)
+QwertySpark wins main pot 160 Tournament chips with two pair, jacks and sixes, seven kicker.
+Seat 0: QwertySpark (2400 Tournament chips) 
+Seat 1: Pescotore (1600 Tournament chips) 
+Game #23980036-7 ends
+Game #23980036-8 starts
+Seat 0: QwertySpark (2400 Tournament chips) 
+Seat 1: Pescotore (1600 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Pescotore posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2380 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1590 Tournament chips.
+
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+Dealt to QwertySpark [ 7s 8c ]
+Dealt to Pescotore [ **** ]
+Pescotore calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Ac ] board:[ Kd Ac]
+** Dealing Flop ** [ 4h ] board:[ Kd Ac 4h]
+QwertySpark checks
+Pescotore bets for 110 Tournament chips
+QwertySpark folds [110 Tournament chips]
+Pescotore is returned 110 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Pescotore (Ks 7d Kd Ac 4h: a pair of kings)
+Pescotore wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (2380 Tournament chips) 
+Seat 1: Pescotore (1620 Tournament chips) 
+Game #23980036-8 ends
+Game #23980036-9 starts
+Seat 0: QwertySpark (2380 Tournament chips) 
+Seat 1: Pescotore (1620 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+Pescotore posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2365 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1590 Tournament chips.
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+
+Dealt to QwertySpark [ 7h Jc ]
+Dealt to Pescotore [ **** ]
+QwertySpark raises [45 Tournament chips]
+Pescotore calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 4s ] board:[ Js 4s]
+** Dealing Flop ** [ 7s ] board:[ Js 4s 7s]
+Pescotore checks
+QwertySpark bets for 210 Tournament chips
+Pescotore folds [210 Tournament chips]
+QwertySpark is returned 210 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7h Jc Js 4s 7s: two pair, jacks and sevens)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 0: QwertySpark (2440 Tournament chips) 
+Seat 1: Pescotore (1560 Tournament chips) 
+Game #23980036-9 ends
+Game #23980036-10 starts
+Seat 0: QwertySpark (2440 Tournament chips) 
+Seat 1: Pescotore (1560 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Pescotore posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2410 Tournament chips.
+Pescotore, at seat 1, is in this hand with 1545 Tournament chips.
+
+Pescotore is dealt: **
+
+Pescotore is dealt: **
+Dealt to QwertySpark [ 4c Th ]
+Dealt to Pescotore [ **** ]
+Pescotore calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 4h ] board:[ 3c 4h]
+** Dealing Flop ** [ 7s ] board:[ 3c 4h 7s]
+QwertySpark bets for 90 Tournament chips
+Pescotore calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 3c 4h 7s 9d]
+QwertySpark checks
+Pescotore bets for 210 Tournament chips
+QwertySpark calls [210 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3c 4h 7s 9d Tc]
+QwertySpark goes all-in for 2110 Tournament chips
+Pescotore calls all-in [1230 Tournament chips]
+QwertySpark is returned 880 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 4c Th ]
+Pescotore shows [ 4d 9h ]
+Round 4 is over.
+QwertySpark shows [ 4c Th ] two pair, tens and fours, nine kicker
+Pescotore shows [ 4d 9h ] two pair, nines and fours, ten kicker
+QwertySpark wins main pot 3120 Tournament chips with two pair, tens and fours, nine kicker.
+Seat 0: QwertySpark (4000 Tournament chips) 
+Seat 1: Pescotore (0 Tournament chips) 
+Game #23980036-10 ends
+Player Pescotore leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4000 Tournament chips

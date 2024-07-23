@@ -1,0 +1,3375 @@
+Game#: 23961794
+river5150 raises [900 Tournament chips]
+Zebo1970 folds [900 Tournament chips]
+sinjalee folds [900 Tournament chips]
+uphill calls [750 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 8s ] board:[ 3h 8s]
+** Dealing Flop ** [ 5s ] board:[ 3h 8s 5s]
+uphill bets for 1125 Tournament chips
+river5150 calls [1125 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 3h 8s 5s Qc]
+uphill checks
+river5150 checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 3h 8s 5s Qc 7s]
+uphill bets for 2250 Tournament chips
+river5150 folds [2250 Tournament chips]
+uphill is returned 2250 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for uphill (As Jc 8s Qc 7s: ace high)
+uphill wins main pot 4500 Tournament chips.
+Seat 1: BobGail10 (21737 Tournament chips) 
+Seat 2: QwertySpark (13700 Tournament chips) 
+Seat 3: saf71 (13450 Tournament chips) 
+Seat 4: river5150 (16450 Tournament chips) 
+Seat 6: Zebo1970 (2625 Tournament chips) 
+Seat 7: sinjalee (9624 Tournament chips) 
+Seat 8: uphill (26189 Tournament chips) 
+Game #23961794-26 ends
+Game #23961794-27 starts
+Seat 1: BobGail10 (21737 Tournament chips) 
+Seat 2: QwertySpark (13700 Tournament chips) 
+Seat 3: saf71 (13450 Tournament chips) 
+Seat 4: river5150 (16450 Tournament chips) 
+Seat 6: Zebo1970 (2625 Tournament chips) 
+Seat 7: sinjalee (9624 Tournament chips) 
+Seat 8: uphill (26189 Tournament chips) 
+The button is at seat 7
+BobGail10 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 21562 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 13375 Tournament chips.
+saf71, at seat 3, is in this hand with 13425 Tournament chips.
+river5150, at seat 4, is in this hand with 16425 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 2600 Tournament chips.
+sinjalee, at seat 7, is in this hand with 9599 Tournament chips.
+uphill, at seat 8, is in this hand with 26164 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 5s Ks ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [300 Tournament chips]
+river5150 folds [300 Tournament chips]
+Zebo1970 calls [300 Tournament chips]
+sinjalee calls [300 Tournament chips]
+uphill folds [300 Tournament chips]
+BobGail10 calls [150 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 2c ] board:[ 5c 2c]
+** Dealing Flop ** [ Jd ] board:[ 5c 2c Jd]
+BobGail10 checks
+QwertySpark bets for 600 Tournament chips
+Zebo1970 folds [600 Tournament chips]
+sinjalee calls [600 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 5c 2c Jd Kc]
+QwertySpark bets for 600 Tournament chips
+sinjalee folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (5s Ks 5c Jd Kc: two pair, kings and fives)
+QwertySpark wins main pot 2575 Tournament chips.
+Seat 1: BobGail10 (21412 Tournament chips) 
+Seat 2: QwertySpark (15350 Tournament chips) 
+Seat 3: saf71 (13425 Tournament chips) 
+Seat 4: river5150 (16425 Tournament chips) 
+Seat 6: Zebo1970 (2300 Tournament chips) 
+Seat 7: sinjalee (8699 Tournament chips) 
+Seat 8: uphill (26164 Tournament chips) 
+Game #23961794-27 ends
+Game #23961794-28 starts
+Seat 1: BobGail10 (21412 Tournament chips) 
+Seat 2: QwertySpark (15350 Tournament chips) 
+Seat 3: saf71 (13425 Tournament chips) 
+Seat 4: river5150 (16425 Tournament chips) 
+Seat 6: Zebo1970 (2300 Tournament chips) 
+Seat 7: sinjalee (8699 Tournament chips) 
+Seat 8: uphill (26164 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+BobGail10 posted ante of 25 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [150 Tournament chips]
+saf71 posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 21387 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15175 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 13100 Tournament chips.
+river5150, at seat 4, is in this hand with 16400 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 2275 Tournament chips.
+sinjalee, at seat 7, is in this hand with 8674 Tournament chips.
+uphill, at seat 8, is in this hand with 26139 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ah 4h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+(saf71 has entered the table, is no longer absent.)
+river5150 folds [300 Tournament chips]
+Zebo1970 folds [300 Tournament chips]
+sinjalee folds [300 Tournament chips]
+uphill folds [300 Tournament chips]
+BobGail10 folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+saf71 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 7s ] board:[ Qd 7s]
+** Dealing Flop ** [ 8d ] board:[ Qd 7s 8d]
+QwertySpark bets for 687 Tournament chips
+saf71 folds [687 Tournament chips]
+QwertySpark is returned 687 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ah 4h Qd 7s 8d: ace high)
+QwertySpark wins main pot 775 Tournament chips.
+Seat 1: BobGail10 (21387 Tournament chips) 
+Seat 2: QwertySpark (15800 Tournament chips) 
+Seat 3: saf71 (13100 Tournament chips) 
+Seat 4: river5150 (16400 Tournament chips) 
+Seat 6: Zebo1970 (2275 Tournament chips) 
+Seat 7: sinjalee (8674 Tournament chips) 
+Seat 8: uphill (26139 Tournament chips) 
+Game #23961794-28 ends
+Game #23961794-29 starts
+Seat 1: BobGail10 (21387 Tournament chips) 
+Seat 2: QwertySpark (15800 Tournament chips) 
+Seat 3: saf71 (13100 Tournament chips) 
+Seat 4: river5150 (16400 Tournament chips) 
+Seat 6: Zebo1970 (2275 Tournament chips) 
+Seat 7: sinjalee (8674 Tournament chips) 
+Seat 8: uphill (26139 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [150 Tournament chips]
+river5150 posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 21362 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15775 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12925 Tournament chips.
+river5150, at seat 4, is in this hand (absent) with 16075 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 2250 Tournament chips.
+sinjalee, at seat 7, is in this hand with 8649 Tournament chips.
+uphill, at seat 8, is in this hand with 26114 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 7h Jh ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 folds [300 Tournament chips]
+sinjalee folds [300 Tournament chips]
+uphill folds [300 Tournament chips]
+BobGail10 calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+saf71 folds [150 Tournament chips]
+river5150 folds
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 3h ] board:[ Jc 3h]
+** Dealing Flop ** [ Js ] board:[ Jc 3h Js]
+BobGail10 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Jc 3h Js 2c]
+BobGail10 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ Jc 3h Js 2c Jd]
+BobGail10 checks
+QwertySpark bets for 300 Tournament chips
+BobGail10 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (7h Jh Jc Js Jd: four jacks)
+QwertySpark wins main pot 1225 Tournament chips.
+Seat 1: BobGail10 (21062 Tournament chips) 
+Seat 2: QwertySpark (16700 Tournament chips) 
+Seat 3: saf71 (12925 Tournament chips) 
+Seat 4: river5150 (16075 Tournament chips) 
+Seat 6: Zebo1970 (2250 Tournament chips) 
+Seat 7: sinjalee (8649 Tournament chips) 
+Seat 8: uphill (26114 Tournament chips) 
+Game #23961794-29 ends
+Game #23961794-30 starts
+Seat 1: BobGail10 (21062 Tournament chips) 
+Seat 2: QwertySpark (16700 Tournament chips) 
+Seat 3: saf71 (12925 Tournament chips) 
+Seat 4: river5150 (16075 Tournament chips) 
+Seat 6: Zebo1970 (2250 Tournament chips) 
+Seat 7: sinjalee (8649 Tournament chips) 
+Seat 8: uphill (26114 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 25 Tournament chips
+BobGail10 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [150 Tournament chips]
+Zebo1970 posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 21037 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16675 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12900 Tournament chips.
+river5150, at seat 4, is in this hand with 15900 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 1925 Tournament chips.
+sinjalee, at seat 7, is in this hand with 8624 Tournament chips.
+uphill, at seat 8, is in this hand with 26089 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 9d Jc ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+sinjalee raises [600 Tournament chips]
+uphill calls [600 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+river5150 folds [450 Tournament chips]
+Zebo1970 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 2c ] board:[ 7d 2c]
+** Dealing Flop ** [ 9c ] board:[ 7d 2c 9c]
+Zebo1970 bets for 300 Tournament chips
+sinjalee calls [300 Tournament chips]
+uphill folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 7d 2c 9c 9s]
+Zebo1970 goes all-in for 1325 Tournament chips
+sinjalee folds [1325 Tournament chips]
+Zebo1970 is returned 1325 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Zebo1970 (Ac 5c 7d 9c 9s: a pair of nines)
+Zebo1970 wins main pot 2725 Tournament chips.
+Seat 1: BobGail10 (21037 Tournament chips) 
+Seat 2: QwertySpark (16675 Tournament chips) 
+Seat 3: saf71 (12900 Tournament chips) 
+Seat 4: river5150 (15900 Tournament chips) 
+Seat 6: Zebo1970 (4050 Tournament chips) 
+Seat 7: sinjalee (7724 Tournament chips) 
+Seat 8: uphill (25489 Tournament chips) 
+Game #23961794-30 ends
+Game #23961794-31 starts
+Seat 1: BobGail10 (21037 Tournament chips) 
+Seat 2: QwertySpark (16675 Tournament chips) 
+Seat 3: saf71 (12900 Tournament chips) 
+Seat 4: river5150 (15900 Tournament chips) 
+Seat 6: Zebo1970 (4050 Tournament chips) 
+Seat 7: sinjalee (7724 Tournament chips) 
+Seat 8: uphill (25489 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [150 Tournament chips]
+sinjalee posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 21012 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16650 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12875 Tournament chips.
+river5150, at seat 4, is in this hand with 15875 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3875 Tournament chips.
+sinjalee, at seat 7, is in this hand with 7399 Tournament chips.
+uphill, at seat 8, is in this hand with 25464 Tournament chips.
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Th 3d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+uphill raises [900 Tournament chips]
+BobGail10 folds [900 Tournament chips]
+QwertySpark folds [900 Tournament chips]
+saf71 folds [900 Tournament chips]
+river5150 calls [900 Tournament chips]
+Zebo1970 calls [750 Tournament chips]
+sinjalee re-raises [4375 Tournament chips]
+uphill folds [3775 Tournament chips]
+river5150 folds [3775 Tournament chips]
+Zebo1970 folds [3125 Tournament chips]
+sinjalee is returned 3775 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for sinjalee (Qs Qd: a pair of queens)
+sinjalee wins main pot 3775 Tournament chips.
+Seat 1: BobGail10 (21012 Tournament chips) 
+Seat 2: QwertySpark (16650 Tournament chips) 
+Seat 3: saf71 (12875 Tournament chips) 
+Seat 4: river5150 (14975 Tournament chips) 
+Seat 6: Zebo1970 (3125 Tournament chips) 
+Seat 7: sinjalee (10574 Tournament chips) 
+Seat 8: uphill (24564 Tournament chips) 
+Game #23961794-31 ends
+Game #23961794-32 starts
+Seat 1: BobGail10 (21012 Tournament chips) 
+Seat 2: QwertySpark (16650 Tournament chips) 
+Seat 3: saf71 (12875 Tournament chips) 
+Seat 4: river5150 (14975 Tournament chips) 
+Seat 6: Zebo1970 (3125 Tournament chips) 
+Seat 7: sinjalee (10574 Tournament chips) 
+Seat 8: uphill (24564 Tournament chips) 
+The button is at seat 4
+saf71 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Zebo1970 posted ante of 25 Tournament chips
+uphill posted ante of 25 Tournament chips
+sinjalee posted ante of 25 Tournament chips
+BobGail10 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 6.
+sinjalee posts the small blind [150 Tournament chips]
+uphill posts the big blind [300 Tournament chips]
+BobGail10, at seat 1, is in this hand with 20987 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16625 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12850 Tournament chips.
+river5150, at seat 4, is in this hand with 14950 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3100 Tournament chips.
+sinjalee, at seat 7, is in this hand with 10399 Tournament chips.
+uphill, at seat 8, is in this hand with 24239 Tournament chips.
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 5h 8h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+saf71 folds [300 Tournament chips]
+river5150 folds [300 Tournament chips]
+Zebo1970 folds [300 Tournament chips]
+sinjalee calls [150 Tournament chips]
+uphill checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 3d ] board:[ Jd 3d]
+** Dealing Flop ** [ 4c ] board:[ Jd 3d 4c]
+sinjalee bets for 775 Tournament chips
+uphill folds [775 Tournament chips]
+sinjalee is returned 775 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for sinjalee (Qd 9c Jd 3d 4c: queen high)
+sinjalee wins main pot 775 Tournament chips.
+Seat 1: BobGail10 (20987 Tournament chips) 
+Seat 2: QwertySpark (16625 Tournament chips) 
+Seat 3: saf71 (12850 Tournament chips) 
+Seat 4: river5150 (14950 Tournament chips) 
+Seat 6: Zebo1970 (3100 Tournament chips) 
+Seat 7: sinjalee (11024 Tournament chips) 
+Seat 8: uphill (24239 Tournament chips) 
+Game #23961794-32 ends
+Game #23961794-33 starts
+Seat 1: BobGail10 (20987 Tournament chips) 
+Seat 2: QwertySpark (16625 Tournament chips) 
+Seat 3: saf71 (12850 Tournament chips) 
+Seat 4: river5150 (14950 Tournament chips) 
+Seat 6: Zebo1970 (3100 Tournament chips) 
+Seat 7: sinjalee (11024 Tournament chips) 
+Seat 8: uphill (24239 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+The button is moved to seat 7.
+uphill posts the small blind [200 Tournament chips]
+BobGail10 posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 20537 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16575 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12800 Tournament chips.
+river5150, at seat 4, is in this hand with 14900 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3050 Tournament chips.
+sinjalee, at seat 7, is in this hand with 10974 Tournament chips.
+uphill, at seat 8, is in this hand with 23989 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Jc 4c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [400 Tournament chips]
+saf71 folds [400 Tournament chips]
+river5150 calls [400 Tournament chips]
+Zebo1970 folds [400 Tournament chips]
+sinjalee folds [400 Tournament chips]
+uphill folds [200 Tournament chips]
+BobGail10 checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 8c ] board:[ 5d 8c]
+** Dealing Flop ** [ 4h ] board:[ 5d 8c 4h]
+BobGail10 checks
+river5150 bets for 1350 Tournament chips
+BobGail10 folds [1350 Tournament chips]
+river5150 is returned 1350 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for river5150 (Jh 9h 5d 8c 4h: jack high)
+river5150 wins main pot 1350 Tournament chips.
+Seat 1: BobGail10 (20537 Tournament chips) 
+Seat 2: QwertySpark (16575 Tournament chips) 
+Seat 3: saf71 (12800 Tournament chips) 
+Seat 4: river5150 (15850 Tournament chips) 
+Seat 6: Zebo1970 (3050 Tournament chips) 
+Seat 7: sinjalee (10974 Tournament chips) 
+Seat 8: uphill (23989 Tournament chips) 
+Game #23961794-33 ends
+Game #23961794-34 starts
+Seat 1: BobGail10 (20537 Tournament chips) 
+Seat 2: QwertySpark (16575 Tournament chips) 
+Seat 3: saf71 (12800 Tournament chips) 
+Seat 4: river5150 (15850 Tournament chips) 
+Seat 6: Zebo1970 (3050 Tournament chips) 
+Seat 7: sinjalee (10974 Tournament chips) 
+Seat 8: uphill (23989 Tournament chips) 
+The button is at seat 7
+saf71 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+BobGail10 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 20287 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16125 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12750 Tournament chips.
+river5150, at seat 4, is in this hand with 15800 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3000 Tournament chips.
+sinjalee, at seat 7, is in this hand with 10924 Tournament chips.
+uphill, at seat 8, is in this hand with 23939 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 8d 6h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [400 Tournament chips]
+river5150 folds [400 Tournament chips]
+Zebo1970 raises [1750 Tournament chips]
+sinjalee calls [1750 Tournament chips]
+uphill folds [1750 Tournament chips]
+BobGail10 folds [1550 Tournament chips]
+QwertySpark folds [1350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 7s ] board:[ Qc 7s]
+** Dealing Flop ** [ 2s ] board:[ Qc 7s 2s]
+Zebo1970 goes all-in for 1250 Tournament chips
+sinjalee calls [1250 Tournament chips]
+Tournament all-in showdown -- players show:
+Zebo1970 shows [ Jh Jc ]
+sinjalee shows [ Ah Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Qc 7s 2s 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ Qc 7s 2s 4d 7d]
+        (no action in this round)
+Round 4 is over.
+Zebo1970 shows [ Jh Jc ] two pair, jacks and sevens, queen kicker
+sinjalee shows [ Ah Jd ] a pair of sevens, ace/queen kickers
+Zebo1970 wins main pot 6950 Tournament chips with two pair, jacks and sevens, queen kicker.
+Seat 1: BobGail10 (20287 Tournament chips) 
+Seat 2: QwertySpark (16125 Tournament chips) 
+Seat 3: saf71 (12750 Tournament chips) 
+Seat 4: river5150 (15800 Tournament chips) 
+Seat 6: Zebo1970 (6950 Tournament chips) 
+Seat 7: sinjalee (7924 Tournament chips) 
+Seat 8: uphill (23939 Tournament chips) 
+Game #23961794-34 ends
+Game #23961794-35 starts
+Seat 1: BobGail10 (20287 Tournament chips) 
+Seat 2: QwertySpark (16125 Tournament chips) 
+Seat 3: saf71 (12750 Tournament chips) 
+Seat 4: river5150 (15800 Tournament chips) 
+Seat 6: Zebo1970 (6950 Tournament chips) 
+Seat 7: sinjalee (7924 Tournament chips) 
+Seat 8: uphill (23939 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [200 Tournament chips]
+saf71 posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 20237 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15875 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12300 Tournament chips.
+river5150, at seat 4, is in this hand with 15750 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6900 Tournament chips.
+sinjalee, at seat 7, is in this hand with 7874 Tournament chips.
+uphill, at seat 8, is in this hand with 23889 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qh 4s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+river5150 folds [400 Tournament chips]
+Zebo1970 folds [400 Tournament chips]
+sinjalee folds [400 Tournament chips]
+uphill calls [400 Tournament chips]
+BobGail10 calls [400 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+saf71 folds
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 9c ] board:[ 2c 9c]
+** Dealing Flop ** [ 2h ] board:[ 2c 9c 2h]
+QwertySpark checks
+uphill bets for 975 Tournament chips
+BobGail10 folds [975 Tournament chips]
+QwertySpark folds [975 Tournament chips]
+uphill is returned 975 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for uphill (Ac 3c 2c 9c 2h: a pair of deuces)
+uphill wins main pot 1950 Tournament chips.
+Seat 1: BobGail10 (19837 Tournament chips) 
+Seat 2: QwertySpark (15675 Tournament chips) 
+Seat 3: saf71 (12300 Tournament chips) 
+Seat 4: river5150 (15750 Tournament chips) 
+Seat 6: Zebo1970 (6900 Tournament chips) 
+Seat 7: sinjalee (7874 Tournament chips) 
+Seat 8: uphill (25439 Tournament chips) 
+Game #23961794-35 ends
+Game #23961794-36 starts
+Seat 1: BobGail10 (19837 Tournament chips) 
+Seat 2: QwertySpark (15675 Tournament chips) 
+Seat 3: saf71 (12300 Tournament chips) 
+Seat 4: river5150 (15750 Tournament chips) 
+Seat 6: Zebo1970 (6900 Tournament chips) 
+Seat 7: sinjalee (7874 Tournament chips) 
+Seat 8: uphill (25439 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [200 Tournament chips]
+river5150 posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 19787 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15625 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12050 Tournament chips.
+river5150, at seat 4, is in this hand with 15300 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6850 Tournament chips.
+sinjalee, at seat 7, is in this hand with 7824 Tournament chips.
+uphill, at seat 8, is in this hand with 25389 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ts Ad ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 calls [400 Tournament chips]
+sinjalee calls [400 Tournament chips]
+uphill calls [400 Tournament chips]
+BobGail10 raises [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+saf71 folds [600 Tournament chips]
+river5150 calls [400 Tournament chips]
+Zebo1970 calls [400 Tournament chips]
+sinjalee calls [400 Tournament chips]
+uphill calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 4c ] board:[ Th 4c]
+** Dealing Flop ** [ 6s ] board:[ Th 4c 6s]
+river5150 checks
+Zebo1970 goes all-in for 6050 Tournament chips
+sinjalee folds [6050 Tournament chips]
+uphill folds [6050 Tournament chips]
+BobGail10 folds [6050 Tournament chips]
+river5150 folds [6050 Tournament chips]
+Zebo1970 is returned 6050 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Zebo1970 (Js Td Th 4c 6s: a pair of tens)
+Zebo1970 wins main pot 4550 Tournament chips.
+Seat 1: BobGail10 (18987 Tournament chips) 
+Seat 2: QwertySpark (15625 Tournament chips) 
+Seat 3: saf71 (12050 Tournament chips) 
+Seat 4: river5150 (14900 Tournament chips) 
+Seat 6: Zebo1970 (10600 Tournament chips) 
+Seat 7: sinjalee (7024 Tournament chips) 
+Seat 8: uphill (24589 Tournament chips) 
+Game #23961794-36 ends
+Game #23961794-37 starts
+Seat 1: BobGail10 (18987 Tournament chips) 
+Seat 2: QwertySpark (15625 Tournament chips) 
+Seat 3: saf71 (12050 Tournament chips) 
+Seat 4: river5150 (14900 Tournament chips) 
+Seat 6: Zebo1970 (10600 Tournament chips) 
+Seat 7: sinjalee (7024 Tournament chips) 
+Seat 8: uphill (24589 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [200 Tournament chips]
+Zebo1970 posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 18937 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15575 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 12000 Tournament chips.
+river5150, at seat 4, is in this hand with 14650 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 10150 Tournament chips.
+sinjalee, at seat 7, is in this hand with 6974 Tournament chips.
+uphill, at seat 8, is in this hand with 24539 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qh 4c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+sinjalee raises [800 Tournament chips]
+uphill folds [800 Tournament chips]
+BobGail10 folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+river5150 folds [600 Tournament chips]
+Zebo1970 calls [400 Tournament chips]
+Round 1 is over.
+(saf71 has entered the table, is no longer absent.)
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Jd ] board:[ 6h Jd]
+** Dealing Flop ** [ Ks ] board:[ 6h Jd Ks]
+Zebo1970 checks
+sinjalee bets for 1075 Tournament chips
+Zebo1970 folds [1075 Tournament chips]
+sinjalee is returned 1075 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for sinjalee (Js Qd 6h Jd Ks: a pair of jacks)
+sinjalee wins main pot 2150 Tournament chips.
+Seat 1: BobGail10 (18937 Tournament chips) 
+Seat 2: QwertySpark (15575 Tournament chips) 
+Seat 3: saf71 (12000 Tournament chips) 
+Seat 4: river5150 (14650 Tournament chips) 
+Seat 6: Zebo1970 (9750 Tournament chips) 
+Seat 7: sinjalee (8324 Tournament chips) 
+Seat 8: uphill (24539 Tournament chips) 
+Game #23961794-37 ends
+Game #23961794-38 starts
+Seat 1: BobGail10 (18937 Tournament chips) 
+Seat 2: QwertySpark (15575 Tournament chips) 
+Seat 3: saf71 (12000 Tournament chips) 
+Seat 4: river5150 (14650 Tournament chips) 
+Seat 6: Zebo1970 (9750 Tournament chips) 
+Seat 7: sinjalee (8324 Tournament chips) 
+Seat 8: uphill (24539 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [200 Tournament chips]
+sinjalee posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 18887 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15525 Tournament chips.
+saf71, at seat 3, is in this hand with 11950 Tournament chips.
+river5150, at seat 4, is in this hand with 14600 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 9500 Tournament chips.
+sinjalee, at seat 7, is in this hand with 7874 Tournament chips.
+uphill, at seat 8, is in this hand with 24489 Tournament chips.
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 7s Kh ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+uphill folds [400 Tournament chips]
+BobGail10 folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+saf71 calls [400 Tournament chips]
+river5150 folds [400 Tournament chips]
+Zebo1970 calls [200 Tournament chips]
+sinjalee checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 7d ] board:[ Qs 7d]
+** Dealing Flop ** [ Ts ] board:[ Qs 7d Ts]
+Zebo1970 checks
+sinjalee checks
+saf71 checks
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Qs 7d Ts 6s]
+Zebo1970 checks
+sinjalee bets for 1550 Tournament chips
+saf71 folds [1550 Tournament chips]
+Zebo1970 calls [1550 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ Qs 7d Ts 6s Qc]
+Zebo1970 checks
+sinjalee checks
+Round 4 is over.
+Zebo1970 shows [ 5s 8s ] flush, queen high
+Hand evaluation for Zebo1970 (5s 8s Qs Ts 6s: flush, queen high)
+sinjalee doesn't show [ Qd 4c ]
+(sinjalee has Qd 4c.)
+Zebo1970 wins main pot 4650 Tournament chips with flush, queen/ten/eight high.
+Seat 1: BobGail10 (18887 Tournament chips) 
+Seat 2: QwertySpark (15525 Tournament chips) 
+Seat 3: saf71 (11550 Tournament chips) 
+Seat 4: river5150 (14600 Tournament chips) 
+Seat 6: Zebo1970 (12400 Tournament chips) 
+Seat 7: sinjalee (6324 Tournament chips) 
+Seat 8: uphill (24489 Tournament chips) 
+Game #23961794-38 ends
+Game #23961794-39 starts
+Seat 1: BobGail10 (18887 Tournament chips) 
+Seat 2: QwertySpark (15525 Tournament chips) 
+Seat 3: saf71 (11550 Tournament chips) 
+Seat 4: river5150 (14600 Tournament chips) 
+Seat 6: Zebo1970 (12400 Tournament chips) 
+Seat 7: sinjalee (6324 Tournament chips) 
+Seat 8: uphill (24489 Tournament chips) 
+The button is at seat 4
+BobGail10 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 6.
+sinjalee posts the small blind [200 Tournament chips]
+uphill posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 18837 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15475 Tournament chips.
+saf71, at seat 3, is in this hand with 11500 Tournament chips.
+river5150, at seat 4, is in this hand with 14550 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 12350 Tournament chips.
+sinjalee, at seat 7, is in this hand with 6074 Tournament chips.
+uphill, at seat 8, is in this hand with 24039 Tournament chips.
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 4s 2d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+saf71 raises [800 Tournament chips]
+river5150 folds [800 Tournament chips]
+Zebo1970 folds [800 Tournament chips]
+sinjalee folds [600 Tournament chips]
+uphill calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Ts ] board:[ 6h Ts]
+** Dealing Flop ** [ 5h ] board:[ 6h Ts 5h]
+uphill checks
+saf71 bets for 400 Tournament chips
+uphill raises [800 Tournament chips]
+saf71 calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 6h Ts 5h Qd]
+uphill bets for 1875 Tournament chips
+saf71 folds [1875 Tournament chips]
+uphill is returned 1875 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for uphill (Jh 7d 6h Ts Qd: queen high)
+uphill wins main pot 3750 Tournament chips.
+Seat 1: BobGail10 (18837 Tournament chips) 
+Seat 2: QwertySpark (15475 Tournament chips) 
+Seat 3: saf71 (9900 Tournament chips) 
+Seat 4: river5150 (14550 Tournament chips) 
+Seat 6: Zebo1970 (12350 Tournament chips) 
+Seat 7: sinjalee (6074 Tournament chips) 
+Seat 8: uphill (26589 Tournament chips) 
+Game #23961794-39 ends
+Game #23961794-40 starts
+Seat 1: BobGail10 (18837 Tournament chips) 
+Seat 2: QwertySpark (15475 Tournament chips) 
+Seat 3: saf71 (9900 Tournament chips) 
+Seat 4: river5150 (14550 Tournament chips) 
+Seat 6: Zebo1970 (12350 Tournament chips) 
+Seat 7: sinjalee (6074 Tournament chips) 
+Seat 8: uphill (26589 Tournament chips) 
+The button is at seat 6
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+BobGail10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+The button is moved to seat 7.
+uphill posts the small blind [200 Tournament chips]
+BobGail10 posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 18387 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 15425 Tournament chips.
+saf71, at seat 3, is in this hand with 9850 Tournament chips.
+river5150, at seat 4, is in this hand with 14500 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 12300 Tournament chips.
+sinjalee, at seat 7, is in this hand with 6024 Tournament chips.
+uphill, at seat 8, is in this hand with 26339 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 7d Tc ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [400 Tournament chips]
+saf71 calls [400 Tournament chips]
+river5150 folds [400 Tournament chips]
+Zebo1970 folds [400 Tournament chips]
+sinjalee folds [400 Tournament chips]
+uphill calls [200 Tournament chips]
+BobGail10 checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Jd ] board:[ 6s Jd]
+** Dealing Flop ** [ 3h ] board:[ 6s Jd 3h]
+uphill bets for 775 Tournament chips
+BobGail10 folds [775 Tournament chips]
+saf71 calls [775 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 6s Jd 3h 2s]
+uphill checks
+saf71 checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 6s Jd 3h 2s Ac]
+uphill checks
+saf71 checks
+Round 4 is over.
+uphill shows [ Qc Jc ] a pair of jacks
+Hand evaluation for uphill (Qc Jc 6s Jd Ac: a pair of jacks)
+saf71 doesn't show [ 8s 9s ]
+(saf71 has 8s 9s.)
+uphill wins main pot 3100 Tournament chips with a pair of jacks, ace/queen kickers.
+Seat 1: BobGail10 (18387 Tournament chips) 
+Seat 2: QwertySpark (15425 Tournament chips) 
+Seat 3: saf71 (8675 Tournament chips) 
+Seat 4: river5150 (14500 Tournament chips) 
+Seat 6: Zebo1970 (12300 Tournament chips) 
+Seat 7: sinjalee (6024 Tournament chips) 
+Seat 8: uphill (28464 Tournament chips) 
+Game #23961794-40 ends
+Game #23961794-41 starts
+Seat 1: BobGail10 (18387 Tournament chips) 
+Seat 2: QwertySpark (15425 Tournament chips) 
+Seat 3: saf71 (8675 Tournament chips) 
+Seat 4: river5150 (14500 Tournament chips) 
+Seat 6: Zebo1970 (12300 Tournament chips) 
+Seat 7: sinjalee (6024 Tournament chips) 
+Seat 8: uphill (28464 Tournament chips) 
+The button is at seat 7
+BobGail10 posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+river5150 posted ante of 50 Tournament chips
+Zebo1970 posted ante of 50 Tournament chips
+sinjalee posted ante of 50 Tournament chips
+uphill posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+BobGail10, at seat 1, is in this hand with 18137 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 14975 Tournament chips.
+saf71, at seat 3, is in this hand with 8625 Tournament chips.
+river5150, at seat 4, is in this hand with 14450 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 12250 Tournament chips.
+sinjalee, at seat 7, is in this hand with 5974 Tournament chips.
+uphill, at seat 8, is in this hand with 28414 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qc 9c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [400 Tournament chips]
+river5150 calls [400 Tournament chips]
+Zebo1970 folds [400 Tournament chips]
+sinjalee calls [400 Tournament chips]
+uphill calls [400 Tournament chips]
+BobGail10 calls [200 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+river5150 calls [1200 Tournament chips]
+sinjalee calls [1200 Tournament chips]
+uphill calls [1200 Tournament chips]
+BobGail10 calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ As ] board:[ Tc As]
+** Dealing Flop ** [ 8s ] board:[ Tc As 8s]
+BobGail10 checks
+QwertySpark bets for 4175 Tournament chips
+river5150 raises [8350 Tournament chips]
+sinjalee folds [4374 Tournament chips]
+uphill folds [8350 Tournament chips]
+BobGail10 folds [8350 Tournament chips]
+QwertySpark folds [4175 Tournament chips]
+river5150 is returned 4175 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for river5150 (Kc Th Tc As 8s: a pair of tens)
+river5150 wins main pot 16700 Tournament chips.
+Seat 1: BobGail10 (16737 Tournament chips) 
+Seat 2: QwertySpark (9600 Tournament chips) 
+Seat 3: saf71 (8625 Tournament chips) 
+Seat 4: river5150 (25375 Tournament chips) 
+Seat 6: Zebo1970 (12250 Tournament chips) 
+Seat 7: sinjalee (4374 Tournament chips) 
+Seat 8: uphill (26814 Tournament chips) 
+Game #23961794-41 ends
+Game #23961794-42 starts
+Seat 1: BobGail10 (16737 Tournament chips) 
+Seat 2: QwertySpark (9600 Tournament chips) 
+Seat 3: saf71 (8625 Tournament chips) 
+Seat 4: river5150 (25375 Tournament chips) 
+Seat 6: Zebo1970 (12250 Tournament chips) 
+Seat 7: sinjalee (4374 Tournament chips) 
+Seat 8: uphill (26814 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+sinjalee posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [300 Tournament chips]
+saf71 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 16662 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9225 Tournament chips.
+saf71, at seat 3, is in this hand with 7950 Tournament chips.
+river5150, at seat 4, is in this hand with 25300 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 12175 Tournament chips.
+sinjalee, at seat 7, is in this hand with 4299 Tournament chips.
+uphill, at seat 8, is in this hand with 26739 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 6c 5c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+river5150 folds [600 Tournament chips]
+Zebo1970 folds [600 Tournament chips]
+sinjalee folds [600 Tournament chips]
+uphill calls [600 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+saf71 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ As ] board:[ Ad As]
+** Dealing Flop ** [ 5d ] board:[ Ad As 5d]
+QwertySpark bets for 600 Tournament chips
+saf71 folds [600 Tournament chips]
+uphill calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Ad As 5d 9h]
+QwertySpark bets for 600 Tournament chips
+uphill raises [1200 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+uphill is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for uphill (Jc Qd Ad As 9h: a pair of aces)
+uphill wins main pot 4725 Tournament chips.
+Seat 1: BobGail10 (16662 Tournament chips) 
+Seat 2: QwertySpark (7725 Tournament chips) 
+Seat 3: saf71 (7950 Tournament chips) 
+Seat 4: river5150 (25300 Tournament chips) 
+Seat 6: Zebo1970 (12175 Tournament chips) 
+Seat 7: sinjalee (4299 Tournament chips) 
+Seat 8: uphill (29664 Tournament chips) 
+Game #23961794-42 ends
+Game #23961794-43 starts
+Seat 1: BobGail10 (16662 Tournament chips) 
+Seat 2: QwertySpark (7725 Tournament chips) 
+Seat 3: saf71 (7950 Tournament chips) 
+Seat 4: river5150 (25300 Tournament chips) 
+Seat 6: Zebo1970 (12175 Tournament chips) 
+Seat 7: sinjalee (4299 Tournament chips) 
+Seat 8: uphill (29664 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+sinjalee posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [300 Tournament chips]
+river5150 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 16587 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7650 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 7575 Tournament chips.
+river5150, at seat 4, is in this hand with 24625 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 12100 Tournament chips.
+sinjalee, at seat 7, is in this hand with 4224 Tournament chips.
+uphill, at seat 8, is in this hand with 29589 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 9s 7s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+(saf71 has entered the table, is no longer absent.)
+Zebo1970 calls [600 Tournament chips]
+sinjalee folds [600 Tournament chips]
+uphill calls [600 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+saf71 calls [300 Tournament chips]
+river5150 checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Ac ] board:[ 2c Ac]
+** Dealing Flop ** [ Qd ] board:[ 2c Ac Qd]
+saf71 checks
+river5150 bets for 1762 Tournament chips
+Zebo1970 folds [1762 Tournament chips]
+uphill folds [1762 Tournament chips]
+QwertySpark folds [1762 Tournament chips]
+saf71 folds [1762 Tournament chips]
+river5150 is returned 1762 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for river5150 (9d Ad 2c Ac Qd: a pair of aces)
+river5150 wins main pot 3525 Tournament chips.
+Seat 1: BobGail10 (16587 Tournament chips) 
+Seat 2: QwertySpark (7050 Tournament chips) 
+Seat 3: saf71 (7275 Tournament chips) 
+Seat 4: river5150 (28150 Tournament chips) 
+Seat 6: Zebo1970 (11500 Tournament chips) 
+Seat 7: sinjalee (4224 Tournament chips) 
+Seat 8: uphill (28989 Tournament chips) 
+Game #23961794-43 ends
+Game #23961794-44 starts
+Seat 1: BobGail10 (16587 Tournament chips) 
+Seat 2: QwertySpark (7050 Tournament chips) 
+Seat 3: saf71 (7275 Tournament chips) 
+Seat 4: river5150 (28150 Tournament chips) 
+Seat 6: Zebo1970 (11500 Tournament chips) 
+Seat 7: sinjalee (4224 Tournament chips) 
+Seat 8: uphill (28989 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+sinjalee posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [300 Tournament chips]
+Zebo1970 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 16512 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 6975 Tournament chips.
+saf71, at seat 3, is in this hand with 7200 Tournament chips.
+river5150, at seat 4, is in this hand with 27775 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 10825 Tournament chips.
+sinjalee, at seat 7, is in this hand with 4149 Tournament chips.
+uphill, at seat 8, is in this hand with 28914 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ah Kd ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+sinjalee folds [600 Tournament chips]
+uphill calls [600 Tournament chips]
+BobGail10 folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+saf71 folds [2400 Tournament chips]
+river5150 folds [2100 Tournament chips]
+Zebo1970 folds [1800 Tournament chips]
+uphill folds [1800 Tournament chips]
+QwertySpark is returned 1800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ah Kd: ace high)
+QwertySpark wins main pot 2625 Tournament chips.
+Seat 1: BobGail10 (16512 Tournament chips) 
+Seat 2: QwertySpark (9000 Tournament chips) 
+Seat 3: saf71 (7200 Tournament chips) 
+Seat 4: river5150 (27775 Tournament chips) 
+Seat 6: Zebo1970 (10825 Tournament chips) 
+Seat 7: sinjalee (4149 Tournament chips) 
+Seat 8: uphill (28314 Tournament chips) 
+Game #23961794-44 ends
+Game #23961794-45 starts
+Seat 1: BobGail10 (16512 Tournament chips) 
+Seat 2: QwertySpark (9000 Tournament chips) 
+Seat 3: saf71 (7200 Tournament chips) 
+Seat 4: river5150 (27775 Tournament chips) 
+Seat 6: Zebo1970 (10825 Tournament chips) 
+Seat 7: sinjalee (4149 Tournament chips) 
+Seat 8: uphill (28314 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+sinjalee posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [300 Tournament chips]
+sinjalee posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 16437 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8925 Tournament chips.
+saf71, at seat 3, is in this hand with 7125 Tournament chips.
+river5150, at seat 4, is in this hand with 27700 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 10450 Tournament chips.
+sinjalee, at seat 7, is in this hand (absent) with 3474 Tournament chips.
+uphill, at seat 8, is in this hand with 28239 Tournament chips.
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ks 7c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+uphill raises [1800 Tournament chips]
+BobGail10 folds [1800 Tournament chips]
+QwertySpark folds [1800 Tournament chips]
+saf71 folds [1800 Tournament chips]
+river5150 folds [1800 Tournament chips]
+Zebo1970 folds [1500 Tournament chips]
+sinjalee folds [1200 Tournament chips]
+uphill is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for uphill (Ad 9d: ace high)
+uphill wins main pot 2025 Tournament chips.
+Seat 1: BobGail10 (16437 Tournament chips) 
+Seat 2: QwertySpark (8925 Tournament chips) 
+Seat 3: saf71 (7125 Tournament chips) 
+Seat 4: river5150 (27700 Tournament chips) 
+Seat 6: Zebo1970 (10450 Tournament chips) 
+Seat 7: sinjalee (3474 Tournament chips) 
+Seat 8: uphill (29664 Tournament chips) 
+Game #23961794-45 ends
+Game #23961794-46 starts
+Seat 1: BobGail10 (16437 Tournament chips) 
+Seat 2: QwertySpark (8925 Tournament chips) 
+Seat 3: saf71 (7125 Tournament chips) 
+Seat 4: river5150 (27700 Tournament chips) 
+Seat 6: Zebo1970 (10450 Tournament chips) 
+Seat 7: sinjalee (3474 Tournament chips) 
+Seat 8: uphill (29664 Tournament chips) 
+The button is at seat 4
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+sinjalee posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 6.
+sinjalee posts the small blind [300 Tournament chips]
+uphill posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 16362 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8850 Tournament chips.
+saf71, at seat 3, is in this hand with 7050 Tournament chips.
+river5150, at seat 4, is in this hand with 27625 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 10375 Tournament chips.
+sinjalee, at seat 7, is in this hand with 3099 Tournament chips.
+uphill, at seat 8, is in this hand with 28989 Tournament chips.
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+sinjalee is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qc 9d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to sinjalee [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+river5150 raises [2400 Tournament chips]
+Zebo1970 calls [2400 Tournament chips]
+sinjalee raises all-in [3099 Tournament chips]
+uphill calls [2799 Tournament chips]
+river5150 calls [999 Tournament chips]
+Zebo1970 calls [999 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Kh ] board:[ 9c Kh]
+** Dealing Flop ** [ Kc ] board:[ 9c Kh Kc]
+uphill checks
+river5150 checks
+Zebo1970 checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 9c Kh Kc 7s]
+uphill bets for 7060 Tournament chips
+river5150 raises [14120 Tournament chips]
+Zebo1970 folds [6976 Tournament chips]
+uphill calls [7060 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 9c Kh Kc 7s 4s]
+uphill checks
+river5150 goes all-in for 10106 Tournament chips
+uphill folds [10106 Tournament chips]
+river5150 is returned 10106 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+river5150 shows [ Ah Ks ]
+sinjalee shows [ Jh Kd ]
+Round 4 is over.
+river5150 shows [ Ah Ks ] three kings, ace/nine kickers
+sinjalee shows [ Jh Kd ] three kings, jack/nine kickers
+river5150 wins main pot 14121 Tournament chips with three kings, ace/nine kickers.
+river5150 wins side pot #1 28240 Tournament chips with three kings, ace/nine kickers.
+Seat 1: BobGail10 (16362 Tournament chips) 
+Seat 2: QwertySpark (8850 Tournament chips) 
+Seat 3: saf71 (7050 Tournament chips) 
+Seat 4: river5150 (52467 Tournament chips) 
+Seat 6: Zebo1970 (6976 Tournament chips) 
+Seat 7: sinjalee (0 Tournament chips) 
+Seat 8: uphill (12070 Tournament chips) 
+Game #23961794-46 ends
+Player sinjalee leaves the table with 0 Tournament chips
+Game #23961794-47 starts
+Seat 1: BobGail10 (16362 Tournament chips) 
+Seat 2: QwertySpark (8850 Tournament chips) 
+Seat 3: saf71 (7050 Tournament chips) 
+Seat 4: river5150 (52467 Tournament chips) 
+Seat 6: Zebo1970 (6976 Tournament chips) 
+Seat 8: uphill (12070 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 7.
+uphill posts the small blind [300 Tournament chips]
+BobGail10 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 15687 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8775 Tournament chips.
+saf71, at seat 3, is in this hand with 6975 Tournament chips.
+river5150, at seat 4, is in this hand with 52392 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6901 Tournament chips.
+uphill, at seat 8, is in this hand with 11695 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ks 4c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+river5150 folds [600 Tournament chips]
+Zebo1970 calls [600 Tournament chips]
+uphill calls [300 Tournament chips]
+BobGail10 checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 9h ] board:[ Ts 9h]
+** Dealing Flop ** [ 9c ] board:[ Ts 9h 9c]
+uphill checks
+BobGail10 checks
+Zebo1970 bets for 2250 Tournament chips
+uphill folds [2250 Tournament chips]
+BobGail10 folds [2250 Tournament chips]
+Zebo1970 is returned 2250 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Zebo1970 (3s 3c Ts 9h 9c: two pair, nines and threes)
+Zebo1970 wins main pot 2250 Tournament chips.
+Seat 1: BobGail10 (15687 Tournament chips) 
+Seat 2: QwertySpark (8775 Tournament chips) 
+Seat 3: saf71 (6975 Tournament chips) 
+Seat 4: river5150 (52392 Tournament chips) 
+Seat 6: Zebo1970 (8551 Tournament chips) 
+Seat 8: uphill (11395 Tournament chips) 
+Game #23961794-47 ends
+Game #23961794-48 starts
+Seat 1: BobGail10 (15687 Tournament chips) 
+Seat 2: QwertySpark (8775 Tournament chips) 
+Seat 3: saf71 (6975 Tournament chips) 
+Seat 4: river5150 (52392 Tournament chips) 
+Seat 6: Zebo1970 (8551 Tournament chips) 
+Seat 8: uphill (11395 Tournament chips) 
+The button is at seat 7
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 15312 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8100 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 6900 Tournament chips.
+river5150, at seat 4, is in this hand with 52317 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 8476 Tournament chips.
+uphill, at seat 8, is in this hand with 11320 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 4c Qh ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [600 Tournament chips]
+river5150 folds [600 Tournament chips]
+Zebo1970 calls [600 Tournament chips]
+uphill raises [1200 Tournament chips]
+BobGail10 folds [900 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Zebo1970 calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 8c ] board:[ 8d 8c]
+** Dealing Flop ** [ Jh ] board:[ 8d 8c Jh]
+(saf71 has entered the table, is no longer absent.)
+QwertySpark checks
+Zebo1970 checks
+uphill bets for 4350 Tournament chips
+QwertySpark folds [4350 Tournament chips]
+Zebo1970 folds [4350 Tournament chips]
+uphill is returned 4350 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for uphill (Td Tc 8d 8c Jh: two pair, tens and eights)
+uphill wins main pot 4350 Tournament chips.
+Seat 1: BobGail10 (15312 Tournament chips) 
+Seat 2: QwertySpark (7500 Tournament chips) 
+Seat 3: saf71 (6900 Tournament chips) 
+Seat 4: river5150 (52317 Tournament chips) 
+Seat 6: Zebo1970 (7276 Tournament chips) 
+Seat 8: uphill (14470 Tournament chips) 
+Game #23961794-48 ends
+Game #23961794-49 starts
+Seat 1: BobGail10 (15312 Tournament chips) 
+Seat 2: QwertySpark (7500 Tournament chips) 
+Seat 3: saf71 (6900 Tournament chips) 
+Seat 4: river5150 (52317 Tournament chips) 
+Seat 6: Zebo1970 (7276 Tournament chips) 
+Seat 8: uphill (14470 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [300 Tournament chips]
+saf71 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 15237 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7125 Tournament chips.
+saf71, at seat 3, is in this hand with 6225 Tournament chips.
+river5150, at seat 4, is in this hand with 52242 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 7201 Tournament chips.
+uphill, at seat 8, is in this hand with 14395 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 2h Td ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+river5150 folds [600 Tournament chips]
+Zebo1970 raises [2550 Tournament chips]
+uphill folds [2550 Tournament chips]
+BobGail10 folds [2550 Tournament chips]
+QwertySpark folds [2250 Tournament chips]
+saf71 folds [1950 Tournament chips]
+Zebo1970 is returned 1950 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Zebo1970 (9d 9c: a pair of nines)
+Zebo1970 wins main pot 1950 Tournament chips.
+(saf71 has entered the table, is no longer absent.)
+Seat 1: BobGail10 (15237 Tournament chips) 
+Seat 2: QwertySpark (7125 Tournament chips) 
+Seat 3: saf71 (6225 Tournament chips) 
+Seat 4: river5150 (52242 Tournament chips) 
+Seat 6: Zebo1970 (8551 Tournament chips) 
+Seat 8: uphill (14395 Tournament chips) 
+Game #23961794-49 ends
+Game #23961794-50 starts
+Seat 1: BobGail10 (15237 Tournament chips) 
+Seat 2: QwertySpark (7125 Tournament chips) 
+Seat 3: saf71 (6225 Tournament chips) 
+Seat 4: river5150 (52242 Tournament chips) 
+Seat 6: Zebo1970 (8551 Tournament chips) 
+Seat 8: uphill (14395 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+river5150 posted ante of 75 Tournament chips
+Zebo1970 posted ante of 75 Tournament chips
+uphill posted ante of 75 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [300 Tournament chips]
+river5150 posts the big blind [600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 15162 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7050 Tournament chips.
+saf71, at seat 3, is in this hand with 5850 Tournament chips.
+river5150, at seat 4, is in this hand with 51567 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 8476 Tournament chips.
+uphill, at seat 8, is in this hand with 14320 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qs 8c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 folds [600 Tournament chips]
+uphill folds [600 Tournament chips]
+BobGail10 calls [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+saf71 folds [300 Tournament chips]
+river5150 raises [2400 Tournament chips]
+BobGail10 folds [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+river5150 is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for river5150 (Ah 3c: ace high)
+river5150 wins main pot 2550 Tournament chips.
+Seat 1: BobGail10 (14562 Tournament chips) 
+Seat 2: QwertySpark (6450 Tournament chips) 
+Seat 3: saf71 (5850 Tournament chips) 
+Seat 4: river5150 (54117 Tournament chips) 
+Seat 6: Zebo1970 (8476 Tournament chips) 
+Seat 7: JayOr (15614 Tournament chips) 
+Seat 8: uphill (14320 Tournament chips) 
+Game #23961794-50 ends
+Game #23961794-51 starts
+Seat 1: BobGail10 (14562 Tournament chips) 
+Seat 2: QwertySpark (6450 Tournament chips) 
+Seat 3: saf71 (5850 Tournament chips) 
+Seat 4: river5150 (54117 Tournament chips) 
+Seat 6: Zebo1970 (8476 Tournament chips) 
+Seat 7: JayOr (15614 Tournament chips) 
+Seat 8: uphill (14320 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [400 Tournament chips]
+Zebo1970 posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 14462 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 6350 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 5750 Tournament chips.
+river5150, at seat 4, is in this hand with 53617 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 7576 Tournament chips.
+JayOr, at seat 7, is in this hand with 15514 Tournament chips.
+uphill, at seat 8, is in this hand with 14220 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 9d As ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+JayOr folds [800 Tournament chips]
+uphill folds [800 Tournament chips]
+BobGail10 folds [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+saf71 calls [800 Tournament chips]
+river5150 calls [400 Tournament chips]
+Zebo1970 checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Qh ] board:[ 2c Qh]
+** Dealing Flop ** [ Jh ] board:[ 2c Qh Jh]
+river5150 bets for 800 Tournament chips
+Zebo1970 folds [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+saf71 raises [1600 Tournament chips]
+river5150 calls [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 2c Qh Jh Td]
+river5150 bets for 7900 Tournament chips
+saf71 calls all-in [3350 Tournament chips]
+river5150 is returned 4550 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+saf71 shows [ Qc Kd ]
+river5150 shows [ Th 7h ]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 2c Qh Jh Td 3d]
+        (no action in this round)
+Round 4 is over.
+saf71 shows [ Qc Kd ] a pair of queens, king/jack kickers
+river5150 shows [ Th 7h ] a pair of tens, queen/jack kickers
+saf71 wins main pot 14600 Tournament chips with a pair of queens, king/jack kickers.
+Seat 1: BobGail10 (14462 Tournament chips) 
+Seat 2: QwertySpark (4750 Tournament chips) 
+Seat 3: saf71 (14600 Tournament chips) 
+Seat 4: river5150 (48267 Tournament chips) 
+Seat 6: Zebo1970 (7576 Tournament chips) 
+Seat 7: JayOr (15514 Tournament chips) 
+Seat 8: uphill (14220 Tournament chips) 
+Game #23961794-51 ends
+Game #23961794-52 starts
+Seat 1: BobGail10 (14462 Tournament chips) 
+Seat 2: QwertySpark (4750 Tournament chips) 
+Seat 3: saf71 (14600 Tournament chips) 
+Seat 4: river5150 (48267 Tournament chips) 
+Seat 6: Zebo1970 (7576 Tournament chips) 
+Seat 7: JayOr (15514 Tournament chips) 
+Seat 8: uphill (14220 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [400 Tournament chips]
+JayOr posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 14362 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4650 Tournament chips.
+saf71, at seat 3, is in this hand with 14500 Tournament chips.
+river5150, at seat 4, is in this hand with 48167 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 7076 Tournament chips.
+JayOr, at seat 7, is in this hand with 14614 Tournament chips.
+uphill, at seat 8, is in this hand with 14120 Tournament chips.
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Jh Js ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+uphill calls [800 Tournament chips]
+BobGail10 folds [800 Tournament chips]
+QwertySpark raises [4000 Tournament chips]
+saf71 calls [4000 Tournament chips]
+river5150 folds [4000 Tournament chips]
+Zebo1970 folds [3600 Tournament chips]
+JayOr folds [3200 Tournament chips]
+uphill folds [3200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 9d ] board:[ 2s 9d]
+** Dealing Flop ** [ 3c ] board:[ 2s 9d 3c]
+QwertySpark goes all-in for 650 Tournament chips
+saf71 calls [650 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jh Js ]
+saf71 shows [ Th Qh ]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 2s 9d 3c 7s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 2s 9d 3c 7s 6d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jh Js ] a pair of jacks, nine/seven kickers
+saf71 shows [ Th Qh ] queen/ten/nine high
+QwertySpark wins main pot 12000 Tournament chips with a pair of jacks, nine/seven kickers.
+Seat 1: BobGail10 (14362 Tournament chips) 
+Seat 2: QwertySpark (12000 Tournament chips) 
+Seat 3: saf71 (9850 Tournament chips) 
+Seat 4: river5150 (48167 Tournament chips) 
+Seat 6: Zebo1970 (7076 Tournament chips) 
+Seat 7: JayOr (14614 Tournament chips) 
+Seat 8: uphill (13320 Tournament chips) 
+Game #23961794-52 ends
+Game #23961794-53 starts
+Seat 1: BobGail10 (14362 Tournament chips) 
+Seat 2: QwertySpark (12000 Tournament chips) 
+Seat 3: saf71 (9850 Tournament chips) 
+Seat 4: river5150 (48167 Tournament chips) 
+Seat 6: Zebo1970 (7076 Tournament chips) 
+Seat 7: JayOr (14614 Tournament chips) 
+Seat 8: uphill (13320 Tournament chips) 
+The button is at seat 4
+BobGail10 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 6.
+JayOr posts the small blind [400 Tournament chips]
+uphill posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 14262 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 11900 Tournament chips.
+saf71, at seat 3, is in this hand with 9750 Tournament chips.
+river5150, at seat 4, is in this hand with 48067 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6976 Tournament chips.
+JayOr, at seat 7, is in this hand with 14114 Tournament chips.
+uphill, at seat 8, is in this hand with 12420 Tournament chips.
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 9d 9c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [800 Tournament chips]
+QwertySpark raises [3200 Tournament chips]
+saf71 folds [3200 Tournament chips]
+river5150 folds [3200 Tournament chips]
+Zebo1970 folds [3200 Tournament chips]
+JayOr folds [2800 Tournament chips]
+uphill folds [2400 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (9d 9c: a pair of nines)
+QwertySpark wins main pot 2700 Tournament chips.
+Seat 1: BobGail10 (14262 Tournament chips) 
+Seat 2: QwertySpark (13800 Tournament chips) 
+Seat 3: saf71 (9750 Tournament chips) 
+Seat 4: river5150 (48067 Tournament chips) 
+Seat 6: Zebo1970 (6976 Tournament chips) 
+Seat 7: JayOr (14114 Tournament chips) 
+Seat 8: uphill (12420 Tournament chips) 
+Game #23961794-53 ends
+Game #23961794-54 starts
+Seat 1: BobGail10 (14262 Tournament chips) 
+Seat 2: QwertySpark (13800 Tournament chips) 
+Seat 3: saf71 (9750 Tournament chips) 
+Seat 4: river5150 (48067 Tournament chips) 
+Seat 6: Zebo1970 (6976 Tournament chips) 
+Seat 7: JayOr (14114 Tournament chips) 
+Seat 8: uphill (12420 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 7.
+uphill posts the small blind [400 Tournament chips]
+BobGail10 posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 13362 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 13700 Tournament chips.
+saf71, at seat 3, is in this hand with 9650 Tournament chips.
+river5150, at seat 4, is in this hand with 47967 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6876 Tournament chips.
+JayOr, at seat 7, is in this hand with 14014 Tournament chips.
+uphill, at seat 8, is in this hand with 11920 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qh Kd ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+river5150 calls [800 Tournament chips]
+Zebo1970 folds [800 Tournament chips]
+JayOr calls [800 Tournament chips]
+uphill calls [400 Tournament chips]
+BobGail10 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 6h ] board:[ 7h 6h]
+** Dealing Flop ** [ 2c ] board:[ 7h 6h 2c]
+uphill checks
+BobGail10 checks
+river5150 has timed out - the hand is checked
+JayOr checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 7h 6h 2c Jc]
+uphill bets for 1950 Tournament chips
+BobGail10 folds [1950 Tournament chips]
+river5150 folds [1950 Tournament chips]
+JayOr folds [1950 Tournament chips]
+uphill is returned 1950 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for uphill (9c Jd 7h 6h Jc: a pair of jacks)
+uphill wins main pot 3900 Tournament chips.
+Seat 1: BobGail10 (13362 Tournament chips) 
+Seat 2: QwertySpark (13700 Tournament chips) 
+Seat 3: saf71 (9650 Tournament chips) 
+Seat 4: river5150 (47167 Tournament chips) 
+Seat 6: Zebo1970 (6876 Tournament chips) 
+Seat 7: JayOr (13214 Tournament chips) 
+Seat 8: uphill (15420 Tournament chips) 
+Game #23961794-54 ends
+Game #23961794-55 starts
+Seat 1: BobGail10 (13362 Tournament chips) 
+Seat 2: QwertySpark (13700 Tournament chips) 
+Seat 3: saf71 (9650 Tournament chips) 
+Seat 4: river5150 (47167 Tournament chips) 
+Seat 6: Zebo1970 (6876 Tournament chips) 
+Seat 7: JayOr (13214 Tournament chips) 
+Seat 8: uphill (15420 Tournament chips) 
+The button is at seat 7
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 12862 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 12800 Tournament chips.
+saf71, at seat 3, is in this hand with 9550 Tournament chips.
+river5150, at seat 4, is in this hand with 47067 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6776 Tournament chips.
+JayOr, at seat 7, is in this hand with 13114 Tournament chips.
+uphill, at seat 8, is in this hand with 15320 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qh 5h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [800 Tournament chips]
+river5150 folds [800 Tournament chips]
+Zebo1970 folds [800 Tournament chips]
+JayOr calls [800 Tournament chips]
+uphill folds [800 Tournament chips]
+BobGail10 calls [400 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 8s ] board:[ 2h 8s]
+** Dealing Flop ** [ 4h ] board:[ 2h 8s 4h]
+BobGail10 bets for 1550 Tournament chips
+QwertySpark raises [3100 Tournament chips]
+JayOr calls [3100 Tournament chips]
+BobGail10 calls [1550 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 2h 8s 4h Jd]
+BobGail10 checks
+QwertySpark goes all-in for 9700 Tournament chips
+JayOr folds [9214 Tournament chips]
+BobGail10 folds [9362 Tournament chips]
+QwertySpark is returned 9700 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qh 5h 8s 4h Jd: queen high)
+QwertySpark wins main pot 12400 Tournament chips.
+Seat 1: BobGail10 (9362 Tournament chips) 
+Seat 2: QwertySpark (22100 Tournament chips) 
+Seat 3: saf71 (9550 Tournament chips) 
+Seat 4: river5150 (47067 Tournament chips) 
+Seat 6: Zebo1970 (6776 Tournament chips) 
+Seat 7: JayOr (9214 Tournament chips) 
+Seat 8: uphill (15320 Tournament chips) 
+Game #23961794-55 ends
+Game #23961794-56 starts
+Seat 1: BobGail10 (9362 Tournament chips) 
+Seat 2: QwertySpark (22100 Tournament chips) 
+Seat 3: saf71 (9550 Tournament chips) 
+Seat 4: river5150 (47067 Tournament chips) 
+Seat 6: Zebo1970 (6776 Tournament chips) 
+Seat 7: JayOr (9214 Tournament chips) 
+Seat 8: uphill (15320 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [400 Tournament chips]
+saf71 posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 9262 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 21600 Tournament chips.
+saf71, at seat 3, is in this hand with 8650 Tournament chips.
+river5150, at seat 4, is in this hand with 46967 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6676 Tournament chips.
+JayOr, at seat 7, is in this hand with 9114 Tournament chips.
+uphill, at seat 8, is in this hand with 15220 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 2c 8s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+river5150 calls [800 Tournament chips]
+Zebo1970 folds [800 Tournament chips]
+JayOr calls [800 Tournament chips]
+uphill calls [800 Tournament chips]
+BobGail10 calls [800 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+saf71 checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 6h ] board:[ 9d 6h]
+** Dealing Flop ** [ Qd ] board:[ 9d 6h Qd]
+saf71 checks
+river5150 checks
+JayOr bets for 800 Tournament chips
+uphill folds [800 Tournament chips]
+BobGail10 folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+river5150 calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 9d 6h Qd 8c]
+river5150 bets for 6700 Tournament chips
+JayOr raises all-in [7514 Tournament chips]
+river5150 calls [814 Tournament chips]
+Tournament all-in showdown -- players show:
+river5150 shows [ 7h Ad ]
+JayOr shows [ 6s Ks ]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 9d 6h Qd 8c 6c]
+        (no action in this round)
+Round 4 is over.
+river5150 shows [ 7h Ad ] a pair of sixes, ace/queen kickers
+JayOr shows [ 6s Ks ] three sixes, king/queen kickers
+JayOr wins main pot 21728 Tournament chips with three sixes, king/queen kickers.
+Seat 1: BobGail10 (8462 Tournament chips) 
+Seat 2: QwertySpark (21600 Tournament chips) 
+Seat 3: saf71 (8650 Tournament chips) 
+Seat 4: river5150 (37853 Tournament chips) 
+Seat 6: Zebo1970 (6676 Tournament chips) 
+Seat 7: JayOr (21728 Tournament chips) 
+Seat 8: uphill (14420 Tournament chips) 
+Game #23961794-56 ends
+Game #23961794-57 starts
+Seat 1: BobGail10 (8462 Tournament chips) 
+Seat 2: QwertySpark (21600 Tournament chips) 
+Seat 3: saf71 (8650 Tournament chips) 
+Seat 4: river5150 (37853 Tournament chips) 
+Seat 6: Zebo1970 (6676 Tournament chips) 
+Seat 7: JayOr (21728 Tournament chips) 
+Seat 8: uphill (14420 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+river5150 posted ante of 100 Tournament chips
+Zebo1970 posted ante of 100 Tournament chips
+JayOr posted ante of 100 Tournament chips
+uphill posted ante of 100 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [400 Tournament chips]
+river5150 posts the big blind [800 Tournament chips]
+BobGail10, at seat 1, is in this hand with 8362 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 21500 Tournament chips.
+saf71, at seat 3, is in this hand with 8150 Tournament chips.
+river5150, at seat 4, is in this hand with 36953 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 6576 Tournament chips.
+JayOr, at seat 7, is in this hand with 21628 Tournament chips.
+uphill, at seat 8, is in this hand with 14320 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 7c 9s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 folds [800 Tournament chips]
+JayOr calls [800 Tournament chips]
+uphill folds [800 Tournament chips]
+BobGail10 calls [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+saf71 folds [400 Tournament chips]
+river5150 checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Jd ] board:[ 5d Jd]
+** Dealing Flop ** [ As ] board:[ 5d Jd As]
+river5150 checks
+JayOr checks
+BobGail10 checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 5d Jd As Qh]
+river5150 bets for 1750 Tournament chips
+JayOr folds [1750 Tournament chips]
+BobGail10 folds [1750 Tournament chips]
+river5150 is returned 1750 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for river5150 (6s Qc Jd As Qh: a pair of queens)
+river5150 wins main pot 3500 Tournament chips.
+Seat 1: BobGail10 (7562 Tournament chips) 
+Seat 2: QwertySpark (21500 Tournament chips) 
+Seat 3: saf71 (8150 Tournament chips) 
+Seat 4: river5150 (40453 Tournament chips) 
+Seat 6: Zebo1970 (6576 Tournament chips) 
+Seat 7: JayOr (20828 Tournament chips) 
+Seat 8: uphill (14320 Tournament chips) 
+Game #23961794-57 ends
+Game #23961794-58 starts
+Seat 1: BobGail10 (7562 Tournament chips) 
+Seat 2: QwertySpark (21500 Tournament chips) 
+Seat 3: saf71 (8150 Tournament chips) 
+Seat 4: river5150 (40453 Tournament chips) 
+Seat 6: Zebo1970 (6576 Tournament chips) 
+Seat 7: JayOr (20828 Tournament chips) 
+Seat 8: uphill (14320 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+JayOr posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [600 Tournament chips]
+Zebo1970 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 7412 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 21350 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 8000 Tournament chips.
+river5150, at seat 4, is in this hand with 39703 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 5226 Tournament chips.
+JayOr, at seat 7, is in this hand with 20678 Tournament chips.
+uphill, at seat 8, is in this hand with 14170 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ As 6h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+JayOr calls [1200 Tournament chips]
+uphill raises [2400 Tournament chips]
+BobGail10 folds [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+saf71 folds [2400 Tournament chips]
+river5150 calls [1800 Tournament chips]
+Zebo1970 calls [1200 Tournament chips]
+JayOr calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 9s ] board:[ 7d 9s]
+** Dealing Flop ** [ 8d ] board:[ 7d 9s 8d]
+river5150 bets for 10650 Tournament chips
+Zebo1970 folds [4026 Tournament chips]
+JayOr folds [10650 Tournament chips]
+uphill raises all-in [11770 Tournament chips]
+river5150 calls [1120 Tournament chips]
+Tournament all-in showdown -- players show:
+river5150 shows [ Ts Tc ]
+uphill shows [ 8h 8s ]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 7d 9s 8d 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 7d 9s 8d 4h Ks]
+        (no action in this round)
+Round 4 is over.
+river5150 shows [ Ts Tc ] a pair of tens, king/nine kickers
+uphill shows [ 8h 8s ] three eights, king/nine kickers
+uphill wins main pot 34190 Tournament chips with three eights, king/nine kickers.
+Seat 1: BobGail10 (7412 Tournament chips) 
+Seat 2: QwertySpark (21350 Tournament chips) 
+Seat 3: saf71 (8000 Tournament chips) 
+Seat 4: river5150 (26133 Tournament chips) 
+Seat 6: Zebo1970 (4026 Tournament chips) 
+Seat 7: JayOr (18278 Tournament chips) 
+Seat 8: uphill (34190 Tournament chips) 
+Game #23961794-58 ends
+Game #23961794-59 starts
+Seat 1: BobGail10 (7412 Tournament chips) 
+Seat 2: QwertySpark (21350 Tournament chips) 
+Seat 3: saf71 (8000 Tournament chips) 
+Seat 4: river5150 (26133 Tournament chips) 
+Seat 6: Zebo1970 (4026 Tournament chips) 
+Seat 7: JayOr (18278 Tournament chips) 
+Seat 8: uphill (34190 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+JayOr posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [600 Tournament chips]
+JayOr posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 7262 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 21200 Tournament chips.
+saf71, at seat 3, is in this hand with 7850 Tournament chips.
+river5150, at seat 4, is in this hand with 25983 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3276 Tournament chips.
+JayOr, at seat 7, is in this hand with 16928 Tournament chips.
+uphill, at seat 8, is in this hand with 34040 Tournament chips.
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+JayOr is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ks 9s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to JayOr [ **** ]
+Dealt to uphill [ **** ]
+uphill folds [1200 Tournament chips]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark raises [4800 Tournament chips]
+saf71 raises all-in [7850 Tournament chips]
+river5150 folds [7850 Tournament chips]
+Zebo1970 folds [3276 Tournament chips]
+JayOr re-raises [10250 Tournament chips]
+QwertySpark calls [6650 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 3h ] board:[ 9h 3h]
+** Dealing Flop ** [ 4s ] board:[ 9h 3h 4s]
+JayOr goes all-in for 6678 Tournament chips
+QwertySpark calls [6678 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ks 9s ]
+saf71 shows [ Qh Qs ]
+JayOr shows [ Ac 6c ]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 9h 3h 4s 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 9h 3h 4s 4c 8h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ks 9s ] two pair, nines and fours, king kicker
+saf71 shows [ Qh Qs ] two pair, queens and fours, nine kicker
+JayOr shows [ Ac 6c ] a pair of fours, ace/nine kickers
+saf71 wins main pot 25200 Tournament chips with two pair, queens and fours, nine kicker.
+QwertySpark wins side pot #1 20556 Tournament chips with two pair, nines and fours, king kicker.
+Seat 1: BobGail10 (7262 Tournament chips) 
+Seat 2: QwertySpark (23628 Tournament chips) 
+Seat 3: saf71 (25200 Tournament chips) 
+Seat 4: river5150 (25983 Tournament chips) 
+Seat 6: Zebo1970 (3276 Tournament chips) 
+Seat 7: JayOr (0 Tournament chips) 
+Seat 8: uphill (34040 Tournament chips) 
+Game #23961794-59 ends
+Player JayOr leaves the table with 0 Tournament chips
+Game #23961794-60 starts
+Seat 1: BobGail10 (7262 Tournament chips) 
+Seat 2: QwertySpark (23628 Tournament chips) 
+Seat 3: saf71 (25200 Tournament chips) 
+Seat 4: river5150 (25983 Tournament chips) 
+Seat 6: Zebo1970 (3276 Tournament chips) 
+Seat 8: uphill (34040 Tournament chips) 
+The button is at seat 4
+BobGail10 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+The button is moved to seat 6.
+uphill posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 7112 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 23478 Tournament chips.
+saf71, at seat 3, is in this hand with 25050 Tournament chips.
+river5150, at seat 4, is in this hand with 25833 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3126 Tournament chips.
+uphill, at seat 8, is in this hand with 32690 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Jc 4c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+saf71 folds [1200 Tournament chips]
+river5150 raises [3600 Tournament chips]
+Zebo1970 folds [3126 Tournament chips]
+uphill folds [2400 Tournament chips]
+river5150 is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for river5150 (Jh Ah: ace high)
+river5150 wins main pot 3300 Tournament chips.
+Seat 1: BobGail10 (7112 Tournament chips) 
+Seat 2: QwertySpark (23478 Tournament chips) 
+Seat 3: saf71 (25050 Tournament chips) 
+Seat 4: river5150 (27933 Tournament chips) 
+Seat 6: Zebo1970 (3126 Tournament chips) 
+Seat 8: uphill (32690 Tournament chips) 
+Game #23961794-60 ends
+Game #23961794-61 starts
+Seat 1: BobGail10 (7112 Tournament chips) 
+Seat 2: QwertySpark (23478 Tournament chips) 
+Seat 3: saf71 (25050 Tournament chips) 
+Seat 4: river5150 (27933 Tournament chips) 
+Seat 6: Zebo1970 (3126 Tournament chips) 
+Seat 8: uphill (32690 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+uphill posts the small blind [600 Tournament chips]
+BobGail10 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 5762 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 23328 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 24900 Tournament chips.
+river5150, at seat 4, is in this hand with 27783 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 2976 Tournament chips.
+uphill, at seat 8, is in this hand with 31940 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 5c 2d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [1200 Tournament chips]
+saf71 folds [1200 Tournament chips]
+river5150 folds [1200 Tournament chips]
+Zebo1970 raises all-in [2976 Tournament chips]
+uphill folds [2376 Tournament chips]
+BobGail10 folds [1776 Tournament chips]
+Zebo1970 is returned 1776 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Zebo1970 (9h Ac: ace high)
+Zebo1970 wins main pot 3900 Tournament chips.
+Seat 1: BobGail10 (5762 Tournament chips) 
+Seat 2: QwertySpark (23328 Tournament chips) 
+Seat 3: saf71 (24900 Tournament chips) 
+Seat 4: river5150 (27783 Tournament chips) 
+Seat 6: Zebo1970 (5676 Tournament chips) 
+Seat 8: uphill (31940 Tournament chips) 
+Game #23961794-61 ends
+Game #23961794-62 starts
+Seat 1: BobGail10 (5762 Tournament chips) 
+Seat 2: QwertySpark (23328 Tournament chips) 
+Seat 3: saf71 (24900 Tournament chips) 
+Seat 4: river5150 (27783 Tournament chips) 
+Seat 6: Zebo1970 (5676 Tournament chips) 
+Seat 8: uphill (31940 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 5012 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 21978 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 24750 Tournament chips.
+river5150, at seat 4, is in this hand with 27633 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 5526 Tournament chips.
+uphill, at seat 8, is in this hand with 31790 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 7s 3h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [1200 Tournament chips]
+river5150 calls [1200 Tournament chips]
+Zebo1970 folds [1200 Tournament chips]
+uphill calls [1200 Tournament chips]
+BobGail10 calls [600 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Qh ] board:[ 3c Qh]
+** Dealing Flop ** [ Qs ] board:[ 3c Qh Qs]
+BobGail10 checks
+QwertySpark bets for 1200 Tournament chips
+river5150 folds [1200 Tournament chips]
+uphill folds [1200 Tournament chips]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7s 3h 3c Qh Qs: two pair, queens and threes)
+QwertySpark wins main pot 5700 Tournament chips.
+Seat 1: BobGail10 (4412 Tournament chips) 
+Seat 2: QwertySpark (27678 Tournament chips) 
+Seat 3: saf71 (24750 Tournament chips) 
+Seat 4: river5150 (26433 Tournament chips) 
+Seat 6: Zebo1970 (5526 Tournament chips) 
+Seat 8: uphill (30590 Tournament chips) 
+Game #23961794-62 ends
+Game #23961794-63 starts
+Seat 1: BobGail10 (4412 Tournament chips) 
+Seat 2: QwertySpark (27678 Tournament chips) 
+Seat 3: saf71 (24750 Tournament chips) 
+Seat 4: river5150 (26433 Tournament chips) 
+Seat 6: Zebo1970 (5526 Tournament chips) 
+Seat 8: uphill (30590 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [600 Tournament chips]
+saf71 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 4262 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 26928 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 23400 Tournament chips.
+river5150, at seat 4, is in this hand with 26283 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 5376 Tournament chips.
+uphill, at seat 8, is in this hand with 30440 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qc 4c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+river5150 calls [1200 Tournament chips]
+Zebo1970 folds [1200 Tournament chips]
+uphill folds [1200 Tournament chips]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+saf71 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 4d ] board:[ Qd 4d]
+** Dealing Flop ** [ 7h ] board:[ Qd 4d 7h]
+QwertySpark bets for 4500 Tournament chips
+saf71 folds [4500 Tournament chips]
+river5150 folds [4500 Tournament chips]
+QwertySpark is returned 4500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qc 4c Qd 4d 7h: two pair, queens and fours)
+QwertySpark wins main pot 4500 Tournament chips.
+(saf71 has entered the table, is no longer absent.)
+Seat 1: BobGail10 (4262 Tournament chips) 
+Seat 2: QwertySpark (30828 Tournament chips) 
+Seat 3: saf71 (23400 Tournament chips) 
+Seat 4: river5150 (25083 Tournament chips) 
+Seat 6: Zebo1970 (5376 Tournament chips) 
+Seat 8: uphill (30440 Tournament chips) 
+Game #23961794-63 ends
+Game #23961794-64 starts
+Seat 1: BobGail10 (4262 Tournament chips) 
+Seat 2: QwertySpark (30828 Tournament chips) 
+Seat 3: saf71 (23400 Tournament chips) 
+Seat 4: river5150 (25083 Tournament chips) 
+Seat 6: Zebo1970 (5376 Tournament chips) 
+Seat 8: uphill (30440 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [600 Tournament chips]
+river5150 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 4112 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 30678 Tournament chips.
+saf71, at seat 3, is in this hand with 22650 Tournament chips.
+river5150, at seat 4, is in this hand with 23733 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 5226 Tournament chips.
+uphill, at seat 8, is in this hand with 30290 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 5s 9s ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 folds [1200 Tournament chips]
+uphill folds [1200 Tournament chips]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+saf71 calls [600 Tournament chips]
+river5150 raises [2400 Tournament chips]
+saf71 calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 4s ] board:[ 9h 4s]
+** Dealing Flop ** [ Ad ] board:[ 9h 4s Ad]
+saf71 checks
+river5150 goes all-in for 21333 Tournament chips
+saf71 folds [19650 Tournament chips]
+river5150 is returned 21333 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for river5150 (Ah 6d 9h 4s Ad: a pair of aces)
+river5150 wins main pot 8100 Tournament chips.
+Seat 1: BobGail10 (4112 Tournament chips) 
+Seat 2: QwertySpark (30678 Tournament chips) 
+Seat 3: saf71 (19650 Tournament chips) 
+Seat 4: river5150 (29433 Tournament chips) 
+Seat 6: Zebo1970 (5226 Tournament chips) 
+Seat 8: uphill (30290 Tournament chips) 
+Game #23961794-64 ends
+Game #23961794-65 starts
+Seat 1: BobGail10 (4112 Tournament chips) 
+Seat 2: QwertySpark (30678 Tournament chips) 
+Seat 3: saf71 (19650 Tournament chips) 
+Seat 4: river5150 (29433 Tournament chips) 
+Seat 6: Zebo1970 (5226 Tournament chips) 
+Seat 8: uphill (30290 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [600 Tournament chips]
+Zebo1970 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 3962 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 30528 Tournament chips.
+saf71, at seat 3, is in this hand (absent) with 19500 Tournament chips.
+river5150, at seat 4, is in this hand with 28683 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3876 Tournament chips.
+uphill, at seat 8, is in this hand with 30140 Tournament chips.
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Qh 6c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+uphill folds [1200 Tournament chips]
+BobGail10 raises all-in [3962 Tournament chips]
+QwertySpark folds [3962 Tournament chips]
+saf71 folds [3962 Tournament chips]
+river5150 folds [3362 Tournament chips]
+(saf71 has entered the table, is no longer absent.)
+Zebo1970 folds [2762 Tournament chips]
+BobGail10 is returned 2762 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BobGail10 (5d Ad: ace high)
+BobGail10 wins main pot 3900 Tournament chips.
+Seat 1: BobGail10 (6662 Tournament chips) 
+Seat 2: QwertySpark (30528 Tournament chips) 
+Seat 3: saf71 (19500 Tournament chips) 
+Seat 4: river5150 (28683 Tournament chips) 
+Seat 6: Zebo1970 (3876 Tournament chips) 
+Seat 8: uphill (30140 Tournament chips) 
+Game #23961794-65 ends
+Game #23961794-66 starts
+Seat 1: BobGail10 (6662 Tournament chips) 
+Seat 2: QwertySpark (30528 Tournament chips) 
+Seat 3: saf71 (19500 Tournament chips) 
+Seat 4: river5150 (28683 Tournament chips) 
+Seat 6: Zebo1970 (3876 Tournament chips) 
+Seat 8: uphill (30140 Tournament chips) 
+The button is at seat 3
+BobGail10 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+The button is moved to seat 4.
+Zebo1970 posts the small blind [600 Tournament chips]
+uphill posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 6512 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 30378 Tournament chips.
+saf71, at seat 3, is in this hand with 19350 Tournament chips.
+river5150, at seat 4, is in this hand with 28533 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 3126 Tournament chips.
+uphill, at seat 8, is in this hand with 28790 Tournament chips.
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Jc 6d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+BobGail10 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+saf71 folds [1200 Tournament chips]
+river5150 calls [1200 Tournament chips]
+Zebo1970 raises all-in [3126 Tournament chips]
+uphill folds [2526 Tournament chips]
+river5150 calls [2526 Tournament chips]
+Tournament all-in showdown -- players show:
+river5150 shows [ Ad 3h ]
+Zebo1970 shows [ Ac Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 5c ] board:[ 2c 5c]
+** Dealing Flop ** [ Jd ] board:[ 2c 5c Jd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 2c 5c Jd 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 2c 5c Jd 3d Qh]
+        (no action in this round)
+Round 4 is over.
+river5150 shows [ Ad 3h ] a pair of threes, ace/queen kickers
+Zebo1970 shows [ Ac Jh ] a pair of jacks, ace/queen kickers
+Zebo1970 wins main pot 9552 Tournament chips with a pair of jacks, ace/queen kickers.
+Seat 1: BobGail10 (6512 Tournament chips) 
+Seat 2: QwertySpark (30378 Tournament chips) 
+Seat 3: saf71 (19350 Tournament chips) 
+Seat 4: river5150 (24807 Tournament chips) 
+Seat 6: Zebo1970 (9552 Tournament chips) 
+Seat 8: uphill (28790 Tournament chips) 
+Game #23961794-66 ends
+Game #23961794-67 starts
+Seat 1: BobGail10 (6512 Tournament chips) 
+Seat 2: QwertySpark (30378 Tournament chips) 
+Seat 3: saf71 (19350 Tournament chips) 
+Seat 4: river5150 (24807 Tournament chips) 
+Seat 6: Zebo1970 (9552 Tournament chips) 
+Seat 8: uphill (28790 Tournament chips) 
+The button is at seat 4
+BobGail10 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+Zebo1970 posted ante of 150 Tournament chips
+river5150 posted ante of 150 Tournament chips
+uphill posted ante of 150 Tournament chips
+The button is moved to seat 6.
+uphill posts the small blind [600 Tournament chips]
+BobGail10 posts the big blind [1200 Tournament chips]
+BobGail10, at seat 1, is in this hand with 5162 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 30228 Tournament chips.
+saf71, at seat 3, is in this hand with 19200 Tournament chips.
+river5150, at seat 4, is in this hand with 24657 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 9402 Tournament chips.
+uphill, at seat 8, is in this hand with 28040 Tournament chips.
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 6d 3c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+QwertySpark folds [1200 Tournament chips]
+saf71 folds [1200 Tournament chips]
+river5150 folds [1200 Tournament chips]
+Zebo1970 raises [5100 Tournament chips]
+uphill re-raises [8400 Tournament chips]
+BobGail10 folds [5162 Tournament chips]
+Zebo1970 raises all-in [4302 Tournament chips]
+uphill calls [402 Tournament chips]
+Tournament all-in showdown -- players show:
+Zebo1970 shows [ Ac As ]
+uphill shows [ Ad Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Ah ] board:[ 2d Ah]
+** Dealing Flop ** [ 4h ] board:[ 2d Ah 4h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 2d Ah 4h Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 2d Ah 4h Js Td]
+        (no action in this round)
+Round 4 is over.
+Zebo1970 shows [ Ac As ] three aces, jack/ten kickers
+uphill shows [ Ad Jh ] two pair, aces and jacks, ten kicker
+Zebo1970 wins main pot 20904 Tournament chips with three aces, jack/ten kickers.
+Seat 1: BobGail10 (5162 Tournament chips) 
+Seat 2: QwertySpark (30228 Tournament chips) 
+Seat 3: saf71 (19200 Tournament chips) 
+Seat 4: river5150 (24657 Tournament chips) 
+Seat 6: Zebo1970 (20904 Tournament chips) 
+Seat 8: uphill (19238 Tournament chips) 
+Game #23961794-67 ends
+Game #23961794-68 starts
+Seat 1: BobGail10 (5162 Tournament chips) 
+Seat 2: QwertySpark (30228 Tournament chips) 
+Seat 3: saf71 (19200 Tournament chips) 
+Seat 4: river5150 (24657 Tournament chips) 
+Seat 6: Zebo1970 (20904 Tournament chips) 
+Seat 8: uphill (19238 Tournament chips) 
+The button is at seat 6
+BobGail10 posted ante of 200 Tournament chips
+saf71 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+river5150 posted ante of 200 Tournament chips
+Zebo1970 posted ante of 200 Tournament chips
+uphill posted ante of 200 Tournament chips
+The button is moved to seat 8.
+BobGail10 posts the small blind [800 Tournament chips]
+QwertySpark posts the big blind [1600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 4162 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 28428 Tournament chips.
+saf71, at seat 3, is in this hand with 19000 Tournament chips.
+river5150, at seat 4, is in this hand with 24457 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 20704 Tournament chips.
+uphill, at seat 8, is in this hand with 19038 Tournament chips.
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ts 9d ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+saf71 folds [1600 Tournament chips]
+river5150 folds [1600 Tournament chips]
+Zebo1970 folds [1600 Tournament chips]
+uphill raises [3200 Tournament chips]
+BobGail10 folds [2400 Tournament chips]
+QwertySpark calls [1600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 4d ] board:[ 2c 4d]
+** Dealing Flop ** [ 6h ] board:[ 2c 4d 6h]
+QwertySpark bets for 3200 Tournament chips
+uphill calls [3200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 2c 4d 6h 4h]
+QwertySpark bets for 4800 Tournament chips
+uphill folds [4800 Tournament chips]
+QwertySpark is returned 4800 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ts 9d 4d 6h 4h: a pair of fours)
+QwertySpark wins main pot 14800 Tournament chips.
+Seat 1: BobGail10 (4162 Tournament chips) 
+Seat 2: QwertySpark (38428 Tournament chips) 
+Seat 3: saf71 (19000 Tournament chips) 
+Seat 4: river5150 (24457 Tournament chips) 
+Seat 6: Zebo1970 (20704 Tournament chips) 
+Seat 8: uphill (12638 Tournament chips) 
+Game #23961794-68 ends
+Game #23961794-69 starts
+Seat 1: BobGail10 (4162 Tournament chips) 
+Seat 2: QwertySpark (38428 Tournament chips) 
+Seat 3: saf71 (19000 Tournament chips) 
+Seat 4: river5150 (24457 Tournament chips) 
+Seat 6: Zebo1970 (20704 Tournament chips) 
+Seat 8: uphill (12638 Tournament chips) 
+The button is at seat 8
+BobGail10 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+saf71 posted ante of 200 Tournament chips
+river5150 posted ante of 200 Tournament chips
+Zebo1970 posted ante of 200 Tournament chips
+uphill posted ante of 200 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [800 Tournament chips]
+saf71 posts the big blind [1600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 3962 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 37428 Tournament chips.
+saf71, at seat 3, is in this hand with 17200 Tournament chips.
+river5150, at seat 4, is in this hand (absent) with 24257 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 20504 Tournament chips.
+uphill, at seat 8, is in this hand with 12438 Tournament chips.
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 3d 2c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+river5150 folds [1600 Tournament chips]
+Zebo1970 folds [1600 Tournament chips]
+uphill folds [1600 Tournament chips]
+BobGail10 folds [1600 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+saf71 checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 8c ] board:[ 2d 8c]
+** Dealing Flop ** [ Jc ] board:[ 2d 8c Jc]
+QwertySpark bets for 1600 Tournament chips
+saf71 folds [1600 Tournament chips]
+QwertySpark is returned 1600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (3d 2c 2d 8c Jc: a pair of deuces)
+QwertySpark wins main pot 4400 Tournament chips.
+(saf71 has entered the table, is no longer absent.)
+Seat 1: BobGail10 (3962 Tournament chips) 
+Seat 2: QwertySpark (41028 Tournament chips) 
+Seat 3: saf71 (17200 Tournament chips) 
+Seat 4: river5150 (24257 Tournament chips) 
+Seat 6: Zebo1970 (20504 Tournament chips) 
+Seat 8: uphill (12438 Tournament chips) 
+Game #23961794-69 ends
+Game #23961794-70 starts
+Seat 1: BobGail10 (3962 Tournament chips) 
+Seat 2: QwertySpark (41028 Tournament chips) 
+Seat 3: saf71 (17200 Tournament chips) 
+Seat 4: river5150 (24257 Tournament chips) 
+Seat 6: Zebo1970 (20504 Tournament chips) 
+Seat 8: uphill (12438 Tournament chips) 
+The button is at seat 1
+BobGail10 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+saf71 posted ante of 200 Tournament chips
+river5150 posted ante of 200 Tournament chips
+Zebo1970 posted ante of 200 Tournament chips
+uphill posted ante of 200 Tournament chips
+The button is moved to seat 2.
+saf71 posts the small blind [800 Tournament chips]
+river5150 posts the big blind [1600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 3762 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 40828 Tournament chips.
+saf71, at seat 3, is in this hand with 16200 Tournament chips.
+river5150, at seat 4, is in this hand (absent) with 22457 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 20304 Tournament chips.
+uphill, at seat 8, is in this hand with 12238 Tournament chips.
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ Ad 3h ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 raises [3200 Tournament chips]
+uphill folds [3200 Tournament chips]
+BobGail10 folds [3200 Tournament chips]
+QwertySpark folds [3200 Tournament chips]
+saf71 calls [2400 Tournament chips]
+river5150 calls [1600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 2c ] board:[ Jd 2c]
+** Dealing Flop ** [ 6d ] board:[ Jd 2c 6d]
+saf71 checks
+river5150 checks
+Zebo1970 bets for 1600 Tournament chips
+saf71 folds [1600 Tournament chips]
+river5150 folds [1600 Tournament chips]
+Zebo1970 is returned 1600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Zebo1970 (8d 8c Jd 2c 6d: a pair of eights)
+Zebo1970 wins main pot 10800 Tournament chips.
+Seat 1: BobGail10 (3762 Tournament chips) 
+Seat 2: QwertySpark (40828 Tournament chips) 
+Seat 3: saf71 (13800 Tournament chips) 
+Seat 4: river5150 (20857 Tournament chips) 
+Seat 5: Earthee1 (10137 Tournament chips) 
+Seat 6: Zebo1970 (27904 Tournament chips) 
+Seat 8: uphill (12238 Tournament chips) 
+Game #23961794-70 ends
+Game #23961794-71 starts
+Seat 1: BobGail10 (3762 Tournament chips) 
+Seat 2: QwertySpark (40828 Tournament chips) 
+Seat 3: saf71 (13800 Tournament chips) 
+Seat 4: river5150 (20857 Tournament chips) 
+Seat 5: Earthee1 (10137 Tournament chips) 
+Seat 6: Zebo1970 (27904 Tournament chips) 
+Seat 8: uphill (12238 Tournament chips) 
+The button is at seat 2
+BobGail10 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+saf71 posted ante of 200 Tournament chips
+river5150 posted ante of 200 Tournament chips
+Zebo1970 posted ante of 200 Tournament chips
+Earthee1 posted ante of 200 Tournament chips
+uphill posted ante of 200 Tournament chips
+The button is moved to seat 3.
+river5150 posts the small blind [800 Tournament chips]
+Earthee1 posts the big blind [1600 Tournament chips]
+BobGail10, at seat 1, is in this hand with 3562 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 40628 Tournament chips.
+saf71, at seat 3, is in this hand with 13600 Tournament chips.
+river5150, at seat 4, is in this hand with 19857 Tournament chips.
+Earthee1, at seat 5, is in this hand with 8337 Tournament chips.
+Zebo1970, at seat 6, is in this hand with 27704 Tournament chips.
+uphill, at seat 8, is in this hand with 12038 Tournament chips.
+river5150 is dealt: **
+Earthee1 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+river5150 is dealt: **
+Earthee1 is dealt: **
+Zebo1970 is dealt: **
+uphill is dealt: **
+BobGail10 is dealt: **
+
+saf71 is dealt: **
+Dealt to BobGail10 [ **** ]
+Dealt to QwertySpark [ 8d 8c ]
+Dealt to saf71 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to Earthee1 [ **** ]
+Dealt to Zebo1970 [ **** ]
+Dealt to uphill [ **** ]
+Zebo1970 calls [1600 Tournament chips]
+uphill folds [1600 Tournament chips]
+BobGail10 calls [1600 Tournament chips]
+QwertySpark raises [8000 Tournament chips]
+saf71 raises all-in [13600 Tournament chips]
+river5150 folds [12800 Tournament chips]
+Earthee1 calls all-in [8337 Tournament chips]
+Zebo1970 folds [12000 Tournament chips]
+BobGail10 calls all-in [1962 Tournament chips]
+QwertySpark calls [5600 Tournament chips]
+Tournament all-in showdown -- players show:
+BobGail10 shows [ Jd As ]
+QwertySpark shows [ 8d 8c ]
+saf71 shows [ Ts Kh ]
+Earthee1 shows [ 6s 9s ]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 4d ] board:[ 5c 4d]
+** Dealing Flop ** [ 3d ] board:[ 5c 4d 3d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 5c 4d 3d 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 5c 4d 3d 8s 7c]
+        (no action in this round)
+Round 4 is over.
+BobGail10 shows [ Jd As ] ace/jack/eight high
+QwertySpark shows [ 8d 8c ] three eights, seven/five kickers
+saf71 shows [ Ts Kh ] king/ten/eight high
+Earthee1 shows [ 6s 9s ] straight, nine high
+Earthee1 wins main pot 18048 Tournament chips with straight, nine high.
+Earthee1 wins side pot #1 19125 Tournament chips with straight, nine high.
+QwertySpark wins side pot #2 7326 Tournament chips with three eights, seven/five kickers.
+Seat 1: BobGail10 (0 Tournament chips) 
+Seat 2: QwertySpark (34354 Tournament chips) 
+Seat 3: saf71 (0 Tournament chips) 
+Seat 4: river5150 (19857 Tournament chips) 
+Seat 5: Earthee1 (37173 Tournament chips) 
+Seat 6: Zebo1970 (26104 Tournament chips) 
+Seat 8: uphill (12038 Tournament chips) 
+Game #23961794-71 ends
+Player BobGail10 leaves the table with 0 Tournament chips
+Player saf71 leaves the table with 0 Tournament chips
+Player Zebo1970 leaves the table with 26104 Tournament chips
+Player QwertySpark leaves the table with 34354 Tournament chips
+Player Earthee1 leaves the table with 37173 Tournament chips
+Player river5150 leaves the table with 19857 Tournament chips
+Player uphill leaves the table with 12038 Tournament chips

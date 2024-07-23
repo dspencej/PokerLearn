@@ -1,0 +1,685 @@
+Game#: 23960600
+hedonist012 folds [300 Tournament chips]
+gibb66 folds [300 Tournament chips]
+nyte63 calls [300 Tournament chips]
+Twinmom08 calls [300 Tournament chips]
+Pokerhero88 calls [150 Tournament chips]
+Limacricket1 checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 4h ] board:[ 4d 4h]
+** Dealing Flop ** [ 2s ] board:[ 4d 4h 2s]
+Pokerhero88 checks
+Limacricket1 checks
+nyte63 checks
+Twinmom08 bets for 300 Tournament chips
+Pokerhero88 folds [300 Tournament chips]
+Limacricket1 folds [300 Tournament chips]
+nyte63 folds [300 Tournament chips]
+Twinmom08 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Twinmom08 (Ah Jh 4d 4h 2s: a pair of fours)
+Twinmom08 wins main pot 1200 Tournament chips.
+Seat 1: Twinmom08 (2990 Tournament chips) 
+Seat 2: QwertySpark (1820 Tournament chips) 
+Seat 3: Pokerhero88 (2475 Tournament chips) 
+Seat 4: Limacricket1 (7175 Tournament chips) 
+Seat 5: morelove21 (7948 Tournament chips) 
+Seat 6: hedonist012 (4990 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1914 Tournament chips) 
+Game #23960600-25 ends
+Game #23960600-26 starts
+Seat 1: Twinmom08 (2990 Tournament chips) 
+Seat 2: QwertySpark (1820 Tournament chips) 
+Seat 3: Pokerhero88 (2475 Tournament chips) 
+Seat 4: Limacricket1 (7175 Tournament chips) 
+Seat 5: morelove21 (7948 Tournament chips) 
+Seat 6: hedonist012 (4990 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1914 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+Limacricket1 posts the small blind [150 Tournament chips]
+morelove21 posts the big blind [300 Tournament chips]
+Twinmom08, at seat 1, is in this hand with 2990 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1820 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 2475 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 7025 Tournament chips.
+morelove21, at seat 5, is in this hand with 7648 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4990 Tournament chips.
+gibb66, at seat 7, is in this hand with 1761 Tournament chips.
+nyte63, at seat 8, is in this hand with 1914 Tournament chips.
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Dealt to Twinmom08 [ **** ]
+Dealt to QwertySpark [ 6d 5d ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Dealt to nyte63 [ **** ]
+hedonist012 folds [300 Tournament chips]
+gibb66 folds [300 Tournament chips]
+nyte63 folds [300 Tournament chips]
+Twinmom08 calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Pokerhero88 calls [300 Tournament chips]
+Limacricket1 calls [150 Tournament chips]
+morelove21 checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 9h ] board:[ 8c 9h]
+** Dealing Flop ** [ 6s ] board:[ 8c 9h 6s]
+Limacricket1 checks
+morelove21 bets for 1500 Tournament chips
+Twinmom08 folds [1500 Tournament chips]
+QwertySpark folds [1500 Tournament chips]
+Pokerhero88 raises all-in [2175 Tournament chips]
+Limacricket1 folds [2175 Tournament chips]
+morelove21 calls [675 Tournament chips]
+Tournament all-in showdown -- players show:
+Pokerhero88 shows [ 7h Ks ]
+morelove21 shows [ Qd 8h ]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 8c 9h 6s 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 8c 9h 6s 4c 5s]
+        (no action in this round)
+Round 4 is over.
+Pokerhero88 shows [ 7h Ks ] straight, nine high
+morelove21 shows [ Qd 8h ] a pair of eights, queen/nine kickers
+Pokerhero88 wins main pot 5850 Tournament chips with straight, nine high.
+Seat 1: Twinmom08 (2690 Tournament chips) 
+Seat 2: QwertySpark (1520 Tournament chips) 
+Seat 3: Pokerhero88 (5850 Tournament chips) 
+Seat 4: Limacricket1 (6875 Tournament chips) 
+Seat 5: morelove21 (5473 Tournament chips) 
+Seat 6: hedonist012 (4990 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1914 Tournament chips) 
+Game #23960600-26 ends
+Game #23960600-27 starts
+Seat 1: Twinmom08 (2690 Tournament chips) 
+Seat 2: QwertySpark (1520 Tournament chips) 
+Seat 3: Pokerhero88 (5850 Tournament chips) 
+Seat 4: Limacricket1 (6875 Tournament chips) 
+Seat 5: morelove21 (5473 Tournament chips) 
+Seat 6: hedonist012 (4990 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1914 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+morelove21 posts the small blind [150 Tournament chips]
+hedonist012 posts the big blind [300 Tournament chips]
+Twinmom08, at seat 1, is in this hand with 2690 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1520 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 5850 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6875 Tournament chips.
+morelove21, at seat 5, is in this hand with 5323 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4690 Tournament chips.
+gibb66, at seat 7, is in this hand with 1761 Tournament chips.
+nyte63, at seat 8, is in this hand with 1914 Tournament chips.
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+Dealt to Twinmom08 [ **** ]
+Dealt to QwertySpark [ Qd 3s ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Dealt to nyte63 [ **** ]
+gibb66 folds [300 Tournament chips]
+nyte63 calls [300 Tournament chips]
+Twinmom08 calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Pokerhero88 folds [300 Tournament chips]
+Limacricket1 folds [300 Tournament chips]
+morelove21 raises [450 Tournament chips]
+hedonist012 folds [300 Tournament chips]
+nyte63 calls [300 Tournament chips]
+Twinmom08 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 6c ] board:[ Jc 6c]
+** Dealing Flop ** [ As ] board:[ Jc 6c As]
+morelove21 has timed out - the hand is checked
+nyte63 checks
+Twinmom08 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Jc 6c As 7h]
+morelove21 bets for 1050 Tournament chips
+nyte63 folds [1050 Tournament chips]
+Twinmom08 folds [1050 Tournament chips]
+morelove21 is returned 1050 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for morelove21 (7d 8d Jc As 7h: a pair of sevens)
+morelove21 wins main pot 2100 Tournament chips.
+Seat 1: Twinmom08 (2090 Tournament chips) 
+Seat 2: QwertySpark (1520 Tournament chips) 
+Seat 3: Pokerhero88 (5850 Tournament chips) 
+Seat 4: Limacricket1 (6875 Tournament chips) 
+Seat 5: morelove21 (6973 Tournament chips) 
+Seat 6: hedonist012 (4690 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1314 Tournament chips) 
+Game #23960600-27 ends
+Game #23960600-28 starts
+Seat 1: Twinmom08 (2090 Tournament chips) 
+Seat 2: QwertySpark (1520 Tournament chips) 
+Seat 3: Pokerhero88 (5850 Tournament chips) 
+Seat 4: Limacricket1 (6875 Tournament chips) 
+Seat 5: morelove21 (6973 Tournament chips) 
+Seat 6: hedonist012 (4690 Tournament chips) 
+Seat 7: gibb66 (1761 Tournament chips) 
+Seat 8: nyte63 (1314 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+Pokerhero88 posted ante of 25 Tournament chips
+Twinmom08 posted ante of 25 Tournament chips
+Limacricket1 posted ante of 25 Tournament chips
+morelove21 posted ante of 25 Tournament chips
+hedonist012 posted ante of 25 Tournament chips
+gibb66 posted ante of 25 Tournament chips
+nyte63 posted ante of 25 Tournament chips
+The button is moved to seat 5.
+hedonist012 posts the small blind [150 Tournament chips]
+gibb66 posts the big blind [300 Tournament chips]
+Twinmom08, at seat 1, is in this hand with 2065 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1495 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 5825 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6850 Tournament chips.
+morelove21, at seat 5, is in this hand with 6948 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4515 Tournament chips.
+gibb66, at seat 7, is in this hand with 1436 Tournament chips.
+nyte63, at seat 8, is in this hand with 1289 Tournament chips.
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+Dealt to Twinmom08 [ **** ]
+Dealt to QwertySpark [ Kc 4d ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Dealt to nyte63 [ **** ]
+nyte63 folds [300 Tournament chips]
+Twinmom08 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Pokerhero88 folds [300 Tournament chips]
+Limacricket1 folds [300 Tournament chips]
+morelove21 folds [300 Tournament chips]
+hedonist012 calls [150 Tournament chips]
+gibb66 checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Td ] board:[ 2d Td]
+** Dealing Flop ** [ Kh ] board:[ 2d Td Kh]
+hedonist012 checks
+gibb66 checks
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 2d Td Kh 4c]
+hedonist012 checks
+gibb66 checks
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 2d Td Kh 4c 9s]
+hedonist012 checks
+gibb66 checks
+Round 4 is over.
+hedonist012 shows [ Qs 7s ] king high
+Hand evaluation for hedonist012 (Qs 7s Td Kh 9s: king high)
+gibb66 shows [ 7c Qd ] king high
+Hand evaluation for gibb66 (7c Qd Td Kh 9s: king high)
+hedonist012 wins main pot 400 Tournament chips of a 800 Tournament chips pot with king/queen/ten high.
+gibb66 wins main pot 400 Tournament chips of a 800 Tournament chips pot with king/queen/ten high.
+Seat 1: Twinmom08 (2065 Tournament chips) 
+Seat 2: QwertySpark (1495 Tournament chips) 
+Seat 3: Pokerhero88 (5825 Tournament chips) 
+Seat 4: Limacricket1 (6850 Tournament chips) 
+Seat 5: morelove21 (6948 Tournament chips) 
+Seat 6: hedonist012 (4765 Tournament chips) 
+Seat 7: gibb66 (1836 Tournament chips) 
+Seat 8: nyte63 (1289 Tournament chips) 
+Game #23960600-28 ends
+Game #23960600-29 starts
+Seat 1: Twinmom08 (2065 Tournament chips) 
+Seat 2: QwertySpark (1495 Tournament chips) 
+Seat 3: Pokerhero88 (5825 Tournament chips) 
+Seat 4: Limacricket1 (6850 Tournament chips) 
+Seat 5: morelove21 (6948 Tournament chips) 
+Seat 6: hedonist012 (4765 Tournament chips) 
+Seat 7: gibb66 (1836 Tournament chips) 
+Seat 8: nyte63 (1289 Tournament chips) 
+The button is at seat 5
+Pokerhero88 posted ante of 25 Tournament chips
+Twinmom08 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Limacricket1 posted ante of 25 Tournament chips
+morelove21 posted ante of 25 Tournament chips
+hedonist012 posted ante of 25 Tournament chips
+gibb66 posted ante of 25 Tournament chips
+nyte63 posted ante of 25 Tournament chips
+The button is moved to seat 6.
+gibb66 posts the small blind [150 Tournament chips]
+nyte63 posts the big blind [300 Tournament chips]
+Twinmom08, at seat 1, is in this hand with 2040 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1470 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 5800 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6825 Tournament chips.
+morelove21, at seat 5, is in this hand with 6923 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4740 Tournament chips.
+gibb66, at seat 7, is in this hand with 1661 Tournament chips.
+nyte63, at seat 8, is in this hand with 964 Tournament chips.
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+Dealt to Twinmom08 [ **** ]
+Dealt to QwertySpark [ 9s Kc ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Dealt to nyte63 [ **** ]
+Twinmom08 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Pokerhero88 calls [300 Tournament chips]
+Limacricket1 folds [300 Tournament chips]
+morelove21 folds [300 Tournament chips]
+hedonist012 folds [300 Tournament chips]
+gibb66 calls [150 Tournament chips]
+nyte63 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Ah ] board:[ 9h Ah]
+** Dealing Flop ** [ 2s ] board:[ 9h Ah 2s]
+gibb66 checks
+nyte63 checks
+Pokerhero88 bets for 550 Tournament chips
+gibb66 folds [550 Tournament chips]
+nyte63 folds [550 Tournament chips]
+Pokerhero88 is returned 550 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Pokerhero88 (3s Ac 9h Ah 2s: a pair of aces)
+Pokerhero88 wins main pot 1100 Tournament chips.
+Seat 1: Twinmom08 (2040 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: Pokerhero88 (6600 Tournament chips) 
+Seat 4: Limacricket1 (6825 Tournament chips) 
+Seat 5: morelove21 (6923 Tournament chips) 
+Seat 6: hedonist012 (4740 Tournament chips) 
+Seat 7: gibb66 (1511 Tournament chips) 
+Seat 8: nyte63 (964 Tournament chips) 
+Game #23960600-29 ends
+Game #23960600-30 starts
+Seat 1: Twinmom08 (2040 Tournament chips) 
+Seat 2: QwertySpark (1470 Tournament chips) 
+Seat 3: Pokerhero88 (6600 Tournament chips) 
+Seat 4: Limacricket1 (6825 Tournament chips) 
+Seat 5: morelove21 (6923 Tournament chips) 
+Seat 6: hedonist012 (4740 Tournament chips) 
+Seat 7: gibb66 (1511 Tournament chips) 
+Seat 8: nyte63 (964 Tournament chips) 
+The button is at seat 6
+Twinmom08 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Pokerhero88 posted ante of 25 Tournament chips
+Limacricket1 posted ante of 25 Tournament chips
+morelove21 posted ante of 25 Tournament chips
+hedonist012 posted ante of 25 Tournament chips
+gibb66 posted ante of 25 Tournament chips
+nyte63 posted ante of 25 Tournament chips
+The button is moved to seat 7.
+nyte63 posts the small blind [150 Tournament chips]
+Twinmom08 posts the big blind [300 Tournament chips]
+Twinmom08, at seat 1, is in this hand with 1715 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1445 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 6575 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6800 Tournament chips.
+morelove21, at seat 5, is in this hand with 6898 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4715 Tournament chips.
+gibb66, at seat 7, is in this hand with 1486 Tournament chips.
+nyte63, at seat 8, is in this hand with 789 Tournament chips.
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+nyte63 is dealt: **
+Twinmom08 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+Dealt to Twinmom08 [ **** ]
+Dealt to QwertySpark [ 2h 9c ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Dealt to nyte63 [ **** ]
+QwertySpark folds [300 Tournament chips]
+Pokerhero88 raises [600 Tournament chips]
+Limacricket1 folds [600 Tournament chips]
+morelove21 calls [600 Tournament chips]
+hedonist012 folds [600 Tournament chips]
+gibb66 folds [600 Tournament chips]
+nyte63 raises all-in [789 Tournament chips]
+Twinmom08 raises all-in [1715 Tournament chips]
+Pokerhero88 calls [1415 Tournament chips]
+morelove21 calls [1415 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 5h ] board:[ 6s 5h]
+** Dealing Flop ** [ 2c ] board:[ 6s 5h 2c]
+Pokerhero88 checks
+morelove21 checks
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 6s 5h 2c Ad]
+Pokerhero88 goes all-in for 4560 Tournament chips
+morelove21 folds [4560 Tournament chips]
+Pokerhero88 is returned 4560 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Twinmom08 shows [ Kh Qc ]
+Pokerhero88 shows [ Ac 4c ]
+nyte63 shows [ Qh Qs ]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 6s 5h 2c Ad 5c]
+        (no action in this round)
+Round 4 is over.
+Twinmom08 shows [ Kh Qc ] a pair of fives, ace/king kickers
+Pokerhero88 shows [ Ac 4c ] two pair, aces and fives, six kicker
+nyte63 shows [ Qh Qs ] two pair, queens and fives, ace kicker
+Pokerhero88 wins main pot 3956 Tournament chips with two pair, aces and fives, six kicker.
+Pokerhero88 wins side pot #1 3228 Tournament chips with two pair, aces and fives, six kicker.
+Seat 1: Twinmom08 (0 Tournament chips) 
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: Pokerhero88 (11744 Tournament chips) 
+Seat 4: Limacricket1 (6800 Tournament chips) 
+Seat 5: morelove21 (4883 Tournament chips) 
+Seat 6: hedonist012 (4715 Tournament chips) 
+Seat 7: gibb66 (1486 Tournament chips) 
+Seat 8: nyte63 (0 Tournament chips) 
+Game #23960600-30 ends
+Player nyte63 leaves the table with 0 Tournament chips
+Player Twinmom08 leaves the table with 0 Tournament chips
+Game #23960600-31 starts
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: Pokerhero88 (11744 Tournament chips) 
+Seat 4: Limacricket1 (6800 Tournament chips) 
+Seat 5: morelove21 (4883 Tournament chips) 
+Seat 6: hedonist012 (4715 Tournament chips) 
+Seat 7: gibb66 (1486 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 50 Tournament chips
+Pokerhero88 posted ante of 50 Tournament chips
+Limacricket1 posted ante of 50 Tournament chips
+morelove21 posted ante of 50 Tournament chips
+hedonist012 posted ante of 50 Tournament chips
+gibb66 posted ante of 50 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the big blind [400 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 995 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 11694 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6750 Tournament chips.
+morelove21, at seat 5, is in this hand with 4833 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4665 Tournament chips.
+gibb66, at seat 7, is in this hand with 1436 Tournament chips.
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+Dealt to QwertySpark [ As 7s ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Pokerhero88 folds [400 Tournament chips]
+Limacricket1 folds [400 Tournament chips]
+morelove21 folds [400 Tournament chips]
+hedonist012 folds [400 Tournament chips]
+gibb66 folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As 7s: ace high)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 2: QwertySpark (1695 Tournament chips) 
+Seat 3: Pokerhero88 (11694 Tournament chips) 
+Seat 4: Limacricket1 (6750 Tournament chips) 
+Seat 5: morelove21 (4833 Tournament chips) 
+Seat 6: hedonist012 (4665 Tournament chips) 
+Seat 7: gibb66 (1436 Tournament chips) 
+Game #23960600-31 ends
+Game #23960600-32 starts
+Seat 2: QwertySpark (1695 Tournament chips) 
+Seat 3: Pokerhero88 (11694 Tournament chips) 
+Seat 4: Limacricket1 (6750 Tournament chips) 
+Seat 5: morelove21 (4833 Tournament chips) 
+Seat 6: hedonist012 (4665 Tournament chips) 
+Seat 7: gibb66 (1436 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+Pokerhero88 posted ante of 50 Tournament chips
+Limacricket1 posted ante of 50 Tournament chips
+morelove21 posted ante of 50 Tournament chips
+hedonist012 posted ante of 50 Tournament chips
+gibb66 posted ante of 50 Tournament chips
+QwertySpark posts the small blind [200 Tournament chips]
+Pokerhero88 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 1445 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 11244 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6700 Tournament chips.
+morelove21, at seat 5, is in this hand with 4783 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4615 Tournament chips.
+gibb66, at seat 7, is in this hand with 1386 Tournament chips.
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+gibb66 is dealt: **
+Dealt to QwertySpark [ 9s 5c ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+Dealt to gibb66 [ **** ]
+Limacricket1 folds [400 Tournament chips]
+morelove21 raises [1700 Tournament chips]
+hedonist012 folds [1700 Tournament chips]
+gibb66 calls all-in [1386 Tournament chips]
+QwertySpark folds [1445 Tournament chips]
+Pokerhero88 folds [1300 Tournament chips]
+morelove21 is returned 314 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+morelove21 shows [ Js Ad ]
+gibb66 shows [ Kc Kd ]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Ah ] board:[ 7c Ah]
+** Dealing Flop ** [ Tc ] board:[ 7c Ah Tc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 7c Ah Tc Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 7c Ah Tc Qc 3d]
+        (no action in this round)
+Round 4 is over.
+morelove21 shows [ Js Ad ] a pair of aces, queen/jack kickers
+gibb66 shows [ Kc Kd ] a pair of kings, ace/queen kickers
+morelove21 wins main pot 3672 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 0: CasandraRules (4358 Tournament chips) 
+Seat 1: sal1955 (3780 Tournament chips) 
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: Pokerhero88 (11244 Tournament chips) 
+Seat 4: Limacricket1 (6700 Tournament chips) 
+Seat 5: morelove21 (7069 Tournament chips) 
+Seat 6: hedonist012 (4615 Tournament chips) 
+Seat 7: gibb66 (0 Tournament chips) 
+Game #23960600-32 ends
+Player gibb66 leaves the table with 0 Tournament chips
+Game #23960600-33 starts
+Seat 0: CasandraRules (4358 Tournament chips) 
+Seat 1: sal1955 (3780 Tournament chips) 
+Seat 2: QwertySpark (1445 Tournament chips) 
+Seat 3: Pokerhero88 (11244 Tournament chips) 
+Seat 4: Limacricket1 (6700 Tournament chips) 
+Seat 5: morelove21 (7069 Tournament chips) 
+Seat 6: hedonist012 (4615 Tournament chips) 
+The button is at seat 8
+CasandraRules posted ante of 50 Tournament chips
+sal1955 posted ante of 50 Tournament chips
+Pokerhero88 posted ante of 50 Tournament chips
+Limacricket1 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+morelove21 posted ante of 50 Tournament chips
+hedonist012 posted ante of 50 Tournament chips
+The button is moved to seat 2.
+Pokerhero88 posts the small blind [200 Tournament chips]
+Limacricket1 posts the big blind [400 Tournament chips]
+CasandraRules, at seat 0, is in this hand with 4308 Tournament chips.
+sal1955, at seat 1, is in this hand with 3730 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1395 Tournament chips.
+Pokerhero88, at seat 3, is in this hand with 10994 Tournament chips.
+Limacricket1, at seat 4, is in this hand with 6250 Tournament chips.
+morelove21, at seat 5, is in this hand with 7019 Tournament chips.
+hedonist012, at seat 6, is in this hand with 4565 Tournament chips.
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+CasandraRules is dealt: **
+sal1955 is dealt: **
+
+Pokerhero88 is dealt: **
+Limacricket1 is dealt: **
+morelove21 is dealt: **
+hedonist012 is dealt: **
+CasandraRules is dealt: **
+sal1955 is dealt: **
+
+Dealt to CasandraRules [ **** ]
+Dealt to sal1955 [ **** ]
+Dealt to QwertySpark [ Jc Kd ]
+Dealt to Pokerhero88 [ **** ]
+Dealt to Limacricket1 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to hedonist012 [ **** ]
+morelove21 folds [400 Tournament chips]
+hedonist012 folds [400 Tournament chips]
+CasandraRules calls [400 Tournament chips]
+sal1955 folds [400 Tournament chips]
+QwertySpark raises all-in [1395 Tournament chips]
+Pokerhero88 folds [1195 Tournament chips]
+Limacricket1 calls [995 Tournament chips]
+CasandraRules calls [995 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8d ] board:[ Qs 8d]
+** Dealing Flop ** [ 7c ] board:[ Qs 8d 7c]
+Limacricket1 checks
+CasandraRules checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Qs 8d 7c 3d]
+Limacricket1 bets for 2367 Tournament chips
+CasandraRules folds [2367 Tournament chips]
+Limacricket1 is returned 2367 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jc Kd ]
+Limacricket1 shows [ Ts 8h ]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Qs 8d 7c 3d 9d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jc Kd ] king/queen/jack high
+Limacricket1 shows [ Ts 8h ] a pair of eights, queen/ten kickers
+Limacricket1 wins main pot 4735 Tournament chips with a pair of eights, queen/ten kickers.
+Seat 0: CasandraRules (2913 Tournament chips) 
+Seat 1: sal1955 (3730 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: Pokerhero88 (10994 Tournament chips) 
+Seat 4: Limacricket1 (9990 Tournament chips) 
+Seat 5: morelove21 (7019 Tournament chips) 
+Seat 6: hedonist012 (4565 Tournament chips) 
+Game #23960600-33 ends
+Player QwertySpark leaves the table with 0 Tournament chips

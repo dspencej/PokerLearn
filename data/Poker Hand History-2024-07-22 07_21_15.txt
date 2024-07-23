@@ -1,0 +1,105 @@
+Game#: 23937040
+QwertySpark is dealt: 5h
+LauerJL is dealt: **
+73ventura is dealt: **
+dawnslover06 is dealt: **
+baldnuggett is dealt: **
+mogreen555 is dealt: **
+Juan1732 is dealt: **
+Gman102505 is dealt: **
+tedders_nc is dealt: **
+The button is moved to seat 4.
+Game #23937040-1 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: LauerJL (7500 Tournament chips) 
+Seat 2: 73ventura (7500 Tournament chips) 
+Seat 3: dawnslover06 (7500 Tournament chips) 
+Seat 4: baldnuggett (7500 Tournament chips) 
+Seat 5: mogreen555 (7500 Tournament chips) 
+Seat 6: Juan1732 (7500 Tournament chips) 
+Seat 7: Gman102505 (7500 Tournament chips) 
+Seat 8: tedders_nc (7500 Tournament chips) 
+The button is at seat 4
+mogreen555 posts the small blind [25 Tournament chips]
+Juan1732 posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+LauerJL, at seat 1, is in this hand with 7500 Tournament chips.
+73ventura, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+dawnslover06, at seat 3, is in this hand with 7500 Tournament chips.
+baldnuggett, at seat 4, is in this hand with 7500 Tournament chips.
+mogreen555, at seat 5, is in this hand (absent) with 7475 Tournament chips.
+Juan1732, at seat 6, is in this hand (absent) with 7450 Tournament chips.
+Gman102505, at seat 7, is in this hand with 7500 Tournament chips.
+tedders_nc, at seat 8, is in this hand with 7500 Tournament chips.
+mogreen555 is dealt: **
+Juan1732 is dealt: **
+Gman102505 is dealt: **
+tedders_nc is dealt: **
+
+LauerJL is dealt: **
+73ventura is dealt: **
+dawnslover06 is dealt: **
+baldnuggett is dealt: **
+mogreen555 is dealt: **
+Juan1732 is dealt: **
+Gman102505 is dealt: **
+tedders_nc is dealt: **
+
+LauerJL is dealt: **
+73ventura is dealt: **
+dawnslover06 is dealt: **
+baldnuggett is dealt: **
+Dealt to QwertySpark [ Ad 3c ]
+Dealt to LauerJL [ **** ]
+Dealt to 73ventura [ **** ]
+Dealt to dawnslover06 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to mogreen555 [ **** ]
+Dealt to Juan1732 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to tedders_nc [ **** ]
+Gman102505 folds [50 Tournament chips]
+tedders_nc calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+LauerJL raises [300 Tournament chips]
+73ventura folds [300 Tournament chips]
+dawnslover06 folds [300 Tournament chips]
+baldnuggett folds [300 Tournament chips]
+mogreen555 folds [275 Tournament chips]
+Juan1732 folds [250 Tournament chips]
+tedders_nc calls [250 Tournament chips]
+QwertySpark calls [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 5h ] board:[ Qd 5h]
+** Dealing Flop ** [ 4c ] board:[ Qd 5h 4c]
+tedders_nc checks
+QwertySpark checks
+LauerJL bets for 300 Tournament chips
+tedders_nc folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Qd 5h 4c 8d]
+QwertySpark checks
+LauerJL checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Qd 5h 4c 8d 6s]
+QwertySpark bets for 1575 Tournament chips
+LauerJL folds [1575 Tournament chips]
+QwertySpark is returned 1575 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ad Qd 5h 8d 6s: ace high)
+QwertySpark wins main pot 1575 Tournament chips.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: LauerJL (6900 Tournament chips) 
+Seat 2: 73ventura (7500 Tournament chips) 
+Seat 3: dawnslover06 (7500 Tournament chips) 
+Seat 4: baldnuggett (7500 Tournament chips) 
+Seat 5: mogreen555 (7475 Tournament chips) 
+Seat 6: Juan1732 (7450 Tournament chips) 
+Seat 7: Gman102505 (7500 Tournament chips) 
+Seat 8: tedders_nc (7200 Tournament chips) 
+Game #23937040-1 ends
+Player 73ventura leaves the table with 7500 Tournament chips
+Player QwertySpark leaves the table with 8475 Tournament chips
+Player Gman102505 leaves the table with 7500 Tournament chips

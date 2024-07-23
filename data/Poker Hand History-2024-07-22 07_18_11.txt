@@ -1,0 +1,103 @@
+Game#: 23960084
+Jag123 is dealt: **
+sluggerssk8s is dealt: **
+Mar432 is dealt: **
+ArohaTahiti is dealt: **
+Wayrob5333 is dealt: **
+Henry11luc22 is dealt: **
+cheesemonger1 is dealt: **
+QwertySpark is dealt: 5c
+emmadog23 is dealt: **
+The button is moved to seat 2.
+Game #23960084-1 starts
+Seat 0: Jag123 (1000 Tournament chips) 
+Seat 1: sluggerssk8s (1000 Tournament chips) 
+Seat 2: Mar432 (1000 Tournament chips) 
+Seat 3: ArohaTahiti (1000 Tournament chips) 
+Seat 4: Wayrob5333 (1000 Tournament chips) 
+Seat 5: Henry11luc22 (1000 Tournament chips) 
+Seat 6: cheesemonger1 (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: emmadog23 (1000 Tournament chips) 
+The button is at seat 2
+ArohaTahiti posts the small blind [5 Tournament chips]
+Wayrob5333 posts the big blind [10 Tournament chips]
+Jag123, at seat 0, is in this hand with 1000 Tournament chips.
+sluggerssk8s, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Mar432, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+ArohaTahiti, at seat 3, is in this hand with 995 Tournament chips.
+Wayrob5333, at seat 4, is in this hand with 990 Tournament chips.
+Henry11luc22, at seat 5, is in this hand with 1000 Tournament chips.
+cheesemonger1, at seat 6, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 1000 Tournament chips.
+emmadog23, at seat 8, is in this hand with 1000 Tournament chips.
+ArohaTahiti is dealt: **
+Wayrob5333 is dealt: **
+Henry11luc22 is dealt: **
+cheesemonger1 is dealt: **
+
+emmadog23 is dealt: **
+Jag123 is dealt: **
+sluggerssk8s is dealt: **
+Mar432 is dealt: **
+ArohaTahiti is dealt: **
+Wayrob5333 is dealt: **
+Henry11luc22 is dealt: **
+cheesemonger1 is dealt: **
+
+emmadog23 is dealt: **
+Jag123 is dealt: **
+sluggerssk8s is dealt: **
+Mar432 is dealt: **
+Dealt to Jag123 [ **** ]
+Dealt to sluggerssk8s [ **** ]
+Dealt to Mar432 [ **** ]
+Dealt to ArohaTahiti [ **** ]
+Dealt to Wayrob5333 [ **** ]
+Dealt to Henry11luc22 [ **** ]
+Dealt to cheesemonger1 [ **** ]
+Dealt to QwertySpark [ 7h 6d ]
+Dealt to emmadog23 [ **** ]
+Henry11luc22 calls [10 Tournament chips]
+cheesemonger1 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+emmadog23 calls [10 Tournament chips]
+Jag123 folds [10 Tournament chips]
+sluggerssk8s folds [10 Tournament chips]
+Mar432 folds [10 Tournament chips]
+ArohaTahiti raises [285 Tournament chips]
+Wayrob5333 calls [280 Tournament chips]
+Henry11luc22 folds [280 Tournament chips]
+emmadog23 folds [280 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Ah ] board:[ Kc Ah]
+** Dealing Flop ** [ Td ] board:[ Kc Ah Td]
+ArohaTahiti goes all-in for 710 Tournament chips
+Wayrob5333 calls all-in [710 Tournament chips]
+Tournament all-in showdown -- players show:
+ArohaTahiti shows [ Qc Ac ]
+Wayrob5333 shows [ Kh Qh ]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Kc Ah Td 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Kc Ah Td 6s 2c]
+        (no action in this round)
+Round 4 is over.
+ArohaTahiti shows [ Qc Ac ] a pair of aces, king/queen kickers
+Wayrob5333 shows [ Kh Qh ] a pair of kings, ace/queen kickers
+ArohaTahiti wins main pot 2020 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: Jag123 (1000 Tournament chips) 
+Seat 1: sluggerssk8s (1000 Tournament chips) 
+Seat 2: Mar432 (1000 Tournament chips) 
+Seat 3: ArohaTahiti (2020 Tournament chips) 
+Seat 4: Wayrob5333 (0 Tournament chips) 
+Seat 5: Henry11luc22 (990 Tournament chips) 
+Seat 6: cheesemonger1 (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: emmadog23 (990 Tournament chips) 
+Game #23960084-1 ends
+Player QwertySpark leaves the table with 1000 Tournament chips
+Player ArohaTahiti leaves the table with 2020 Tournament chips
+Player Wayrob5333 leaves the table with 0 Tournament chips

@@ -1,0 +1,2033 @@
+Game#: 23969229
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+QwertySpark is dealt: Qd
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+ShawnxRock is dealt: **
+leannecremeen is dealt: **
+JDZORRO is dealt: **
+oelc is dealt: **
+The button is moved to seat 0.
+Game #23969229-1 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: tigers47 (1000 Tournament chips) 
+Seat 4: kdwhite71 (1000 Tournament chips) 
+Seat 5: ShawnxRock (1000 Tournament chips) 
+Seat 6: leannecremeen (1000 Tournament chips) 
+Seat 7: JDZORRO (1000 Tournament chips) 
+Seat 8: oelc (1000 Tournament chips) 
+The button is at seat 0
+ScarecrowNam posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 990 Tournament chips.
+tigers47, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+kdwhite71, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+ShawnxRock, at seat 5, is in this hand with 1000 Tournament chips.
+leannecremeen, at seat 6, is in this hand with 1000 Tournament chips.
+JDZORRO, at seat 7, is in this hand with 1000 Tournament chips.
+oelc, at seat 8, is in this hand with 1000 Tournament chips.
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+ShawnxRock is dealt: **
+leannecremeen is dealt: **
+JDZORRO is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+ShawnxRock is dealt: **
+leannecremeen is dealt: **
+JDZORRO is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 2s Qd ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to ShawnxRock [ **** ]
+Dealt to leannecremeen [ **** ]
+Dealt to JDZORRO [ **** ]
+Dealt to oelc [ **** ]
+tigers47 folds [10 Tournament chips]
+kdwhite71 folds [10 Tournament chips]
+ShawnxRock folds [10 Tournament chips]
+leannecremeen calls [10 Tournament chips]
+JDZORRO folds [10 Tournament chips]
+oelc folds [10 Tournament chips]
+ruby per folds [10 Tournament chips]
+ScarecrowNam folds [5 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ As ] board:[ Ac As]
+** Dealing Flop ** [ 3d ] board:[ Ac As 3d]
+QwertySpark bets for 20 Tournament chips
+leannecremeen calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ Ac As 3d Ks]
+QwertySpark checks
+leannecremeen checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Ac As 3d Ks 7c]
+QwertySpark bets for 50 Tournament chips
+leannecremeen folds [50 Tournament chips]
+QwertySpark is returned 50 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Qd Ac As Ks 7c: a pair of aces)
+QwertySpark wins main pot 65 Tournament chips.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (1035 Tournament chips) 
+Seat 3: tigers47 (1000 Tournament chips) 
+Seat 4: kdwhite71 (1000 Tournament chips) 
+Seat 5: ShawnxRock (1000 Tournament chips) 
+Seat 6: leannecremeen (970 Tournament chips) 
+Seat 7: JDZORRO (1000 Tournament chips) 
+Seat 8: oelc (1000 Tournament chips) 
+Game #23969229-1 ends
+Game #23969229-2 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (1035 Tournament chips) 
+Seat 3: tigers47 (1000 Tournament chips) 
+Seat 4: kdwhite71 (1000 Tournament chips) 
+Seat 5: ShawnxRock (1000 Tournament chips) 
+Seat 6: leannecremeen (970 Tournament chips) 
+Seat 7: JDZORRO (1000 Tournament chips) 
+Seat 8: oelc (1000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [5 Tournament chips]
+tigers47 posts the big blind [10 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1030 Tournament chips.
+tigers47, at seat 3, is in this hand with 990 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 1000 Tournament chips.
+ShawnxRock, at seat 5, is in this hand with 1000 Tournament chips.
+leannecremeen, at seat 6, is in this hand with 970 Tournament chips.
+JDZORRO, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+oelc, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+ShawnxRock is dealt: **
+leannecremeen is dealt: **
+JDZORRO is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+ShawnxRock is dealt: **
+leannecremeen is dealt: **
+JDZORRO is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Tc Td ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to ShawnxRock [ **** ]
+Dealt to leannecremeen [ **** ]
+Dealt to JDZORRO [ **** ]
+Dealt to oelc [ **** ]
+kdwhite71 calls [10 Tournament chips]
+(JDZORRO has entered the table, is no longer absent.)
+ShawnxRock calls [10 Tournament chips]
+leannecremeen calls [10 Tournament chips]
+JDZORRO raises [65 Tournament chips]
+oelc folds [65 Tournament chips]
+ruby per folds [65 Tournament chips]
+ScarecrowNam folds [65 Tournament chips]
+QwertySpark re-raises [235 Tournament chips]
+tigers47 folds [230 Tournament chips]
+kdwhite71 folds [230 Tournament chips]
+ShawnxRock calls [230 Tournament chips]
+leannecremeen calls [230 Tournament chips]
+JDZORRO calls [175 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 8d ] board:[ Ts 8d]
+** Dealing Flop ** [ 5c ] board:[ Ts 8d 5c]
+QwertySpark goes all-in for 795 Tournament chips
+ShawnxRock calls all-in [760 Tournament chips]
+leannecremeen calls all-in [730 Tournament chips]
+JDZORRO calls all-in [760 Tournament chips]
+QwertySpark is returned 35 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Tc Td ]
+ShawnxRock shows [ Js Jd ]
+leannecremeen shows [ Qs 8s ]
+JDZORRO shows [ 9c Ks ]
+Round 2 is over.
+(oelc has entered the table, is no longer absent.)
+** Dealing Turn ** [ 8c ] board:[ Ts 8d 5c 8c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Ts 8d 5c 8c 9s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Tc Td ] full house, tens full of eights
+ShawnxRock shows [ Js Jd ] two pair, jacks and eights, ten kicker
+leannecremeen shows [ Qs 8s ] three eights, queen/ten kickers
+JDZORRO shows [ 9c Ks ] two pair, nines and eights, king kicker
+QwertySpark wins main pot 3900 Tournament chips with full house, tens full of eights.
+QwertySpark wins side pot #1 90 Tournament chips with full house, tens full of eights.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4025 Tournament chips) 
+Seat 3: tigers47 (990 Tournament chips) 
+Seat 4: kdwhite71 (990 Tournament chips) 
+Seat 5: ShawnxRock (0 Tournament chips) 
+Seat 6: leannecremeen (0 Tournament chips) 
+Seat 7: JDZORRO (0 Tournament chips) 
+Seat 8: oelc (1000 Tournament chips) 
+Game #23969229-2 ends
+Player leannecremeen leaves the table with 0 Tournament chips
+Player ShawnxRock leaves the table with 0 Tournament chips
+Player JDZORRO leaves the table with 0 Tournament chips
+Game #23969229-3 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4025 Tournament chips) 
+Seat 3: tigers47 (990 Tournament chips) 
+Seat 4: kdwhite71 (990 Tournament chips) 
+Seat 5: togoncik (1000 Tournament chips) 
+Seat 6: DStGeorge5 (1000 Tournament chips) 
+Seat 7: Motorman5385A (1000 Tournament chips) 
+Seat 8: oelc (1000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+tigers47 posts the small blind [10 Tournament chips]
+kdwhite71 posts the big blind [20 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4025 Tournament chips.
+tigers47, at seat 3, is in this hand with 980 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 970 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1000 Tournament chips.
+DStGeorge5, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Motorman5385A, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+oelc, at seat 8, is in this hand with 1000 Tournament chips.
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Kc Qd ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to DStGeorge5 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+togoncik folds [20 Tournament chips]
+DStGeorge5 folds [20 Tournament chips]
+Motorman5385A folds [20 Tournament chips]
+oelc calls [20 Tournament chips]
+ruby per folds [20 Tournament chips]
+ScarecrowNam folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+tigers47 calls [70 Tournament chips]
+kdwhite71 calls [60 Tournament chips]
+oelc calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 2s ] board:[ Qs 2s]
+** Dealing Flop ** [ 3d ] board:[ Qs 2s 3d]
+tigers47 checks
+kdwhite71 checks
+oelc checks
+QwertySpark bets for 280 Tournament chips
+tigers47 folds [280 Tournament chips]
+kdwhite71 folds [280 Tournament chips]
+oelc folds [280 Tournament chips]
+QwertySpark is returned 280 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc Qd Qs 2s 3d: a pair of queens)
+QwertySpark wins main pot 320 Tournament chips.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (910 Tournament chips) 
+Seat 4: kdwhite71 (910 Tournament chips) 
+Seat 5: togoncik (1000 Tournament chips) 
+Seat 6: DStGeorge5 (1000 Tournament chips) 
+Seat 7: Motorman5385A (1000 Tournament chips) 
+Seat 8: oelc (920 Tournament chips) 
+Game #23969229-3 ends
+Game #23969229-4 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (910 Tournament chips) 
+Seat 4: kdwhite71 (910 Tournament chips) 
+Seat 5: togoncik (1000 Tournament chips) 
+Seat 6: DStGeorge5 (1000 Tournament chips) 
+Seat 7: Motorman5385A (1000 Tournament chips) 
+Seat 8: oelc (920 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+kdwhite71 posts the small blind [10 Tournament chips]
+togoncik posts the big blind [20 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4265 Tournament chips.
+tigers47, at seat 3, is in this hand with 910 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 900 Tournament chips.
+togoncik, at seat 5, is in this hand with 980 Tournament chips.
+DStGeorge5, at seat 6, is in this hand with 1000 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1000 Tournament chips.
+oelc, at seat 8, is in this hand with 920 Tournament chips.
+kdwhite71 is dealt: **
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Tc 7h ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to DStGeorge5 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+DStGeorge5 calls [20 Tournament chips]
+Motorman5385A raises [120 Tournament chips]
+oelc calls [120 Tournament chips]
+ruby per folds [120 Tournament chips]
+ScarecrowNam folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+tigers47 folds [120 Tournament chips]
+kdwhite71 folds [110 Tournament chips]
+togoncik folds [100 Tournament chips]
+DStGeorge5 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Ks ] board:[ Jh Ks]
+** Dealing Flop ** [ Kh ] board:[ Jh Ks Kh]
+DStGeorge5 checks
+Motorman5385A checks
+oelc checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Jh Ks Kh Qh]
+DStGeorge5 checks
+Motorman5385A bets for 195 Tournament chips
+oelc folds [195 Tournament chips]
+DStGeorge5 calls [195 Tournament chips]
+Round 3 is over.
+(ScarecrowNam has entered the table, is no longer absent.)
+** Dealing River ** [ 2s ] board:[ Jh Ks Kh Qh 2s]
+DStGeorge5 checks
+Motorman5385A bets for 390 Tournament chips
+DStGeorge5 folds [390 Tournament chips]
+Motorman5385A is returned 390 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Motorman5385A (Ah Jh Ks Kh Qh: a pair of kings)
+Motorman5385A wins main pot 780 Tournament chips.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (910 Tournament chips) 
+Seat 4: kdwhite71 (900 Tournament chips) 
+Seat 5: togoncik (980 Tournament chips) 
+Seat 6: DStGeorge5 (685 Tournament chips) 
+Seat 7: Motorman5385A (1465 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+Game #23969229-4 ends
+Game #23969229-5 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (910 Tournament chips) 
+Seat 4: kdwhite71 (900 Tournament chips) 
+Seat 5: togoncik (980 Tournament chips) 
+Seat 6: DStGeorge5 (685 Tournament chips) 
+Seat 7: Motorman5385A (1465 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+togoncik posts the small blind [15 Tournament chips]
+DStGeorge5 posts the big blind [30 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4265 Tournament chips.
+tigers47, at seat 3, is in this hand with 910 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 900 Tournament chips.
+togoncik, at seat 5, is in this hand with 965 Tournament chips.
+DStGeorge5, at seat 6, is in this hand with 655 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1465 Tournament chips.
+oelc, at seat 8, is in this hand with 800 Tournament chips.
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+DStGeorge5 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 8c 5s ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to DStGeorge5 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+Motorman5385A raises [120 Tournament chips]
+oelc folds [120 Tournament chips]
+ruby per folds [120 Tournament chips]
+ScarecrowNam folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+tigers47 calls [120 Tournament chips]
+kdwhite71 calls [120 Tournament chips]
+togoncik folds [105 Tournament chips]
+DStGeorge5 re-raises [585 Tournament chips]
+Motorman5385A folds [495 Tournament chips]
+tigers47 raises all-in [790 Tournament chips]
+kdwhite71 calls all-in [780 Tournament chips]
+DStGeorge5 calls all-in [70 Tournament chips]
+tigers47 is returned 10 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+tigers47 shows [ 3h 3c ]
+kdwhite71 shows [ Th Jh ]
+DStGeorge5 shows [ 4h Ah ]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 6s ] board:[ Qc 6s]
+** Dealing Flop ** [ 2c ] board:[ Qc 6s 2c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Qc 6s 2c Tc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ Qc 6s 2c Tc Qs]
+        (no action in this round)
+Round 4 is over.
+tigers47 shows [ 3h 3c ] two pair, queens and threes, ten kicker
+kdwhite71 shows [ Th Jh ] two pair, queens and tens, jack kicker
+DStGeorge5 shows [ 4h Ah ] a pair of queens, ace/ten kickers
+kdwhite71 wins main pot 2190 Tournament chips with two pair, queens and tens, jack kicker.
+kdwhite71 wins side pot #1 430 Tournament chips with two pair, queens and tens, jack kicker.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (10 Tournament chips) 
+Seat 4: kdwhite71 (2620 Tournament chips) 
+Seat 5: togoncik (965 Tournament chips) 
+Seat 6: DStGeorge5 (0 Tournament chips) 
+Seat 7: Motorman5385A (1345 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+Game #23969229-5 ends
+Player DStGeorge5 leaves the table with 0 Tournament chips
+Game #23969229-6 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (995 Tournament chips) 
+Seat 2: QwertySpark (4265 Tournament chips) 
+Seat 3: tigers47 (10 Tournament chips) 
+Seat 4: kdwhite71 (2620 Tournament chips) 
+Seat 5: togoncik (965 Tournament chips) 
+Seat 7: Motorman5385A (1345 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Motorman5385A posts the big blind [40 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4265 Tournament chips.
+tigers47, at seat 3, is in this hand with 10 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2620 Tournament chips.
+togoncik, at seat 5, is in this hand with 965 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1305 Tournament chips.
+oelc, at seat 8, is in this hand with 800 Tournament chips.
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 5d 5s ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+oelc folds [40 Tournament chips]
+ruby per folds [40 Tournament chips]
+ScarecrowNam calls [40 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+tigers47 calls all-in [10 Tournament chips]
+kdwhite71 folds [200 Tournament chips]
+togoncik folds [200 Tournament chips]
+Motorman5385A calls [160 Tournament chips]
+ScarecrowNam calls [160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 4h ] board:[ Jc 4h]
+** Dealing Flop ** [ 7d ] board:[ Jc 4h 7d]
+Motorman5385A checks
+ScarecrowNam checks
+QwertySpark bets for 345 Tournament chips
+Motorman5385A folds [345 Tournament chips]
+ScarecrowNam calls [345 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Jc 4h 7d 9d]
+ScarecrowNam checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Jc 4h 7d 9d 8s]
+ScarecrowNam checks
+QwertySpark checks
+Round 4 is over.
+ScarecrowNam shows [ 6h 6c ] a pair of sixes
+Hand evaluation for ScarecrowNam (6h 6c Jc 9d 8s: a pair of sixes)
+QwertySpark shows [ 5d 5s ] a pair of fives
+Hand evaluation for QwertySpark (5d 5s Jc 9d 8s: a pair of fives)
+tigers47 shows [ Td 6s ] straight, jack high
+Hand evaluation for tigers47 (Td Jc 7d 9d 8s: straight, jack high)
+tigers47 wins main pot 40 Tournament chips with straight, jack high.
+ScarecrowNam wins side pot #1 1260 Tournament chips with a pair of sixes, jack/nine kickers.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (1710 Tournament chips) 
+Seat 2: QwertySpark (3720 Tournament chips) 
+Seat 3: tigers47 (40 Tournament chips) 
+Seat 4: kdwhite71 (2620 Tournament chips) 
+Seat 5: togoncik (965 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (1145 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+Game #23969229-6 ends
+Game #23969229-7 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (1710 Tournament chips) 
+Seat 2: QwertySpark (3720 Tournament chips) 
+Seat 3: tigers47 (40 Tournament chips) 
+Seat 4: kdwhite71 (2620 Tournament chips) 
+Seat 5: togoncik (965 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (1145 Tournament chips) 
+Seat 8: oelc (800 Tournament chips) 
+The button is at seat 5
+Motorman5385A posts the small blind [20 Tournament chips]
+oelc posts the big blind [40 Tournament chips]
+ruby per, at seat 0, is in this hand with 1000 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1710 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3720 Tournament chips.
+tigers47, at seat 3, is in this hand with 40 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2620 Tournament chips.
+togoncik, at seat 5, is in this hand with 965 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1125 Tournament chips.
+oelc, at seat 8, is in this hand with 760 Tournament chips.
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+tigers47 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Kd 4d ]
+Dealt to tigers47 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+ruby per folds [40 Tournament chips]
+ScarecrowNam folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+tigers47 calls all-in [40 Tournament chips]
+kdwhite71 calls [40 Tournament chips]
+togoncik calls [40 Tournament chips]
+Motorman5385A calls [20 Tournament chips]
+oelc checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 6s ] board:[ 3h 6s]
+** Dealing Flop ** [ Ac ] board:[ 3h 6s Ac]
+Motorman5385A checks
+oelc checks
+QwertySpark checks
+kdwhite71 checks
+togoncik checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 3h 6s Ac 8d]
+Motorman5385A bets for 120 Tournament chips
+oelc folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+kdwhite71 folds [120 Tournament chips]
+togoncik calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 3h 6s Ac 8d Js]
+Motorman5385A bets for 480 Tournament chips
+togoncik calls [480 Tournament chips]
+Round 4 is over.
+Motorman5385A shows [ 3c 6d ] two pair, sixes and threes
+Hand evaluation for Motorman5385A (3c 6d 3h 6s Ac: two pair, sixes and threes)
+tigers47 shows [ 7c 2c ] ace high
+Hand evaluation for tigers47 (7c 6s Ac 8d Js: ace high)
+togoncik shows [ 6h 6c ] three sixes
+Hand evaluation for togoncik (6h 6c 6s Ac Js: three sixes)
+togoncik wins main pot 240 Tournament chips with three sixes, ace/jack kickers.
+togoncik wins side pot #1 1200 Tournament chips with three sixes, ace/jack kickers.
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (1710 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 3: tigers47 (0 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (505 Tournament chips) 
+Seat 8: oelc (760 Tournament chips) 
+Game #23969229-7 ends
+Player tigers47 leaves the table with 0 Tournament chips
+Game #23969229-8 starts
+Seat 0: ruby per (1000 Tournament chips) 
+Seat 1: ScarecrowNam (1710 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (505 Tournament chips) 
+Seat 8: oelc (760 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+oelc posts the small blind [30 Tournament chips]
+ruby per posts the big blind [60 Tournament chips]
+ruby per, at seat 0, is in this hand with 940 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1710 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3680 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2580 Tournament chips.
+togoncik, at seat 5, is in this hand with 1765 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 505 Tournament chips.
+oelc, at seat 8, is in this hand with 730 Tournament chips.
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Ac 4h ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+ScarecrowNam calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+kdwhite71 folds [60 Tournament chips]
+togoncik folds [60 Tournament chips]
+paddy29 folds [60 Tournament chips]
+Motorman5385A raises [120 Tournament chips]
+oelc folds [90 Tournament chips]
+ruby per re-raises [280 Tournament chips]
+ScarecrowNam calls [280 Tournament chips]
+Motorman5385A folds [220 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 6h ] board:[ Js 6h]
+** Dealing Flop ** [ 6c ] board:[ Js 6h 6c]
+ruby per bets for 415 Tournament chips
+ScarecrowNam folds [415 Tournament chips]
+ruby per is returned 415 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for ruby per (Kh As Js 6h 6c: a pair of sixes)
+ruby per wins main pot 830 Tournament chips.
+Seat 0: ruby per (1490 Tournament chips) 
+Seat 1: ScarecrowNam (1370 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (385 Tournament chips) 
+Seat 8: oelc (730 Tournament chips) 
+Game #23969229-8 ends
+Game #23969229-9 starts
+Seat 0: ruby per (1490 Tournament chips) 
+Seat 1: ScarecrowNam (1370 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (385 Tournament chips) 
+Seat 8: oelc (730 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+ruby per posts the small blind [30 Tournament chips]
+ScarecrowNam posts the big blind [60 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1310 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3680 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2580 Tournament chips.
+togoncik, at seat 5, is in this hand with 1765 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 385 Tournament chips.
+oelc, at seat 8, is in this hand with 730 Tournament chips.
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Th 8s ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+QwertySpark folds [60 Tournament chips]
+kdwhite71 folds [60 Tournament chips]
+togoncik folds [60 Tournament chips]
+paddy29 folds [60 Tournament chips]
+Motorman5385A raises [120 Tournament chips]
+oelc folds [120 Tournament chips]
+ruby per folds [90 Tournament chips]
+ScarecrowNam calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ As ] board:[ 6d As]
+** Dealing Flop ** [ Qd ] board:[ 6d As Qd]
+ScarecrowNam checks
+Motorman5385A goes all-in for 265 Tournament chips
+ScarecrowNam folds [265 Tournament chips]
+Motorman5385A is returned 265 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Motorman5385A (2d 4d 6d As Qd: ace high)
+Motorman5385A wins main pot 270 Tournament chips.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1250 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (535 Tournament chips) 
+Seat 8: oelc (730 Tournament chips) 
+Game #23969229-9 ends
+Game #23969229-10 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1250 Tournament chips) 
+Seat 2: QwertySpark (3680 Tournament chips) 
+Seat 4: kdwhite71 (2580 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (535 Tournament chips) 
+Seat 8: oelc (730 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+ScarecrowNam posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1200 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3580 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2580 Tournament chips.
+togoncik, at seat 5, is in this hand with 1765 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 535 Tournament chips.
+oelc, at seat 8, is in this hand with 730 Tournament chips.
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 4c 8h ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+kdwhite71 calls [100 Tournament chips]
+togoncik folds [100 Tournament chips]
+paddy29 folds [100 Tournament chips]
+Motorman5385A calls [100 Tournament chips]
+oelc calls [100 Tournament chips]
+ruby per folds [100 Tournament chips]
+ScarecrowNam calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 8c ] board:[ 3d 8c]
+** Dealing Flop ** [ Jc ] board:[ 3d 8c Jc]
+ScarecrowNam bets for 100 Tournament chips
+QwertySpark raises [300 Tournament chips]
+kdwhite71 folds [300 Tournament chips]
+Motorman5385A folds [300 Tournament chips]
+oelc folds [300 Tournament chips]
+ScarecrowNam raises all-in [1050 Tournament chips]
+QwertySpark folds [850 Tournament chips]
+ScarecrowNam is returned 850 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for ScarecrowNam (3s 8s 3d 8c Jc: two pair, eights and threes)
+ScarecrowNam wins main pot 1100 Tournament chips.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1950 Tournament chips) 
+Seat 2: QwertySpark (3280 Tournament chips) 
+Seat 4: kdwhite71 (2480 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (435 Tournament chips) 
+Seat 8: oelc (630 Tournament chips) 
+Game #23969229-10 ends
+Game #23969229-11 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1950 Tournament chips) 
+Seat 2: QwertySpark (3280 Tournament chips) 
+Seat 4: kdwhite71 (2480 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (435 Tournament chips) 
+Seat 8: oelc (630 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+kdwhite71 posts the big blind [100 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1950 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2380 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1765 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 435 Tournament chips.
+oelc, at seat 8, is in this hand with 630 Tournament chips.
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 2h Td ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+togoncik folds [100 Tournament chips]
+paddy29 folds [100 Tournament chips]
+Motorman5385A raises [200 Tournament chips]
+oelc calls [200 Tournament chips]
+ruby per folds [200 Tournament chips]
+ScarecrowNam calls [200 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+kdwhite71 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Ks ] board:[ Qc Ks]
+** Dealing Flop ** [ 2d ] board:[ Qc Ks 2d]
+kdwhite71 checks
+Motorman5385A goes all-in for 235 Tournament chips
+oelc calls [235 Tournament chips]
+ScarecrowNam calls [235 Tournament chips]
+kdwhite71 folds [235 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Qc Ks 2d Qd]
+oelc checks
+ScarecrowNam bets for 100 Tournament chips
+oelc calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Qc Ks 2d Qd 3h]
+oelc goes all-in for 95 Tournament chips
+ScarecrowNam calls [95 Tournament chips]
+Tournament all-in showdown -- players show:
+ScarecrowNam shows [ Kd Ac ]
+Motorman5385A shows [ Jc Qh ]
+oelc shows [ Qs Js ]
+Round 4 is over.
+ScarecrowNam shows [ Kd Ac ] two pair, kings and queens, ace kicker
+Motorman5385A shows [ Jc Qh ] three queens, king/jack kickers
+oelc shows [ Qs Js ] three queens, king/jack kickers
+Motorman5385A wins main pot 778 Tournament chips of a 1555 Tournament chips pot with three queens, king/jack kickers.
+oelc wins main pot 777 Tournament chips of a 1555 Tournament chips pot with three queens, king/jack kickers.
+oelc wins side pot #1 390 Tournament chips with three queens, king/jack kickers.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (2280 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (778 Tournament chips) 
+Seat 8: oelc (1167 Tournament chips) 
+Game #23969229-11 ends
+Game #23969229-12 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (2280 Tournament chips) 
+Seat 5: togoncik (1765 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (778 Tournament chips) 
+Seat 8: oelc (1167 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+kdwhite71 posts the small blind [75 Tournament chips]
+togoncik posts the big blind [150 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1320 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2205 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1615 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 980 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 778 Tournament chips.
+oelc, at seat 8, is in this hand with 1167 Tournament chips.
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+oelc is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 8d 3c ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to oelc [ **** ]
+paddy29 folds [150 Tournament chips]
+Motorman5385A folds [150 Tournament chips]
+oelc calls [150 Tournament chips]
+ruby per folds [150 Tournament chips]
+ScarecrowNam folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+kdwhite71 calls [75 Tournament chips]
+togoncik folds
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Jc ] board:[ Kc Jc]
+** Dealing Flop ** [ Kh ] board:[ Kc Jc Kh]
+kdwhite71 checks
+oelc checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Kc Jc Kh 8c]
+kdwhite71 bets for 300 Tournament chips
+oelc raises all-in [1017 Tournament chips]
+kdwhite71 calls [717 Tournament chips]
+Tournament all-in showdown -- players show:
+kdwhite71 shows [ 6c Kd ]
+oelc shows [ Jh 8h ]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Kc Jc Kh 8c Tc]
+        (no action in this round)
+Round 4 is over.
+kdwhite71 shows [ 6c Kd ] flush, king/jack/ten high
+oelc shows [ Jh 8h ] two pair, kings and jacks, ten kicker
+kdwhite71 wins main pot 2484 Tournament chips with flush, king/jack/ten high.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3597 Tournament chips) 
+Seat 5: togoncik (1615 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (778 Tournament chips) 
+Seat 8: oelc (0 Tournament chips) 
+Game #23969229-12 ends
+Player oelc leaves the table with 0 Tournament chips
+Game #23969229-13 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3597 Tournament chips) 
+Seat 5: togoncik (1615 Tournament chips) 
+Seat 6: paddy29 (980 Tournament chips) 
+Seat 7: Motorman5385A (778 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+togoncik posts the small blind [75 Tournament chips]
+paddy29 posts the big blind [150 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1320 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 3597 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 830 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 778 Tournament chips.
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 7c 4c ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Motorman5385A calls [150 Tournament chips]
+ruby per folds [150 Tournament chips]
+ScarecrowNam folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+kdwhite71 calls [150 Tournament chips]
+togoncik folds [75 Tournament chips]
+paddy29 folds
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Tc ] board:[ Qh Tc]
+** Dealing Flop ** [ 2s ] board:[ Qh Tc 2s]
+Motorman5385A bets for 150 Tournament chips
+kdwhite71 folds [150 Tournament chips]
+Motorman5385A is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Motorman5385A (9s Ts Qh Tc 2s: a pair of tens)
+Motorman5385A wins main pot 525 Tournament chips.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3447 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (830 Tournament chips) 
+Seat 7: Motorman5385A (1153 Tournament chips) 
+Seat 8: EUGENE12 (910 Tournament chips) 
+Game #23969229-13 ends
+Game #23969229-14 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3447 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (830 Tournament chips) 
+Seat 7: Motorman5385A (1153 Tournament chips) 
+Seat 8: EUGENE12 (910 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+paddy29 posts the small blind [75 Tournament chips]
+Motorman5385A posts the big blind [150 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1320 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 3447 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 755 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1003 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 910 Tournament chips.
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 3c 8s ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+EUGENE12 folds [150 Tournament chips]
+ruby per folds [150 Tournament chips]
+ScarecrowNam folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+kdwhite71 folds [150 Tournament chips]
+togoncik folds [150 Tournament chips]
+paddy29 folds [75 Tournament chips]
+Motorman5385A is returned 75 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Motorman5385A (Js 3h: jack high)
+Motorman5385A wins main pot 150 Tournament chips.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3447 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (1228 Tournament chips) 
+Seat 8: EUGENE12 (910 Tournament chips) 
+Game #23969229-14 ends
+Game #23969229-15 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (3447 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (1228 Tournament chips) 
+Seat 8: EUGENE12 (910 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Motorman5385A posts the small blind [100 Tournament chips]
+EUGENE12 posts the big blind [200 Tournament chips]
+ruby per, at seat 0, is in this hand with 1460 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1320 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 3447 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 755 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1128 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 710 Tournament chips.
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 6s 8d ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+ruby per folds [200 Tournament chips]
+ScarecrowNam folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+kdwhite71 calls [200 Tournament chips]
+togoncik folds [200 Tournament chips]
+paddy29 folds [200 Tournament chips]
+Motorman5385A calls [100 Tournament chips]
+EUGENE12 folds
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 7d ] board:[ 3d 7d]
+** Dealing Flop ** [ 4c ] board:[ 3d 7d 4c]
+Motorman5385A checks
+kdwhite71 bets for 200 Tournament chips
+Motorman5385A calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 3d 7d 4c 9c]
+Motorman5385A checks
+kdwhite71 bets for 600 Tournament chips
+Motorman5385A folds, showing Td Ks [600 Tournament chips]
+kdwhite71 is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for kdwhite71 (Js 9h 7d 4c 9c: a pair of nines)
+kdwhite71 wins main pot 1000 Tournament chips.
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (828 Tournament chips) 
+Seat 8: EUGENE12 (710 Tournament chips) 
+Game #23969229-15 ends
+Game #23969229-16 starts
+Seat 0: ruby per (1460 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (828 Tournament chips) 
+Seat 8: EUGENE12 (710 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+EUGENE12 posts the small blind [100 Tournament chips]
+ruby per posts the big blind [200 Tournament chips]
+ruby per, at seat 0, is in this hand with 1260 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1320 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 4047 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 755 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 828 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 7d Ks ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+ScarecrowNam folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+kdwhite71 folds [200 Tournament chips]
+togoncik folds [200 Tournament chips]
+paddy29 folds [200 Tournament chips]
+Motorman5385A calls [200 Tournament chips]
+EUGENE12 folds [100 Tournament chips]
+ruby per checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Qc ] board:[ 5d Qc]
+** Dealing Flop ** [ Kd ] board:[ 5d Qc Kd]
+ruby per bets for 500 Tournament chips
+Motorman5385A folds, showing 2s 9c [500 Tournament chips]
+ruby per is returned 500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for ruby per (3c Ah 5d Qc Kd: ace high)
+ruby per wins main pot 500 Tournament chips.
+Seat 0: ruby per (1760 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (628 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-16 ends
+Game #23969229-17 starts
+Seat 0: ruby per (1760 Tournament chips) 
+Seat 1: ScarecrowNam (1320 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (628 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+ruby per posts the small blind [100 Tournament chips]
+ScarecrowNam posts the big blind [200 Tournament chips]
+ruby per, at seat 0, is in this hand with 1660 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1120 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 4047 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+paddy29, at seat 6, is in this hand (absent) with 755 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 628 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ruby per is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+paddy29 is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+Dealt to ruby per [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Ac 9s ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to paddy29 [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+QwertySpark raises [800 Tournament chips]
+kdwhite71 folds [800 Tournament chips]
+togoncik folds [800 Tournament chips]
+paddy29 folds [755 Tournament chips]
+Motorman5385A calls all-in [628 Tournament chips]
+EUGENE12 folds [610 Tournament chips]
+ruby per raises all-in [1660 Tournament chips]
+ScarecrowNam folds [1120 Tournament chips]
+QwertySpark calls [960 Tournament chips]
+Tournament all-in showdown -- players show:
+ruby per shows [ 7c 7s ]
+QwertySpark shows [ Ac 9s ]
+Motorman5385A shows [ 5d Ah ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Qd ] board:[ Ks Qd]
+** Dealing Flop ** [ 5h ] board:[ Ks Qd 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Ks Qd 5h 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Ks Qd 5h 5c Ad]
+        (no action in this round)
+Round 4 is over.
+ruby per shows [ 7c 7s ] two pair, sevens and fives, ace kicker
+QwertySpark shows [ Ac 9s ] two pair, aces and fives, king kicker
+Motorman5385A shows [ 5d Ah ] full house, fives full of aces
+Motorman5385A wins main pot 2084 Tournament chips with full house, fives full of aces.
+QwertySpark wins side pot #1 2264 Tournament chips with two pair, aces and fives, king kicker.
+Seat 0: ruby per (0 Tournament chips) 
+Seat 1: ScarecrowNam (1120 Tournament chips) 
+Seat 2: QwertySpark (3734 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 6: paddy29 (755 Tournament chips) 
+Seat 7: Motorman5385A (2084 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-17 ends
+Player paddy29 leaves the table with 0 Tournament chips
+Player ruby per leaves the table with 0 Tournament chips
+Game #23969229-18 starts
+Seat 1: ScarecrowNam (1120 Tournament chips) 
+Seat 2: QwertySpark (3734 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (2084 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+ScarecrowNam posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3434 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 4047 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 2084 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Kh Ts ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+kdwhite71 folds [300 Tournament chips]
+togoncik folds [300 Tournament chips]
+Motorman5385A raises [900 Tournament chips]
+EUGENE12 folds [610 Tournament chips]
+ScarecrowNam folds [750 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 9c ] board:[ 3h 9c]
+** Dealing Flop ** [ 5s ] board:[ 3h 9c 5s]
+QwertySpark checks
+Motorman5385A bets for 975 Tournament chips
+QwertySpark folds [975 Tournament chips]
+Motorman5385A is returned 975 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Motorman5385A (4d 4h 3h 9c 5s: a pair of fours)
+Motorman5385A shows [ 4d 4h ] a pair of fours
+Hand evaluation for Motorman5385A (4d 4h 3h 9c 5s: a pair of fours)
+Motorman5385A wins main pot 1950 Tournament chips.
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (2834 Tournament chips) 
+Seat 3: sammy7166 (3400 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-18 ends
+Game #23969229-19 starts
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (2834 Tournament chips) 
+Seat 3: sammy7166 (3400 Tournament chips) 
+Seat 4: kdwhite71 (4047 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [150 Tournament chips]
+sammy7166 posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2684 Tournament chips.
+sammy7166, at seat 3, is in this hand with 3100 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 4047 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 3134 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Qc Kh ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+kdwhite71 calls [300 Tournament chips]
+togoncik folds [300 Tournament chips]
+Motorman5385A folds [300 Tournament chips]
+EUGENE12 folds [300 Tournament chips]
+ScarecrowNam folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+sammy7166 checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 6s ] board:[ Ks 6s]
+** Dealing Flop ** [ Jh ] board:[ Ks 6s Jh]
+QwertySpark bets for 600 Tournament chips
+sammy7166 calls [600 Tournament chips]
+kdwhite71 calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Ks 6s Jh Ah]
+QwertySpark bets for 900 Tournament chips
+sammy7166 calls [900 Tournament chips]
+kdwhite71 calls [900 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Ks 6s Jh Ah 3s]
+QwertySpark checks
+sammy7166 bets for 600 Tournament chips
+kdwhite71 folds [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 4 is over.
+sammy7166 shows [ Kd Ac ] two pair, aces and kings
+Hand evaluation for sammy7166 (Kd Ac Ks Jh Ah: two pair, aces and kings)
+QwertySpark doesn't show [ Qc Kh ]
+(QwertySpark has Qc Kh.)
+sammy7166 wins main pot 6600 Tournament chips with two pair, aces and kings, jack kicker.
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (434 Tournament chips) 
+Seat 3: sammy7166 (7600 Tournament chips) 
+Seat 4: kdwhite71 (2247 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-19 ends
+Game #23969229-20 starts
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (434 Tournament chips) 
+Seat 3: sammy7166 (7600 Tournament chips) 
+Seat 4: kdwhite71 (2247 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+sammy7166 posts the small blind [150 Tournament chips]
+kdwhite71 posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 434 Tournament chips.
+sammy7166, at seat 3, is in this hand with 7450 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 1947 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1540 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 3134 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Qc 3h ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+togoncik folds [300 Tournament chips]
+Motorman5385A folds [300 Tournament chips]
+EUGENE12 folds [300 Tournament chips]
+ScarecrowNam folds [300 Tournament chips]
+QwertySpark raises all-in [434 Tournament chips]
+sammy7166 calls [284 Tournament chips]
+kdwhite71 calls [134 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 6d ] board:[ Ah 6d]
+** Dealing Flop ** [ Qd ] board:[ Ah 6d Qd]
+sammy7166 checks
+kdwhite71 checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Ah 6d Qd 8h]
+sammy7166 checks
+kdwhite71 bets for 300 Tournament chips
+sammy7166 folds [300 Tournament chips]
+kdwhite71 is returned 300 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qc 3h ]
+kdwhite71 shows [ Ts 8d ]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Ah 6d Qd 8h 3s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qc 3h ] two pair, queens and threes, ace kicker
+kdwhite71 shows [ Ts 8d ] a pair of eights, ace/queen kickers
+QwertySpark wins main pot 1302 Tournament chips with two pair, queens and threes, ace kicker.
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (1302 Tournament chips) 
+Seat 3: sammy7166 (7166 Tournament chips) 
+Seat 4: kdwhite71 (1813 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-20 ends
+Game #23969229-21 starts
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (1302 Tournament chips) 
+Seat 3: sammy7166 (7166 Tournament chips) 
+Seat 4: kdwhite71 (1813 Tournament chips) 
+Seat 5: togoncik (1540 Tournament chips) 
+Seat 7: Motorman5385A (3134 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+kdwhite71 posts the small blind [150 Tournament chips]
+togoncik posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1302 Tournament chips.
+sammy7166, at seat 3, is in this hand with 7166 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 1663 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1240 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 3134 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 610 Tournament chips.
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 6h 9d ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+Motorman5385A raises [900 Tournament chips]
+EUGENE12 folds [610 Tournament chips]
+ScarecrowNam folds [900 Tournament chips]
+QwertySpark folds [900 Tournament chips]
+sammy7166 folds [900 Tournament chips]
+kdwhite71 calls [750 Tournament chips]
+togoncik folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 3s ] board:[ Ac 3s]
+** Dealing Flop ** [ 7d ] board:[ Ac 3s 7d]
+kdwhite71 checks
+Motorman5385A checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Ac 3s 7d 4d]
+kdwhite71 checks
+Motorman5385A bets for 300 Tournament chips
+kdwhite71 calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ Ac 3s 7d 4d Ts]
+kdwhite71 checks
+Motorman5385A checks
+Round 4 is over.
+kdwhite71 shows [ 7h Qh ] a pair of sevens
+Hand evaluation for kdwhite71 (7h Qh Ac 7d Ts: a pair of sevens)
+Motorman5385A shows [ Qc Kd ] ace high
+Hand evaluation for Motorman5385A (Qc Kd Ac 7d Ts: ace high)
+kdwhite71 wins main pot 2700 Tournament chips with a pair of sevens, ace/queen kickers.
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (1302 Tournament chips) 
+Seat 3: sammy7166 (7166 Tournament chips) 
+Seat 4: kdwhite71 (3313 Tournament chips) 
+Seat 5: togoncik (1240 Tournament chips) 
+Seat 7: Motorman5385A (1934 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+Game #23969229-21 ends
+Game #23969229-22 starts
+Seat 1: ScarecrowNam (970 Tournament chips) 
+Seat 2: QwertySpark (1302 Tournament chips) 
+Seat 3: sammy7166 (7166 Tournament chips) 
+Seat 4: kdwhite71 (3313 Tournament chips) 
+Seat 5: togoncik (1240 Tournament chips) 
+Seat 7: Motorman5385A (1934 Tournament chips) 
+Seat 8: EUGENE12 (610 Tournament chips) 
+The button is at seat 3
+ScarecrowNam posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+sammy7166 posted ante of 25 Tournament chips
+kdwhite71 posted ante of 25 Tournament chips
+togoncik posted ante of 25 Tournament chips
+Motorman5385A posted ante of 25 Tournament chips
+EUGENE12 posted ante of 25 Tournament chips
+The button is moved to seat 4.
+togoncik posts the small blind [150 Tournament chips]
+Motorman5385A posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 945 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1277 Tournament chips.
+sammy7166, at seat 3, is in this hand with 7141 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 3288 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1065 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1609 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 585 Tournament chips.
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 3h Js ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+EUGENE12 folds [300 Tournament chips]
+ScarecrowNam folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+sammy7166 calls [300 Tournament chips]
+kdwhite71 calls [300 Tournament chips]
+togoncik folds [150 Tournament chips]
+Motorman5385A checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 9s ] board:[ Kc 9s]
+** Dealing Flop ** [ Ac ] board:[ Kc 9s Ac]
+Motorman5385A checks
+sammy7166 checks
+kdwhite71 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Kc 9s Ac 7h]
+Motorman5385A checks
+sammy7166 bets for 300 Tournament chips
+kdwhite71 calls [300 Tournament chips]
+Motorman5385A folds [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Kc 9s Ac 7h Tc]
+sammy7166 bets for 300 Tournament chips
+kdwhite71 folds [300 Tournament chips]
+sammy7166 is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for sammy7166 (6h 6c Kc Ac Tc: a pair of sixes)
+sammy7166 wins main pot 1825 Tournament chips.
+Seat 1: ScarecrowNam (945 Tournament chips) 
+Seat 2: QwertySpark (1277 Tournament chips) 
+Seat 3: sammy7166 (8366 Tournament chips) 
+Seat 4: kdwhite71 (2688 Tournament chips) 
+Seat 5: togoncik (1065 Tournament chips) 
+Seat 7: Motorman5385A (1609 Tournament chips) 
+Seat 8: EUGENE12 (585 Tournament chips) 
+Game #23969229-22 ends
+Game #23969229-23 starts
+Seat 1: ScarecrowNam (945 Tournament chips) 
+Seat 2: QwertySpark (1277 Tournament chips) 
+Seat 3: sammy7166 (8366 Tournament chips) 
+Seat 4: kdwhite71 (2688 Tournament chips) 
+Seat 5: togoncik (1065 Tournament chips) 
+Seat 7: Motorman5385A (1609 Tournament chips) 
+Seat 8: EUGENE12 (585 Tournament chips) 
+The button is at seat 4
+ScarecrowNam posted ante of 25 Tournament chips
+sammy7166 posted ante of 25 Tournament chips
+kdwhite71 posted ante of 25 Tournament chips
+togoncik posted ante of 25 Tournament chips
+EUGENE12 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Motorman5385A posted ante of 25 Tournament chips
+The button is moved to seat 5.
+Motorman5385A posts the small blind [150 Tournament chips]
+EUGENE12 posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 920 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1252 Tournament chips.
+sammy7166, at seat 3, is in this hand with 8341 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2663 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1040 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 1434 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 260 Tournament chips.
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ 2h As ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+ScarecrowNam folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+sammy7166 folds [300 Tournament chips]
+kdwhite71 folds [300 Tournament chips]
+togoncik folds [300 Tournament chips]
+Motorman5385A calls [150 Tournament chips]
+EUGENE12 folds
+round 1 is over.
+Hand evaluation for Motorman5385A (3d 5d: five high)
+Motorman5385A wins main pot 775 Tournament chips.
+Seat 1: ScarecrowNam (920 Tournament chips) 
+Seat 2: QwertySpark (1252 Tournament chips) 
+Seat 3: sammy7166 (8341 Tournament chips) 
+Seat 4: kdwhite71 (2663 Tournament chips) 
+Seat 5: togoncik (1040 Tournament chips) 
+Seat 7: Motorman5385A (2059 Tournament chips) 
+Seat 8: EUGENE12 (260 Tournament chips) 
+Game #23969229-23 ends
+Game #23969229-24 starts
+Seat 1: ScarecrowNam (920 Tournament chips) 
+Seat 2: QwertySpark (1252 Tournament chips) 
+Seat 3: sammy7166 (8341 Tournament chips) 
+Seat 4: kdwhite71 (2663 Tournament chips) 
+Seat 5: togoncik (1040 Tournament chips) 
+Seat 7: Motorman5385A (2059 Tournament chips) 
+Seat 8: EUGENE12 (260 Tournament chips) 
+The button is at seat 5
+ScarecrowNam posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+kdwhite71 posted ante of 25 Tournament chips
+togoncik posted ante of 25 Tournament chips
+sammy7166 posted ante of 25 Tournament chips
+EUGENE12 posted ante of 25 Tournament chips
+Motorman5385A posted ante of 25 Tournament chips
+The button is moved to seat 7.
+EUGENE12 posts the small blind [150 Tournament chips]
+ScarecrowNam posts the big blind [300 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 595 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1227 Tournament chips.
+sammy7166, at seat 3, is in this hand with 8316 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2638 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 1015 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 2034 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 85 Tournament chips.
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Js 5d ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+QwertySpark folds [300 Tournament chips]
+sammy7166 folds [300 Tournament chips]
+kdwhite71 calls [300 Tournament chips]
+togoncik folds [300 Tournament chips]
+Motorman5385A calls [300 Tournament chips]
+EUGENE12 folds [85 Tournament chips]
+ScarecrowNam folds
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 8h ] board:[ 5h 8h]
+** Dealing Flop ** [ Qd ] board:[ 5h 8h Qd]
+kdwhite71 checks
+Motorman5385A checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 5h 8h Qd 8d]
+kdwhite71 checks
+Motorman5385A checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 5h 8h Qd 8d Ac]
+kdwhite71 checks
+Motorman5385A bets for 300 Tournament chips
+kdwhite71 folds [300 Tournament chips]
+Motorman5385A is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Motorman5385A (Kh 8h Qd 8d Ac: a pair of eights)
+Motorman5385A wins main pot 1225 Tournament chips.
+Seat 1: ScarecrowNam (595 Tournament chips) 
+Seat 2: QwertySpark (1227 Tournament chips) 
+Seat 3: sammy7166 (8316 Tournament chips) 
+Seat 4: kdwhite71 (2338 Tournament chips) 
+Seat 5: togoncik (1015 Tournament chips) 
+Seat 7: Motorman5385A (2959 Tournament chips) 
+Seat 8: EUGENE12 (85 Tournament chips) 
+Game #23969229-24 ends
+Game #23969229-25 starts
+Seat 1: ScarecrowNam (595 Tournament chips) 
+Seat 2: QwertySpark (1227 Tournament chips) 
+Seat 3: sammy7166 (8316 Tournament chips) 
+Seat 4: kdwhite71 (2338 Tournament chips) 
+Seat 5: togoncik (1015 Tournament chips) 
+Seat 7: Motorman5385A (2959 Tournament chips) 
+Seat 8: EUGENE12 (85 Tournament chips) 
+The button is at seat 7
+ScarecrowNam posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+sammy7166 posted ante of 50 Tournament chips
+kdwhite71 posted ante of 50 Tournament chips
+togoncik posted ante of 50 Tournament chips
+Motorman5385A posted ante of 50 Tournament chips
+EUGENE12 posted ante of 50 Tournament chips
+The button is moved to seat 8.
+ScarecrowNam posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 345 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 777 Tournament chips.
+sammy7166, at seat 3, is in this hand (absent) with 8266 Tournament chips.
+kdwhite71, at seat 4, is in this hand with 2288 Tournament chips.
+togoncik, at seat 5, is in this hand (absent) with 965 Tournament chips.
+Motorman5385A, at seat 7, is in this hand with 2909 Tournament chips.
+EUGENE12, at seat 8, is in this hand (absent) with 35 Tournament chips.
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+ScarecrowNam is dealt: **
+
+sammy7166 is dealt: **
+kdwhite71 is dealt: **
+togoncik is dealt: **
+Motorman5385A is dealt: **
+EUGENE12 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to QwertySpark [ Qd 3h ]
+Dealt to sammy7166 [ **** ]
+Dealt to kdwhite71 [ **** ]
+Dealt to togoncik [ **** ]
+Dealt to Motorman5385A [ **** ]
+Dealt to EUGENE12 [ **** ]
+sammy7166 folds [400 Tournament chips]
+kdwhite71 folds [400 Tournament chips]
+togoncik folds [400 Tournament chips]
+Motorman5385A calls [400 Tournament chips]
+EUGENE12 folds [35 Tournament chips]
+ScarecrowNam folds [200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Kc ] board:[ Jh Kc]
+** Dealing Flop ** [ 7h ] board:[ Jh Kc 7h]
+QwertySpark checks
+Motorman5385A bets for 400 Tournament chips
+QwertySpark raises all-in [777 Tournament chips]
+Motorman5385A calls [377 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qd 3h ]
+Motorman5385A shows [ 3s 3c ]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Jh Kc 7h 8c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Jh Kc 7h 8c 6d]
+        (no action in this round)
+(sammy7166 has entered the table, is no longer absent.)
+Round 4 is over.
+(ScarecrowNam has entered the table, is no longer absent.)
+QwertySpark shows [ Qd 3h ] king/queen/jack high
+Motorman5385A shows [ 3s 3c ] a pair of threes, king/jack kickers
+Motorman5385A wins main pot 2904 Tournament chips with a pair of threes, king/jack kickers.
+Seat 1: ScarecrowNam (345 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: sammy7166 (8266 Tournament chips) 
+Seat 4: kdwhite71 (2288 Tournament chips) 
+Seat 5: togoncik (965 Tournament chips) 
+Seat 7: Motorman5385A (4636 Tournament chips) 
+Seat 8: EUGENE12 (35 Tournament chips) 
+Game #23969229-25 ends
+Player QwertySpark leaves the table with 0 Tournament chips

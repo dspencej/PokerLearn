@@ -1,0 +1,367 @@
+Game#: 23959910
+stokerjo folds [1020 Tournament chips]
+Dy calls all-in [5 Tournament chips]
+12376 is returned 1005 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+12376 shows [ Ad Jh ]
+Dy shows [ Kc 7h ]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 6h ] board:[ 3h 6h]
+** Dealing Flop ** [ 4c ] board:[ 3h 6h 4c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 3h 6h 4c 3s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 3h 6h 4c 3s Ah]
+        (no action in this round)
+Round 4 is over.
+12376 shows [ Ad Jh ] two pair, aces and threes, jack kicker
+Dy shows [ Kc 7h ] a pair of threes, ace/king kickers
+12376 wins main pot 60 Tournament chips with two pair, aces and threes, jack kicker.
+Seat 0: 12376 (1065 Tournament chips) 
+Seat 1: kingdomkey (980 Tournament chips) 
+Seat 2: Bowkill57 (1505 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: ArohaTahiti (1000 Tournament chips) 
+Seat 5: AlbertaWldcat (3040 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 7: Dy (0 Tournament chips) 
+Seat 8: Ablack4 (1340 Tournament chips) 
+Game #23959910-2 ends
+Player AlbertaWldcat leaves the table with 3040 Tournament chips
+Player Dy leaves the table with 0 Tournament chips
+Game #23959910-3 starts
+Seat 0: 12376 (1065 Tournament chips) 
+Seat 1: kingdomkey (980 Tournament chips) 
+Seat 2: Bowkill57 (1505 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: ArohaTahiti (1000 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 8: Ablack4 (1340 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 6.
+Ablack4 posts the big blind [20 Tournament chips]
+12376, at seat 0, is in this hand with 1065 Tournament chips.
+kingdomkey, at seat 1, is in this hand with 980 Tournament chips.
+Bowkill57, at seat 2, is in this hand with 1505 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1000 Tournament chips.
+ArohaTahiti, at seat 4, is in this hand with 1000 Tournament chips.
+stokerjo, at seat 6, is in this hand with 4925 Tournament chips.
+Ablack4, at seat 8, is in this hand with 1320 Tournament chips.
+Ablack4 is dealt: **
+12376 is dealt: **
+kingdomkey is dealt: **
+Bowkill57 is dealt: **
+
+ArohaTahiti is dealt: **
+stokerjo is dealt: **
+Ablack4 is dealt: **
+12376 is dealt: **
+kingdomkey is dealt: **
+Bowkill57 is dealt: **
+
+ArohaTahiti is dealt: **
+stokerjo is dealt: **
+Dealt to 12376 [ **** ]
+Dealt to kingdomkey [ **** ]
+Dealt to Bowkill57 [ **** ]
+Dealt to QwertySpark [ Ks As ]
+Dealt to ArohaTahiti [ **** ]
+Dealt to stokerjo [ **** ]
+Dealt to Ablack4 [ **** ]
+12376 calls [20 Tournament chips]
+kingdomkey calls [20 Tournament chips]
+Bowkill57 calls [20 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+ArohaTahiti folds [200 Tournament chips]
+stokerjo folds [200 Tournament chips]
+Ablack4 calls [180 Tournament chips]
+12376 calls [180 Tournament chips]
+kingdomkey folds [180 Tournament chips]
+Bowkill57 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Kc ] board:[ 9d Kc]
+** Dealing Flop ** [ Ah ] board:[ 9d Kc Ah]
+Ablack4 checks
+12376 checks
+Bowkill57 bets for 20 Tournament chips
+QwertySpark raises [80 Tournament chips]
+Ablack4 calls [80 Tournament chips]
+12376 calls [80 Tournament chips]
+Bowkill57 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 9d Kc Ah 2d]
+Ablack4 checks
+12376 checks
+Bowkill57 checks
+QwertySpark bets for 550 Tournament chips
+Ablack4 folds [550 Tournament chips]
+12376 folds [550 Tournament chips]
+Bowkill57 folds [550 Tournament chips]
+QwertySpark is returned 550 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ks As 9d Kc Ah: two pair, aces and kings)
+QwertySpark wins main pot 1140 Tournament chips.
+Seat 0: 12376 (785 Tournament chips) 
+Seat 1: kingdomkey (960 Tournament chips) 
+Seat 2: Bowkill57 (1225 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (1000 Tournament chips) 
+Seat 5: Luc921 (1000 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 7: roocapt (1000 Tournament chips) 
+Seat 8: Ablack4 (1060 Tournament chips) 
+Game #23959910-3 ends
+Player 12376 leaves the table with 785 Tournament chips
+Player Bowkill57 leaves the table with 1225 Tournament chips
+Game #23959910-4 starts
+Seat 1: kingdomkey (960 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (1000 Tournament chips) 
+Seat 5: Luc921 (1000 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 7: roocapt (1000 Tournament chips) 
+Seat 8: Ablack4 (1060 Tournament chips) 
+The button is at seat 6
+Ablack4 posts the small blind [10 Tournament chips]
+kingdomkey posts the big blind [20 Tournament chips]
+kingdomkey, at seat 1, is in this hand with 940 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1860 Tournament chips.
+ArohaTahiti, at seat 4, is in this hand with 1000 Tournament chips.
+Luc921, at seat 5, is in this hand with 1000 Tournament chips.
+stokerjo, at seat 6, is in this hand with 4925 Tournament chips.
+Ablack4, at seat 8, is in this hand with 1050 Tournament chips.
+Ablack4 is dealt: **
+kingdomkey is dealt: **
+
+ArohaTahiti is dealt: **
+Luc921 is dealt: **
+stokerjo is dealt: **
+Ablack4 is dealt: **
+kingdomkey is dealt: **
+
+ArohaTahiti is dealt: **
+Luc921 is dealt: **
+stokerjo is dealt: **
+Dealt to kingdomkey [ **** ]
+Dealt to QwertySpark [ 5c 4h ]
+Dealt to ArohaTahiti [ **** ]
+Dealt to Luc921 [ **** ]
+Dealt to stokerjo [ **** ]
+Dealt to Ablack4 [ **** ]
+QwertySpark folds [20 Tournament chips]
+ArohaTahiti calls [20 Tournament chips]
+Luc921 calls [20 Tournament chips]
+stokerjo folds [20 Tournament chips]
+Ablack4 calls [10 Tournament chips]
+kingdomkey checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Th ] board:[ 7h Th]
+** Dealing Flop ** [ 2s ] board:[ 7h Th 2s]
+Ablack4 bets for 40 Tournament chips
+kingdomkey folds [40 Tournament chips]
+ArohaTahiti folds [40 Tournament chips]
+Luc921 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 7h Th 2s Ts]
+Ablack4 bets for 80 Tournament chips
+Luc921 calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 7h Th 2s Ts 9c]
+Ablack4 bets for 160 Tournament chips
+Luc921 folds [160 Tournament chips]
+Ablack4 is returned 160 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Ablack4 (7c 7h Th Ts 9c: two pair, tens and sevens)
+Ablack4 wins main pot 320 Tournament chips.
+Seat 0: Richy1964 (1000 Tournament chips) 
+Seat 1: kingdomkey (940 Tournament chips) 
+Seat 2: Jetcore911 (1000 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (980 Tournament chips) 
+Seat 5: Luc921 (860 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 7: roocapt (1000 Tournament chips) 
+Seat 8: Ablack4 (1240 Tournament chips) 
+Game #23959910-4 ends
+Game #23959910-5 starts
+Seat 0: Richy1964 (1000 Tournament chips) 
+Seat 1: kingdomkey (940 Tournament chips) 
+Seat 2: Jetcore911 (1000 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (980 Tournament chips) 
+Seat 5: Luc921 (860 Tournament chips) 
+Seat 6: stokerjo (4925 Tournament chips) 
+Seat 7: roocapt (1000 Tournament chips) 
+Seat 8: Ablack4 (1240 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+kingdomkey posts the small blind [10 Tournament chips]
+Jetcore911 posts the big blind [20 Tournament chips]
+kingdomkey, at seat 1, is in this hand with 930 Tournament chips.
+Jetcore911, at seat 2, is in this hand with 980 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1860 Tournament chips.
+ArohaTahiti, at seat 4, is in this hand with 980 Tournament chips.
+Luc921, at seat 5, is in this hand with 860 Tournament chips.
+stokerjo, at seat 6, is in this hand with 4925 Tournament chips.
+roocapt, at seat 7, is in this hand with 1000 Tournament chips.
+Ablack4, at seat 8, is in this hand with 1240 Tournament chips.
+kingdomkey is dealt: **
+Jetcore911 is dealt: **
+
+ArohaTahiti is dealt: **
+Luc921 is dealt: **
+stokerjo is dealt: **
+roocapt is dealt: **
+Ablack4 is dealt: **
+kingdomkey is dealt: **
+Jetcore911 is dealt: **
+
+ArohaTahiti is dealt: **
+Luc921 is dealt: **
+stokerjo is dealt: **
+roocapt is dealt: **
+Ablack4 is dealt: **
+Dealt to kingdomkey [ **** ]
+Dealt to Jetcore911 [ **** ]
+Dealt to QwertySpark [ 4h Ts ]
+Dealt to ArohaTahiti [ **** ]
+Dealt to Luc921 [ **** ]
+Dealt to stokerjo [ **** ]
+Dealt to roocapt [ **** ]
+Dealt to Ablack4 [ **** ]
+QwertySpark folds [20 Tournament chips]
+ArohaTahiti calls [20 Tournament chips]
+Luc921 calls [20 Tournament chips]
+stokerjo raises [40 Tournament chips]
+roocapt calls [40 Tournament chips]
+Ablack4 folds [40 Tournament chips]
+kingdomkey folds [30 Tournament chips]
+Jetcore911 calls [20 Tournament chips]
+ArohaTahiti calls [20 Tournament chips]
+Luc921 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Ah ] board:[ 8c Ah]
+** Dealing Flop ** [ 3s ] board:[ 8c Ah 3s]
+Jetcore911 goes all-in for 960 Tournament chips
+ArohaTahiti folds [940 Tournament chips]
+Luc921 calls all-in [820 Tournament chips]
+stokerjo folds [960 Tournament chips]
+roocapt folds [960 Tournament chips]
+Jetcore911 is returned 140 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Jetcore911 shows [ 3d 8s ]
+Luc921 shows [ 8h 2s ]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 8c Ah 3s Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 8c Ah 3s Kh 4c]
+        (no action in this round)
+Round 4 is over.
+Jetcore911 shows [ 3d 8s ] two pair, eights and threes, ace kicker
+Luc921 shows [ 8h 2s ] a pair of eights, ace/king kickers
+Jetcore911 wins main pot 1850 Tournament chips with two pair, eights and threes, ace kicker.
+Seat 0: Richy1964 (1000 Tournament chips) 
+Seat 1: kingdomkey (930 Tournament chips) 
+Seat 2: Jetcore911 (1990 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (940 Tournament chips) 
+Seat 5: Luc921 (0 Tournament chips) 
+Seat 6: stokerjo (4885 Tournament chips) 
+Seat 7: roocapt (960 Tournament chips) 
+Seat 8: Ablack4 (1240 Tournament chips) 
+Game #23959910-5 ends
+Player Richy1964 leaves the table with 1000 Tournament chips
+Player Luc921 leaves the table with 0 Tournament chips
+Game #23959910-6 starts
+Seat 1: kingdomkey (930 Tournament chips) 
+Seat 2: Jetcore911 (1990 Tournament chips) 
+Seat 3: QwertySpark (1860 Tournament chips) 
+Seat 4: ArohaTahiti (940 Tournament chips) 
+Seat 6: stokerjo (4885 Tournament chips) 
+Seat 7: roocapt (960 Tournament chips) 
+Seat 8: Ablack4 (1240 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Jetcore911 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+kingdomkey, at seat 1, is in this hand with 930 Tournament chips.
+Jetcore911, at seat 2, is in this hand with 1980 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1840 Tournament chips.
+ArohaTahiti, at seat 4, is in this hand with 940 Tournament chips.
+stokerjo, at seat 6, is in this hand with 4885 Tournament chips.
+roocapt, at seat 7, is in this hand with 960 Tournament chips.
+Ablack4, at seat 8, is in this hand with 1240 Tournament chips.
+Jetcore911 is dealt: **
+
+ArohaTahiti is dealt: **
+stokerjo is dealt: **
+roocapt is dealt: **
+Ablack4 is dealt: **
+kingdomkey is dealt: **
+Jetcore911 is dealt: **
+
+ArohaTahiti is dealt: **
+stokerjo is dealt: **
+roocapt is dealt: **
+Ablack4 is dealt: **
+kingdomkey is dealt: **
+Dealt to kingdomkey [ **** ]
+Dealt to Jetcore911 [ **** ]
+Dealt to QwertySpark [ Kd As ]
+Dealt to ArohaTahiti [ **** ]
+Dealt to stokerjo [ **** ]
+Dealt to roocapt [ **** ]
+Dealt to Ablack4 [ **** ]
+ArohaTahiti calls [20 Tournament chips]
+stokerjo calls [20 Tournament chips]
+roocapt calls [20 Tournament chips]
+Ablack4 folds [20 Tournament chips]
+kingdomkey calls [20 Tournament chips]
+Jetcore911 calls [10 Tournament chips]
+QwertySpark raises [280 Tournament chips]
+ArohaTahiti calls [280 Tournament chips]
+stokerjo folds [280 Tournament chips]
+roocapt folds [280 Tournament chips]
+kingdomkey folds [280 Tournament chips]
+Jetcore911 raises all-in [1970 Tournament chips]
+QwertySpark calls all-in [1560 Tournament chips]
+ArohaTahiti calls all-in [640 Tournament chips]
+Jetcore911 is returned 130 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Jetcore911 shows [ Ac 9s ]
+QwertySpark shows [ Kd As ]
+ArohaTahiti shows [ 7c Qc ]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 6s ] board:[ 9h 6s]
+** Dealing Flop ** [ 9c ] board:[ 9h 6s 9c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 9h 6s 9c 3s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 9h 6s 9c 3s Ks]
+        (no action in this round)
+Round 4 is over.
+Jetcore911 shows [ Ac 9s ] three nines, ace/king kickers
+QwertySpark shows [ Kd As ] two pair, kings and nines, ace kicker
+ArohaTahiti shows [ 7c Qc ] a pair of nines, king/queen kickers
+Jetcore911 wins main pot 2880 Tournament chips with three nines, ace/king kickers.
+Jetcore911 wins side pot #1 1840 Tournament chips with three nines, ace/king kickers.
+Seat 1: kingdomkey (910 Tournament chips) 
+Seat 2: Jetcore911 (4850 Tournament chips) 
+Seat 3: QwertySpark (0 Tournament chips) 
+Seat 4: ArohaTahiti (0 Tournament chips) 
+Seat 6: stokerjo (4865 Tournament chips) 
+Seat 7: roocapt (940 Tournament chips) 
+Seat 8: Ablack4 (1240 Tournament chips) 
+Game #23959910-6 ends
+Player ArohaTahiti leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

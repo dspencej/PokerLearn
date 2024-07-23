@@ -1,0 +1,2209 @@
+Game#: 24007363
+najk80 is dealt: **
+NativeSpirit is dealt: **
+QwertySpark is dealt: 2s
+Skurp67 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+tomperry is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+The button is moved to seat 7.
+Game #24007363-1 starts
+Seat 0: najk80 (1000 Tournament chips) 
+Seat 1: NativeSpirit (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: Skurp67 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (1000 Tournament chips) 
+Seat 6: tomperry (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (1000 Tournament chips) 
+The button is at seat 7
+Theduke54 posts the small blind [5 Tournament chips]
+najk80 posts the big blind [10 Tournament chips]
+najk80, at seat 0, is in this hand with 990 Tournament chips.
+NativeSpirit, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1000 Tournament chips.
+Skurp67, at seat 3, is in this hand with 1000 Tournament chips.
+stoner4752, at seat 4, is in this hand with 1000 Tournament chips.
+oelc, at seat 5, is in this hand with 1000 Tournament chips.
+tomperry, at seat 6, is in this hand with 1000 Tournament chips.
+boscott, at seat 7, is in this hand with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+Theduke54 is dealt: **
+najk80 is dealt: **
+NativeSpirit is dealt: **
+
+Skurp67 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+tomperry is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+najk80 is dealt: **
+NativeSpirit is dealt: **
+
+Skurp67 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+tomperry is dealt: **
+boscott is dealt: **
+Dealt to najk80 [ **** ]
+Dealt to NativeSpirit [ **** ]
+Dealt to QwertySpark [ Kh Ks ]
+Dealt to Skurp67 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to tomperry [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+NativeSpirit folds [10 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+Skurp67 folds [100 Tournament chips]
+stoner4752 folds [100 Tournament chips]
+oelc folds [100 Tournament chips]
+tomperry calls [100 Tournament chips]
+boscott folds [100 Tournament chips]
+Theduke54 folds [95 Tournament chips]
+najk80 raises all-in [990 Tournament chips]
+QwertySpark calls all-in [900 Tournament chips]
+tomperry folds [900 Tournament chips]
+Tournament all-in showdown -- players show:
+najk80 shows [ Ac 7d ]
+QwertySpark shows [ Kh Ks ]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 5d ] board:[ Th 5d]
+** Dealing Flop ** [ 2h ] board:[ Th 5d 2h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Th 5d 2h Qh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Th 5d 2h Qh 3h]
+        (no action in this round)
+Round 4 is over.
+najk80 shows [ Ac 7d ] ace/queen/ten high
+QwertySpark shows [ Kh Ks ] flush, king/queen/ten high
+QwertySpark wins main pot 2105 Tournament chips with flush, king/queen/ten high.
+Seat 0: najk80 (0 Tournament chips) 
+Seat 1: NativeSpirit (1000 Tournament chips) 
+Seat 2: QwertySpark (2105 Tournament chips) 
+Seat 3: Skurp67 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (1000 Tournament chips) 
+Seat 6: tomperry (900 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-1 ends
+Player Skurp67 leaves the table with 1000 Tournament chips
+Player tomperry leaves the table with 900 Tournament chips
+Player najk80 leaves the table with 0 Tournament chips
+Game #24007363-2 starts
+Seat 1: NativeSpirit (1000 Tournament chips) 
+Seat 2: QwertySpark (2105 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+NativeSpirit posts the big blind [10 Tournament chips]
+NativeSpirit, at seat 1, is in this hand with 990 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2105 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+oelc, at seat 5, is in this hand with 1000 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+NativeSpirit is dealt: **
+
+stoner4752 is dealt: **
+oelc is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+NativeSpirit is dealt: **
+
+stoner4752 is dealt: **
+oelc is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+Dealt to NativeSpirit [ **** ]
+Dealt to QwertySpark [ Ah 9d ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+QwertySpark calls [10 Tournament chips]
+stoner4752 folds [10 Tournament chips]
+oelc calls [10 Tournament chips]
+boscott folds [10 Tournament chips]
+Theduke54 folds [10 Tournament chips]
+NativeSpirit checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Ks ] board:[ 8s Ks]
+** Dealing Flop ** [ Kd ] board:[ 8s Ks Kd]
+NativeSpirit bets for 15 Tournament chips
+QwertySpark calls [15 Tournament chips]
+oelc calls [15 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 8s Ks Kd 7c]
+NativeSpirit bets for 30 Tournament chips
+QwertySpark folds [30 Tournament chips]
+oelc calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 8s Ks Kd 7c 8d]
+NativeSpirit bets for 135 Tournament chips
+oelc raises [540 Tournament chips]
+NativeSpirit raises all-in [810 Tournament chips]
+oelc calls all-in [405 Tournament chips]
+Tournament all-in showdown -- players show:
+NativeSpirit shows [ 2h 8h ]
+oelc shows [ Jc Kh ]
+Round 4 is over.
+NativeSpirit shows [ 2h 8h ] full house, eights full of kings
+oelc shows [ Jc Kh ] full house, kings full of eights
+oelc wins main pot 2025 Tournament chips with full house, kings full of eights.
+Seat 0: pokerjohn42w (1000 Tournament chips) 
+Seat 1: NativeSpirit (0 Tournament chips) 
+Seat 2: QwertySpark (2080 Tournament chips) 
+Seat 3: REbert1007 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-2 ends
+Player NativeSpirit leaves the table with 0 Tournament chips
+Game #24007363-3 starts
+Seat 0: pokerjohn42w (1000 Tournament chips) 
+Seat 1: dsummaz1 (1000 Tournament chips) 
+Seat 2: QwertySpark (2080 Tournament chips) 
+Seat 3: REbert1007 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 8
+dsummaz1 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+dsummaz1, at seat 1, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2060 Tournament chips.
+REbert1007, at seat 3, is in this hand with 1000 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+oelc, at seat 5, is in this hand with 2025 Tournament chips.
+electristatic, at seat 6, is in this hand with 1000 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 7h 9d ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+REbert1007 folds [20 Tournament chips]
+stoner4752 folds [20 Tournament chips]
+oelc folds [20 Tournament chips]
+electristatic folds [20 Tournament chips]
+boscott folds [20 Tournament chips]
+Theduke54 folds [20 Tournament chips]
+dsummaz1 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 4d ] board:[ 4h 4d]
+** Dealing Flop ** [ Jh ] board:[ 4h 4d Jh]
+dsummaz1 checks
+QwertySpark bets for 40 Tournament chips
+dsummaz1 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 4h 4d Jh Ts]
+dsummaz1 checks
+QwertySpark bets for 120 Tournament chips
+dsummaz1 folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9d 4h 4d Jh Ts: a pair of fours)
+QwertySpark wins main pot 120 Tournament chips.
+(dsummaz1 has entered the table, is no longer absent.)
+Seat 0: pokerjohn42w (1000 Tournament chips) 
+Seat 1: dsummaz1 (940 Tournament chips) 
+Seat 2: QwertySpark (2140 Tournament chips) 
+Seat 3: REbert1007 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-3 ends
+Game #24007363-4 starts
+Seat 0: pokerjohn42w (1000 Tournament chips) 
+Seat 1: dsummaz1 (940 Tournament chips) 
+Seat 2: QwertySpark (2140 Tournament chips) 
+Seat 3: REbert1007 (1000 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+REbert1007 posts the big blind [20 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 1000 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 940 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2130 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 980 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+oelc, at seat 5, is in this hand with 2025 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Qd 7d ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+stoner4752 folds [20 Tournament chips]
+oelc folds [20 Tournament chips]
+electristatic folds [20 Tournament chips]
+boscott folds [20 Tournament chips]
+Theduke54 folds [20 Tournament chips]
+pokerjohn42w calls [20 Tournament chips]
+dsummaz1 calls [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+REbert1007 folds
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6c ] board:[ 8h 6c]
+** Dealing Flop ** [ Td ] board:[ 8h 6c Td]
+QwertySpark bets for 60 Tournament chips
+pokerjohn42w calls [60 Tournament chips]
+dsummaz1 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 8h 6c Td 5h]
+QwertySpark checks
+pokerjohn42w checks
+dsummaz1 checks
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 8h 6c Td 5h 5s]
+QwertySpark checks
+pokerjohn42w checks
+(REbert1007 has entered the table, is no longer absent.)
+dsummaz1 bets for 260 Tournament chips
+QwertySpark folds [260 Tournament chips]
+pokerjohn42w folds [260 Tournament chips]
+dsummaz1 is returned 260 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dsummaz1 (5c 5d Td 5h 5s: four fives)
+dsummaz1 wins main pot 260 Tournament chips.
+Seat 0: pokerjohn42w (920 Tournament chips) 
+Seat 1: dsummaz1 (1120 Tournament chips) 
+Seat 2: QwertySpark (2060 Tournament chips) 
+Seat 3: REbert1007 (980 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-4 ends
+Game #24007363-5 starts
+Seat 0: pokerjohn42w (920 Tournament chips) 
+Seat 1: dsummaz1 (1120 Tournament chips) 
+Seat 2: QwertySpark (2060 Tournament chips) 
+Seat 3: REbert1007 (980 Tournament chips) 
+Seat 4: stoner4752 (1000 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+REbert1007 posts the small blind [15 Tournament chips]
+stoner4752 posts the big blind [30 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 920 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1120 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2060 Tournament chips.
+REbert1007, at seat 3, is in this hand with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 970 Tournament chips.
+oelc, at seat 5, is in this hand (absent) with 2025 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Qd 6h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+oelc folds [30 Tournament chips]
+electristatic folds [30 Tournament chips]
+boscott folds [30 Tournament chips]
+Theduke54 folds [30 Tournament chips]
+pokerjohn42w folds [30 Tournament chips]
+dsummaz1 calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+REbert1007 folds [15 Tournament chips]
+stoner4752 folds
+round 1 is over.
+Hand evaluation for dsummaz1 (Ah Tc: ace high)
+dsummaz1 wins main pot 75 Tournament chips.
+Seat 0: pokerjohn42w (920 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2060 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (970 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-5 ends
+Game #24007363-6 starts
+Seat 0: pokerjohn42w (920 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2060 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (970 Tournament chips) 
+Seat 5: oelc (2025 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+stoner4752 posts the small blind [15 Tournament chips]
+oelc posts the big blind [30 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 920 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1165 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2060 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand (absent) with 1995 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 5c Ad ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+electristatic folds [30 Tournament chips]
+boscott folds [30 Tournament chips]
+Theduke54 folds [30 Tournament chips]
+pokerjohn42w calls [30 Tournament chips]
+dsummaz1 folds [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+REbert1007 folds [150 Tournament chips]
+stoner4752 folds [135 Tournament chips]
+oelc folds [120 Tournament chips]
+pokerjohn42w calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Th ] board:[ 8d Th]
+** Dealing Flop ** [ Qs ] board:[ 8d Th Qs]
+pokerjohn42w checks
+QwertySpark bets for 202 Tournament chips
+(oelc has entered the table, is no longer absent.)
+pokerjohn42w calls [202 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 8d Th Qs Ac]
+pokerjohn42w checks
+QwertySpark bets for 539 Tournament chips
+pokerjohn42w folds [539 Tournament chips]
+QwertySpark is returned 539 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ad 8d Th Qs Ac: a pair of aces)
+QwertySpark wins main pot 749 Tournament chips.
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (1995 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-6 ends
+Game #24007363-7 starts
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (1995 Tournament chips) 
+Seat 6: electristatic (1000 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+oelc posts the small blind [20 Tournament chips]
+electristatic posts the big blind [40 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 568 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1165 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2457 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 1975 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 960 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 3d 4c ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+boscott folds [40 Tournament chips]
+Theduke54 folds [40 Tournament chips]
+pokerjohn42w folds [40 Tournament chips]
+dsummaz1 folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+REbert1007 folds [40 Tournament chips]
+stoner4752 folds [40 Tournament chips]
+oelc calls [20 Tournament chips]
+electristatic folds
+round 1 is over.
+Hand evaluation for oelc (Qc 3s: queen high)
+oelc wins main pot 80 Tournament chips.
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2035 Tournament chips) 
+Seat 6: electristatic (960 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-7 ends
+Game #24007363-8 starts
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1165 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2035 Tournament chips) 
+Seat 6: electristatic (960 Tournament chips) 
+Seat 7: boscott (1000 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+electristatic posts the small blind [20 Tournament chips]
+boscott posts the big blind [40 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 568 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1165 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2457 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2035 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 960 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 995 Tournament chips.
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Ks Qh ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+Theduke54 folds [40 Tournament chips]
+pokerjohn42w folds [40 Tournament chips]
+dsummaz1 calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+REbert1007 folds [40 Tournament chips]
+stoner4752 folds [40 Tournament chips]
+oelc folds [40 Tournament chips]
+electristatic folds [20 Tournament chips]
+boscott folds
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Jc ] board:[ Th Jc]
+** Dealing Flop ** [ 4h ] board:[ Th Jc 4h]
+dsummaz1 checks
+QwertySpark bets for 80 Tournament chips
+dsummaz1 calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Th Jc 4h 9d]
+dsummaz1 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Th Jc 4h 9d Ah]
+dsummaz1 checks
+QwertySpark bets for 190 Tournament chips
+dsummaz1 folds [190 Tournament chips]
+QwertySpark is returned 190 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ks Qh Th Jc Ah: straight, ace high)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1045 Tournament chips) 
+Seat 2: QwertySpark (2637 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2035 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (960 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+Game #24007363-8 ends
+Game #24007363-9 starts
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (1045 Tournament chips) 
+Seat 2: QwertySpark (2637 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2035 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (960 Tournament chips) 
+Seat 8: Theduke54 (995 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+boscott posts the small blind [30 Tournament chips]
+Theduke54 posts the big blind [60 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 568 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1045 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2637 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2035 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 935 Tournament chips.
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Ac 2h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+pokerjohn42w folds [60 Tournament chips]
+dsummaz1 calls [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+REbert1007 folds [60 Tournament chips]
+stoner4752 folds [60 Tournament chips]
+oelc calls [60 Tournament chips]
+electristatic folds [60 Tournament chips]
+boscott folds [30 Tournament chips]
+Theduke54 folds
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 9h ] board:[ 2d 9h]
+** Dealing Flop ** [ 4d ] board:[ 2d 9h 4d]
+dsummaz1 checks
+QwertySpark checks
+oelc checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 2d 9h 4d 8c]
+dsummaz1 checks
+QwertySpark bets for 120 Tournament chips
+oelc calls [120 Tournament chips]
+dsummaz1 folds [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 2d 9h 4d 8c 9d]
+QwertySpark checks
+oelc checks
+Round 4 is over.
+QwertySpark shows [ Ac 2h ] two pair, nines and deuces
+Hand evaluation for QwertySpark (Ac 2h 2d 9h 9d: two pair, nines and deuces)
+oelc shows [ Td 9s ] three nines
+Hand evaluation for oelc (Td 9s 9h 8c 9d: three nines)
+oelc wins main pot 510 Tournament chips with three nines, ten/eight kickers.
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (985 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (935 Tournament chips) 
+Game #24007363-9 ends
+Game #24007363-10 starts
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (985 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (935 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Theduke54 posts the small blind [30 Tournament chips]
+pokerjohn42w posts the big blind [60 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 508 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 985 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2457 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2365 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ As 6c ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+dsummaz1 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+REbert1007 folds [60 Tournament chips]
+stoner4752 folds [60 Tournament chips]
+oelc folds [60 Tournament chips]
+electristatic folds [60 Tournament chips]
+boscott folds [60 Tournament chips]
+Theduke54 folds [30 Tournament chips]
+pokerjohn42w is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for pokerjohn42w (Jh Jd: a pair of jacks)
+pokerjohn42w wins main pot 60 Tournament chips.
+Seat 0: pokerjohn42w (598 Tournament chips) 
+Seat 1: dsummaz1 (985 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-10 ends
+Game #24007363-11 starts
+Seat 0: pokerjohn42w (598 Tournament chips) 
+Seat 1: dsummaz1 (985 Tournament chips) 
+Seat 2: QwertySpark (2457 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+pokerjohn42w posts the small blind [30 Tournament chips]
+dsummaz1 posts the big blind [60 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 568 Tournament chips.
+dsummaz1, at seat 1, is in this hand (absent) with 925 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2457 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2365 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Qs 4s ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+QwertySpark raises [120 Tournament chips]
+REbert1007 folds [120 Tournament chips]
+stoner4752 folds [120 Tournament chips]
+oelc folds [120 Tournament chips]
+electristatic folds [120 Tournament chips]
+boscott folds [120 Tournament chips]
+Theduke54 folds [120 Tournament chips]
+pokerjohn42w folds [90 Tournament chips]
+dsummaz1 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qs 4s: queen high)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (925 Tournament chips) 
+Seat 2: QwertySpark (2547 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-11 ends
+Game #24007363-12 starts
+Seat 0: pokerjohn42w (568 Tournament chips) 
+Seat 1: dsummaz1 (925 Tournament chips) 
+Seat 2: QwertySpark (2547 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2365 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+dsummaz1 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 568 Tournament chips.
+dsummaz1, at seat 1, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2487 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 965 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2365 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 6d 9s ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+REbert1007 folds [60 Tournament chips]
+stoner4752 folds [60 Tournament chips]
+oelc calls [60 Tournament chips]
+electristatic folds [60 Tournament chips]
+boscott folds [60 Tournament chips]
+Theduke54 folds [60 Tournament chips]
+(dsummaz1 has entered the table, is no longer absent.)
+pokerjohn42w calls [60 Tournament chips]
+dsummaz1 calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 4c ] board:[ Qh 4c]
+** Dealing Flop ** [ Ac ] board:[ Qh 4c Ac]
+dsummaz1 has timed out - the hand is checked
+QwertySpark checks
+oelc checks
+pokerjohn42w checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Qh 4c Ac 8h]
+dsummaz1 checks
+QwertySpark checks
+oelc checks
+pokerjohn42w checks
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Qh 4c Ac 8h 7h]
+dsummaz1 checks
+QwertySpark checks
+oelc checks
+pokerjohn42w checks
+Round 4 is over.
+dsummaz1 shows [ 2d Qd ] a pair of queens
+Hand evaluation for dsummaz1 (Qd Qh Ac 8h 7h: a pair of queens)
+QwertySpark doesn't show [ 6d 9s ]
+(QwertySpark has 6d 9s.)
+oelc doesn't show [ Jc Kc ]
+(oelc has Jc Kc.)
+pokerjohn42w doesn't show [ Tc 9h ]
+(pokerjohn42w has Tc 9h.)
+dsummaz1 wins main pot 240 Tournament chips with a pair of queens, ace/eight kickers.
+Seat 0: pokerjohn42w (508 Tournament chips) 
+Seat 1: dsummaz1 (1105 Tournament chips) 
+Seat 2: QwertySpark (2487 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-12 ends
+Game #24007363-13 starts
+Seat 0: pokerjohn42w (508 Tournament chips) 
+Seat 1: dsummaz1 (1105 Tournament chips) 
+Seat 2: QwertySpark (2487 Tournament chips) 
+Seat 3: REbert1007 (965 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+REbert1007 posts the big blind [100 Tournament chips]
+pokerjohn42w, at seat 0, is in this hand with 508 Tournament chips.
+dsummaz1, at seat 1, is in this hand with 1105 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2437 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 865 Tournament chips.
+stoner4752, at seat 4, is in this hand with 955 Tournament chips.
+oelc, at seat 5, is in this hand with 2305 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+pokerjohn42w is dealt: **
+dsummaz1 is dealt: **
+Dealt to pokerjohn42w [ **** ]
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Ac Kc ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+stoner4752 folds [100 Tournament chips]
+oelc folds [100 Tournament chips]
+electristatic folds [100 Tournament chips]
+boscott folds [100 Tournament chips]
+Theduke54 folds [100 Tournament chips]
+pokerjohn42w calls [100 Tournament chips]
+dsummaz1 calls [100 Tournament chips]
+QwertySpark raises [450 Tournament chips]
+REbert1007 folds [400 Tournament chips]
+pokerjohn42w raises all-in [408 Tournament chips]
+dsummaz1 folds [408 Tournament chips]
+QwertySpark calls [8 Tournament chips]
+Tournament all-in showdown -- players show:
+pokerjohn42w shows [ 8d Jc ]
+QwertySpark shows [ Ac Kc ]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 3s ] board:[ 9c 3s]
+** Dealing Flop ** [ 4h ] board:[ 9c 3s 4h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 9c 3s 4h 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 9c 3s 4h 4c 2c]
+        (no action in this round)
+Round 4 is over.
+pokerjohn42w shows [ 8d Jc ] a pair of fours, jack/nine kickers
+QwertySpark shows [ Ac Kc ] flush, ace/king/nine high
+QwertySpark wins main pot 1216 Tournament chips with flush, ace/king/nine high.
+Seat 0: pokerjohn42w (0 Tournament chips) 
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (3195 Tournament chips) 
+Seat 3: REbert1007 (865 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-13 ends
+Player pokerjohn42w leaves the table with 0 Tournament chips
+Game #24007363-14 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (3195 Tournament chips) 
+Seat 3: REbert1007 (865 Tournament chips) 
+Seat 4: stoner4752 (955 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+REbert1007 posts the small blind [75 Tournament chips]
+stoner4752 posts the big blind [150 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3195 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand with 805 Tournament chips.
+oelc, at seat 5, is in this hand with 2305 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Ts 4d ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+oelc folds [150 Tournament chips]
+electristatic folds [150 Tournament chips]
+boscott folds [150 Tournament chips]
+Theduke54 folds [150 Tournament chips]
+dsummaz1 folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+REbert1007 folds [75 Tournament chips]
+stoner4752 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 7c ] board:[ Qc 7c]
+** Dealing Flop ** [ Ks ] board:[ Qc 7c Ks]
+stoner4752 has timed out - the hand is checked
+QwertySpark bets for 150 Tournament chips
+stoner4752 folds [150 Tournament chips]
+QwertySpark is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ts 4d Qc 7c Ks: king high)
+QwertySpark wins main pot 375 Tournament chips.
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (3420 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (805 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-14 ends
+Game #24007363-15 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (3420 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (805 Tournament chips) 
+Seat 5: oelc (2305 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+stoner4752 posts the small blind [75 Tournament chips]
+oelc posts the big blind [150 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3420 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 2155 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 940 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 8d 9c ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+electristatic folds [150 Tournament chips]
+boscott folds [150 Tournament chips]
+Theduke54 folds [150 Tournament chips]
+dsummaz1 folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+REbert1007 folds [150 Tournament chips]
+stoner4752 folds [75 Tournament chips]
+oelc checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 8s ] board:[ 8h 8s]
+** Dealing Flop ** [ Js ] board:[ 8h 8s Js]
+oelc checks
+QwertySpark bets for 150 Tournament chips
+oelc calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 8h 8s Js 5h]
+oelc checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 8h 8s Js 5h 6c]
+oelc bets for 150 Tournament chips
+QwertySpark raises [1125 Tournament chips]
+oelc raises all-in [1855 Tournament chips]
+QwertySpark calls [880 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 8d 9c ]
+oelc shows [ Ac 8c ]
+Round 4 is over.
+QwertySpark shows [ 8d 9c ] three eights, jack/nine kickers
+oelc shows [ Ac 8c ] three eights, ace/jack kickers
+oelc wins main pot 4685 Tournament chips with three eights, ace/jack kickers.
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1115 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4685 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-15 ends
+Game #24007363-16 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1115 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4685 Tournament chips) 
+Seat 6: electristatic (940 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+oelc posts the small blind [100 Tournament chips]
+electristatic posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1115 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4585 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 740 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 930 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 4d Ad ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+boscott folds [200 Tournament chips]
+Theduke54 folds [200 Tournament chips]
+dsummaz1 folds [200 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+REbert1007 folds [400 Tournament chips]
+stoner4752 folds [400 Tournament chips]
+oelc folds [300 Tournament chips]
+electristatic folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (4d Ad: ace high)
+QwertySpark wins main pot 500 Tournament chips.
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1415 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4585 Tournament chips) 
+Seat 6: electristatic (740 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-16 ends
+Game #24007363-17 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1415 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4585 Tournament chips) 
+Seat 6: electristatic (740 Tournament chips) 
+Seat 7: boscott (930 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+electristatic posts the small blind [100 Tournament chips]
+boscott posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1415 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4585 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 730 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 905 Tournament chips.
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 2h Qs ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+Theduke54 folds [200 Tournament chips]
+dsummaz1 folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+REbert1007 folds [200 Tournament chips]
+stoner4752 folds [200 Tournament chips]
+oelc calls [200 Tournament chips]
+electristatic folds [100 Tournament chips]
+boscott folds
+round 1 is over.
+Hand evaluation for oelc (Tc 2c: ten high)
+oelc wins main pot 500 Tournament chips.
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1415 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (730 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+Game #24007363-17 ends
+Game #24007363-18 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1415 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (730 Tournament chips) 
+Seat 8: Theduke54 (905 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+boscott posts the small blind [100 Tournament chips]
+Theduke54 posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1415 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4885 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 705 Tournament chips.
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 2h Ac ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+dsummaz1 folds [200 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+REbert1007 folds [400 Tournament chips]
+stoner4752 folds [400 Tournament chips]
+oelc folds [400 Tournament chips]
+electristatic folds [400 Tournament chips]
+boscott folds [300 Tournament chips]
+Theduke54 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2h Ac: ace high)
+QwertySpark wins main pot 500 Tournament chips.
+(dsummaz1 has entered the table, is no longer absent.)
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1715 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (705 Tournament chips) 
+Game #24007363-18 ends
+Game #24007363-19 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1715 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (705 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Theduke54 posts the small blind [100 Tournament chips]
+dsummaz1 posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 805 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1715 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4885 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 605 Tournament chips.
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 2d 4h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+QwertySpark folds [200 Tournament chips]
+REbert1007 folds [200 Tournament chips]
+stoner4752 folds [200 Tournament chips]
+oelc folds [200 Tournament chips]
+electristatic folds [200 Tournament chips]
+boscott folds [200 Tournament chips]
+Theduke54 folds [100 Tournament chips]
+dsummaz1 is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for dsummaz1 (3h 4d: four high)
+dsummaz1 wins main pot 200 Tournament chips.
+Seat 1: dsummaz1 (1105 Tournament chips) 
+Seat 2: QwertySpark (1715 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (605 Tournament chips) 
+Game #24007363-19 ends
+Game #24007363-20 starts
+Seat 1: dsummaz1 (1105 Tournament chips) 
+Seat 2: QwertySpark (1715 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (605 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+dsummaz1 posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1515 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 790 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4885 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 605 Tournament chips.
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ 6s Kd ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+REbert1007 folds [200 Tournament chips]
+stoner4752 folds [200 Tournament chips]
+oelc folds [200 Tournament chips]
+electristatic folds [200 Tournament chips]
+boscott folds [200 Tournament chips]
+Theduke54 folds [200 Tournament chips]
+dsummaz1 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (6s Kd: king high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1815 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (605 Tournament chips) 
+Game #24007363-20 ends
+Game #24007363-21 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (1815 Tournament chips) 
+Seat 3: REbert1007 (790 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (605 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+QwertySpark posts the small blind [100 Tournament chips]
+REbert1007 posts the big blind [200 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1715 Tournament chips.
+REbert1007, at seat 3, is in this hand with 590 Tournament chips.
+stoner4752, at seat 4, is in this hand with 730 Tournament chips.
+oelc, at seat 5, is in this hand with 4885 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+Theduke54, at seat 8, is in this hand (absent) with 605 Tournament chips.
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Theduke54 is dealt: **
+dsummaz1 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Kc 2h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Dealt to Theduke54 [ **** ]
+stoner4752 folds [200 Tournament chips]
+oelc folds [200 Tournament chips]
+electristatic folds [200 Tournament chips]
+boscott folds [200 Tournament chips]
+Theduke54 folds [200 Tournament chips]
+dsummaz1 folds [200 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+REbert1007 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kc 2h: king high)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 0: Angelmejia (920 Tournament chips) 
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (2015 Tournament chips) 
+Seat 3: REbert1007 (590 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Seat 8: Theduke54 (605 Tournament chips) 
+Game #24007363-21 ends
+Player Theduke54 leaves the table with 0 Tournament chips
+Player Angelmejia leaves the table with 0 Tournament chips
+Game #24007363-22 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (2015 Tournament chips) 
+Seat 3: REbert1007 (590 Tournament chips) 
+Seat 4: stoner4752 (730 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+REbert1007 posts the small blind [150 Tournament chips]
+stoner4752 posts the big blind [300 Tournament chips]
+dsummaz1, at seat 1, is in this hand (absent) with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2015 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 440 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 430 Tournament chips.
+oelc, at seat 5, is in this hand with 4885 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+dsummaz1 is dealt: **
+
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ Kh 6h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+oelc folds [300 Tournament chips]
+electristatic folds [300 Tournament chips]
+boscott folds [300 Tournament chips]
+dsummaz1 folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+REbert1007 folds [150 Tournament chips]
+stoner4752 folds
+round 1 is over.
+Hand evaluation for QwertySpark (Kh 6h: king high)
+QwertySpark wins main pot 750 Tournament chips.
+(dsummaz1 has entered the table, is no longer absent.)
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (2465 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (430 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Game #24007363-22 ends
+Game #24007363-23 starts
+Seat 1: dsummaz1 (1005 Tournament chips) 
+Seat 2: QwertySpark (2465 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (430 Tournament chips) 
+Seat 5: oelc (4885 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+stoner4752 posts the small blind [150 Tournament chips]
+oelc posts the big blind [300 Tournament chips]
+dsummaz1, at seat 1, is in this hand with 1005 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2465 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 440 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 280 Tournament chips.
+oelc, at seat 5, is in this hand with 4585 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 640 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+dsummaz1 is dealt: **
+
+REbert1007 is dealt: **
+Dealt to dsummaz1 [ **** ]
+Dealt to QwertySpark [ As 8s ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+electristatic folds [300 Tournament chips]
+boscott folds [300 Tournament chips]
+dsummaz1 calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+REbert1007 folds [300 Tournament chips]
+stoner4752 folds [150 Tournament chips]
+oelc raises all-in [4585 Tournament chips]
+dsummaz1 calls all-in [705 Tournament chips]
+QwertySpark folds [2165 Tournament chips]
+oelc is returned 3880 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+dsummaz1 shows [ 6d 6c ]
+oelc shows [ Th Td ]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 7s ] board:[ 7c 7s]
+** Dealing Flop ** [ 8c ] board:[ 7c 7s 8c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 7c 7s 8c 7d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 7c 7s 8c 7d Js]
+        (no action in this round)
+Round 4 is over.
+dsummaz1 shows [ 6d 6c ] full house, sevens full of sixes
+oelc shows [ Th Td ] full house, sevens full of tens
+oelc wins main pot 2460 Tournament chips with full house, sevens full of tens.
+Seat 1: dsummaz1 (0 Tournament chips) 
+Seat 2: QwertySpark (2165 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (280 Tournament chips) 
+Seat 5: oelc (6340 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Game #24007363-23 ends
+Player dsummaz1 leaves the table with 0 Tournament chips
+Game #24007363-24 starts
+Seat 2: QwertySpark (2165 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (280 Tournament chips) 
+Seat 5: oelc (6340 Tournament chips) 
+Seat 6: electristatic (640 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+oelc posts the small blind [150 Tournament chips]
+electristatic posts the big blind [300 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2165 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 440 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 280 Tournament chips.
+oelc, at seat 5, is in this hand with 6190 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 340 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 630 Tournament chips.
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+Dealt to QwertySpark [ 2s Ac ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+boscott folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+REbert1007 folds [300 Tournament chips]
+stoner4752 folds [280 Tournament chips]
+oelc calls [150 Tournament chips]
+electristatic folds
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 4d ] board:[ 9c 4d]
+** Dealing Flop ** [ 7s ] board:[ 9c 4d 7s]
+oelc checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 9c 4d 7s 3s]
+oelc checks
+QwertySpark bets for 300 Tournament chips
+oelc calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 9c 4d 7s 3s 8c]
+oelc checks
+QwertySpark checks
+Round 4 is over.
+oelc shows [ Jh Th ] straight, jack high
+Hand evaluation for oelc (Jh Th 9c 7s 8c: straight, jack high)
+QwertySpark doesn't show [ 2s Ac ]
+(QwertySpark has 2s Ac.)
+oelc wins main pot 1500 Tournament chips with straight, jack high.
+Seat 0: Danda2424 (1900 Tournament chips) 
+Seat 1: Smitty827 (3270 Tournament chips) 
+Seat 2: QwertySpark (1565 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (280 Tournament chips) 
+Seat 5: oelc (7240 Tournament chips) 
+Seat 6: electristatic (340 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+Game #24007363-24 ends
+Game #24007363-25 starts
+Seat 0: Danda2424 (1900 Tournament chips) 
+Seat 1: Smitty827 (3270 Tournament chips) 
+Seat 2: QwertySpark (1565 Tournament chips) 
+Seat 3: REbert1007 (440 Tournament chips) 
+Seat 4: stoner4752 (280 Tournament chips) 
+Seat 5: oelc (7240 Tournament chips) 
+Seat 6: electristatic (340 Tournament chips) 
+Seat 7: boscott (630 Tournament chips) 
+The button is at seat 4
+Danda2424 posted ante of 25 Tournament chips
+Smitty827 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+REbert1007 posted ante of 25 Tournament chips
+stoner4752 posted ante of 25 Tournament chips
+oelc posted ante of 25 Tournament chips
+electristatic posted ante of 25 Tournament chips
+boscott posted ante of 25 Tournament chips
+The button is moved to seat 5.
+electristatic posts the small blind [150 Tournament chips]
+boscott posts the big blind [300 Tournament chips]
+Danda2424, at seat 0, is in this hand with 1875 Tournament chips.
+Smitty827, at seat 1, is in this hand with 3245 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1540 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 415 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 255 Tournament chips.
+oelc, at seat 5, is in this hand with 7215 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 165 Tournament chips.
+boscott, at seat 7, is in this hand (absent) with 305 Tournament chips.
+electristatic is dealt: **
+boscott is dealt: **
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+Dealt to Danda2424 [ **** ]
+Dealt to Smitty827 [ **** ]
+Dealt to QwertySpark [ Ts Kh ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Danda2424 folds [300 Tournament chips]
+Smitty827 calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+REbert1007 folds [300 Tournament chips]
+stoner4752 folds [255 Tournament chips]
+oelc folds [300 Tournament chips]
+electristatic folds [150 Tournament chips]
+boscott checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 4d ] board:[ Td 4d]
+** Dealing Flop ** [ 9d ] board:[ Td 4d 9d]
+boscott checks
+Smitty827 bets for 300 Tournament chips
+boscott folds [300 Tournament chips]
+Smitty827 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Smitty827 (Ks Qc Td 4d 9d: king high)
+Smitty827 wins main pot 950 Tournament chips.
+Seat 0: Danda2424 (1875 Tournament chips) 
+Seat 1: Smitty827 (3895 Tournament chips) 
+Seat 2: QwertySpark (1540 Tournament chips) 
+Seat 3: REbert1007 (415 Tournament chips) 
+Seat 4: stoner4752 (255 Tournament chips) 
+Seat 5: oelc (7215 Tournament chips) 
+Seat 6: electristatic (165 Tournament chips) 
+Seat 7: boscott (305 Tournament chips) 
+Game #24007363-25 ends
+Game #24007363-26 starts
+Seat 0: Danda2424 (1875 Tournament chips) 
+Seat 1: Smitty827 (3895 Tournament chips) 
+Seat 2: QwertySpark (1540 Tournament chips) 
+Seat 3: REbert1007 (415 Tournament chips) 
+Seat 4: stoner4752 (255 Tournament chips) 
+Seat 5: oelc (7215 Tournament chips) 
+Seat 6: electristatic (165 Tournament chips) 
+Seat 7: boscott (305 Tournament chips) 
+The button is at seat 5
+Danda2424 posted ante of 25 Tournament chips
+Smitty827 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+REbert1007 posted ante of 25 Tournament chips
+stoner4752 posted ante of 25 Tournament chips
+electristatic posted ante of 25 Tournament chips
+oelc posted ante of 25 Tournament chips
+boscott posted ante of 25 Tournament chips
+The button is moved to seat 6.
+boscott posts the small blind [150 Tournament chips]
+Danda2424 posts the big blind [300 Tournament chips]
+Danda2424, at seat 0, is in this hand with 1550 Tournament chips.
+Smitty827, at seat 1, is in this hand with 3870 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1515 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 390 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 230 Tournament chips.
+oelc, at seat 5, is in this hand with 7190 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 140 Tournament chips.
+boscott, at seat 7, is in this hand with 130 Tournament chips.
+boscott is dealt: **
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+Dealt to Danda2424 [ **** ]
+Dealt to Smitty827 [ **** ]
+Dealt to QwertySpark [ 7d 5h ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+Smitty827 raises [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+REbert1007 folds [390 Tournament chips]
+stoner4752 folds [230 Tournament chips]
+oelc folds [600 Tournament chips]
+electristatic folds [140 Tournament chips]
+boscott folds [130 Tournament chips]
+Danda2424 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 9s ] board:[ Jh 9s]
+** Dealing Flop ** [ 6h ] board:[ Jh 9s 6h]
+Danda2424 checks
+Smitty827 bets for 300 Tournament chips
+Danda2424 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Jh 9s 6h Th]
+Danda2424 checks
+Smitty827 bets for 300 Tournament chips
+Danda2424 calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ Jh 9s 6h Th Kh]
+Danda2424 checks
+Smitty827 goes all-in for 2670 Tournament chips
+Danda2424 folds [650 Tournament chips]
+Smitty827 is returned 2670 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Smitty827 (Ad Jh 9s Th Kh: ace high)
+Smitty827 wins main pot 2750 Tournament chips.
+Seat 0: Danda2424 (650 Tournament chips) 
+Seat 1: Smitty827 (5420 Tournament chips) 
+Seat 2: QwertySpark (1515 Tournament chips) 
+Seat 3: REbert1007 (390 Tournament chips) 
+Seat 4: stoner4752 (230 Tournament chips) 
+Seat 5: oelc (7190 Tournament chips) 
+Seat 6: electristatic (140 Tournament chips) 
+Seat 7: boscott (130 Tournament chips) 
+Game #24007363-26 ends
+Game #24007363-27 starts
+Seat 0: Danda2424 (650 Tournament chips) 
+Seat 1: Smitty827 (5420 Tournament chips) 
+Seat 2: QwertySpark (1515 Tournament chips) 
+Seat 3: REbert1007 (390 Tournament chips) 
+Seat 4: stoner4752 (230 Tournament chips) 
+Seat 5: oelc (7190 Tournament chips) 
+Seat 6: electristatic (140 Tournament chips) 
+Seat 7: boscott (130 Tournament chips) 
+The button is at seat 6
+Danda2424 posted ante of 25 Tournament chips
+Smitty827 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+REbert1007 posted ante of 25 Tournament chips
+stoner4752 posted ante of 25 Tournament chips
+oelc posted ante of 25 Tournament chips
+electristatic posted ante of 25 Tournament chips
+boscott posted ante of 25 Tournament chips
+The button is moved to seat 7.
+Danda2424 posts the small blind [150 Tournament chips]
+Smitty827 posts the big blind [300 Tournament chips]
+Danda2424, at seat 0, is in this hand with 475 Tournament chips.
+Smitty827, at seat 1, is in this hand with 5095 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1490 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 365 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 205 Tournament chips.
+oelc, at seat 5, is in this hand with 7165 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 115 Tournament chips.
+boscott, at seat 7, is in this hand with 105 Tournament chips.
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Danda2424 is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Dealt to Danda2424 [ **** ]
+Dealt to Smitty827 [ **** ]
+Dealt to QwertySpark [ Qd 2d ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+QwertySpark calls [300 Tournament chips]
+REbert1007 folds [300 Tournament chips]
+stoner4752 folds [205 Tournament chips]
+oelc folds [300 Tournament chips]
+electristatic folds [115 Tournament chips]
+boscott folds [105 Tournament chips]
+Danda2424 calls [150 Tournament chips]
+Smitty827 checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2h ] board:[ 4h 2h]
+** Dealing Flop ** [ 8s ] board:[ 4h 2h 8s]
+Danda2424 checks
+Smitty827 goes all-in for 5095 Tournament chips
+QwertySpark folds [1190 Tournament chips]
+Danda2424 calls all-in [325 Tournament chips]
+Smitty827 is returned 4770 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Danda2424 shows [ 7c 5d ]
+Smitty827 shows [ 6s 8c ]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 4h 2h 8s 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 4h 2h 8s 2c Ts]
+        (no action in this round)
+Round 4 is over.
+Danda2424 shows [ 7c 5d ] a pair of deuces, ten/eight kickers
+Smitty827 shows [ 6s 8c ] two pair, eights and deuces, ten kicker
+Smitty827 wins main pot 1750 Tournament chips with two pair, eights and deuces, ten kicker.
+Seat 0: Danda2424 (0 Tournament chips) 
+Seat 1: Smitty827 (6520 Tournament chips) 
+Seat 2: QwertySpark (1190 Tournament chips) 
+Seat 3: REbert1007 (365 Tournament chips) 
+Seat 4: stoner4752 (205 Tournament chips) 
+Seat 5: oelc (7165 Tournament chips) 
+Seat 6: electristatic (115 Tournament chips) 
+Seat 7: boscott (105 Tournament chips) 
+Game #24007363-27 ends
+Player Danda2424 leaves the table with 0 Tournament chips
+Game #24007363-28 starts
+Seat 1: Smitty827 (6520 Tournament chips) 
+Seat 2: QwertySpark (1190 Tournament chips) 
+Seat 3: REbert1007 (365 Tournament chips) 
+Seat 4: stoner4752 (205 Tournament chips) 
+Seat 5: oelc (7165 Tournament chips) 
+Seat 6: electristatic (115 Tournament chips) 
+Seat 7: boscott (105 Tournament chips) 
+The button is at seat 7
+Smitty827 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+REbert1007 posted ante of 50 Tournament chips
+stoner4752 posted ante of 50 Tournament chips
+oelc posted ante of 50 Tournament chips
+electristatic posted ante of 50 Tournament chips
+boscott posted ante of 50 Tournament chips
+The button is moved to seat 0.
+Smitty827 posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+Smitty827, at seat 1, is in this hand with 6270 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 740 Tournament chips.
+REbert1007, at seat 3, is in this hand (absent) with 315 Tournament chips.
+stoner4752, at seat 4, is in this hand (absent) with 155 Tournament chips.
+oelc, at seat 5, is in this hand with 7115 Tournament chips.
+electristatic, at seat 6, is in this hand (absent) with 65 Tournament chips.
+boscott, at seat 7, is in this hand with 55 Tournament chips.
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Smitty827 is dealt: **
+
+REbert1007 is dealt: **
+stoner4752 is dealt: **
+oelc is dealt: **
+electristatic is dealt: **
+boscott is dealt: **
+Dealt to Smitty827 [ **** ]
+Dealt to QwertySpark [ Qh Th ]
+Dealt to REbert1007 [ **** ]
+Dealt to stoner4752 [ **** ]
+Dealt to oelc [ **** ]
+Dealt to electristatic [ **** ]
+Dealt to boscott [ **** ]
+REbert1007 folds [315 Tournament chips]
+stoner4752 folds [155 Tournament chips]
+oelc folds [400 Tournament chips]
+electristatic folds [65 Tournament chips]
+boscott folds [55 Tournament chips]
+Smitty827 calls [200 Tournament chips]
+QwertySpark raises all-in [740 Tournament chips]
+Smitty827 calls [740 Tournament chips]
+Tournament all-in showdown -- players show:
+Smitty827 shows [ 7d 8c ]
+QwertySpark shows [ Qh Th ]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 3d ] board:[ 6s 3d]
+** Dealing Flop ** [ 8s ] board:[ 6s 3d 8s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 6s 3d 8s 9c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 6s 3d 8s 9c Kh]
+        (no action in this round)
+Round 4 is over.
+Smitty827 shows [ 7d 8c ] a pair of eights, king/nine kickers
+QwertySpark shows [ Qh Th ] king/queen/ten high
+Smitty827 wins main pot 2630 Tournament chips with a pair of eights, king/nine kickers.
+Seat 1: Smitty827 (7960 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: REbert1007 (315 Tournament chips) 
+Seat 4: stoner4752 (155 Tournament chips) 
+Seat 5: oelc (7115 Tournament chips) 
+Seat 6: electristatic (65 Tournament chips) 
+Seat 7: boscott (55 Tournament chips) 
+Game #24007363-28 ends
+Player QwertySpark leaves the table with 0 Tournament chips

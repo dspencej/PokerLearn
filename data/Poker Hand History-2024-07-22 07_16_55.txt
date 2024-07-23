@@ -1,0 +1,1907 @@
+Game#: 23969543
+8atmann folds [10 Tournament chips]
+space44 calls [10 Tournament chips]
+Terrycoe calls [10 Tournament chips]
+karen64 folds [10 Tournament chips]
+rslap folds [10 Tournament chips]
+gentlejim38 calls [5 Tournament chips]
+Nugget55 raises [60 Tournament chips]
+space44 calls [60 Tournament chips]
+Terrycoe calls [60 Tournament chips]
+gentlejim38 folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Qd ] board:[ 2d Qd]
+** Dealing Flop ** [ 4s ] board:[ 2d Qd 4s]
+Nugget55 bets for 110 Tournament chips
+space44 folds [110 Tournament chips]
+Terrycoe calls [110 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 2d Qd 4s Ah]
+Nugget55 bets for 250 Tournament chips
+Terrycoe calls [250 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ 2d Qd 4s Ah Kc]
+Nugget55 goes all-in for 2070 Tournament chips
+Terrycoe calls [2070 Tournament chips]
+Tournament all-in showdown -- players show:
+Terrycoe shows [ 5d Kd ]
+Nugget55 shows [ Ad 6s ]
+Round 4 is over.
+Terrycoe shows [ 5d Kd ] a pair of kings, ace/queen kickers
+Nugget55 shows [ Ad 6s ] a pair of aces, king/queen kickers
+Nugget55 wins main pot 5080 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2500 Tournament chips) 
+Seat 5: gentlejim38 (2360 Tournament chips) 
+Seat 6: Nugget55 (5080 Tournament chips) 
+Seat 7: 8atmann (2270 Tournament chips) 
+Seat 8: Unclejimmy71 (2500 Tournament chips) 
+Game #23969543-3 ends
+Game #23969543-4 starts
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2500 Tournament chips) 
+Seat 5: gentlejim38 (2360 Tournament chips) 
+Seat 6: Nugget55 (5080 Tournament chips) 
+Seat 7: 8atmann (2270 Tournament chips) 
+Seat 8: Unclejimmy71 (2500 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Nugget55 posts the small blind [10 Tournament chips]
+8atmann posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 2375 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 115 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2500 Tournament chips.
+rslap, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2500 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 2360 Tournament chips.
+Nugget55, at seat 6, is in this hand with 5070 Tournament chips.
+8atmann, at seat 7, is in this hand with 2250 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2500 Tournament chips.
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 4d Jd ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Unclejimmy71 folds [20 Tournament chips]
+space44 folds [20 Tournament chips]
+Terrycoe folds [20 Tournament chips]
+karen64 folds [20 Tournament chips]
+rslap folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+gentlejim38 raises [160 Tournament chips]
+Nugget55 calls [150 Tournament chips]
+8atmann folds [140 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 4c ] board:[ Ks 4c]
+** Dealing Flop ** [ Jh ] board:[ Ks 4c Jh]
+Nugget55 checks
+gentlejim38 goes all-in for 2200 Tournament chips
+Nugget55 folds [2200 Tournament chips]
+gentlejim38 is returned 2200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for gentlejim38 (Ah Ac Ks 4c Jh: a pair of aces)
+gentlejim38 wins main pot 340 Tournament chips.
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2500 Tournament chips) 
+Seat 5: gentlejim38 (2540 Tournament chips) 
+Seat 6: Nugget55 (4920 Tournament chips) 
+Seat 7: 8atmann (2250 Tournament chips) 
+Seat 8: Unclejimmy71 (2500 Tournament chips) 
+Game #23969543-4 ends
+Game #23969543-5 starts
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2500 Tournament chips) 
+Seat 5: gentlejim38 (2540 Tournament chips) 
+Seat 6: Nugget55 (4920 Tournament chips) 
+Seat 7: 8atmann (2250 Tournament chips) 
+Seat 8: Unclejimmy71 (2500 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+8atmann posts the small blind [10 Tournament chips]
+Unclejimmy71 posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 2375 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 115 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2500 Tournament chips.
+rslap, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2500 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 2540 Tournament chips.
+Nugget55, at seat 6, is in this hand with 4920 Tournament chips.
+8atmann, at seat 7, is in this hand with 2240 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2480 Tournament chips.
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 7d 4h ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+space44 folds [20 Tournament chips]
+Terrycoe folds [20 Tournament chips]
+karen64 folds [20 Tournament chips]
+rslap folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+gentlejim38 folds [80 Tournament chips]
+Nugget55 folds [80 Tournament chips]
+8atmann calls [70 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 3h ] board:[ 2c 3h]
+** Dealing Flop ** [ Ks ] board:[ 2c 3h Ks]
+8atmann checks
+QwertySpark bets for 160 Tournament chips
+8atmann folds [160 Tournament chips]
+QwertySpark is returned 160 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7d 4h 2c 3h Ks: king high)
+QwertySpark wins main pot 180 Tournament chips.
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2600 Tournament chips) 
+Seat 5: gentlejim38 (2540 Tournament chips) 
+Seat 6: Nugget55 (4920 Tournament chips) 
+Seat 7: 8atmann (2170 Tournament chips) 
+Seat 8: Unclejimmy71 (2480 Tournament chips) 
+Game #23969543-5 ends
+Game #23969543-6 starts
+Seat 0: space44 (2375 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2600 Tournament chips) 
+Seat 5: gentlejim38 (2540 Tournament chips) 
+Seat 6: Nugget55 (4920 Tournament chips) 
+Seat 7: 8atmann (2170 Tournament chips) 
+Seat 8: Unclejimmy71 (2480 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Unclejimmy71 posts the small blind [10 Tournament chips]
+space44 posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 2355 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 115 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2500 Tournament chips.
+rslap, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2600 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 2540 Tournament chips.
+Nugget55, at seat 6, is in this hand with 4920 Tournament chips.
+8atmann, at seat 7, is in this hand with 2170 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2470 Tournament chips.
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Ts 9d ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Terrycoe folds [20 Tournament chips]
+karen64 folds [20 Tournament chips]
+rslap folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+gentlejim38 calls [20 Tournament chips]
+Nugget55 raises [40 Tournament chips]
+8atmann re-raises [190 Tournament chips]
+Unclejimmy71 folds [180 Tournament chips]
+space44 calls [170 Tournament chips]
+QwertySpark folds [170 Tournament chips]
+gentlejim38 calls [170 Tournament chips]
+Nugget55 re-raises [1000 Tournament chips]
+8atmann calls [850 Tournament chips]
+space44 calls [850 Tournament chips]
+gentlejim38 calls [850 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ As ] board:[ Tc As]
+** Dealing Flop ** [ 5s ] board:[ Tc As 5s]
+space44 checks
+gentlejim38 checks
+Nugget55 bets for 1555 Tournament chips
+8atmann calls all-in [1130 Tournament chips]
+space44 folds [1335 Tournament chips]
+gentlejim38 folds [1500 Tournament chips]
+Nugget55 is returned 425 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Nugget55 shows [ Qh Kh ]
+8atmann shows [ Ks Qs ]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Tc As 5s 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Tc As 5s 8h 7s]
+        (no action in this round)
+Round 4 is over.
+Nugget55 shows [ Qh Kh ] ace/king/queen high
+8atmann shows [ Ks Qs ] flush, ace/king/queen high
+8atmann wins main pot 6450 Tournament chips with flush, ace/king/queen high.
+Seat 0: space44 (1335 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1500 Tournament chips) 
+Seat 6: Nugget55 (2750 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+Game #23969543-6 ends
+Game #23969543-7 starts
+Seat 0: space44 (1335 Tournament chips) 
+Seat 1: Terrycoe (115 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1500 Tournament chips) 
+Seat 6: Nugget55 (2750 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+space44 posts the small blind [10 Tournament chips]
+Terrycoe posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 1325 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 95 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2500 Tournament chips.
+rslap, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2580 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1500 Tournament chips.
+Nugget55, at seat 6, is in this hand with 2750 Tournament chips.
+8atmann, at seat 7, is in this hand with 6450 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2470 Tournament chips.
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 3h Qc ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+karen64 folds [20 Tournament chips]
+rslap folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+gentlejim38 folds [20 Tournament chips]
+Nugget55 raises all-in [2750 Tournament chips]
+8atmann folds [2750 Tournament chips]
+Unclejimmy71 folds [2470 Tournament chips]
+space44 folds [1325 Tournament chips]
+Terrycoe folds [95 Tournament chips]
+Nugget55 is returned 2730 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Nugget55 (Qs 9s: queen high)
+Nugget55 wins main pot 50 Tournament chips.
+Seat 0: space44 (1325 Tournament chips) 
+Seat 1: Terrycoe (95 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1500 Tournament chips) 
+Seat 6: Nugget55 (2780 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+Game #23969543-7 ends
+Game #23969543-8 starts
+Seat 0: space44 (1325 Tournament chips) 
+Seat 1: Terrycoe (95 Tournament chips) 
+Seat 2: karen64 (2500 Tournament chips) 
+Seat 3: rslap (2500 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1500 Tournament chips) 
+Seat 6: Nugget55 (2780 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Terrycoe posts the small blind [10 Tournament chips]
+karen64 posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 1325 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2480 Tournament chips.
+rslap, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2580 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1500 Tournament chips.
+Nugget55, at seat 6, is in this hand with 2780 Tournament chips.
+8atmann, at seat 7, is in this hand with 6450 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2470 Tournament chips.
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jd 6c ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+rslap calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+gentlejim38 calls [20 Tournament chips]
+Nugget55 raises all-in [2780 Tournament chips]
+8atmann folds [2780 Tournament chips]
+Unclejimmy71 folds [2470 Tournament chips]
+space44 folds [1325 Tournament chips]
+Terrycoe folds [85 Tournament chips]
+karen64 folds [2480 Tournament chips]
+rslap calls all-in [2480 Tournament chips]
+gentlejim38 folds [1480 Tournament chips]
+Nugget55 is returned 280 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rslap shows [ Qc Td ]
+Nugget55 shows [ 3d Kh ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Qs ] board:[ Ad Qs]
+** Dealing Flop ** [ Jc ] board:[ Ad Qs Jc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Ad Qs Jc 9h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Ad Qs Jc 9h 3h]
+        (no action in this round)
+Round 4 is over.
+rslap shows [ Qc Td ] a pair of queens, ace/jack kickers
+Nugget55 shows [ 3d Kh ] a pair of threes, ace/king kickers
+rslap wins main pot 5050 Tournament chips with a pair of queens, ace/jack kickers.
+Seat 0: space44 (1325 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2480 Tournament chips) 
+Seat 3: rslap (5050 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 6: Nugget55 (280 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+Game #23969543-8 ends
+Game #23969543-9 starts
+Seat 0: space44 (1325 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2480 Tournament chips) 
+Seat 3: rslap (5050 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 6: Nugget55 (280 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2470 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+karen64 posts the small blind [10 Tournament chips]
+rslap posts the big blind [20 Tournament chips]
+space44, at seat 0, is in this hand with 1325 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2470 Tournament chips.
+rslap, at seat 3, is in this hand with 5030 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2580 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1480 Tournament chips.
+Nugget55, at seat 6, is in this hand with 280 Tournament chips.
+8atmann, at seat 7, is in this hand with 6450 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2470 Tournament chips.
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+Nugget55 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 7c 6s ]
+Dealt to gentlejim38 [ **** ]
+Dealt to Nugget55 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+QwertySpark folds [20 Tournament chips]
+gentlejim38 folds [20 Tournament chips]
+Nugget55 raises all-in [280 Tournament chips]
+8atmann folds [280 Tournament chips]
+Unclejimmy71 calls [280 Tournament chips]
+space44 calls [280 Tournament chips]
+Terrycoe folds [85 Tournament chips]
+karen64 folds [270 Tournament chips]
+rslap folds [260 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 4s ] board:[ Th 4s]
+** Dealing Flop ** [ Qd ] board:[ Th 4s Qd]
+Unclejimmy71 checks
+space44 bets for 870 Tournament chips
+Unclejimmy71 folds [870 Tournament chips]
+space44 is returned 870 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+space44 shows [ Qh Td ]
+Nugget55 shows [ 4c 3s ]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Th 4s Qd 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Th 4s Qd 9s 9d]
+        (no action in this round)
+Round 4 is over.
+space44 shows [ Qh Td ] two pair, queens and tens, nine kicker
+Nugget55 shows [ 4c 3s ] two pair, nines and fours, queen kicker
+space44 wins main pot 870 Tournament chips with two pair, queens and tens, nine kicker.
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (5030 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 6: Nugget55 (0 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2190 Tournament chips) 
+Game #23969543-9 ends
+Player Nugget55 leaves the table with 0 Tournament chips
+Game #23969543-10 starts
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (5030 Tournament chips) 
+Seat 4: QwertySpark (2580 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 7: 8atmann (6450 Tournament chips) 
+Seat 8: Unclejimmy71 (2190 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+rslap posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+space44, at seat 0, is in this hand with 1915 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 2470 Tournament chips.
+rslap, at seat 3, is in this hand with 5015 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2550 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1480 Tournament chips.
+8atmann, at seat 7, is in this hand with 6450 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2190 Tournament chips.
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Qs Kc ]
+Dealt to gentlejim38 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+gentlejim38 folds [30 Tournament chips]
+8atmann raises [105 Tournament chips]
+Unclejimmy71 calls [105 Tournament chips]
+space44 folds [105 Tournament chips]
+Terrycoe folds [85 Tournament chips]
+karen64 folds [105 Tournament chips]
+rslap calls [90 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 7s ] board:[ 8h 7s]
+** Dealing Flop ** [ 6s ] board:[ 8h 7s 6s]
+rslap checks
+QwertySpark checks
+8atmann bets for 420 Tournament chips
+Unclejimmy71 calls [420 Tournament chips]
+rslap folds [420 Tournament chips]
+QwertySpark folds [420 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 8h 7s 6s 2d]
+8atmann checks
+Unclejimmy71 checks
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 8h 7s 6s 2d Kh]
+8atmann checks
+Unclejimmy71 checks
+Round 4 is over.
+8atmann shows [ As 5c ] ace high
+Hand evaluation for 8atmann (As 8h 7s 6s Kh: ace high)
+Unclejimmy71 shows [ 8c 9c ] a pair of eights
+Hand evaluation for Unclejimmy71 (8c 9c 8h 7s Kh: a pair of eights)
+Unclejimmy71 wins main pot 1260 Tournament chips with a pair of eights, king/nine kickers.
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (4925 Tournament chips) 
+Seat 4: QwertySpark (2475 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 7: 8atmann (5925 Tournament chips) 
+Seat 8: Unclejimmy71 (2925 Tournament chips) 
+Game #23969543-10 ends
+Game #23969543-11 starts
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (4925 Tournament chips) 
+Seat 4: QwertySpark (2475 Tournament chips) 
+Seat 5: gentlejim38 (1480 Tournament chips) 
+Seat 7: 8atmann (5925 Tournament chips) 
+Seat 8: Unclejimmy71 (2925 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [15 Tournament chips]
+gentlejim38 posts the big blind [30 Tournament chips]
+space44, at seat 0, is in this hand with 1915 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand with 2470 Tournament chips.
+rslap, at seat 3, is in this hand with 4925 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2460 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1450 Tournament chips.
+8atmann, at seat 7, is in this hand with 5925 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 2925 Tournament chips.
+
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jh 5h ]
+Dealt to gentlejim38 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+8atmann folds [30 Tournament chips]
+Unclejimmy71 raises [105 Tournament chips]
+space44 folds [105 Tournament chips]
+Terrycoe folds [85 Tournament chips]
+karen64 calls [105 Tournament chips]
+rslap folds [105 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+gentlejim38 calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 8c ] board:[ 9h 8c]
+** Dealing Flop ** [ 9c ] board:[ 9h 8c 9c]
+gentlejim38 checks
+Unclejimmy71 bets for 165 Tournament chips
+karen64 calls [165 Tournament chips]
+gentlejim38 calls [165 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 9h 8c 9c 5c]
+gentlejim38 checks
+Unclejimmy71 checks
+karen64 checks
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 9h 8c 9c 5c Tc]
+gentlejim38 checks
+Unclejimmy71 checks
+karen64 checks
+Round 4 is over.
+gentlejim38 shows [ Td Js ] two pair, tens and nines
+Hand evaluation for gentlejim38 (Td Js 9h 9c Tc: two pair, tens and nines)
+Unclejimmy71 shows [ 2d 2c ] flush, ten high
+Hand evaluation for Unclejimmy71 (2c 8c 9c 5c Tc: flush, ten high)
+karen64 doesn't show [ 8d Kh ]
+(karen64 has 8d Kh.)
+Unclejimmy71 wins main pot 825 Tournament chips with flush, ten/nine/eight high.
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2200 Tournament chips) 
+Seat 3: rslap (4925 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 5: gentlejim38 (1210 Tournament chips) 
+Seat 7: 8atmann (5925 Tournament chips) 
+Seat 8: Unclejimmy71 (3480 Tournament chips) 
+Game #23969543-11 ends
+Game #23969543-12 starts
+Seat 0: space44 (1915 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2200 Tournament chips) 
+Seat 3: rslap (4925 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 5: gentlejim38 (1210 Tournament chips) 
+Seat 7: 8atmann (5925 Tournament chips) 
+Seat 8: Unclejimmy71 (3480 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+gentlejim38 posts the small blind [15 Tournament chips]
+8atmann posts the big blind [30 Tournament chips]
+space44, at seat 0, is in this hand with 1915 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand with 2200 Tournament chips.
+rslap, at seat 3, is in this hand with 4925 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2460 Tournament chips.
+gentlejim38, at seat 5, is in this hand with 1195 Tournament chips.
+8atmann, at seat 7, is in this hand with 5895 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3480 Tournament chips.
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+gentlejim38 is dealt: **
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 8c 5h ]
+Dealt to gentlejim38 [ **** ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Unclejimmy71 folds [30 Tournament chips]
+space44 calls [30 Tournament chips]
+Terrycoe folds [30 Tournament chips]
+karen64 folds [30 Tournament chips]
+rslap calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+gentlejim38 calls [15 Tournament chips]
+8atmann checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Qh ] board:[ Td Qh]
+** Dealing Flop ** [ 9h ] board:[ Td Qh 9h]
+gentlejim38 goes all-in for 1180 Tournament chips
+8atmann calls [1180 Tournament chips]
+space44 folds [1180 Tournament chips]
+rslap folds [1180 Tournament chips]
+Tournament all-in showdown -- players show:
+gentlejim38 shows [ Qs 9d ]
+8atmann shows [ 8h Th ]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ Td Qh 9h Ts]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Td Qh 9h Ts 3s]
+        (no action in this round)
+Round 4 is over.
+gentlejim38 shows [ Qs 9d ] two pair, queens and tens, nine kicker
+8atmann shows [ 8h Th ] three tens, queen/nine kickers
+8atmann wins main pot 2480 Tournament chips with three tens, queen/nine kickers.
+Seat 0: space44 (1885 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2200 Tournament chips) 
+Seat 3: rslap (4895 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 5: gentlejim38 (0 Tournament chips) 
+Seat 7: 8atmann (7195 Tournament chips) 
+Seat 8: Unclejimmy71 (3480 Tournament chips) 
+Game #23969543-12 ends
+Player gentlejim38 leaves the table with 0 Tournament chips
+Game #23969543-13 starts
+Seat 0: space44 (1885 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2200 Tournament chips) 
+Seat 3: rslap (4895 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 7: 8atmann (7195 Tournament chips) 
+Seat 8: Unclejimmy71 (3480 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+8atmann posts the small blind [15 Tournament chips]
+Unclejimmy71 posts the big blind [30 Tournament chips]
+space44, at seat 0, is in this hand with 1885 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand with 2200 Tournament chips.
+rslap, at seat 3, is in this hand with 4895 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2460 Tournament chips.
+8atmann, at seat 7, is in this hand with 7180 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3450 Tournament chips.
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 5h 9c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+space44 calls [30 Tournament chips]
+Terrycoe folds [30 Tournament chips]
+karen64 calls [30 Tournament chips]
+rslap folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+8atmann calls [15 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ As ] board:[ 7c As]
+** Dealing Flop ** [ Ad ] board:[ 7c As Ad]
+8atmann bets for 60 Tournament chips
+Unclejimmy71 folds [60 Tournament chips]
+space44 folds [60 Tournament chips]
+karen64 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 7c As Ad 5s]
+8atmann bets for 120 Tournament chips
+karen64 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 7c As Ad 5s Qd]
+8atmann checks
+karen64 bets for 480 Tournament chips
+8atmann folds, showing 7h 9h [480 Tournament chips]
+karen64 is returned 480 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for karen64 (Ks 7c As Ad Qd: a pair of aces)
+karen64 wins main pot 480 Tournament chips.
+Seat 0: space44 (1855 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (4895 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 7: 8atmann (6985 Tournament chips) 
+Seat 8: Unclejimmy71 (3450 Tournament chips) 
+Game #23969543-13 ends
+Game #23969543-14 starts
+Seat 0: space44 (1855 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2470 Tournament chips) 
+Seat 3: rslap (4895 Tournament chips) 
+Seat 4: QwertySpark (2460 Tournament chips) 
+Seat 7: 8atmann (6985 Tournament chips) 
+Seat 8: Unclejimmy71 (3450 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+Unclejimmy71 posts the small blind [15 Tournament chips]
+space44 posts the big blind [30 Tournament chips]
+space44, at seat 0, is in this hand with 1825 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 85 Tournament chips.
+karen64, at seat 2, is in this hand with 2470 Tournament chips.
+rslap, at seat 3, is in this hand with 4895 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2460 Tournament chips.
+8atmann, at seat 7, is in this hand with 6985 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3435 Tournament chips.
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jd 9c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Terrycoe folds [30 Tournament chips]
+karen64 calls [30 Tournament chips]
+rslap calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+8atmann calls [30 Tournament chips]
+Unclejimmy71 calls [15 Tournament chips]
+space44 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 6s ] board:[ 5s 6s]
+** Dealing Flop ** [ Ac ] board:[ 5s 6s Ac]
+Unclejimmy71 checks
+space44 checks
+karen64 checks
+rslap checks
+QwertySpark checks
+8atmann checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 5s 6s Ac 3c]
+Unclejimmy71 checks
+space44 checks
+karen64 checks
+rslap bets for 60 Tournament chips
+QwertySpark folds [60 Tournament chips]
+8atmann calls [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+space44 folds [60 Tournament chips]
+karen64 folds [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 5s 6s Ac 3c 7s]
+rslap bets for 90 Tournament chips
+8atmann folds [90 Tournament chips]
+rslap is returned 90 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for rslap (Tc 8c 6s Ac 7s: ace high)
+rslap wins main pot 300 Tournament chips.
+Seat 0: space44 (1825 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2440 Tournament chips) 
+Seat 3: rslap (5105 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (6895 Tournament chips) 
+Seat 8: Unclejimmy71 (3420 Tournament chips) 
+Game #23969543-14 ends
+Game #23969543-15 starts
+Seat 0: space44 (1825 Tournament chips) 
+Seat 1: Terrycoe (85 Tournament chips) 
+Seat 2: karen64 (2440 Tournament chips) 
+Seat 3: rslap (5105 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (6895 Tournament chips) 
+Seat 8: Unclejimmy71 (3420 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+space44 posts the small blind [20 Tournament chips]
+Terrycoe posts the big blind [40 Tournament chips]
+space44, at seat 0, is in this hand with 1805 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 45 Tournament chips.
+karen64, at seat 2, is in this hand with 2440 Tournament chips.
+rslap, at seat 3, is in this hand with 5105 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2430 Tournament chips.
+8atmann, at seat 7, is in this hand with 6895 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3420 Tournament chips.
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Qh 7c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+karen64 folds [40 Tournament chips]
+rslap raises [80 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+8atmann calls [80 Tournament chips]
+Unclejimmy71 calls [80 Tournament chips]
+space44 calls [60 Tournament chips]
+Terrycoe folds [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 3s ] board:[ 8c 3s]
+** Dealing Flop ** [ Ks ] board:[ 8c 3s Ks]
+space44 checks
+rslap checks
+8atmann checks
+Unclejimmy71 checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 8c 3s Ks Qd]
+space44 checks
+rslap checks
+8atmann bets for 180 Tournament chips
+Unclejimmy71 folds [180 Tournament chips]
+space44 calls [180 Tournament chips]
+rslap calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 8c 3s Ks Qd 2h]
+space44 checks
+rslap checks
+8atmann checks
+Round 4 is over.
+space44 shows [ As Js ] ace high
+Hand evaluation for space44 (As Js 8c Ks Qd: ace high)
+rslap shows [ 9h 9s ] a pair of nines
+Hand evaluation for rslap (9h 9s 8c Ks Qd: a pair of nines)
+8atmann shows [ Qs 9c ] a pair of queens
+Hand evaluation for 8atmann (Qs 9c 8c Ks Qd: a pair of queens)
+8atmann wins main pot 900 Tournament chips with a pair of queens, king/nine kickers.
+Seat 0: space44 (1565 Tournament chips) 
+Seat 1: Terrycoe (45 Tournament chips) 
+Seat 2: karen64 (2440 Tournament chips) 
+Seat 3: rslap (4845 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7535 Tournament chips) 
+Seat 8: Unclejimmy71 (3340 Tournament chips) 
+Game #23969543-15 ends
+Game #23969543-16 starts
+Seat 0: space44 (1565 Tournament chips) 
+Seat 1: Terrycoe (45 Tournament chips) 
+Seat 2: karen64 (2440 Tournament chips) 
+Seat 3: rslap (4845 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7535 Tournament chips) 
+Seat 8: Unclejimmy71 (3340 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Terrycoe posts the small blind [20 Tournament chips]
+karen64 posts the big blind [40 Tournament chips]
+space44, at seat 0, is in this hand with 1565 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand with 2400 Tournament chips.
+rslap, at seat 3, is in this hand with 4845 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2430 Tournament chips.
+8atmann, at seat 7, is in this hand with 7535 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3340 Tournament chips.
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 7s 9c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+rslap calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+8atmann calls [40 Tournament chips]
+Unclejimmy71 calls [40 Tournament chips]
+space44 calls [40 Tournament chips]
+Terrycoe folds [20 Tournament chips]
+karen64 checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Qc ] board:[ 5h Qc]
+** Dealing Flop ** [ 8d ] board:[ 5h Qc 8d]
+karen64 checks
+rslap checks
+8atmann checks
+Unclejimmy71 bets for 220 Tournament chips
+space44 folds [220 Tournament chips]
+karen64 calls [220 Tournament chips]
+rslap folds [220 Tournament chips]
+8atmann folds [220 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 5h Qc 8d 4c]
+karen64 checks
+Unclejimmy71 bets for 660 Tournament chips
+karen64 calls [660 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 5h Qc 8d 4c Ts]
+karen64 checks
+Unclejimmy71 bets for 1980 Tournament chips
+karen64 folds [1520 Tournament chips]
+Unclejimmy71 is returned 1980 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Unclejimmy71 (Qd Js Qc 8d Ts: a pair of queens)
+Unclejimmy71 wins main pot 1980 Tournament chips.
+Seat 0: space44 (1525 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1520 Tournament chips) 
+Seat 3: rslap (4805 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7495 Tournament chips) 
+Seat 8: Unclejimmy71 (4400 Tournament chips) 
+Game #23969543-16 ends
+Game #23969543-17 starts
+Seat 0: space44 (1525 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1520 Tournament chips) 
+Seat 3: rslap (4805 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7495 Tournament chips) 
+Seat 8: Unclejimmy71 (4400 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+karen64 posts the small blind [20 Tournament chips]
+rslap posts the big blind [40 Tournament chips]
+space44, at seat 0, is in this hand with 1525 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4765 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2430 Tournament chips.
+8atmann, at seat 7, is in this hand with 7495 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 4400 Tournament chips.
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 8s 5h ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+QwertySpark folds [40 Tournament chips]
+8atmann calls [40 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+space44 calls [40 Tournament chips]
+Terrycoe folds [25 Tournament chips]
+karen64 folds [20 Tournament chips]
+rslap checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Td ] board:[ Jd Td]
+** Dealing Flop ** [ As ] board:[ Jd Td As]
+rslap bets for 120 Tournament chips
+8atmann calls [120 Tournament chips]
+space44 calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Jd Td As 4s]
+rslap bets for 160 Tournament chips
+8atmann calls [160 Tournament chips]
+space44 raises [1140 Tournament chips]
+rslap folds [980 Tournament chips]
+8atmann folds [980 Tournament chips]
+space44 is returned 980 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for space44 (Ac Jh Jd Td As: two pair, aces and jacks)
+space44 shows [ Ac Jh ] two pair, aces and jacks
+Hand evaluation for space44 (Ac Jh Jd Td As: two pair, aces and jacks)
+space44 wins main pot 980 Tournament chips.
+Seat 0: space44 (2185 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4485 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7175 Tournament chips) 
+Seat 8: Unclejimmy71 (4400 Tournament chips) 
+Game #23969543-17 ends
+Game #23969543-18 starts
+Seat 0: space44 (2185 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4485 Tournament chips) 
+Seat 4: QwertySpark (2430 Tournament chips) 
+Seat 7: 8atmann (7175 Tournament chips) 
+Seat 8: Unclejimmy71 (4400 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+rslap posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+space44, at seat 0, is in this hand with 2185 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4465 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2390 Tournament chips.
+8atmann, at seat 7, is in this hand with 7175 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 4400 Tournament chips.
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 8s 8c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+8atmann folds [40 Tournament chips]
+Unclejimmy71 raises [140 Tournament chips]
+space44 folds [140 Tournament chips]
+Terrycoe folds [25 Tournament chips]
+karen64 folds [140 Tournament chips]
+rslap folds [120 Tournament chips]
+QwertySpark re-raises [280 Tournament chips]
+Unclejimmy71 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Tc ] board:[ Jd Tc]
+** Dealing Flop ** [ 9c ] board:[ Jd Tc 9c]
+QwertySpark bets for 240 Tournament chips
+Unclejimmy71 calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd Tc 9c 6d]
+QwertySpark checks
+Unclejimmy71 checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Jd Tc 9c 6d 6s]
+QwertySpark checks
+Unclejimmy71 checks
+Round 4 is over.
+QwertySpark shows [ 8s 8c ] two pair, eights and sixes
+Hand evaluation for QwertySpark (8s 8c Jd 6d 6s: two pair, eights and sixes)
+Unclejimmy71 doesn't show [ Qc Ah ]
+(Unclejimmy71 has Qc Ah.)
+QwertySpark wins main pot 1140 Tournament chips with two pair, eights and sixes, jack kicker.
+Seat 0: space44 (2185 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4465 Tournament chips) 
+Seat 4: QwertySpark (3010 Tournament chips) 
+Seat 7: 8atmann (7175 Tournament chips) 
+Seat 8: Unclejimmy71 (3840 Tournament chips) 
+Game #23969543-18 ends
+Game #23969543-19 starts
+Seat 0: space44 (2185 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4465 Tournament chips) 
+Seat 4: QwertySpark (3010 Tournament chips) 
+Seat 7: 8atmann (7175 Tournament chips) 
+Seat 8: Unclejimmy71 (3840 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [20 Tournament chips]
+8atmann posts the big blind [40 Tournament chips]
+space44, at seat 0, is in this hand with 2185 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4465 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2990 Tournament chips.
+8atmann, at seat 7, is in this hand with 7135 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3840 Tournament chips.
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 9h Th ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Unclejimmy71 raises [180 Tournament chips]
+space44 calls [180 Tournament chips]
+Terrycoe folds [25 Tournament chips]
+karen64 folds [180 Tournament chips]
+rslap folds [180 Tournament chips]
+QwertySpark calls [160 Tournament chips]
+8atmann calls [140 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 6c ] board:[ 5h 6c]
+** Dealing Flop ** [ 8s ] board:[ 5h 6c 8s]
+QwertySpark bets for 320 Tournament chips
+8atmann folds [320 Tournament chips]
+Unclejimmy71 folds [320 Tournament chips]
+space44 calls [320 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 5h 6c 8s 7s]
+QwertySpark checks
+space44 checks
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 5h 6c 8s 7s 6h]
+QwertySpark bets for 640 Tournament chips
+space44 folds [640 Tournament chips]
+QwertySpark is returned 640 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (9h Th 6c 8s 7s: straight, ten high)
+QwertySpark wins main pot 1360 Tournament chips.
+Seat 0: space44 (1685 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4465 Tournament chips) 
+Seat 4: QwertySpark (3870 Tournament chips) 
+Seat 7: 8atmann (6995 Tournament chips) 
+Seat 8: Unclejimmy71 (3660 Tournament chips) 
+Game #23969543-19 ends
+Game #23969543-20 starts
+Seat 0: space44 (1685 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4465 Tournament chips) 
+Seat 4: QwertySpark (3870 Tournament chips) 
+Seat 7: 8atmann (6995 Tournament chips) 
+Seat 8: Unclejimmy71 (3660 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+8atmann posts the small blind [30 Tournament chips]
+Unclejimmy71 posts the big blind [60 Tournament chips]
+space44, at seat 0, is in this hand with 1685 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4465 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3870 Tournament chips.
+8atmann, at seat 7, is in this hand with 6965 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3600 Tournament chips.
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 2h 4c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+space44 folds [60 Tournament chips]
+Terrycoe folds [25 Tournament chips]
+karen64 folds [60 Tournament chips]
+rslap calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+8atmann folds [30 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 8s ] board:[ Qc 8s]
+** Dealing Flop ** [ 2s ] board:[ Qc 8s 2s]
+Unclejimmy71 bets for 60 Tournament chips
+rslap folds [60 Tournament chips]
+Unclejimmy71 is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Unclejimmy71 (8h 7c Qc 8s 2s: a pair of eights)
+Unclejimmy71 wins main pot 150 Tournament chips.
+Seat 0: space44 (1685 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4405 Tournament chips) 
+Seat 4: QwertySpark (3870 Tournament chips) 
+Seat 7: 8atmann (6965 Tournament chips) 
+Seat 8: Unclejimmy71 (3750 Tournament chips) 
+Game #23969543-20 ends
+Game #23969543-21 starts
+Seat 0: space44 (1685 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4405 Tournament chips) 
+Seat 4: QwertySpark (3870 Tournament chips) 
+Seat 7: 8atmann (6965 Tournament chips) 
+Seat 8: Unclejimmy71 (3750 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 7.
+Unclejimmy71 posts the small blind [30 Tournament chips]
+space44 posts the big blind [60 Tournament chips]
+space44, at seat 0, is in this hand with 1625 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 25 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4405 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3870 Tournament chips.
+8atmann, at seat 7, is in this hand with 6965 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3720 Tournament chips.
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Kc 5c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Terrycoe folds [25 Tournament chips]
+karen64 folds [60 Tournament chips]
+rslap folds [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+8atmann calls [240 Tournament chips]
+Unclejimmy71 folds [210 Tournament chips]
+space44 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ As ] board:[ 4h As]
+** Dealing Flop ** [ 2s ] board:[ 4h As 2s]
+space44 checks
+QwertySpark bets for 375 Tournament chips
+8atmann raises [870 Tournament chips]
+space44 folds [870 Tournament chips]
+QwertySpark folds [495 Tournament chips]
+8atmann is returned 495 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 8atmann (8c Ah 4h As 2s: a pair of aces)
+8atmann wins main pot 1500 Tournament chips.
+Seat 0: space44 (1445 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4405 Tournament chips) 
+Seat 4: QwertySpark (3255 Tournament chips) 
+Seat 7: 8atmann (7850 Tournament chips) 
+Seat 8: Unclejimmy71 (3720 Tournament chips) 
+Game #23969543-21 ends
+Game #23969543-22 starts
+Seat 0: space44 (1445 Tournament chips) 
+Seat 1: Terrycoe (25 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4405 Tournament chips) 
+Seat 4: QwertySpark (3255 Tournament chips) 
+Seat 7: 8atmann (7850 Tournament chips) 
+Seat 8: Unclejimmy71 (3720 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+space44 posts the small blind [30 Tournament chips]
+Terrycoe posts the big blind [25 Tournament chips], goes all-in
+space44, at seat 0, is in this hand with 1415 Tournament chips.
+Terrycoe, at seat 1, is in this hand (absent) with 0 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1500 Tournament chips.
+rslap, at seat 3, is in this hand with 4405 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3255 Tournament chips.
+8atmann, at seat 7, is in this hand with 7850 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3720 Tournament chips.
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Terrycoe is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to Terrycoe [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 4s 7c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+karen64 folds [60 Tournament chips]
+rslap calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+8atmann folds [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+space44 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 9h ] board:[ 7d 9h]
+** Dealing Flop ** [ 4h ] board:[ 7d 9h 4h]
+space44 bets for 145 Tournament chips
+rslap raises all-in [4345 Tournament chips]
+space44 folds [1240 Tournament chips]
+rslap is returned 4200 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Terrycoe shows [ 8h Td ]
+rslap shows [ Ac As ]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 7d 9h 4h 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 7d 9h 4h 2h 7s]
+        (no action in this round)
+Round 4 is over.
+rslap shows [ Ac As ] two pair, aces and sevens, nine kicker
+rslap wins main pot 75 Tournament chips with two pair, aces and sevens, nine kicker.
+rslap wins side pot #1 360 Tournament chips with two pair, aces and sevens, nine kicker.
+Seat 0: space44 (1240 Tournament chips) 
+Seat 1: Terrycoe (0 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4635 Tournament chips) 
+Seat 4: QwertySpark (3255 Tournament chips) 
+Seat 7: 8atmann (7850 Tournament chips) 
+Seat 8: Unclejimmy71 (3720 Tournament chips) 
+Game #23969543-22 ends
+Player Terrycoe leaves the table with 0 Tournament chips
+Game #23969543-23 starts
+Seat 0: space44 (1240 Tournament chips) 
+Seat 2: karen64 (1500 Tournament chips) 
+Seat 3: rslap (4635 Tournament chips) 
+Seat 4: QwertySpark (3255 Tournament chips) 
+Seat 7: 8atmann (7850 Tournament chips) 
+Seat 8: Unclejimmy71 (3720 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+karen64 posts the big blind [60 Tournament chips]
+space44, at seat 0, is in this hand with 1240 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1440 Tournament chips.
+rslap, at seat 3, is in this hand with 4635 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3255 Tournament chips.
+8atmann, at seat 7, is in this hand with 7850 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 3720 Tournament chips.
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Js Jh ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+rslap calls [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+8atmann calls [240 Tournament chips]
+Unclejimmy71 calls [240 Tournament chips]
+space44 folds [240 Tournament chips]
+karen64 folds [180 Tournament chips]
+rslap folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 2d ] board:[ 6c 2d]
+** Dealing Flop ** [ 8s ] board:[ 6c 2d 8s]
+QwertySpark bets for 1020 Tournament chips
+8atmann folds [1020 Tournament chips]
+Unclejimmy71 calls [1020 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 6c 2d 8s Qs]
+QwertySpark goes all-in for 1995 Tournament chips
+Unclejimmy71 calls [1995 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Js Jh ]
+Unclejimmy71 shows [ Jd 8d ]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 6c 2d 8s Qs 4d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Js Jh ] a pair of jacks, queen/eight kickers
+Unclejimmy71 shows [ Jd 8d ] a pair of eights, queen/jack kickers
+QwertySpark wins main pot 6870 Tournament chips with a pair of jacks, queen/eight kickers.
+Seat 0: space44 (1240 Tournament chips) 
+Seat 2: karen64 (1440 Tournament chips) 
+Seat 3: rslap (4575 Tournament chips) 
+Seat 4: QwertySpark (6870 Tournament chips) 
+Seat 7: 8atmann (7610 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+Game #23969543-23 ends
+Game #23969543-24 starts
+Seat 0: space44 (1240 Tournament chips) 
+Seat 2: karen64 (1440 Tournament chips) 
+Seat 3: rslap (4575 Tournament chips) 
+Seat 4: QwertySpark (6870 Tournament chips) 
+Seat 7: 8atmann (7610 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+The button is at seat 0
+karen64 posts the small blind [30 Tournament chips]
+rslap posts the big blind [60 Tournament chips]
+space44, at seat 0, is in this hand with 1240 Tournament chips.
+karen64, at seat 2, is in this hand with 1410 Tournament chips.
+rslap, at seat 3, is in this hand with 4515 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6870 Tournament chips.
+8atmann, at seat 7, is in this hand with 7610 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand with 465 Tournament chips.
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jh 9d ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+QwertySpark folds [60 Tournament chips]
+8atmann calls [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+space44 calls [60 Tournament chips]
+8atmann: Had 84 man you would have been ******
+8atmann: Mad
+karen64 folds [30 Tournament chips]
+rslap checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 3c ] board:[ 4d 3c]
+** Dealing Flop ** [ Js ] board:[ 4d 3c Js]
+rslap bets for 120 Tournament chips
+8atmann calls [120 Tournament chips]
+space44 folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 4d 3c Js 9c]
+rslap bets for 240 Tournament chips
+8atmann calls [240 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 4d 3c Js 9c 5c]
+rslap bets for 240 Tournament chips
+8atmann calls [240 Tournament chips]
+Round 4 is over.
+rslap shows [ 2h Jc ] a pair of jacks
+Hand evaluation for rslap (Jc 4d Js 9c 5c: a pair of jacks)
+8atmann doesn't show [ 4c Kd ]
+(8atmann has 4c Kd.)
+rslap wins main pot 1410 Tournament chips with a pair of jacks, nine/five kickers.
+Seat 0: space44 (1180 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5325 Tournament chips) 
+Seat 4: QwertySpark (6870 Tournament chips) 
+Seat 7: 8atmann (6950 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+Game #23969543-24 ends
+Game #23969543-25 starts
+Seat 0: space44 (1180 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5325 Tournament chips) 
+Seat 4: QwertySpark (6870 Tournament chips) 
+Seat 7: 8atmann (6950 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+rslap posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+space44, at seat 0, is in this hand with 1180 Tournament chips.
+karen64, at seat 2, is in this hand with 1410 Tournament chips.
+rslap, at seat 3, is in this hand with 5295 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6810 Tournament chips.
+8atmann, at seat 7, is in this hand with 6950 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand (absent) with 465 Tournament chips.
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+Dealt to space44 [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jd 3c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+8atmann raises [120 Tournament chips]
+Unclejimmy71 folds [120 Tournament chips]
+space44 folds [120 Tournament chips]
+karen64 folds [120 Tournament chips]
+rslap calls [90 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ As ] board:[ 2h As]
+** Dealing Flop ** [ 6c ] board:[ 2h As 6c]
+rslap checks
+QwertySpark checks
+8atmann bets for 360 Tournament chips
+rslap folds [360 Tournament chips]
+QwertySpark folds [360 Tournament chips]
+8atmann is returned 360 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 8atmann (Qh Jc 2h As 6c: ace high)
+8atmann wins main pot 360 Tournament chips.
+Seat 0: space44 (1180 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5205 Tournament chips) 
+Seat 4: QwertySpark (6750 Tournament chips) 
+Seat 7: 8atmann (7190 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+Game #23969543-25 ends
+Game #23969543-26 starts
+Seat 0: space44 (1180 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5205 Tournament chips) 
+Seat 4: QwertySpark (6750 Tournament chips) 
+Seat 7: 8atmann (7190 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [50 Tournament chips]
+8atmann posts the big blind [100 Tournament chips]
+space44, at seat 0, is in this hand with 1180 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1410 Tournament chips.
+rslap, at seat 3, is in this hand with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6700 Tournament chips.
+8atmann, at seat 7, is in this hand with 7090 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand (absent) with 465 Tournament chips.
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+Dealt to space44 [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ Jd 5c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Unclejimmy71 folds [100 Tournament chips]
+space44 calls [100 Tournament chips]
+karen64 folds [100 Tournament chips]
+rslap calls [100 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+8atmann checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 7h ] board:[ 5d 7h]
+** Dealing Flop ** [ Qc ] board:[ 5d 7h Qc]
+8atmann bets for 100 Tournament chips
+space44 folds [100 Tournament chips]
+rslap folds [100 Tournament chips]
+8atmann is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 8atmann (8d 5s 5d 7h Qc: a pair of fives)
+8atmann wins main pot 350 Tournament chips.
+Seat 0: space44 (1080 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5105 Tournament chips) 
+Seat 4: QwertySpark (6700 Tournament chips) 
+Seat 7: 8atmann (7440 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+Game #23969543-26 ends
+Game #23969543-27 starts
+Seat 0: space44 (1080 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5105 Tournament chips) 
+Seat 4: QwertySpark (6700 Tournament chips) 
+Seat 7: 8atmann (7440 Tournament chips) 
+Seat 8: Unclejimmy71 (465 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+8atmann posts the small blind [50 Tournament chips]
+Unclejimmy71 posts the big blind [100 Tournament chips]
+space44, at seat 0, is in this hand with 1080 Tournament chips.
+karen64, at seat 2, is in this hand (absent) with 1410 Tournament chips.
+rslap, at seat 3, is in this hand with 5105 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6700 Tournament chips.
+8atmann, at seat 7, is in this hand with 7390 Tournament chips.
+Unclejimmy71, at seat 8, is in this hand (absent) with 365 Tournament chips.
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+8atmann is dealt: **
+Unclejimmy71 is dealt: **
+space44 is dealt: **
+karen64 is dealt: **
+rslap is dealt: **
+
+Dealt to space44 [ **** ]
+Dealt to karen64 [ **** ]
+Dealt to rslap [ **** ]
+Dealt to QwertySpark [ 7s 3c ]
+Dealt to 8atmann [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+space44 calls [100 Tournament chips]
+karen64 folds [100 Tournament chips]
+rslap folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+8atmann raises [150 Tournament chips]
+Unclejimmy71 folds [100 Tournament chips]
+space44 raises all-in [980 Tournament chips]
+8atmann calls [880 Tournament chips]
+Tournament all-in showdown -- players show:
+space44 shows [ Th Ts ]
+8atmann shows [ Ks Qc ]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 6d ] board:[ Jd 6d]
+** Dealing Flop ** [ 9d ] board:[ Jd 6d 9d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Jd 6d 9d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ Jd 6d 9d 3h Qs]
+        (no action in this round)
+Round 4 is over.
+space44 shows [ Th Ts ] a pair of tens, queen/jack kickers
+8atmann shows [ Ks Qc ] a pair of queens, king/jack kickers
+8atmann wins main pot 2260 Tournament chips with a pair of queens, king/jack kickers.
+Seat 0: space44 (0 Tournament chips) 
+Seat 2: karen64 (1410 Tournament chips) 
+Seat 3: rslap (5105 Tournament chips) 
+Seat 4: QwertySpark (6700 Tournament chips) 
+Seat 7: 8atmann (8620 Tournament chips) 
+Seat 8: Unclejimmy71 (365 Tournament chips) 
+Game #23969543-27 ends
+Player space44 leaves the table with 0 Tournament chips
+Player karen64 leaves the table with 1410 Tournament chips
+Player QwertySpark leaves the table with 6700 Tournament chips
+Player Unclejimmy71 leaves the table with 365 Tournament chips
+Player 8atmann leaves the table with 8620 Tournament chips
+Player rslap leaves the table with 5105 Tournament chips

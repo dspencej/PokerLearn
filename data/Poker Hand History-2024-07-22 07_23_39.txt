@@ -1,0 +1,229 @@
+Game#: 23827686
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ As 8s Kh 4s 8c]
+        (no action in this round)
+Round 4 is over.
+4Creed shows [ 5c Kd ] two pair, kings and eights, ace kicker
+OffWeGo shows [ 6c 9h ] a pair of eights, ace/king kickers
+4Creed wins main pot 430 Tournament chips with two pair, kings and eights, ace kicker.
+Seat 0: btrum08 (1000 Tournament chips) 
+Seat 1: soo23 (2040 Tournament chips) 
+Seat 2: 4Creed (2920 Tournament chips) 
+Seat 3: Pop387999 (990 Tournament chips) 
+Seat 4: DonnaBTwin (1000 Tournament chips) 
+Seat 5: chuck1959 (1050 Tournament chips) 
+Seat 6: mijudga (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: OffWeGo (0 Tournament chips) 
+Game #23827686-7 ends
+Player OffWeGo leaves the table with 0 Tournament chips
+Game #23827686-8 starts
+Seat 0: btrum08 (1000 Tournament chips) 
+Seat 1: soo23 (2040 Tournament chips) 
+Seat 2: 4Creed (2920 Tournament chips) 
+Seat 3: Pop387999 (990 Tournament chips) 
+Seat 4: DonnaBTwin (1000 Tournament chips) 
+Seat 5: chuck1959 (1050 Tournament chips) 
+Seat 6: mijudga (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: geranium (1000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+4Creed posts the small blind [10 Tournament chips]
+Pop387999 posts the big blind [20 Tournament chips]
+btrum08, at seat 0, is in this hand with 1000 Tournament chips.
+soo23, at seat 1, is in this hand with 2040 Tournament chips.
+4Creed, at seat 2, is in this hand with 2910 Tournament chips.
+Pop387999, at seat 3, is in this hand (absent) with 970 Tournament chips.
+DonnaBTwin, at seat 4, is in this hand with 1000 Tournament chips.
+chuck1959, at seat 5, is in this hand with 1050 Tournament chips.
+mijudga, at seat 6, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 1000 Tournament chips.
+geranium, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+4Creed is dealt: **
+Pop387999 is dealt: **
+DonnaBTwin is dealt: **
+chuck1959 is dealt: **
+mijudga is dealt: **
+
+geranium is dealt: **
+btrum08 is dealt: **
+soo23 is dealt: **
+4Creed is dealt: **
+Pop387999 is dealt: **
+DonnaBTwin is dealt: **
+chuck1959 is dealt: **
+mijudga is dealt: **
+
+geranium is dealt: **
+btrum08 is dealt: **
+soo23 is dealt: **
+Dealt to btrum08 [ **** ]
+Dealt to soo23 [ **** ]
+Dealt to 4Creed [ **** ]
+Dealt to Pop387999 [ **** ]
+Dealt to DonnaBTwin [ **** ]
+Dealt to chuck1959 [ **** ]
+Dealt to mijudga [ **** ]
+Dealt to QwertySpark [ 9s 3h ]
+Dealt to geranium [ **** ]
+DonnaBTwin calls [20 Tournament chips]
+chuck1959 folds [20 Tournament chips]
+mijudga calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+geranium calls [20 Tournament chips]
+btrum08 folds [20 Tournament chips]
+soo23 calls [20 Tournament chips]
+4Creed calls [10 Tournament chips]
+Pop387999 folds
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 2d ] board:[ 2h 2d]
+** Dealing Flop ** [ 6c ] board:[ 2h 2d 6c]
+4Creed checks
+DonnaBTwin bets for 20 Tournament chips
+mijudga calls [20 Tournament chips]
+geranium calls [20 Tournament chips]
+soo23 calls [20 Tournament chips]
+4Creed folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 2h 2d 6c 9c]
+DonnaBTwin checks
+mijudga checks
+geranium checks
+soo23 checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 2h 2d 6c 9c 3c]
+DonnaBTwin checks
+mijudga checks
+geranium checks
+soo23 checks
+Round 4 is over.
+DonnaBTwin shows [ 5s 5h ] two pair, fives and deuces
+Hand evaluation for DonnaBTwin (5s 5h 2h 2d 9c: two pair, fives and deuces)
+mijudga doesn't show [ 4s 8h ]
+(mijudga has 4s 8h.)
+geranium doesn't show [ Ts 8s ]
+(geranium has Ts 8s.)
+soo23 doesn't show [ 7c Jd ]
+(soo23 has 7c Jd.)
+DonnaBTwin wins main pot 200 Tournament chips with two pair, fives and deuces, nine kicker.
+Seat 0: btrum08 (1000 Tournament chips) 
+Seat 1: soo23 (2000 Tournament chips) 
+Seat 2: 4Creed (2900 Tournament chips) 
+Seat 3: Pop387999 (970 Tournament chips) 
+Seat 4: DonnaBTwin (1160 Tournament chips) 
+Seat 5: chuck1959 (1050 Tournament chips) 
+Seat 6: mijudga (960 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: geranium (960 Tournament chips) 
+Game #23827686-8 ends
+Game #23827686-9 starts
+Seat 0: btrum08 (1000 Tournament chips) 
+Seat 1: soo23 (2000 Tournament chips) 
+Seat 2: 4Creed (2900 Tournament chips) 
+Seat 3: Pop387999 (970 Tournament chips) 
+Seat 4: DonnaBTwin (1160 Tournament chips) 
+Seat 5: chuck1959 (1050 Tournament chips) 
+Seat 6: mijudga (960 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: geranium (960 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Pop387999 posts the small blind [10 Tournament chips]
+DonnaBTwin posts the big blind [20 Tournament chips]
+btrum08, at seat 0, is in this hand with 1000 Tournament chips.
+soo23, at seat 1, is in this hand with 2000 Tournament chips.
+4Creed, at seat 2, is in this hand with 2900 Tournament chips.
+Pop387999, at seat 3, is in this hand (absent) with 960 Tournament chips.
+DonnaBTwin, at seat 4, is in this hand with 1140 Tournament chips.
+chuck1959, at seat 5, is in this hand with 1050 Tournament chips.
+mijudga, at seat 6, is in this hand with 960 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 1000 Tournament chips.
+geranium, at seat 8, is in this hand with 960 Tournament chips.
+Pop387999 is dealt: **
+DonnaBTwin is dealt: **
+chuck1959 is dealt: **
+mijudga is dealt: **
+
+geranium is dealt: **
+btrum08 is dealt: **
+soo23 is dealt: **
+4Creed is dealt: **
+Pop387999 is dealt: **
+DonnaBTwin is dealt: **
+chuck1959 is dealt: **
+mijudga is dealt: **
+
+geranium is dealt: **
+btrum08 is dealt: **
+soo23 is dealt: **
+4Creed is dealt: **
+Dealt to btrum08 [ **** ]
+Dealt to soo23 [ **** ]
+Dealt to 4Creed [ **** ]
+Dealt to Pop387999 [ **** ]
+Dealt to DonnaBTwin [ **** ]
+Dealt to chuck1959 [ **** ]
+Dealt to mijudga [ **** ]
+Dealt to QwertySpark [ Jh Kh ]
+Dealt to geranium [ **** ]
+chuck1959 folds [20 Tournament chips]
+mijudga raises [40 Tournament chips]
+QwertySpark re-raises [100 Tournament chips]
+(Pop387999 has entered the table, is no longer absent.)
+geranium calls [100 Tournament chips]
+btrum08 folds [100 Tournament chips]
+soo23 calls [100 Tournament chips]
+4Creed folds [100 Tournament chips]
+Pop387999 calls [90 Tournament chips]
+DonnaBTwin calls [80 Tournament chips]
+mijudga calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 2h ] board:[ Jd 2h]
+** Dealing Flop ** [ 8s ] board:[ Jd 2h 8s]
+Pop387999 goes all-in for 870 Tournament chips
+DonnaBTwin folds [870 Tournament chips]
+mijudga calls all-in [860 Tournament chips]
+QwertySpark calls [870 Tournament chips]
+geranium calls all-in [860 Tournament chips]
+soo23 calls [870 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Jd 2h 8s 5s]
+QwertySpark checks
+soo23 checks
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Jd 2h 8s 5s Tc]
+QwertySpark bets for 20 Tournament chips
+soo23 raises all-in [1030 Tournament chips]
+QwertySpark calls all-in [10 Tournament chips]
+soo23 is returned 1000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+soo23 shows [ 9s 7h ]
+Pop387999 shows [ 9c Qh ]
+mijudga shows [ 7c 8h ]
+QwertySpark shows [ Jh Kh ]
+geranium shows [ Ah Td ]
+Round 4 is over.
+soo23 shows [ 9s 7h ] straight, jack high
+Pop387999 shows [ 9c Qh ] straight, queen high
+mijudga shows [ 7c 8h ] a pair of eights, jack/ten kickers
+QwertySpark shows [ Jh Kh ] a pair of jacks, king/ten kickers
+geranium shows [ Ah Td ] a pair of tens, ace/jack kickers
+Pop387999 wins main pot 4900 Tournament chips with straight, queen high.
+Pop387999 wins side pot #1 30 Tournament chips with straight, queen high.
+soo23 wins side pot #2 60 Tournament chips with straight, jack high.
+Seat 0: btrum08 (1000 Tournament chips) 
+Seat 1: soo23 (1060 Tournament chips) 
+Seat 2: 4Creed (2900 Tournament chips) 
+Seat 3: Pop387999 (4930 Tournament chips) 
+Seat 4: DonnaBTwin (1060 Tournament chips) 
+Seat 5: chuck1959 (1050 Tournament chips) 
+Seat 6: mijudga (0 Tournament chips) 
+Seat 7: QwertySpark (0 Tournament chips) 
+Seat 8: geranium (0 Tournament chips) 
+Game #23827686-9 ends
+Player mijudga leaves the table with 0 Tournament chips
+Player geranium leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

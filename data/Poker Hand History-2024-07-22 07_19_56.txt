@@ -1,0 +1,664 @@
+Game#: 23943484
+Tonydsjr calls [10 Tournament chips]
+HotRod60 calls [10 Tournament chips]
+Great99 folds [10 Tournament chips]
+heintz57 calls [10 Tournament chips]
+nevadajo folds [10 Tournament chips]
+LastFastDog raises [70 Tournament chips]
+dj1212 folds [70 Tournament chips]
+QwertySpark folds [65 Tournament chips]
+Stalwart calls [60 Tournament chips]
+Tonydsjr calls [60 Tournament chips]
+HotRod60 calls [60 Tournament chips]
+heintz57 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Kc ] board:[ 3d Kc]
+** Dealing Flop ** [ Th ] board:[ 3d Kc Th]
+Stalwart checks
+Tonydsjr checks
+HotRod60 bets for 355 Tournament chips
+heintz57 folds [355 Tournament chips]
+LastFastDog calls [355 Tournament chips]
+Stalwart folds [355 Tournament chips]
+Tonydsjr folds [355 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 3d Kc Th 3s]
+HotRod60 goes all-in for 575 Tournament chips
+LastFastDog calls all-in [575 Tournament chips]
+Tournament all-in showdown -- players show:
+LastFastDog shows [ 8d Kd ]
+HotRod60 shows [ Tc Ts ]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3d Kc Th 3s Ac]
+        (no action in this round)
+Round 4 is over.
+LastFastDog shows [ 8d Kd ] two pair, kings and threes, ace kicker
+HotRod60 shows [ Tc Ts ] full house, tens full of threes
+HotRod60 wins main pot 2215 Tournament chips with full house, tens full of threes.
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: heintz57 (930 Tournament chips) 
+Seat 2: nevadajo (1000 Tournament chips) 
+Seat 3: LastFastDog (0 Tournament chips) 
+Seat 4: dj1212 (1000 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (930 Tournament chips) 
+Seat 7: Tonydsjr (930 Tournament chips) 
+Seat 8: HotRod60 (2215 Tournament chips) 
+Game #23943484-1 ends
+Player nevadajo leaves the table with 1000 Tournament chips
+Player heintz57 leaves the table with 930 Tournament chips
+Player LastFastDog leaves the table with 0 Tournament chips
+Game #23943484-2 starts
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: DJOLIOD (1000 Tournament chips) 
+Seat 4: dj1212 (1000 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (930 Tournament chips) 
+Seat 7: Tonydsjr (930 Tournament chips) 
+Seat 8: HotRod60 (2215 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Stalwart posts the small blind [5 Tournament chips]
+Tonydsjr posts the big blind [10 Tournament chips]
+Great99, at seat 0, is in this hand with 1000 Tournament chips.
+DJOLIOD, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+dj1212, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 925 Tournament chips.
+Tonydsjr, at seat 7, is in this hand with 920 Tournament chips.
+HotRod60, at seat 8, is in this hand with 2215 Tournament chips.
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+dj1212 is dealt: **
+
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ 3d 4c ]
+Dealt to Stalwart [ **** ]
+Dealt to Tonydsjr [ **** ]
+Dealt to HotRod60 [ **** ]
+HotRod60 calls [10 Tournament chips]
+Great99 folds [10 Tournament chips]
+DJOLIOD calls [10 Tournament chips]
+dj1212 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Stalwart calls [5 Tournament chips]
+Tonydsjr checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 5s ] board:[ Ad 5s]
+** Dealing Flop ** [ Js ] board:[ Ad 5s Js]
+Stalwart checks
+Tonydsjr checks
+HotRod60 has timed out - the hand is checked
+DJOLIOD checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Ad 5s Js 6h]
+Stalwart bets for 40 Tournament chips
+Tonydsjr folds [40 Tournament chips]
+HotRod60 folds [40 Tournament chips]
+DJOLIOD folds [40 Tournament chips]
+Stalwart is returned 40 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Stalwart (6d Jh Ad Js 6h: two pair, jacks and sixes)
+Stalwart wins main pot 40 Tournament chips.
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (1000 Tournament chips) 
+Seat 4: dj1212 (1000 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (960 Tournament chips) 
+Seat 7: Tonydsjr (920 Tournament chips) 
+Seat 8: HotRod60 (2205 Tournament chips) 
+Game #23943484-2 ends
+Game #23943484-3 starts
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (1000 Tournament chips) 
+Seat 4: dj1212 (1000 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (960 Tournament chips) 
+Seat 7: Tonydsjr (920 Tournament chips) 
+Seat 8: HotRod60 (2205 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Tonydsjr posts the small blind [10 Tournament chips]
+HotRod60 posts the big blind [20 Tournament chips]
+Great99, at seat 0, is in this hand with 1000 Tournament chips.
+DJOLIOD, at seat 1, is in this hand with 990 Tournament chips.
+Schleprock666, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+Macwelds, at seat 3, is in this hand with 1000 Tournament chips.
+dj1212, at seat 4, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand (absent) with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 960 Tournament chips.
+Tonydsjr, at seat 7, is in this hand with 910 Tournament chips.
+HotRod60, at seat 8, is in this hand with 2185 Tournament chips.
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ 3c 3s ]
+Dealt to Stalwart [ **** ]
+Dealt to Tonydsjr [ **** ]
+Dealt to HotRod60 [ **** ]
+Great99 folds [20 Tournament chips]
+DJOLIOD folds [20 Tournament chips]
+Schleprock666 folds [20 Tournament chips]
+Macwelds calls [20 Tournament chips]
+dj1212 calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Stalwart calls [20 Tournament chips]
+Tonydsjr folds [10 Tournament chips]
+HotRod60 checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Qh ] board:[ 7c Qh]
+** Dealing Flop ** [ As ] board:[ 7c Qh As]
+HotRod60 checks
+Macwelds checks
+dj1212 bets for 20 Tournament chips
+Stalwart calls [20 Tournament chips]
+HotRod60 folds [20 Tournament chips]
+Macwelds calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 7c Qh As Qc]
+Macwelds checks
+dj1212 bets for 20 Tournament chips
+Stalwart calls [20 Tournament chips]
+Macwelds calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 7c Qh As Qc Jc]
+Macwelds checks
+dj1212 bets for 20 Tournament chips
+Stalwart calls [20 Tournament chips]
+Macwelds calls [20 Tournament chips]
+Round 4 is over.
+dj1212 shows [ 8h Kd ] a pair of queens
+Hand evaluation for dj1212 (Kd Qh As Qc Jc: a pair of queens)
+Stalwart shows [ 7d 5c ] two pair, queens and sevens
+Hand evaluation for Stalwart (7d 7c Qh As Qc: two pair, queens and sevens)
+Macwelds shows [ Js Kh ] two pair, queens and jacks
+Hand evaluation for Macwelds (Js Qh As Qc Jc: two pair, queens and jacks)
+Macwelds wins main pot 270 Tournament chips with two pair, queens and jacks, ace kicker.
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (1190 Tournament chips) 
+Seat 4: dj1212 (920 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (880 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (2185 Tournament chips) 
+Game #23943484-3 ends
+Game #23943484-4 starts
+Seat 0: Great99 (1000 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (1190 Tournament chips) 
+Seat 4: dj1212 (920 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (880 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (2185 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+HotRod60 posts the small blind [15 Tournament chips]
+Great99 posts the big blind [30 Tournament chips]
+Great99, at seat 0, is in this hand with 970 Tournament chips.
+DJOLIOD, at seat 1, is in this hand with 990 Tournament chips.
+Schleprock666, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+Macwelds, at seat 3, is in this hand with 1190 Tournament chips.
+dj1212, at seat 4, is in this hand with 920 Tournament chips.
+QwertySpark, at seat 5, is in this hand (absent) with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 880 Tournament chips.
+Tonydsjr, at seat 7, is in this hand with 910 Tournament chips.
+HotRod60, at seat 8, is in this hand with 2170 Tournament chips.
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ Kc 9s ]
+Dealt to Stalwart [ **** ]
+Dealt to Tonydsjr [ **** ]
+Dealt to HotRod60 [ **** ]
+DJOLIOD folds [30 Tournament chips]
+Schleprock666 folds [30 Tournament chips]
+Macwelds calls [30 Tournament chips]
+dj1212 calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Stalwart raises [165 Tournament chips]
+Tonydsjr folds [165 Tournament chips]
+HotRod60 calls [150 Tournament chips]
+Great99 calls [135 Tournament chips]
+Macwelds calls [135 Tournament chips]
+dj1212 folds [135 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 3d ] board:[ 7d 3d]
+** Dealing Flop ** [ 7c ] board:[ 7d 3d 7c]
+HotRod60 checks
+Great99 checks
+Macwelds checks
+Stalwart bets for 345 Tournament chips
+HotRod60 calls [345 Tournament chips]
+Great99 folds [345 Tournament chips]
+Macwelds calls [345 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 7d 3d 7c 5h]
+HotRod60 checks
+Macwelds checks
+Stalwart goes all-in for 370 Tournament chips
+HotRod60 calls [370 Tournament chips]
+Macwelds calls [370 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 7d 3d 7c 5h Jc]
+HotRod60 checks
+Macwelds checks
+Round 4 is over.
+HotRod60 shows [ 9d Qd ] a pair of sevens
+Hand evaluation for HotRod60 (9d Qd 7d 7c Jc: a pair of sevens)
+Macwelds shows [ As Tc ] a pair of sevens
+Hand evaluation for Macwelds (As Tc 7d 7c Jc: a pair of sevens)
+Stalwart shows [ 2c 2h ] two pair, sevens and deuces
+Hand evaluation for Stalwart (2c 2h 7d 7c Jc: two pair, sevens and deuces)
+Stalwart wins main pot 2835 Tournament chips with two pair, sevens and deuces, jack kicker.
+Seat 0: Great99 (835 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (310 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (2835 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+Game #23943484-4 ends
+Game #23943484-5 starts
+Seat 0: Great99 (835 Tournament chips) 
+Seat 1: DJOLIOD (990 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (310 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (2835 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Great99 posts the small blind [20 Tournament chips]
+DJOLIOD posts the big blind [40 Tournament chips]
+Great99, at seat 0, is in this hand with 815 Tournament chips.
+DJOLIOD, at seat 1, is in this hand with 950 Tournament chips.
+Schleprock666, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+Macwelds, at seat 3, is in this hand with 310 Tournament chips.
+dj1212, at seat 4, is in this hand with 890 Tournament chips.
+QwertySpark, at seat 5, is in this hand (absent) with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 2835 Tournament chips.
+Tonydsjr, at seat 7, is in this hand with 910 Tournament chips.
+HotRod60, at seat 8, is in this hand with 1305 Tournament chips.
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Macwelds is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ 4h Ah ]
+Dealt to Stalwart [ **** ]
+Dealt to Tonydsjr [ **** ]
+Dealt to HotRod60 [ **** ]
+Schleprock666 folds [40 Tournament chips]
+Macwelds raises all-in [310 Tournament chips]
+dj1212 folds [310 Tournament chips]
+QwertySpark folds [310 Tournament chips]
+Stalwart calls [310 Tournament chips]
+Tonydsjr folds [310 Tournament chips]
+HotRod60 folds [310 Tournament chips]
+Great99 raises all-in [815 Tournament chips]
+DJOLIOD folds [795 Tournament chips]
+Stalwart calls [525 Tournament chips]
+Tournament all-in showdown -- players show:
+Great99 shows [ Kd As ]
+Macwelds shows [ Tc Jh ]
+Stalwart shows [ Jc Ks ]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Qh ] board:[ 4c Qh]
+** Dealing Flop ** [ 6h ] board:[ 4c Qh 6h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 4c Qh 6h 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 4c Qh 6h 5h 2d]
+        (no action in this round)
+Round 4 is over.
+Great99 shows [ Kd As ] ace/king/queen high
+Macwelds shows [ Tc Jh ] queen/jack/ten high
+Stalwart shows [ Jc Ks ] king/queen/jack high
+Great99 wins main pot 970 Tournament chips with ace/king/queen high.
+Great99 wins side pot #1 1050 Tournament chips with ace/king/queen high.
+Seat 0: Great99 (2020 Tournament chips) 
+Seat 1: DJOLIOD (950 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 3: Macwelds (0 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (2000 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+Game #23943484-5 ends
+Player Macwelds leaves the table with 0 Tournament chips
+Game #23943484-6 starts
+Seat 0: Great99 (2020 Tournament chips) 
+Seat 1: DJOLIOD (950 Tournament chips) 
+Seat 2: Schleprock666 (1000 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (2000 Tournament chips) 
+Seat 7: Tonydsjr (910 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+DJOLIOD posts the small blind [30 Tournament chips]
+Schleprock666 posts the big blind [60 Tournament chips]
+Great99, at seat 0, is in this hand with 2020 Tournament chips.
+DJOLIOD, at seat 1, is in this hand with 920 Tournament chips.
+Schleprock666, at seat 2, is in this hand with 940 Tournament chips.
+dj1212, at seat 4, is in this hand with 890 Tournament chips.
+QwertySpark, at seat 5, is in this hand (absent) with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 2000 Tournament chips.
+Tonydsjr, at seat 7, is in this hand with 910 Tournament chips.
+HotRod60, at seat 8, is in this hand with 1305 Tournament chips.
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+Tonydsjr is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ Kd 3s ]
+Dealt to Stalwart [ **** ]
+Dealt to Tonydsjr [ **** ]
+Dealt to HotRod60 [ **** ]
+dj1212 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Stalwart raises [210 Tournament chips]
+Tonydsjr calls [210 Tournament chips]
+HotRod60 folds [210 Tournament chips]
+Great99 calls [210 Tournament chips]
+DJOLIOD folds [180 Tournament chips]
+Schleprock666 folds [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Ts ] board:[ 3c Ts]
+** Dealing Flop ** [ 9c ] board:[ 3c Ts 9c]
+Stalwart bets for 720 Tournament chips
+Tonydsjr calls all-in [700 Tournament chips]
+Great99 calls [720 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 3c Ts 9c 8s]
+Stalwart goes all-in for 1070 Tournament chips
+Great99 calls [1070 Tournament chips]
+Tournament all-in showdown -- players show:
+Great99 shows [ Ad 9s ]
+Stalwart shows [ Qh Jc ]
+Tonydsjr shows [ Kh Jd ]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 3c Ts 9c 8s Th]
+        (no action in this round)
+Round 4 is over.
+Great99 shows [ Ad 9s ] two pair, tens and nines, ace kicker
+Stalwart shows [ Qh Jc ] straight, queen high
+Tonydsjr shows [ Kh Jd ] a pair of tens, king/jack kickers
+Stalwart wins main pot 2820 Tournament chips with straight, queen high.
+Stalwart wins side pot #1 2180 Tournament chips with straight, queen high.
+Seat 0: Great99 (20 Tournament chips) 
+Seat 1: DJOLIOD (920 Tournament chips) 
+Seat 2: Schleprock666 (940 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (5000 Tournament chips) 
+Seat 7: Tonydsjr (0 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+Game #23943484-6 ends
+Player Tonydsjr leaves the table with 0 Tournament chips
+Game #23943484-7 starts
+Seat 0: Great99 (20 Tournament chips) 
+Seat 1: DJOLIOD (920 Tournament chips) 
+Seat 2: Schleprock666 (940 Tournament chips) 
+Seat 4: dj1212 (890 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (5000 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Schleprock666 posts the small blind [30 Tournament chips]
+dj1212 posts the big blind [60 Tournament chips]
+Great99, at seat 0, is in this hand with 20 Tournament chips.
+DJOLIOD, at seat 1, is in this hand with 920 Tournament chips.
+Schleprock666, at seat 2, is in this hand with 910 Tournament chips.
+dj1212, at seat 4, is in this hand with 830 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 995 Tournament chips.
+Stalwart, at seat 6, is in this hand with 5000 Tournament chips.
+HotRod60, at seat 8, is in this hand with 1305 Tournament chips.
+Schleprock666 is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+HotRod60 is dealt: **
+Great99 is dealt: **
+DJOLIOD is dealt: **
+Dealt to Great99 [ **** ]
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ Kd Kc ]
+Dealt to Stalwart [ **** ]
+Dealt to HotRod60 [ **** ]
+QwertySpark folds [60 Tournament chips]
+Stalwart calls [60 Tournament chips]
+HotRod60 folds [60 Tournament chips]
+Great99 calls all-in [20 Tournament chips]
+DJOLIOD calls [60 Tournament chips]
+Schleprock666 folds [30 Tournament chips]
+dj1212 checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 4d ] board:[ 8s 4d]
+** Dealing Flop ** [ 9c ] board:[ 8s 4d 9c]
+dj1212 checks
+Stalwart bets for 230 Tournament chips
+DJOLIOD folds [230 Tournament chips]
+dj1212 folds [230 Tournament chips]
+Stalwart is returned 230 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Great99 shows [ 6c Ac ]
+Stalwart shows [ 7c Ts ]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 8s 4d 9c 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 8s 4d 9c 3d Jh]
+        (no action in this round)
+Round 4 is over.
+Great99 shows [ 6c Ac ] ace/jack/nine high
+Stalwart shows [ 7c Ts ] straight, jack high
+Stalwart wins main pot 100 Tournament chips with straight, jack high.
+Stalwart wins side pot #1 130 Tournament chips with straight, jack high.
+Seat 0: Great99 (0 Tournament chips) 
+Seat 1: DJOLIOD (860 Tournament chips) 
+Seat 2: Schleprock666 (910 Tournament chips) 
+Seat 4: dj1212 (830 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (5170 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+Game #23943484-7 ends
+Player Great99 leaves the table with 0 Tournament chips
+Game #23943484-8 starts
+Seat 1: DJOLIOD (860 Tournament chips) 
+Seat 2: Schleprock666 (910 Tournament chips) 
+Seat 4: dj1212 (830 Tournament chips) 
+Seat 5: QwertySpark (995 Tournament chips) 
+Seat 6: Stalwart (5170 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+dj1212 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+DJOLIOD, at seat 1, is in this hand with 860 Tournament chips.
+Schleprock666, at seat 2, is in this hand with 910 Tournament chips.
+dj1212, at seat 4, is in this hand with 780 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 895 Tournament chips.
+Stalwart, at seat 6, is in this hand with 5170 Tournament chips.
+HotRod60, at seat 8, is in this hand with 1305 Tournament chips.
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+HotRod60 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+dj1212 is dealt: **
+
+Stalwart is dealt: **
+HotRod60 is dealt: **
+DJOLIOD is dealt: **
+Schleprock666 is dealt: **
+Dealt to DJOLIOD [ **** ]
+Dealt to Schleprock666 [ **** ]
+Dealt to dj1212 [ **** ]
+Dealt to QwertySpark [ Kd Qh ]
+Dealt to Stalwart [ **** ]
+Dealt to HotRod60 [ **** ]
+Stalwart raises [350 Tournament chips]
+HotRod60 folds [350 Tournament chips]
+DJOLIOD folds [350 Tournament chips]
+Schleprock666 calls [350 Tournament chips]
+dj1212 folds [300 Tournament chips]
+QwertySpark re-raises [700 Tournament chips]
+Stalwart calls [450 Tournament chips]
+Schleprock666 raises all-in [560 Tournament chips]
+QwertySpark calls [110 Tournament chips]
+Stalwart calls [110 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 8c ] board:[ 4h 8c]
+** Dealing Flop ** [ 3d ] board:[ 4h 8c 3d]
+QwertySpark goes all-in for 85 Tournament chips
+Stalwart calls [85 Tournament chips]
+Tournament all-in showdown -- players show:
+Schleprock666 shows [ 5s Ks ]
+QwertySpark shows [ Kd Qh ]
+Stalwart shows [ 3h 2h ]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 4h 8c 3d Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 4h 8c 3d Qd 9s]
+        (no action in this round)
+Round 4 is over.
+Schleprock666 shows [ 5s Ks ] king/queen/nine high
+QwertySpark shows [ Kd Qh ] a pair of queens, king/nine kickers
+Stalwart shows [ 3h 2h ] a pair of threes, queen/nine kickers
+QwertySpark wins main pot 2780 Tournament chips with a pair of queens, king/nine kickers.
+QwertySpark wins side pot #1 170 Tournament chips with a pair of queens, king/nine kickers.
+Seat 1: DJOLIOD (860 Tournament chips) 
+Seat 2: Schleprock666 (0 Tournament chips) 
+Seat 4: dj1212 (780 Tournament chips) 
+Seat 5: QwertySpark (2950 Tournament chips) 
+Seat 6: Stalwart (4175 Tournament chips) 
+Seat 8: HotRod60 (1305 Tournament chips) 
+Game #23943484-8 ends
+Player Schleprock666 leaves the table with 0 Tournament chips
+Player DJOLIOD leaves the table with 860 Tournament chips
+Player QwertySpark leaves the table with 2950 Tournament chips
+Player dj1212 leaves the table with 780 Tournament chips
+Player HotRod60 leaves the table with 1305 Tournament chips
+Player Stalwart leaves the table with 4175 Tournament chips

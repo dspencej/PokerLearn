@@ -1,0 +1,723 @@
+Game#: 23981328
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+QwertySpark is dealt: As
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+The button is moved to seat 4.
+Game #23981328-1 starts
+Seat 0: hawkeye69 (1500 Tournament chips) 
+Seat 1: pa-mike (1500 Tournament chips) 
+Seat 2: jasz (1500 Tournament chips) 
+Seat 3: sackieepm (1500 Tournament chips) 
+Seat 4: QwertySpark (1500 Tournament chips) 
+Seat 5: DeezNuts001 (1500 Tournament chips) 
+Seat 6: Loveless 24 (1500 Tournament chips) 
+Seat 7: PVBeerMan (1500 Tournament chips) 
+Seat 8: Snuffyjr2 (1500 Tournament chips) 
+The button is at seat 4
+DeezNuts001 posts the small blind [10 Tournament chips]
+Loveless 24 posts the big blind [15 Tournament chips]
+hawkeye69, at seat 0, is in this hand (absent) with 1500 Tournament chips.
+pa-mike, at seat 1, is in this hand (absent) with 1500 Tournament chips.
+jasz, at seat 2, is in this hand with 1500 Tournament chips.
+sackieepm, at seat 3, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1500 Tournament chips.
+DeezNuts001, at seat 5, is in this hand (absent) with 1490 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1485 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 1500 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1500 Tournament chips.
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+Dealt to hawkeye69 [ **** ]
+Dealt to pa-mike [ **** ]
+Dealt to jasz [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to QwertySpark [ 7c Qh Js Tc ]
+Dealt to DeezNuts001 [ **** ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+PVBeerMan calls [15 Tournament chips]
+Snuffyjr2 folds [15 Tournament chips]
+hawkeye69 folds [15 Tournament chips]
+pa-mike folds [15 Tournament chips]
+jasz calls [15 Tournament chips]
+sackieepm folds [15 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+DeezNuts001 folds [5 Tournament chips]
+Loveless 24 checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 7d ] board:[ Ks 7d]
+** Dealing Flop ** [ Jh ] board:[ Ks 7d Jh]
+Loveless 24 checks
+PVBeerMan checks
+jasz has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Ks 7d Jh 4s]
+Loveless 24 bets for 55 Tournament chips
+PVBeerMan calls [55 Tournament chips]
+jasz calls [55 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ Ks 7d Jh 4s Jc]
+Loveless 24 bets for 220 Tournament chips
+PVBeerMan folds [220 Tournament chips]
+jasz folds [220 Tournament chips]
+Loveless 24 is returned 220 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Loveless 24 (4c Jd Jh 4s Jc: full house, jacks full of fours)
+Loveless 24 wins main pot 220 Tournament chips.
+Seat 0: hawkeye69 (1500 Tournament chips) 
+Seat 1: pa-mike (1500 Tournament chips) 
+Seat 2: jasz (1430 Tournament chips) 
+Seat 3: sackieepm (1500 Tournament chips) 
+Seat 4: QwertySpark (1500 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1650 Tournament chips) 
+Seat 7: PVBeerMan (1430 Tournament chips) 
+Seat 8: Snuffyjr2 (1500 Tournament chips) 
+Game #23981328-1 ends
+Game #23981328-2 starts
+Seat 0: hawkeye69 (1500 Tournament chips) 
+Seat 1: pa-mike (1500 Tournament chips) 
+Seat 2: jasz (1430 Tournament chips) 
+Seat 3: sackieepm (1500 Tournament chips) 
+Seat 4: QwertySpark (1500 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1650 Tournament chips) 
+Seat 7: PVBeerMan (1430 Tournament chips) 
+Seat 8: Snuffyjr2 (1500 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Loveless 24 posts the small blind [10 Tournament chips]
+PVBeerMan posts the big blind [15 Tournament chips]
+hawkeye69, at seat 0, is in this hand with 1500 Tournament chips.
+pa-mike, at seat 1, is in this hand with 1500 Tournament chips.
+jasz, at seat 2, is in this hand (absent) with 1430 Tournament chips.
+sackieepm, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1500 Tournament chips.
+DeezNuts001, at seat 5, is in this hand (absent) with 1490 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1640 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 1415 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1500 Tournament chips.
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+sackieepm is dealt: **
+
+DeezNuts001 is dealt: **
+Dealt to hawkeye69 [ **** ]
+Dealt to pa-mike [ **** ]
+Dealt to jasz [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to QwertySpark [ 3h 8c 5c Td ]
+Dealt to DeezNuts001 [ **** ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+Snuffyjr2 folds [15 Tournament chips]
+hawkeye69 calls [15 Tournament chips]
+(jasz has entered the table, is no longer absent.)
+pa-mike folds [15 Tournament chips]
+jasz calls [15 Tournament chips]
+sackieepm calls [15 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+DeezNuts001 folds [15 Tournament chips]
+Loveless 24 calls [5 Tournament chips]
+PVBeerMan checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Kh ] board:[ 9c Kh]
+** Dealing Flop ** [ 9s ] board:[ 9c Kh 9s]
+Loveless 24 checks
+PVBeerMan checks
+hawkeye69 bets for 90 Tournament chips
+jasz calls [90 Tournament chips]
+sackieepm raises [450 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+Loveless 24 folds [450 Tournament chips]
+PVBeerMan folds [450 Tournament chips]
+hawkeye69 raises all-in [1395 Tournament chips]
+jasz folds [1325 Tournament chips]
+sackieepm calls all-in [1035 Tournament chips]
+Tournament all-in showdown -- players show:
+hawkeye69 shows [ 6c 9h Kc 2s ]
+sackieepm shows [ 3c 9d 6d Qs ]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 9c Kh 9s 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 9c Kh 9s 5h 2h]
+        (no action in this round)
+Round 4 is over.
+hawkeye69 shows [ 6c 9h Kc 2s ] full house, nines full of kings
+sackieepm shows [ 3c 9d 6d Qs ] three nines, king/queen kickers
+hawkeye69 wins main pot 3150 Tournament chips with full house, nines full of kings.
+Seat 0: hawkeye69 (3150 Tournament chips) 
+Seat 1: pa-mike (1500 Tournament chips) 
+Seat 2: jasz (1325 Tournament chips) 
+Seat 3: sackieepm (0 Tournament chips) 
+Seat 4: QwertySpark (1485 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1635 Tournament chips) 
+Seat 7: PVBeerMan (1415 Tournament chips) 
+Seat 8: Snuffyjr2 (1500 Tournament chips) 
+Game #23981328-2 ends
+Player sackieepm leaves the table with 0 Tournament chips
+Game #23981328-3 starts
+Seat 0: hawkeye69 (3150 Tournament chips) 
+Seat 1: pa-mike (1500 Tournament chips) 
+Seat 2: jasz (1325 Tournament chips) 
+Seat 3: rts0521 (1500 Tournament chips) 
+Seat 4: QwertySpark (1485 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1635 Tournament chips) 
+Seat 7: PVBeerMan (1415 Tournament chips) 
+Seat 8: Snuffyjr2 (1500 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+PVBeerMan posts the small blind [10 Tournament chips]
+Snuffyjr2 posts the big blind [15 Tournament chips]
+hawkeye69, at seat 0, is in this hand with 3150 Tournament chips.
+pa-mike, at seat 1, is in this hand with 1500 Tournament chips.
+jasz, at seat 2, is in this hand with 1325 Tournament chips.
+rts0521, at seat 3, is in this hand (absent) with 1500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1485 Tournament chips.
+DeezNuts001, at seat 5, is in this hand (absent) with 1490 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1635 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 1405 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1485 Tournament chips.
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+Dealt to hawkeye69 [ **** ]
+Dealt to pa-mike [ **** ]
+Dealt to jasz [ **** ]
+Dealt to rts0521 [ **** ]
+Dealt to QwertySpark [ Js Qh 9d 4s ]
+Dealt to DeezNuts001 [ **** ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+hawkeye69 calls [15 Tournament chips]
+pa-mike calls [15 Tournament chips]
+jasz calls [15 Tournament chips]
+rts0521 calls [15 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+DeezNuts001 folds [15 Tournament chips]
+Loveless 24 calls [15 Tournament chips]
+PVBeerMan calls [5 Tournament chips]
+Snuffyjr2 folds
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Jd ] board:[ 4d Jd]
+** Dealing Flop ** [ 2d ] board:[ 4d Jd 2d]
+PVBeerMan checks
+hawkeye69 bets for 52 Tournament chips
+pa-mike calls [52 Tournament chips]
+jasz folds [52 Tournament chips]
+rts0521 calls [52 Tournament chips]
+Loveless 24 calls [52 Tournament chips]
+PVBeerMan folds [52 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 4d Jd 2d 7c]
+hawkeye69 bets for 15 Tournament chips
+pa-mike raises [75 Tournament chips]
+rts0521 calls [75 Tournament chips]
+Loveless 24 calls [75 Tournament chips]
+hawkeye69 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 4d Jd 2d 7c 2s]
+hawkeye69 checks
+pa-mike bets for 150 Tournament chips
+rts0521 calls [150 Tournament chips]
+Loveless 24 folds [150 Tournament chips]
+hawkeye69 calls [150 Tournament chips]
+Round 4 is over.
+pa-mike shows [ 5d 4h Ac Kh ] two pair, fours and deuces
+pa-mike shows [ 5d 4h Ac Kh ] 7 5 4 low
+Hand evaluation for pa-mike (5d Ac 4d 2d 7c: 7 5 4 low)
+rts0521 doesn't show [ 4c 3c 5s 3h ]
+(rts0521 has 4c 3c 5s 3h.)
+hawkeye69 doesn't show [ 9h Ts 3d 6c ]
+(hawkeye69 has 9h Ts 3d 6c.)
+pa-mike wins main pot 532 Tournament chips with two pair, fours and deuces, ace kicker (high).
+pa-mike wins main pot 531 Tournament chips with 7 5 4 2 A (low).
+Seat 0: hawkeye69 (2858 Tournament chips) 
+Seat 1: pa-mike (2271 Tournament chips) 
+Seat 2: jasz (1310 Tournament chips) 
+Seat 3: rts0521 (1208 Tournament chips) 
+Seat 4: QwertySpark (1485 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1493 Tournament chips) 
+Seat 7: PVBeerMan (1400 Tournament chips) 
+Seat 8: Snuffyjr2 (1485 Tournament chips) 
+Game #23981328-3 ends
+Game #23981328-4 starts
+Seat 0: hawkeye69 (2858 Tournament chips) 
+Seat 1: pa-mike (2271 Tournament chips) 
+Seat 2: jasz (1310 Tournament chips) 
+Seat 3: rts0521 (1208 Tournament chips) 
+Seat 4: QwertySpark (1485 Tournament chips) 
+Seat 5: DeezNuts001 (1490 Tournament chips) 
+Seat 6: Loveless 24 (1493 Tournament chips) 
+Seat 7: PVBeerMan (1400 Tournament chips) 
+Seat 8: Snuffyjr2 (1485 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Snuffyjr2 posts the small blind [10 Tournament chips]
+hawkeye69 posts the big blind [15 Tournament chips]
+hawkeye69, at seat 0, is in this hand with 2843 Tournament chips.
+pa-mike, at seat 1, is in this hand with 2271 Tournament chips.
+jasz, at seat 2, is in this hand with 1310 Tournament chips.
+rts0521, at seat 3, is in this hand with 1208 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1485 Tournament chips.
+DeezNuts001, at seat 5, is in this hand with 1490 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1493 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 1400 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1475 Tournament chips.
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+rts0521 is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Dealt to hawkeye69 [ **** ]
+Dealt to pa-mike [ **** ]
+Dealt to jasz [ **** ]
+Dealt to rts0521 [ **** ]
+Dealt to QwertySpark [ Ks Kd 3d Qd ]
+Dealt to DeezNuts001 [ **** ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+pa-mike calls [15 Tournament chips]
+jasz calls [15 Tournament chips]
+rts0521 calls [15 Tournament chips]
+QwertySpark raises [45 Tournament chips]
+DeezNuts001 calls [45 Tournament chips]
+Loveless 24 folds [45 Tournament chips]
+PVBeerMan calls [45 Tournament chips]
+Snuffyjr2 folds [35 Tournament chips]
+hawkeye69 calls [30 Tournament chips]
+pa-mike calls [30 Tournament chips]
+jasz calls [30 Tournament chips]
+rts0521 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Ad ] board:[ 7h Ad]
+** Dealing Flop ** [ 9d ] board:[ 7h Ad 9d]
+hawkeye69 bets for 162 Tournament chips
+pa-mike calls [162 Tournament chips]
+jasz folds [162 Tournament chips]
+rts0521 calls [162 Tournament chips]
+QwertySpark calls [162 Tournament chips]
+DeezNuts001 folds [162 Tournament chips]
+PVBeerMan calls [162 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 7h Ad 9d 5s]
+hawkeye69 bets for 1135 Tournament chips
+pa-mike raises all-in [2064 Tournament chips]
+rts0521 calls all-in [1001 Tournament chips]
+QwertySpark folds [1278 Tournament chips]
+PVBeerMan calls all-in [1193 Tournament chips]
+hawkeye69 calls [929 Tournament chips]
+Tournament all-in showdown -- players show:
+hawkeye69 shows [ 2d 3c Kh Jc ]
+pa-mike shows [ Ah Jd Ts Qs ]
+rts0521 shows [ 4d Td As 8d ]
+PVBeerMan shows [ 9s 4h Qh 9c ]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 7h Ad 9d 5s Th]
+        (no action in this round)
+Round 4 is over.
+hawkeye69 shows [ 2d 3c Kh Jc ] ace/king/jack high
+pa-mike shows [ Ah Jd Ts Qs ] two pair, aces and tens, nine kicker
+rts0521 shows [ 4d Td As 8d ] two pair, aces and tens, nine kicker
+PVBeerMan shows [ 9s 4h Qh 9c ] three nines, ace/ten kickers
+PVBeerMan wins main pot 2570 Tournament chips with three nines, ace/ten kickers (high).
+hawkeye69 wins main pot 2569 Tournament chips with 7 5 3 2 A (low).
+PVBeerMan wins side pot #1 288 Tournament chips with three nines, ace/ten kickers (high).
+hawkeye69 wins side pot #1 288 Tournament chips with 7 5 3 2 A (low).
+pa-mike wins side pot #2 871 Tournament chips with two pair, aces and tens, nine kicker (high).
+hawkeye69 wins side pot #2 871 Tournament chips with 7 5 3 2 A (low).
+Seat 0: hawkeye69 (4315 Tournament chips) 
+Seat 1: pa-mike (871 Tournament chips) 
+Seat 2: jasz (1265 Tournament chips) 
+Seat 3: rts0521 (0 Tournament chips) 
+Seat 4: QwertySpark (1278 Tournament chips) 
+Seat 5: DeezNuts001 (1445 Tournament chips) 
+Seat 6: Loveless 24 (1493 Tournament chips) 
+Seat 7: PVBeerMan (2858 Tournament chips) 
+Seat 8: Snuffyjr2 (1475 Tournament chips) 
+Game #23981328-4 ends
+Player rts0521 leaves the table with 0 Tournament chips
+Game #23981328-5 starts
+Seat 0: hawkeye69 (4315 Tournament chips) 
+Seat 1: pa-mike (871 Tournament chips) 
+Seat 2: jasz (1265 Tournament chips) 
+Seat 4: QwertySpark (1278 Tournament chips) 
+Seat 5: DeezNuts001 (1445 Tournament chips) 
+Seat 6: Loveless 24 (1493 Tournament chips) 
+Seat 7: PVBeerMan (2858 Tournament chips) 
+Seat 8: Snuffyjr2 (1475 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+hawkeye69 posts the small blind [10 Tournament chips]
+pa-mike posts the big blind [20 Tournament chips]
+hawkeye69, at seat 0, is in this hand with 4305 Tournament chips.
+pa-mike, at seat 1, is in this hand with 851 Tournament chips.
+jasz, at seat 2, is in this hand (absent) with 1265 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1278 Tournament chips.
+DeezNuts001, at seat 5, is in this hand with 1445 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1493 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 2858 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1475 Tournament chips.
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+pa-mike is dealt: **
+jasz is dealt: **
+
+DeezNuts001 is dealt: **
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+Dealt to hawkeye69 [ **** ]
+Dealt to pa-mike [ **** ]
+Dealt to jasz [ **** ]
+Dealt to QwertySpark [ 7s Ac 6h 2d ]
+Dealt to DeezNuts001 [ **** ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+jasz folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+(jasz has entered the table, is no longer absent.)
+DeezNuts001 calls [20 Tournament chips]
+Loveless 24 calls [20 Tournament chips]
+PVBeerMan folds [20 Tournament chips]
+Snuffyjr2 folds [20 Tournament chips]
+hawkeye69 calls [10 Tournament chips]
+pa-mike raises [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+DeezNuts001 calls [100 Tournament chips]
+Loveless 24 calls [100 Tournament chips]
+hawkeye69 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Ks ] board:[ 9c Ks]
+** Dealing Flop ** [ 9d ] board:[ 9c Ks 9d]
+hawkeye69 bets for 600 Tournament chips
+pa-mike raises all-in [751 Tournament chips]
+QwertySpark folds [751 Tournament chips]
+DeezNuts001 calls [751 Tournament chips]
+Loveless 24 folds [751 Tournament chips]
+hawkeye69 calls [151 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 9c Ks 9d 7d]
+hawkeye69 bets for 673 Tournament chips
+DeezNuts001 calls all-in [574 Tournament chips]
+hawkeye69 is returned 99 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+hawkeye69 shows [ 9s Qs Jd Kc ]
+pa-mike shows [ 6s 2s 4s 4h ]
+DeezNuts001 shows [ Jh 5h Kh Ts ]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 9c Ks 9d 7d As]
+        (no action in this round)
+Round 4 is over.
+hawkeye69 shows [ 9s Qs Jd Kc ] full house, nines full of kings
+pa-mike shows [ 6s 2s 4s 4h ] two pair, nines and fours, ace kicker
+DeezNuts001 shows [ Jh 5h Kh Ts ] two pair, kings and nines, jack kicker
+hawkeye69 wins main pot 2853 Tournament chips with full house, nines full of kings.
+hawkeye69 wins side pot #1 1148 Tournament chips with full house, nines full of kings.
+Seat 0: hawkeye69 (6871 Tournament chips) 
+Seat 1: pa-mike (0 Tournament chips) 
+Seat 2: jasz (1265 Tournament chips) 
+Seat 3: beltar (1500 Tournament chips) 
+Seat 4: QwertySpark (1158 Tournament chips) 
+Seat 5: DeezNuts001 (0 Tournament chips) 
+Seat 6: Loveless 24 (1373 Tournament chips) 
+Seat 7: PVBeerMan (2858 Tournament chips) 
+Seat 8: Snuffyjr2 (1475 Tournament chips) 
+Game #23981328-5 ends
+Player pa-mike leaves the table with 0 Tournament chips
+Player DeezNuts001 leaves the table with 0 Tournament chips
+Game #23981328-6 starts
+Seat 0: hawkeye69 (6871 Tournament chips) 
+Seat 1: mcleodd429 (1500 Tournament chips) 
+Seat 2: jasz (1265 Tournament chips) 
+Seat 3: beltar (1500 Tournament chips) 
+Seat 4: QwertySpark (1158 Tournament chips) 
+Seat 6: Loveless 24 (1373 Tournament chips) 
+Seat 7: PVBeerMan (2858 Tournament chips) 
+Seat 8: Snuffyjr2 (1475 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+mcleodd429 posts the small blind [10 Tournament chips]
+jasz posts the big blind [20 Tournament chips]
+hawkeye69, at seat 0, is in this hand with 6871 Tournament chips.
+mcleodd429, at seat 1, is in this hand (absent) with 1490 Tournament chips.
+jasz, at seat 2, is in this hand with 1245 Tournament chips.
+beltar, at seat 3, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1158 Tournament chips.
+Loveless 24, at seat 6, is in this hand with 1373 Tournament chips.
+PVBeerMan, at seat 7, is in this hand with 2858 Tournament chips.
+Snuffyjr2, at seat 8, is in this hand (absent) with 1475 Tournament chips.
+mcleodd429 is dealt: **
+jasz is dealt: **
+beltar is dealt: **
+
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+mcleodd429 is dealt: **
+jasz is dealt: **
+beltar is dealt: **
+
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+mcleodd429 is dealt: **
+jasz is dealt: **
+beltar is dealt: **
+
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+mcleodd429 is dealt: **
+jasz is dealt: **
+beltar is dealt: **
+
+Loveless 24 is dealt: **
+PVBeerMan is dealt: **
+Snuffyjr2 is dealt: **
+hawkeye69 is dealt: **
+Dealt to hawkeye69 [ **** ]
+Dealt to mcleodd429 [ **** ]
+Dealt to jasz [ **** ]
+Dealt to beltar [ **** ]
+Dealt to QwertySpark [ 7h 2s 3h 8d ]
+Dealt to Loveless 24 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Dealt to Snuffyjr2 [ **** ]
+beltar calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Loveless 24 calls [20 Tournament chips]
+PVBeerMan calls [20 Tournament chips]
+Snuffyjr2 folds [20 Tournament chips]
+hawkeye69 calls [20 Tournament chips]
+mcleodd429 calls [10 Tournament chips]
+jasz checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 5d ] board:[ 2c 5d]
+** Dealing Flop ** [ 6s ] board:[ 2c 5d 6s]
+mcleodd429 bets for 20 Tournament chips
+jasz calls [20 Tournament chips]
+beltar calls [20 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+Loveless 24 folds [120 Tournament chips]
+PVBeerMan folds [120 Tournament chips]
+hawkeye69 re-raises [220 Tournament chips]
+mcleodd429 calls [200 Tournament chips]
+jasz folds [200 Tournament chips]
+beltar calls [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 2c 5d 6s 5s]
+mcleodd429 bets for 20 Tournament chips
+beltar calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+hawkeye69 raises [1140 Tournament chips]
+mcleodd429 raises all-in [1240 Tournament chips]
+beltar calls all-in [1240 Tournament chips]
+QwertySpark calls all-in [898 Tournament chips]
+hawkeye69 calls [120 Tournament chips]
+Tournament all-in showdown -- players show:
+hawkeye69 shows [ 6d 4s As Tc ]
+mcleodd429 shows [ 4c 6h 8c 8h ]
+beltar shows [ 9h 5h Ad 3d ]
+QwertySpark shows [ 7h 2s 3h 8d ]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 2c 5d 6s 5s Js]
+        (no action in this round)
+Round 4 is over.
+hawkeye69 shows [ 6d 4s As Tc ] flush, ace/jack/six high
+mcleodd429 shows [ 4c 6h 8c 8h ] two pair, eights and fives, jack kicker
+beltar shows [ 9h 5h Ad 3d ] three fives, ace/jack kickers
+QwertySpark shows [ 7h 2s 3h 8d ] two pair, fives and deuces, eight kicker
+hawkeye69 wins main pot 2356 Tournament chips with flush, ace/jack/six high (high).
+beltar wins main pot 2356 Tournament chips with 6 5 3 2 A (low).
+hawkeye69 wins side pot #1 513 Tournament chips with flush, ace/jack/six high (high).
+beltar wins side pot #1 513 Tournament chips with 6 5 3 2 A (low).
+Seat 0: hawkeye69 (8240 Tournament chips) 
+Seat 1: mcleodd429 (0 Tournament chips) 
+Seat 2: jasz (1225 Tournament chips) 
+Seat 3: beltar (2869 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: lucumpare (1500 Tournament chips) 
+Seat 6: Loveless 24 (1353 Tournament chips) 
+Seat 7: PVBeerMan (2838 Tournament chips) 
+Seat 8: Snuffyjr2 (1475 Tournament chips) 
+Game #23981328-6 ends
+Player mcleodd429 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

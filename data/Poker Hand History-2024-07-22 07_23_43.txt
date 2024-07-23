@@ -1,0 +1,202 @@
+Game#: 23824106
+Kitthcat is dealt: **
+susanlguzz is dealt: **
+paindriver is dealt: **
+i_m_bluffing is dealt: **
+otis03 is dealt: **
+Macwelds is dealt: **
+BLUEJEM is dealt: **
+QwertySpark is dealt: 5s
+tinkler is dealt: **
+The button is moved to seat 5.
+Game #23824106-1 starts
+Seat 0: Kitthcat (1000 Tournament chips) 
+Seat 1: susanlguzz (1000 Tournament chips) 
+Seat 2: paindriver (1000 Tournament chips) 
+Seat 3: i_m_bluffing (1000 Tournament chips) 
+Seat 4: otis03 (1000 Tournament chips) 
+Seat 5: Macwelds (1000 Tournament chips) 
+Seat 6: BLUEJEM (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: tinkler (1000 Tournament chips) 
+The button is at seat 5
+BLUEJEM posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+Kitthcat, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+susanlguzz, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+paindriver, at seat 2, is in this hand with 1000 Tournament chips.
+i_m_bluffing, at seat 3, is in this hand with 1000 Tournament chips.
+otis03, at seat 4, is in this hand with 1000 Tournament chips.
+Macwelds, at seat 5, is in this hand with 1000 Tournament chips.
+BLUEJEM, at seat 6, is in this hand (absent) with 995 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 990 Tournament chips.
+tinkler, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+BLUEJEM is dealt: **
+
+tinkler is dealt: **
+Kitthcat is dealt: **
+susanlguzz is dealt: **
+paindriver is dealt: **
+i_m_bluffing is dealt: **
+otis03 is dealt: **
+Macwelds is dealt: **
+BLUEJEM is dealt: **
+
+tinkler is dealt: **
+Kitthcat is dealt: **
+susanlguzz is dealt: **
+paindriver is dealt: **
+i_m_bluffing is dealt: **
+otis03 is dealt: **
+Macwelds is dealt: **
+Dealt to Kitthcat [ **** ]
+Dealt to susanlguzz [ **** ]
+Dealt to paindriver [ **** ]
+Dealt to i_m_bluffing [ **** ]
+Dealt to otis03 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to BLUEJEM [ **** ]
+Dealt to QwertySpark [ 6s 8h ]
+Dealt to tinkler [ **** ]
+tinkler folds [10 Tournament chips]
+Kitthcat folds [10 Tournament chips]
+susanlguzz folds [10 Tournament chips]
+paindriver calls [10 Tournament chips]
+i_m_bluffing calls [10 Tournament chips]
+otis03 folds [10 Tournament chips]
+Macwelds calls [10 Tournament chips]
+BLUEJEM folds [5 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Jh ] board:[ 3s Jh]
+** Dealing Flop ** [ Th ] board:[ 3s Jh Th]
+QwertySpark checks
+paindriver checks
+i_m_bluffing checks
+Macwelds checks
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 3s Jh Th Jd]
+QwertySpark bets for 50 Tournament chips
+paindriver folds [50 Tournament chips]
+i_m_bluffing calls [50 Tournament chips]
+Macwelds folds [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3s Jh Th Jd Ac]
+QwertySpark checks
+i_m_bluffing bets for 96 Tournament chips
+QwertySpark folds [96 Tournament chips]
+i_m_bluffing is returned 96 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for i_m_bluffing (As Jh Th Jd Ac: two pair, aces and jacks)
+i_m_bluffing wins main pot 145 Tournament chips.
+Seat 0: Kitthcat (1000 Tournament chips) 
+Seat 1: susanlguzz (1000 Tournament chips) 
+Seat 2: paindriver (990 Tournament chips) 
+Seat 3: i_m_bluffing (1085 Tournament chips) 
+Seat 4: otis03 (1000 Tournament chips) 
+Seat 5: Macwelds (990 Tournament chips) 
+Seat 6: BLUEJEM (995 Tournament chips) 
+Seat 7: QwertySpark (940 Tournament chips) 
+Seat 8: tinkler (1000 Tournament chips) 
+Game #23824106-1 ends
+Game #23824106-2 starts
+Seat 0: Kitthcat (1000 Tournament chips) 
+Seat 1: susanlguzz (1000 Tournament chips) 
+Seat 2: paindriver (990 Tournament chips) 
+Seat 3: i_m_bluffing (1085 Tournament chips) 
+Seat 4: otis03 (1000 Tournament chips) 
+Seat 5: Macwelds (990 Tournament chips) 
+Seat 6: BLUEJEM (995 Tournament chips) 
+Seat 7: QwertySpark (940 Tournament chips) 
+Seat 8: tinkler (1000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [5 Tournament chips]
+tinkler posts the big blind [10 Tournament chips]
+Kitthcat, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+susanlguzz, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+paindriver, at seat 2, is in this hand with 990 Tournament chips.
+i_m_bluffing, at seat 3, is in this hand with 1085 Tournament chips.
+otis03, at seat 4, is in this hand with 1000 Tournament chips.
+Macwelds, at seat 5, is in this hand with 990 Tournament chips.
+BLUEJEM, at seat 6, is in this hand (absent) with 995 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 935 Tournament chips.
+tinkler, at seat 8, is in this hand (absent) with 990 Tournament chips.
+
+tinkler is dealt: **
+Kitthcat is dealt: **
+susanlguzz is dealt: **
+paindriver is dealt: **
+i_m_bluffing is dealt: **
+otis03 is dealt: **
+Macwelds is dealt: **
+BLUEJEM is dealt: **
+
+tinkler is dealt: **
+Kitthcat is dealt: **
+susanlguzz is dealt: **
+paindriver is dealt: **
+i_m_bluffing is dealt: **
+otis03 is dealt: **
+Macwelds is dealt: **
+BLUEJEM is dealt: **
+Dealt to Kitthcat [ **** ]
+Dealt to susanlguzz [ **** ]
+Dealt to paindriver [ **** ]
+Dealt to i_m_bluffing [ **** ]
+Dealt to otis03 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to BLUEJEM [ **** ]
+Dealt to QwertySpark [ Ah 2d ]
+Dealt to tinkler [ **** ]
+Kitthcat folds [10 Tournament chips]
+susanlguzz folds [10 Tournament chips]
+paindriver calls [10 Tournament chips]
+i_m_bluffing calls [10 Tournament chips]
+otis03 calls [10 Tournament chips]
+Macwelds calls [10 Tournament chips]
+BLUEJEM folds [10 Tournament chips]
+QwertySpark raises [35 Tournament chips]
+tinkler folds [30 Tournament chips]
+paindriver calls [30 Tournament chips]
+i_m_bluffing calls [30 Tournament chips]
+otis03 calls [30 Tournament chips]
+Macwelds calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 6d ] board:[ 9c 6d]
+** Dealing Flop ** [ 4s ] board:[ 9c 6d 4s]
+QwertySpark bets for 60 Tournament chips
+paindriver folds [60 Tournament chips]
+i_m_bluffing calls [60 Tournament chips]
+otis03 folds [60 Tournament chips]
+Macwelds calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 9c 6d 4s 2c]
+QwertySpark goes all-in for 840 Tournament chips
+i_m_bluffing calls [840 Tournament chips]
+Macwelds calls [840 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 9c 6d 4s 2c 4c]
+i_m_bluffing checks
+Macwelds checks
+Round 4 is over.
+i_m_bluffing shows [ Jd Tc ] a pair of fours
+Hand evaluation for i_m_bluffing (Jd Tc 9c 4s 4c: a pair of fours)
+Macwelds shows [ 9s 5s ] two pair, nines and fours
+Hand evaluation for Macwelds (9s 9c 6d 4s 4c: two pair, nines and fours)
+QwertySpark shows [ Ah 2d ] two pair, fours and deuces
+Hand evaluation for QwertySpark (Ah 2d 4s 2c 4c: two pair, fours and deuces)
+Macwelds wins main pot 2910 Tournament chips with two pair, nines and fours, six kicker.
+Seat 0: Kitthcat (1000 Tournament chips) 
+Seat 1: susanlguzz (1000 Tournament chips) 
+Seat 2: paindriver (950 Tournament chips) 
+Seat 3: i_m_bluffing (145 Tournament chips) 
+Seat 4: otis03 (960 Tournament chips) 
+Seat 5: Macwelds (2960 Tournament chips) 
+Seat 6: BLUEJEM (995 Tournament chips) 
+Seat 7: QwertySpark (0 Tournament chips) 
+Seat 8: tinkler (990 Tournament chips) 
+Game #23824106-2 ends
+Player QwertySpark leaves the table with 0 Tournament chips

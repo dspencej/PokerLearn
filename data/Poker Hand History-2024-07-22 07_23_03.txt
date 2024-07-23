@@ -1,0 +1,240 @@
+Game#: 23842434
+QwertySpark is dealt: 2c
+Clapet9 is dealt: **
+The button is moved to seat 1.
+Game #23842434-1 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: Clapet9 (2000 Tournament chips) 
+The button is at seat 1
+Clapet9 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1980 Tournament chips.
+Clapet9, at seat 1, is in this hand with 1990 Tournament chips.
+
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+Dealt to QwertySpark [ 2s As ]
+Dealt to Clapet9 [ **** ]
+Clapet9 folds [10 Tournament chips]
+QwertySpark is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2s As: ace high)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (2010 Tournament chips) 
+Seat 1: Clapet9 (1990 Tournament chips) 
+Game #23842434-1 ends
+Game #23842434-2 starts
+Seat 0: QwertySpark (2010 Tournament chips) 
+Seat 1: Clapet9 (1990 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Clapet9 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2000 Tournament chips.
+Clapet9, at seat 1, is in this hand (absent) with 1970 Tournament chips.
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+
+Dealt to QwertySpark [ As Ah ]
+Dealt to Clapet9 [ **** ]
+QwertySpark raises [70 Tournament chips]
+Clapet9 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As Ah: a pair of aces)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Clapet9 (1970 Tournament chips) 
+Game #23842434-2 ends
+Game #23842434-3 starts
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Clapet9 (1970 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Clapet9 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2010 Tournament chips.
+Clapet9, at seat 1, is in this hand (absent) with 1960 Tournament chips.
+
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+Dealt to QwertySpark [ 5d 9d ]
+Dealt to Clapet9 [ **** ]
+Clapet9 folds [10 Tournament chips]
+QwertySpark is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (5d 9d: nine high)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (2040 Tournament chips) 
+Seat 1: Clapet9 (1960 Tournament chips) 
+Game #23842434-3 ends
+Game #23842434-4 starts
+Seat 0: QwertySpark (2040 Tournament chips) 
+Seat 1: Clapet9 (1960 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Clapet9 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2030 Tournament chips.
+Clapet9, at seat 1, is in this hand (absent) with 1940 Tournament chips.
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+
+Dealt to QwertySpark [ 2s Ts ]
+Dealt to Clapet9 [ **** ]
+QwertySpark folds [10 Tournament chips]
+Clapet9 is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Clapet9 (Ah Ks: ace high)
+Clapet9 shows [ Ah Ks ] ace high
+Hand evaluation for Clapet9 (Ah Ks: ace high)
+Clapet9 wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Clapet9 (1970 Tournament chips) 
+Game #23842434-4 ends
+Game #23842434-5 starts
+Seat 0: QwertySpark (2030 Tournament chips) 
+Seat 1: Clapet9 (1970 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Clapet9 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand (absent) with 2010 Tournament chips.
+Clapet9, at seat 1, is in this hand (absent) with 1960 Tournament chips.
+
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+Dealt to QwertySpark [ 9s Tc ]
+Dealt to Clapet9 [ **** ]
+Clapet9 folds [10 Tournament chips]
+QwertySpark is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (9s Tc: ten high)
+QwertySpark shows [ 9s Tc ] ten high
+Hand evaluation for QwertySpark (9s Tc: ten high)
+QwertySpark wins main pot 20 Tournament chips.
+(QwertySpark has entered the table, is no longer absent.)
+Seat 0: QwertySpark (2040 Tournament chips) 
+Seat 1: Clapet9 (1960 Tournament chips) 
+Game #23842434-5 ends
+Game #23842434-6 starts
+Seat 0: QwertySpark (2040 Tournament chips) 
+Seat 1: Clapet9 (1960 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Clapet9 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2030 Tournament chips.
+Clapet9, at seat 1, is in this hand (absent) with 1940 Tournament chips.
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+
+Dealt to QwertySpark [ Kc Th ]
+Dealt to Clapet9 [ **** ]
+(Clapet9 has entered the table, is no longer absent.)
+QwertySpark raises [70 Tournament chips]
+Clapet9 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 5d ] board:[ 2h 5d]
+** Dealing Flop ** [ 8s ] board:[ 2h 5d 8s]
+Clapet9 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 2h 5d 8s 7d]
+Clapet9 bets for 160 Tournament chips
+QwertySpark folds [160 Tournament chips]
+Clapet9 is returned 160 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Clapet9 (5s 4s 5d 8s 7d: a pair of fives)
+Clapet9 wins main pot 160 Tournament chips.
+Seat 0: QwertySpark (1960 Tournament chips) 
+Seat 1: Clapet9 (2040 Tournament chips) 
+Game #23842434-6 ends
+Game #23842434-7 starts
+Seat 0: QwertySpark (1960 Tournament chips) 
+Seat 1: Clapet9 (2040 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Clapet9 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1940 Tournament chips.
+Clapet9, at seat 1, is in this hand with 2030 Tournament chips.
+
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+Dealt to QwertySpark [ Ah Jc ]
+Dealt to Clapet9 [ **** ]
+Clapet9 raises [50 Tournament chips]
+QwertySpark re-raises [200 Tournament chips]
+Clapet9 calls [160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Td ] board:[ Kd Td]
+** Dealing Flop ** [ 9c ] board:[ Kd Td 9c]
+QwertySpark bets for 220 Tournament chips
+Clapet9 calls [220 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Kd Td 9c Qd]
+QwertySpark goes all-in for 1520 Tournament chips
+Clapet9 calls [1520 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ah Jc ]
+Clapet9 shows [ Kc 9s ]
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Kd Td 9c Qd 7c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ah Jc ] straight, ace high
+Clapet9 shows [ Kc 9s ] two pair, kings and nines, queen kicker
+QwertySpark wins main pot 3920 Tournament chips with straight, ace high.
+Seat 0: QwertySpark (3920 Tournament chips) 
+Seat 1: Clapet9 (80 Tournament chips) 
+Game #23842434-7 ends
+Game #23842434-8 starts
+Seat 0: QwertySpark (3920 Tournament chips) 
+Seat 1: Clapet9 (80 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Clapet9 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3910 Tournament chips.
+Clapet9, at seat 1, is in this hand with 60 Tournament chips.
+Clapet9 is dealt: **
+
+Clapet9 is dealt: **
+
+Dealt to QwertySpark [ Kc 3c ]
+Dealt to Clapet9 [ **** ]
+QwertySpark raises [70 Tournament chips]
+Clapet9 calls all-in [60 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kc 3c ]
+Clapet9 shows [ 8c 9h ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Ad ] board:[ Ks Ad]
+** Dealing Flop ** [ 5c ] board:[ Ks Ad 5c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ Ks Ad 5c Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Ks Ad 5c Kh As]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kc 3c ] full house, kings full of aces
+Clapet9 shows [ 8c 9h ] two pair, aces and kings, nine kicker
+QwertySpark wins main pot 160 Tournament chips with full house, kings full of aces.
+Seat 0: QwertySpark (4000 Tournament chips) 
+Seat 1: Clapet9 (0 Tournament chips) 
+Game #23842434-8 ends
+Player Clapet9 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4000 Tournament chips

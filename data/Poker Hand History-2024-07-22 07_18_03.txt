@@ -1,0 +1,97 @@
+Game#: 23960097
+PoolDok calls [286 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 2h 9s 3c Th]
+PoolDok checks
+dessy45 goes all-in for 654 Tournament chips
+PoolDok calls all-in [654 Tournament chips]
+Tournament all-in showdown -- players show:
+dessy45 shows [ 9d 6c ]
+PoolDok shows [ 3h Ah ]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 2h 9s 3c Th 4s]
+        (no action in this round)
+Round 4 is over.
+dessy45 shows [ 9d 6c ] a pair of nines, ten/six kickers
+PoolDok shows [ 3h Ah ] a pair of threes, ace/ten kickers
+dessy45 wins main pot 2005 Tournament chips with a pair of nines, ten/six kickers.
+Seat 0: QwertySpark (1000 Tournament chips) 
+Seat 1: dessy45 (2005 Tournament chips) 
+Seat 3: IamKnutz (1000 Tournament chips) 
+Seat 4: lbodwin (995 Tournament chips) 
+Seat 5: billmcC (1000 Tournament chips) 
+Seat 6: Golfman4 (995 Tournament chips) 
+Seat 7: PoolDok (0 Tournament chips) 
+Seat 8: probluffman (995 Tournament chips) 
+Game #23960097-1 ends
+Player IamKnutz leaves the table with 1000 Tournament chips
+Player PoolDok leaves the table with 0 Tournament chips
+Game #23960097-2 starts
+Seat 0: QwertySpark (1000 Tournament chips) 
+Seat 1: dessy45 (2005 Tournament chips) 
+Seat 4: lbodwin (995 Tournament chips) 
+Seat 5: billmcC (1000 Tournament chips) 
+Seat 6: Golfman4 (995 Tournament chips) 
+Seat 8: probluffman (995 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+probluffman posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1000 Tournament chips.
+dessy45, at seat 1, is in this hand with 2005 Tournament chips.
+lbodwin, at seat 4, is in this hand (absent) with 995 Tournament chips.
+billmcC, at seat 5, is in this hand with 1000 Tournament chips.
+Golfman4, at seat 6, is in this hand with 995 Tournament chips.
+probluffman, at seat 8, is in this hand with 985 Tournament chips.
+probluffman is dealt: **
+
+dessy45 is dealt: **
+lbodwin is dealt: **
+billmcC is dealt: **
+Golfman4 is dealt: **
+probluffman is dealt: **
+
+dessy45 is dealt: **
+lbodwin is dealt: **
+billmcC is dealt: **
+Golfman4 is dealt: **
+Dealt to QwertySpark [ 9s Th ]
+Dealt to dessy45 [ **** ]
+Dealt to lbodwin [ **** ]
+Dealt to billmcC [ **** ]
+Dealt to Golfman4 [ **** ]
+Dealt to probluffman [ **** ]
+QwertySpark folds [10 Tournament chips]
+dessy45 raises [70 Tournament chips]
+lbodwin folds [70 Tournament chips]
+billmcC folds [70 Tournament chips]
+Golfman4 calls [70 Tournament chips]
+probluffman folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 7d ] board:[ Ah 7d]
+** Dealing Flop ** [ Jd ] board:[ Ah 7d Jd]
+dessy45 bets for 193 Tournament chips
+Golfman4 calls [193 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Ah 7d Jd 3d]
+dessy45 bets for 307 Tournament chips
+Golfman4 calls [307 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Ah 7d Jd 3d 7h]
+dessy45 goes all-in for 1435 Tournament chips
+Golfman4 folds [425 Tournament chips]
+dessy45 is returned 1435 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dessy45 (9d 4d 7d Jd 3d: flush, jack high)
+dessy45 wins main pot 1150 Tournament chips.
+Seat 0: QwertySpark (1000 Tournament chips) 
+Seat 1: dessy45 (2585 Tournament chips) 
+Seat 2: Tyhunt (1000 Tournament chips) 
+Seat 3: Tpatkenny (990 Tournament chips) 
+Seat 4: lbodwin (995 Tournament chips) 
+Seat 5: billmcC (1000 Tournament chips) 
+Seat 6: Golfman4 (425 Tournament chips) 
+Seat 7: addymc (1000 Tournament chips) 
+Seat 8: probluffman (985 Tournament chips) 
+Game #23960097-2 ends
+Player QwertySpark leaves the table with 1000 Tournament chips

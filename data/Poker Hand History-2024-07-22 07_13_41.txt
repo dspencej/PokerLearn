@@ -1,0 +1,3311 @@
+Game#: 24007712
+CHIPAZILLA raises [30 Tournament chips]
+SgtSullyUSMC calls [30 Tournament chips]
+1_putt_bogey folds [30 Tournament chips]
+happystan calls [30 Tournament chips]
+Ken133 folds [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 2s ] board:[ 3s 2s]
+** Dealing Flop ** [ 8h ] board:[ 3s 2s 8h]
+CHIPAZILLA has timed out - the hand is checked
+SgtSullyUSMC checks
+happystan checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 3s 2s 8h 3c]
+CHIPAZILLA checks
+SgtSullyUSMC checks
+happystan checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3s 2s 8h 3c Ac]
+CHIPAZILLA checks
+SgtSullyUSMC checks
+happystan checks
+Round 4 is over.
+CHIPAZILLA shows [ Qh Kc ] a pair of threes
+Hand evaluation for CHIPAZILLA (Qh Kc 3s 3c Ac: a pair of threes)
+SgtSullyUSMC doesn't show [ Qd 4d ]
+(SgtSullyUSMC has Qd 4d.)
+happystan doesn't show [ 6h 9h ]
+(happystan has 6h 9h.)
+CHIPAZILLA wins main pot 100 Tournament chips with a pair of threes, ace/king kickers.
+Seat 0: Ken133 (2490 Tournament chips) 
+Seat 1: Braxmar1124 (2500 Tournament chips) 
+Seat 2: CHIPAZILLA (2570 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2500 Tournament chips) 
+Seat 6: happystan (2490 Tournament chips) 
+Seat 7: QueenyStarr (2500 Tournament chips) 
+Seat 8: QwertySpark (2500 Tournament chips) 
+Game #24007712-2 ends
+Game #24007712-3 starts
+Seat 0: Ken133 (2490 Tournament chips) 
+Seat 1: Braxmar1124 (2500 Tournament chips) 
+Seat 2: CHIPAZILLA (2570 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2500 Tournament chips) 
+Seat 6: happystan (2490 Tournament chips) 
+Seat 7: QueenyStarr (2500 Tournament chips) 
+Seat 8: QwertySpark (2500 Tournament chips) 
+The button is at seat 6
+Ken133 posts the small blind [5 Tournament chips]
+Braxmar1124 posts the big blind [10 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2490 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2570 Tournament chips.
+terry71956, at seat 3, is in this hand with 2500 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 2470 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2500 Tournament chips.
+happystan, at seat 6, is in this hand with 2490 Tournament chips.
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+CHIPAZILLA folds [10 Tournament chips]
+terry71956 folds [10 Tournament chips]
+SgtSullyUSMC folds [10 Tournament chips]
+1_putt_bogey folds [10 Tournament chips]
+happystan calls [10 Tournament chips]
+Ken133 folds [5 Tournament chips]
+Braxmar1124 checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 3c ] board:[ 5c 3c]
+** Dealing Flop ** [ 9h ] board:[ 5c 3c 9h]
+Braxmar1124 checks
+happystan checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 5c 3c 9h 9d]
+Braxmar1124 checks
+happystan checks
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 5c 3c 9h 9d Ts]
+Braxmar1124 checks
+happystan checks
+Round 4 is over.
+Braxmar1124 shows [ 7h Jh ] a pair of nines
+Hand evaluation for Braxmar1124 (7h Jh 9h 9d Ts: a pair of nines)
+happystan shows [ Qs Ad ] a pair of nines
+Hand evaluation for happystan (Qs Ad 9h 9d Ts: a pair of nines)
+happystan wins main pot 25 Tournament chips with a pair of nines, ace/queen kickers.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2490 Tournament chips) 
+Seat 2: CHIPAZILLA (2570 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2500 Tournament chips) 
+Seat 6: happystan (2505 Tournament chips) 
+Seat 7: QueenyStarr (2500 Tournament chips) 
+Seat 8: QwertySpark (2500 Tournament chips) 
+Game #24007712-3 ends
+Game #24007712-4 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2490 Tournament chips) 
+Seat 2: CHIPAZILLA (2570 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2500 Tournament chips) 
+Seat 6: happystan (2505 Tournament chips) 
+Seat 7: QueenyStarr (2500 Tournament chips) 
+Seat 8: QwertySpark (2500 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+Braxmar1124 posts the small blind [5 Tournament chips]
+CHIPAZILLA posts the big blind [10 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2485 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2560 Tournament chips.
+terry71956, at seat 3, is in this hand (absent) with 2500 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 2470 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2500 Tournament chips.
+happystan, at seat 6, is in this hand with 2505 Tournament chips.
+QueenyStarr, at seat 7, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2500 Tournament chips.
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QueenyStarr [ **** ]
+Dealt to QwertySpark [ Tc Ks ]
+terry71956 folds [10 Tournament chips]
+SgtSullyUSMC folds [10 Tournament chips]
+1_putt_bogey raises [55 Tournament chips]
+happystan calls [55 Tournament chips]
+QueenyStarr calls [55 Tournament chips]
+QwertySpark calls [55 Tournament chips]
+Ken133 folds [55 Tournament chips]
+Braxmar1124 folds [50 Tournament chips]
+CHIPAZILLA calls [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 4h ] board:[ Qs 4h]
+** Dealing Flop ** [ 6h ] board:[ Qs 4h 6h]
+CHIPAZILLA checks
+1_putt_bogey checks
+happystan checks
+QueenyStarr bets for 40 Tournament chips
+QwertySpark folds [40 Tournament chips]
+CHIPAZILLA folds [40 Tournament chips]
+1_putt_bogey calls [40 Tournament chips]
+happystan calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ Qs 4h 6h 7d]
+1_putt_bogey checks
+happystan checks
+QueenyStarr checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Qs 4h 6h 7d Js]
+1_putt_bogey checks
+happystan checks
+QueenyStarr bets for 40 Tournament chips
+1_putt_bogey folds [40 Tournament chips]
+happystan folds [40 Tournament chips]
+QueenyStarr is returned 40 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QueenyStarr (Qh Th Qs 7d Js: a pair of queens)
+QueenyStarr wins main pot 400 Tournament chips.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2515 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2410 Tournament chips) 
+Seat 7: QueenyStarr (2805 Tournament chips) 
+Seat 8: QwertySpark (2445 Tournament chips) 
+Game #24007712-4 ends
+Game #24007712-5 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2515 Tournament chips) 
+Seat 3: terry71956 (2500 Tournament chips) 
+Seat 4: SgtSullyUSMC (2470 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2410 Tournament chips) 
+Seat 7: QueenyStarr (2805 Tournament chips) 
+Seat 8: QwertySpark (2445 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [10 Tournament chips]
+terry71956 posts the big blind [20 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2485 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2480 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 2470 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2405 Tournament chips.
+happystan, at seat 6, is in this hand with 2410 Tournament chips.
+QueenyStarr, at seat 7, is in this hand with 2805 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2445 Tournament chips.
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QueenyStarr [ **** ]
+Dealt to QwertySpark [ 2h Kd ]
+SgtSullyUSMC calls [20 Tournament chips]
+1_putt_bogey folds [20 Tournament chips]
+happystan calls [20 Tournament chips]
+QueenyStarr raises [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Ken133 folds [40 Tournament chips]
+Braxmar1124 folds [40 Tournament chips]
+CHIPAZILLA folds [30 Tournament chips]
+terry71956 re-raises [150 Tournament chips]
+SgtSullyUSMC calls [150 Tournament chips]
+happystan folds [150 Tournament chips]
+QueenyStarr calls [130 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Qh ] board:[ Ah Qh]
+** Dealing Flop ** [ Jc ] board:[ Ah Qh Jc]
+terry71956 checks
+SgtSullyUSMC checks
+QueenyStarr checks
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Ah Qh Jc Th]
+terry71956 checks
+SgtSullyUSMC bets for 270 Tournament chips
+QueenyStarr calls [270 Tournament chips]
+terry71956 folds [270 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Ah Qh Jc Th 6h]
+SgtSullyUSMC bets for 540 Tournament chips
+QueenyStarr folds [540 Tournament chips]
+SgtSullyUSMC is returned 540 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for SgtSullyUSMC (Kh Ah Qh Th 6h: flush, ace high)
+SgtSullyUSMC shows [ 9s Kh ] flush, ace high
+Hand evaluation for SgtSullyUSMC (Kh Ah Qh Th 6h: flush, ace high)
+SgtSullyUSMC wins main pot 1080 Tournament chips.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2330 Tournament chips) 
+Seat 4: SgtSullyUSMC (3110 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2390 Tournament chips) 
+Seat 7: QueenyStarr (2365 Tournament chips) 
+Seat 8: QwertySpark (2445 Tournament chips) 
+Game #24007712-5 ends
+Game #24007712-6 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2330 Tournament chips) 
+Seat 4: SgtSullyUSMC (3110 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2390 Tournament chips) 
+Seat 7: QueenyStarr (2365 Tournament chips) 
+Seat 8: QwertySpark (2445 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+terry71956 posts the small blind [10 Tournament chips]
+SgtSullyUSMC posts the big blind [20 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2485 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 3090 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2405 Tournament chips.
+happystan, at seat 6, is in this hand with 2390 Tournament chips.
+QueenyStarr, at seat 7, is in this hand with 2365 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2445 Tournament chips.
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QueenyStarr [ **** ]
+Dealt to QwertySpark [ 6s 6h ]
+1_putt_bogey folds [20 Tournament chips]
+happystan folds [20 Tournament chips]
+QueenyStarr folds [20 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+Ken133 folds [120 Tournament chips]
+Braxmar1124 folds [120 Tournament chips]
+CHIPAZILLA folds [120 Tournament chips]
+terry71956 folds [110 Tournament chips]
+SgtSullyUSMC calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Ac ] board:[ 8h Ac]
+** Dealing Flop ** [ Qc ] board:[ 8h Ac Qc]
+SgtSullyUSMC checks
+QwertySpark bets for 145 Tournament chips
+SgtSullyUSMC raises [342 Tournament chips]
+QwertySpark folds [197 Tournament chips]
+SgtSullyUSMC is returned 197 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SgtSullyUSMC (5h As 8h Ac Qc: a pair of aces)
+SgtSullyUSMC wins main pot 540 Tournament chips.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (3385 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2390 Tournament chips) 
+Seat 7: QueenyStarr (2365 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+Game #24007712-6 ends
+Game #24007712-7 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (3385 Tournament chips) 
+Seat 5: 1_putt_bogey (2405 Tournament chips) 
+Seat 6: happystan (2390 Tournament chips) 
+Seat 7: QueenyStarr (2365 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+SgtSullyUSMC posts the small blind [10 Tournament chips]
+1_putt_bogey posts the big blind [20 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2485 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 3375 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 2390 Tournament chips.
+QueenyStarr, at seat 7, is in this hand with 2365 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2180 Tournament chips.
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+QueenyStarr is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QueenyStarr [ **** ]
+Dealt to QwertySpark [ Ts 5s ]
+happystan calls [20 Tournament chips]
+QueenyStarr raises [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Ken133 folds [40 Tournament chips]
+Braxmar1124 calls [40 Tournament chips]
+CHIPAZILLA folds [40 Tournament chips]
+terry71956 folds [40 Tournament chips]
+(CHIPAZILLA has entered the table, is no longer absent.)
+SgtSullyUSMC calls [30 Tournament chips]
+1_putt_bogey calls [20 Tournament chips]
+happystan calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 4h ] board:[ 2s 4h]
+** Dealing Flop ** [ Ks ] board:[ 2s 4h Ks]
+SgtSullyUSMC checks
+1_putt_bogey checks
+happystan checks
+QueenyStarr bets for 120 Tournament chips
+Braxmar1124 folds [120 Tournament chips]
+SgtSullyUSMC calls [120 Tournament chips]
+1_putt_bogey folds [120 Tournament chips]
+happystan calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 2s 4h Ks Qc]
+SgtSullyUSMC checks
+happystan checks
+QueenyStarr bets for 280 Tournament chips
+SgtSullyUSMC calls [280 Tournament chips]
+happystan folds [280 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 2s 4h Ks Qc 6c]
+SgtSullyUSMC bets for 560 Tournament chips
+QueenyStarr raises [1120 Tournament chips]
+SgtSullyUSMC re-raises [1120 Tournament chips]
+QueenyStarr raises all-in [805 Tournament chips]
+SgtSullyUSMC calls [245 Tournament chips]
+Tournament all-in showdown -- players show:
+SgtSullyUSMC shows [ 3h 5h ]
+QueenyStarr shows [ Qd Kh ]
+Round 4 is over.
+SgtSullyUSMC shows [ 3h 5h ] straight, six high
+QueenyStarr shows [ Qd Kh ] two pair, kings and queens, six kicker
+SgtSullyUSMC wins main pot 4970 Tournament chips with straight, six high.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2445 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (5990 Tournament chips) 
+Seat 5: 1_putt_bogey (2365 Tournament chips) 
+Seat 6: happystan (2230 Tournament chips) 
+Seat 7: QueenyStarr (0 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+Game #24007712-7 ends
+Player QueenyStarr leaves the table with 0 Tournament chips
+Game #24007712-8 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2445 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (5990 Tournament chips) 
+Seat 5: 1_putt_bogey (2365 Tournament chips) 
+Seat 6: happystan (2230 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+1_putt_bogey posts the small blind [10 Tournament chips]
+happystan posts the big blind [20 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2445 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 5990 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2355 Tournament chips.
+happystan, at seat 6, is in this hand with 2210 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2180 Tournament chips.
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Th 7c ]
+QwertySpark folds [20 Tournament chips]
+Ken133 folds [20 Tournament chips]
+Braxmar1124 folds [20 Tournament chips]
+CHIPAZILLA folds [20 Tournament chips]
+terry71956 folds [20 Tournament chips]
+SgtSullyUSMC folds [20 Tournament chips]
+1_putt_bogey calls [10 Tournament chips]
+happystan checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 9s ] board:[ Qc 9s]
+** Dealing Flop ** [ 7d ] board:[ Qc 9s 7d]
+1_putt_bogey checks
+happystan checks
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ Qc 9s 7d As]
+1_putt_bogey checks
+happystan checks
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Qc 9s 7d As 8s]
+1_putt_bogey checks
+happystan checks
+Round 4 is over.
+1_putt_bogey shows [ 8d Qs ] two pair, queens and eights
+Hand evaluation for 1_putt_bogey (8d Qs Qc As 8s: two pair, queens and eights)
+happystan doesn't show [ 2d 8c ]
+(happystan has 2d 8c.)
+1_putt_bogey wins main pot 40 Tournament chips with two pair, queens and eights, ace kicker.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2445 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (5990 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2210 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+Game #24007712-8 ends
+Game #24007712-9 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (2445 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (5990 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2210 Tournament chips) 
+Seat 8: QwertySpark (2180 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+happystan posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2485 Tournament chips.
+Braxmar1124, at seat 1, is in this hand with 2445 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 5990 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 2195 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2150 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Braxmar1124 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Braxmar1124 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 8d 9h ]
+Ken133 folds [30 Tournament chips]
+Braxmar1124 calls [30 Tournament chips]
+CHIPAZILLA folds [30 Tournament chips]
+terry71956 folds [30 Tournament chips]
+SgtSullyUSMC raises [60 Tournament chips]
+1_putt_bogey folds [60 Tournament chips]
+happystan calls [45 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Braxmar1124 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Jd ] board:[ Kd Jd]
+** Dealing Flop ** [ 6s ] board:[ Kd Jd 6s]
+happystan checks
+QwertySpark checks
+Braxmar1124 checks
+SgtSullyUSMC bets for 120 Tournament chips
+happystan folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Braxmar1124 calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Kd Jd 6s Tc]
+Braxmar1124 checks
+SgtSullyUSMC bets for 240 Tournament chips
+Braxmar1124 raises [510 Tournament chips]
+SgtSullyUSMC re-raises [540 Tournament chips]
+Braxmar1124 raises all-in [1755 Tournament chips]
+SgtSullyUSMC calls [1485 Tournament chips]
+Tournament all-in showdown -- players show:
+Braxmar1124 shows [ Ts Jh ]
+SgtSullyUSMC shows [ Kc Ks ]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Kd Jd 6s Tc 6c]
+        (no action in this round)
+Round 4 is over.
+Braxmar1124 shows [ Ts Jh ] two pair, jacks and tens, king kicker
+SgtSullyUSMC shows [ Kc Ks ] full house, kings full of sixes
+SgtSullyUSMC wins main pot 5010 Tournament chips with full house, kings full of sixes.
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 1: Braxmar1124 (0 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (8555 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2150 Tournament chips) 
+Seat 8: QwertySpark (2120 Tournament chips) 
+Game #24007712-9 ends
+Player Braxmar1124 leaves the table with 0 Tournament chips
+Game #24007712-10 starts
+Seat 0: Ken133 (2485 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (8555 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2150 Tournament chips) 
+Seat 8: QwertySpark (2120 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [15 Tournament chips]
+Ken133 posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 2505 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8555 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 2150 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2105 Tournament chips.
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 4s Kc ]
+CHIPAZILLA folds [30 Tournament chips]
+terry71956 folds [30 Tournament chips]
+SgtSullyUSMC raises [60 Tournament chips]
+1_putt_bogey folds [60 Tournament chips]
+happystan folds [60 Tournament chips]
+QwertySpark folds [45 Tournament chips]
+Ken133 folds [30 Tournament chips]
+SgtSullyUSMC is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SgtSullyUSMC (Qc Qd: a pair of queens)
+SgtSullyUSMC wins main pot 75 Tournament chips.
+Seat 0: Ken133 (2455 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (8600 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2150 Tournament chips) 
+Seat 8: QwertySpark (2105 Tournament chips) 
+Game #24007712-10 ends
+Game #24007712-11 starts
+Seat 0: Ken133 (2455 Tournament chips) 
+Seat 2: CHIPAZILLA (2505 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (8600 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (2150 Tournament chips) 
+Seat 8: QwertySpark (2105 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [15 Tournament chips]
+CHIPAZILLA posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2475 Tournament chips.
+terry71956, at seat 3, is in this hand with 2320 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8600 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 2150 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2105 Tournament chips.
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 6c 3d ]
+terry71956 folds [30 Tournament chips]
+SgtSullyUSMC calls [30 Tournament chips]
+1_putt_bogey folds [30 Tournament chips]
+happystan calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Ken133 folds [15 Tournament chips]
+CHIPAZILLA checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Kh ] board:[ 5c Kh]
+** Dealing Flop ** [ 5h ] board:[ 5c Kh 5h]
+CHIPAZILLA has timed out - the hand is checked
+SgtSullyUSMC bets for 105 Tournament chips
+happystan calls [105 Tournament chips]
+CHIPAZILLA calls [105 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 5c Kh 5h 9c]
+CHIPAZILLA checks
+SgtSullyUSMC bets for 180 Tournament chips
+happystan calls [180 Tournament chips]
+CHIPAZILLA calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 5c Kh 5h 9c 7h]
+CHIPAZILLA bets for 480 Tournament chips
+SgtSullyUSMC calls [480 Tournament chips]
+happystan calls [480 Tournament chips]
+Round 4 is over.
+CHIPAZILLA shows [ 2h Jh ] flush, king high
+Hand evaluation for CHIPAZILLA (2h Jh Kh 5h 7h: flush, king high)
+SgtSullyUSMC shows [ 8d Ks ] two pair, kings and fives
+Hand evaluation for SgtSullyUSMC (Ks 5c Kh 5h 9c: two pair, kings and fives)
+happystan doesn't show [ Jd Jc ]
+(happystan has Jd Jc.)
+CHIPAZILLA wins main pot 2400 Tournament chips with flush, king/jack/seven high.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4110 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (7805 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1355 Tournament chips) 
+Seat 8: QwertySpark (2105 Tournament chips) 
+Game #24007712-11 ends
+Game #24007712-12 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4110 Tournament chips) 
+Seat 3: terry71956 (2320 Tournament chips) 
+Seat 4: SgtSullyUSMC (7805 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1355 Tournament chips) 
+Seat 8: QwertySpark (2105 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+CHIPAZILLA posts the small blind [15 Tournament chips]
+terry71956 posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4095 Tournament chips.
+terry71956, at seat 3, is in this hand with 2290 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 7805 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 1355 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2105 Tournament chips.
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Kh Tc ]
+SgtSullyUSMC folds [30 Tournament chips]
+1_putt_bogey folds [30 Tournament chips]
+happystan calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Ken133 folds [30 Tournament chips]
+CHIPAZILLA folds [15 Tournament chips]
+terry71956 checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 7h ] board:[ 5h 7h]
+** Dealing Flop ** [ Td ] board:[ 5h 7h Td]
+terry71956 checks
+happystan checks
+QwertySpark bets for 82 Tournament chips
+terry71956 folds [82 Tournament chips]
+happystan calls [82 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 5h 7h Td 7c]
+happystan bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 5h 7h Td 7c Ks]
+happystan bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Round 4 is over.
+happystan shows [ 7d Jd ] three sevens
+Hand evaluation for happystan (7d Jd 7h 7c Ks: three sevens)
+QwertySpark doesn't show [ Kh Tc ]
+(QwertySpark has Kh Tc.)
+happystan wins main pot 389 Tournament chips with three sevens, king/jack kickers.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4095 Tournament chips) 
+Seat 3: terry71956 (2290 Tournament chips) 
+Seat 4: SgtSullyUSMC (7805 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1572 Tournament chips) 
+Seat 8: QwertySpark (1933 Tournament chips) 
+Game #24007712-12 ends
+Game #24007712-13 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4095 Tournament chips) 
+Seat 3: terry71956 (2290 Tournament chips) 
+Seat 4: SgtSullyUSMC (7805 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1572 Tournament chips) 
+Seat 8: QwertySpark (1933 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+terry71956 posts the small blind [15 Tournament chips]
+SgtSullyUSMC posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4095 Tournament chips.
+terry71956, at seat 3, is in this hand with 2275 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 7775 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2385 Tournament chips.
+happystan, at seat 6, is in this hand with 1572 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1933 Tournament chips.
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Ac Ks ]
+1_putt_bogey folds [30 Tournament chips]
+happystan calls [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+Ken133 folds [150 Tournament chips]
+CHIPAZILLA folds [150 Tournament chips]
+terry71956 raises all-in [2275 Tournament chips]
+SgtSullyUSMC folds [2260 Tournament chips]
+happystan folds [1542 Tournament chips]
+QwertySpark calls all-in [1783 Tournament chips]
+terry71956 is returned 357 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+terry71956 shows [ Ad 9d ]
+QwertySpark shows [ Ac Ks ]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 3s ] board:[ Jc 3s]
+** Dealing Flop ** [ Kh ] board:[ Jc 3s Kh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Jc 3s Kh 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Jc 3s Kh 8s 8h]
+        (no action in this round)
+Round 4 is over.
+terry71956 shows [ Ad 9d ] a pair of eights, ace/king kickers
+QwertySpark shows [ Ac Ks ] two pair, kings and eights, ace kicker
+QwertySpark wins main pot 3926 Tournament chips with two pair, kings and eights, ace kicker.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4095 Tournament chips) 
+Seat 3: terry71956 (357 Tournament chips) 
+Seat 4: SgtSullyUSMC (7775 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1542 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+Game #24007712-13 ends
+Game #24007712-14 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4095 Tournament chips) 
+Seat 3: terry71956 (357 Tournament chips) 
+Seat 4: SgtSullyUSMC (7775 Tournament chips) 
+Seat 5: 1_putt_bogey (2385 Tournament chips) 
+Seat 6: happystan (1542 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+SgtSullyUSMC posts the small blind [15 Tournament chips]
+1_putt_bogey posts the big blind [30 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4095 Tournament chips.
+terry71956, at seat 3, is in this hand with 357 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 7760 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2355 Tournament chips.
+happystan, at seat 6, is in this hand with 1542 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3926 Tournament chips.
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+terry71956 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to terry71956 [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 6h Qc ]
+happystan calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Ken133 folds [30 Tournament chips]
+CHIPAZILLA calls [30 Tournament chips]
+terry71956 raises all-in [357 Tournament chips]
+SgtSullyUSMC calls [342 Tournament chips]
+1_putt_bogey calls [327 Tournament chips]
+happystan folds [327 Tournament chips]
+CHIPAZILLA folds [327 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 3s ] board:[ 8s 3s]
+** Dealing Flop ** [ 4c ] board:[ 8s 3s 4c]
+SgtSullyUSMC checks
+1_putt_bogey checks
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 8s 3s 4c Kd]
+SgtSullyUSMC checks
+1_putt_bogey checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 8s 3s 4c Kd Ac]
+SgtSullyUSMC checks
+1_putt_bogey checks
+Round 4 is over.
+SgtSullyUSMC shows [ Ks 2s ] a pair of kings
+Hand evaluation for SgtSullyUSMC (Ks 8s 4c Kd Ac: a pair of kings)
+1_putt_bogey shows [ Jc Tc ] ace high
+Hand evaluation for 1_putt_bogey (Jc Tc 8s Kd Ac: ace high)
+terry71956 shows [ Jd 3d ] a pair of threes
+Hand evaluation for terry71956 (Jd 3d 3s Kd Ac: a pair of threes)
+SgtSullyUSMC wins main pot 1131 Tournament chips with a pair of kings, ace/eight kickers.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 3: terry71956 (0 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2028 Tournament chips) 
+Seat 6: happystan (1512 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+Game #24007712-14 ends
+Player terry71956 leaves the table with 0 Tournament chips
+Game #24007712-15 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2028 Tournament chips) 
+Seat 6: happystan (1512 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+1_putt_bogey posts the small blind [20 Tournament chips]
+happystan posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4065 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8549 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2008 Tournament chips.
+happystan, at seat 6, is in this hand with 1472 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3926 Tournament chips.
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 2d Kh ]
+QwertySpark folds [40 Tournament chips]
+Ken133 folds [40 Tournament chips]
+CHIPAZILLA folds [40 Tournament chips]
+SgtSullyUSMC folds [40 Tournament chips]
+1_putt_bogey calls [20 Tournament chips]
+happystan has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 3h ] board:[ 5d 3h]
+** Dealing Flop ** [ Th ] board:[ 5d 3h Th]
+1_putt_bogey checks
+happystan has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 5d 3h Th 7h]
+1_putt_bogey checks
+happystan has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 5d 3h Th 7h 9h]
+1_putt_bogey checks
+happystan has timed out - the hand is checked
+Round 4 is over.
+1_putt_bogey shows [ 5s Js ] a pair of fives
+Hand evaluation for 1_putt_bogey (5s Js 5d Th 9h: a pair of fives)
+happystan doesn't show [ Kc 4d ]
+(happystan has Kc 4d.)
+1_putt_bogey wins main pot 80 Tournament chips with a pair of fives, jack/ten kickers.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1472 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+Game #24007712-15 ends
+Game #24007712-16 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1472 Tournament chips) 
+Seat 8: QwertySpark (3926 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+happystan posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2440 Tournament chips.
+Mavbmw31, at seat 1, is in this hand with 6869 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4065 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8549 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2068 Tournament chips.
+happystan, at seat 6, is in this hand with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3886 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Mavbmw31 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 8s 3h ]
+Ken133 folds [40 Tournament chips]
+Mavbmw31 folds [40 Tournament chips]
+CHIPAZILLA raises [180 Tournament chips]
+SgtSullyUSMC folds [180 Tournament chips]
+1_putt_bogey folds [180 Tournament chips]
+happystan folds [160 Tournament chips]
+QwertySpark folds [140 Tournament chips]
+CHIPAZILLA is returned 140 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for CHIPAZILLA (Ah Jc: ace high)
+CHIPAZILLA wins main pot 100 Tournament chips.
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3886 Tournament chips) 
+Game #24007712-16 ends
+Game #24007712-17 starts
+Seat 0: Ken133 (2440 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8549 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3886 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [20 Tournament chips]
+Ken133 posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2400 Tournament chips.
+Mavbmw31, at seat 1, is in this hand with 6869 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4125 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8549 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2068 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3866 Tournament chips.
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Mavbmw31 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 9c Kc ]
+Mavbmw31 folds [40 Tournament chips]
+CHIPAZILLA folds [40 Tournament chips]
+SgtSullyUSMC calls [40 Tournament chips]
+1_putt_bogey folds [40 Tournament chips]
+happystan folds [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Ken133 folds
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Qh ] board:[ Ah Qh]
+** Dealing Flop ** [ 8h ] board:[ Ah Qh 8h]
+QwertySpark bets for 80 Tournament chips
+SgtSullyUSMC raises [360 Tournament chips]
+QwertySpark folds [280 Tournament chips]
+SgtSullyUSMC is returned 280 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SgtSullyUSMC (6h 6s Ah Qh 8h: a pair of sixes)
+SgtSullyUSMC wins main pot 280 Tournament chips.
+Seat 0: Ken133 (2400 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8709 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+Game #24007712-17 ends
+Game #24007712-18 starts
+Seat 0: Ken133 (2400 Tournament chips) 
+Seat 1: Mavbmw31 (6869 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8709 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [20 Tournament chips]
+Mavbmw31 posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+Mavbmw31, at seat 1, is in this hand with 6829 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4125 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8709 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2068 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3766 Tournament chips.
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to Mavbmw31 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 3c 5h ]
+CHIPAZILLA folds [40 Tournament chips]
+SgtSullyUSMC raises [80 Tournament chips]
+1_putt_bogey folds [80 Tournament chips]
+happystan folds [80 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+Ken133 folds [60 Tournament chips]
+Mavbmw31 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 5d ] board:[ Ad 5d]
+** Dealing Flop ** [ 9h ] board:[ Ad 5d 9h]
+Mavbmw31 checks
+SgtSullyUSMC bets for 180 Tournament chips
+Mavbmw31 folds [180 Tournament chips]
+SgtSullyUSMC is returned 180 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SgtSullyUSMC (3d Ac Ad 5d 9h: a pair of aces)
+SgtSullyUSMC wins main pot 180 Tournament chips.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: Mavbmw31 (6789 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8809 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+Game #24007712-18 ends
+Game #24007712-19 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: Mavbmw31 (6789 Tournament chips) 
+Seat 2: CHIPAZILLA (4125 Tournament chips) 
+Seat 4: SgtSullyUSMC (8809 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Mavbmw31 posts the small blind [20 Tournament chips]
+CHIPAZILLA posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+Mavbmw31, at seat 1, is in this hand with 6769 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4085 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8809 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2068 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3766 Tournament chips.
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Mavbmw31 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 4c Jh ]
+SgtSullyUSMC folds [40 Tournament chips]
+1_putt_bogey folds [40 Tournament chips]
+happystan folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Ken133 folds [40 Tournament chips]
+Mavbmw31 calls [20 Tournament chips]
+CHIPAZILLA has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Qc ] board:[ 6h Qc]
+** Dealing Flop ** [ 6s ] board:[ 6h Qc 6s]
+Mavbmw31 bets for 40 Tournament chips
+CHIPAZILLA folds [40 Tournament chips]
+Mavbmw31 is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Mavbmw31 (Qd 7c 6h Qc 6s: two pair, queens and sixes)
+Mavbmw31 wins main pot 80 Tournament chips.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: Mavbmw31 (6829 Tournament chips) 
+Seat 2: CHIPAZILLA (4085 Tournament chips) 
+Seat 4: SgtSullyUSMC (8809 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+Game #24007712-19 ends
+Game #24007712-20 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: Mavbmw31 (6829 Tournament chips) 
+Seat 2: CHIPAZILLA (4085 Tournament chips) 
+Seat 4: SgtSullyUSMC (8809 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3766 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [20 Tournament chips]
+SgtSullyUSMC posts the big blind [40 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+Mavbmw31, at seat 1, is in this hand with 6829 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 4065 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 8769 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2068 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3766 Tournament chips.
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Mavbmw31 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to Mavbmw31 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 8h 2d ]
+1_putt_bogey folds [40 Tournament chips]
+happystan folds [40 Tournament chips]
+QwertySpark raises [160 Tournament chips]
+Ken133 folds [160 Tournament chips]
+Mavbmw31 calls [160 Tournament chips]
+CHIPAZILLA folds [140 Tournament chips]
+SgtSullyUSMC calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4c ] board:[ Ad 4c]
+** Dealing Flop ** [ 6s ] board:[ Ad 4c 6s]
+SgtSullyUSMC bets for 250 Tournament chips
+QwertySpark folds [250 Tournament chips]
+Mavbmw31 calls [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Ad 4c 6s 6h]
+SgtSullyUSMC checks
+Mavbmw31 bets for 500 Tournament chips
+SgtSullyUSMC calls [500 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Ad 4c 6s 6h 2h]
+SgtSullyUSMC checks
+Mavbmw31 bets for 1000 Tournament chips
+SgtSullyUSMC raises all-in [7899 Tournament chips]
+Mavbmw31 calls all-in [4919 Tournament chips]
+SgtSullyUSMC is returned 1980 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Mavbmw31 shows [ Ah 7h ]
+SgtSullyUSMC shows [ Jh As ]
+Round 4 is over.
+Mavbmw31 shows [ Ah 7h ] two pair, aces and sixes, seven kicker
+SgtSullyUSMC shows [ Jh As ] two pair, aces and sixes, jack kicker
+SgtSullyUSMC wins main pot 13838 Tournament chips with two pair, aces and sixes, jack kicker.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: Mavbmw31 (0 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 4: SgtSullyUSMC (15818 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3606 Tournament chips) 
+Game #24007712-20 ends
+Player Mavbmw31 leaves the table with 0 Tournament chips
+Game #24007712-21 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 2: CHIPAZILLA (4065 Tournament chips) 
+Seat 4: SgtSullyUSMC (15818 Tournament chips) 
+Seat 5: 1_putt_bogey (2068 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (3606 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+SgtSullyUSMC posts the small blind [30 Tournament chips]
+1_putt_bogey posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4065 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15788 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2008 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1452 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3606 Tournament chips.
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Jc 4c ]
+happystan folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Ken133 folds [60 Tournament chips]
+CHIPAZILLA raises [270 Tournament chips]
+SgtSullyUSMC folds [240 Tournament chips]
+1_putt_bogey folds [210 Tournament chips]
+QwertySpark calls [210 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 5d ] board:[ 2h 5d]
+** Dealing Flop ** [ Qh ] board:[ 2h 5d Qh]
+QwertySpark checks
+CHIPAZILLA has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 2h 5d Qh Ks]
+QwertySpark bets for 180 Tournament chips
+CHIPAZILLA calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 2h 5d Qh Ks 6d]
+QwertySpark bets for 555 Tournament chips
+CHIPAZILLA calls [555 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Jc 4c ] king high
+Hand evaluation for QwertySpark (Jc 5d Qh Ks 6d: king high)
+CHIPAZILLA shows [ Ad Ac ] a pair of aces
+Hand evaluation for CHIPAZILLA (Ad Ac Qh Ks 6d: a pair of aces)
+CHIPAZILLA wins main pot 2100 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10098 Tournament chips) 
+Seat 2: CHIPAZILLA (5160 Tournament chips) 
+Seat 4: SgtSullyUSMC (15788 Tournament chips) 
+Seat 5: 1_putt_bogey (2008 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (2601 Tournament chips) 
+Game #24007712-21 ends
+Game #24007712-22 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10098 Tournament chips) 
+Seat 2: CHIPAZILLA (5160 Tournament chips) 
+Seat 4: SgtSullyUSMC (15788 Tournament chips) 
+Seat 5: 1_putt_bogey (2008 Tournament chips) 
+Seat 6: happystan (1452 Tournament chips) 
+Seat 8: QwertySpark (2601 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+1_putt_bogey posts the small blind [30 Tournament chips]
+happystan posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10098 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 5160 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15788 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 1978 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1392 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2601 Tournament chips.
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 3c Kh ]
+QwertySpark folds [60 Tournament chips]
+Ken133 folds [60 Tournament chips]
+mistrfive raises [210 Tournament chips]
+CHIPAZILLA folds [210 Tournament chips]
+SgtSullyUSMC folds [210 Tournament chips]
+1_putt_bogey folds [180 Tournament chips]
+happystan folds [150 Tournament chips]
+mistrfive is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for mistrfive (Ah Qd: ace high)
+mistrfive wins main pot 150 Tournament chips.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (5160 Tournament chips) 
+Seat 4: SgtSullyUSMC (15788 Tournament chips) 
+Seat 5: 1_putt_bogey (1978 Tournament chips) 
+Seat 6: happystan (1392 Tournament chips) 
+Seat 8: QwertySpark (2601 Tournament chips) 
+Game #24007712-22 ends
+Game #24007712-23 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (5160 Tournament chips) 
+Seat 4: SgtSullyUSMC (15788 Tournament chips) 
+Seat 5: 1_putt_bogey (1978 Tournament chips) 
+Seat 6: happystan (1392 Tournament chips) 
+Seat 8: QwertySpark (2601 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+happystan posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2380 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10188 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 5160 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15788 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 1978 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2541 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Qd 2h ]
+Ken133 folds [60 Tournament chips]
+mistrfive folds [60 Tournament chips]
+CHIPAZILLA calls [60 Tournament chips]
+SgtSullyUSMC calls [60 Tournament chips]
+1_putt_bogey raises [180 Tournament chips]
+happystan folds [150 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+CHIPAZILLA calls [120 Tournament chips]
+SgtSullyUSMC folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 2d ] board:[ Tc 2d]
+** Dealing Flop ** [ 3d ] board:[ Tc 2d 3d]
+CHIPAZILLA checks
+1_putt_bogey bets for 180 Tournament chips
+CHIPAZILLA folds [180 Tournament chips]
+1_putt_bogey is returned 180 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 1_putt_bogey (Ah Kc Tc 2d 3d: ace high)
+1_putt_bogey wins main pot 510 Tournament chips.
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15728 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2541 Tournament chips) 
+Game #24007712-23 ends
+Game #24007712-24 starts
+Seat 0: Ken133 (2380 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15728 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2541 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [30 Tournament chips]
+Ken133 posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2320 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10188 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4980 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15728 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2308 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2511 Tournament chips.
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Jc Qd ]
+mistrfive folds [60 Tournament chips]
+CHIPAZILLA folds [60 Tournament chips]
+SgtSullyUSMC calls [60 Tournament chips]
+1_putt_bogey folds [60 Tournament chips]
+happystan folds [60 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+Ken133 folds [120 Tournament chips]
+SgtSullyUSMC calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 8c ] board:[ 4d 8c]
+** Dealing Flop ** [ Jh ] board:[ 4d 8c Jh]
+QwertySpark bets for 180 Tournament chips
+SgtSullyUSMC calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 4d 8c Jh 7h]
+QwertySpark bets for 300 Tournament chips
+SgtSullyUSMC calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 4d 8c Jh 7h Td]
+QwertySpark checks
+SgtSullyUSMC checks
+Round 4 is over.
+QwertySpark shows [ Jc Qd ] a pair of jacks
+Hand evaluation for QwertySpark (Jc Qd 8c Jh Td: a pair of jacks)
+SgtSullyUSMC doesn't show [ 7c Ks ]
+(SgtSullyUSMC has 7c Ks.)
+QwertySpark wins main pot 1380 Tournament chips with a pair of jacks, queen/ten kickers.
+Seat 0: Ken133 (2320 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15068 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (3261 Tournament chips) 
+Game #24007712-24 ends
+Game #24007712-25 starts
+Seat 0: Ken133 (2320 Tournament chips) 
+Seat 1: mistrfive (10188 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15068 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (3261 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [30 Tournament chips]
+mistrfive posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10128 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4980 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15068 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2308 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3261 Tournament chips.
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Jd 5d ]
+CHIPAZILLA folds [60 Tournament chips]
+SgtSullyUSMC folds [60 Tournament chips]
+1_putt_bogey folds [60 Tournament chips]
+happystan folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Ken133 folds [30 Tournament chips]
+mistrfive checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 3d ] board:[ 2c 3d]
+** Dealing Flop ** [ 5s ] board:[ 2c 3d 5s]
+mistrfive bets for 75 Tournament chips
+QwertySpark raises [150 Tournament chips]
+mistrfive calls [75 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 2c 3d 5s 4s]
+mistrfive bets for 225 Tournament chips
+QwertySpark folds [225 Tournament chips]
+mistrfive is returned 225 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for mistrfive (As 2c 3d 5s 4s: straight, five high)
+mistrfive shows [ 8s As ] straight, five high
+Hand evaluation for mistrfive (As 2c 3d 5s 4s: straight, five high)
+mistrfive wins main pot 450 Tournament chips.
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10428 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15068 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (3051 Tournament chips) 
+Game #24007712-25 ends
+Game #24007712-26 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10428 Tournament chips) 
+Seat 2: CHIPAZILLA (4980 Tournament chips) 
+Seat 4: SgtSullyUSMC (15068 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (3051 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+mistrfive posts the small blind [30 Tournament chips]
+CHIPAZILLA posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4920 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15068 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2308 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3051 Tournament chips.
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Tc Jh ]
+SgtSullyUSMC raises [120 Tournament chips]
+1_putt_bogey folds [120 Tournament chips]
+happystan folds [120 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Ken133 folds [120 Tournament chips]
+mistrfive calls [90 Tournament chips]
+CHIPAZILLA folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 7s ] board:[ Ah 7s]
+** Dealing Flop ** [ Qh ] board:[ Ah 7s Qh]
+mistrfive bets for 150 Tournament chips
+SgtSullyUSMC raises [435 Tournament chips]
+QwertySpark folds [435 Tournament chips]
+mistrfive calls [285 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ Ah 7s Qh Ts]
+mistrfive checks
+SgtSullyUSMC checks
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Ah 7s Qh Ts 7h]
+mistrfive checks
+SgtSullyUSMC bets for 1290 Tournament chips
+mistrfive folds, showing Qc 8h [1290 Tournament chips]
+SgtSullyUSMC is returned 1290 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for SgtSullyUSMC (Ac Ah 7s Qh 7h: two pair, aces and sevens)
+SgtSullyUSMC shows [ 8s Ac ] two pair, aces and sevens
+Hand evaluation for SgtSullyUSMC (Ac Ah 7s Qh 7h: two pair, aces and sevens)
+SgtSullyUSMC wins main pot 1290 Tournament chips.
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (9873 Tournament chips) 
+Seat 2: CHIPAZILLA (4920 Tournament chips) 
+Seat 4: SgtSullyUSMC (15803 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2931 Tournament chips) 
+Game #24007712-26 ends
+Game #24007712-27 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (9873 Tournament chips) 
+Seat 2: CHIPAZILLA (4920 Tournament chips) 
+Seat 4: SgtSullyUSMC (15803 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2931 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [30 Tournament chips]
+SgtSullyUSMC posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 9873 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4890 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15743 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2308 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2931 Tournament chips.
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ As 7h ]
+1_putt_bogey folds [60 Tournament chips]
+happystan folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Ken133 folds [60 Tournament chips]
+mistrfive raises [270 Tournament chips]
+CHIPAZILLA folds [240 Tournament chips]
+SgtSullyUSMC folds [210 Tournament chips]
+QwertySpark folds [210 Tournament chips]
+mistrfive is returned 210 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for mistrfive (Kd Ts: king high)
+mistrfive wins main pot 210 Tournament chips.
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15743 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2871 Tournament chips) 
+Game #24007712-27 ends
+Game #24007712-28 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15743 Tournament chips) 
+Seat 5: 1_putt_bogey (2308 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2871 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+SgtSullyUSMC posts the small blind [30 Tournament chips]
+1_putt_bogey posts the big blind [60 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10023 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4890 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15713 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2248 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1362 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2871 Tournament chips.
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Jc Jd ]
+happystan folds [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+Ken133 folds [240 Tournament chips]
+mistrfive folds [240 Tournament chips]
+CHIPAZILLA folds [240 Tournament chips]
+SgtSullyUSMC folds [210 Tournament chips]
+1_putt_bogey folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jc Jd: a pair of jacks)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15713 Tournament chips) 
+Seat 5: 1_putt_bogey (2248 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2961 Tournament chips) 
+Game #24007712-28 ends
+Game #24007712-29 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15713 Tournament chips) 
+Seat 5: 1_putt_bogey (2248 Tournament chips) 
+Seat 6: happystan (1362 Tournament chips) 
+Seat 8: QwertySpark (2961 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+1_putt_bogey posts the small blind [50 Tournament chips]
+happystan posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand (absent) with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10023 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4890 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15713 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1262 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2961 Tournament chips.
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Ac Js ]
+QwertySpark raises [400 Tournament chips]
+Ken133 folds [400 Tournament chips]
+mistrfive folds [400 Tournament chips]
+CHIPAZILLA folds [400 Tournament chips]
+SgtSullyUSMC folds [400 Tournament chips]
+1_putt_bogey folds [350 Tournament chips]
+happystan folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ac Js: ace high)
+QwertySpark wins main pot 250 Tournament chips.
+(SgtSullyUSMC has entered the table, is no longer absent.)
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15713 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1262 Tournament chips) 
+Seat 8: QwertySpark (3111 Tournament chips) 
+Game #24007712-29 ends
+Game #24007712-30 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (4890 Tournament chips) 
+Seat 4: SgtSullyUSMC (15713 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1262 Tournament chips) 
+Seat 8: QwertySpark (3111 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+happystan posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 2290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10023 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 4890 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15713 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3011 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Kd Kc ]
+Ken133 folds [100 Tournament chips]
+mistrfive folds [100 Tournament chips]
+CHIPAZILLA calls [100 Tournament chips]
+SgtSullyUSMC calls [100 Tournament chips]
+1_putt_bogey folds [100 Tournament chips]
+happystan folds [50 Tournament chips]
+QwertySpark raises [500 Tournament chips]
+CHIPAZILLA calls [500 Tournament chips]
+SgtSullyUSMC folds [500 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6c ] board:[ 6s 6c]
+** Dealing Flop ** [ Qs ] board:[ 6s 6c Qs]
+QwertySpark bets for 675 Tournament chips
+CHIPAZILLA calls [675 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 6s 6c Qs 3c]
+QwertySpark goes all-in for 1836 Tournament chips
+CHIPAZILLA calls [1836 Tournament chips]
+Tournament all-in showdown -- players show:
+CHIPAZILLA shows [ 3s As ]
+QwertySpark shows [ Kd Kc ]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 6s 6c Qs 3c 9c]
+        (no action in this round)
+Round 4 is over.
+CHIPAZILLA shows [ 3s As ] two pair, sixes and threes, ace kicker
+QwertySpark shows [ Kd Kc ] two pair, kings and sixes, queen kicker
+QwertySpark wins main pot 6372 Tournament chips with two pair, kings and sixes, queen kicker.
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15613 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (6372 Tournament chips) 
+Game #24007712-30 ends
+Game #24007712-31 starts
+Seat 0: Ken133 (2290 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15613 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (6372 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [50 Tournament chips]
+Ken133 posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 2190 Tournament chips.
+mistrfive, at seat 1, is in this hand with 10023 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 1779 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15613 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6322 Tournament chips.
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 4d As ]
+mistrfive folds [100 Tournament chips]
+CHIPAZILLA folds [100 Tournament chips]
+SgtSullyUSMC calls [100 Tournament chips]
+1_putt_bogey folds [100 Tournament chips]
+happystan folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Ken133 raises [300 Tournament chips]
+SgtSullyUSMC folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 9s ] board:[ 5h 9s]
+** Dealing Flop ** [ Kc ] board:[ 5h 9s Kc]
+QwertySpark checks
+Ken133 bets for 900 Tournament chips
+QwertySpark folds [900 Tournament chips]
+Ken133 is returned 900 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Ken133 (2c Qc 5h 9s Kc: king high)
+Ken133 wins main pot 900 Tournament chips.
+Seat 0: Ken133 (2790 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15513 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5972 Tournament chips) 
+Game #24007712-31 ends
+Game #24007712-32 starts
+Seat 0: Ken133 (2790 Tournament chips) 
+Seat 1: mistrfive (10023 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15513 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5972 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [50 Tournament chips]
+mistrfive posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 2740 Tournament chips.
+mistrfive, at seat 1, is in this hand with 9923 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 1779 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15513 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5972 Tournament chips.
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Kd 4c ]
+CHIPAZILLA folds [100 Tournament chips]
+SgtSullyUSMC raises [350 Tournament chips]
+1_putt_bogey folds [350 Tournament chips]
+happystan folds [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+Ken133 folds [300 Tournament chips]
+mistrfive calls [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 8s ] board:[ 4h 8s]
+** Dealing Flop ** [ Td ] board:[ 4h 8s Td]
+mistrfive checks
+SgtSullyUSMC bets for 375 Tournament chips
+mistrfive folds [375 Tournament chips]
+SgtSullyUSMC is returned 375 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SgtSullyUSMC (Qh Ah 4h 8s Td: ace high)
+SgtSullyUSMC wins main pot 750 Tournament chips.
+Seat 0: Ken133 (2740 Tournament chips) 
+Seat 1: mistrfive (9673 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15913 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5972 Tournament chips) 
+Game #24007712-32 ends
+Game #24007712-33 starts
+Seat 0: Ken133 (2740 Tournament chips) 
+Seat 1: mistrfive (9673 Tournament chips) 
+Seat 2: CHIPAZILLA (1779 Tournament chips) 
+Seat 4: SgtSullyUSMC (15913 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5972 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+mistrfive posts the small blind [50 Tournament chips]
+CHIPAZILLA posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 2740 Tournament chips.
+mistrfive, at seat 1, is in this hand with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1679 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 15913 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5972 Tournament chips.
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Ah Tc ]
+SgtSullyUSMC raises [200 Tournament chips]
+1_putt_bogey folds [200 Tournament chips]
+happystan folds [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Ken133 calls [200 Tournament chips]
+mistrfive folds [150 Tournament chips]
+CHIPAZILLA folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 8s ] board:[ Jd 8s]
+** Dealing Flop ** [ 7c ] board:[ Jd 8s 7c]
+SgtSullyUSMC bets for 750 Tournament chips
+QwertySpark calls [750 Tournament chips]
+Ken133 raises all-in [2540 Tournament chips]
+SgtSullyUSMC calls [1790 Tournament chips]
+QwertySpark folds [1790 Tournament chips]
+Tournament all-in showdown -- players show:
+Ken133 shows [ Qc Jh ]
+SgtSullyUSMC shows [ Qd Jc ]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd 8s 7c 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Jd 8s 7c 6d Ac]
+        (no action in this round)
+Round 4 is over.
+Ken133 shows [ Qc Jh ] a pair of jacks, ace/queen kickers
+SgtSullyUSMC shows [ Qd Jc ] a pair of jacks, ace/queen kickers
+SgtSullyUSMC wins main pot 3290 Tournament chips of a 6580 Tournament chips pot with a pair of jacks, ace/queen kickers.
+Ken133 wins main pot 3290 Tournament chips of a 6580 Tournament chips pot with a pair of jacks, ace/queen kickers.
+Seat 0: Ken133 (3290 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1679 Tournament chips) 
+Seat 4: SgtSullyUSMC (16463 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+Game #24007712-33 ends
+Game #24007712-34 starts
+Seat 0: Ken133 (3290 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1679 Tournament chips) 
+Seat 4: SgtSullyUSMC (16463 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [50 Tournament chips]
+SgtSullyUSMC posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 3290 Tournament chips.
+mistrfive, at seat 1, is in this hand with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1629 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 16363 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2198 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5022 Tournament chips.
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 9d 4c ]
+1_putt_bogey folds [100 Tournament chips]
+happystan folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Ken133 raises [200 Tournament chips]
+mistrfive folds [200 Tournament chips]
+CHIPAZILLA folds [150 Tournament chips]
+SgtSullyUSMC calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 8s ] board:[ Qh 8s]
+** Dealing Flop ** [ 5s ] board:[ Qh 8s 5s]
+SgtSullyUSMC checks
+Ken133 checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Qh 8s 5s 8c]
+SgtSullyUSMC checks
+Ken133 checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Qh 8s 5s 8c 7s]
+SgtSullyUSMC bets for 650 Tournament chips
+Ken133 folds [650 Tournament chips]
+SgtSullyUSMC is returned 650 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for SgtSullyUSMC (8d Qh 8s 8c 7s: three eights)
+SgtSullyUSMC wins main pot 450 Tournament chips.
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1629 Tournament chips) 
+Seat 4: SgtSullyUSMC (16713 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+Game #24007712-34 ends
+Game #24007712-35 starts
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1629 Tournament chips) 
+Seat 4: SgtSullyUSMC (16713 Tournament chips) 
+Seat 5: 1_putt_bogey (2198 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+SgtSullyUSMC posts the small blind [50 Tournament chips]
+1_putt_bogey posts the big blind [100 Tournament chips]
+Ken133, at seat 0, is in this hand with 3090 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1629 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 16663 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2098 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1212 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5022 Tournament chips.
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 7h 4s ]
+happystan folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Ken133 raises all-in [3090 Tournament chips]
+mistrfive folds [3090 Tournament chips]
+CHIPAZILLA folds [1629 Tournament chips]
+SgtSullyUSMC folds [3040 Tournament chips]
+1_putt_bogey folds [2098 Tournament chips]
+Ken133 is returned 2990 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Ken133 (Ts Ad: ace high)
+Ken133 wins main pot 250 Tournament chips.
+Seat 0: Ken133 (3240 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1629 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (2098 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+Game #24007712-35 ends
+Game #24007712-36 starts
+Seat 0: Ken133 (3240 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (1629 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (2098 Tournament chips) 
+Seat 6: happystan (1212 Tournament chips) 
+Seat 8: QwertySpark (5022 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+1_putt_bogey posts the small blind [75 Tournament chips]
+happystan posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 3240 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 1629 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 16663 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2023 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 1062 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5022 Tournament chips.
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Jh Ks ]
+QwertySpark calls [150 Tournament chips]
+Ken133 calls [150 Tournament chips]
+mistrfive folds [150 Tournament chips]
+CHIPAZILLA raises [300 Tournament chips]
+SgtSullyUSMC folds [300 Tournament chips]
+1_putt_bogey folds [225 Tournament chips]
+happystan folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Ken133 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Jd ] board:[ As Jd]
+** Dealing Flop ** [ 3h ] board:[ As Jd 3h]
+QwertySpark checks
+Ken133 checks
+CHIPAZILLA has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ As Jd 3h 5s]
+QwertySpark checks
+Ken133 checks
+CHIPAZILLA checks
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ As Jd 3h 5s Th]
+QwertySpark bets for 300 Tournament chips
+Ken133 folds [300 Tournament chips]
+CHIPAZILLA calls [300 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Jh Ks ] a pair of jacks
+Hand evaluation for QwertySpark (Jh Ks As Jd Th: a pair of jacks)
+CHIPAZILLA shows [ Kh Kd ] a pair of kings
+Hand evaluation for CHIPAZILLA (Kh Kd As Jd Th: a pair of kings)
+CHIPAZILLA wins main pot 1725 Tournament chips with a pair of kings, ace/jack kickers.
+Seat 0: Ken133 (2940 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2754 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (2023 Tournament chips) 
+Seat 6: happystan (1062 Tournament chips) 
+Seat 8: QwertySpark (4422 Tournament chips) 
+Game #24007712-36 ends
+Game #24007712-37 starts
+Seat 0: Ken133 (2940 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2754 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (2023 Tournament chips) 
+Seat 6: happystan (1062 Tournament chips) 
+Seat 8: QwertySpark (4422 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+happystan posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 2940 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2754 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 16663 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 2023 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 987 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4272 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 2d Qs ]
+Ken133 folds [150 Tournament chips]
+mistrfive folds [150 Tournament chips]
+CHIPAZILLA folds [150 Tournament chips]
+SgtSullyUSMC folds [150 Tournament chips]
+1_putt_bogey calls [150 Tournament chips]
+happystan folds [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Js ] board:[ Qc Js]
+** Dealing Flop ** [ 9h ] board:[ Qc Js 9h]
+QwertySpark bets for 150 Tournament chips
+1_putt_bogey calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Qc Js 9h 4c]
+QwertySpark checks
+1_putt_bogey bets for 449 Tournament chips
+QwertySpark raises [1048 Tournament chips]
+1_putt_bogey folds [599 Tournament chips]
+QwertySpark is returned 599 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qs Qc Js 9h 4c: a pair of queens)
+QwertySpark wins main pot 1573 Tournament chips.
+Seat 0: Ken133 (2940 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2754 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (1274 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (5246 Tournament chips) 
+Game #24007712-37 ends
+Game #24007712-38 starts
+Seat 0: Ken133 (2940 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2754 Tournament chips) 
+Seat 4: SgtSullyUSMC (16663 Tournament chips) 
+Seat 5: 1_putt_bogey (1274 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (5246 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [75 Tournament chips]
+Ken133 posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 2790 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9623 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2754 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 16663 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 1274 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 987 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5171 Tournament chips.
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 6h 2s ]
+mistrfive folds [150 Tournament chips]
+CHIPAZILLA raises [525 Tournament chips]
+SgtSullyUSMC calls [525 Tournament chips]
+1_putt_bogey folds [525 Tournament chips]
+happystan folds [525 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+Ken133 folds [375 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 6c ] board:[ 2d 6c]
+** Dealing Flop ** [ Jd ] board:[ 2d 6c Jd]
+CHIPAZILLA checks
+SgtSullyUSMC bets for 637 Tournament chips
+CHIPAZILLA folds [637 Tournament chips]
+SgtSullyUSMC is returned 637 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SgtSullyUSMC (6s 6d 2d 6c Jd: three sixes)
+SgtSullyUSMC wins main pot 1275 Tournament chips.
+Seat 0: Ken133 (2790 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2229 Tournament chips) 
+Seat 4: SgtSullyUSMC (17413 Tournament chips) 
+Seat 5: 1_putt_bogey (1274 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (5171 Tournament chips) 
+Game #24007712-38 ends
+Game #24007712-39 starts
+Seat 0: Ken133 (2790 Tournament chips) 
+Seat 1: mistrfive (9623 Tournament chips) 
+Seat 2: CHIPAZILLA (2229 Tournament chips) 
+Seat 4: SgtSullyUSMC (17413 Tournament chips) 
+Seat 5: 1_putt_bogey (1274 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (5171 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [75 Tournament chips]
+mistrfive posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 2715 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9473 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 2229 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 17413 Tournament chips.
+1_putt_bogey, at seat 5, is in this hand with 1274 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 987 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5171 Tournament chips.
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+1_putt_bogey is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to 1_putt_bogey [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 6d 6c ]
+CHIPAZILLA calls [150 Tournament chips]
+SgtSullyUSMC raises [300 Tournament chips]
+1_putt_bogey raises all-in [1274 Tournament chips]
+happystan folds [987 Tournament chips]
+QwertySpark calls [1274 Tournament chips]
+Ken133 folds [1199 Tournament chips]
+mistrfive folds [1124 Tournament chips]
+CHIPAZILLA calls [1124 Tournament chips]
+SgtSullyUSMC calls [974 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 3d ] board:[ 5s 3d]
+** Dealing Flop ** [ Kc ] board:[ 5s 3d Kc]
+CHIPAZILLA checks
+SgtSullyUSMC checks
+QwertySpark bets for 900 Tournament chips
+CHIPAZILLA folds [900 Tournament chips]
+SgtSullyUSMC calls [900 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 5s 3d Kc Qh]
+SgtSullyUSMC checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 5s 3d Kc Qh 5c]
+SgtSullyUSMC checks
+QwertySpark checks
+Round 4 is over.
+SgtSullyUSMC shows [ Kd Jd ] two pair, kings and fives
+Hand evaluation for SgtSullyUSMC (Kd 5s Kc Qh 5c: two pair, kings and fives)
+1_putt_bogey shows [ Ts Td ] two pair, tens and fives
+Hand evaluation for 1_putt_bogey (Ts Td 5s Kc 5c: two pair, tens and fives)
+QwertySpark shows [ 6d 6c ] two pair, sixes and fives
+Hand evaluation for QwertySpark (6d 6c 5s Kc 5c: two pair, sixes and fives)
+SgtSullyUSMC wins main pot 5321 Tournament chips with two pair, kings and fives, queen kicker.
+SgtSullyUSMC wins side pot #1 1800 Tournament chips with two pair, kings and fives, queen kicker.
+Seat 0: Ken133 (2715 Tournament chips) 
+Seat 1: mistrfive (9473 Tournament chips) 
+Seat 2: CHIPAZILLA (955 Tournament chips) 
+Seat 4: SgtSullyUSMC (22360 Tournament chips) 
+Seat 5: 1_putt_bogey (0 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (2997 Tournament chips) 
+Game #24007712-39 ends
+Player 1_putt_bogey leaves the table with 0 Tournament chips
+Game #24007712-40 starts
+Seat 0: Ken133 (2715 Tournament chips) 
+Seat 1: mistrfive (9473 Tournament chips) 
+Seat 2: CHIPAZILLA (955 Tournament chips) 
+Seat 4: SgtSullyUSMC (22360 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (2997 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+mistrfive posts the small blind [75 Tournament chips]
+CHIPAZILLA posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 2715 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 805 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 22360 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 987 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2997 Tournament chips.
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Kh 2s ]
+SgtSullyUSMC calls [150 Tournament chips]
+happystan folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Ken133 raises all-in [2715 Tournament chips]
+mistrfive folds [2640 Tournament chips]
+CHIPAZILLA folds [805 Tournament chips]
+SgtSullyUSMC folds [2565 Tournament chips]
+Ken133 is returned 2565 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Ken133 (Kc 6c: king high)
+Ken133 wins main pot 525 Tournament chips.
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (805 Tournament chips) 
+Seat 4: SgtSullyUSMC (22210 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (2997 Tournament chips) 
+Game #24007712-40 ends
+Game #24007712-41 starts
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (805 Tournament chips) 
+Seat 4: SgtSullyUSMC (22210 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (2997 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [75 Tournament chips]
+SgtSullyUSMC posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 3090 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 730 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 22060 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 987 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2997 Tournament chips.
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Ac Qs ]
+happystan folds [150 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+Ken133 folds [600 Tournament chips]
+mistrfive folds [600 Tournament chips]
+CHIPAZILLA folds [525 Tournament chips]
+SgtSullyUSMC calls [450 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 7d ] board:[ Ad 7d]
+** Dealing Flop ** [ 4h ] board:[ Ad 7d 4h]
+SgtSullyUSMC bets for 150 Tournament chips
+QwertySpark calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Ad 7d 4h 3h]
+SgtSullyUSMC bets for 450 Tournament chips
+QwertySpark calls [450 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Ad 7d 4h 3h 2d]
+SgtSullyUSMC checks
+QwertySpark checks
+Round 4 is over.
+SgtSullyUSMC shows [ Ah 7s ] two pair, aces and sevens
+Hand evaluation for SgtSullyUSMC (Ah 7s Ad 7d 4h: two pair, aces and sevens)
+QwertySpark doesn't show [ Ac Qs ]
+(QwertySpark has Ac Qs.)
+SgtSullyUSMC wins main pot 2475 Tournament chips with two pair, aces and sevens, four kicker.
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (730 Tournament chips) 
+Seat 4: SgtSullyUSMC (23485 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (1797 Tournament chips) 
+Game #24007712-41 ends
+Game #24007712-42 starts
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (730 Tournament chips) 
+Seat 4: SgtSullyUSMC (23485 Tournament chips) 
+Seat 6: happystan (987 Tournament chips) 
+Seat 8: QwertySpark (1797 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+SgtSullyUSMC posts the small blind [75 Tournament chips]
+happystan posts the big blind [150 Tournament chips]
+Ken133, at seat 0, is in this hand with 3090 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 730 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23410 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 837 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1797 Tournament chips.
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 2c Kc ]
+QwertySpark raises all-in [1797 Tournament chips]
+Ken133 folds [1797 Tournament chips]
+mistrfive folds [1797 Tournament chips]
+CHIPAZILLA calls all-in [730 Tournament chips]
+SgtSullyUSMC folds [1722 Tournament chips]
+happystan folds [837 Tournament chips]
+QwertySpark is returned 1067 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+CHIPAZILLA shows [ Th Jh ]
+QwertySpark shows [ 2c Kc ]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 8c ] board:[ Js 8c]
+** Dealing Flop ** [ 2h ] board:[ Js 8c 2h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Js 8c 2h 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Js 8c 2h 3d 6h]
+        (no action in this round)
+Round 4 is over.
+CHIPAZILLA shows [ Th Jh ] a pair of jacks, ten/eight kickers
+QwertySpark shows [ 2c Kc ] a pair of deuces, king/jack kickers
+CHIPAZILLA wins main pot 1685 Tournament chips with a pair of jacks, ten/eight kickers.
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (837 Tournament chips) 
+Seat 8: QwertySpark (1067 Tournament chips) 
+Game #24007712-42 ends
+Game #24007712-43 starts
+Seat 0: Ken133 (3090 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (837 Tournament chips) 
+Seat 8: QwertySpark (1067 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+happystan posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 3090 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 1685 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23410 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 737 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 867 Tournament chips.
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Qh 2s ]
+Ken133 calls [200 Tournament chips]
+mistrfive folds [200 Tournament chips]
+CHIPAZILLA folds [200 Tournament chips]
+SgtSullyUSMC folds [200 Tournament chips]
+happystan folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 9s ] board:[ 7h 9s]
+** Dealing Flop ** [ 2d ] board:[ 7h 9s 2d]
+QwertySpark bets for 200 Tournament chips
+Ken133 calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 7h 9s 2d As]
+QwertySpark goes all-in for 667 Tournament chips
+Ken133 folds [667 Tournament chips]
+QwertySpark is returned 667 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qh 2s 9s 2d As: a pair of deuces)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 0: Ken133 (2690 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1567 Tournament chips) 
+Game #24007712-43 ends
+Game #24007712-44 starts
+Seat 0: Ken133 (2690 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1567 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+QwertySpark posts the small blind [100 Tournament chips]
+Ken133 posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 2490 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9398 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand with 1685 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23410 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 737 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1467 Tournament chips.
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Qc 6h ]
+mistrfive folds [200 Tournament chips]
+CHIPAZILLA folds [200 Tournament chips]
+SgtSullyUSMC calls [200 Tournament chips]
+happystan folds [200 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Ken133 checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 7c ] board:[ 4h 7c]
+** Dealing Flop ** [ 9s ] board:[ 4h 7c 9s]
+Ken133 bets for 700 Tournament chips
+SgtSullyUSMC folds [700 Tournament chips]
+Ken133 is returned 700 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Ken133 (8d 9d 4h 7c 9s: a pair of nines)
+Ken133 wins main pot 500 Tournament chips.
+Seat 0: Ken133 (2990 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23210 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1467 Tournament chips) 
+Game #24007712-44 ends
+Game #24007712-45 starts
+Seat 0: Ken133 (2990 Tournament chips) 
+Seat 1: mistrfive (9398 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23210 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1467 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Ken133 posts the small blind [100 Tournament chips]
+mistrfive posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 2890 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9198 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1685 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23210 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 737 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1467 Tournament chips.
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 8d Th ]
+CHIPAZILLA folds [200 Tournament chips]
+SgtSullyUSMC raises [400 Tournament chips]
+happystan folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Ken133 folds [300 Tournament chips]
+mistrfive folds [200 Tournament chips]
+SgtSullyUSMC is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SgtSullyUSMC (Jc Ks: king high)
+SgtSullyUSMC wins main pot 500 Tournament chips.
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9198 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23510 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1467 Tournament chips) 
+Game #24007712-45 ends
+Game #24007712-46 starts
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9198 Tournament chips) 
+Seat 2: CHIPAZILLA (1685 Tournament chips) 
+Seat 4: SgtSullyUSMC (23510 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1467 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+mistrfive posts the small blind [100 Tournament chips]
+CHIPAZILLA posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 2890 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9098 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1485 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23510 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 737 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1467 Tournament chips.
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ Qs Ad ]
+SgtSullyUSMC calls [200 Tournament chips]
+happystan folds [200 Tournament chips]
+QwertySpark raises all-in [1467 Tournament chips]
+Ken133 folds [1467 Tournament chips]
+mistrfive folds [1367 Tournament chips]
+CHIPAZILLA folds [1267 Tournament chips]
+SgtSullyUSMC folds [1267 Tournament chips]
+QwertySpark is returned 1267 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qs Ad: ace high)
+QwertySpark wins main pot 700 Tournament chips.
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9098 Tournament chips) 
+Seat 2: CHIPAZILLA (1485 Tournament chips) 
+Seat 4: SgtSullyUSMC (23310 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1967 Tournament chips) 
+Game #24007712-46 ends
+Game #24007712-47 starts
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9098 Tournament chips) 
+Seat 2: CHIPAZILLA (1485 Tournament chips) 
+Seat 4: SgtSullyUSMC (23310 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1967 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+CHIPAZILLA posts the small blind [100 Tournament chips]
+SgtSullyUSMC posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 2890 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9098 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1385 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23110 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 737 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1967 Tournament chips.
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 6c 5h ]
+happystan folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Ken133 folds [200 Tournament chips]
+mistrfive folds [200 Tournament chips]
+CHIPAZILLA folds [100 Tournament chips]
+SgtSullyUSMC is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SgtSullyUSMC (8c 4h: eight high)
+SgtSullyUSMC wins main pot 200 Tournament chips.
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9098 Tournament chips) 
+Seat 2: CHIPAZILLA (1385 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1967 Tournament chips) 
+Game #24007712-47 ends
+Game #24007712-48 starts
+Seat 0: Ken133 (2890 Tournament chips) 
+Seat 1: mistrfive (9098 Tournament chips) 
+Seat 2: CHIPAZILLA (1385 Tournament chips) 
+Seat 4: SgtSullyUSMC (23410 Tournament chips) 
+Seat 6: happystan (737 Tournament chips) 
+Seat 8: QwertySpark (1967 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+SgtSullyUSMC posts the small blind [100 Tournament chips]
+happystan posts the big blind [200 Tournament chips]
+Ken133, at seat 0, is in this hand with 2890 Tournament chips.
+mistrfive, at seat 1, is in this hand (absent) with 9098 Tournament chips.
+CHIPAZILLA, at seat 2, is in this hand (absent) with 1385 Tournament chips.
+SgtSullyUSMC, at seat 4, is in this hand with 23310 Tournament chips.
+happystan, at seat 6, is in this hand (absent) with 537 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1967 Tournament chips.
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+SgtSullyUSMC is dealt: **
+happystan is dealt: **
+
+Ken133 is dealt: **
+mistrfive is dealt: **
+CHIPAZILLA is dealt: **
+Dealt to Ken133 [ **** ]
+Dealt to mistrfive [ **** ]
+Dealt to CHIPAZILLA [ **** ]
+Dealt to SgtSullyUSMC [ **** ]
+Dealt to happystan [ **** ]
+Dealt to QwertySpark [ 2s 2h ]
+QwertySpark calls [200 Tournament chips]
+Ken133 raises all-in [2890 Tournament chips]
+mistrfive folds [2890 Tournament chips]
+CHIPAZILLA folds [1385 Tournament chips]
+SgtSullyUSMC folds [2790 Tournament chips]
+happystan folds [537 Tournament chips]
+QwertySpark calls all-in [1767 Tournament chips]
+Ken133 is returned 923 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Ken133 shows [ As 7c ]
+QwertySpark shows [ 2s 2h ]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 5s ] board:[ 2d 5s]
+** Dealing Flop ** [ 7d ] board:[ 2d 5s 7d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 2d 5s 7d 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 2d 5s 7d 3c 4s]
+        (no action in this round)
+Round 4 is over.
+Ken133 shows [ As 7c ] straight, five high
+QwertySpark shows [ 2s 2h ] three deuces, seven/five kickers
+Ken133 wins main pot 4234 Tournament chips with straight, five high.
+Seat 0: Ken133 (5157 Tournament chips) 
+Seat 1: mistrfive (9098 Tournament chips) 
+Seat 2: CHIPAZILLA (1385 Tournament chips) 
+Seat 4: SgtSullyUSMC (23310 Tournament chips) 
+Seat 6: happystan (537 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #24007712-48 ends
+Player QwertySpark leaves the table with 0 Tournament chips

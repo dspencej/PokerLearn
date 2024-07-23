@@ -1,0 +1,727 @@
+Game#: 23983506
+bigdogro folds [20 Tournament chips]
+Canyon_Gal calls [20 Tournament chips]
+ussdavisdd937 folds [20 Tournament chips]
+JR2023 folds [20 Tournament chips]
+jawall folds [20 Tournament chips]
+TWO44 calls [20 Tournament chips]
+tytyty11 checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 2c ] board:[ Ks 2c]
+** Dealing Flop ** [ 6c ] board:[ Ks 2c 6c]
+tytyty11 checks
+Canyon_Gal checks
+TWO44 bets for 60 Tournament chips
+tytyty11 calls [60 Tournament chips]
+Canyon_Gal folds [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Ks 2c 6c Th]
+tytyty11 checks
+TWO44 bets for 180 Tournament chips
+tytyty11 calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Ks 2c 6c Th 9d]
+tytyty11 checks
+TWO44 checks
+Round 4 is over.
+tytyty11 shows [ Ah As Qc 8c ] a pair of aces
+Hand evaluation for tytyty11 (Ah As Ks Th 9d: a pair of aces)
+TWO44 shows [ Ad 9c Kd 6h ] two pair, kings and nines
+Hand evaluation for TWO44 (9c Kd Ks Th 9d: two pair, kings and nines)
+TWO44 wins main pot 540 Tournament chips with two pair, kings and nines, ten kicker.
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (720 Tournament chips) 
+Seat 5: bigdogro (965 Tournament chips) 
+Seat 6: Canyon_Gal (895 Tournament chips) 
+Seat 7: ussdavisdd937 (975 Tournament chips) 
+Game #23983506-9 ends
+Player Canyon_Gal leaves the table with 895 Tournament chips
+Game #23983506-10 starts
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (720 Tournament chips) 
+Seat 5: bigdogro (965 Tournament chips) 
+Seat 7: ussdavisdd937 (975 Tournament chips) 
+The button is at seat 2
+tytyty11 posts the small blind [15 Tournament chips]
+bigdogro posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 955 Tournament chips.
+TWO44, at seat 2, is in this hand with 1080 Tournament chips.
+tytyty11, at seat 4, is in this hand with 705 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 940 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 975 Tournament chips.
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+ussdavisdd937 folds [25 Tournament chips]
+JR2023 folds [25 Tournament chips]
+jawall folds [25 Tournament chips]
+TWO44 folds [25 Tournament chips]
+tytyty11 calls [10 Tournament chips]
+bigdogro folds
+round 1 is over.
+Hand evaluation for tytyty11 (-)
+tytyty11 wins main pot 50 Tournament chips.
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (745 Tournament chips) 
+Seat 5: bigdogro (940 Tournament chips) 
+Seat 7: ussdavisdd937 (975 Tournament chips) 
+Game #23983506-10 ends
+Game #23983506-11 starts
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (745 Tournament chips) 
+Seat 5: bigdogro (940 Tournament chips) 
+Seat 7: ussdavisdd937 (975 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+bigdogro posts the small blind [15 Tournament chips]
+ussdavisdd937 posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 955 Tournament chips.
+TWO44, at seat 2, is in this hand with 1080 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1000 Tournament chips.
+tytyty11, at seat 4, is in this hand with 745 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 950 Tournament chips.
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ 9h 7h 3c Ks ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+JR2023 folds [25 Tournament chips]
+jawall folds [25 Tournament chips]
+TWO44 folds [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+tytyty11 calls [25 Tournament chips]
+bigdogro folds [10 Tournament chips]
+ussdavisdd937 folds
+round 1 is over.
+Hand evaluation for tytyty11 (-)
+tytyty11 wins main pot 65 Tournament chips.
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (785 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (950 Tournament chips) 
+Game #23983506-11 ends
+Game #23983506-12 starts
+Seat 0: JR2023 (1000 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1080 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (785 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (950 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+ussdavisdd937 posts the small blind [15 Tournament chips]
+JR2023 posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 975 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 955 Tournament chips.
+TWO44, at seat 2, is in this hand with 1080 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1000 Tournament chips.
+tytyty11, at seat 4, is in this hand with 785 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ Qh 8s Kc 4d ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+jawall folds [25 Tournament chips]
+TWO44 calls [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+tytyty11 calls [25 Tournament chips]
+bigdogro folds [25 Tournament chips]
+ussdavisdd937 folds [10 Tournament chips]
+JR2023 folds
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 8h ] board:[ Jh 8h]
+** Dealing Flop ** [ Kd ] board:[ Jh 8h Kd]
+TWO44 checks
+tytyty11 bets for 90 Tournament chips
+TWO44 calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ Jh 8h Kd 7d]
+TWO44 checks
+tytyty11 bets for 270 Tournament chips
+TWO44 calls [270 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ Jh 8h Kd 7d Jd]
+TWO44 checks
+tytyty11 checks
+Round 4 is over.
+TWO44 shows [ 6d As Ks Qd ] flush, king high
+Hand evaluation for TWO44 (6d Qd Kd 7d Jd: flush, king high)
+tytyty11 doesn't show [ Qc 9h 7s Td ]
+(tytyty11 has Qc 9h 7s Td.)
+TWO44 wins main pot 810 Tournament chips with flush, king/queen/jack high.
+Seat 0: JR2023 (975 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1505 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (400 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-12 ends
+Game #23983506-13 starts
+Seat 0: JR2023 (975 Tournament chips) 
+Seat 1: jawall (955 Tournament chips) 
+Seat 2: TWO44 (1505 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: tytyty11 (400 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+JR2023 posts the small blind [15 Tournament chips]
+jawall posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 960 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 930 Tournament chips.
+TWO44, at seat 2, is in this hand with 1505 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1000 Tournament chips.
+tytyty11, at seat 4, is in this hand with 400 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ Tc 7s 6d Jd ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+TWO44 calls [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+tytyty11 folds [25 Tournament chips]
+bigdogro folds [25 Tournament chips]
+ussdavisdd937 folds [25 Tournament chips]
+JR2023 folds [10 Tournament chips]
+jawall folds
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Qs ] board:[ 7h Qs]
+** Dealing Flop ** [ 6s ] board:[ 7h Qs 6s]
+TWO44 bets for 50 Tournament chips
+QwertySpark raises [125 Tournament chips]
+TWO44 calls [75 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 7h Qs 6s 3c]
+TWO44 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 7h Qs 6s 3c Ah]
+TWO44 bets for 340 Tournament chips
+QwertySpark calls [340 Tournament chips]
+Round 4 is over.
+TWO44 shows [ 6c 9h 5c Qc ] two pair, queens and sixes
+Hand evaluation for TWO44 (6c Qc Qs 6s Ah: two pair, queens and sixes)
+QwertySpark doesn't show [ Tc 7s 6d Jd ]
+(QwertySpark has Tc 7s 6d Jd.)
+TWO44 wins main pot 1020 Tournament chips with two pair, queens and sixes, ace kicker.
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (930 Tournament chips) 
+Seat 2: TWO44 (2035 Tournament chips) 
+Seat 3: QwertySpark (510 Tournament chips) 
+Seat 4: tytyty11 (400 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-13 ends
+Game #23983506-14 starts
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (930 Tournament chips) 
+Seat 2: TWO44 (2035 Tournament chips) 
+Seat 3: QwertySpark (510 Tournament chips) 
+Seat 4: tytyty11 (400 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+jawall posts the small blind [15 Tournament chips]
+TWO44 posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 960 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 915 Tournament chips.
+TWO44, at seat 2, is in this hand with 2010 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 510 Tournament chips.
+tytyty11, at seat 4, is in this hand with 400 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ Kh Ad 2s Tc ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+QwertySpark calls [25 Tournament chips]
+tytyty11 calls [25 Tournament chips]
+bigdogro folds [25 Tournament chips]
+ussdavisdd937 folds [25 Tournament chips]
+JR2023 folds [25 Tournament chips]
+jawall folds [10 Tournament chips]
+TWO44 checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 9c ] board:[ 6c 9c]
+** Dealing Flop ** [ 9h ] board:[ 6c 9c 9h]
+TWO44 checks
+QwertySpark checks
+tytyty11 checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 6c 9c 9h 6h]
+TWO44 checks
+QwertySpark checks
+tytyty11 checks
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 6c 9c 9h 6h 7d]
+TWO44 checks
+QwertySpark checks
+tytyty11 checks
+Round 4 is over.
+TWO44 shows [ 8s 3h Jc Ks ] a pair of nines
+Hand evaluation for TWO44 (Jc Ks 9c 9h 7d: a pair of nines)
+QwertySpark shows [ Kh Ad 2s Tc ] a pair of nines
+Hand evaluation for QwertySpark (Kh Ad 9c 9h 7d: a pair of nines)
+tytyty11 doesn't show [ Kd Jd 4c 2h ]
+(tytyty11 has Kd Jd 4c 2h.)
+QwertySpark wins main pot 90 Tournament chips with a pair of nines, ace/king kickers.
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (2010 Tournament chips) 
+Seat 3: QwertySpark (575 Tournament chips) 
+Seat 4: tytyty11 (375 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-14 ends
+Game #23983506-15 starts
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (2010 Tournament chips) 
+Seat 3: QwertySpark (575 Tournament chips) 
+Seat 4: tytyty11 (375 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+TWO44 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [25 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 960 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 915 Tournament chips.
+TWO44, at seat 2, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 550 Tournament chips.
+tytyty11, at seat 4, is in this hand with 375 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ 9s 9h Js 4s ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+tytyty11 calls [25 Tournament chips]
+bigdogro folds [25 Tournament chips]
+ussdavisdd937 folds [25 Tournament chips]
+JR2023 folds [25 Tournament chips]
+jawall folds [25 Tournament chips]
+TWO44 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 5s ] board:[ 5h 5s]
+** Dealing Flop ** [ 3h ] board:[ 5h 5s 3h]
+TWO44 checks
+QwertySpark checks
+tytyty11 checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 5h 5s 3h 3d]
+TWO44 checks
+QwertySpark has timed out - the hand is checked
+tytyty11 checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 5h 5s 3h 3d Jh]
+TWO44 checks
+QwertySpark has timed out - the hand is checked
+tytyty11 checks
+Round 4 is over.
+TWO44 shows [ 2d 7h Tc 6s ] a pair of fives
+Hand evaluation for TWO44 (7h Tc 5h 5s Jh: a pair of fives)
+QwertySpark shows [ 9s 9h Js 4s ] two pair, jacks and fives
+Hand evaluation for QwertySpark (9s Js 5h 5s Jh: two pair, jacks and fives)
+tytyty11 shows [ 6c Td Qh Jd ] two pair, jacks and fives
+Hand evaluation for tytyty11 (Qh Jd 5h 5s Jh: two pair, jacks and fives)
+tytyty11 wins main pot 75 Tournament chips with two pair, jacks and fives, queen kicker.
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (1985 Tournament chips) 
+Seat 3: QwertySpark (550 Tournament chips) 
+Seat 4: tytyty11 (425 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-15 ends
+Game #23983506-16 starts
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (1985 Tournament chips) 
+Seat 3: QwertySpark (550 Tournament chips) 
+Seat 4: tytyty11 (425 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [25 Tournament chips]
+tytyty11 posts the big blind [50 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 960 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 915 Tournament chips.
+TWO44, at seat 2, is in this hand with 1985 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 525 Tournament chips.
+tytyty11, at seat 4, is in this hand with 375 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 925 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ 9d Jd 9h Qc ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+bigdogro folds [50 Tournament chips]
+ussdavisdd937 folds [50 Tournament chips]
+JR2023 folds [50 Tournament chips]
+jawall folds [50 Tournament chips]
+TWO44 calls [50 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+tytyty11 checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 4s ] board:[ As 4s]
+** Dealing Flop ** [ 6c ] board:[ As 4s 6c]
+tytyty11 checks
+TWO44 bets for 50 Tournament chips
+tytyty11 folds [50 Tournament chips]
+TWO44 is returned 50 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for TWO44 (Th Ah As 4s 6c: a pair of aces)
+TWO44 wins main pot 125 Tournament chips.
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (2060 Tournament chips) 
+Seat 3: QwertySpark (525 Tournament chips) 
+Seat 4: tytyty11 (375 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-16 ends
+Game #23983506-17 starts
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (2060 Tournament chips) 
+Seat 3: QwertySpark (525 Tournament chips) 
+Seat 4: tytyty11 (375 Tournament chips) 
+Seat 5: bigdogro (925 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+tytyty11 posts the small blind [25 Tournament chips]
+bigdogro posts the big blind [50 Tournament chips]
+JR2023, at seat 0, is in this hand (absent) with 960 Tournament chips.
+jawall, at seat 1, is in this hand (absent) with 915 Tournament chips.
+TWO44, at seat 2, is in this hand with 2060 Tournament chips.
+QwertySpark, at seat 3, is in this hand (absent) with 525 Tournament chips.
+tytyty11, at seat 4, is in this hand with 350 Tournament chips.
+bigdogro, at seat 5, is in this hand (absent) with 875 Tournament chips.
+ussdavisdd937, at seat 7, is in this hand (absent) with 935 Tournament chips.
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+tytyty11 is dealt: **
+bigdogro is dealt: **
+ussdavisdd937 is dealt: **
+JR2023 is dealt: **
+jawall is dealt: **
+TWO44 is dealt: **
+
+Dealt to JR2023 [ **** ]
+Dealt to jawall [ **** ]
+Dealt to TWO44 [ **** ]
+Dealt to QwertySpark [ 4d 6s Ac Ts ]
+Dealt to tytyty11 [ **** ]
+Dealt to bigdogro [ **** ]
+Dealt to ussdavisdd937 [ **** ]
+ussdavisdd937 folds [50 Tournament chips]
+JR2023 folds [50 Tournament chips]
+jawall folds [50 Tournament chips]
+TWO44 calls [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+tytyty11 calls [25 Tournament chips]
+bigdogro folds
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 6h ] board:[ Td 6h]
+** Dealing Flop ** [ Kd ] board:[ Td 6h Kd]
+tytyty11 checks
+TWO44 bets for 50 Tournament chips
+tytyty11 calls [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Td 6h Kd Th]
+tytyty11 checks
+TWO44 checks
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Td 6h Kd Th Ad]
+tytyty11 bets for 250 Tournament chips
+TWO44 raises [500 Tournament chips]
+tytyty11 calls all-in [25 Tournament chips]
+TWO44 is returned 225 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TWO44 shows [ Jd 5h Ks 8d ]
+tytyty11 shows [ 4s Qh 5c Jc ]
+Round 4 is over.
+TWO44 shows [ Jd 5h Ks 8d ] flush, ace/king/jack high
+tytyty11 shows [ 4s Qh 5c Jc ] straight, ace high
+TWO44 wins main pot 800 Tournament chips with flush, ace/king/jack high.
+Seat 0: JR2023 (960 Tournament chips) 
+Seat 1: jawall (915 Tournament chips) 
+Seat 2: TWO44 (2485 Tournament chips) 
+Seat 3: QwertySpark (525 Tournament chips) 
+Seat 4: tytyty11 (0 Tournament chips) 
+Seat 5: bigdogro (875 Tournament chips) 
+Seat 7: ussdavisdd937 (935 Tournament chips) 
+Game #23983506-17 ends
+Player tytyty11 leaves the table with 0 Tournament chips
+Player jawall leaves the table with 0 Tournament chips
+Player ussdavisdd937 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 525 Tournament chips
+Player JR2023 leaves the table with 960 Tournament chips
+Player TWO44 leaves the table with 2485 Tournament chips
+Player bigdogro leaves the table with 875 Tournament chips

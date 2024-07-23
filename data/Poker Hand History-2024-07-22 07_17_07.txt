@@ -1,0 +1,567 @@
+Game#: 23963148
+GoCincyReds folds [20 Tournament chips]
+Pleiades Stars calls [20 Tournament chips]
+minkman folds [10 Tournament chips]
+DHBloomfield folds
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 5s ] board:[ 7h 5s]
+** Dealing Flop ** [ Jh ] board:[ 7h 5s Jh]
+IndioJim bets for 100 Tournament chips
+Pleiades Stars calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 7h 5s Jh Ac]
+IndioJim bets for 100 Tournament chips
+Pleiades Stars raises [570 Tournament chips]
+IndioJim folds [470 Tournament chips]
+Pleiades Stars is returned 470 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Pleiades Stars (8c Th 7h Jh Ac: ace high)
+Pleiades Stars wins main pot 470 Tournament chips.
+Seat 0: GoCincyReds (2000 Tournament chips) 
+Seat 1: Pleiades Stars (3445 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1965 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: PapaJeff64 (1935 Tournament chips) 
+Seat 6: Tdinindy (1885 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+Game #23963148-10 ends
+Game #23963148-11 starts
+Seat 0: GoCincyReds (2000 Tournament chips) 
+Seat 1: Pleiades Stars (3445 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1965 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: PapaJeff64 (1935 Tournament chips) 
+Seat 6: Tdinindy (1885 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DHBloomfield posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 2000 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 3445 Tournament chips.
+minkman, at seat 2, is in this hand with 5050 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1970 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 1935 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1885 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1980 Tournament chips.
+IndioJim, at seat 8, is in this hand with 1740 Tournament chips.
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ 8c 6c ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+PapaJeff64 folds [30 Tournament chips]
+Tdinindy calls [30 Tournament chips]
+biggistnuts folds [30 Tournament chips]
+IndioJim folds [30 Tournament chips]
+GoCincyReds folds [30 Tournament chips]
+Pleiades Stars calls [30 Tournament chips]
+minkman folds [30 Tournament chips]
+DHBloomfield folds [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Td ] board:[ 8d Td]
+** Dealing Flop ** [ 3s ] board:[ 8d Td 3s]
+QwertySpark bets for 82 Tournament chips
+Tdinindy folds [82 Tournament chips]
+Pleiades Stars calls [82 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 8d Td 3s 2s]
+QwertySpark bets for 210 Tournament chips
+Pleiades Stars calls [210 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 8d Td 3s 2s 6d]
+QwertySpark bets for 150 Tournament chips
+Pleiades Stars calls [150 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 8c 6c ] two pair, eights and sixes
+Hand evaluation for QwertySpark (8c 6c 8d Td 6d: two pair, eights and sixes)
+Pleiades Stars doesn't show [ 5d Ah ]
+(Pleiades Stars has 5d Ah.)
+QwertySpark wins main pot 989 Tournament chips with two pair, eights and sixes, ten kicker.
+Seat 0: GoCincyReds (2000 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2517 Tournament chips) 
+Seat 5: PapaJeff64 (1935 Tournament chips) 
+Seat 6: Tdinindy (1855 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+Game #23963148-11 ends
+Game #23963148-12 starts
+Seat 0: GoCincyReds (2000 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2517 Tournament chips) 
+Seat 5: PapaJeff64 (1935 Tournament chips) 
+Seat 6: Tdinindy (1855 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [15 Tournament chips]
+PapaJeff64 posts the big blind [30 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 2000 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 2973 Tournament chips.
+minkman, at seat 2, is in this hand with 5050 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2502 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 1905 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1855 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1980 Tournament chips.
+IndioJim, at seat 8, is in this hand with 1740 Tournament chips.
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ Kh 3s ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+Tdinindy folds [30 Tournament chips]
+biggistnuts folds [30 Tournament chips]
+IndioJim folds [30 Tournament chips]
+GoCincyReds calls [30 Tournament chips]
+Pleiades Stars folds [30 Tournament chips]
+minkman folds [30 Tournament chips]
+DHBloomfield folds [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+PapaJeff64 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 2s ] board:[ Qs 2s]
+** Dealing Flop ** [ 9d ] board:[ Qs 2s 9d]
+QwertySpark checks
+PapaJeff64 bets for 90 Tournament chips
+GoCincyReds folds [90 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+PapaJeff64 is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for PapaJeff64 (8c Qc Qs 2s 9d: a pair of queens)
+PapaJeff64 wins main pot 90 Tournament chips.
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2487 Tournament chips) 
+Seat 5: PapaJeff64 (1995 Tournament chips) 
+Seat 6: Tdinindy (1855 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+Game #23963148-12 ends
+Game #23963148-13 starts
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (5050 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2487 Tournament chips) 
+Seat 5: PapaJeff64 (1995 Tournament chips) 
+Seat 6: Tdinindy (1855 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (1740 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+PapaJeff64 posts the small blind [15 Tournament chips]
+Tdinindy posts the big blind [30 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 1970 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 2973 Tournament chips.
+minkman, at seat 2, is in this hand with 5050 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2487 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 1980 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1825 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1980 Tournament chips.
+IndioJim, at seat 8, is in this hand with 1740 Tournament chips.
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ 7d 6s ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+biggistnuts folds [30 Tournament chips]
+IndioJim raises [240 Tournament chips]
+GoCincyReds folds [240 Tournament chips]
+Pleiades Stars folds [240 Tournament chips]
+minkman calls [240 Tournament chips]
+DHBloomfield folds [240 Tournament chips]
+QwertySpark folds [240 Tournament chips]
+PapaJeff64 calls [225 Tournament chips]
+Tdinindy folds [210 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 2c ] board:[ 9c 2c]
+** Dealing Flop ** [ 7s ] board:[ 9c 2c 7s]
+PapaJeff64 checks
+IndioJim bets for 390 Tournament chips
+minkman folds [390 Tournament chips]
+PapaJeff64 folds [390 Tournament chips]
+IndioJim is returned 390 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for IndioJim (Qd Qs 9c 2c 7s: a pair of queens)
+IndioJim wins main pot 750 Tournament chips.
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2487 Tournament chips) 
+Seat 5: PapaJeff64 (1755 Tournament chips) 
+Seat 6: Tdinindy (1825 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (2250 Tournament chips) 
+Game #23963148-13 ends
+Game #23963148-14 starts
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (2973 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2487 Tournament chips) 
+Seat 5: PapaJeff64 (1755 Tournament chips) 
+Seat 6: Tdinindy (1825 Tournament chips) 
+Seat 7: biggistnuts (1980 Tournament chips) 
+Seat 8: IndioJim (2250 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Tdinindy posts the small blind [15 Tournament chips]
+biggistnuts posts the big blind [30 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 1970 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 2973 Tournament chips.
+minkman, at seat 2, is in this hand with 4810 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2487 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 1755 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1810 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1950 Tournament chips.
+IndioJim, at seat 8, is in this hand with 2250 Tournament chips.
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ 3h Ah ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+IndioJim folds [30 Tournament chips]
+GoCincyReds folds [30 Tournament chips]
+Pleiades Stars calls [30 Tournament chips]
+minkman folds [30 Tournament chips]
+DHBloomfield folds [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+PapaJeff64 calls [150 Tournament chips]
+Tdinindy folds [135 Tournament chips]
+biggistnuts folds [120 Tournament chips]
+Pleiades Stars calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Js ] board:[ 8d Js]
+** Dealing Flop ** [ 7d ] board:[ 8d Js 7d]
+Pleiades Stars checks
+QwertySpark bets for 277 Tournament chips
+PapaJeff64 raises all-in [1605 Tournament chips]
+Pleiades Stars calls [1605 Tournament chips]
+QwertySpark folds [1328 Tournament chips]
+Tournament all-in showdown -- players show:
+Pleiades Stars shows [ Kc 6c ]
+PapaJeff64 shows [ 8c Qc ]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 8d Js 7d 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 8d Js 7d 9s 7h]
+        (no action in this round)
+Round 4 is over.
+Pleiades Stars shows [ Kc 6c ] a pair of sevens, king/jack kickers
+PapaJeff64 shows [ 8c Qc ] two pair, eights and sevens, queen kicker
+PapaJeff64 wins main pot 3982 Tournament chips with two pair, eights and sevens, queen kicker.
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (1218 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2060 Tournament chips) 
+Seat 5: PapaJeff64 (3982 Tournament chips) 
+Seat 6: Tdinindy (1810 Tournament chips) 
+Seat 7: biggistnuts (1950 Tournament chips) 
+Seat 8: IndioJim (2250 Tournament chips) 
+Game #23963148-14 ends
+Game #23963148-15 starts
+Seat 0: GoCincyReds (1970 Tournament chips) 
+Seat 1: Pleiades Stars (1218 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2060 Tournament chips) 
+Seat 5: PapaJeff64 (3982 Tournament chips) 
+Seat 6: Tdinindy (1810 Tournament chips) 
+Seat 7: biggistnuts (1950 Tournament chips) 
+Seat 8: IndioJim (2250 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+biggistnuts posts the small blind [15 Tournament chips]
+IndioJim posts the big blind [30 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 1970 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 1218 Tournament chips.
+minkman, at seat 2, is in this hand with 4810 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2060 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 3982 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1810 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1935 Tournament chips.
+IndioJim, at seat 8, is in this hand with 2220 Tournament chips.
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ Kc 2d ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+GoCincyReds calls [30 Tournament chips]
+Pleiades Stars calls [30 Tournament chips]
+minkman folds [30 Tournament chips]
+DHBloomfield folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+PapaJeff64 folds [30 Tournament chips]
+Tdinindy folds [30 Tournament chips]
+biggistnuts folds [15 Tournament chips]
+IndioJim checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Kd ] board:[ Td Kd]
+** Dealing Flop ** [ 3s ] board:[ Td Kd 3s]
+IndioJim bets for 30 Tournament chips
+GoCincyReds calls [30 Tournament chips]
+Pleiades Stars folds [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Td Kd 3s Qh]
+IndioJim bets for 30 Tournament chips
+GoCincyReds raises [60 Tournament chips]
+IndioJim calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Td Kd 3s Qh Qd]
+IndioJim checks
+GoCincyReds bets for 30 Tournament chips
+IndioJim calls [30 Tournament chips]
+Round 4 is over.
+GoCincyReds shows [ Ah Jd ] straight, ace high
+Hand evaluation for GoCincyReds (Ah Jd Td Kd Qh: straight, ace high)
+IndioJim doesn't show [ 4d Tc ]
+(IndioJim has 4d Tc.)
+GoCincyReds wins main pot 345 Tournament chips with straight, ace high.
+Seat 0: GoCincyReds (2165 Tournament chips) 
+Seat 1: Pleiades Stars (1188 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2060 Tournament chips) 
+Seat 5: PapaJeff64 (3982 Tournament chips) 
+Seat 6: Tdinindy (1810 Tournament chips) 
+Seat 7: biggistnuts (1935 Tournament chips) 
+Seat 8: IndioJim (2100 Tournament chips) 
+Game #23963148-15 ends
+Game #23963148-16 starts
+Seat 0: GoCincyReds (2165 Tournament chips) 
+Seat 1: Pleiades Stars (1188 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (2060 Tournament chips) 
+Seat 5: PapaJeff64 (3982 Tournament chips) 
+Seat 6: Tdinindy (1810 Tournament chips) 
+Seat 7: biggistnuts (1935 Tournament chips) 
+Seat 8: IndioJim (2100 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+IndioJim posts the small blind [20 Tournament chips]
+GoCincyReds posts the big blind [40 Tournament chips]
+GoCincyReds, at seat 0, is in this hand with 2125 Tournament chips.
+Pleiades Stars, at seat 1, is in this hand with 1188 Tournament chips.
+minkman, at seat 2, is in this hand with 4810 Tournament chips.
+DHBloomfield, at seat 3, is in this hand (absent) with 1950 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2060 Tournament chips.
+PapaJeff64, at seat 5, is in this hand with 3982 Tournament chips.
+Tdinindy, at seat 6, is in this hand with 1810 Tournament chips.
+biggistnuts, at seat 7, is in this hand (absent) with 1935 Tournament chips.
+IndioJim, at seat 8, is in this hand with 2080 Tournament chips.
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+IndioJim is dealt: **
+GoCincyReds is dealt: **
+Pleiades Stars is dealt: **
+minkman is dealt: **
+DHBloomfield is dealt: **
+
+PapaJeff64 is dealt: **
+Tdinindy is dealt: **
+biggistnuts is dealt: **
+Dealt to GoCincyReds [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to minkman [ **** ]
+Dealt to DHBloomfield [ **** ]
+Dealt to QwertySpark [ 7c 7s ]
+Dealt to PapaJeff64 [ **** ]
+Dealt to Tdinindy [ **** ]
+Dealt to biggistnuts [ **** ]
+Dealt to IndioJim [ **** ]
+Pleiades Stars folds [40 Tournament chips]
+minkman folds [40 Tournament chips]
+DHBloomfield folds [40 Tournament chips]
+QwertySpark raises [160 Tournament chips]
+PapaJeff64 folds [160 Tournament chips]
+Tdinindy calls [160 Tournament chips]
+biggistnuts folds [160 Tournament chips]
+IndioJim calls [140 Tournament chips]
+GoCincyReds folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 9s ] board:[ 6d 9s]
+** Dealing Flop ** [ 4d ] board:[ 6d 9s 4d]
+IndioJim bets for 200 Tournament chips
+QwertySpark raises [480 Tournament chips]
+Tdinindy calls [480 Tournament chips]
+IndioJim calls [280 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 6d 9s 4d 2d]
+IndioJim checks
+QwertySpark bets for 980 Tournament chips
+Tdinindy raises all-in [1170 Tournament chips]
+IndioJim raises all-in [1460 Tournament chips]
+QwertySpark calls all-in [440 Tournament chips]
+IndioJim is returned 40 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7c 7s ]
+Tdinindy shows [ 9d Td ]
+IndioJim shows [ Kd Ks ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 6d 9s 4d 2d 5s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7c 7s ] a pair of sevens, nine/six kickers
+Tdinindy shows [ 9d Td ] flush, ten/nine/six high
+IndioJim shows [ Kd Ks ] a pair of kings, nine/six kickers
+Tdinindy wins main pot 5470 Tournament chips with flush, ten/nine/six high.
+IndioJim wins side pot #1 500 Tournament chips with a pair of kings, nine/six kickers.
+Seat 0: GoCincyReds (2125 Tournament chips) 
+Seat 1: Pleiades Stars (1188 Tournament chips) 
+Seat 2: minkman (4810 Tournament chips) 
+Seat 3: DHBloomfield (1950 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: PapaJeff64 (3982 Tournament chips) 
+Seat 6: Tdinindy (5470 Tournament chips) 
+Seat 7: biggistnuts (1935 Tournament chips) 
+Seat 8: IndioJim (540 Tournament chips) 
+Game #23963148-16 ends
+Player biggistnuts leaves the table with 0 Tournament chips
+Player DHBloomfield leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

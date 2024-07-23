@@ -1,0 +1,1959 @@
+Game#: 23842526
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+QwertySpark is dealt: 7h
+Blind Bri is dealt: **
+Remi2 is dealt: **
+The button is moved to seat 0.
+Game #23842526-1 starts
+Seat 0: warbird33 (1500 Tournament chips) 
+Seat 1: ScarecrowNam (1500 Tournament chips) 
+Seat 2: Jerich0 (1500 Tournament chips) 
+Seat 3: Rattlebrain (1500 Tournament chips) 
+Seat 4: Demeter29 (1500 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1500 Tournament chips) 
+Seat 8: Remi2 (1500 Tournament chips) 
+The button is at seat 0
+ScarecrowNam posts the small blind [5 Tournament chips]
+Jerich0 posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1500 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 1490 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1500 Tournament chips.
+Demeter29, at seat 4, is in this hand with 1500 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1500 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1500 Tournament chips.
+Remi2, at seat 8, is in this hand with 1500 Tournament chips.
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 8s 9h ]
+Dealt to Blind Bri [ **** ]
+Dealt to Remi2 [ **** ]
+Rattlebrain folds [10 Tournament chips]
+Demeter29 raises [35 Tournament chips]
+Deedee4123 folds [35 Tournament chips]
+QwertySpark folds [35 Tournament chips]
+Blind Bri calls [35 Tournament chips]
+Remi2 re-raises [60 Tournament chips]
+warbird33 folds [60 Tournament chips]
+ScarecrowNam folds [55 Tournament chips]
+Jerich0 folds [50 Tournament chips]
+Demeter29 calls [25 Tournament chips]
+Blind Bri calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 4d ] board:[ Tc 4d]
+** Dealing Flop ** [ 8h ] board:[ Tc 4d 8h]
+Demeter29 checks
+Blind Bri checks
+Remi2 checks
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Tc 4d 8h Kc]
+Demeter29 checks
+Blind Bri checks
+Remi2 bets for 446 Tournament chips
+Demeter29 folds [446 Tournament chips]
+Blind Bri folds [446 Tournament chips]
+Remi2 is returned 446 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Remi2 (Th Td Tc 8h Kc: three tens)
+Remi2 wins main pot 195 Tournament chips.
+Seat 0: warbird33 (1500 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (1490 Tournament chips) 
+Seat 3: Rattlebrain (1500 Tournament chips) 
+Seat 4: Demeter29 (1440 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1440 Tournament chips) 
+Seat 8: Remi2 (1635 Tournament chips) 
+Game #23842526-1 ends
+Game #23842526-2 starts
+Seat 0: warbird33 (1500 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (1490 Tournament chips) 
+Seat 3: Rattlebrain (1500 Tournament chips) 
+Seat 4: Demeter29 (1440 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1440 Tournament chips) 
+Seat 8: Remi2 (1635 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jerich0 posts the small blind [5 Tournament chips]
+Rattlebrain posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1500 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 1485 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1490 Tournament chips.
+Demeter29, at seat 4, is in this hand with 1440 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1500 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1440 Tournament chips.
+Remi2, at seat 8, is in this hand with 1635 Tournament chips.
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Jd 9s ]
+Dealt to Blind Bri [ **** ]
+Dealt to Remi2 [ **** ]
+Demeter29 calls [10 Tournament chips]
+Deedee4123 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Blind Bri calls [10 Tournament chips]
+Remi2 calls [10 Tournament chips]
+warbird33 raises [20 Tournament chips]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 re-raises [195 Tournament chips]
+Rattlebrain folds [190 Tournament chips]
+Demeter29 folds [190 Tournament chips]
+Blind Bri calls [190 Tournament chips]
+Remi2 calls [190 Tournament chips]
+warbird33 folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 6s ] board:[ 5d 6s]
+** Dealing Flop ** [ 2d ] board:[ 5d 6s 2d]
+Jerich0 bets for 320 Tournament chips
+Blind Bri folds [320 Tournament chips]
+Remi2 calls [320 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 5d 6s 2d 5c]
+Jerich0 goes all-in for 970 Tournament chips
+Remi2 calls [970 Tournament chips]
+Tournament all-in showdown -- players show:
+Jerich0 shows [ Tc Ah ]
+Remi2 shows [ 4c Ac ]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 5d 6s 2d 5c 9d]
+        (no action in this round)
+Round 4 is over.
+Jerich0 shows [ Tc Ah ] a pair of fives, ace/ten kickers
+Remi2 shows [ 4c Ac ] a pair of fives, ace/nine kickers
+Jerich0 wins main pot 3220 Tournament chips with a pair of fives, ace/ten kickers.
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3220 Tournament chips) 
+Seat 3: Rattlebrain (1490 Tournament chips) 
+Seat 4: Demeter29 (1430 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1240 Tournament chips) 
+Seat 8: Remi2 (145 Tournament chips) 
+Game #23842526-2 ends
+Game #23842526-3 starts
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3220 Tournament chips) 
+Seat 3: Rattlebrain (1490 Tournament chips) 
+Seat 4: Demeter29 (1430 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1240 Tournament chips) 
+Seat 8: Remi2 (145 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Rattlebrain posts the small blind [5 Tournament chips]
+Demeter29 posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1480 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3220 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1485 Tournament chips.
+Demeter29, at seat 4, is in this hand with 1420 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1500 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1240 Tournament chips.
+Remi2, at seat 8, is in this hand with 145 Tournament chips.
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Remi2 is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 2c 4h ]
+Dealt to Blind Bri [ **** ]
+Dealt to Remi2 [ **** ]
+Deedee4123 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Blind Bri calls [10 Tournament chips]
+Remi2 raises all-in [145 Tournament chips]
+warbird33 folds [145 Tournament chips]
+ScarecrowNam folds [145 Tournament chips]
+Jerich0 folds [145 Tournament chips]
+Rattlebrain calls [140 Tournament chips]
+Demeter29 calls [135 Tournament chips]
+Blind Bri calls [135 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ Th ] board:[ 6d Th]
+** Dealing Flop ** [ 9h ] board:[ 6d Th 9h]
+Rattlebrain bets for 290 Tournament chips
+Demeter29 calls [290 Tournament chips]
+Blind Bri folds [290 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 6d Th 9h 6s]
+Rattlebrain checks
+Demeter29 checks
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 6d Th 9h 6s Ad]
+Rattlebrain bets for 40 Tournament chips
+Demeter29 folds [40 Tournament chips]
+Rattlebrain is returned 40 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rattlebrain shows [ Kc 2d ]
+Remi2 shows [ 8h Jd ]
+Round 4 is over.
+Rattlebrain shows [ Kc 2d ] a pair of sixes, ace/king kickers
+Remi2 shows [ 8h Jd ] a pair of sixes, ace/jack kickers
+Rattlebrain wins main pot 580 Tournament chips with a pair of sixes, ace/king kickers.
+Rattlebrain wins side pot #1 580 Tournament chips with a pair of sixes, ace/king kickers.
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3220 Tournament chips) 
+Seat 3: Rattlebrain (2215 Tournament chips) 
+Seat 4: Demeter29 (995 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1095 Tournament chips) 
+Seat 8: Remi2 (0 Tournament chips) 
+Game #23842526-3 ends
+Player Remi2 leaves the table with 0 Tournament chips
+Game #23842526-4 starts
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3220 Tournament chips) 
+Seat 3: Rattlebrain (2215 Tournament chips) 
+Seat 4: Demeter29 (995 Tournament chips) 
+Seat 5: Deedee4123 (1500 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1095 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Demeter29 posts the small blind [5 Tournament chips]
+Deedee4123 posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1480 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3220 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 2215 Tournament chips.
+Demeter29, at seat 4, is in this hand with 990 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1490 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1500 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1095 Tournament chips.
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 5d 9c ]
+Dealt to Blind Bri [ **** ]
+QwertySpark folds [10 Tournament chips]
+Blind Bri folds [10 Tournament chips]
+warbird33 folds [10 Tournament chips]
+ScarecrowNam folds [10 Tournament chips]
+Jerich0 calls [10 Tournament chips]
+Rattlebrain raises [40 Tournament chips]
+Demeter29 calls [35 Tournament chips]
+Deedee4123 folds [30 Tournament chips]
+Jerich0 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 7s ] board:[ 8c 7s]
+** Dealing Flop ** [ Qs ] board:[ 8c 7s Qs]
+Demeter29 bets for 10 Tournament chips
+Jerich0 calls [10 Tournament chips]
+Rattlebrain raises [170 Tournament chips]
+Demeter29 folds [160 Tournament chips]
+Jerich0 calls [160 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 8c 7s Qs Kc]
+Jerich0 checks
+Rattlebrain checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 8c 7s Qs Kc 3c]
+Jerich0 checks
+Rattlebrain bets for 240 Tournament chips
+Jerich0 calls [240 Tournament chips]
+Round 4 is over.
+Rattlebrain shows [ 9s Js ] king high
+Hand evaluation for Rattlebrain (9s Js 8c Qs Kc: king high)
+Jerich0 shows [ 8d Jd ] a pair of eights
+Hand evaluation for Jerich0 (8d Jd 8c Qs Kc: a pair of eights)
+Jerich0 wins main pot 960 Tournament chips with a pair of eights, king/queen kickers.
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3730 Tournament chips) 
+Seat 3: Rattlebrain (1765 Tournament chips) 
+Seat 4: Demeter29 (945 Tournament chips) 
+Seat 5: Deedee4123 (1490 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1095 Tournament chips) 
+Game #23842526-4 ends
+Game #23842526-5 starts
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3730 Tournament chips) 
+Seat 3: Rattlebrain (1765 Tournament chips) 
+Seat 4: Demeter29 (945 Tournament chips) 
+Seat 5: Deedee4123 (1490 Tournament chips) 
+Seat 6: QwertySpark (1500 Tournament chips) 
+Seat 7: Blind Bri (1095 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Deedee4123 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1480 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3730 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1765 Tournament chips.
+Demeter29, at seat 4, is in this hand with 945 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1485 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1490 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1095 Tournament chips.
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 4d Ts ]
+Dealt to Blind Bri [ **** ]
+Blind Bri calls [10 Tournament chips]
+warbird33 folds [10 Tournament chips]
+ScarecrowNam folds [10 Tournament chips]
+Jerich0 folds [10 Tournament chips]
+Rattlebrain raises [40 Tournament chips]
+Demeter29 calls [40 Tournament chips]
+Deedee4123 folds [35 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Blind Bri calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Kc ] board:[ 7d Kc]
+** Dealing Flop ** [ 7s ] board:[ 7d Kc 7s]
+Blind Bri checks
+Rattlebrain bets for 67 Tournament chips
+Demeter29 folds [67 Tournament chips]
+Blind Bri folds [67 Tournament chips]
+Rattlebrain is returned 67 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Rattlebrain (Ad 8c 7d Kc 7s: a pair of sevens)
+Rattlebrain wins main pot 135 Tournament chips.
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3730 Tournament chips) 
+Seat 3: Rattlebrain (1860 Tournament chips) 
+Seat 4: Demeter29 (905 Tournament chips) 
+Seat 5: Deedee4123 (1485 Tournament chips) 
+Seat 6: QwertySpark (1490 Tournament chips) 
+Seat 7: Blind Bri (1055 Tournament chips) 
+Game #23842526-5 ends
+Game #23842526-6 starts
+Seat 0: warbird33 (1480 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (3730 Tournament chips) 
+Seat 3: Rattlebrain (1860 Tournament chips) 
+Seat 4: Demeter29 (905 Tournament chips) 
+Seat 5: Deedee4123 (1485 Tournament chips) 
+Seat 6: QwertySpark (1490 Tournament chips) 
+Seat 7: Blind Bri (1055 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [5 Tournament chips]
+Blind Bri posts the big blind [10 Tournament chips]
+warbird33, at seat 0, is in this hand with 1480 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3730 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1860 Tournament chips.
+Demeter29, at seat 4, is in this hand with 905 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1485 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1485 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1045 Tournament chips.
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Jh 9s ]
+Dealt to Blind Bri [ **** ]
+warbird33 calls [10 Tournament chips]
+ScarecrowNam folds [10 Tournament chips]
+Jerich0 raises [300 Tournament chips]
+Rattlebrain calls [300 Tournament chips]
+Demeter29 folds [300 Tournament chips]
+Deedee4123 folds [300 Tournament chips]
+QwertySpark folds [295 Tournament chips]
+Blind Bri folds [290 Tournament chips]
+warbird33 folds [290 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 2d ] board:[ Ac 2d]
+** Dealing Flop ** [ Tc ] board:[ Ac 2d Tc]
+Jerich0 bets for 10 Tournament chips
+Rattlebrain calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Ac 2d Tc 4h]
+Jerich0 bets for 10 Tournament chips
+Rattlebrain calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ Ac 2d Tc 4h 9c]
+Jerich0 bets for 665 Tournament chips
+Rattlebrain folds [665 Tournament chips]
+Jerich0 is returned 665 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Jerich0 (Th As Ac Tc 9c: two pair, aces and tens)
+Jerich0 wins main pot 665 Tournament chips.
+Seat 0: warbird33 (1470 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (4075 Tournament chips) 
+Seat 3: Rattlebrain (1540 Tournament chips) 
+Seat 4: Demeter29 (905 Tournament chips) 
+Seat 5: Deedee4123 (1485 Tournament chips) 
+Seat 6: QwertySpark (1485 Tournament chips) 
+Seat 7: Blind Bri (1045 Tournament chips) 
+Game #23842526-6 ends
+Game #23842526-7 starts
+Seat 0: warbird33 (1470 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (4075 Tournament chips) 
+Seat 3: Rattlebrain (1540 Tournament chips) 
+Seat 4: Demeter29 (905 Tournament chips) 
+Seat 5: Deedee4123 (1485 Tournament chips) 
+Seat 6: QwertySpark (1485 Tournament chips) 
+Seat 7: Blind Bri (1045 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Blind Bri posts the small blind [10 Tournament chips]
+warbird33 posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 1450 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1495 Tournament chips.
+Jerich0, at seat 2, is in this hand with 4075 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1540 Tournament chips.
+Demeter29, at seat 4, is in this hand with 905 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1485 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1485 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1035 Tournament chips.
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Demeter29 is dealt: **
+Deedee4123 is dealt: **
+
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Demeter29 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ As 6h ]
+Dealt to Blind Bri [ **** ]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 calls [20 Tournament chips]
+Rattlebrain folds [20 Tournament chips]
+Demeter29 raises [90 Tournament chips]
+Deedee4123 calls [90 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+Blind Bri folds [80 Tournament chips]
+warbird33 calls [70 Tournament chips]
+Jerich0 folds [70 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Tc ] board:[ 4s Tc]
+** Dealing Flop ** [ 9h ] board:[ 4s Tc 9h]
+warbird33 checks
+Demeter29 bets for 390 Tournament chips
+Deedee4123 folds [390 Tournament chips]
+QwertySpark folds [390 Tournament chips]
+warbird33 calls [390 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 4s Tc 9h Td]
+warbird33 checks
+Demeter29 goes all-in for 425 Tournament chips
+warbird33 calls [425 Tournament chips]
+Tournament all-in showdown -- players show:
+warbird33 shows [ Jh Jd ]
+Demeter29 shows [ 4h 4c ]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 4s Tc 9h Td Jc]
+        (no action in this round)
+Round 4 is over.
+warbird33 shows [ Jh Jd ] full house, jacks full of tens
+Demeter29 shows [ 4h 4c ] full house, fours full of tens
+warbird33 wins main pot 2020 Tournament chips with full house, jacks full of tens.
+Seat 0: warbird33 (2585 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (4055 Tournament chips) 
+Seat 3: Rattlebrain (1540 Tournament chips) 
+Seat 4: Demeter29 (0 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1395 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+Game #23842526-7 ends
+Player Demeter29 leaves the table with 0 Tournament chips
+Game #23842526-8 starts
+Seat 0: warbird33 (2585 Tournament chips) 
+Seat 1: ScarecrowNam (1495 Tournament chips) 
+Seat 2: Jerich0 (4055 Tournament chips) 
+Seat 3: Rattlebrain (1540 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1395 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+warbird33 posts the small blind [10 Tournament chips]
+ScarecrowNam posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 2575 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1475 Tournament chips.
+Jerich0, at seat 2, is in this hand with 4055 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1540 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1395 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1035 Tournament chips.
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Td 9d ]
+Dealt to Blind Bri [ **** ]
+Jerich0 calls [20 Tournament chips]
+Rattlebrain raises [40 Tournament chips]
+Deedee4123 folds [40 Tournament chips]
+QwertySpark re-raises [140 Tournament chips]
+Blind Bri folds [140 Tournament chips]
+warbird33 folds [130 Tournament chips]
+ScarecrowNam folds [120 Tournament chips]
+Jerich0 folds [120 Tournament chips]
+Rattlebrain calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 4d ] board:[ 6d 4d]
+** Dealing Flop ** [ Jc ] board:[ 6d 4d Jc]
+Rattlebrain checks
+QwertySpark bets for 430 Tournament chips
+Rattlebrain folds [430 Tournament chips]
+QwertySpark is returned 430 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Td 9d 6d 4d Jc: jack high)
+QwertySpark wins main pot 330 Tournament chips.
+Seat 0: warbird33 (2575 Tournament chips) 
+Seat 1: ScarecrowNam (1475 Tournament chips) 
+Seat 2: Jerich0 (4035 Tournament chips) 
+Seat 3: Rattlebrain (1400 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+Game #23842526-8 ends
+Game #23842526-9 starts
+Seat 0: warbird33 (2575 Tournament chips) 
+Seat 1: ScarecrowNam (1475 Tournament chips) 
+Seat 2: Jerich0 (4035 Tournament chips) 
+Seat 3: Rattlebrain (1400 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+ScarecrowNam posts the small blind [10 Tournament chips]
+Jerich0 posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 2575 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1465 Tournament chips.
+Jerich0, at seat 2, is in this hand with 4015 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1400 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1585 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1035 Tournament chips.
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 2h 5h ]
+Dealt to Blind Bri [ **** ]
+Rattlebrain calls [20 Tournament chips]
+Deedee4123 folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Blind Bri folds [20 Tournament chips]
+warbird33 folds [20 Tournament chips]
+ScarecrowNam folds [10 Tournament chips]
+Jerich0 checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ Ac ] board:[ 3h Ac]
+** Dealing Flop ** [ Kh ] board:[ 3h Ac Kh]
+Jerich0 checks
+Rattlebrain checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 3h Ac Kh Kd]
+Jerich0 checks
+Rattlebrain checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 3h Ac Kh Kd 8s]
+Jerich0 checks
+Rattlebrain checks
+QwertySpark checks
+Round 4 is over.
+Jerich0 shows [ 4c Td ] a pair of kings
+Hand evaluation for Jerich0 (Td Ac Kh Kd 8s: a pair of kings)
+Rattlebrain shows [ 6h Jc ] a pair of kings
+Hand evaluation for Rattlebrain (Jc Ac Kh Kd 8s: a pair of kings)
+QwertySpark doesn't show [ 2h 5h ]
+(QwertySpark has 2h 5h.)
+Rattlebrain wins main pot 70 Tournament chips with a pair of kings, ace/jack kickers.
+Seat 0: warbird33 (2575 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (4015 Tournament chips) 
+Seat 3: Rattlebrain (1450 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+Game #23842526-9 ends
+Game #23842526-10 starts
+Seat 0: warbird33 (2575 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (4015 Tournament chips) 
+Seat 3: Rattlebrain (1450 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jerich0 posts the small blind [10 Tournament chips]
+Rattlebrain posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 2575 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1465 Tournament chips.
+Jerich0, at seat 2, is in this hand with 4005 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1430 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1565 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1035 Tournament chips.
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qs 3c ]
+Dealt to Blind Bri [ **** ]
+Deedee4123 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Blind Bri folds [20 Tournament chips]
+warbird33 calls [20 Tournament chips]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 calls [10 Tournament chips]
+Rattlebrain checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4d ] board:[ Ad 4d]
+** Dealing Flop ** [ 5d ] board:[ Ad 4d 5d]
+Jerich0 checks
+Rattlebrain bets for 60 Tournament chips
+warbird33 calls [60 Tournament chips]
+Jerich0 folds [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Ad 4d 5d 8s]
+Rattlebrain bets for 90 Tournament chips
+warbird33 calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Ad 4d 5d 8s Ac]
+Rattlebrain checks
+warbird33 bets for 180 Tournament chips
+Rattlebrain folds [180 Tournament chips]
+warbird33 is returned 180 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for warbird33 (6c 8d Ad 8s Ac: two pair, aces and eights)
+warbird33 wins main pot 360 Tournament chips.
+Seat 0: warbird33 (2765 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3995 Tournament chips) 
+Seat 3: Rattlebrain (1280 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+Game #23842526-10 ends
+Game #23842526-11 starts
+Seat 0: warbird33 (2765 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3995 Tournament chips) 
+Seat 3: Rattlebrain (1280 Tournament chips) 
+Seat 5: Deedee4123 (1395 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+Seat 7: Blind Bri (1035 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Rattlebrain posts the small blind [10 Tournament chips]
+Deedee4123 posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 2765 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1465 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3995 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1270 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1565 Tournament chips.
+Blind Bri, at seat 7, is in this hand with 1035 Tournament chips.
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Blind Bri is dealt: **
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 3s 4s ]
+Dealt to Blind Bri [ **** ]
+QwertySpark folds [20 Tournament chips]
+Blind Bri calls [20 Tournament chips]
+warbird33 folds [20 Tournament chips]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 folds [20 Tournament chips]
+Rattlebrain raises [30 Tournament chips]
+Deedee4123 calls [20 Tournament chips]
+Blind Bri calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 9c ] board:[ 6d 9c]
+** Dealing Flop ** [ Kd ] board:[ 6d 9c Kd]
+Rattlebrain bets for 120 Tournament chips
+Deedee4123 folds [120 Tournament chips]
+Blind Bri calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 6d 9c Kd 7s]
+Rattlebrain goes all-in for 1120 Tournament chips
+Blind Bri calls all-in [875 Tournament chips]
+Rattlebrain is returned 245 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rattlebrain shows [ Kh Ts ]
+Blind Bri shows [ 5c 5d ]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 6d 9c Kd 7s Ac]
+        (no action in this round)
+Round 4 is over.
+Rattlebrain shows [ Kh Ts ] a pair of kings, ace/ten kickers
+Blind Bri shows [ 5c 5d ] a pair of fives, ace/king kickers
+Rattlebrain wins main pot 2110 Tournament chips with a pair of kings, ace/ten kickers.
+Seat 0: warbird33 (2765 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3995 Tournament chips) 
+Seat 3: Rattlebrain (2355 Tournament chips) 
+Seat 5: Deedee4123 (1355 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+Seat 7: Blind Bri (0 Tournament chips) 
+Game #23842526-11 ends
+Player Blind Bri leaves the table with 0 Tournament chips
+Game #23842526-12 starts
+Seat 0: warbird33 (2765 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3995 Tournament chips) 
+Seat 3: Rattlebrain (2355 Tournament chips) 
+Seat 5: Deedee4123 (1355 Tournament chips) 
+Seat 6: QwertySpark (1565 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Deedee4123 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 2765 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1465 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3995 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 2355 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1345 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1545 Tournament chips.
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Kd 3h ]
+warbird33 calls [20 Tournament chips]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 calls [20 Tournament chips]
+Rattlebrain calls [20 Tournament chips]
+Deedee4123 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 7s ] board:[ 7h 7s]
+** Dealing Flop ** [ 8s ] board:[ 7h 7s 8s]
+Deedee4123 checks
+QwertySpark checks
+warbird33 checks
+Jerich0 checks
+Rattlebrain bets for 100 Tournament chips
+Deedee4123 calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+warbird33 calls [100 Tournament chips]
+Jerich0 folds [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 7h 7s 8s Js]
+Deedee4123 checks
+warbird33 checks
+Rattlebrain bets for 200 Tournament chips
+Deedee4123 calls [200 Tournament chips]
+warbird33 calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 7h 7s 8s Js Ad]
+Deedee4123 checks
+warbird33 bets for 20 Tournament chips
+Rattlebrain calls [20 Tournament chips]
+Deedee4123 folds [20 Tournament chips]
+Round 4 is over.
+warbird33 shows [ 7c Tc ] three sevens
+Hand evaluation for warbird33 (7c 7h 7s Js Ad: three sevens)
+Rattlebrain doesn't show [ 6h 8c ]
+(Rattlebrain has 6h 8c.)
+warbird33 wins main pot 1040 Tournament chips with three sevens, ace/jack kickers.
+Seat 0: warbird33 (3465 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3975 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (1545 Tournament chips) 
+Game #23842526-12 ends
+Game #23842526-13 starts
+Seat 0: warbird33 (3465 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (3975 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (1545 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+QwertySpark posts the small blind [10 Tournament chips]
+warbird33 posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 3445 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1465 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3975 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 2015 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1035 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1535 Tournament chips.
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Ac Jc ]
+ScarecrowNam folds [20 Tournament chips]
+Jerich0 raises [300 Tournament chips]
+Rattlebrain folds [300 Tournament chips]
+Deedee4123 folds [300 Tournament chips]
+QwertySpark re-raises [630 Tournament chips]
+warbird33 folds [620 Tournament chips]
+Jerich0 re-raises [1320 Tournament chips]
+QwertySpark calls all-in [905 Tournament chips]
+Jerich0 is returned 75 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Jerich0 shows [ Ad 9s ]
+QwertySpark shows [ Ac Jc ]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Kh ] board:[ Tc Kh]
+** Dealing Flop ** [ 2d ] board:[ Tc Kh 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Tc Kh 2d 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Tc Kh 2d 5c 4s]
+        (no action in this round)
+Round 4 is over.
+Jerich0 shows [ Ad 9s ] ace/king/ten high
+QwertySpark shows [ Ac Jc ] ace/king/jack high
+QwertySpark wins main pot 3110 Tournament chips with ace/king/jack high.
+Seat 0: warbird33 (3445 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (2430 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3110 Tournament chips) 
+Game #23842526-13 ends
+Game #23842526-14 starts
+Seat 0: warbird33 (3445 Tournament chips) 
+Seat 1: ScarecrowNam (1465 Tournament chips) 
+Seat 2: Jerich0 (2430 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3110 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+warbird33 posts the small blind [10 Tournament chips]
+ScarecrowNam posts the big blind [20 Tournament chips]
+warbird33, at seat 0, is in this hand with 3435 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1445 Tournament chips.
+Jerich0, at seat 2, is in this hand with 2430 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 2015 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1035 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3110 Tournament chips.
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qh 9c ]
+Jerich0 folds [20 Tournament chips]
+Rattlebrain folds [20 Tournament chips]
+Deedee4123 folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+warbird33 folds [70 Tournament chips]
+ScarecrowNam folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh 9c: queen high)
+QwertySpark wins main pot 50 Tournament chips.
+Seat 0: warbird33 (3435 Tournament chips) 
+Seat 1: ScarecrowNam (1445 Tournament chips) 
+Seat 2: Jerich0 (2430 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3140 Tournament chips) 
+Game #23842526-14 ends
+Game #23842526-15 starts
+Seat 0: warbird33 (3435 Tournament chips) 
+Seat 1: ScarecrowNam (1445 Tournament chips) 
+Seat 2: Jerich0 (2430 Tournament chips) 
+Seat 3: Rattlebrain (2015 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3140 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+ScarecrowNam posts the small blind [15 Tournament chips]
+Jerich0 posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 3435 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1430 Tournament chips.
+Jerich0, at seat 2, is in this hand with 2400 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 2015 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1035 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3140 Tournament chips.
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ As 6d ]
+Rattlebrain raises [60 Tournament chips]
+Deedee4123 folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+warbird33 folds [60 Tournament chips]
+ScarecrowNam folds [45 Tournament chips]
+Jerich0 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Js ] board:[ 8h Js]
+** Dealing Flop ** [ Jd ] board:[ 8h Js Jd]
+Jerich0 checks
+Rattlebrain bets for 195 Tournament chips
+QwertySpark folds [195 Tournament chips]
+Jerich0 calls [195 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 8h Js Jd 7c]
+Jerich0 checks
+Rattlebrain bets for 292 Tournament chips
+Jerich0 raises [584 Tournament chips]
+Rattlebrain folds [292 Tournament chips]
+Jerich0 is returned 292 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Jerich0 (7s Jh Js Jd 7c: full house, jacks full of sevens)
+Jerich0 wins main pot 1169 Tournament chips.
+Seat 0: warbird33 (3435 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3052 Tournament chips) 
+Seat 3: Rattlebrain (1468 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+Game #23842526-15 ends
+Game #23842526-16 starts
+Seat 0: warbird33 (3435 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3052 Tournament chips) 
+Seat 3: Rattlebrain (1468 Tournament chips) 
+Seat 5: Deedee4123 (1035 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jerich0 posts the small blind [15 Tournament chips]
+Rattlebrain posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 3435 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1430 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3037 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1438 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1035 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3080 Tournament chips.
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qh Th ]
+Deedee4123 raises all-in [1035 Tournament chips]
+QwertySpark folds [1035 Tournament chips]
+warbird33 calls [1035 Tournament chips]
+ScarecrowNam folds [1035 Tournament chips]
+Jerich0 folds [1020 Tournament chips]
+Rattlebrain folds [1005 Tournament chips]
+Tournament all-in showdown -- players show:
+warbird33 shows [ Qc Ac ]
+Deedee4123 shows [ 8h 8d ]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 8s ] board:[ 5h 8s]
+** Dealing Flop ** [ 6d ] board:[ 5h 8s 6d]
+        (no action in this round)
+Round 2 is over.
+Jerich0: bluff?
+** Dealing Turn ** [ 6c ] board:[ 5h 8s 6d 6c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 5h 8s 6d 6c 2s]
+        (no action in this round)
+Round 4 is over.
+warbird33 shows [ Qc Ac ] a pair of sixes, ace/queen kickers
+Deedee4123 shows [ 8h 8d ] full house, eights full of sixes
+Deedee4123 wins main pot 2115 Tournament chips with full house, eights full of sixes.
+Seat 0: warbird33 (2400 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3037 Tournament chips) 
+Seat 3: Rattlebrain (1438 Tournament chips) 
+Seat 5: Deedee4123 (2115 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+Game #23842526-16 ends
+Game #23842526-17 starts
+Seat 0: warbird33 (2400 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3037 Tournament chips) 
+Seat 3: Rattlebrain (1438 Tournament chips) 
+Seat 5: Deedee4123 (2115 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Rattlebrain posts the small blind [15 Tournament chips]
+Deedee4123 posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2400 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1430 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3037 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1423 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2085 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3080 Tournament chips.
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 8c Qc ]
+QwertySpark folds [30 Tournament chips]
+warbird33 calls [30 Tournament chips]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 raises [150 Tournament chips]
+Rattlebrain calls [135 Tournament chips]
+Deedee4123 folds [120 Tournament chips]
+warbird33 calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Kh ] board:[ Kc Kh]
+** Dealing Flop ** [ 8d ] board:[ Kc Kh 8d]
+Rattlebrain checks
+warbird33 checks
+Jerich0 bets for 480 Tournament chips
+Rattlebrain folds [480 Tournament chips]
+warbird33 folds [480 Tournament chips]
+Jerich0 is returned 480 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Jerich0 (As Ts Kc Kh 8d: a pair of kings)
+Jerich0 wins main pot 480 Tournament chips.
+Seat 0: warbird33 (2250 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1288 Tournament chips) 
+Seat 5: Deedee4123 (2085 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+Game #23842526-17 ends
+Game #23842526-18 starts
+Seat 0: warbird33 (2250 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1288 Tournament chips) 
+Seat 5: Deedee4123 (2085 Tournament chips) 
+Seat 6: QwertySpark (3080 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Deedee4123 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2250 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1430 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3367 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1288 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3050 Tournament chips.
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qh 7c ]
+warbird33 folds [30 Tournament chips]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 folds [30 Tournament chips]
+Rattlebrain raises [60 Tournament chips]
+Deedee4123 folds [45 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Ad ] board:[ Ts Ad]
+** Dealing Flop ** [ 6h ] board:[ Ts Ad 6h]
+QwertySpark checks
+Rattlebrain bets for 135 Tournament chips
+QwertySpark folds [135 Tournament chips]
+Rattlebrain is returned 135 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Rattlebrain (9c As Ts Ad 6h: a pair of aces)
+Rattlebrain wins main pot 135 Tournament chips.
+Seat 0: warbird33 (2250 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1363 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+Game #23842526-18 ends
+Game #23842526-19 starts
+Seat 0: warbird33 (2250 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1363 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+QwertySpark posts the small blind [15 Tournament chips]
+warbird33 posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2220 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1430 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3367 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1363 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3005 Tournament chips.
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Ks 3s ]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 folds [30 Tournament chips]
+Rattlebrain raises [60 Tournament chips]
+Deedee4123 folds [60 Tournament chips]
+QwertySpark calls [45 Tournament chips]
+warbird33 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Kd ] board:[ Js Kd]
+** Dealing Flop ** [ 8h ] board:[ Js Kd 8h]
+QwertySpark bets for 120 Tournament chips
+warbird33 folds [120 Tournament chips]
+Rattlebrain raises [270 Tournament chips]
+QwertySpark raises all-in [2840 Tournament chips]
+Rattlebrain calls all-in [1033 Tournament chips]
+QwertySpark is returned 1657 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rattlebrain shows [ Kc 6s ]
+QwertySpark shows [ Ks 3s ]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Js Kd 8h 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Js Kd 8h 4c 7h]
+        (no action in this round)
+Round 4 is over.
+Rattlebrain shows [ Kc 6s ] a pair of kings, jack/eight kickers
+QwertySpark shows [ Ks 3s ] a pair of kings, jack/eight kickers
+Rattlebrain wins main pot 1393 Tournament chips of a 2786 Tournament chips pot with a pair of kings, jack/eight kickers.
+QwertySpark wins main pot 1393 Tournament chips of a 2786 Tournament chips pot with a pair of kings, jack/eight kickers.
+Seat 0: warbird33 (2190 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+Game #23842526-19 ends
+Game #23842526-20 starts
+Seat 0: warbird33 (2190 Tournament chips) 
+Seat 1: ScarecrowNam (1430 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+warbird33 posts the small blind [15 Tournament chips]
+ScarecrowNam posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2175 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1400 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3367 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1393 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3050 Tournament chips.
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 9c 4h ]
+Jerich0 folds [30 Tournament chips]
+Rattlebrain folds [30 Tournament chips]
+Deedee4123 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+warbird33 calls [15 Tournament chips]
+ScarecrowNam folds
+round 1 is over.
+Hand evaluation for warbird33 (Js 5s: jack high)
+warbird33 wins main pot 60 Tournament chips.
+Seat 0: warbird33 (2220 Tournament chips) 
+Seat 1: ScarecrowNam (1400 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+Game #23842526-20 ends
+Game #23842526-21 starts
+Seat 0: warbird33 (2220 Tournament chips) 
+Seat 1: ScarecrowNam (1400 Tournament chips) 
+Seat 2: Jerich0 (3367 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+ScarecrowNam posts the small blind [15 Tournament chips]
+Jerich0 posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2220 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1385 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3337 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1393 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3050 Tournament chips.
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qd 5d ]
+Rattlebrain folds [30 Tournament chips]
+Deedee4123 folds [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+warbird33 calls [30 Tournament chips]
+ScarecrowNam folds [15 Tournament chips]
+Jerich0 raises [270 Tournament chips]
+QwertySpark folds [270 Tournament chips]
+warbird33 folds [270 Tournament chips]
+Jerich0 is returned 270 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Jerich0 (Qs Jh: queen high)
+Jerich0 wins main pot 105 Tournament chips.
+Seat 0: warbird33 (2190 Tournament chips) 
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (3442 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+Game #23842526-21 ends
+Game #23842526-22 starts
+Seat 0: warbird33 (2190 Tournament chips) 
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (3442 Tournament chips) 
+Seat 3: Rattlebrain (1393 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jerich0 posts the small blind [15 Tournament chips]
+Rattlebrain posts the big blind [30 Tournament chips]
+warbird33, at seat 0, is in this hand with 2190 Tournament chips.
+ScarecrowNam, at seat 1, is in this hand (absent) with 1385 Tournament chips.
+Jerich0, at seat 2, is in this hand with 3427 Tournament chips.
+Rattlebrain, at seat 3, is in this hand with 1363 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3020 Tournament chips.
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Rattlebrain is dealt: **
+Deedee4123 is dealt: **
+
+warbird33 is dealt: **
+ScarecrowNam is dealt: **
+Dealt to warbird33 [ **** ]
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Rattlebrain [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 8d 3c ]
+Deedee4123 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+warbird33 calls [30 Tournament chips]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 calls [15 Tournament chips]
+Rattlebrain raises [30 Tournament chips]
+warbird33 calls [30 Tournament chips]
+Jerich0 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 9s ] board:[ 5h 9s]
+** Dealing Flop ** [ Qd ] board:[ 5h 9s Qd]
+Jerich0 checks
+Rattlebrain goes all-in for 1333 Tournament chips
+warbird33 calls [1333 Tournament chips]
+Jerich0 raises [2666 Tournament chips]
+warbird33 calls all-in [797 Tournament chips]
+Jerich0 is returned 536 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+warbird33 shows [ 9d Kd ]
+Jerich0 shows [ Qc 2c ]
+Rattlebrain shows [ Ah 6h ]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 5h 9s Qd Qh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 5h 9s Qd Qh 8c]
+        (no action in this round)
+Round 4 is over.
+warbird33 shows [ 9d Kd ] two pair, queens and nines, king kicker
+Jerich0 shows [ Qc 2c ] three queens, nine/eight kickers
+Rattlebrain shows [ Ah 6h ] a pair of queens, ace/nine kickers
+Jerich0 wins main pot 4179 Tournament chips with three queens, nine/eight kickers.
+Jerich0 wins side pot #1 1594 Tournament chips with three queens, nine/eight kickers.
+Seat 0: warbird33 (0 Tournament chips) 
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 3: Rattlebrain (0 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+Game #23842526-22 ends
+Player Rattlebrain leaves the table with 0 Tournament chips
+Player warbird33 leaves the table with 0 Tournament chips
+Game #23842526-23 starts
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Deedee4123 posts the big blind [30 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1385 Tournament chips.
+Jerich0, at seat 2, is in this hand with 7025 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2040 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3020 Tournament chips.
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Jc 2h ]
+QwertySpark calls [30 Tournament chips]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 folds [30 Tournament chips]
+Deedee4123 checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 9c ] board:[ As 9c]
+** Dealing Flop ** [ Td ] board:[ As 9c Td]
+Deedee4123 checks
+QwertySpark bets for 60 Tournament chips
+Deedee4123 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jc 2h As 9c Td: ace high)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 5: Deedee4123 (2040 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+Game #23842526-23 ends
+Game #23842526-24 starts
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 5: Deedee4123 (2040 Tournament chips) 
+Seat 6: QwertySpark (3050 Tournament chips) 
+The button is at seat 2
+Deedee4123 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1385 Tournament chips.
+Jerich0, at seat 2, is in this hand with 7025 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2025 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3020 Tournament chips.
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Th 8h ]
+ScarecrowNam folds [30 Tournament chips]
+Jerich0 folds [30 Tournament chips]
+Deedee4123 calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 2d ] board:[ Kd 2d]
+** Dealing Flop ** [ 4d ] board:[ Kd 2d 4d]
+Deedee4123 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Kd 2d 4d 6h]
+Deedee4123 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Kd 2d 4d 6h 6d]
+Deedee4123 checks
+QwertySpark checks
+Round 4 is over.
+Deedee4123 shows [ Jc 5c ] a pair of sixes
+Hand evaluation for Deedee4123 (Jc 5c Kd 6h 6d: a pair of sixes)
+QwertySpark doesn't show [ Th 8h ]
+(QwertySpark has Th 8h.)
+Deedee4123 wins main pot 60 Tournament chips with a pair of sixes, king/jack kickers.
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+Game #23842526-24 ends
+Game #23842526-25 starts
+Seat 1: ScarecrowNam (1385 Tournament chips) 
+Seat 2: Jerich0 (7025 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3020 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 5.
+QwertySpark posts the small blind [15 Tournament chips]
+ScarecrowNam posts the big blind [30 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1355 Tournament chips.
+Jerich0, at seat 2, is in this hand with 7025 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3005 Tournament chips.
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Kc Th ]
+Jerich0 raises [300 Tournament chips]
+Deedee4123 folds [300 Tournament chips]
+QwertySpark folds [285 Tournament chips]
+ScarecrowNam folds [270 Tournament chips]
+Jerich0 is returned 270 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Jerich0 (Jh Kd: king high)
+Jerich0 wins main pot 75 Tournament chips.
+Seat 1: ScarecrowNam (1355 Tournament chips) 
+Seat 2: Jerich0 (7070 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3005 Tournament chips) 
+Game #23842526-25 ends
+Game #23842526-26 starts
+Seat 1: ScarecrowNam (1355 Tournament chips) 
+Seat 2: Jerich0 (7070 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3005 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+ScarecrowNam posts the small blind [15 Tournament chips]
+Jerich0 posts the big blind [30 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1340 Tournament chips.
+Jerich0, at seat 2, is in this hand with 7040 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2070 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3005 Tournament chips.
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 2c 4s ]
+Deedee4123 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+ScarecrowNam folds [15 Tournament chips]
+Jerich0 is returned 15 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Jerich0 (2s Td: ten high)
+Jerich0 wins main pot 30 Tournament chips.
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (7085 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3005 Tournament chips) 
+Game #23842526-26 ends
+Game #23842526-27 starts
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (7085 Tournament chips) 
+Seat 5: Deedee4123 (2070 Tournament chips) 
+Seat 6: QwertySpark (3005 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 1.
+Jerich0 posts the small blind [20 Tournament chips]
+Deedee4123 posts the big blind [40 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1340 Tournament chips.
+Jerich0, at seat 2, is in this hand with 7065 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2030 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3005 Tournament chips.
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Td 9s ]
+QwertySpark raises [120 Tournament chips]
+ScarecrowNam folds [120 Tournament chips]
+Jerich0 calls [100 Tournament chips]
+Deedee4123 folds [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 4c ] board:[ 3s 4c]
+** Dealing Flop ** [ 9d ] board:[ 3s 4c 9d]
+Jerich0 checks
+QwertySpark bets for 280 Tournament chips
+Jerich0 calls [280 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 3s 4c 9d Kd]
+Jerich0 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 3s 4c 9d Kd 8c]
+Jerich0 bets for 840 Tournament chips
+QwertySpark calls [840 Tournament chips]
+Round 4 is over.
+Jerich0 shows [ 9h Ah ] a pair of nines
+Hand evaluation for Jerich0 (9h Ah 9d Kd 8c: a pair of nines)
+QwertySpark doesn't show [ Td 9s ]
+(QwertySpark has Td 9s.)
+Jerich0 wins main pot 2520 Tournament chips with a pair of nines, ace/king kickers.
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (8365 Tournament chips) 
+Seat 5: Deedee4123 (2030 Tournament chips) 
+Seat 6: QwertySpark (1765 Tournament chips) 
+Game #23842526-27 ends
+Game #23842526-28 starts
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (8365 Tournament chips) 
+Seat 5: Deedee4123 (2030 Tournament chips) 
+Seat 6: QwertySpark (1765 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Deedee4123 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1340 Tournament chips.
+Jerich0, at seat 2, is in this hand with 8365 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 2010 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1725 Tournament chips.
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ Qh 4s ]
+ScarecrowNam folds [40 Tournament chips]
+Jerich0 folds [40 Tournament chips]
+Deedee4123 calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ As ] board:[ 2c As]
+** Dealing Flop ** [ 4d ] board:[ 2c As 4d]
+Deedee4123 checks
+QwertySpark bets for 80 Tournament chips
+Deedee4123 folds [80 Tournament chips]
+QwertySpark is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qh 4s 2c As 4d: a pair of fours)
+QwertySpark wins main pot 80 Tournament chips.
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (8365 Tournament chips) 
+Seat 5: Deedee4123 (1990 Tournament chips) 
+Seat 6: QwertySpark (1805 Tournament chips) 
+Game #23842526-28 ends
+Game #23842526-29 starts
+Seat 1: ScarecrowNam (1340 Tournament chips) 
+Seat 2: Jerich0 (8365 Tournament chips) 
+Seat 5: Deedee4123 (1990 Tournament chips) 
+Seat 6: QwertySpark (1805 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 5.
+QwertySpark posts the small blind [20 Tournament chips]
+ScarecrowNam posts the big blind [40 Tournament chips]
+ScarecrowNam, at seat 1, is in this hand (absent) with 1300 Tournament chips.
+Jerich0, at seat 2, is in this hand with 8365 Tournament chips.
+Deedee4123, at seat 5, is in this hand with 1990 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1785 Tournament chips.
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+
+ScarecrowNam is dealt: **
+Jerich0 is dealt: **
+Deedee4123 is dealt: **
+Dealt to ScarecrowNam [ **** ]
+Dealt to Jerich0 [ **** ]
+Dealt to Deedee4123 [ **** ]
+Dealt to QwertySpark [ 6c Qc ]
+Jerich0 calls [40 Tournament chips]
+Deedee4123 folds [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+ScarecrowNam folds
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 4s ] board:[ 4d 4s]
+** Dealing Flop ** [ Qs ] board:[ 4d 4s Qs]
+QwertySpark bets for 160 Tournament chips
+Jerich0 calls [160 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 4d 4s Qs 2s]
+QwertySpark goes all-in for 1605 Tournament chips
+Jerich0 calls [1605 Tournament chips]
+Tournament all-in showdown -- players show:
+Jerich0 shows [ 4h 5h ]
+QwertySpark shows [ 6c Qc ]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 4d 4s Qs 2s 8h]
+        (no action in this round)
+Round 4 is over.
+Jerich0 shows [ 4h 5h ] three fours, queen/eight kickers
+QwertySpark shows [ 6c Qc ] two pair, queens and fours, eight kicker
+Jerich0 wins main pot 3650 Tournament chips with three fours, queen/eight kickers.
+Seat 1: ScarecrowNam (1300 Tournament chips) 
+Seat 2: Jerich0 (10210 Tournament chips) 
+Seat 5: Deedee4123 (1990 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Game #23842526-29 ends
+Player QwertySpark leaves the table with 0 Tournament chips

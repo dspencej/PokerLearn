@@ -1,0 +1,1083 @@
+Game#: 23982898
+leannecremeen has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 8c ] board:[ Jh 8c]
+** Dealing Flop ** [ 5d ] board:[ Jh 8c 5d]
+OAKTOWNJAY checks
+leannecremeen has timed out - the hand is checked
+DIVETUCK bets for 20 Tournament chips
+jjaayy11 calls [20 Tournament chips]
+driver719 calls [20 Tournament chips]
+proteinpowder folds [20 Tournament chips]
+THRcowboy folds [20 Tournament chips]
+OAKTOWNJAY calls [20 Tournament chips]
+leannecremeen folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Jh 8c 5d 9c]
+OAKTOWNJAY checks
+DIVETUCK bets for 20 Tournament chips
+jjaayy11 calls [20 Tournament chips]
+driver719 calls [20 Tournament chips]
+OAKTOWNJAY calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Jh 8c 5d 9c Js]
+OAKTOWNJAY checks
+DIVETUCK checks
+jjaayy11 checks
+driver719 checks
+Round 4 is over.
+OAKTOWNJAY shows [ 6s Ad ] a pair of jacks
+Hand evaluation for OAKTOWNJAY (Ad Jh 8c 9c Js: a pair of jacks)
+DIVETUCK shows [ 7h 8h ] two pair, jacks and eights
+Hand evaluation for DIVETUCK (8h Jh 8c 9c Js: two pair, jacks and eights)
+jjaayy11 doesn't show [ Ac Ts ]
+(jjaayy11 has Ac Ts.)
+driver719 shows [ 6h 8d ] two pair, jacks and eights
+Hand evaluation for driver719 (8d Jh 8c 9c Js: two pair, jacks and eights)
+DIVETUCK wins main pot 150 Tournament chips of a 300 Tournament chips pot with two pair, jacks and eights, nine kicker.
+driver719 wins main pot 150 Tournament chips of a 300 Tournament chips pot with two pair, jacks and eights, nine kicker.
+Seat 0: OAKTOWNJAY (720 Tournament chips) 
+Seat 1: leannecremeen (980 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: DIVETUCK (2830 Tournament chips) 
+Seat 4: oldman38 (1000 Tournament chips) 
+Seat 5: jjaayy11 (1680 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (1360 Tournament chips) 
+Game #23982898-7 ends
+Game #23982898-8 starts
+Seat 0: OAKTOWNJAY (720 Tournament chips) 
+Seat 1: leannecremeen (980 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: DIVETUCK (2830 Tournament chips) 
+Seat 4: oldman38 (1000 Tournament chips) 
+Seat 5: jjaayy11 (1680 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (1360 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+leannecremeen posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+OAKTOWNJAY, at seat 0, is in this hand with 720 Tournament chips.
+leannecremeen, at seat 1, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 980 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2830 Tournament chips.
+oldman38, at seat 4, is in this hand with 1000 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1680 Tournament chips.
+driver719, at seat 6, is in this hand with 1090 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 980 Tournament chips.
+THRcowboy, at seat 8, is in this hand with 1360 Tournament chips.
+leannecremeen is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+OAKTOWNJAY is dealt: **
+leannecremeen is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+OAKTOWNJAY is dealt: **
+Dealt to OAKTOWNJAY [ **** ]
+Dealt to leannecremeen [ **** ]
+Dealt to QwertySpark [ 6s Kd ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to THRcowboy [ **** ]
+DIVETUCK calls [20 Tournament chips]
+oldman38 calls [20 Tournament chips]
+jjaayy11 calls [20 Tournament chips]
+driver719 folds [20 Tournament chips]
+proteinpowder folds [20 Tournament chips]
+THRcowboy folds [20 Tournament chips]
+OAKTOWNJAY calls [20 Tournament chips]
+leannecremeen folds [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Ts ] board:[ 3s Ts]
+** Dealing Flop ** [ 6c ] board:[ 3s Ts 6c]
+QwertySpark bets for 60 Tournament chips
+DIVETUCK calls [60 Tournament chips]
+oldman38 calls [60 Tournament chips]
+jjaayy11 calls [60 Tournament chips]
+OAKTOWNJAY calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 3s Ts 6c 3h]
+QwertySpark checks
+DIVETUCK checks
+oldman38 bets for 410 Tournament chips
+jjaayy11 folds [410 Tournament chips]
+OAKTOWNJAY raises all-in [640 Tournament chips]
+QwertySpark folds [640 Tournament chips]
+DIVETUCK folds [640 Tournament chips]
+oldman38 calls [230 Tournament chips]
+Tournament all-in showdown -- players show:
+OAKTOWNJAY shows [ Th 8s ]
+oldman38 shows [ 3c 5c ]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 3s Ts 6c 3h 7h]
+        (no action in this round)
+Round 4 is over.
+OAKTOWNJAY shows [ Th 8s ] two pair, tens and threes, eight kicker
+oldman38 shows [ 3c 5c ] three threes, ten/seven kickers
+oldman38 wins main pot 1690 Tournament chips with three threes, ten/seven kickers.
+Seat 0: OAKTOWNJAY (0 Tournament chips) 
+Seat 1: leannecremeen (970 Tournament chips) 
+Seat 2: QwertySpark (920 Tournament chips) 
+Seat 3: DIVETUCK (2750 Tournament chips) 
+Seat 4: oldman38 (1970 Tournament chips) 
+Seat 5: jjaayy11 (1600 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (1360 Tournament chips) 
+Game #23982898-8 ends
+Player OAKTOWNJAY leaves the table with 0 Tournament chips
+Game #23982898-9 starts
+Seat 1: leannecremeen (970 Tournament chips) 
+Seat 2: QwertySpark (920 Tournament chips) 
+Seat 3: DIVETUCK (2750 Tournament chips) 
+Seat 4: oldman38 (1970 Tournament chips) 
+Seat 5: jjaayy11 (1600 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (1360 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+DIVETUCK posts the big blind [30 Tournament chips]
+leannecremeen, at seat 1, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 905 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2720 Tournament chips.
+oldman38, at seat 4, is in this hand with 1970 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1600 Tournament chips.
+driver719, at seat 6, is in this hand with 1090 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 980 Tournament chips.
+THRcowboy, at seat 8, is in this hand with 1360 Tournament chips.
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+leannecremeen is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+leannecremeen is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to QwertySpark [ 2c Ac ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to THRcowboy [ **** ]
+oldman38 calls [30 Tournament chips]
+jjaayy11 folds [30 Tournament chips]
+driver719 folds [30 Tournament chips]
+proteinpowder folds [30 Tournament chips]
+THRcowboy calls [30 Tournament chips]
+leannecremeen raises all-in [970 Tournament chips]
+QwertySpark calls all-in [905 Tournament chips]
+DIVETUCK folds [940 Tournament chips]
+oldman38 folds [940 Tournament chips]
+THRcowboy calls [940 Tournament chips]
+Tournament all-in showdown -- players show:
+leannecremeen shows [ 5d Jc ]
+QwertySpark shows [ 2c Ac ]
+THRcowboy shows [ 8s 8h ]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Ah ] board:[ Kh Ah]
+** Dealing Flop ** [ 5c ] board:[ Kh Ah 5c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Kh Ah 5c 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Kh Ah 5c 9s 4h]
+        (no action in this round)
+Round 4 is over.
+leannecremeen shows [ 5d Jc ] a pair of fives, ace/king kickers
+QwertySpark shows [ 2c Ac ] a pair of aces, king/nine kickers
+THRcowboy shows [ 8s 8h ] a pair of eights, ace/king kickers
+QwertySpark wins main pot 2820 Tournament chips with a pair of aces, king/nine kickers.
+THRcowboy wins side pot #1 100 Tournament chips with a pair of eights, ace/king kickers.
+Seat 1: leannecremeen (0 Tournament chips) 
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2720 Tournament chips) 
+Seat 4: oldman38 (1940 Tournament chips) 
+Seat 5: jjaayy11 (1600 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+Game #23982898-9 ends
+Player leannecremeen leaves the table with 0 Tournament chips
+Game #23982898-10 starts
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2720 Tournament chips) 
+Seat 4: oldman38 (1940 Tournament chips) 
+Seat 5: jjaayy11 (1600 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (980 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DIVETUCK posts the small blind [15 Tournament chips]
+oldman38 posts the big blind [30 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2820 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2705 Tournament chips.
+oldman38, at seat 4, is in this hand with 1910 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1600 Tournament chips.
+driver719, at seat 6, is in this hand with 1090 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 980 Tournament chips.
+THRcowboy, at seat 8, is in this hand with 490 Tournament chips.
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+Dealt to QwertySpark [ 8s 6h ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to THRcowboy [ **** ]
+jjaayy11 calls [30 Tournament chips]
+driver719 folds [30 Tournament chips]
+proteinpowder calls [30 Tournament chips]
+THRcowboy folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+DIVETUCK calls [15 Tournament chips]
+oldman38 checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 4d ] board:[ 9d 4d]
+** Dealing Flop ** [ 9s ] board:[ 9d 4d 9s]
+DIVETUCK checks
+oldman38 checks
+jjaayy11 checks
+proteinpowder checks
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 9d 4d 9s 5d]
+DIVETUCK checks
+oldman38 bets for 79 Tournament chips
+jjaayy11 calls [79 Tournament chips]
+proteinpowder calls [79 Tournament chips]
+DIVETUCK folds [79 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 9d 4d 9s 5d Qs]
+oldman38 checks
+jjaayy11 checks
+proteinpowder checks
+Round 4 is over.
+oldman38 shows [ 5s 2d ] two pair, nines and fives
+Hand evaluation for oldman38 (5s 9d 9s 5d Qs: two pair, nines and fives)
+jjaayy11 doesn't show [ Td Kc ]
+(jjaayy11 has Td Kc.)
+proteinpowder doesn't show [ 6s Ad ]
+(proteinpowder has 6s Ad.)
+oldman38 wins main pot 357 Tournament chips with two pair, nines and fives, queen kicker.
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2690 Tournament chips) 
+Seat 4: oldman38 (2188 Tournament chips) 
+Seat 5: jjaayy11 (1491 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (871 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+Game #23982898-10 ends
+Game #23982898-11 starts
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2690 Tournament chips) 
+Seat 4: oldman38 (2188 Tournament chips) 
+Seat 5: jjaayy11 (1491 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (871 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+oldman38 posts the small blind [15 Tournament chips]
+jjaayy11 posts the big blind [30 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2820 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2690 Tournament chips.
+oldman38, at seat 4, is in this hand with 2173 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1461 Tournament chips.
+driver719, at seat 6, is in this hand with 1090 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 871 Tournament chips.
+THRcowboy, at seat 8, is in this hand with 490 Tournament chips.
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+DIVETUCK is dealt: **
+Dealt to QwertySpark [ 4s 6h ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to THRcowboy [ **** ]
+driver719 folds [30 Tournament chips]
+proteinpowder folds [30 Tournament chips]
+THRcowboy folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+DIVETUCK calls [30 Tournament chips]
+oldman38 calls [15 Tournament chips]
+jjaayy11 checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 7s ] board:[ 2s 7s]
+** Dealing Flop ** [ 3c ] board:[ 2s 7s 3c]
+oldman38 bets for 45 Tournament chips
+jjaayy11 calls [45 Tournament chips]
+DIVETUCK folds [45 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 2s 7s 3c 9c]
+oldman38 checks
+jjaayy11 checks
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 2s 7s 3c 9c Ts]
+oldman38 checks
+jjaayy11 checks
+Round 4 is over.
+oldman38 shows [ 5c 2d ] a pair of deuces
+Hand evaluation for oldman38 (2d 2s 7s 9c Ts: a pair of deuces)
+jjaayy11 doesn't show [ 4d 6s ]
+(jjaayy11 has 4d 6s.)
+oldman38 wins main pot 180 Tournament chips with a pair of deuces, ten/nine kickers.
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2660 Tournament chips) 
+Seat 4: oldman38 (2293 Tournament chips) 
+Seat 5: jjaayy11 (1416 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (871 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+Game #23982898-11 ends
+Game #23982898-12 starts
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2660 Tournament chips) 
+Seat 4: oldman38 (2293 Tournament chips) 
+Seat 5: jjaayy11 (1416 Tournament chips) 
+Seat 6: driver719 (1090 Tournament chips) 
+Seat 7: proteinpowder (871 Tournament chips) 
+Seat 8: THRcowboy (490 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+jjaayy11 posts the small blind [15 Tournament chips]
+driver719 posts the big blind [30 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2820 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2660 Tournament chips.
+oldman38, at seat 4, is in this hand with 2293 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1401 Tournament chips.
+driver719, at seat 6, is in this hand with 1060 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 871 Tournament chips.
+THRcowboy, at seat 8, is in this hand with 490 Tournament chips.
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+THRcowboy is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+Dealt to QwertySpark [ 8c 4c ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to THRcowboy [ **** ]
+proteinpowder calls [30 Tournament chips]
+THRcowboy raises all-in [490 Tournament chips]
+QwertySpark folds [490 Tournament chips]
+DIVETUCK folds [490 Tournament chips]
+oldman38 folds [490 Tournament chips]
+jjaayy11 folds [475 Tournament chips]
+driver719 calls [460 Tournament chips]
+proteinpowder folds [460 Tournament chips]
+Tournament all-in showdown -- players show:
+driver719 shows [ Ad Td ]
+THRcowboy shows [ Qd Qh ]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 8d ] board:[ 6d 8d]
+** Dealing Flop ** [ Ts ] board:[ 6d 8d Ts]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 6d 8d Ts 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 6d 8d Ts 8h Tc]
+        (no action in this round)
+Round 4 is over.
+driver719 shows [ Ad Td ] full house, tens full of eights
+THRcowboy shows [ Qd Qh ] two pair, queens and tens, eight kicker
+driver719 wins main pot 1025 Tournament chips with full house, tens full of eights.
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2660 Tournament chips) 
+Seat 4: oldman38 (2293 Tournament chips) 
+Seat 5: jjaayy11 (1401 Tournament chips) 
+Seat 6: driver719 (1625 Tournament chips) 
+Seat 7: proteinpowder (841 Tournament chips) 
+Seat 8: THRcowboy (0 Tournament chips) 
+Game #23982898-12 ends
+Player THRcowboy leaves the table with 0 Tournament chips
+Game #23982898-13 starts
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2660 Tournament chips) 
+Seat 4: oldman38 (2293 Tournament chips) 
+Seat 5: jjaayy11 (1401 Tournament chips) 
+Seat 6: driver719 (1625 Tournament chips) 
+Seat 7: proteinpowder (841 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+driver719 posts the small blind [15 Tournament chips]
+proteinpowder posts the big blind [30 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2820 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2660 Tournament chips.
+oldman38, at seat 4, is in this hand with 2293 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1401 Tournament chips.
+driver719, at seat 6, is in this hand with 1610 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 811 Tournament chips.
+driver719 is dealt: **
+proteinpowder is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+Dealt to QwertySpark [ 3c 5d ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+QwertySpark folds [30 Tournament chips]
+DIVETUCK calls [30 Tournament chips]
+oldman38 calls [30 Tournament chips]
+jjaayy11 folds [30 Tournament chips]
+driver719 calls [15 Tournament chips]
+proteinpowder checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 7h ] board:[ 9c 7h]
+** Dealing Flop ** [ 8h ] board:[ 9c 7h 8h]
+driver719 checks
+proteinpowder checks
+DIVETUCK bets for 90 Tournament chips
+oldman38 calls [90 Tournament chips]
+driver719 folds [90 Tournament chips]
+proteinpowder folds [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 9c 7h 8h Ks]
+DIVETUCK bets for 90 Tournament chips
+oldman38 calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 9c 7h 8h Ks 4s]
+DIVETUCK checks
+oldman38 checks
+Round 4 is over.
+DIVETUCK shows [ 9s As ] a pair of nines
+Hand evaluation for DIVETUCK (9s As 9c 8h Ks: a pair of nines)
+oldman38 doesn't show [ 6d Js ]
+(oldman38 has 6d Js.)
+DIVETUCK wins main pot 480 Tournament chips with a pair of nines, ace/king kickers.
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2930 Tournament chips) 
+Seat 4: oldman38 (2083 Tournament chips) 
+Seat 5: jjaayy11 (1401 Tournament chips) 
+Seat 6: driver719 (1595 Tournament chips) 
+Seat 7: proteinpowder (811 Tournament chips) 
+Game #23982898-13 ends
+Game #23982898-14 starts
+Seat 2: QwertySpark (2820 Tournament chips) 
+Seat 3: DIVETUCK (2930 Tournament chips) 
+Seat 4: oldman38 (2083 Tournament chips) 
+Seat 5: jjaayy11 (1401 Tournament chips) 
+Seat 6: driver719 (1595 Tournament chips) 
+Seat 7: proteinpowder (811 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+proteinpowder posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2780 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2930 Tournament chips.
+oldman38, at seat 4, is in this hand with 2083 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1401 Tournament chips.
+driver719, at seat 6, is in this hand with 1595 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 791 Tournament chips.
+proteinpowder is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+Dealt to QwertySpark [ Tc Kd ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+DIVETUCK folds [40 Tournament chips]
+oldman38 calls [40 Tournament chips]
+jjaayy11 calls [40 Tournament chips]
+driver719 raises [80 Tournament chips]
+proteinpowder folds [60 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+oldman38 folds [40 Tournament chips]
+jjaayy11 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Js ] board:[ 8s Js]
+** Dealing Flop ** [ 9h ] board:[ 8s Js 9h]
+QwertySpark checks
+jjaayy11 checks
+driver719 checks
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 8s Js 9h Ks]
+QwertySpark bets for 120 Tournament chips
+jjaayy11 folds [120 Tournament chips]
+driver719 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 8s Js 9h Ks 7h]
+QwertySpark bets for 270 Tournament chips
+driver719 folds [270 Tournament chips]
+QwertySpark is returned 270 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Tc 8s Js 9h 7h: straight, jack high)
+QwertySpark wins main pot 540 Tournament chips.
+Seat 1: Ladyrider05 (1465 Tournament chips) 
+Seat 2: QwertySpark (3160 Tournament chips) 
+Seat 3: DIVETUCK (2930 Tournament chips) 
+Seat 4: oldman38 (2043 Tournament chips) 
+Seat 5: jjaayy11 (1321 Tournament chips) 
+Seat 6: driver719 (1395 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Game #23982898-14 ends
+Game #23982898-15 starts
+Seat 1: Ladyrider05 (1465 Tournament chips) 
+Seat 2: QwertySpark (3160 Tournament chips) 
+Seat 3: DIVETUCK (2930 Tournament chips) 
+Seat 4: oldman38 (2043 Tournament chips) 
+Seat 5: jjaayy11 (1321 Tournament chips) 
+Seat 6: driver719 (1395 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [20 Tournament chips]
+DIVETUCK posts the big blind [40 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 3140 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2890 Tournament chips.
+oldman38, at seat 4, is in this hand with 2043 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1321 Tournament chips.
+driver719, at seat 6, is in this hand with 1395 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 791 Tournament chips.
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Dealt to QwertySpark [ 9h 9c ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+oldman38 folds [40 Tournament chips]
+jjaayy11 calls [40 Tournament chips]
+driver719 raises [80 Tournament chips]
+proteinpowder folds [80 Tournament chips]
+QwertySpark re-raises [340 Tournament chips]
+DIVETUCK folds [320 Tournament chips]
+jjaayy11 folds [320 Tournament chips]
+driver719 calls [280 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Qs ] board:[ Ks Qs]
+** Dealing Flop ** [ 7c ] board:[ Ks Qs 7c]
+QwertySpark bets for 400 Tournament chips
+driver719 raises all-in [1035 Tournament chips]
+QwertySpark folds [635 Tournament chips]
+driver719 is returned 635 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for driver719 (Jc Jh Ks Qs 7c: a pair of jacks)
+driver719 wins main pot 1600 Tournament chips.
+Seat 1: Ladyrider05 (1465 Tournament chips) 
+Seat 2: QwertySpark (2400 Tournament chips) 
+Seat 3: DIVETUCK (2890 Tournament chips) 
+Seat 4: oldman38 (2043 Tournament chips) 
+Seat 5: jjaayy11 (1281 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Game #23982898-15 ends
+Game #23982898-16 starts
+Seat 1: Ladyrider05 (1465 Tournament chips) 
+Seat 2: QwertySpark (2400 Tournament chips) 
+Seat 3: DIVETUCK (2890 Tournament chips) 
+Seat 4: oldman38 (2043 Tournament chips) 
+Seat 5: jjaayy11 (1281 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 2.
+DIVETUCK posts the small blind [20 Tournament chips]
+oldman38 posts the big blind [40 Tournament chips]
+Ladyrider05, at seat 1, is in this hand with 1465 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2400 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2870 Tournament chips.
+oldman38, at seat 4, is in this hand with 2003 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1281 Tournament chips.
+driver719, at seat 6, is in this hand with 2235 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 791 Tournament chips.
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Ladyrider05 is dealt: **
+
+Dealt to Ladyrider05 [ **** ]
+Dealt to QwertySpark [ 2c 4s ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+jjaayy11 calls [40 Tournament chips]
+driver719 folds [40 Tournament chips]
+proteinpowder folds [40 Tournament chips]
+Ladyrider05 calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+DIVETUCK calls [20 Tournament chips]
+oldman38 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 8s ] board:[ 9h 8s]
+** Dealing Flop ** [ Ad ] board:[ 9h 8s Ad]
+DIVETUCK checks
+oldman38 checks
+jjaayy11 checks
+Ladyrider05 bets for 40 Tournament chips
+DIVETUCK folds [40 Tournament chips]
+oldman38 calls [40 Tournament chips]
+jjaayy11 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 9h 8s Ad 2h]
+oldman38 checks
+jjaayy11 checks
+Ladyrider05 goes all-in for 1385 Tournament chips
+oldman38 folds [1385 Tournament chips]
+jjaayy11 folds [1201 Tournament chips]
+Ladyrider05 is returned 1385 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Ladyrider05 (7s 7h 9h 8s Ad: a pair of sevens)
+Ladyrider05 wins main pot 280 Tournament chips.
+Seat 1: Ladyrider05 (1665 Tournament chips) 
+Seat 2: QwertySpark (2400 Tournament chips) 
+Seat 3: DIVETUCK (2850 Tournament chips) 
+Seat 4: oldman38 (1963 Tournament chips) 
+Seat 5: jjaayy11 (1201 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Game #23982898-16 ends
+Game #23982898-17 starts
+Seat 1: Ladyrider05 (1665 Tournament chips) 
+Seat 2: QwertySpark (2400 Tournament chips) 
+Seat 3: DIVETUCK (2850 Tournament chips) 
+Seat 4: oldman38 (1963 Tournament chips) 
+Seat 5: jjaayy11 (1201 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+oldman38 posts the small blind [20 Tournament chips]
+jjaayy11 posts the big blind [40 Tournament chips]
+Ladyrider05, at seat 1, is in this hand with 1665 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2400 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2850 Tournament chips.
+oldman38, at seat 4, is in this hand with 1943 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1161 Tournament chips.
+driver719, at seat 6, is in this hand with 2235 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 791 Tournament chips.
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+Dealt to Ladyrider05 [ **** ]
+Dealt to QwertySpark [ 9c 2d ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+driver719 folds [40 Tournament chips]
+proteinpowder folds [40 Tournament chips]
+Ladyrider05 calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+DIVETUCK calls [40 Tournament chips]
+oldman38 calls [20 Tournament chips]
+jjaayy11 checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 6h ] board:[ 4d 6h]
+** Dealing Flop ** [ 7d ] board:[ 4d 6h 7d]
+oldman38 checks
+jjaayy11 checks
+Ladyrider05 checks
+QwertySpark checks
+DIVETUCK bets for 200 Tournament chips
+oldman38 calls [200 Tournament chips]
+jjaayy11 folds [200 Tournament chips]
+Ladyrider05 folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 4d 6h 7d Ac]
+oldman38 checks
+DIVETUCK checks
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 4d 6h 7d Ac 5d]
+oldman38 bets for 600 Tournament chips
+DIVETUCK calls [600 Tournament chips]
+Round 4 is over.
+oldman38 shows [ 9d 3d ] flush, nine high
+Hand evaluation for oldman38 (9d 3d 4d 7d 5d: flush, nine high)
+DIVETUCK doesn't show [ 3s 7c ]
+(DIVETUCK has 3s 7c.)
+oldman38 wins main pot 1800 Tournament chips with flush, nine/seven/five high.
+Seat 1: Ladyrider05 (1625 Tournament chips) 
+Seat 2: QwertySpark (2360 Tournament chips) 
+Seat 3: DIVETUCK (2010 Tournament chips) 
+Seat 4: oldman38 (2923 Tournament chips) 
+Seat 5: jjaayy11 (1161 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Seat 8: Crazytaipan88 (7790 Tournament chips) 
+Game #23982898-17 ends
+Game #23982898-18 starts
+Seat 1: Ladyrider05 (1625 Tournament chips) 
+Seat 2: QwertySpark (2360 Tournament chips) 
+Seat 3: DIVETUCK (2010 Tournament chips) 
+Seat 4: oldman38 (2923 Tournament chips) 
+Seat 5: jjaayy11 (1161 Tournament chips) 
+Seat 6: driver719 (2235 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Seat 8: Crazytaipan88 (7790 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+jjaayy11 posts the small blind [30 Tournament chips]
+driver719 posts the big blind [60 Tournament chips]
+Ladyrider05, at seat 1, is in this hand with 1625 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2360 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2010 Tournament chips.
+oldman38, at seat 4, is in this hand with 2923 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1131 Tournament chips.
+driver719, at seat 6, is in this hand with 2175 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 791 Tournament chips.
+Crazytaipan88, at seat 8, is in this hand with 7790 Tournament chips.
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+Dealt to Ladyrider05 [ **** ]
+Dealt to QwertySpark [ Kh Jh ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to Crazytaipan88 [ **** ]
+proteinpowder folds [60 Tournament chips]
+Crazytaipan88 raises [240 Tournament chips]
+Ladyrider05 folds [240 Tournament chips]
+QwertySpark calls [240 Tournament chips]
+DIVETUCK folds [240 Tournament chips]
+oldman38 calls [240 Tournament chips]
+jjaayy11 folds [210 Tournament chips]
+driver719 folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ As ] board:[ 9s As]
+** Dealing Flop ** [ Qs ] board:[ 9s As Qs]
+Crazytaipan88 bets for 810 Tournament chips
+QwertySpark folds [810 Tournament chips]
+oldman38 calls [810 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 9s As Qs 3d]
+Crazytaipan88 bets for 1215 Tournament chips
+oldman38 raises all-in [1873 Tournament chips]
+Crazytaipan88 calls [658 Tournament chips]
+Tournament all-in showdown -- players show:
+oldman38 shows [ Js Ks ]
+Crazytaipan88 shows [ 7c 7s ]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 9s As Qs 3d 5h]
+        (no action in this round)
+Round 4 is over.
+oldman38 shows [ Js Ks ] flush, ace/king/queen high
+Crazytaipan88 shows [ 7c 7s ] a pair of sevens, ace/queen kickers
+oldman38 wins main pot 6176 Tournament chips with flush, ace/king/queen high.
+Seat 1: Ladyrider05 (1625 Tournament chips) 
+Seat 2: QwertySpark (2120 Tournament chips) 
+Seat 3: DIVETUCK (2010 Tournament chips) 
+Seat 4: oldman38 (6176 Tournament chips) 
+Seat 5: jjaayy11 (1131 Tournament chips) 
+Seat 6: driver719 (2175 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Seat 8: Crazytaipan88 (4867 Tournament chips) 
+Game #23982898-18 ends
+Game #23982898-19 starts
+Seat 1: Ladyrider05 (1625 Tournament chips) 
+Seat 2: QwertySpark (2120 Tournament chips) 
+Seat 3: DIVETUCK (2010 Tournament chips) 
+Seat 4: oldman38 (6176 Tournament chips) 
+Seat 5: jjaayy11 (1131 Tournament chips) 
+Seat 6: driver719 (2175 Tournament chips) 
+Seat 7: proteinpowder (791 Tournament chips) 
+Seat 8: Crazytaipan88 (4867 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+driver719 posts the small blind [30 Tournament chips]
+proteinpowder posts the big blind [60 Tournament chips]
+Ladyrider05, at seat 1, is in this hand with 1625 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2120 Tournament chips.
+DIVETUCK, at seat 3, is in this hand with 2010 Tournament chips.
+oldman38, at seat 4, is in this hand with 6176 Tournament chips.
+jjaayy11, at seat 5, is in this hand with 1131 Tournament chips.
+driver719, at seat 6, is in this hand (absent) with 2145 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 731 Tournament chips.
+Crazytaipan88, at seat 8, is in this hand with 4867 Tournament chips.
+driver719 is dealt: **
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+Ladyrider05 is dealt: **
+
+DIVETUCK is dealt: **
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+Dealt to Ladyrider05 [ **** ]
+Dealt to QwertySpark [ 3h 7d ]
+Dealt to DIVETUCK [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to Crazytaipan88 [ **** ]
+Crazytaipan88 raises all-in [4867 Tournament chips]
+Ladyrider05 calls all-in [1625 Tournament chips]
+QwertySpark folds [2120 Tournament chips]
+DIVETUCK calls all-in [2010 Tournament chips]
+oldman38 folds [4867 Tournament chips]
+jjaayy11 folds [1131 Tournament chips]
+driver719 folds [2145 Tournament chips]
+proteinpowder folds [731 Tournament chips]
+Crazytaipan88 is returned 2857 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Ladyrider05 shows [ 5c 5d ]
+DIVETUCK shows [ Qs Ks ]
+Crazytaipan88 shows [ 9h 9c ]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 6c ] board:[ 3c 6c]
+** Dealing Flop ** [ 2c ] board:[ 3c 6c 2c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 3c 6c 2c 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 3c 6c 2c 2d Qc]
+        (no action in this round)
+Round 4 is over.
+Ladyrider05 shows [ 5c 5d ] flush, queen/six/five high
+DIVETUCK shows [ Qs Ks ] two pair, queens and deuces, king kicker
+Crazytaipan88 shows [ 9h 9c ] flush, queen/nine/six high
+Crazytaipan88 wins main pot 4965 Tournament chips with flush, queen/nine/six high.
+Crazytaipan88 wins side pot #1 770 Tournament chips with flush, queen/nine/six high.
+Seat 1: Ladyrider05 (0 Tournament chips) 
+Seat 2: QwertySpark (2120 Tournament chips) 
+Seat 3: DIVETUCK (0 Tournament chips) 
+Seat 4: oldman38 (6176 Tournament chips) 
+Seat 5: jjaayy11 (1131 Tournament chips) 
+Seat 6: driver719 (2145 Tournament chips) 
+Seat 7: proteinpowder (731 Tournament chips) 
+Seat 8: Crazytaipan88 (8592 Tournament chips) 
+Game #23982898-19 ends
+Player Ladyrider05 leaves the table with 0 Tournament chips
+Player DIVETUCK leaves the table with 0 Tournament chips
+Game #23982898-20 starts
+Seat 2: QwertySpark (2120 Tournament chips) 
+Seat 4: oldman38 (6176 Tournament chips) 
+Seat 5: jjaayy11 (1131 Tournament chips) 
+Seat 6: driver719 (2145 Tournament chips) 
+Seat 7: proteinpowder (731 Tournament chips) 
+Seat 8: Crazytaipan88 (8592 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+proteinpowder posts the small blind [30 Tournament chips]
+Crazytaipan88 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 2, is in this hand with 2120 Tournament chips.
+oldman38, at seat 4, is in this hand with 6176 Tournament chips.
+jjaayy11, at seat 5, is in this hand (absent) with 1131 Tournament chips.
+driver719, at seat 6, is in this hand (absent) with 2145 Tournament chips.
+proteinpowder, at seat 7, is in this hand with 701 Tournament chips.
+Crazytaipan88, at seat 8, is in this hand with 8532 Tournament chips.
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+proteinpowder is dealt: **
+Crazytaipan88 is dealt: **
+
+oldman38 is dealt: **
+jjaayy11 is dealt: **
+driver719 is dealt: **
+Dealt to QwertySpark [ Kc 2c ]
+Dealt to oldman38 [ **** ]
+Dealt to jjaayy11 [ **** ]
+Dealt to driver719 [ **** ]
+Dealt to proteinpowder [ **** ]
+Dealt to Crazytaipan88 [ **** ]
+QwertySpark calls [60 Tournament chips]
+oldman38 calls [60 Tournament chips]
+jjaayy11 folds [60 Tournament chips]
+driver719 folds [60 Tournament chips]
+proteinpowder calls [30 Tournament chips]
+Crazytaipan88 raises [180 Tournament chips]
+QwertySpark calls [180 Tournament chips]
+oldman38 folds [180 Tournament chips]
+(driver719 has entered the table, is no longer absent.)
+proteinpowder folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 7c ] board:[ 5s 7c]
+** Dealing Flop ** [ 8h ] board:[ 5s 7c 8h]
+Crazytaipan88 bets for 300 Tournament chips
+QwertySpark raises all-in [1880 Tournament chips]
+Crazytaipan88 calls [1580 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kc 2c ]
+Crazytaipan88 shows [ Ac 8c ]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 5s 7c 8h As]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 5s 7c 8h As 7s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kc 2c ] a pair of sevens, ace/king kickers
+Crazytaipan88 shows [ Ac 8c ] two pair, aces and eights, seven kicker
+Crazytaipan88 wins main pot 4360 Tournament chips with two pair, aces and eights, seven kicker.
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 4: oldman38 (6116 Tournament chips) 
+Seat 5: jjaayy11 (1131 Tournament chips) 
+Seat 6: driver719 (2145 Tournament chips) 
+Seat 7: proteinpowder (671 Tournament chips) 
+Seat 8: Crazytaipan88 (10832 Tournament chips) 
+Game #23982898-20 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player oldman38 leaves the table with 6116 Tournament chips
+Player driver719 leaves the table with 2145 Tournament chips
+Player proteinpowder leaves the table with 671 Tournament chips
+Player jjaayy11 leaves the table with 1131 Tournament chips
+Player Crazytaipan88 leaves the table with 10832 Tournament chips
+Game 23982898 is now shutting down

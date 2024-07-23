@@ -1,0 +1,731 @@
+Game#: 23959657
+daves4477 folds [20 Tournament chips]
+Bfox456 calls [20 Tournament chips]
+EUritsky folds [20 Tournament chips]
+Hillamonster1 raises [110 Tournament chips]
+cliffardo calls [100 Tournament chips]
+Danny670 calls [100 Tournament chips]
+Nuggets53 calls [100 Tournament chips]
+Bfox456 folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 6s ] board:[ Qs 6s]
+** Dealing Flop ** [ Qd ] board:[ Qs 6s Qd]
+Hillamonster1 checks
+cliffardo checks
+Danny670 checks
+Nuggets53 checks
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Qs 6s Qd 4c]
+Hillamonster1 checks
+cliffardo checks
+Danny670 checks
+Nuggets53 checks
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Qs 6s Qd 4c Td]
+Hillamonster1 checks
+cliffardo checks
+Danny670 checks
+Nuggets53 checks
+Round 4 is over.
+Hillamonster1 shows [ As 3h ] a pair of queens
+Hand evaluation for Hillamonster1 (As Qs 6s Qd Td: a pair of queens)
+cliffardo doesn't show [ Kh Jc ]
+(cliffardo has Kh Jc.)
+Danny670 doesn't show [ Kd 7d ]
+(Danny670 has Kd 7d.)
+Nuggets53 shows [ Ah 2h ] a pair of queens
+Hand evaluation for Nuggets53 (Ah Qs 6s Qd Td: a pair of queens)
+Hillamonster1 wins main pot 250 Tournament chips of a 500 Tournament chips pot with a pair of queens, ace/ten kickers.
+Nuggets53 wins main pot 250 Tournament chips of a 500 Tournament chips pot with a pair of queens, ace/ten kickers.
+Seat 0: Bfox456 (2790 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (1650 Tournament chips) 
+Seat 4: cliffardo (1220 Tournament chips) 
+Seat 5: Danny670 (4850 Tournament chips) 
+Seat 6: bryanmccauley (1500 Tournament chips) 
+Seat 7: Nuggets53 (1630 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+Game #23959657-6 ends
+Game #23959657-7 starts
+Seat 0: Bfox456 (2790 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (1650 Tournament chips) 
+Seat 4: cliffardo (1220 Tournament chips) 
+Seat 5: Danny670 (4850 Tournament chips) 
+Seat 6: bryanmccauley (1500 Tournament chips) 
+Seat 7: Nuggets53 (1630 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+cliffardo posts the small blind [10 Tournament chips]
+Danny670 posts the big blind [20 Tournament chips]
+Bfox456, at seat 0, is in this hand with 2790 Tournament chips.
+EUritsky, at seat 1, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1500 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 1650 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1210 Tournament chips.
+Danny670, at seat 5, is in this hand with 4830 Tournament chips.
+bryanmccauley, at seat 6, is in this hand with 1500 Tournament chips.
+Nuggets53, at seat 7, is in this hand with 1630 Tournament chips.
+daves4477, at seat 8, is in this hand with 1485 Tournament chips.
+cliffardo is dealt: **
+Danny670 is dealt: **
+bryanmccauley is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+bryanmccauley is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to EUritsky [ **** ]
+Dealt to QwertySpark [ 5d Tc ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to bryanmccauley [ **** ]
+Dealt to Nuggets53 [ **** ]
+Dealt to daves4477 [ **** ]
+bryanmccauley raises [40 Tournament chips]
+Nuggets53 folds [40 Tournament chips]
+daves4477 folds [40 Tournament chips]
+Bfox456 calls [40 Tournament chips]
+EUritsky folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Hillamonster1 calls [40 Tournament chips]
+cliffardo folds [30 Tournament chips]
+Danny670 folds [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Qd ] board:[ 2c Qd]
+** Dealing Flop ** [ 2s ] board:[ 2c Qd 2s]
+bryanmccauley checks
+Bfox456 bets for 100 Tournament chips
+Hillamonster1 folds [100 Tournament chips]
+bryanmccauley folds [100 Tournament chips]
+Bfox456 is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Bfox456 (3c Ah 2c Qd 2s: a pair of deuces)
+Bfox456 wins main pot 150 Tournament chips.
+Seat 0: Bfox456 (2900 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (1610 Tournament chips) 
+Seat 4: cliffardo (1210 Tournament chips) 
+Seat 5: Danny670 (4830 Tournament chips) 
+Seat 6: bryanmccauley (1460 Tournament chips) 
+Seat 7: Nuggets53 (1630 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+Game #23959657-7 ends
+Game #23959657-8 starts
+Seat 0: Bfox456 (2900 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (1610 Tournament chips) 
+Seat 4: cliffardo (1210 Tournament chips) 
+Seat 5: Danny670 (4830 Tournament chips) 
+Seat 6: bryanmccauley (1460 Tournament chips) 
+Seat 7: Nuggets53 (1630 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Danny670 posts the small blind [15 Tournament chips]
+bryanmccauley posts the big blind [30 Tournament chips]
+Bfox456, at seat 0, is in this hand with 2900 Tournament chips.
+EUritsky, at seat 1, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1500 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 1610 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1210 Tournament chips.
+Danny670, at seat 5, is in this hand with 4815 Tournament chips.
+bryanmccauley, at seat 6, is in this hand with 1430 Tournament chips.
+Nuggets53, at seat 7, is in this hand with 1630 Tournament chips.
+daves4477, at seat 8, is in this hand with 1485 Tournament chips.
+Danny670 is dealt: **
+bryanmccauley is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+bryanmccauley is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to EUritsky [ **** ]
+Dealt to QwertySpark [ 6h Th ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to bryanmccauley [ **** ]
+Dealt to Nuggets53 [ **** ]
+Dealt to daves4477 [ **** ]
+Nuggets53 raises [325 Tournament chips]
+daves4477 folds [325 Tournament chips]
+Bfox456 folds [325 Tournament chips]
+EUritsky folds [325 Tournament chips]
+QwertySpark folds [325 Tournament chips]
+Hillamonster1 calls [325 Tournament chips]
+cliffardo folds [325 Tournament chips]
+Danny670 folds [310 Tournament chips]
+bryanmccauley calls [295 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Qs ] board:[ As Qs]
+** Dealing Flop ** [ 8h ] board:[ As Qs 8h]
+bryanmccauley checks
+Nuggets53 checks
+Hillamonster1 goes all-in for 1285 Tournament chips
+bryanmccauley calls all-in [1135 Tournament chips]
+Nuggets53 folds [1285 Tournament chips]
+Hillamonster1 is returned 150 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Hillamonster1 shows [ Kh Qh ]
+bryanmccauley shows [ Ts Td ]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ As Qs 8h 9c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ As Qs 8h 9c 7d]
+        (no action in this round)
+Round 4 is over.
+Hillamonster1: lmao call donkey
+Hillamonster1 shows [ Kh Qh ] a pair of queens, ace/king kickers
+bryanmccauley shows [ Ts Td ] a pair of tens, ace/queen kickers
+Hillamonster1 wins main pot 3260 Tournament chips with a pair of queens, ace/king kickers.
+Seat 0: Bfox456 (2900 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (3410 Tournament chips) 
+Seat 4: cliffardo (1210 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 6: bryanmccauley (0 Tournament chips) 
+Seat 7: Nuggets53 (1305 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+Game #23959657-8 ends
+Player bryanmccauley leaves the table with 0 Tournament chips
+Game #23959657-9 starts
+Seat 0: Bfox456 (2900 Tournament chips) 
+Seat 1: EUritsky (1375 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (3410 Tournament chips) 
+Seat 4: cliffardo (1210 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 7: Nuggets53 (1305 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Nuggets53 posts the big blind [30 Tournament chips]
+Bfox456, at seat 0, is in this hand with 2900 Tournament chips.
+EUritsky, at seat 1, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1500 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3410 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1210 Tournament chips.
+Danny670, at seat 5, is in this hand with 4815 Tournament chips.
+Nuggets53, at seat 7, is in this hand with 1275 Tournament chips.
+daves4477, at seat 8, is in this hand with 1485 Tournament chips.
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+EUritsky is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to EUritsky [ **** ]
+Dealt to QwertySpark [ 6h Td ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to Nuggets53 [ **** ]
+Dealt to daves4477 [ **** ]
+daves4477 folds [30 Tournament chips]
+Bfox456 raises [60 Tournament chips]
+EUritsky calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Hillamonster1 folds [60 Tournament chips]
+cliffardo calls [60 Tournament chips]
+Danny670 folds [60 Tournament chips]
+Nuggets53 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 3c ] board:[ 9s 3c]
+** Dealing Flop ** [ Kh ] board:[ 9s 3c Kh]
+Nuggets53 checks
+Bfox456 checks
+EUritsky bets for 30 Tournament chips
+cliffardo calls [30 Tournament chips]
+Nuggets53 calls [30 Tournament chips]
+Bfox456 calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 9s 3c Kh Kc]
+Nuggets53 checks
+Bfox456 checks
+EUritsky bets for 360 Tournament chips
+cliffardo folds [360 Tournament chips]
+Nuggets53 calls [360 Tournament chips]
+Bfox456 raises [720 Tournament chips]
+EUritsky calls [360 Tournament chips]
+Nuggets53 calls [360 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 9s 3c Kh Kc 3h]
+Nuggets53 checks
+Bfox456 goes all-in for 2090 Tournament chips
+EUritsky calls all-in [565 Tournament chips]
+Nuggets53 folds [495 Tournament chips]
+Bfox456 is returned 1525 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Bfox456 shows [ Ts Kd ]
+EUritsky shows [ Ah Tc ]
+Round 4 is over.
+Bfox456 shows [ Ts Kd ] full house, kings full of threes
+EUritsky shows [ Ah Tc ] two pair, kings and threes, ace kicker
+Bfox456 wins main pot 3650 Tournament chips with full house, kings full of threes.
+Seat 0: Bfox456 (5175 Tournament chips) 
+Seat 1: EUritsky (0 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (3410 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 7: Nuggets53 (495 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+Game #23959657-9 ends
+Player EUritsky leaves the table with 0 Tournament chips
+Game #23959657-10 starts
+Seat 0: Bfox456 (5175 Tournament chips) 
+Seat 2: QwertySpark (1500 Tournament chips) 
+Seat 3: Hillamonster1 (3410 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 7: Nuggets53 (495 Tournament chips) 
+Seat 8: daves4477 (1485 Tournament chips) 
+The button is at seat 5
+Nuggets53 posts the small blind [15 Tournament chips]
+daves4477 posts the big blind [30 Tournament chips]
+Bfox456, at seat 0, is in this hand with 5175 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1500 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3410 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1120 Tournament chips.
+Danny670, at seat 5, is in this hand with 4815 Tournament chips.
+Nuggets53, at seat 7, is in this hand with 480 Tournament chips.
+daves4477, at seat 8, is in this hand with 1455 Tournament chips.
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+Nuggets53 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to QwertySpark [ Ad 2h ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to Nuggets53 [ **** ]
+Dealt to daves4477 [ **** ]
+Bfox456 calls [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+Hillamonster1 calls [150 Tournament chips]
+cliffardo folds [150 Tournament chips]
+Danny670 folds [150 Tournament chips]
+Nuggets53 calls [135 Tournament chips]
+daves4477 folds [120 Tournament chips]
+Bfox456 calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 9c ] board:[ Ac 9c]
+** Dealing Flop ** [ 6d ] board:[ Ac 9c 6d]
+Nuggets53 bets for 30 Tournament chips
+Bfox456 calls [30 Tournament chips]
+QwertySpark raises [750 Tournament chips]
+Hillamonster1 folds [750 Tournament chips]
+Nuggets53 calls all-in [315 Tournament chips]
+Bfox456 folds [720 Tournament chips]
+QwertySpark is returned 405 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 2h ]
+Nuggets53 shows [ 6c 7s ]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Ac 9c 6d Ah]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Ac 9c 6d Ah Kd]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 2h ] three aces, king/nine kickers
+Nuggets53 shows [ 6c 7s ] two pair, aces and sixes, king kicker
+QwertySpark wins main pot 1350 Tournament chips with three aces, king/nine kickers.
+Seat 0: Bfox456 (4995 Tournament chips) 
+Seat 2: QwertySpark (2355 Tournament chips) 
+Seat 3: Hillamonster1 (3260 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 7: Nuggets53 (0 Tournament chips) 
+Seat 8: daves4477 (1455 Tournament chips) 
+Game #23959657-10 ends
+Player Nuggets53 leaves the table with 0 Tournament chips
+Game #23959657-11 starts
+Seat 0: Bfox456 (4995 Tournament chips) 
+Seat 2: QwertySpark (2355 Tournament chips) 
+Seat 3: Hillamonster1 (3260 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (4815 Tournament chips) 
+Seat 8: daves4477 (1455 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+daves4477 posts the small blind [20 Tournament chips]
+Bfox456 posts the big blind [40 Tournament chips]
+Bfox456, at seat 0, is in this hand with 4955 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2355 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3260 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1120 Tournament chips.
+Danny670, at seat 5, is in this hand with 4815 Tournament chips.
+daves4477, at seat 8, is in this hand with 1435 Tournament chips.
+daves4477 is dealt: **
+Bfox456 is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to QwertySpark [ Ad Tc ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to daves4477 [ **** ]
+QwertySpark calls [40 Tournament chips]
+Hillamonster1 calls [40 Tournament chips]
+cliffardo folds [40 Tournament chips]
+Danny670 calls [40 Tournament chips]
+daves4477 calls [20 Tournament chips]
+Bfox456 checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Ts ] board:[ Js Ts]
+** Dealing Flop ** [ 6s ] board:[ Js Ts 6s]
+daves4477 has timed out - the hand is checked
+Bfox456 checks
+QwertySpark bets for 100 Tournament chips
+Hillamonster1 folds [100 Tournament chips]
+Danny670 raises [500 Tournament chips]
+daves4477 calls [500 Tournament chips]
+Bfox456 calls [500 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Js Ts 6s 4c]
+daves4477 bets for 40 Tournament chips
+Bfox456 raises [413 Tournament chips]
+Danny670 calls [413 Tournament chips]
+daves4477 calls [373 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Js Ts 6s 4c 4d]
+daves4477 goes all-in for 502 Tournament chips
+Bfox456 folds [502 Tournament chips]
+Danny670 calls [502 Tournament chips]
+Tournament all-in showdown -- players show:
+Danny670 shows [ 6d 8s ]
+daves4477 shows [ Jh 9h ]
+Round 4 is over.
+Danny670 shows [ 6d 8s ] two pair, sixes and fours, jack kicker
+daves4477 shows [ Jh 9h ] two pair, jacks and fours, ten kicker
+daves4477 wins main pot 4043 Tournament chips with two pair, jacks and fours, ten kicker.
+Seat 0: Bfox456 (4042 Tournament chips) 
+Seat 1: byu15xyz (1400 Tournament chips) 
+Seat 2: QwertySpark (2215 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (3360 Tournament chips) 
+Seat 8: daves4477 (4043 Tournament chips) 
+Game #23959657-11 ends
+Game #23959657-12 starts
+Seat 0: Bfox456 (4042 Tournament chips) 
+Seat 1: byu15xyz (1400 Tournament chips) 
+Seat 2: QwertySpark (2215 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (3360 Tournament chips) 
+Seat 8: daves4477 (4043 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Bfox456 posts the small blind [20 Tournament chips]
+byu15xyz posts the big blind [40 Tournament chips]
+Bfox456, at seat 0, is in this hand with 4022 Tournament chips.
+byu15xyz, at seat 1, is in this hand with 1360 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2215 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3220 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1120 Tournament chips.
+Danny670, at seat 5, is in this hand with 3360 Tournament chips.
+daves4477, at seat 8, is in this hand with 4043 Tournament chips.
+Bfox456 is dealt: **
+byu15xyz is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+byu15xyz is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to QwertySpark [ Ks 4s ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to daves4477 [ **** ]
+QwertySpark raises [80 Tournament chips]
+Hillamonster1 folds [80 Tournament chips]
+cliffardo folds [80 Tournament chips]
+Danny670 calls [80 Tournament chips]
+daves4477 calls [80 Tournament chips]
+Bfox456 calls [60 Tournament chips]
+byu15xyz calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8s ] board:[ Qs 8s]
+** Dealing Flop ** [ 7s ] board:[ Qs 8s 7s]
+Bfox456 checks
+byu15xyz bets for 40 Tournament chips
+QwertySpark raises [80 Tournament chips]
+Danny670 calls [80 Tournament chips]
+daves4477 folds [80 Tournament chips]
+Bfox456 folds [80 Tournament chips]
+byu15xyz calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Qs 8s 7s 7h]
+byu15xyz checks
+QwertySpark bets for 120 Tournament chips
+Danny670 raises all-in [3200 Tournament chips]
+byu15xyz folds [1240 Tournament chips]
+QwertySpark calls all-in [1935 Tournament chips]
+Danny670 is returned 1145 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ks 4s ]
+Danny670 shows [ 6c 7c ]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Qs 8s 7s 7h As]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ks 4s ] flush, ace/king/queen high
+Danny670 shows [ 6c 7c ] three sevens, ace/queen kickers
+QwertySpark wins main pot 4750 Tournament chips with flush, ace/king/queen high.
+Seat 0: Bfox456 (3962 Tournament chips) 
+Seat 1: byu15xyz (1240 Tournament chips) 
+Seat 2: QwertySpark (4750 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (1145 Tournament chips) 
+Seat 8: daves4477 (3963 Tournament chips) 
+Game #23959657-12 ends
+Game #23959657-13 starts
+Seat 0: Bfox456 (3962 Tournament chips) 
+Seat 1: byu15xyz (1240 Tournament chips) 
+Seat 2: QwertySpark (4750 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (1145 Tournament chips) 
+Seat 8: daves4477 (3963 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+byu15xyz posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Bfox456, at seat 0, is in this hand with 3962 Tournament chips.
+byu15xyz, at seat 1, is in this hand with 1220 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 4710 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3220 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1120 Tournament chips.
+Danny670, at seat 5, is in this hand with 1145 Tournament chips.
+daves4477, at seat 8, is in this hand with 3963 Tournament chips.
+byu15xyz is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+byu15xyz is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to QwertySpark [ 3d 9c ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to daves4477 [ **** ]
+Hillamonster1 folds [40 Tournament chips]
+cliffardo folds [40 Tournament chips]
+Danny670 folds [40 Tournament chips]
+daves4477 folds [40 Tournament chips]
+Bfox456 calls [40 Tournament chips]
+byu15xyz calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 9s ] board:[ 5h 9s]
+** Dealing Flop ** [ 5d ] board:[ 5h 9s 5d]
+byu15xyz checks
+QwertySpark bets for 80 Tournament chips
+Bfox456 raises [320 Tournament chips]
+byu15xyz folds [320 Tournament chips]
+QwertySpark calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 5h 9s 5d 7c]
+QwertySpark checks
+Bfox456 bets for 880 Tournament chips
+QwertySpark calls [880 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 5h 9s 5d 7c Js]
+QwertySpark bets for 360 Tournament chips
+Bfox456 raises [1040 Tournament chips]
+QwertySpark calls [680 Tournament chips]
+Round 4 is over.
+Bfox456 shows [ As Jc ] two pair, jacks and fives
+Hand evaluation for Bfox456 (As Jc 5h 5d Js: two pair, jacks and fives)
+QwertySpark doesn't show [ 3d 9c ]
+(QwertySpark has 3d 9c.)
+Bfox456 wins main pot 4600 Tournament chips with two pair, jacks and fives, ace kicker.
+Seat 0: Bfox456 (6282 Tournament chips) 
+Seat 1: byu15xyz (1200 Tournament chips) 
+Seat 2: QwertySpark (2470 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (1145 Tournament chips) 
+Seat 8: daves4477 (3963 Tournament chips) 
+Game #23959657-13 ends
+Game #23959657-14 starts
+Seat 0: Bfox456 (6282 Tournament chips) 
+Seat 1: byu15xyz (1200 Tournament chips) 
+Seat 2: QwertySpark (2470 Tournament chips) 
+Seat 3: Hillamonster1 (3220 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (1145 Tournament chips) 
+Seat 8: daves4477 (3963 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+Hillamonster1 posts the big blind [60 Tournament chips]
+Bfox456, at seat 0, is in this hand with 6282 Tournament chips.
+byu15xyz, at seat 1, is in this hand with 1200 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2440 Tournament chips.
+Hillamonster1, at seat 3, is in this hand with 3160 Tournament chips.
+cliffardo, at seat 4, is in this hand with 1120 Tournament chips.
+Danny670, at seat 5, is in this hand with 1145 Tournament chips.
+daves4477, at seat 8, is in this hand with 3963 Tournament chips.
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+byu15xyz is dealt: **
+
+Hillamonster1 is dealt: **
+cliffardo is dealt: **
+Danny670 is dealt: **
+daves4477 is dealt: **
+Bfox456 is dealt: **
+byu15xyz is dealt: **
+Dealt to Bfox456 [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to QwertySpark [ As 9s ]
+Dealt to Hillamonster1 [ **** ]
+Dealt to cliffardo [ **** ]
+Dealt to Danny670 [ **** ]
+Dealt to daves4477 [ **** ]
+cliffardo folds [60 Tournament chips]
+Danny670 raises all-in [1145 Tournament chips]
+daves4477 calls [1145 Tournament chips]
+Bfox456 folds [1145 Tournament chips]
+byu15xyz folds [1145 Tournament chips]
+QwertySpark calls [1115 Tournament chips]
+Hillamonster1 calls [1085 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 8s ] board:[ Ah 8s]
+** Dealing Flop ** [ Jh ] board:[ Ah 8s Jh]
+QwertySpark goes all-in for 1325 Tournament chips
+Hillamonster1 calls [1325 Tournament chips]
+daves4477 raises [2650 Tournament chips]
+Hillamonster1 calls all-in [750 Tournament chips]
+daves4477 is returned 575 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ As 9s ]
+Hillamonster1 shows [ Ts Ac ]
+Danny670 shows [ 9h 9d ]
+daves4477 shows [ Js Ks ]
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ Ah 8s Jh Kd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ Ah 8s Jh Kd Kh]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ As 9s ] two pair, aces and kings, jack kicker
+Hillamonster1 shows [ Ts Ac ] two pair, aces and kings, jack kicker
+Danny670 shows [ 9h 9d ] two pair, kings and nines, ace kicker
+daves4477 shows [ Js Ks ] full house, kings full of jacks
+daves4477 wins main pot 4580 Tournament chips with full house, kings full of jacks.
+daves4477 wins side pot #1 3975 Tournament chips with full house, kings full of jacks.
+daves4477 wins side pot #2 1500 Tournament chips with full house, kings full of jacks.
+Hillamonster1: lmao
+Seat 0: Bfox456 (6282 Tournament chips) 
+Seat 1: byu15xyz (1200 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: Hillamonster1 (0 Tournament chips) 
+Seat 4: cliffardo (1120 Tournament chips) 
+Seat 5: Danny670 (0 Tournament chips) 
+Seat 8: daves4477 (10798 Tournament chips) 
+Game #23959657-14 ends
+Player Danny670 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips
+Player Hillamonster1 leaves the table with 0 Tournament chips

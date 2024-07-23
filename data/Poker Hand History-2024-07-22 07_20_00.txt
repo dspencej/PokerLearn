@@ -1,0 +1,1575 @@
+Game#: 23943278
+the1below calls [10 Tournament chips]
+Twinmom08 calls [10 Tournament chips]
+MTGambler folds [10 Tournament chips]
+LilyBear2016 folds [5 Tournament chips]
+enameldust folds
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 2h ] board:[ 7h 2h]
+** Dealing Flop ** [ 2d ] board:[ 7h 2h 2d]
+the1below checks
+Twinmom08 bets for 30 Tournament chips
+the1below calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 7h 2h 2d 8d]
+the1below checks
+Twinmom08 bets for 30 Tournament chips
+the1below calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 7h 2h 2d 8d Ad]
+the1below bets for 155 Tournament chips
+Twinmom08 folds [155 Tournament chips]
+the1below is returned 155 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for the1below (4d Kd 2d 8d Ad: flush, ace high)
+the1below wins main pot 155 Tournament chips.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2490 Tournament chips) 
+Seat 2: QwertySpark (2500 Tournament chips) 
+Seat 3: Pompano57 (2490 Tournament chips) 
+Seat 4: chas49 (2628 Tournament chips) 
+Seat 5: the1below (2494 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-5 ends
+Game #23943278-6 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2490 Tournament chips) 
+Seat 2: QwertySpark (2500 Tournament chips) 
+Seat 3: Pompano57 (2490 Tournament chips) 
+Seat 4: chas49 (2628 Tournament chips) 
+Seat 5: the1below (2494 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+enameldust posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2490 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2490 Tournament chips.
+chas49, at seat 4, is in this hand with 2628 Tournament chips.
+the1below, at seat 5, is in this hand with 2494 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2510 Tournament chips.
+MTGambler, at seat 7, is in this hand (absent) with 2485 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 4d 5d ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+Pompano57 folds [10 Tournament chips]
+chas49 raises [20 Tournament chips]
+the1below calls [20 Tournament chips]
+Twinmom08 folds [20 Tournament chips]
+MTGambler folds [20 Tournament chips]
+LilyBear2016 folds [20 Tournament chips]
+enameldust folds [15 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 6c ] board:[ 4c 6c]
+** Dealing Flop ** [ 8s ] board:[ 4c 6c 8s]
+QwertySpark bets for 40 Tournament chips
+chas49 calls [40 Tournament chips]
+the1below calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 4c 6c 8s 6d]
+QwertySpark checks
+chas49 checks
+the1below bets for 92 Tournament chips
+QwertySpark calls [92 Tournament chips]
+chas49 folds [92 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 4c 6c 8s 6d Jh]
+QwertySpark checks
+the1below checks
+Round 4 is over.
+QwertySpark shows [ 4d 5d ] two pair, sixes and fours
+Hand evaluation for QwertySpark (4d 4c 6c 6d Jh: two pair, sixes and fours)
+the1below shows [ Ac 4h ] two pair, sixes and fours
+Hand evaluation for the1below (Ac 4h 4c 6c 6d: two pair, sixes and fours)
+the1below wins main pot 369 Tournament chips with two pair, sixes and fours, ace kicker.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2348 Tournament chips) 
+Seat 3: Pompano57 (2490 Tournament chips) 
+Seat 4: chas49 (2568 Tournament chips) 
+Seat 5: the1below (2711 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-6 ends
+Game #23943278-7 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2348 Tournament chips) 
+Seat 3: Pompano57 (2490 Tournament chips) 
+Seat 4: chas49 (2568 Tournament chips) 
+Seat 5: the1below (2711 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+Pompano57 posts the big blind [20 Tournament chips]
+Fennways44, at seat 0, is in this hand with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2338 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2470 Tournament chips.
+chas49, at seat 4, is in this hand with 2568 Tournament chips.
+the1below, at seat 5, is in this hand with 2711 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2510 Tournament chips.
+MTGambler, at seat 7, is in this hand (absent) with 2485 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Kh Qc ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+chas49 folds [20 Tournament chips]
+the1below calls [20 Tournament chips]
+Twinmom08 folds [20 Tournament chips]
+MTGambler folds [20 Tournament chips]
+LilyBear2016 folds [20 Tournament chips]
+Fennways44 folds [20 Tournament chips]
+enameldust folds [20 Tournament chips]
+QwertySpark raises [70 Tournament chips]
+Pompano57 calls [60 Tournament chips]
+the1below calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 7d ] board:[ Jc 7d]
+** Dealing Flop ** [ Ks ] board:[ Jc 7d Ks]
+QwertySpark bets for 120 Tournament chips
+Pompano57 folds [120 Tournament chips]
+the1below folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kh Qc Jc 7d Ks: a pair of kings)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2410 Tournament chips) 
+Seat 4: chas49 (2568 Tournament chips) 
+Seat 5: the1below (2631 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-7 ends
+Game #23943278-8 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2410 Tournament chips) 
+Seat 4: chas49 (2568 Tournament chips) 
+Seat 5: the1below (2631 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2485 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Pompano57 posts the small blind [10 Tournament chips]
+chas49 posts the big blind [20 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2508 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2400 Tournament chips.
+chas49, at seat 4, is in this hand with 2548 Tournament chips.
+the1below, at seat 5, is in this hand with 2631 Tournament chips.
+Twinmom08, at seat 6, is in this hand (absent) with 2510 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2485 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 2s 8d ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+the1below calls [20 Tournament chips]
+Twinmom08 folds [20 Tournament chips]
+MTGambler calls [20 Tournament chips]
+LilyBear2016 folds [20 Tournament chips]
+Fennways44 folds [20 Tournament chips]
+enameldust folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Pompano57 calls [10 Tournament chips]
+chas49 checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ As ] board:[ Kh As]
+** Dealing Flop ** [ 6c ] board:[ Kh As 6c]
+(Twinmom08 has entered the table, is no longer absent.)
+Pompano57 checks
+chas49 checks
+the1below checks
+MTGambler checks
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Kh As 6c 7c]
+Pompano57 checks
+chas49 bets for 40 Tournament chips
+the1below raises [100 Tournament chips]
+MTGambler calls [100 Tournament chips]
+Pompano57 folds [100 Tournament chips]
+chas49 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ Kh As 6c 7c Qc]
+chas49 checks
+the1below checks
+MTGambler bets for 60 Tournament chips
+chas49 folds [60 Tournament chips]
+the1below folds [60 Tournament chips]
+MTGambler is returned 60 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for MTGambler (Ad Kd Kh As Qc: two pair, aces and kings)
+MTGambler wins main pot 380 Tournament chips.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2390 Tournament chips) 
+Seat 4: chas49 (2448 Tournament chips) 
+Seat 5: the1below (2511 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2745 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-8 ends
+Game #23943278-9 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2390 Tournament chips) 
+Seat 4: chas49 (2448 Tournament chips) 
+Seat 5: the1below (2511 Tournament chips) 
+Seat 6: Twinmom08 (2510 Tournament chips) 
+Seat 7: MTGambler (2745 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+chas49 posts the small blind [10 Tournament chips]
+the1below posts the big blind [20 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2508 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2390 Tournament chips.
+chas49, at seat 4, is in this hand with 2438 Tournament chips.
+the1below, at seat 5, is in this hand with 2491 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2510 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2745 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Kc 7h ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+Twinmom08 calls [20 Tournament chips]
+MTGambler folds [20 Tournament chips]
+LilyBear2016 folds [20 Tournament chips]
+Fennways44 folds [20 Tournament chips]
+enameldust folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Pompano57 calls [20 Tournament chips]
+chas49 calls [10 Tournament chips]
+the1below checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 3c ] board:[ Td 3c]
+** Dealing Flop ** [ 5c ] board:[ Td 3c 5c]
+chas49 bets for 40 Tournament chips
+the1below calls [40 Tournament chips]
+Twinmom08 folds [40 Tournament chips]
+Pompano57 raises [240 Tournament chips]
+chas49 folds [200 Tournament chips]
+the1below calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Td 3c 5c 9c]
+the1below checks
+Pompano57 bets for 600 Tournament chips
+the1below folds [600 Tournament chips]
+Pompano57 is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Pompano57 (3h 3d Td 3c 9c: three threes)
+Pompano57 wins main pot 600 Tournament chips.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2388 Tournament chips) 
+Seat 5: the1below (2251 Tournament chips) 
+Seat 6: Twinmom08 (2490 Tournament chips) 
+Seat 7: MTGambler (2745 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-9 ends
+Game #23943278-10 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2508 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2388 Tournament chips) 
+Seat 5: the1below (2251 Tournament chips) 
+Seat 6: Twinmom08 (2490 Tournament chips) 
+Seat 7: MTGambler (2745 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+the1below posts the small blind [10 Tournament chips]
+Twinmom08 posts the big blind [20 Tournament chips]
+Fennways44, at seat 0, is in this hand with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2508 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2730 Tournament chips.
+chas49, at seat 4, is in this hand with 2388 Tournament chips.
+the1below, at seat 5, is in this hand with 2241 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2470 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2745 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Ad Qc ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+MTGambler calls [20 Tournament chips]
+LilyBear2016 folds [20 Tournament chips]
+Fennways44 folds [20 Tournament chips]
+enameldust folds [20 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+Pompano57 folds [100 Tournament chips]
+chas49 folds [100 Tournament chips]
+the1below calls [90 Tournament chips]
+Twinmom08 folds [80 Tournament chips]
+MTGambler folds [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 3s ] board:[ 6c 3s]
+** Dealing Flop ** [ Tc ] board:[ 6c 3s Tc]
+the1below has timed out - the hand is checked
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 6c 3s Tc 5h]
+the1below has timed out - the hand is checked
+QwertySpark bets for 140 Tournament chips
+the1below folds [140 Tournament chips]
+QwertySpark is returned 140 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ad Qc 6c Tc 5h: ace high)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2648 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2388 Tournament chips) 
+Seat 5: the1below (2151 Tournament chips) 
+Seat 6: Twinmom08 (2470 Tournament chips) 
+Seat 7: MTGambler (2725 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-10 ends
+Game #23943278-11 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2648 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2388 Tournament chips) 
+Seat 5: the1below (2151 Tournament chips) 
+Seat 6: Twinmom08 (2470 Tournament chips) 
+Seat 7: MTGambler (2725 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Twinmom08 posts the small blind [10 Tournament chips]
+MTGambler posts the big blind [20 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2648 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2730 Tournament chips.
+chas49, at seat 4, is in this hand with 2388 Tournament chips.
+the1below, at seat 5, is in this hand with 2151 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2460 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2705 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2485 Tournament chips.
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 2d Js ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+LilyBear2016 folds [20 Tournament chips]
+Fennways44 folds [20 Tournament chips]
+enameldust folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Pompano57 folds [20 Tournament chips]
+chas49 calls [20 Tournament chips]
+the1below folds [20 Tournament chips]
+Twinmom08 calls [10 Tournament chips]
+MTGambler checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Ts ] board:[ Jc Ts]
+** Dealing Flop ** [ 9c ] board:[ Jc Ts 9c]
+Twinmom08 checks
+MTGambler checks
+chas49 bets for 30 Tournament chips
+Twinmom08 calls [30 Tournament chips]
+MTGambler calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Jc Ts 9c Ah]
+Twinmom08 checks
+MTGambler checks
+chas49 bets for 75 Tournament chips
+Twinmom08 folds [75 Tournament chips]
+MTGambler calls [75 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ Jc Ts 9c Ah Qh]
+MTGambler checks
+chas49 checks
+Round 4 is over.
+MTGambler shows [ 8s 6c ] straight, queen high
+Hand evaluation for MTGambler (8s Jc Ts 9c Qh: straight, queen high)
+chas49 shows [ 9d 8c ] straight, queen high
+Hand evaluation for chas49 (9d 8c Jc Ts Qh: straight, queen high)
+MTGambler wins main pot 150 Tournament chips of a 300 Tournament chips pot with straight, queen high.
+chas49 wins main pot 150 Tournament chips of a 300 Tournament chips pot with straight, queen high.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2648 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2413 Tournament chips) 
+Seat 5: the1below (2151 Tournament chips) 
+Seat 6: Twinmom08 (2420 Tournament chips) 
+Seat 7: MTGambler (2750 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+Game #23943278-11 ends
+Game #23943278-12 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2648 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2413 Tournament chips) 
+Seat 5: the1below (2151 Tournament chips) 
+Seat 6: Twinmom08 (2420 Tournament chips) 
+Seat 7: MTGambler (2750 Tournament chips) 
+Seat 8: LilyBear2016 (2485 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+MTGambler posts the small blind [15 Tournament chips]
+LilyBear2016 posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2500 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2648 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2730 Tournament chips.
+chas49, at seat 4, is in this hand with 2413 Tournament chips.
+the1below, at seat 5, is in this hand with 2151 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2420 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2735 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2455 Tournament chips.
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Qs 7s ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+Fennways44 folds [30 Tournament chips]
+enameldust folds [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Pompano57 folds [30 Tournament chips]
+chas49 calls [30 Tournament chips]
+the1below calls [30 Tournament chips]
+Twinmom08 calls [30 Tournament chips]
+MTGambler folds [15 Tournament chips]
+LilyBear2016 folds
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 4c ] board:[ 3s 4c]
+** Dealing Flop ** [ 2c ] board:[ 3s 4c 2c]
+QwertySpark checks
+chas49 checks
+the1below checks
+Twinmom08 checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 3s 4c 2c 8s]
+QwertySpark checks
+chas49 checks
+the1below checks
+Twinmom08 bets for 60 Tournament chips
+QwertySpark calls [60 Tournament chips]
+chas49 folds [60 Tournament chips]
+the1below calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3s 4c 2c 8s Tc]
+QwertySpark checks
+the1below bets for 345 Tournament chips
+Twinmom08 calls [345 Tournament chips]
+QwertySpark folds [345 Tournament chips]
+Round 4 is over.
+the1below shows [ Ad Ts ] a pair of tens
+Hand evaluation for the1below (Ad Ts 4c 8s Tc: a pair of tens)
+Twinmom08 doesn't show [ 8d Kc ]
+(Twinmom08 has 8d Kc.)
+the1below wins main pot 1035 Tournament chips with a pair of tens, ace/eight kickers.
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2558 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2383 Tournament chips) 
+Seat 5: the1below (2751 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+Seat 8: LilyBear2016 (2455 Tournament chips) 
+Game #23943278-12 ends
+Game #23943278-13 starts
+Seat 0: Fennways44 (2500 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2558 Tournament chips) 
+Seat 3: Pompano57 (2730 Tournament chips) 
+Seat 4: chas49 (2383 Tournament chips) 
+Seat 5: the1below (2751 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+Seat 8: LilyBear2016 (2455 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+LilyBear2016 posts the small blind [15 Tournament chips]
+Fennways44 posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2470 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2485 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2558 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2730 Tournament chips.
+chas49, at seat 4, is in this hand with 2383 Tournament chips.
+the1below, at seat 5, is in this hand with 2751 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1985 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2735 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2440 Tournament chips.
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 3c 8c ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+enameldust folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Pompano57 calls [30 Tournament chips]
+chas49 folds [30 Tournament chips]
+the1below folds [30 Tournament chips]
+Twinmom08 folds [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+LilyBear2016 folds [15 Tournament chips]
+Fennways44 folds
+round 1 is over.
+Hand evaluation for Pompano57 (Kc Qs: king high)
+Pompano57 wins main pot 75 Tournament chips.
+Seat 0: Fennways44 (2470 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2558 Tournament chips) 
+Seat 3: Pompano57 (2775 Tournament chips) 
+Seat 4: chas49 (2383 Tournament chips) 
+Seat 5: the1below (2751 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+Seat 8: LilyBear2016 (2440 Tournament chips) 
+Game #23943278-13 ends
+Game #23943278-14 starts
+Seat 0: Fennways44 (2470 Tournament chips) 
+Seat 1: enameldust (2485 Tournament chips) 
+Seat 2: QwertySpark (2558 Tournament chips) 
+Seat 3: Pompano57 (2775 Tournament chips) 
+Seat 4: chas49 (2383 Tournament chips) 
+Seat 5: the1below (2751 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+Seat 8: LilyBear2016 (2440 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Fennways44 posts the small blind [15 Tournament chips]
+enameldust posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2455 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2558 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2775 Tournament chips.
+chas49, at seat 4, is in this hand with 2383 Tournament chips.
+the1below, at seat 5, is in this hand with 2751 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1985 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2735 Tournament chips.
+LilyBear2016, at seat 8, is in this hand (absent) with 2440 Tournament chips.
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+LilyBear2016 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 4s Ks ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Dealt to LilyBear2016 [ **** ]
+QwertySpark calls [30 Tournament chips]
+Pompano57 folds [30 Tournament chips]
+chas49 calls [30 Tournament chips]
+the1below calls [30 Tournament chips]
+Twinmom08 folds [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+LilyBear2016 folds [30 Tournament chips]
+Fennways44 folds [15 Tournament chips]
+enameldust folds
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Ts ] board:[ 3d Ts]
+** Dealing Flop ** [ 3s ] board:[ 3d Ts 3s]
+QwertySpark bets for 120 Tournament chips
+chas49 folds [120 Tournament chips]
+the1below folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (4s Ks 3d Ts 3s: a pair of threes)
+QwertySpark wins main pot 135 Tournament chips.
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2455 Tournament chips) 
+Seat 2: QwertySpark (2663 Tournament chips) 
+Seat 3: Pompano57 (2775 Tournament chips) 
+Seat 4: chas49 (2353 Tournament chips) 
+Seat 5: the1below (2721 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+Seat 8: LilyBear2016 (2440 Tournament chips) 
+Game #23943278-14 ends
+Player LilyBear2016 leaves the table with 0 Tournament chips
+Game #23943278-15 starts
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2455 Tournament chips) 
+Seat 2: QwertySpark (2663 Tournament chips) 
+Seat 3: Pompano57 (2775 Tournament chips) 
+Seat 4: chas49 (2353 Tournament chips) 
+Seat 5: the1below (2721 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2735 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+enameldust posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2633 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2775 Tournament chips.
+chas49, at seat 4, is in this hand with 2353 Tournament chips.
+the1below, at seat 5, is in this hand with 2721 Tournament chips.
+Twinmom08, at seat 6, is in this hand (absent) with 1985 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2735 Tournament chips.
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Qh 7d ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Pompano57 calls [30 Tournament chips]
+chas49 calls [30 Tournament chips]
+the1below calls [30 Tournament chips]
+Twinmom08 folds [30 Tournament chips]
+(Twinmom08 has entered the table, is no longer absent.)
+MTGambler calls [30 Tournament chips]
+Fennways44 folds [30 Tournament chips]
+enameldust folds [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ As ] board:[ Jd As]
+** Dealing Flop ** [ 9h ] board:[ Jd As 9h]
+QwertySpark checks
+Pompano57 bets for 60 Tournament chips
+chas49 folds [60 Tournament chips]
+the1below calls [60 Tournament chips]
+MTGambler folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Jd As 9h 8s]
+Pompano57 bets for 30 Tournament chips
+the1below calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ Jd As 9h 8s 5h]
+Pompano57 bets for 345 Tournament chips
+the1below folds [345 Tournament chips]
+Pompano57 is returned 345 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Pompano57 (5s Ac Jd As 5h: two pair, aces and fives)
+Pompano57 wins main pot 345 Tournament chips.
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2633 Tournament chips) 
+Seat 3: Pompano57 (3000 Tournament chips) 
+Seat 4: chas49 (2323 Tournament chips) 
+Seat 5: the1below (2601 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+Game #23943278-15 ends
+Game #23943278-16 starts
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2633 Tournament chips) 
+Seat 3: Pompano57 (3000 Tournament chips) 
+Seat 4: chas49 (2323 Tournament chips) 
+Seat 5: the1below (2601 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+Pompano57 posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2618 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2970 Tournament chips.
+chas49, at seat 4, is in this hand with 2323 Tournament chips.
+the1below, at seat 5, is in this hand with 2601 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1985 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2705 Tournament chips.
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Kc Th ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+chas49 calls [30 Tournament chips]
+the1below folds [30 Tournament chips]
+Twinmom08 folds [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+Fennways44 folds [30 Tournament chips]
+enameldust folds [30 Tournament chips]
+QwertySpark raises [105 Tournament chips]
+Pompano57 calls [90 Tournament chips]
+chas49 calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 9c ] board:[ Ah 9c]
+** Dealing Flop ** [ Jc ] board:[ Ah 9c Jc]
+QwertySpark bets for 90 Tournament chips
+Pompano57 folds [90 Tournament chips]
+chas49 folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc Th Ah 9c Jc: ace high)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2873 Tournament chips) 
+Seat 3: Pompano57 (2880 Tournament chips) 
+Seat 4: chas49 (2203 Tournament chips) 
+Seat 5: the1below (2601 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+Game #23943278-16 ends
+Game #23943278-17 starts
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2873 Tournament chips) 
+Seat 3: Pompano57 (2880 Tournament chips) 
+Seat 4: chas49 (2203 Tournament chips) 
+Seat 5: the1below (2601 Tournament chips) 
+Seat 6: Twinmom08 (1985 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Pompano57 posts the small blind [15 Tournament chips]
+chas49 posts the big blind [30 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2873 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2865 Tournament chips.
+chas49, at seat 4, is in this hand with 2173 Tournament chips.
+the1below, at seat 5, is in this hand with 2601 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1985 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2705 Tournament chips.
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 6s 7d ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+the1below calls [30 Tournament chips]
+Twinmom08 calls [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+Fennways44 folds [30 Tournament chips]
+enameldust folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Pompano57 calls [15 Tournament chips]
+chas49 checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 5d ] board:[ 9d 5d]
+** Dealing Flop ** [ 3s ] board:[ 9d 5d 3s]
+Pompano57 checks
+chas49 checks
+the1below checks
+Twinmom08 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 9d 5d 3s 7h]
+Pompano57 checks
+chas49 bets for 60 Tournament chips
+the1below calls [60 Tournament chips]
+Twinmom08 folds [60 Tournament chips]
+Pompano57 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 9d 5d 3s 7h Ad]
+Pompano57 checks
+chas49 checks
+the1below checks
+Round 4 is over.
+Pompano57 shows [ Ac 4d ] a pair of aces
+Hand evaluation for Pompano57 (Ac 9d 5d 7h Ad: a pair of aces)
+chas49 doesn't show [ 6d 7s ]
+(chas49 has 6d 7s.)
+the1below doesn't show [ Kh 8c ]
+(the1below has Kh 8c.)
+Pompano57 wins main pot 300 Tournament chips with a pair of aces, nine/seven kickers.
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2873 Tournament chips) 
+Seat 3: Pompano57 (3090 Tournament chips) 
+Seat 4: chas49 (2113 Tournament chips) 
+Seat 5: the1below (2511 Tournament chips) 
+Seat 6: Twinmom08 (1955 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+Game #23943278-17 ends
+Game #23943278-18 starts
+Seat 0: Fennways44 (2455 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2873 Tournament chips) 
+Seat 3: Pompano57 (3090 Tournament chips) 
+Seat 4: chas49 (2113 Tournament chips) 
+Seat 5: the1below (2511 Tournament chips) 
+Seat 6: Twinmom08 (1955 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+chas49 posts the small blind [20 Tournament chips]
+the1below posts the big blind [40 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2455 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2873 Tournament chips.
+Pompano57, at seat 3, is in this hand with 3090 Tournament chips.
+chas49, at seat 4, is in this hand with 2093 Tournament chips.
+the1below, at seat 5, is in this hand with 2471 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1955 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2705 Tournament chips.
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ 7s 8s ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Twinmom08 folds [40 Tournament chips]
+MTGambler folds [40 Tournament chips]
+Fennways44 calls [40 Tournament chips]
+enameldust folds [40 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+Pompano57 calls [120 Tournament chips]
+chas49 folds [100 Tournament chips]
+the1below calls [80 Tournament chips]
+Fennways44 calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 2c ] board:[ 8c 2c]
+** Dealing Flop ** [ Jh ] board:[ 8c 2c Jh]
+the1below checks
+Fennways44 checks
+QwertySpark bets for 200 Tournament chips
+Pompano57 folds [200 Tournament chips]
+the1below calls [200 Tournament chips]
+Fennways44 folds [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 8c 2c Jh 7c]
+the1below checks
+QwertySpark bets for 320 Tournament chips
+the1below folds [320 Tournament chips]
+QwertySpark is returned 320 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (7s 8s 8c Jh 7c: two pair, eights and sevens)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (3453 Tournament chips) 
+Seat 3: Pompano57 (2970 Tournament chips) 
+Seat 4: chas49 (2093 Tournament chips) 
+Seat 5: the1below (2191 Tournament chips) 
+Seat 6: Twinmom08 (1955 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+Game #23943278-18 ends
+Game #23943278-19 starts
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (3453 Tournament chips) 
+Seat 3: Pompano57 (2970 Tournament chips) 
+Seat 4: chas49 (2093 Tournament chips) 
+Seat 5: the1below (2191 Tournament chips) 
+Seat 6: Twinmom08 (1955 Tournament chips) 
+Seat 7: MTGambler (2705 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+the1below posts the small blind [20 Tournament chips]
+Twinmom08 posts the big blind [40 Tournament chips]
+Fennways44, at seat 0, is in this hand (absent) with 2335 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3453 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2970 Tournament chips.
+chas49, at seat 4, is in this hand with 2093 Tournament chips.
+the1below, at seat 5, is in this hand with 2171 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1915 Tournament chips.
+MTGambler, at seat 7, is in this hand with 2705 Tournament chips.
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Ah Qs ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+MTGambler raises [80 Tournament chips]
+Fennways44 folds [80 Tournament chips]
+enameldust folds [80 Tournament chips]
+QwertySpark re-raises [240 Tournament chips]
+Pompano57 folds [240 Tournament chips]
+chas49 folds [240 Tournament chips]
+the1below folds [220 Tournament chips]
+Twinmom08 folds [200 Tournament chips]
+MTGambler calls [160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Ts ] board:[ 8s Ts]
+** Dealing Flop ** [ Qd ] board:[ 8s Ts Qd]
+MTGambler checks
+QwertySpark bets for 580 Tournament chips
+MTGambler calls [580 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 8s Ts Qd Jh]
+MTGambler checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 8s Ts Qd Jh 6c]
+MTGambler checks
+QwertySpark checks
+Round 4 is over.
+MTGambler shows [ As Ks ] straight, ace high
+Hand evaluation for MTGambler (As Ks Ts Qd Jh: straight, ace high)
+QwertySpark doesn't show [ Ah Qs ]
+(QwertySpark has Ah Qs.)
+MTGambler wins main pot 1700 Tournament chips with straight, ace high.
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2633 Tournament chips) 
+Seat 3: Pompano57 (2970 Tournament chips) 
+Seat 4: chas49 (2093 Tournament chips) 
+Seat 5: the1below (2171 Tournament chips) 
+Seat 6: Twinmom08 (1915 Tournament chips) 
+Seat 7: MTGambler (3585 Tournament chips) 
+Game #23943278-19 ends
+Game #23943278-20 starts
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2633 Tournament chips) 
+Seat 3: Pompano57 (2970 Tournament chips) 
+Seat 4: chas49 (2093 Tournament chips) 
+Seat 5: the1below (2171 Tournament chips) 
+Seat 6: Twinmom08 (1915 Tournament chips) 
+Seat 7: MTGambler (3585 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Twinmom08 posts the small blind [20 Tournament chips]
+MTGambler posts the big blind [40 Tournament chips]
+Fennways44, at seat 0, is in this hand with 2335 Tournament chips.
+enameldust, at seat 1, is in this hand (absent) with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2633 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2970 Tournament chips.
+chas49, at seat 4, is in this hand with 2093 Tournament chips.
+the1below, at seat 5, is in this hand with 2171 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 1895 Tournament chips.
+MTGambler, at seat 7, is in this hand with 3545 Tournament chips.
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Td Kh ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Fennways44 folds [40 Tournament chips]
+enameldust folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Pompano57 calls [40 Tournament chips]
+chas49 calls [40 Tournament chips]
+the1below folds [40 Tournament chips]
+Twinmom08 calls [20 Tournament chips]
+MTGambler checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Ah ] board:[ 9h Ah]
+** Dealing Flop ** [ Qc ] board:[ 9h Ah Qc]
+Twinmom08 checks
+MTGambler checks
+QwertySpark checks
+Pompano57 checks
+chas49 checks
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 9h Ah Qc 2s]
+Twinmom08 bets for 80 Tournament chips
+MTGambler folds [80 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Pompano57 folds [80 Tournament chips]
+chas49 calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 9h Ah Qc 2s 8d]
+Twinmom08 checks
+enameldust: ZZZZZZZZZZZZZZZZZZz
+QwertySpark has timed out - the hand is checked
+chas49 has timed out - the hand is checked
+Round 4 is over.
+Twinmom08 shows [ 3d 3h ] a pair of threes
+Hand evaluation for Twinmom08 (3d 3h 9h Ah Qc: a pair of threes)
+QwertySpark doesn't show [ Td Kh ]
+(QwertySpark has Td Kh.)
+chas49 doesn't show [ Kc 2c ]
+(chas49 has Kc 2c.)
+Twinmom08 wins main pot 440 Tournament chips with a pair of threes, ace/queen kickers.
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2513 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1973 Tournament chips) 
+Seat 5: the1below (2171 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3545 Tournament chips) 
+Game #23943278-20 ends
+Game #23943278-21 starts
+Seat 0: Fennways44 (2335 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2513 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1973 Tournament chips) 
+Seat 5: the1below (2171 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3545 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+MTGambler posts the small blind [20 Tournament chips]
+Fennways44 posts the big blind [40 Tournament chips]
+Fennways44, at seat 0, is in this hand with 2295 Tournament chips.
+enameldust, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2513 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2930 Tournament chips.
+chas49, at seat 4, is in this hand with 1973 Tournament chips.
+the1below, at seat 5, is in this hand with 2171 Tournament chips.
+Twinmom08, at seat 6, is in this hand with 2235 Tournament chips.
+MTGambler, at seat 7, is in this hand with 3525 Tournament chips.
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Kc Ad ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+enameldust folds [40 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+Pompano57 folds [200 Tournament chips]
+chas49 folds [200 Tournament chips]
+the1below calls [200 Tournament chips]
+Twinmom08 folds [200 Tournament chips]
+MTGambler folds [180 Tournament chips]
+Fennways44 folds [160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 6s ] board:[ 2d 6s]
+** Dealing Flop ** [ 9c ] board:[ 2d 6s 9c]
+QwertySpark bets for 460 Tournament chips
+the1below folds [460 Tournament chips]
+QwertySpark is returned 460 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc Ad 2d 6s 9c: ace high)
+QwertySpark wins main pot 460 Tournament chips.
+Seat 0: Fennways44 (2295 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2773 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1973 Tournament chips) 
+Seat 5: the1below (1971 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3525 Tournament chips) 
+Game #23943278-21 ends
+Game #23943278-22 starts
+Seat 0: Fennways44 (2295 Tournament chips) 
+Seat 1: enameldust (2440 Tournament chips) 
+Seat 2: QwertySpark (2773 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1973 Tournament chips) 
+Seat 5: the1below (1971 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3525 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Fennways44 posts the small blind [30 Tournament chips]
+enameldust posts the big blind [60 Tournament chips]
+Fennways44, at seat 0, is in this hand with 2265 Tournament chips.
+enameldust, at seat 1, is in this hand with 2380 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2773 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2930 Tournament chips.
+chas49, at seat 4, is in this hand with 1973 Tournament chips.
+the1below, at seat 5, is in this hand with 1971 Tournament chips.
+Twinmom08, at seat 6, is in this hand (absent) with 2235 Tournament chips.
+MTGambler, at seat 7, is in this hand with 3525 Tournament chips.
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Jc Ah ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+QwertySpark calls [60 Tournament chips]
+Pompano57 folds [60 Tournament chips]
+chas49 calls [60 Tournament chips]
+the1below folds [60 Tournament chips]
+Twinmom08 folds [60 Tournament chips]
+MTGambler folds [60 Tournament chips]
+Fennways44 calls [30 Tournament chips]
+enameldust raises [240 Tournament chips]
+QwertySpark calls [240 Tournament chips]
+chas49 calls [240 Tournament chips]
+Fennways44 calls [240 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 3d ] board:[ 2s 3d]
+** Dealing Flop ** [ 6c ] board:[ 2s 3d 6c]
+Fennways44 checks
+enameldust bets for 1200 Tournament chips
+QwertySpark folds [1200 Tournament chips]
+chas49 folds [1200 Tournament chips]
+Fennways44 folds [1200 Tournament chips]
+enameldust is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for enameldust (Kd Qd 2s 3d 6c: king high)
+enameldust wins main pot 1200 Tournament chips.
+(chas49 has entered the table, is no longer absent.)
+Seat 0: Fennways44 (1995 Tournament chips) 
+Seat 1: enameldust (3340 Tournament chips) 
+Seat 2: QwertySpark (2473 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1673 Tournament chips) 
+Seat 5: the1below (1971 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3525 Tournament chips) 
+Game #23943278-22 ends
+Game #23943278-23 starts
+Seat 0: Fennways44 (1995 Tournament chips) 
+Seat 1: enameldust (3340 Tournament chips) 
+Seat 2: QwertySpark (2473 Tournament chips) 
+Seat 3: Pompano57 (2930 Tournament chips) 
+Seat 4: chas49 (1673 Tournament chips) 
+Seat 5: the1below (1971 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3525 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+enameldust posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+Fennways44, at seat 0, is in this hand with 1995 Tournament chips.
+enameldust, at seat 1, is in this hand with 3310 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2413 Tournament chips.
+Pompano57, at seat 3, is in this hand with 2930 Tournament chips.
+chas49, at seat 4, is in this hand with 1673 Tournament chips.
+the1below, at seat 5, is in this hand with 1971 Tournament chips.
+Twinmom08, at seat 6, is in this hand (absent) with 2235 Tournament chips.
+MTGambler, at seat 7, is in this hand with 3525 Tournament chips.
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+enameldust is dealt: **
+
+Pompano57 is dealt: **
+chas49 is dealt: **
+the1below is dealt: **
+Twinmom08 is dealt: **
+MTGambler is dealt: **
+Fennways44 is dealt: **
+Dealt to Fennways44 [ **** ]
+Dealt to enameldust [ **** ]
+Dealt to QwertySpark [ Qd Ac ]
+Dealt to Pompano57 [ **** ]
+Dealt to chas49 [ **** ]
+Dealt to the1below [ **** ]
+Dealt to Twinmom08 [ **** ]
+Dealt to MTGambler [ **** ]
+Pompano57 calls [60 Tournament chips]
+chas49 folds [60 Tournament chips]
+the1below calls [60 Tournament chips]
+Twinmom08 folds [60 Tournament chips]
+MTGambler calls [60 Tournament chips]
+Fennways44 calls [60 Tournament chips]
+enameldust raises [390 Tournament chips]
+QwertySpark re-raises [1020 Tournament chips]
+Pompano57 calls [1020 Tournament chips]
+the1below folds [1020 Tournament chips]
+MTGambler folds [1020 Tournament chips]
+Fennways44 folds [1020 Tournament chips]
+enameldust calls [660 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 4s ] board:[ 8h 4s]
+** Dealing Flop ** [ 9s ] board:[ 8h 4s 9s]
+enameldust checks
+QwertySpark goes all-in for 1393 Tournament chips
+Pompano57 calls [1393 Tournament chips]
+enameldust calls [1393 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 8h 4s 9s Jh]
+enameldust goes all-in for 867 Tournament chips
+Pompano57 calls all-in [457 Tournament chips]
+enameldust is returned 410 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+enameldust shows [ Qc Jd ]
+QwertySpark shows [ Qd Ac ]
+Pompano57 shows [ 7h 7c ]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 8h 4s 9s Jh 6d]
+        (no action in this round)
+Round 4 is over.
+enameldust shows [ Qc Jd ] a pair of jacks, queen/nine kickers
+QwertySpark shows [ Qd Ac ] ace/queen/jack high
+Pompano57 shows [ 7h 7c ] a pair of sevens, jack/nine kickers
+enameldust wins main pot 7599 Tournament chips with a pair of jacks, queen/nine kickers.
+enameldust wins side pot #1 914 Tournament chips with a pair of jacks, queen/nine kickers.
+Seat 0: Fennways44 (1935 Tournament chips) 
+Seat 1: enameldust (8923 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: Pompano57 (0 Tournament chips) 
+Seat 4: chas49 (1673 Tournament chips) 
+Seat 5: the1below (1911 Tournament chips) 
+Seat 6: Twinmom08 (2235 Tournament chips) 
+Seat 7: MTGambler (3465 Tournament chips) 
+Game #23943278-23 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player Pompano57 leaves the table with 0 Tournament chips

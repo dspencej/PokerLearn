@@ -1,0 +1,2558 @@
+Game#: 23938347
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+QwertySpark is dealt: 3h
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+The button is moved to seat 5.
+Game #23938347-1 starts
+Seat 0: bobkatluke (2000 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (2000 Tournament chips) 
+Seat 4: craigd48 (2000 Tournament chips) 
+Seat 5: rchazzardd (2000 Tournament chips) 
+Seat 6: QwertySpark (2000 Tournament chips) 
+Seat 7: Motorcity17 (2000 Tournament chips) 
+Seat 8: Bassmannc01 (2000 Tournament chips) 
+The button is at seat 5
+QwertySpark posts the small blind [5 Tournament chips]
+Motorcity17 posts the big blind [10 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 2000 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 2000 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2000 Tournament chips.
+Edrx, at seat 3, is in this hand with 2000 Tournament chips.
+craigd48, at seat 4, is in this hand with 2000 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1995 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1990 Tournament chips.
+Bassmannc01, at seat 8, is in this hand (absent) with 2000 Tournament chips.
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8h Kh ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+Bassmannc01 folds [10 Tournament chips]
+bobkatluke folds [10 Tournament chips]
+kofpoker folds [10 Tournament chips]
+All InPreFlop folds [10 Tournament chips]
+Edrx calls [10 Tournament chips]
+craigd48 folds [10 Tournament chips]
+rchazzardd calls [10 Tournament chips]
+QwertySpark raises [65 Tournament chips]
+Motorcity17 folds [60 Tournament chips]
+Edrx folds [60 Tournament chips]
+rchazzardd folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8h Kh: king high)
+QwertySpark wins main pot 40 Tournament chips.
+Seat 0: bobkatluke (2000 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1990 Tournament chips) 
+Seat 4: craigd48 (2000 Tournament chips) 
+Seat 5: rchazzardd (1990 Tournament chips) 
+Seat 6: QwertySpark (2030 Tournament chips) 
+Seat 7: Motorcity17 (1990 Tournament chips) 
+Seat 8: Bassmannc01 (2000 Tournament chips) 
+Game #23938347-1 ends
+Game #23938347-2 starts
+Seat 0: bobkatluke (2000 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1990 Tournament chips) 
+Seat 4: craigd48 (2000 Tournament chips) 
+Seat 5: rchazzardd (1990 Tournament chips) 
+Seat 6: QwertySpark (2030 Tournament chips) 
+Seat 7: Motorcity17 (1990 Tournament chips) 
+Seat 8: Bassmannc01 (2000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Motorcity17 posts the small blind [5 Tournament chips]
+Bassmannc01 posts the big blind [10 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 2000 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 2000 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 2000 Tournament chips.
+Edrx, at seat 3, is in this hand with 1990 Tournament chips.
+craigd48, at seat 4, is in this hand with 2000 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 1990 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2030 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand (absent) with 1990 Tournament chips.
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 4s 6d ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+bobkatluke folds [10 Tournament chips]
+kofpoker folds [10 Tournament chips]
+All InPreFlop folds [10 Tournament chips]
+Edrx calls [10 Tournament chips]
+craigd48 calls [10 Tournament chips]
+rchazzardd calls [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Motorcity17 folds [5 Tournament chips]
+Bassmannc01 folds
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 5c ] board:[ 3s 5c]
+** Dealing Flop ** [ Ac ] board:[ 3s 5c Ac]
+Edrx checks
+craigd48 checks
+rchazzardd bets for 55 Tournament chips
+Edrx folds [55 Tournament chips]
+craigd48 folds [55 Tournament chips]
+rchazzardd is returned 55 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rchazzardd (7c As 3s 5c Ac: a pair of aces)
+rchazzardd wins main pot 45 Tournament chips.
+Seat 0: bobkatluke (2000 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1980 Tournament chips) 
+Seat 4: craigd48 (1990 Tournament chips) 
+Seat 5: rchazzardd (2025 Tournament chips) 
+Seat 6: QwertySpark (2030 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1990 Tournament chips) 
+Game #23938347-2 ends
+Game #23938347-3 starts
+Seat 0: bobkatluke (2000 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1980 Tournament chips) 
+Seat 4: craigd48 (1990 Tournament chips) 
+Seat 5: rchazzardd (2025 Tournament chips) 
+Seat 6: QwertySpark (2030 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1990 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Bassmannc01 posts the small blind [5 Tournament chips]
+bobkatluke posts the big blind [10 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1990 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 2000 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 2000 Tournament chips.
+Edrx, at seat 3, is in this hand with 1980 Tournament chips.
+craigd48, at seat 4, is in this hand with 1990 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2025 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2030 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Td 8d ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+kofpoker folds [10 Tournament chips]
+All InPreFlop folds [10 Tournament chips]
+Edrx calls [10 Tournament chips]
+craigd48 calls [10 Tournament chips]
+rchazzardd calls [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Motorcity17 folds [10 Tournament chips]
+Bassmannc01 folds [5 Tournament chips]
+bobkatluke folds
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 9h ] board:[ 4d 9h]
+** Dealing Flop ** [ 9s ] board:[ 4d 9h 9s]
+Edrx bets for 10 Tournament chips
+craigd48 folds [10 Tournament chips]
+rchazzardd calls [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 4d 9h 9s Th]
+Edrx checks
+rchazzardd checks
+QwertySpark bets for 30 Tournament chips
+Edrx folds [30 Tournament chips]
+rchazzardd calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 4d 9h 9s Th 2c]
+rchazzardd checks
+QwertySpark bets for 70 Tournament chips
+rchazzardd folds [70 Tournament chips]
+QwertySpark is returned 70 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Td 8d 9h 9s Th: two pair, tens and nines)
+QwertySpark wins main pot 145 Tournament chips.
+Seat 0: bobkatluke (1990 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1960 Tournament chips) 
+Seat 4: craigd48 (1980 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1985 Tournament chips) 
+Game #23938347-3 ends
+Game #23938347-4 starts
+Seat 0: bobkatluke (1990 Tournament chips) 
+Seat 1: kofpoker (2000 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1960 Tournament chips) 
+Seat 4: craigd48 (1980 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1985 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+bobkatluke posts the small blind [5 Tournament chips]
+kofpoker posts the big blind [10 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1990 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2000 Tournament chips.
+Edrx, at seat 3, is in this hand with 1960 Tournament chips.
+craigd48, at seat 4, is in this hand with 1980 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 1975 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2125 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand with 1985 Tournament chips.
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 7c 3s ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+All InPreFlop folds [10 Tournament chips]
+Edrx calls [10 Tournament chips]
+craigd48 raises [20 Tournament chips]
+rchazzardd folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Motorcity17 folds [20 Tournament chips]
+Bassmannc01 folds [20 Tournament chips]
+bobkatluke folds [15 Tournament chips]
+kofpoker folds [10 Tournament chips]
+Edrx calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 8s ] board:[ 8h 8s]
+** Dealing Flop ** [ 9s ] board:[ 8h 8s 9s]
+Edrx bets for 10 Tournament chips
+craigd48 calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 8h 8s 9s Ts]
+Edrx bets for 10 Tournament chips
+craigd48 calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 8h 8s 9s Ts 4d]
+Edrx bets for 10 Tournament chips
+craigd48 calls [10 Tournament chips]
+Round 4 is over.
+Edrx shows [ Tc Qc ] two pair, tens and eights
+Hand evaluation for Edrx (Tc Qc 8h 8s Ts: two pair, tens and eights)
+craigd48 doesn't show [ Ad Ks ]
+(craigd48 has Ad Ks.)
+Edrx wins main pot 115 Tournament chips with two pair, tens and eights, queen kicker.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1990 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (2025 Tournament chips) 
+Seat 4: craigd48 (1930 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1985 Tournament chips) 
+Game #23938347-4 ends
+Game #23938347-5 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1990 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (2025 Tournament chips) 
+Seat 4: craigd48 (1930 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1985 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+kofpoker posts the small blind [10 Tournament chips]
+All InPreFlop posts the big blind [20 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 2025 Tournament chips.
+craigd48, at seat 4, is in this hand with 1930 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 1975 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2125 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand with 1985 Tournament chips.
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8c 5h ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+Edrx calls [20 Tournament chips]
+craigd48 folds [20 Tournament chips]
+rchazzardd folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Motorcity17 folds [20 Tournament chips]
+Bassmannc01 calls [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+kofpoker folds [10 Tournament chips]
+All InPreFlop raises [140 Tournament chips]
+Edrx folds [140 Tournament chips]
+Bassmannc01 folds [140 Tournament chips]
+All InPreFlop is returned 140 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for All InPreFlop (Ad Kc: ace high)
+All InPreFlop wins main pot 70 Tournament chips.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2050 Tournament chips) 
+Seat 3: Edrx (2005 Tournament chips) 
+Seat 4: craigd48 (1930 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1965 Tournament chips) 
+Game #23938347-5 ends
+Game #23938347-6 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2050 Tournament chips) 
+Seat 3: Edrx (2005 Tournament chips) 
+Seat 4: craigd48 (1930 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1965 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+All InPreFlop posts the small blind [10 Tournament chips]
+Edrx posts the big blind [20 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2040 Tournament chips.
+Edrx, at seat 3, is in this hand with 1985 Tournament chips.
+craigd48, at seat 4, is in this hand with 1930 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 1975 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2125 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand with 1965 Tournament chips.
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 7s 6h ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+craigd48 calls [20 Tournament chips]
+rchazzardd folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Motorcity17 folds [20 Tournament chips]
+Bassmannc01 folds [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+kofpoker folds [20 Tournament chips]
+All InPreFlop calls [10 Tournament chips]
+Edrx checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 5h ] board:[ Ad 5h]
+** Dealing Flop ** [ 7d ] board:[ Ad 5h 7d]
+All InPreFlop checks
+Edrx checks
+craigd48 bets for 20 Tournament chips
+All InPreFlop folds [20 Tournament chips]
+Edrx folds [20 Tournament chips]
+craigd48 is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for craigd48 (5s 3s Ad 5h 7d: a pair of fives)
+craigd48 wins main pot 60 Tournament chips.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1985 Tournament chips) 
+Seat 4: craigd48 (1970 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1965 Tournament chips) 
+Game #23938347-6 ends
+Game #23938347-7 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1985 Tournament chips) 
+Seat 4: craigd48 (1970 Tournament chips) 
+Seat 5: rchazzardd (1975 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1965 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Edrx posts the small blind [10 Tournament chips]
+craigd48 posts the big blind [20 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1975 Tournament chips.
+craigd48, at seat 4, is in this hand with 1950 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 1975 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2125 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand with 1965 Tournament chips.
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 3s 4c ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+rchazzardd calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Motorcity17 folds [20 Tournament chips]
+Bassmannc01 raises [120 Tournament chips]
+bobkatluke folds [120 Tournament chips]
+kofpoker folds [120 Tournament chips]
+All InPreFlop folds [120 Tournament chips]
+Edrx folds [110 Tournament chips]
+craigd48 calls [100 Tournament chips]
+rchazzardd calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Qh ] board:[ 8h Qh]
+** Dealing Flop ** [ 9h ] board:[ 8h Qh 9h]
+craigd48 checks
+rchazzardd checks
+Bassmannc01 bets for 370 Tournament chips
+craigd48 folds [370 Tournament chips]
+rchazzardd raises [1480 Tournament chips]
+Bassmannc01 folds [1110 Tournament chips]
+rchazzardd is returned 1110 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rchazzardd (Ah Jc 8h Qh 9h: ace high)
+rchazzardd wins main pot 1110 Tournament chips.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1975 Tournament chips) 
+Seat 4: craigd48 (1850 Tournament chips) 
+Seat 5: rchazzardd (2595 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1475 Tournament chips) 
+Game #23938347-7 ends
+Game #23938347-8 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1975 Tournament chips) 
+Seat 4: craigd48 (1850 Tournament chips) 
+Seat 5: rchazzardd (2595 Tournament chips) 
+Seat 6: QwertySpark (2125 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (1475 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+craigd48 posts the small blind [10 Tournament chips]
+rchazzardd posts the big blind [20 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1975 Tournament chips.
+craigd48, at seat 4, is in this hand with 1840 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2575 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2125 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+Bassmannc01, at seat 8, is in this hand with 1475 Tournament chips.
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Bassmannc01 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Ah Kc ]
+Dealt to Motorcity17 [ **** ]
+Dealt to Bassmannc01 [ **** ]
+QwertySpark raises [100 Tournament chips]
+Motorcity17 folds [100 Tournament chips]
+Bassmannc01 raises all-in [1475 Tournament chips]
+bobkatluke folds [1475 Tournament chips]
+kofpoker folds [1475 Tournament chips]
+All InPreFlop folds [1475 Tournament chips]
+Edrx folds [1475 Tournament chips]
+craigd48 folds [1465 Tournament chips]
+rchazzardd folds [1455 Tournament chips]
+QwertySpark calls [1375 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ah Kc ]
+Bassmannc01 shows [ Ac Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Qc ] board:[ 7h Qc]
+** Dealing Flop ** [ 3d ] board:[ 7h Qc 3d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 7h Qc 3d 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 7h Qc 3d 8s 2h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ah Kc ] ace/king/queen high
+Bassmannc01 shows [ Ac Jh ] ace/queen/jack high
+QwertySpark wins main pot 2980 Tournament chips with ace/king/queen high.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1975 Tournament chips) 
+Seat 4: craigd48 (1840 Tournament chips) 
+Seat 5: rchazzardd (2575 Tournament chips) 
+Seat 6: QwertySpark (3630 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Seat 8: Bassmannc01 (0 Tournament chips) 
+Game #23938347-8 ends
+Player Bassmannc01 leaves the table with 0 Tournament chips
+Game #23938347-9 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1975 Tournament chips) 
+Seat 4: craigd48 (1840 Tournament chips) 
+Seat 5: rchazzardd (2575 Tournament chips) 
+Seat 6: QwertySpark (3630 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rchazzardd posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1975 Tournament chips.
+craigd48, at seat 4, is in this hand with 1840 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2565 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3610 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1985 Tournament chips.
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 7h 6d ]
+Dealt to Motorcity17 [ **** ]
+Motorcity17 folds [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+kofpoker folds [20 Tournament chips]
+All InPreFlop folds [20 Tournament chips]
+Edrx calls [20 Tournament chips]
+craigd48 raises [60 Tournament chips]
+rchazzardd folds [50 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Edrx folds [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 3h ] board:[ Kh 3h]
+** Dealing Flop ** [ Jh ] board:[ Kh 3h Jh]
+QwertySpark checks
+craigd48 bets for 115 Tournament chips
+QwertySpark calls [115 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ Kh 3h Jh 2d]
+QwertySpark checks
+craigd48 bets for 230 Tournament chips
+QwertySpark folds [230 Tournament chips]
+craigd48 is returned 230 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for craigd48 (Js Qd Kh 3h Jh: a pair of jacks)
+craigd48 wins main pot 380 Tournament chips.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1955 Tournament chips) 
+Seat 4: craigd48 (2045 Tournament chips) 
+Seat 5: rchazzardd (2565 Tournament chips) 
+Seat 6: QwertySpark (3455 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+Game #23938347-9 ends
+Game #23938347-10 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1955 Tournament chips) 
+Seat 4: craigd48 (2045 Tournament chips) 
+Seat 5: rchazzardd (2565 Tournament chips) 
+Seat 6: QwertySpark (3455 Tournament chips) 
+Seat 7: Motorcity17 (1985 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [15 Tournament chips]
+Motorcity17 posts the big blind [30 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1985 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1955 Tournament chips.
+craigd48, at seat 4, is in this hand with 2045 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2565 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3440 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1955 Tournament chips.
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8s 6h ]
+Dealt to Motorcity17 [ **** ]
+bobkatluke folds [30 Tournament chips]
+kofpoker folds [30 Tournament chips]
+All InPreFlop folds [30 Tournament chips]
+Edrx calls [30 Tournament chips]
+craigd48 calls [30 Tournament chips]
+rchazzardd calls [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+Motorcity17 folds
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3d ] board:[ Qd 3d]
+** Dealing Flop ** [ 4d ] board:[ Qd 3d 4d]
+QwertySpark checks
+Edrx checks
+craigd48 checks
+rchazzardd checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Qd 3d 4d 2c]
+QwertySpark checks
+Edrx bets for 30 Tournament chips
+craigd48 calls [30 Tournament chips]
+rchazzardd folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Qd 3d 4d 2c 2s]
+Edrx bets for 210 Tournament chips
+craigd48 calls [210 Tournament chips]
+Round 4 is over.
+Edrx shows [ 3s Tc ] two pair, threes and deuces
+Hand evaluation for Edrx (3s Qd 3d 2c 2s: two pair, threes and deuces)
+craigd48 shows [ Ah 4h ] two pair, fours and deuces
+Hand evaluation for craigd48 (Ah 4h 4d 2c 2s: two pair, fours and deuces)
+craigd48 wins main pot 630 Tournament chips with two pair, fours and deuces, ace kicker.
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1685 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (3425 Tournament chips) 
+Seat 7: Motorcity17 (1955 Tournament chips) 
+Game #23938347-10 ends
+Game #23938347-11 starts
+Seat 0: bobkatluke (1985 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1685 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (3425 Tournament chips) 
+Seat 7: Motorcity17 (1955 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Motorcity17 posts the small blind [15 Tournament chips]
+bobkatluke posts the big blind [30 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1955 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1980 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1685 Tournament chips.
+craigd48, at seat 4, is in this hand with 2405 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2535 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3425 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1940 Tournament chips.
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 2h Ks ]
+Dealt to Motorcity17 [ **** ]
+kofpoker folds [30 Tournament chips]
+All InPreFlop folds [30 Tournament chips]
+Edrx calls [30 Tournament chips]
+craigd48 folds [30 Tournament chips]
+rchazzardd folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Motorcity17 folds [15 Tournament chips]
+bobkatluke folds
+round 1 is over.
+Hand evaluation for Edrx (7c Qs: queen high)
+Edrx wins main pot 75 Tournament chips.
+Seat 0: bobkatluke (1955 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1730 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (3425 Tournament chips) 
+Seat 7: Motorcity17 (1940 Tournament chips) 
+Game #23938347-11 ends
+Game #23938347-12 starts
+Seat 0: bobkatluke (1955 Tournament chips) 
+Seat 1: kofpoker (1980 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1730 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (3425 Tournament chips) 
+Seat 7: Motorcity17 (1940 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+bobkatluke posts the small blind [15 Tournament chips]
+kofpoker posts the big blind [30 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1940 Tournament chips.
+kofpoker, at seat 1, is in this hand (absent) with 1950 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2030 Tournament chips.
+Edrx, at seat 3, is in this hand with 1730 Tournament chips.
+craigd48, at seat 4, is in this hand with 2405 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2535 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3425 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1940 Tournament chips.
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8c 8s ]
+Dealt to Motorcity17 [ **** ]
+All InPreFlop folds [30 Tournament chips]
+Edrx calls [30 Tournament chips]
+craigd48 folds [30 Tournament chips]
+rchazzardd folds [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+Motorcity17 calls [150 Tournament chips]
+bobkatluke folds [135 Tournament chips]
+kofpoker re-raises [240 Tournament chips]
+Edrx folds [240 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Motorcity17 calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 4h ] board:[ 7c 4h]
+** Dealing Flop ** [ 3c ] board:[ 7c 4h 3c]
+kofpoker bets for 855 Tournament chips
+QwertySpark raises [1710 Tournament chips]
+Motorcity17 folds [1670 Tournament chips]
+kofpoker calls all-in [855 Tournament chips]
+Tournament all-in showdown -- players show:
+kofpoker shows [ Jd Js ]
+QwertySpark shows [ 8c 8s ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 7c 4h 3c 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 7c 4h 3c 6h Ac]
+        (no action in this round)
+Round 4 is over.
+kofpoker shows [ Jd Js ] a pair of jacks, ace/seven kickers
+QwertySpark shows [ 8c 8s ] a pair of eights, ace/seven kickers
+kofpoker wins main pot 4275 Tournament chips with a pair of jacks, ace/seven kickers.
+Seat 0: bobkatluke (1940 Tournament chips) 
+Seat 1: kofpoker (4275 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1700 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (1445 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-12 ends
+Game #23938347-13 starts
+Seat 0: bobkatluke (1940 Tournament chips) 
+Seat 1: kofpoker (4275 Tournament chips) 
+Seat 2: All InPreFlop (2030 Tournament chips) 
+Seat 3: Edrx (1700 Tournament chips) 
+Seat 4: craigd48 (2405 Tournament chips) 
+Seat 5: rchazzardd (2535 Tournament chips) 
+Seat 6: QwertySpark (1445 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+kofpoker posts the small blind [15 Tournament chips]
+All InPreFlop posts the big blind [30 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1940 Tournament chips.
+kofpoker, at seat 1, is in this hand with 4260 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2000 Tournament chips.
+Edrx, at seat 3, is in this hand with 1700 Tournament chips.
+craigd48, at seat 4, is in this hand with 2405 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2535 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1445 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1670 Tournament chips.
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Qs Kh ]
+Dealt to Motorcity17 [ **** ]
+Edrx calls [30 Tournament chips]
+craigd48 calls [30 Tournament chips]
+rchazzardd calls [30 Tournament chips]
+QwertySpark raises [210 Tournament chips]
+Motorcity17 folds [210 Tournament chips]
+bobkatluke folds [210 Tournament chips]
+kofpoker calls [195 Tournament chips]
+All InPreFlop folds [180 Tournament chips]
+Edrx folds [180 Tournament chips]
+craigd48 folds [180 Tournament chips]
+rchazzardd calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 3d ] board:[ 3c 3d]
+** Dealing Flop ** [ 6h ] board:[ 3c 3d 6h]
+kofpoker has timed out - the hand is checked
+rchazzardd bets for 840 Tournament chips
+QwertySpark folds [840 Tournament chips]
+kofpoker folds [840 Tournament chips]
+rchazzardd is returned 840 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rchazzardd (4d 4c 3c 3d 6h: two pair, fours and threes)
+rchazzardd wins main pot 720 Tournament chips.
+(kofpoker has entered the table, is no longer absent.)
+Seat 0: bobkatluke (1940 Tournament chips) 
+Seat 1: kofpoker (4065 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1670 Tournament chips) 
+Seat 4: craigd48 (2375 Tournament chips) 
+Seat 5: rchazzardd (3045 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-13 ends
+Game #23938347-14 starts
+Seat 0: bobkatluke (1940 Tournament chips) 
+Seat 1: kofpoker (4065 Tournament chips) 
+Seat 2: All InPreFlop (2000 Tournament chips) 
+Seat 3: Edrx (1670 Tournament chips) 
+Seat 4: craigd48 (2375 Tournament chips) 
+Seat 5: rchazzardd (3045 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+All InPreFlop posts the small blind [20 Tournament chips]
+Edrx posts the big blind [40 Tournament chips]
+bobkatluke, at seat 0, is in this hand (absent) with 1940 Tournament chips.
+kofpoker, at seat 1, is in this hand with 4065 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1630 Tournament chips.
+craigd48, at seat 4, is in this hand with 2375 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 3045 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1235 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1670 Tournament chips.
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bobkatluke is dealt: **
+kofpoker is dealt: **
+Dealt to bobkatluke [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 5c Qc ]
+Dealt to Motorcity17 [ **** ]
+craigd48 raises [120 Tournament chips]
+rchazzardd folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Motorcity17 folds [120 Tournament chips]
+bobkatluke folds [120 Tournament chips]
+kofpoker folds [120 Tournament chips]
+All InPreFlop folds [100 Tournament chips]
+Edrx folds [80 Tournament chips]
+craigd48 is returned 80 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for craigd48 (Kh Ah: ace high)
+craigd48 wins main pot 100 Tournament chips.
+Seat 0: bobkatluke (1940 Tournament chips) 
+Seat 1: kofpoker (4065 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1630 Tournament chips) 
+Seat 4: craigd48 (2435 Tournament chips) 
+Seat 5: rchazzardd (3045 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-14 ends
+Player bobkatluke leaves the table with 0 Tournament chips
+Game #23938347-15 starts
+Seat 1: kofpoker (4065 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1630 Tournament chips) 
+Seat 4: craigd48 (2435 Tournament chips) 
+Seat 5: rchazzardd (3045 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Edrx posts the small blind [20 Tournament chips]
+craigd48 posts the big blind [40 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4065 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1610 Tournament chips.
+craigd48, at seat 4, is in this hand with 2395 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 3045 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1235 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1670 Tournament chips.
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 6h Ts ]
+Dealt to Motorcity17 [ **** ]
+rchazzardd calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Motorcity17 folds [40 Tournament chips]
+kofpoker raises [180 Tournament chips]
+All InPreFlop folds [180 Tournament chips]
+Edrx folds [160 Tournament chips]
+craigd48 folds [140 Tournament chips]
+rchazzardd folds [140 Tournament chips]
+kofpoker is returned 140 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for kofpoker (8c 8h: a pair of eights)
+kofpoker wins main pot 140 Tournament chips.
+Seat 1: kofpoker (4165 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2395 Tournament chips) 
+Seat 5: rchazzardd (3005 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-15 ends
+Game #23938347-16 starts
+Seat 1: kofpoker (4165 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2395 Tournament chips) 
+Seat 5: rchazzardd (3005 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+craigd48 posts the small blind [20 Tournament chips]
+rchazzardd posts the big blind [40 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4165 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1610 Tournament chips.
+craigd48, at seat 4, is in this hand with 2375 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2965 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1235 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1670 Tournament chips.
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Kd 5s ]
+Dealt to Motorcity17 [ **** ]
+QwertySpark folds [40 Tournament chips]
+Motorcity17 folds [40 Tournament chips]
+kofpoker calls [40 Tournament chips]
+All InPreFlop folds [40 Tournament chips]
+Edrx folds [40 Tournament chips]
+craigd48 calls [20 Tournament chips]
+rchazzardd checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Kh ] board:[ Jh Kh]
+** Dealing Flop ** [ Ac ] board:[ Jh Kh Ac]
+craigd48 checks
+rchazzardd checks
+kofpoker bets for 120 Tournament chips
+craigd48 folds [120 Tournament chips]
+rchazzardd folds [120 Tournament chips]
+kofpoker is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for kofpoker (Ad 8c Jh Kh Ac: a pair of aces)
+kofpoker wins main pot 120 Tournament chips.
+Seat 1: kofpoker (4245 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2965 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-16 ends
+Game #23938347-17 starts
+Seat 1: kofpoker (4245 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2965 Tournament chips) 
+Seat 6: QwertySpark (1235 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rchazzardd posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4245 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1610 Tournament chips.
+craigd48, at seat 4, is in this hand with 2355 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2945 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1195 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1670 Tournament chips.
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Kh Qd ]
+Dealt to Motorcity17 [ **** ]
+Motorcity17 folds [40 Tournament chips]
+kofpoker folds [40 Tournament chips]
+All InPreFlop folds [40 Tournament chips]
+Edrx folds [40 Tournament chips]
+craigd48 folds [40 Tournament chips]
+rchazzardd calls [20 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+rchazzardd folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kh Qd: king high)
+QwertySpark wins main pot 80 Tournament chips.
+Seat 1: kofpoker (4245 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2925 Tournament chips) 
+Seat 6: QwertySpark (1275 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+Game #23938347-17 ends
+Game #23938347-18 starts
+Seat 1: kofpoker (4245 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1610 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2925 Tournament chips) 
+Seat 6: QwertySpark (1275 Tournament chips) 
+Seat 7: Motorcity17 (1670 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [20 Tournament chips]
+Motorcity17 posts the big blind [40 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4245 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1610 Tournament chips.
+craigd48, at seat 4, is in this hand with 2355 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2925 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1255 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1630 Tournament chips.
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 4d Qd ]
+Dealt to Motorcity17 [ **** ]
+kofpoker calls [40 Tournament chips]
+All InPreFlop folds [40 Tournament chips]
+Edrx calls [40 Tournament chips]
+craigd48 folds [40 Tournament chips]
+rchazzardd calls [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Motorcity17 folds
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Qh ] board:[ 5d Qh]
+** Dealing Flop ** [ 3h ] board:[ 5d Qh 3h]
+QwertySpark bets for 80 Tournament chips
+kofpoker folds [80 Tournament chips]
+Edrx folds [80 Tournament chips]
+rchazzardd folds [80 Tournament chips]
+QwertySpark is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (4d Qd 5d Qh 3h: a pair of queens)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: kofpoker (4205 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2885 Tournament chips) 
+Seat 6: QwertySpark (1435 Tournament chips) 
+Seat 7: Motorcity17 (1630 Tournament chips) 
+Game #23938347-18 ends
+Game #23938347-19 starts
+Seat 1: kofpoker (4205 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2355 Tournament chips) 
+Seat 5: rchazzardd (2885 Tournament chips) 
+Seat 6: QwertySpark (1435 Tournament chips) 
+Seat 7: Motorcity17 (1630 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Motorcity17 posts the small blind [20 Tournament chips]
+kofpoker posts the big blind [40 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4165 Tournament chips.
+All InPreFlop, at seat 2, is in this hand (absent) with 1980 Tournament chips.
+Edrx, at seat 3, is in this hand with 1570 Tournament chips.
+craigd48, at seat 4, is in this hand with 2355 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2885 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1435 Tournament chips.
+Motorcity17, at seat 7, is in this hand (absent) with 1610 Tournament chips.
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 2c 4h ]
+Dealt to Motorcity17 [ **** ]
+(Motorcity17 has entered the table, is no longer absent.)
+All InPreFlop folds [40 Tournament chips]
+Edrx folds [40 Tournament chips]
+craigd48 calls [40 Tournament chips]
+rchazzardd folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Motorcity17 folds [20 Tournament chips]
+kofpoker checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Ad ] board:[ 9c Ad]
+** Dealing Flop ** [ Jd ] board:[ 9c Ad Jd]
+kofpoker checks
+craigd48 checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 9c Ad Jd 8s]
+kofpoker bets for 80 Tournament chips
+craigd48 calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 9c Ad Jd 8s 8d]
+kofpoker checks
+craigd48 checks
+Round 4 is over.
+kofpoker shows [ 9d Kc ] two pair, nines and eights
+Hand evaluation for kofpoker (9d 9c Ad 8s 8d: two pair, nines and eights)
+craigd48 shows [ 4d Ah ] two pair, aces and eights
+Hand evaluation for craigd48 (Ah Ad Jd 8s 8d: two pair, aces and eights)
+craigd48 wins main pot 260 Tournament chips with two pair, aces and eights, jack kicker.
+Seat 1: kofpoker (4085 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2885 Tournament chips) 
+Seat 6: QwertySpark (1435 Tournament chips) 
+Seat 7: Motorcity17 (1610 Tournament chips) 
+Game #23938347-19 ends
+Game #23938347-20 starts
+Seat 1: kofpoker (4085 Tournament chips) 
+Seat 2: All InPreFlop (1980 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2885 Tournament chips) 
+Seat 6: QwertySpark (1435 Tournament chips) 
+Seat 7: Motorcity17 (1610 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+kofpoker posts the small blind [30 Tournament chips]
+All InPreFlop posts the big blind [60 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4055 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1920 Tournament chips.
+Edrx, at seat 3, is in this hand with 1570 Tournament chips.
+craigd48, at seat 4, is in this hand with 2495 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2885 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1435 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1610 Tournament chips.
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Ks As ]
+Dealt to Motorcity17 [ **** ]
+Edrx folds [60 Tournament chips]
+craigd48 folds [60 Tournament chips]
+rchazzardd calls [60 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+Motorcity17 folds [300 Tournament chips]
+kofpoker folds [270 Tournament chips]
+All InPreFlop folds [240 Tournament chips]
+rchazzardd folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ks As: ace high)
+QwertySpark wins main pot 210 Tournament chips.
+Seat 1: kofpoker (4055 Tournament chips) 
+Seat 2: All InPreFlop (1920 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2825 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Motorcity17 (1610 Tournament chips) 
+Game #23938347-20 ends
+Game #23938347-21 starts
+Seat 1: kofpoker (4055 Tournament chips) 
+Seat 2: All InPreFlop (1920 Tournament chips) 
+Seat 3: Edrx (1570 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2825 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Motorcity17 (1610 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+All InPreFlop posts the small blind [30 Tournament chips]
+Edrx posts the big blind [60 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4055 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1890 Tournament chips.
+Edrx, at seat 3, is in this hand with 1510 Tournament chips.
+craigd48, at seat 4, is in this hand with 2495 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2825 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1585 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1610 Tournament chips.
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 7s 5h ]
+Dealt to Motorcity17 [ **** ]
+craigd48 folds [60 Tournament chips]
+rchazzardd folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Motorcity17 calls [60 Tournament chips]
+kofpoker folds [60 Tournament chips]
+All InPreFlop calls [30 Tournament chips]
+Edrx checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Jh ] board:[ Jc Jh]
+** Dealing Flop ** [ Ts ] board:[ Jc Jh Ts]
+All InPreFlop checks
+Edrx checks
+Motorcity17 bets for 120 Tournament chips
+All InPreFlop folds [120 Tournament chips]
+Edrx folds [120 Tournament chips]
+Motorcity17 is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Motorcity17 (Td Qs Jc Jh Ts: two pair, jacks and tens)
+Motorcity17 wins main pot 180 Tournament chips.
+Seat 1: kofpoker (4055 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1510 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2825 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Motorcity17 (1730 Tournament chips) 
+Game #23938347-21 ends
+Game #23938347-22 starts
+Seat 1: kofpoker (4055 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1510 Tournament chips) 
+Seat 4: craigd48 (2495 Tournament chips) 
+Seat 5: rchazzardd (2825 Tournament chips) 
+Seat 6: QwertySpark (1585 Tournament chips) 
+Seat 7: Motorcity17 (1730 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Edrx posts the small blind [30 Tournament chips]
+craigd48 posts the big blind [60 Tournament chips]
+kofpoker, at seat 1, is in this hand with 4055 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1860 Tournament chips.
+Edrx, at seat 3, is in this hand with 1480 Tournament chips.
+craigd48, at seat 4, is in this hand with 2435 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2825 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1585 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1730 Tournament chips.
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Js Qc ]
+Dealt to Motorcity17 [ **** ]
+rchazzardd calls [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Motorcity17 calls [60 Tournament chips]
+kofpoker calls [60 Tournament chips]
+All InPreFlop folds [60 Tournament chips]
+Edrx calls [30 Tournament chips]
+craigd48 checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 4s ] board:[ 2c 4s]
+** Dealing Flop ** [ 8c ] board:[ 2c 4s 8c]
+Edrx bets for 60 Tournament chips
+craigd48 raises [120 Tournament chips]
+rchazzardd folds [120 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Motorcity17 calls [120 Tournament chips]
+kofpoker calls [120 Tournament chips]
+Edrx calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 2c 4s 8c 6c]
+Edrx checks
+craigd48 bets for 480 Tournament chips
+QwertySpark folds [480 Tournament chips]
+Motorcity17 folds [480 Tournament chips]
+kofpoker folds [480 Tournament chips]
+Edrx folds [480 Tournament chips]
+craigd48 is returned 480 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for craigd48 (9c Tc 2c 8c 6c: flush, ten high)
+craigd48 wins main pot 960 Tournament chips.
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3275 Tournament chips) 
+Seat 5: rchazzardd (2765 Tournament chips) 
+Seat 6: QwertySpark (1405 Tournament chips) 
+Seat 7: Motorcity17 (1550 Tournament chips) 
+Game #23938347-22 ends
+Game #23938347-23 starts
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3275 Tournament chips) 
+Seat 5: rchazzardd (2765 Tournament chips) 
+Seat 6: QwertySpark (1405 Tournament chips) 
+Seat 7: Motorcity17 (1550 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+craigd48 posts the small blind [30 Tournament chips]
+rchazzardd posts the big blind [60 Tournament chips]
+kofpoker, at seat 1, is in this hand with 3875 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1860 Tournament chips.
+Edrx, at seat 3, is in this hand with 1330 Tournament chips.
+craigd48, at seat 4, is in this hand with 3245 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2705 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1405 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1550 Tournament chips.
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 3d Ac ]
+Dealt to Motorcity17 [ **** ]
+QwertySpark raises [240 Tournament chips]
+Motorcity17 calls [240 Tournament chips]
+kofpoker folds [240 Tournament chips]
+All InPreFlop folds [240 Tournament chips]
+Edrx folds [240 Tournament chips]
+craigd48 folds [210 Tournament chips]
+rchazzardd folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 5h ] board:[ 9s 5h]
+** Dealing Flop ** [ Js ] board:[ 9s 5h Js]
+QwertySpark bets for 240 Tournament chips
+Motorcity17 calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 9s 5h Js 8c]
+QwertySpark checks
+Motorcity17 checks
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 9s 5h Js 8c Ah]
+QwertySpark bets for 360 Tournament chips
+Motorcity17 folds [360 Tournament chips]
+QwertySpark is returned 360 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ac 9s Js 8c Ah: a pair of aces)
+QwertySpark wins main pot 1050 Tournament chips.
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3245 Tournament chips) 
+Seat 5: rchazzardd (2705 Tournament chips) 
+Seat 6: QwertySpark (1975 Tournament chips) 
+Seat 7: Motorcity17 (1070 Tournament chips) 
+Game #23938347-23 ends
+Game #23938347-24 starts
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3245 Tournament chips) 
+Seat 5: rchazzardd (2705 Tournament chips) 
+Seat 6: QwertySpark (1975 Tournament chips) 
+Seat 7: Motorcity17 (1070 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rchazzardd posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+kofpoker, at seat 1, is in this hand with 3875 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1860 Tournament chips.
+Edrx, at seat 3, is in this hand with 1330 Tournament chips.
+craigd48, at seat 4, is in this hand with 3245 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2655 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1875 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 1070 Tournament chips.
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Ad 8s ]
+Dealt to Motorcity17 [ **** ]
+Motorcity17 calls [100 Tournament chips]
+kofpoker folds [100 Tournament chips]
+All InPreFlop folds [100 Tournament chips]
+Edrx folds [100 Tournament chips]
+craigd48 calls [100 Tournament chips]
+rchazzardd folds [50 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Motorcity17 raises all-in [970 Tournament chips]
+craigd48 folds [970 Tournament chips]
+QwertySpark calls [170 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 8s ]
+Motorcity17 shows [ Qc Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 5d ] board:[ 7h 5d]
+** Dealing Flop ** [ 5h ] board:[ 7h 5d 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 7h 5d 5h Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 7h 5d 5h Jc 6s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 8s ] a pair of fives, ace/jack kickers
+Motorcity17 shows [ Qc Jh ] two pair, jacks and fives, queen kicker
+Motorcity17 wins main pot 2290 Tournament chips with two pair, jacks and fives, queen kicker.
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (905 Tournament chips) 
+Seat 7: Motorcity17 (2290 Tournament chips) 
+Game #23938347-24 ends
+Game #23938347-25 starts
+Seat 1: kofpoker (3875 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1330 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (905 Tournament chips) 
+Seat 7: Motorcity17 (2290 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [50 Tournament chips]
+Motorcity17 posts the big blind [100 Tournament chips]
+kofpoker, at seat 1, is in this hand with 3875 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1860 Tournament chips.
+Edrx, at seat 3, is in this hand with 1330 Tournament chips.
+craigd48, at seat 4, is in this hand with 3145 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2655 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 855 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 2190 Tournament chips.
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8s Js ]
+Dealt to Motorcity17 [ **** ]
+kofpoker calls [100 Tournament chips]
+All InPreFlop folds [100 Tournament chips]
+Edrx calls [100 Tournament chips]
+craigd48 folds [100 Tournament chips]
+rchazzardd folds [100 Tournament chips]
+QwertySpark raises all-in [855 Tournament chips]
+Motorcity17 folds [805 Tournament chips]
+kofpoker calls [805 Tournament chips]
+Edrx folds [805 Tournament chips]
+Tournament all-in showdown -- players show:
+kofpoker shows [ 7h 6h ]
+QwertySpark shows [ 8s Js ]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 9h ] board:[ Qc 9h]
+** Dealing Flop ** [ Qh ] board:[ Qc 9h Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ Qc 9h Qh Ks]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ Qc 9h Qh Ks Jc]
+        (no action in this round)
+Round 4 is over.
+kofpoker shows [ 7h 6h ] a pair of queens, king/jack kickers
+QwertySpark shows [ 8s Js ] two pair, queens and jacks, king kicker
+QwertySpark wins main pot 2010 Tournament chips with two pair, queens and jacks, king kicker.
+Seat 1: kofpoker (2970 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1230 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (2010 Tournament chips) 
+Seat 7: Motorcity17 (2190 Tournament chips) 
+Game #23938347-25 ends
+Game #23938347-26 starts
+Seat 1: kofpoker (2970 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (1230 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (2010 Tournament chips) 
+Seat 7: Motorcity17 (2190 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Motorcity17 posts the small blind [50 Tournament chips]
+kofpoker posts the big blind [100 Tournament chips]
+kofpoker, at seat 1, is in this hand with 2870 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1860 Tournament chips.
+Edrx, at seat 3, is in this hand with 1230 Tournament chips.
+craigd48, at seat 4, is in this hand with 3145 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2655 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2010 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 2140 Tournament chips.
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Edrx is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to Edrx [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Ah Qc ]
+Dealt to Motorcity17 [ **** ]
+All InPreFlop folds [100 Tournament chips]
+Edrx calls [100 Tournament chips]
+craigd48 folds [100 Tournament chips]
+rchazzardd folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+Motorcity17 raises all-in [2140 Tournament chips]
+kofpoker folds [2090 Tournament chips]
+Edrx calls all-in [1130 Tournament chips]
+QwertySpark calls all-in [1610 Tournament chips]
+Motorcity17 is returned 180 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Edrx shows [ Jh As ]
+QwertySpark shows [ Ah Qc ]
+Motorcity17 shows [ 7h 7s ]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Qd ] board:[ 8s Qd]
+** Dealing Flop ** [ 5h ] board:[ 8s Qd 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 8s Qd 5h 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 8s Qd 5h 5d 9d]
+        (no action in this round)
+Round 4 is over.
+Edrx shows [ Jh As ] a pair of fives, ace/queen kickers
+QwertySpark shows [ Ah Qc ] two pair, queens and fives, ace kicker
+Motorcity17 shows [ 7h 7s ] two pair, sevens and fives, queen kicker
+QwertySpark wins main pot 3790 Tournament chips with two pair, queens and fives, ace kicker.
+QwertySpark wins side pot #1 1560 Tournament chips with two pair, queens and fives, ace kicker.
+Seat 1: kofpoker (2870 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 3: Edrx (0 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 7: Motorcity17 (180 Tournament chips) 
+Game #23938347-26 ends
+Player Edrx leaves the table with 0 Tournament chips
+Game #23938347-27 starts
+Seat 1: kofpoker (2870 Tournament chips) 
+Seat 2: All InPreFlop (1860 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 7: Motorcity17 (180 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+kofpoker posts the small blind [50 Tournament chips]
+All InPreFlop posts the big blind [100 Tournament chips]
+kofpoker, at seat 1, is in this hand with 2820 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1760 Tournament chips.
+craigd48, at seat 4, is in this hand with 3145 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2655 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5350 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 180 Tournament chips.
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 5h 2c ]
+Dealt to Motorcity17 [ **** ]
+craigd48 folds [100 Tournament chips]
+rchazzardd folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Motorcity17 calls [100 Tournament chips]
+kofpoker calls [50 Tournament chips]
+All InPreFlop raises [300 Tournament chips]
+Motorcity17 calls all-in [80 Tournament chips]
+kofpoker calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Qd ] board:[ 5c Qd]
+** Dealing Flop ** [ Tc ] board:[ 5c Qd Tc]
+kofpoker checks
+All InPreFlop checks
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 5c Qd Tc 2h]
+kofpoker checks
+All InPreFlop checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 5c Qd Tc 2h 7c]
+kofpoker checks
+All InPreFlop checks
+Round 4 is over.
+kofpoker shows [ Ks 8c ] king high
+Hand evaluation for kofpoker (Ks 8c Qd Tc 7c: king high)
+All InPreFlop shows [ Kc 6h ] king high
+Hand evaluation for All InPreFlop (Kc 6h Qd Tc 7c: king high)
+Motorcity17 shows [ Ac 3c ] flush, ace high
+Hand evaluation for Motorcity17 (Ac 3c 5c Tc 7c: flush, ace high)
+Motorcity17 wins main pot 540 Tournament chips with flush, ace/ten/seven high.
+kofpoker wins side pot #1 440 Tournament chips with king/queen/ten high.
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (1460 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 7: Motorcity17 (540 Tournament chips) 
+Game #23938347-27 ends
+Game #23938347-28 starts
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (1460 Tournament chips) 
+Seat 4: craigd48 (3145 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 7: Motorcity17 (540 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+All InPreFlop posts the small blind [50 Tournament chips]
+craigd48 posts the big blind [100 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3565 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2910 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1410 Tournament chips.
+craigd48, at seat 4, is in this hand with 3045 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2655 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5350 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 540 Tournament chips.
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 8d Ah ]
+Dealt to Motorcity17 [ **** ]
+rchazzardd folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+Motorcity17 folds [400 Tournament chips]
+bdbbrother folds [400 Tournament chips]
+kofpoker folds [400 Tournament chips]
+All InPreFlop folds [350 Tournament chips]
+craigd48 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8d Ah: ace high)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (1410 Tournament chips) 
+Seat 4: craigd48 (3045 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5500 Tournament chips) 
+Seat 7: Motorcity17 (540 Tournament chips) 
+Game #23938347-28 ends
+Game #23938347-29 starts
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (1410 Tournament chips) 
+Seat 4: craigd48 (3045 Tournament chips) 
+Seat 5: rchazzardd (2655 Tournament chips) 
+Seat 6: QwertySpark (5500 Tournament chips) 
+Seat 7: Motorcity17 (540 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+craigd48 posts the small blind [75 Tournament chips]
+rchazzardd posts the big blind [150 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3565 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2910 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 1410 Tournament chips.
+craigd48, at seat 4, is in this hand with 2970 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2505 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5500 Tournament chips.
+Motorcity17, at seat 7, is in this hand with 540 Tournament chips.
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Motorcity17 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Qs 7h ]
+Dealt to Motorcity17 [ **** ]
+QwertySpark folds [150 Tournament chips]
+Motorcity17 calls [150 Tournament chips]
+bdbbrother folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+All InPreFlop raises [300 Tournament chips]
+craigd48 folds [225 Tournament chips]
+rchazzardd folds [150 Tournament chips]
+Motorcity17 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 3h ] board:[ 2d 3h]
+** Dealing Flop ** [ 4s ] board:[ 2d 3h 4s]
+Motorcity17 goes all-in for 240 Tournament chips
+All InPreFlop calls [240 Tournament chips]
+Tournament all-in showdown -- players show:
+All InPreFlop shows [ Jh 9h ]
+Motorcity17 shows [ 8s 7s ]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 2d 3h 4s Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 2d 3h 4s Qd 5h]
+        (no action in this round)
+Round 4 is over.
+All InPreFlop shows [ Jh 9h ] queen/jack/nine high
+Motorcity17 shows [ 8s 7s ] queen/eight/seven high
+All InPreFlop wins main pot 1305 Tournament chips with queen/jack/nine high.
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2175 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2505 Tournament chips) 
+Seat 6: QwertySpark (5500 Tournament chips) 
+Seat 7: Motorcity17 (0 Tournament chips) 
+Game #23938347-29 ends
+Player Motorcity17 leaves the table with 0 Tournament chips
+Game #23938347-30 starts
+Seat 0: bdbbrother (3565 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2175 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2505 Tournament chips) 
+Seat 6: QwertySpark (5500 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+rchazzardd posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3565 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2910 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2175 Tournament chips.
+craigd48, at seat 4, is in this hand with 2970 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2430 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5350 Tournament chips.
+rchazzardd is dealt: **
+
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 7c Qd ]
+bdbbrother calls [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+All InPreFlop folds [150 Tournament chips]
+craigd48 folds [150 Tournament chips]
+rchazzardd folds [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Td ] board:[ Th Td]
+** Dealing Flop ** [ As ] board:[ Th Td As]
+QwertySpark has timed out - the hand is checked
+bdbbrother checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Th Td As 8d]
+QwertySpark has timed out - the hand is checked
+bdbbrother bets for 150 Tournament chips
+QwertySpark folds [150 Tournament chips]
+bdbbrother is returned 150 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bdbbrother (9d Ah Th Td As: two pair, aces and tens)
+bdbbrother wins main pot 375 Tournament chips.
+Seat 0: bdbbrother (3790 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2175 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 8: lumvegas50 (7184 Tournament chips) 
+Game #23938347-30 ends
+Game #23938347-31 starts
+Seat 0: bdbbrother (3790 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2175 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5350 Tournament chips) 
+Seat 8: lumvegas50 (7184 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [75 Tournament chips]
+lumvegas50 posts the big blind [150 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3790 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2910 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2175 Tournament chips.
+craigd48, at seat 4, is in this hand with 2970 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2430 Tournament chips.
+QwertySpark, at seat 6, is in this hand (absent) with 5275 Tournament chips.
+lumvegas50, at seat 8, is in this hand with 7034 Tournament chips.
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 5c Kc ]
+Dealt to lumvegas50 [ **** ]
+bdbbrother folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+All InPreFlop raises [300 Tournament chips]
+craigd48 folds [300 Tournament chips]
+rchazzardd folds [300 Tournament chips]
+QwertySpark folds [225 Tournament chips]
+lumvegas50 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Ac ] board:[ 9c Ac]
+** Dealing Flop ** [ 9d ] board:[ 9c Ac 9d]
+lumvegas50 checks
+All InPreFlop checks
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 9c Ac 9d 5s]
+lumvegas50 checks
+All InPreFlop bets for 450 Tournament chips
+lumvegas50 folds [450 Tournament chips]
+All InPreFlop is returned 450 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for All InPreFlop (Ad 9c Ac 9d 5s: two pair, aces and nines)
+All InPreFlop wins main pot 675 Tournament chips.
+Seat 0: bdbbrother (3790 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2550 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (6884 Tournament chips) 
+Game #23938347-31 ends
+Game #23938347-32 starts
+Seat 0: bdbbrother (3790 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2550 Tournament chips) 
+Seat 4: craigd48 (2970 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (6884 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+lumvegas50 posts the small blind [75 Tournament chips]
+bdbbrother posts the big blind [150 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3640 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2910 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2550 Tournament chips.
+craigd48, at seat 4, is in this hand with 2970 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2430 Tournament chips.
+QwertySpark, at seat 6, is in this hand (absent) with 5275 Tournament chips.
+lumvegas50, at seat 8, is in this hand with 6809 Tournament chips.
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ Kc Jc ]
+Dealt to lumvegas50 [ **** ]
+kofpoker folds [150 Tournament chips]
+All InPreFlop folds [150 Tournament chips]
+craigd48 calls [150 Tournament chips]
+rchazzardd folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+lumvegas50 folds [75 Tournament chips]
+bdbbrother checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Js ] board:[ 2c Js]
+** Dealing Flop ** [ 2h ] board:[ 2c Js 2h]
+bdbbrother checks
+craigd48 checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 2c Js 2h Td]
+bdbbrother checks
+craigd48 has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 2c Js 2h Td Kd]
+bdbbrother checks
+craigd48 bets for 337 Tournament chips
+bdbbrother folds [337 Tournament chips]
+craigd48 is returned 337 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for craigd48 (Ad 2c Js 2h Kd: a pair of deuces)
+craigd48 wins main pot 375 Tournament chips.
+Seat 0: bdbbrother (3640 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2550 Tournament chips) 
+Seat 4: craigd48 (3195 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (6809 Tournament chips) 
+Game #23938347-32 ends
+Game #23938347-33 starts
+Seat 0: bdbbrother (3640 Tournament chips) 
+Seat 1: kofpoker (2910 Tournament chips) 
+Seat 2: All InPreFlop (2550 Tournament chips) 
+Seat 4: craigd48 (3195 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (6809 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+bdbbrother posts the small blind [100 Tournament chips]
+kofpoker posts the big blind [200 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3540 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2710 Tournament chips.
+All InPreFlop, at seat 2, is in this hand with 2550 Tournament chips.
+craigd48, at seat 4, is in this hand with 3195 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2430 Tournament chips.
+QwertySpark, at seat 6, is in this hand (absent) with 5275 Tournament chips.
+lumvegas50, at seat 8, is in this hand with 6809 Tournament chips.
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+All InPreFlop is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to All InPreFlop [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 4s Qd ]
+Dealt to lumvegas50 [ **** ]
+All InPreFlop raises [400 Tournament chips]
+craigd48 folds [400 Tournament chips]
+rchazzardd folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+lumvegas50 calls [400 Tournament chips]
+bdbbrother folds [300 Tournament chips]
+kofpoker calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Jh ] board:[ Th Jh]
+** Dealing Flop ** [ 3d ] board:[ Th Jh 3d]
+kofpoker checks
+All InPreFlop goes all-in for 2150 Tournament chips
+lumvegas50 calls [2150 Tournament chips]
+kofpoker folds [2150 Tournament chips]
+Tournament all-in showdown -- players show:
+All InPreFlop shows [ Ks Js ]
+lumvegas50 shows [ Ad Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ Th Jh 3d 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Th Jh 3d 2s 6s]
+        (no action in this round)
+Round 4 is over.
+All InPreFlop shows [ Ks Js ] a pair of jacks, king/ten kickers
+lumvegas50 shows [ Ad Jd ] a pair of jacks, ace/ten kickers
+lumvegas50 wins main pot 5600 Tournament chips with a pair of jacks, ace/ten kickers.
+Seat 0: bdbbrother (3540 Tournament chips) 
+Seat 1: kofpoker (2510 Tournament chips) 
+Seat 2: All InPreFlop (0 Tournament chips) 
+Seat 4: craigd48 (3195 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (9859 Tournament chips) 
+Game #23938347-33 ends
+Player All InPreFlop leaves the table with 0 Tournament chips
+Game #23938347-34 starts
+Seat 0: bdbbrother (3540 Tournament chips) 
+Seat 1: kofpoker (2510 Tournament chips) 
+Seat 4: craigd48 (3195 Tournament chips) 
+Seat 5: rchazzardd (2430 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (9859 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+kofpoker posts the small blind [100 Tournament chips]
+craigd48 posts the big blind [200 Tournament chips]
+bdbbrother, at seat 0, is in this hand with 3540 Tournament chips.
+kofpoker, at seat 1, is in this hand with 2410 Tournament chips.
+craigd48, at seat 4, is in this hand with 2995 Tournament chips.
+rchazzardd, at seat 5, is in this hand with 2430 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5275 Tournament chips.
+lumvegas50, at seat 8, is in this hand with 9859 Tournament chips.
+kofpoker is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+kofpoker is dealt: **
+craigd48 is dealt: **
+rchazzardd is dealt: **
+
+lumvegas50 is dealt: **
+bdbbrother is dealt: **
+Dealt to bdbbrother [ **** ]
+Dealt to kofpoker [ **** ]
+Dealt to craigd48 [ **** ]
+Dealt to rchazzardd [ **** ]
+Dealt to QwertySpark [ 2d 8d ]
+Dealt to lumvegas50 [ **** ]
+rchazzardd calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+lumvegas50 folds [200 Tournament chips]
+bdbbrother calls [200 Tournament chips]
+kofpoker calls [100 Tournament chips]
+craigd48 raises [200 Tournament chips]
+rchazzardd calls [200 Tournament chips]
+bdbbrother calls [200 Tournament chips]
+kofpoker calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 5c ] board:[ 4h 5c]
+** Dealing Flop ** [ 4s ] board:[ 4h 5c 4s]
+kofpoker checks
+craigd48 bets for 1000 Tournament chips
+rchazzardd folds [1000 Tournament chips]
+bdbbrother folds [1000 Tournament chips]
+kofpoker raises all-in [2110 Tournament chips]
+craigd48 calls [1110 Tournament chips]
+Tournament all-in showdown -- players show:
+kofpoker shows [ 5h 3c ]
+craigd48 shows [ 6h 6s ]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 4h 5c 4s 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 4h 5c 4s 8h 6d]
+        (no action in this round)
+Round 4 is over.
+kofpoker shows [ 5h 3c ] two pair, fives and fours, eight kicker
+craigd48 shows [ 6h 6s ] full house, sixes full of fours
+craigd48 wins main pot 5820 Tournament chips with full house, sixes full of fours.
+Seat 0: bdbbrother (3140 Tournament chips) 
+Seat 1: kofpoker (0 Tournament chips) 
+Seat 4: craigd48 (6505 Tournament chips) 
+Seat 5: rchazzardd (2030 Tournament chips) 
+Seat 6: QwertySpark (5275 Tournament chips) 
+Seat 8: lumvegas50 (9859 Tournament chips) 
+Game #23938347-34 ends
+Player kofpoker leaves the table with 0 Tournament chips
+Player bdbbrother leaves the table with 3140 Tournament chips
+Player lumvegas50 leaves the table with 9859 Tournament chips
+Player craigd48 leaves the table with 6505 Tournament chips
+Player QwertySpark leaves the table with 5275 Tournament chips
+Player rchazzardd leaves the table with 2030 Tournament chips

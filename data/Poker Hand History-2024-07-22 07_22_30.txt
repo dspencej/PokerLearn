@@ -1,0 +1,754 @@
+Game#: 23878570
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+QwertySpark is dealt: 3c
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+The button is moved to seat 0.
+Game #23878570-1 starts
+Seat 0: WOODY8585 (1500 Tournament chips) 
+Seat 1: baldnuggett (1500 Tournament chips) 
+Seat 2: KimBro (1500 Tournament chips) 
+Seat 3: fish21 (1500 Tournament chips) 
+Seat 4: fishjr (1500 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1500 Tournament chips) 
+Seat 8: tawtaw48 (1500 Tournament chips) 
+The button is at seat 0
+baldnuggett posts the small blind [5 Tournament chips]
+KimBro posts the big blind [10 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 1500 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 1495 Tournament chips.
+KimBro, at seat 2, is in this hand with 1490 Tournament chips.
+fish21, at seat 3, is in this hand with 1500 Tournament chips.
+fishjr, at seat 4, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1500 Tournament chips.
+JeffMorse, at seat 6, is in this hand (absent) with 1500 Tournament chips.
+p0stlman, at seat 7, is in this hand with 1500 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 1500 Tournament chips.
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 6d 3d ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+fish21 calls [10 Tournament chips]
+fishjr folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+JeffMorse folds [10 Tournament chips]
+p0stlman calls [10 Tournament chips]
+tawtaw48 calls [10 Tournament chips]
+WOODY8585 raises [65 Tournament chips]
+baldnuggett calls [60 Tournament chips]
+KimBro calls [55 Tournament chips]
+fish21 calls [55 Tournament chips]
+p0stlman calls [55 Tournament chips]
+tawtaw48 re-raises [405 Tournament chips]
+WOODY8585 calls [350 Tournament chips]
+baldnuggett folds [350 Tournament chips]
+KimBro calls [350 Tournament chips]
+fish21 folds [350 Tournament chips]
+p0stlman folds [350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Kh ] board:[ 7s Kh]
+** Dealing Flop ** [ Kd ] board:[ 7s Kh Kd]
+KimBro checks
+tawtaw48 bets for 610 Tournament chips
+WOODY8585 folds [610 Tournament chips]
+KimBro folds [610 Tournament chips]
+tawtaw48 is returned 610 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for tawtaw48 (Jd 8c 7s Kh Kd: a pair of kings)
+tawtaw48 wins main pot 1440 Tournament chips.
+Seat 0: WOODY8585 (1085 Tournament chips) 
+Seat 1: baldnuggett (1435 Tournament chips) 
+Seat 2: KimBro (1085 Tournament chips) 
+Seat 3: fish21 (1435 Tournament chips) 
+Seat 4: fishjr (1500 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1435 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-1 ends
+Game #23878570-2 starts
+Seat 0: WOODY8585 (1085 Tournament chips) 
+Seat 1: baldnuggett (1435 Tournament chips) 
+Seat 2: KimBro (1085 Tournament chips) 
+Seat 3: fish21 (1435 Tournament chips) 
+Seat 4: fishjr (1500 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1435 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+KimBro posts the small blind [5 Tournament chips]
+fish21 posts the big blind [10 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 1085 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 1435 Tournament chips.
+KimBro, at seat 2, is in this hand with 1080 Tournament chips.
+fish21, at seat 3, is in this hand with 1425 Tournament chips.
+fishjr, at seat 4, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1500 Tournament chips.
+JeffMorse, at seat 6, is in this hand (absent) with 1500 Tournament chips.
+p0stlman, at seat 7, is in this hand with 1435 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2525 Tournament chips.
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 9d 2c ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+fishjr folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+JeffMorse folds [10 Tournament chips]
+p0stlman calls [10 Tournament chips]
+tawtaw48 folds [10 Tournament chips]
+WOODY8585 calls [10 Tournament chips]
+baldnuggett raises [40 Tournament chips]
+KimBro calls [35 Tournament chips]
+fish21 calls [30 Tournament chips]
+p0stlman calls [30 Tournament chips]
+WOODY8585 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 4s ] board:[ 5c 4s]
+** Dealing Flop ** [ Qd ] board:[ 5c 4s Qd]
+KimBro checks
+fish21 checks
+p0stlman checks
+WOODY8585 checks
+baldnuggett bets for 10 Tournament chips
+KimBro calls [10 Tournament chips]
+fish21 calls [10 Tournament chips]
+p0stlman calls [10 Tournament chips]
+WOODY8585 raises [350 Tournament chips]
+baldnuggett calls [340 Tournament chips]
+KimBro folds [340 Tournament chips]
+fish21 calls [340 Tournament chips]
+p0stlman folds [340 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 5c 4s Qd 7c]
+fish21 checks
+WOODY8585 goes all-in for 695 Tournament chips
+baldnuggett calls [695 Tournament chips]
+fish21 folds [695 Tournament chips]
+Tournament all-in showdown -- players show:
+WOODY8585 shows [ 5d 4d ]
+baldnuggett shows [ 7h 8h ]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 5c 4s Qd 7c 9s]
+        (no action in this round)
+Round 4 is over.
+WOODY8585 shows [ 5d 4d ] two pair, fives and fours, queen kicker
+baldnuggett shows [ 7h 8h ] a pair of sevens, queen/nine kickers
+WOODY8585 wins main pot 2660 Tournament chips with two pair, fives and fours, queen kicker.
+Seat 0: WOODY8585 (2660 Tournament chips) 
+Seat 1: baldnuggett (350 Tournament chips) 
+Seat 2: KimBro (1035 Tournament chips) 
+Seat 3: fish21 (1045 Tournament chips) 
+Seat 4: fishjr (1500 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1385 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-2 ends
+Game #23878570-3 starts
+Seat 0: WOODY8585 (2660 Tournament chips) 
+Seat 1: baldnuggett (350 Tournament chips) 
+Seat 2: KimBro (1035 Tournament chips) 
+Seat 3: fish21 (1045 Tournament chips) 
+Seat 4: fishjr (1500 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1385 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+fish21 posts the small blind [5 Tournament chips]
+fishjr posts the big blind [10 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2660 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 350 Tournament chips.
+KimBro, at seat 2, is in this hand with 1035 Tournament chips.
+fish21, at seat 3, is in this hand with 1040 Tournament chips.
+fishjr, at seat 4, is in this hand with 1490 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1500 Tournament chips.
+JeffMorse, at seat 6, is in this hand (absent) with 1500 Tournament chips.
+p0stlman, at seat 7, is in this hand with 1385 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2525 Tournament chips.
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 9s Tc ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+QwertySpark folds [10 Tournament chips]
+JeffMorse folds [10 Tournament chips]
+p0stlman calls [10 Tournament chips]
+tawtaw48 folds [10 Tournament chips]
+WOODY8585 folds [10 Tournament chips]
+baldnuggett calls [10 Tournament chips]
+KimBro calls [10 Tournament chips]
+fish21 calls [5 Tournament chips]
+fishjr checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 9d ] board:[ 5s 9d]
+** Dealing Flop ** [ 5d ] board:[ 5s 9d 5d]
+fish21 checks
+fishjr checks
+p0stlman checks
+baldnuggett checks
+KimBro checks
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 5s 9d 5d Kc]
+fish21 bets for 10 Tournament chips
+fishjr raises [200 Tournament chips]
+p0stlman folds [200 Tournament chips]
+baldnuggett folds [200 Tournament chips]
+KimBro folds [200 Tournament chips]
+fish21 calls [190 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 5s 9d 5d Kc 7h]
+fish21 bets for 470 Tournament chips
+fishjr raises [940 Tournament chips]
+fish21 calls all-in [365 Tournament chips]
+fishjr is returned 105 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+fish21 shows [ 2h 5h ]
+fishjr shows [ Kh 2c ]
+Round 4 is over.
+fish21 shows [ 2h 5h ] three fives, king/nine kickers
+fishjr shows [ Kh 2c ] two pair, kings and fives, nine kicker
+fish21 wins main pot 2120 Tournament chips with three fives, king/nine kickers.
+Seat 0: WOODY8585 (2660 Tournament chips) 
+Seat 1: baldnuggett (340 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2120 Tournament chips) 
+Seat 4: fishjr (455 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1375 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-3 ends
+Game #23878570-4 starts
+Seat 0: WOODY8585 (2660 Tournament chips) 
+Seat 1: baldnuggett (340 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2120 Tournament chips) 
+Seat 4: fishjr (455 Tournament chips) 
+Seat 5: QwertySpark (1500 Tournament chips) 
+Seat 6: JeffMorse (1500 Tournament chips) 
+Seat 7: p0stlman (1375 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishjr posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2660 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 340 Tournament chips.
+KimBro, at seat 2, is in this hand with 1025 Tournament chips.
+fish21, at seat 3, is in this hand with 2120 Tournament chips.
+fishjr, at seat 4, is in this hand with 450 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1490 Tournament chips.
+JeffMorse, at seat 6, is in this hand with 1500 Tournament chips.
+p0stlman, at seat 7, is in this hand with 1375 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2525 Tournament chips.
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 4h Kh ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+JeffMorse calls [10 Tournament chips]
+p0stlman calls [10 Tournament chips]
+tawtaw48 folds [10 Tournament chips]
+WOODY8585 calls [10 Tournament chips]
+baldnuggett raises all-in [340 Tournament chips]
+KimBro folds [340 Tournament chips]
+fish21 folds [340 Tournament chips]
+fishjr folds [335 Tournament chips]
+QwertySpark folds [330 Tournament chips]
+JeffMorse calls [330 Tournament chips]
+p0stlman calls [330 Tournament chips]
+WOODY8585 folds [330 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Ac ] board:[ 2d Ac]
+** Dealing Flop ** [ 5c ] board:[ 2d Ac 5c]
+JeffMorse checks
+p0stlman checks
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 2d Ac 5c 4c]
+JeffMorse checks
+p0stlman checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 2d Ac 5c 4c 6s]
+JeffMorse checks
+p0stlman checks
+Round 4 is over.
+JeffMorse shows [ 9d Td ] ace high
+Hand evaluation for JeffMorse (9d Td Ac 5c 6s: ace high)
+p0stlman shows [ Jh Kd ] ace high
+Hand evaluation for p0stlman (Jh Kd Ac 5c 6s: ace high)
+baldnuggett shows [ 9s 9c ] a pair of nines
+Hand evaluation for baldnuggett (9s 9c Ac 5c 6s: a pair of nines)
+baldnuggett wins main pot 1045 Tournament chips with a pair of nines, ace/six kickers.
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (1045 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2120 Tournament chips) 
+Seat 4: fishjr (450 Tournament chips) 
+Seat 5: QwertySpark (1490 Tournament chips) 
+Seat 6: JeffMorse (1160 Tournament chips) 
+Seat 7: p0stlman (1035 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-4 ends
+Game #23878570-5 starts
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (1045 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2120 Tournament chips) 
+Seat 4: fishjr (450 Tournament chips) 
+Seat 5: QwertySpark (1490 Tournament chips) 
+Seat 6: JeffMorse (1160 Tournament chips) 
+Seat 7: p0stlman (1035 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [5 Tournament chips]
+JeffMorse posts the big blind [10 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2650 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 1045 Tournament chips.
+KimBro, at seat 2, is in this hand with 1025 Tournament chips.
+fish21, at seat 3, is in this hand with 2120 Tournament chips.
+fishjr, at seat 4, is in this hand with 450 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1485 Tournament chips.
+JeffMorse, at seat 6, is in this hand with 1150 Tournament chips.
+p0stlman, at seat 7, is in this hand with 1035 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2525 Tournament chips.
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 8d 5s ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+p0stlman calls [10 Tournament chips]
+tawtaw48 folds [10 Tournament chips]
+WOODY8585 folds [10 Tournament chips]
+baldnuggett folds [10 Tournament chips]
+KimBro folds [10 Tournament chips]
+fish21 calls [10 Tournament chips]
+fishjr folds [10 Tournament chips]
+QwertySpark calls [5 Tournament chips]
+JeffMorse checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 9c ] board:[ 9d 9c]
+** Dealing Flop ** [ Ts ] board:[ 9d 9c Ts]
+QwertySpark checks
+JeffMorse bets for 90 Tournament chips
+p0stlman calls [90 Tournament chips]
+fish21 folds [90 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 9d 9c Ts Jc]
+JeffMorse bets for 220 Tournament chips
+p0stlman folds [220 Tournament chips]
+JeffMorse is returned 220 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for JeffMorse (Th 9d 9c Ts Jc: two pair, tens and nines)
+JeffMorse wins main pot 220 Tournament chips.
+(p0stlman has entered the table, is no longer absent.)
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (1045 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2110 Tournament chips) 
+Seat 4: fishjr (450 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1280 Tournament chips) 
+Seat 7: p0stlman (935 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-5 ends
+Game #23878570-6 starts
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (1045 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2110 Tournament chips) 
+Seat 4: fishjr (450 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1280 Tournament chips) 
+Seat 7: p0stlman (935 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+JeffMorse posts the small blind [10 Tournament chips]
+p0stlman posts the big blind [20 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2650 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 1045 Tournament chips.
+KimBro, at seat 2, is in this hand with 1025 Tournament chips.
+fish21, at seat 3, is in this hand with 2110 Tournament chips.
+fishjr, at seat 4, is in this hand with 450 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1480 Tournament chips.
+JeffMorse, at seat 6, is in this hand with 1270 Tournament chips.
+p0stlman, at seat 7, is in this hand with 915 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2525 Tournament chips.
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+fishjr is dealt: **
+
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to fishjr [ **** ]
+Dealt to QwertySpark [ 7c Ad ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+tawtaw48 folds [20 Tournament chips]
+WOODY8585 folds [20 Tournament chips]
+baldnuggett calls [20 Tournament chips]
+KimBro folds [20 Tournament chips]
+fish21 calls [20 Tournament chips]
+fishjr raises [80 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+JeffMorse calls [70 Tournament chips]
+p0stlman calls [60 Tournament chips]
+baldnuggett calls [60 Tournament chips]
+fish21 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Kd ] board:[ 5c Kd]
+** Dealing Flop ** [ Th ] board:[ 5c Kd Th]
+JeffMorse checks
+p0stlman checks
+baldnuggett checks
+fish21 bets for 400 Tournament chips
+fishjr calls all-in [370 Tournament chips]
+JeffMorse folds [400 Tournament chips]
+p0stlman folds [400 Tournament chips]
+baldnuggett folds [400 Tournament chips]
+fish21 is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+fish21 shows [ 9h Ks ]
+fishjr shows [ Jd 9c ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 5c Kd Th 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 5c Kd Th 6h 5d]
+        (no action in this round)
+Round 4 is over.
+fish21 shows [ 9h Ks ] two pair, kings and fives, ten kicker
+fishjr shows [ Jd 9c ] a pair of fives, king/jack kickers
+fish21 wins main pot 1140 Tournament chips with two pair, kings and fives, ten kicker.
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (965 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2800 Tournament chips) 
+Seat 4: fishjr (0 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1200 Tournament chips) 
+Seat 7: p0stlman (855 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+Game #23878570-6 ends
+Player fishjr leaves the table with 0 Tournament chips
+Game #23878570-7 starts
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (965 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2800 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1200 Tournament chips) 
+Seat 7: p0stlman (855 Tournament chips) 
+Seat 8: tawtaw48 (2525 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+p0stlman posts the small blind [10 Tournament chips]
+tawtaw48 posts the big blind [20 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2650 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 965 Tournament chips.
+KimBro, at seat 2, is in this hand with 1025 Tournament chips.
+fish21, at seat 3, is in this hand with 2800 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1480 Tournament chips.
+JeffMorse, at seat 6, is in this hand with 1200 Tournament chips.
+p0stlman, at seat 7, is in this hand with 845 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 2505 Tournament chips.
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+
+JeffMorse is dealt: **
+p0stlman is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+
+JeffMorse is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to QwertySpark [ 4h Jc ]
+Dealt to JeffMorse [ **** ]
+Dealt to p0stlman [ **** ]
+Dealt to tawtaw48 [ **** ]
+WOODY8585 folds [20 Tournament chips]
+baldnuggett raises [60 Tournament chips]
+KimBro folds [60 Tournament chips]
+fish21 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+JeffMorse calls [60 Tournament chips]
+p0stlman calls [50 Tournament chips]
+tawtaw48 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 3d ] board:[ Jh 3d]
+** Dealing Flop ** [ Ah ] board:[ Jh 3d Ah]
+p0stlman checks
+tawtaw48 bets for 240 Tournament chips
+baldnuggett raises all-in [905 Tournament chips]
+JeffMorse folds [905 Tournament chips]
+p0stlman calls all-in [795 Tournament chips]
+tawtaw48 calls [665 Tournament chips]
+Tournament all-in showdown -- players show:
+baldnuggett shows [ Ac 4c ]
+p0stlman shows [ Td Th ]
+tawtaw48 shows [ Ad 3h ]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ Jh 3d Ah As]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Jh 3d Ah As 4d]
+        (no action in this round)
+Round 4 is over.
+baldnuggett shows [ Ac 4c ] full house, aces full of fours
+p0stlman shows [ Td Th ] two pair, aces and tens, jack kicker
+tawtaw48 shows [ Ad 3h ] full house, aces full of threes
+baldnuggett wins main pot 2625 Tournament chips with full house, aces full of fours.
+baldnuggett wins side pot #1 220 Tournament chips with full house, aces full of fours.
+tawtaw48: this site hates me
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (2845 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2800 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1140 Tournament chips) 
+Seat 7: p0stlman (0 Tournament chips) 
+Seat 8: tawtaw48 (1560 Tournament chips) 
+Game #23878570-7 ends
+Player p0stlman leaves the table with 0 Tournament chips
+Game #23878570-8 starts
+Seat 0: WOODY8585 (2650 Tournament chips) 
+Seat 1: baldnuggett (2845 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2800 Tournament chips) 
+Seat 5: QwertySpark (1480 Tournament chips) 
+Seat 6: JeffMorse (1140 Tournament chips) 
+Seat 8: tawtaw48 (1560 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+tawtaw48 posts the small blind [10 Tournament chips]
+WOODY8585 posts the big blind [20 Tournament chips]
+WOODY8585, at seat 0, is in this hand with 2630 Tournament chips.
+baldnuggett, at seat 1, is in this hand with 2845 Tournament chips.
+KimBro, at seat 2, is in this hand with 1025 Tournament chips.
+fish21, at seat 3, is in this hand with 2800 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1480 Tournament chips.
+JeffMorse, at seat 6, is in this hand with 1140 Tournament chips.
+tawtaw48, at seat 8, is in this hand with 1550 Tournament chips.
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+
+JeffMorse is dealt: **
+tawtaw48 is dealt: **
+WOODY8585 is dealt: **
+baldnuggett is dealt: **
+KimBro is dealt: **
+fish21 is dealt: **
+
+JeffMorse is dealt: **
+Dealt to WOODY8585 [ **** ]
+Dealt to baldnuggett [ **** ]
+Dealt to KimBro [ **** ]
+Dealt to fish21 [ **** ]
+Dealt to QwertySpark [ Kd Kc ]
+Dealt to JeffMorse [ **** ]
+Dealt to tawtaw48 [ **** ]
+baldnuggett raises [80 Tournament chips]
+KimBro folds [80 Tournament chips]
+fish21 calls [80 Tournament chips]
+QwertySpark re-raises [200 Tournament chips]
+JeffMorse calls [200 Tournament chips]
+tawtaw48 folds [190 Tournament chips]
+WOODY8585 raises all-in [2630 Tournament chips]
+baldnuggett folds [2570 Tournament chips]
+fish21 folds [2570 Tournament chips]
+QwertySpark calls all-in [1280 Tournament chips]
+JeffMorse calls all-in [940 Tournament chips]
+WOODY8585 is returned 1170 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+WOODY8585 shows [ Ac As ]
+QwertySpark shows [ Kd Kc ]
+JeffMorse shows [ 8s Js ]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 8c ] board:[ 7d 8c]
+** Dealing Flop ** [ Qh ] board:[ 7d 8c Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 7d 8c Qh 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 7d 8c Qh 2s 2c]
+        (no action in this round)
+Round 4 is over.
+WOODY8585 shows [ Ac As ] two pair, aces and deuces, queen kicker
+QwertySpark shows [ Kd Kc ] two pair, kings and deuces, queen kicker
+JeffMorse shows [ 8s Js ] two pair, eights and deuces, queen kicker
+WOODY8585 wins main pot 3590 Tournament chips with two pair, aces and deuces, queen kicker.
+WOODY8585 wins side pot #1 680 Tournament chips with two pair, aces and deuces, queen kicker.
+Seat 0: WOODY8585 (5440 Tournament chips) 
+Seat 1: baldnuggett (2765 Tournament chips) 
+Seat 2: KimBro (1025 Tournament chips) 
+Seat 3: fish21 (2720 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Seat 6: JeffMorse (0 Tournament chips) 
+Seat 8: tawtaw48 (1550 Tournament chips) 
+Game #23878570-8 ends
+Player JeffMorse leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

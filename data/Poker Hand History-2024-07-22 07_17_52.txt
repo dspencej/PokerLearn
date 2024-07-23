@@ -1,0 +1,4583 @@
+Game#: 23960413
+manesly is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Hannibal_s is dealt: **
+QwertySpark is dealt: Ks
+COOLnCALM is dealt: **
+JMZPAUL is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+The button is moved to seat 4.
+Game #23960413-1 starts
+Seat 0: manesly (2500 Tournament chips) 
+Seat 1: rocky62033 (2500 Tournament chips) 
+Seat 2: Upyourpoker (2500 Tournament chips) 
+Seat 3: Hannibal_s (2500 Tournament chips) 
+Seat 4: QwertySpark (2500 Tournament chips) 
+Seat 5: COOLnCALM (2500 Tournament chips) 
+Seat 6: JMZPAUL (2500 Tournament chips) 
+Seat 7: Mildone (2500 Tournament chips) 
+Seat 8: secretariate (2500 Tournament chips) 
+The button is at seat 4
+COOLnCALM posts the small blind [5 Tournament chips]
+JMZPAUL posts the big blind [10 Tournament chips]
+manesly, at seat 0, is in this hand (absent) with 2500 Tournament chips.
+rocky62033, at seat 1, is in this hand (absent) with 2500 Tournament chips.
+Upyourpoker, at seat 2, is in this hand (absent) with 2500 Tournament chips.
+Hannibal_s, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2500 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 2495 Tournament chips.
+JMZPAUL, at seat 6, is in this hand with 2490 Tournament chips.
+Mildone, at seat 7, is in this hand with 2500 Tournament chips.
+secretariate, at seat 8, is in this hand (absent) with 2500 Tournament chips.
+COOLnCALM is dealt: **
+JMZPAUL is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+manesly is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Hannibal_s is dealt: **
+
+COOLnCALM is dealt: **
+JMZPAUL is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+manesly is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Hannibal_s is dealt: **
+
+Dealt to manesly [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Hannibal_s [ **** ]
+Dealt to QwertySpark [ Ts 4s ]
+Dealt to COOLnCALM [ **** ]
+Dealt to JMZPAUL [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [10 Tournament chips]
+secretariate folds [10 Tournament chips]
+manesly folds [10 Tournament chips]
+rocky62033 calls [10 Tournament chips]
+Upyourpoker folds [10 Tournament chips]
+Hannibal_s folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+COOLnCALM calls [5 Tournament chips]
+JMZPAUL raises [50 Tournament chips]
+rocky62033 calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+COOLnCALM calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Kc ] board:[ Js Kc]
+** Dealing Flop ** [ 4h ] board:[ Js Kc 4h]
+COOLnCALM checks
+JMZPAUL bets for 40 Tournament chips
+rocky62033 folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+COOLnCALM folds [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ Js Kc 4h 3c]
+JMZPAUL bets for 50 Tournament chips
+QwertySpark calls [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Js Kc 4h 3c 5d]
+JMZPAUL checks
+QwertySpark checks
+Round 4 is over.
+JMZPAUL shows [ Jd Qh ] a pair of jacks
+Hand evaluation for JMZPAUL (Jd Qh Js Kc 5d: a pair of jacks)
+QwertySpark doesn't show [ Ts 4s ]
+(QwertySpark has Ts 4s.)
+JMZPAUL wins main pot 420 Tournament chips with a pair of jacks, king/queen kickers.
+Seat 0: manesly (2500 Tournament chips) 
+Seat 1: rocky62033 (2440 Tournament chips) 
+Seat 2: Upyourpoker (2500 Tournament chips) 
+Seat 3: Hannibal_s (2500 Tournament chips) 
+Seat 4: QwertySpark (2350 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 6: JMZPAUL (2770 Tournament chips) 
+Seat 7: Mildone (2500 Tournament chips) 
+Seat 8: secretariate (2500 Tournament chips) 
+Game #23960413-1 ends
+Player JMZPAUL leaves the table with 2770 Tournament chips
+Player Hannibal_s leaves the table with 2500 Tournament chips
+Player manesly leaves the table with 2500 Tournament chips
+Game #23960413-2 starts
+Seat 1: rocky62033 (2440 Tournament chips) 
+Seat 2: Upyourpoker (2500 Tournament chips) 
+Seat 4: QwertySpark (2350 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 7: Mildone (2500 Tournament chips) 
+Seat 8: secretariate (2500 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Mildone posts the big blind [10 Tournament chips]
+rocky62033, at seat 1, is in this hand with 2440 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2350 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 2440 Tournament chips.
+Mildone, at seat 7, is in this hand with 2490 Tournament chips.
+secretariate, at seat 8, is in this hand with 2500 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+
+COOLnCALM is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+
+COOLnCALM is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to QwertySpark [ 9c Jc ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate raises [25 Tournament chips]
+rocky62033 folds [25 Tournament chips]
+Upyourpoker calls [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+COOLnCALM folds [25 Tournament chips]
+Mildone folds [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Ad ] board:[ Td Ad]
+** Dealing Flop ** [ As ] board:[ Td Ad As]
+secretariate bets for 42 Tournament chips
+Upyourpoker folds [42 Tournament chips]
+QwertySpark folds [42 Tournament chips]
+secretariate is returned 42 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for secretariate (Qh Qs Td Ad As: two pair, aces and queens)
+secretariate wins main pot 85 Tournament chips.
+Seat 0: Zekyis (2500 Tournament chips) 
+Seat 1: rocky62033 (2440 Tournament chips) 
+Seat 2: Upyourpoker (2475 Tournament chips) 
+Seat 3: Unclejimmy71 (2500 Tournament chips) 
+Seat 4: QwertySpark (2325 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (2490 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-2 ends
+Game #23960413-3 starts
+Seat 0: Zekyis (2500 Tournament chips) 
+Seat 1: rocky62033 (2440 Tournament chips) 
+Seat 2: Upyourpoker (2475 Tournament chips) 
+Seat 3: Unclejimmy71 (2500 Tournament chips) 
+Seat 4: QwertySpark (2325 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (2490 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 5
+Mildone posts the small blind [5 Tournament chips]
+secretariate posts the big blind [10 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2500 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2440 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2475 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2325 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 2440 Tournament chips.
+Mildone, at seat 7, is in this hand with 2485 Tournament chips.
+secretariate, at seat 8, is in this hand with 2550 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qs 3c ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Zekyis folds [10 Tournament chips]
+rocky62033 calls [10 Tournament chips]
+Upyourpoker calls [10 Tournament chips]
+Unclejimmy71 raises [55 Tournament chips]
+QwertySpark folds [55 Tournament chips]
+COOLnCALM folds [55 Tournament chips]
+Mildone folds [50 Tournament chips]
+secretariate folds [45 Tournament chips]
+rocky62033 calls [45 Tournament chips]
+Upyourpoker folds [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Js ] board:[ 5s Js]
+** Dealing Flop ** [ Td ] board:[ 5s Js Td]
+rocky62033 checks
+Unclejimmy71 checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 5s Js Td Jh]
+rocky62033 bets for 67 Tournament chips
+Unclejimmy71 folds [67 Tournament chips]
+rocky62033 is returned 67 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for rocky62033 (5d 5s Js Td Jh: two pair, jacks and fives)
+rocky62033 wins main pot 135 Tournament chips.
+Seat 0: Zekyis (2500 Tournament chips) 
+Seat 1: rocky62033 (2520 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (2445 Tournament chips) 
+Seat 4: QwertySpark (2325 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (2485 Tournament chips) 
+Seat 8: secretariate (2550 Tournament chips) 
+Game #23960413-3 ends
+Game #23960413-4 starts
+Seat 0: Zekyis (2500 Tournament chips) 
+Seat 1: rocky62033 (2520 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (2445 Tournament chips) 
+Seat 4: QwertySpark (2325 Tournament chips) 
+Seat 5: COOLnCALM (2440 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (2485 Tournament chips) 
+Seat 8: secretariate (2550 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+secretariate posts the small blind [5 Tournament chips]
+Zekyis posts the big blind [10 Tournament chips]
+Zekyis, at seat 0, is in this hand (absent) with 2490 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2520 Tournament chips.
+Upyourpoker, at seat 2, is in this hand (absent) with 2465 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2445 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2325 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 2440 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2500 Tournament chips.
+Mildone, at seat 7, is in this hand with 2485 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ad 9h ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [10 Tournament chips]
+Upyourpoker folds [10 Tournament chips]
+Unclejimmy71 folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+(Upyourpoker has entered the table, is no longer absent.)
+COOLnCALM re-raises [295 Tournament chips]
+Davlonge folds [295 Tournament chips]
+Mildone calls [295 Tournament chips]
+secretariate folds [290 Tournament chips]
+Zekyis folds [285 Tournament chips]
+QwertySpark folds [255 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Th ] board:[ Tc Th]
+** Dealing Flop ** [ 2c ] board:[ Tc Th 2c]
+COOLnCALM bets for 322 Tournament chips
+Mildone calls [322 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Tc Th 2c 4h]
+COOLnCALM checks
+Mildone checks
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Tc Th 2c 4h 2s]
+COOLnCALM goes all-in for 1823 Tournament chips
+Mildone folds [1823 Tournament chips]
+COOLnCALM is returned 1823 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for COOLnCALM (8s 8h Tc Th 4h: two pair, tens and eights)
+COOLnCALM wins main pot 1289 Tournament chips.
+Seat 0: Zekyis (2490 Tournament chips) 
+Seat 1: rocky62033 (2520 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (2445 Tournament chips) 
+Seat 4: QwertySpark (2285 Tournament chips) 
+Seat 5: COOLnCALM (3112 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (1868 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+Game #23960413-4 ends
+Game #23960413-5 starts
+Seat 0: Zekyis (2490 Tournament chips) 
+Seat 1: rocky62033 (2520 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (2445 Tournament chips) 
+Seat 4: QwertySpark (2285 Tournament chips) 
+Seat 5: COOLnCALM (3112 Tournament chips) 
+Seat 6: Davlonge (2500 Tournament chips) 
+Seat 7: Mildone (1868 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Zekyis posts the small blind [5 Tournament chips]
+rocky62033 posts the big blind [10 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2485 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2510 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2465 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2445 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2285 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 3112 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2500 Tournament chips.
+Mildone, at seat 7, is in this hand with 1868 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jh Ad ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker calls [10 Tournament chips]
+Unclejimmy71 raises [45 Tournament chips]
+QwertySpark re-raises [200 Tournament chips]
+COOLnCALM folds [200 Tournament chips]
+Davlonge calls [200 Tournament chips]
+Mildone calls [200 Tournament chips]
+secretariate folds [200 Tournament chips]
+Zekyis calls [195 Tournament chips]
+rocky62033 folds [190 Tournament chips]
+Upyourpoker folds [190 Tournament chips]
+Unclejimmy71 calls [155 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 8d ] board:[ Js 8d]
+** Dealing Flop ** [ 9s ] board:[ Js 8d 9s]
+Zekyis checks
+Unclejimmy71 checks
+QwertySpark goes all-in for 2085 Tournament chips
+Davlonge folds [2085 Tournament chips]
+Mildone folds [1668 Tournament chips]
+Zekyis folds [2085 Tournament chips]
+Unclejimmy71 folds [2085 Tournament chips]
+QwertySpark is returned 2085 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jh Ad Js 8d 9s: a pair of jacks)
+QwertySpark wins main pot 1020 Tournament chips.
+Seat 0: Zekyis (2290 Tournament chips) 
+Seat 1: rocky62033 (2510 Tournament chips) 
+Seat 2: Upyourpoker (2455 Tournament chips) 
+Seat 3: Unclejimmy71 (2245 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3112 Tournament chips) 
+Seat 6: Davlonge (2300 Tournament chips) 
+Seat 7: Mildone (1668 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+Game #23960413-5 ends
+Game #23960413-6 starts
+Seat 0: Zekyis (2290 Tournament chips) 
+Seat 1: rocky62033 (2510 Tournament chips) 
+Seat 2: Upyourpoker (2455 Tournament chips) 
+Seat 3: Unclejimmy71 (2245 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3112 Tournament chips) 
+Seat 6: Davlonge (2300 Tournament chips) 
+Seat 7: Mildone (1668 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+rocky62033 posts the small blind [10 Tournament chips]
+Upyourpoker posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2290 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2500 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2435 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2245 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3105 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 3112 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2300 Tournament chips.
+Mildone, at seat 7, is in this hand with 1668 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qs 7s ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 raises [110 Tournament chips]
+QwertySpark folds [110 Tournament chips]
+COOLnCALM calls [110 Tournament chips]
+Davlonge calls [110 Tournament chips]
+Mildone folds [110 Tournament chips]
+secretariate folds [110 Tournament chips]
+Zekyis calls [110 Tournament chips]
+rocky62033 calls [100 Tournament chips]
+Upyourpoker folds [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 9c ] board:[ Jc 9c]
+** Dealing Flop ** [ 6d ] board:[ Jc 9c 6d]
+rocky62033 checks
+Unclejimmy71 goes all-in for 2135 Tournament chips
+COOLnCALM folds [2135 Tournament chips]
+Davlonge folds [2135 Tournament chips]
+Zekyis folds [2135 Tournament chips]
+rocky62033 folds [2135 Tournament chips]
+Unclejimmy71 is returned 2135 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Unclejimmy71 (Ts Tc Jc 9c 6d: a pair of tens)
+Unclejimmy71 wins main pot 570 Tournament chips.
+Seat 0: Zekyis (2180 Tournament chips) 
+Seat 1: rocky62033 (2400 Tournament chips) 
+Seat 2: Upyourpoker (2435 Tournament chips) 
+Seat 3: Unclejimmy71 (2705 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3002 Tournament chips) 
+Seat 6: Davlonge (2190 Tournament chips) 
+Seat 7: Mildone (1668 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+Game #23960413-6 ends
+Game #23960413-7 starts
+Seat 0: Zekyis (2180 Tournament chips) 
+Seat 1: rocky62033 (2400 Tournament chips) 
+Seat 2: Upyourpoker (2435 Tournament chips) 
+Seat 3: Unclejimmy71 (2705 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3002 Tournament chips) 
+Seat 6: Davlonge (2190 Tournament chips) 
+Seat 7: Mildone (1668 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Upyourpoker posts the small blind [10 Tournament chips]
+Unclejimmy71 posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2180 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2400 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2425 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2685 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3105 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 3002 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2190 Tournament chips.
+Mildone, at seat 7, is in this hand with 1668 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2d Tc ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [20 Tournament chips]
+COOLnCALM folds [20 Tournament chips]
+Davlonge folds [20 Tournament chips]
+Mildone calls [20 Tournament chips]
+secretariate folds [20 Tournament chips]
+Zekyis calls [20 Tournament chips]
+rocky62033 folds [20 Tournament chips]
+Upyourpoker calls [10 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 7c ] board:[ 6s 7c]
+** Dealing Flop ** [ 3c ] board:[ 6s 7c 3c]
+Upyourpoker checks
+Unclejimmy71 bets for 20 Tournament chips
+Mildone calls [20 Tournament chips]
+Zekyis calls [20 Tournament chips]
+Upyourpoker calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 6s 7c 3c Ah]
+Upyourpoker checks
+Unclejimmy71 bets for 80 Tournament chips
+Mildone folds [80 Tournament chips]
+Zekyis raises [400 Tournament chips]
+Upyourpoker folds [400 Tournament chips]
+Unclejimmy71 folds [320 Tournament chips]
+Zekyis is returned 320 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Zekyis (Td Ad 6s 7c Ah: a pair of aces)
+Zekyis wins main pot 320 Tournament chips.
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2400 Tournament chips) 
+Seat 2: Upyourpoker (2395 Tournament chips) 
+Seat 3: Unclejimmy71 (2585 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3002 Tournament chips) 
+Seat 6: Davlonge (2190 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+Game #23960413-7 ends
+Game #23960413-8 starts
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2400 Tournament chips) 
+Seat 2: Upyourpoker (2395 Tournament chips) 
+Seat 3: Unclejimmy71 (2585 Tournament chips) 
+Seat 4: QwertySpark (3105 Tournament chips) 
+Seat 5: COOLnCALM (3002 Tournament chips) 
+Seat 6: Davlonge (2190 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2380 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2400 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2395 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 2575 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3085 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 3002 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2190 Tournament chips.
+Mildone, at seat 7, is in this hand with 1628 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qs 9h ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+COOLnCALM raises [80 Tournament chips]
+Davlonge calls [80 Tournament chips]
+Mildone folds [80 Tournament chips]
+secretariate folds [80 Tournament chips]
+Zekyis folds [80 Tournament chips]
+rocky62033 calls [80 Tournament chips]
+Upyourpoker folds [80 Tournament chips]
+Unclejimmy71 calls [70 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 7s ] board:[ 5d 7s]
+** Dealing Flop ** [ 3c ] board:[ 5d 7s 3c]
+Unclejimmy71 bets for 170 Tournament chips
+COOLnCALM calls [170 Tournament chips]
+Davlonge folds [170 Tournament chips]
+rocky62033 folds [170 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 5d 7s 3c 7c]
+Unclejimmy71 bets for 340 Tournament chips
+COOLnCALM calls [340 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 5d 7s 3c 7c 7d]
+Unclejimmy71 bets for 680 Tournament chips
+COOLnCALM calls [680 Tournament chips]
+Round 4 is over.
+Unclejimmy71 shows [ 4s 3s ] full house, sevens full of threes
+Hand evaluation for Unclejimmy71 (3s 7s 3c 7c 7d: full house, sevens full of threes)
+COOLnCALM doesn't show [ 2d Ac ]
+(COOLnCALM has 2d Ac.)
+Unclejimmy71 wins main pot 2720 Tournament chips with full house, sevens full of threes.
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2395 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3085 Tournament chips) 
+Seat 5: COOLnCALM (1732 Tournament chips) 
+Seat 6: Davlonge (2110 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+Game #23960413-8 ends
+Game #23960413-9 starts
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2395 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3085 Tournament chips) 
+Seat 5: COOLnCALM (1732 Tournament chips) 
+Seat 6: Davlonge (2110 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2545 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [10 Tournament chips]
+COOLnCALM posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2380 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2320 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2395 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 4035 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3075 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 1712 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand with 1628 Tournament chips.
+secretariate, at seat 8, is in this hand with 2545 Tournament chips.
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Th 6d ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Davlonge folds [20 Tournament chips]
+Mildone folds [20 Tournament chips]
+secretariate calls [20 Tournament chips]
+Zekyis folds [20 Tournament chips]
+rocky62033 folds [20 Tournament chips]
+Upyourpoker raises [40 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+COOLnCALM calls [20 Tournament chips]
+secretariate calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Kc ] board:[ 3c Kc]
+** Dealing Flop ** [ Qh ] board:[ 3c Kc Qh]
+COOLnCALM checks
+secretariate checks
+Upyourpoker bets for 100 Tournament chips
+COOLnCALM folds [100 Tournament chips]
+secretariate folds [100 Tournament chips]
+Upyourpoker is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Upyourpoker (Ad Qs 3c Kc Qh: a pair of queens)
+Upyourpoker wins main pot 130 Tournament chips.
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1692 Tournament chips) 
+Seat 6: Davlonge (2110 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+Game #23960413-9 ends
+Game #23960413-10 starts
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1692 Tournament chips) 
+Seat 6: Davlonge (2110 Tournament chips) 
+Seat 7: Mildone (1628 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+COOLnCALM posts the small blind [10 Tournament chips]
+Davlonge posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2380 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2320 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2485 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 4035 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3075 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 1682 Tournament chips.
+Davlonge, at seat 6, is in this hand with 2090 Tournament chips.
+Mildone, at seat 7, is in this hand with 1628 Tournament chips.
+secretariate, at seat 8, is in this hand with 2505 Tournament chips.
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 4c 9d ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone raises all-in [1628 Tournament chips]
+secretariate folds [1628 Tournament chips]
+Zekyis folds [1628 Tournament chips]
+rocky62033 folds [1628 Tournament chips]
+Upyourpoker folds [1628 Tournament chips]
+Unclejimmy71 folds [1628 Tournament chips]
+QwertySpark folds [1628 Tournament chips]
+COOLnCALM folds [1618 Tournament chips]
+Davlonge calls [1608 Tournament chips]
+Tournament all-in showdown -- players show:
+Davlonge shows [ Js Qs ]
+Mildone shows [ Kd Kc ]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Ac ] board:[ 6c Ac]
+** Dealing Flop ** [ 6d ] board:[ 6c Ac 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 6c Ac 6d 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 6c Ac 6d 2d Th]
+        (no action in this round)
+Round 4 is over.
+Davlonge shows [ Js Qs ] a pair of sixes, ace/queen kickers
+Mildone shows [ Kd Kc ] two pair, kings and sixes, ace kicker
+Mildone wins main pot 3266 Tournament chips with two pair, kings and sixes, ace kicker.
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1682 Tournament chips) 
+Seat 6: Davlonge (482 Tournament chips) 
+Seat 7: Mildone (3266 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+Game #23960413-10 ends
+Game #23960413-11 starts
+Seat 0: Zekyis (2380 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1682 Tournament chips) 
+Seat 6: Davlonge (482 Tournament chips) 
+Seat 7: Mildone (3266 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Davlonge posts the small blind [10 Tournament chips]
+Mildone posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2380 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2320 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2485 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 4035 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 3075 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 1682 Tournament chips.
+Davlonge, at seat 6, is in this hand with 472 Tournament chips.
+Mildone, at seat 7, is in this hand with 3246 Tournament chips.
+secretariate, at seat 8, is in this hand with 2505 Tournament chips.
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 4c 7c ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [20 Tournament chips]
+Zekyis raises [40 Tournament chips]
+rocky62033 folds [40 Tournament chips]
+Upyourpoker folds [40 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+COOLnCALM folds [40 Tournament chips]
+Davlonge calls [30 Tournament chips]
+Mildone calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 7d ] board:[ 9s 7d]
+** Dealing Flop ** [ 6h ] board:[ 9s 7d 6h]
+Davlonge checks
+Mildone checks
+Zekyis checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 9s 7d 6h Js]
+Davlonge checks
+Mildone checks
+Zekyis bets for 120 Tournament chips
+Davlonge folds [120 Tournament chips]
+Mildone calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 9s 7d 6h Js 4d]
+Mildone checks
+Zekyis bets for 360 Tournament chips
+Mildone folds [360 Tournament chips]
+Zekyis is returned 360 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Zekyis (Qc Tc 9s 7d Js: queen high)
+Zekyis wins main pot 360 Tournament chips.
+Seat 0: Zekyis (2580 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1682 Tournament chips) 
+Seat 6: Davlonge (442 Tournament chips) 
+Seat 7: Mildone (3106 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+Game #23960413-11 ends
+Game #23960413-12 starts
+Seat 0: Zekyis (2580 Tournament chips) 
+Seat 1: rocky62033 (2320 Tournament chips) 
+Seat 2: Upyourpoker (2485 Tournament chips) 
+Seat 3: Unclejimmy71 (4035 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (1682 Tournament chips) 
+Seat 6: Davlonge (442 Tournament chips) 
+Seat 7: Mildone (3106 Tournament chips) 
+Seat 8: secretariate (2505 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Mildone posts the small blind [10 Tournament chips]
+secretariate posts the big blind [20 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2580 Tournament chips.
+rocky62033, at seat 1, is in this hand with 2320 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2485 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 4035 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 3075 Tournament chips.
+COOLnCALM, at seat 5, is in this hand with 1682 Tournament chips.
+Davlonge, at seat 6, is in this hand with 442 Tournament chips.
+Mildone, at seat 7, is in this hand with 3096 Tournament chips.
+secretariate, at seat 8, is in this hand with 2485 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+COOLnCALM is dealt: **
+Davlonge is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 7h Ts ]
+Dealt to COOLnCALM [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Zekyis folds [20 Tournament chips]
+rocky62033 calls [20 Tournament chips]
+Upyourpoker calls [20 Tournament chips]
+Unclejimmy71 raises [110 Tournament chips]
+QwertySpark folds [110 Tournament chips]
+COOLnCALM calls [110 Tournament chips]
+Davlonge folds [110 Tournament chips]
+Mildone folds [100 Tournament chips]
+secretariate folds [90 Tournament chips]
+rocky62033 raises all-in [2300 Tournament chips]
+Upyourpoker folds [2300 Tournament chips]
+Unclejimmy71 calls [2210 Tournament chips]
+COOLnCALM calls all-in [1572 Tournament chips]
+Tournament all-in showdown -- players show:
+rocky62033 shows [ As Js ]
+Unclejimmy71 shows [ Ad 9d ]
+COOLnCALM shows [ 8d 7d ]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 6h ] board:[ 2d 6h]
+** Dealing Flop ** [ 4d ] board:[ 2d 6h 4d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 2d 6h 4d Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 2d 6h 4d Kh Qc]
+        (no action in this round)
+Round 4 is over.
+(QwertySpark has entered the table, is no longer absent.)
+rocky62033 shows [ As Js ] ace/king/queen high
+Unclejimmy71 shows [ Ad 9d ] ace/king/queen high
+COOLnCALM shows [ 8d 7d ] king/queen/eight high
+rocky62033 wins main pot 5096 Tournament chips with ace/king/queen high.
+rocky62033 wins side pot #1 1276 Tournament chips with ace/king/queen high.
+Seat 0: Zekyis (2580 Tournament chips) 
+Seat 1: rocky62033 (6372 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (1715 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 5: COOLnCALM (0 Tournament chips) 
+Seat 6: Davlonge (442 Tournament chips) 
+Seat 7: Mildone (3096 Tournament chips) 
+Seat 8: secretariate (2485 Tournament chips) 
+Game #23960413-12 ends
+Player COOLnCALM leaves the table with 0 Tournament chips
+Game #23960413-13 starts
+Seat 0: Zekyis (2580 Tournament chips) 
+Seat 1: rocky62033 (6372 Tournament chips) 
+Seat 2: Upyourpoker (2465 Tournament chips) 
+Seat 3: Unclejimmy71 (1715 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: Davlonge (442 Tournament chips) 
+Seat 7: Mildone (3096 Tournament chips) 
+Seat 8: secretariate (2485 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [15 Tournament chips]
+Zekyis posts the big blind [30 Tournament chips]
+Zekyis, at seat 0, is in this hand with 2550 Tournament chips.
+rocky62033, at seat 1, is in this hand with 6372 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2465 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 1715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3075 Tournament chips.
+Davlonge, at seat 6, is in this hand with 442 Tournament chips.
+Mildone, at seat 7, is in this hand with 3096 Tournament chips.
+secretariate, at seat 8, is in this hand with 2470 Tournament chips.
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Davlonge is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Zekyis is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Davlonge is dealt: **
+Mildone is dealt: **
+Dealt to Zekyis [ **** ]
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qh 8h ]
+Dealt to Davlonge [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [30 Tournament chips]
+Upyourpoker calls [30 Tournament chips]
+Unclejimmy71 folds [30 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+Davlonge raises all-in [442 Tournament chips]
+Mildone folds [442 Tournament chips]
+secretariate folds [427 Tournament chips]
+Zekyis calls [412 Tournament chips]
+Upyourpoker folds [412 Tournament chips]
+QwertySpark calls [292 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 5s ] board:[ 8s 5s]
+** Dealing Flop ** [ 8d ] board:[ 8s 5s 8d]
+Zekyis goes all-in for 2138 Tournament chips
+QwertySpark calls [2138 Tournament chips]
+Tournament all-in showdown -- players show:
+Zekyis shows [ 6c 6s ]
+QwertySpark shows [ Qh 8h ]
+Davlonge shows [ Jd Jc ]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 8s 5s 8d 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 8s 5s 8d 2h Ts]
+        (no action in this round)
+Round 4 is over.
+Zekyis shows [ 6c 6s ] two pair, eights and sixes, ten kicker
+QwertySpark shows [ Qh 8h ] three eights, queen/ten kickers
+Davlonge shows [ Jd Jc ] two pair, jacks and eights, ten kicker
+QwertySpark wins main pot 1371 Tournament chips with three eights, queen/ten kickers.
+QwertySpark wins side pot #1 4276 Tournament chips with three eights, queen/ten kickers.
+Seat 0: Zekyis (0 Tournament chips) 
+Seat 1: rocky62033 (6372 Tournament chips) 
+Seat 2: Upyourpoker (2435 Tournament chips) 
+Seat 3: Unclejimmy71 (1715 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 6: Davlonge (0 Tournament chips) 
+Seat 7: Mildone (3096 Tournament chips) 
+Seat 8: secretariate (2470 Tournament chips) 
+Game #23960413-13 ends
+Player Davlonge leaves the table with 0 Tournament chips
+Player Zekyis leaves the table with 0 Tournament chips
+Game #23960413-14 starts
+Seat 1: rocky62033 (6372 Tournament chips) 
+Seat 2: Upyourpoker (2435 Tournament chips) 
+Seat 3: Unclejimmy71 (1715 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 7: Mildone (3096 Tournament chips) 
+Seat 8: secretariate (2470 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 6342 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2435 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 1715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6142 Tournament chips.
+Mildone, at seat 7, is in this hand with 3096 Tournament chips.
+secretariate, at seat 8, is in this hand with 2470 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 7h 4c ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker calls [30 Tournament chips]
+Unclejimmy71 raises [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Mildone calls [120 Tournament chips]
+secretariate folds [120 Tournament chips]
+rocky62033 calls [90 Tournament chips]
+Upyourpoker calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 6d ] board:[ Ad 6d]
+** Dealing Flop ** [ 8h ] board:[ Ad 6d 8h]
+rocky62033 checks
+Upyourpoker checks
+Unclejimmy71 bets for 480 Tournament chips
+Mildone calls [480 Tournament chips]
+rocky62033 folds [480 Tournament chips]
+Upyourpoker folds [480 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Ad 6d 8h 9c]
+Unclejimmy71 goes all-in for 1115 Tournament chips
+Mildone calls [1115 Tournament chips]
+Tournament all-in showdown -- players show:
+Unclejimmy71 shows [ Ah 4h ]
+Mildone shows [ Td 9d ]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Ad 6d 8h 9c Ks]
+        (no action in this round)
+Round 4 is over.
+Unclejimmy71 shows [ Ah 4h ] a pair of aces, king/nine kickers
+Mildone shows [ Td 9d ] a pair of nines, ace/king kickers
+Unclejimmy71 wins main pot 3670 Tournament chips with a pair of aces, king/nine kickers.
+Seat 1: rocky62033 (6252 Tournament chips) 
+Seat 2: Upyourpoker (2315 Tournament chips) 
+Seat 3: Unclejimmy71 (3670 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2470 Tournament chips) 
+Game #23960413-14 ends
+Game #23960413-15 starts
+Seat 1: rocky62033 (6252 Tournament chips) 
+Seat 2: Upyourpoker (2315 Tournament chips) 
+Seat 3: Unclejimmy71 (3670 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2470 Tournament chips) 
+The button is at seat 8
+rocky62033 posts the small blind [15 Tournament chips]
+Upyourpoker posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 6237 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2285 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3670 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6142 Tournament chips.
+Mildone, at seat 7, is in this hand with 1381 Tournament chips.
+secretariate, at seat 8, is in this hand with 2470 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Td 6h ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Mildone folds [30 Tournament chips]
+secretariate raises [75 Tournament chips]
+rocky62033 folds [60 Tournament chips]
+Upyourpoker calls [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Ks ] board:[ 7h Ks]
+** Dealing Flop ** [ Kd ] board:[ 7h Ks Kd]
+Upyourpoker checks
+secretariate bets for 123 Tournament chips
+Upyourpoker folds [123 Tournament chips]
+secretariate is returned 123 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for secretariate (Qc Ad 7h Ks Kd: a pair of kings)
+secretariate wins main pot 165 Tournament chips.
+Seat 1: rocky62033 (6237 Tournament chips) 
+Seat 2: Upyourpoker (2240 Tournament chips) 
+Seat 3: Unclejimmy71 (3670 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-15 ends
+Game #23960413-16 starts
+Seat 1: rocky62033 (6237 Tournament chips) 
+Seat 2: Upyourpoker (2240 Tournament chips) 
+Seat 3: Unclejimmy71 (3670 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [15 Tournament chips]
+Unclejimmy71 posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 6237 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2225 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3640 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6142 Tournament chips.
+Mildone, at seat 7, is in this hand with 1381 Tournament chips.
+secretariate, at seat 8, is in this hand with 2560 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qs 4d ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [30 Tournament chips]
+Mildone folds [30 Tournament chips]
+secretariate folds [30 Tournament chips]
+rocky62033 folds [30 Tournament chips]
+Upyourpoker calls [15 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Qd ] board:[ 2h Qd]
+** Dealing Flop ** [ 7h ] board:[ 2h Qd 7h]
+Upyourpoker checks
+Unclejimmy71 bets for 30 Tournament chips
+Upyourpoker calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 2h Qd 7h 5s]
+Upyourpoker checks
+Unclejimmy71 bets for 60 Tournament chips
+Upyourpoker folds [60 Tournament chips]
+Unclejimmy71 is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Unclejimmy71 (Ah 2s 2h Qd 7h: a pair of deuces)
+Unclejimmy71 wins main pot 120 Tournament chips.
+Seat 1: rocky62033 (6237 Tournament chips) 
+Seat 2: Upyourpoker (2180 Tournament chips) 
+Seat 3: Unclejimmy71 (3730 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 6: QQpocket (2470 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-16 ends
+Game #23960413-17 starts
+Seat 1: rocky62033 (6237 Tournament chips) 
+Seat 2: Upyourpoker (2180 Tournament chips) 
+Seat 3: Unclejimmy71 (3730 Tournament chips) 
+Seat 4: QwertySpark (6142 Tournament chips) 
+Seat 6: QQpocket (2470 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 6237 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2180 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6112 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2470 Tournament chips.
+Mildone, at seat 7, is in this hand with 1381 Tournament chips.
+secretariate, at seat 8, is in this hand with 2560 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 3d 6h ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [30 Tournament chips]
+Mildone folds [30 Tournament chips]
+secretariate folds [30 Tournament chips]
+rocky62033 calls [30 Tournament chips]
+Upyourpoker raises [1239 Tournament chips]
+Unclejimmy71 folds [1224 Tournament chips]
+QwertySpark folds [1209 Tournament chips]
+rocky62033 re-raises [2418 Tournament chips]
+Upyourpoker calls all-in [941 Tournament chips]
+rocky62033 is returned 268 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rocky62033 shows [ Tc Ts ]
+Upyourpoker shows [ Qs Qc ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Jc ] board:[ Ad Jc]
+** Dealing Flop ** [ 3c ] board:[ Ad Jc 3c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Ad Jc 3c 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Ad Jc 3c 8d 8h]
+        (no action in this round)
+Round 4 is over.
+rocky62033 shows [ Tc Ts ] two pair, tens and eights, ace kicker
+Upyourpoker shows [ Qs Qc ] two pair, queens and eights, ace kicker
+Upyourpoker wins main pot 4405 Tournament chips with two pair, queens and eights, ace kicker.
+Seat 1: rocky62033 (4057 Tournament chips) 
+Seat 2: Upyourpoker (4405 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (6112 Tournament chips) 
+Seat 6: QQpocket (2470 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-17 ends
+Game #23960413-18 starts
+Seat 1: rocky62033 (4057 Tournament chips) 
+Seat 2: Upyourpoker (4405 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (6112 Tournament chips) 
+Seat 6: QQpocket (2470 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [15 Tournament chips]
+QQpocket posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4057 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4405 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 6097 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+Mildone, at seat 7, is in this hand with 1381 Tournament chips.
+secretariate, at seat 8, is in this hand with 2560 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Qc Js ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [30 Tournament chips]
+secretariate folds [30 Tournament chips]
+rocky62033 folds [30 Tournament chips]
+Upyourpoker calls [30 Tournament chips]
+Unclejimmy71 folds [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+QQpocket folds
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 5h ] board:[ Th 5h]
+** Dealing Flop ** [ 9d ] board:[ Th 5h 9d]
+QwertySpark bets for 45 Tournament chips
+Upyourpoker calls [45 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Th 5h 9d 4h]
+QwertySpark bets for 90 Tournament chips
+Upyourpoker calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Th 5h 9d 4h 5d]
+QwertySpark checks
+Upyourpoker checks
+Round 4 is over.
+QwertySpark shows [ Qc Js ] a pair of fives
+Hand evaluation for QwertySpark (Qc Js Th 5h 5d: a pair of fives)
+Upyourpoker shows [ Jd Kh ] a pair of fives
+Hand evaluation for Upyourpoker (Jd Kh Th 5h 5d: a pair of fives)
+Upyourpoker wins main pot 360 Tournament chips with a pair of fives, king/jack kickers.
+Seat 1: rocky62033 (4057 Tournament chips) 
+Seat 2: Upyourpoker (4600 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5947 Tournament chips) 
+Seat 6: QQpocket (2440 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-18 ends
+Game #23960413-19 starts
+Seat 1: rocky62033 (4057 Tournament chips) 
+Seat 2: Upyourpoker (4600 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5947 Tournament chips) 
+Seat 6: QQpocket (2440 Tournament chips) 
+Seat 7: Mildone (1381 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [15 Tournament chips]
+Mildone posts the big blind [30 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4057 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4600 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5947 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2425 Tournament chips.
+Mildone, at seat 7, is in this hand with 1351 Tournament chips.
+secretariate, at seat 8, is in this hand with 2560 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jc Kd ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [30 Tournament chips]
+rocky62033 calls [30 Tournament chips]
+Upyourpoker calls [30 Tournament chips]
+Unclejimmy71 folds [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+QQpocket folds [15 Tournament chips]
+Mildone checks
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 5s ] board:[ 7d 5s]
+** Dealing Flop ** [ Tc ] board:[ 7d 5s Tc]
+Mildone checks
+rocky62033 checks
+Upyourpoker bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Mildone folds [30 Tournament chips]
+rocky62033 folds [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 7d 5s Tc 9d]
+Upyourpoker bets for 90 Tournament chips
+QwertySpark calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 7d 5s Tc 9d 4d]
+Upyourpoker bets for 30 Tournament chips
+QwertySpark raises [465 Tournament chips]
+Upyourpoker calls [435 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Jc Kd ] king high
+Hand evaluation for QwertySpark (Jc Kd 7d Tc 9d: king high)
+Upyourpoker shows [ 5d 4h ] two pair, fives and fours
+Hand evaluation for Upyourpoker (5d 4h 5s Tc 4d: two pair, fives and fours)
+Upyourpoker wins main pot 1305 Tournament chips with two pair, fives and fours, ten kicker.
+Seat 1: rocky62033 (4027 Tournament chips) 
+Seat 2: Upyourpoker (5290 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5332 Tournament chips) 
+Seat 6: QQpocket (2425 Tournament chips) 
+Seat 7: Mildone (1351 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+Game #23960413-19 ends
+Game #23960413-20 starts
+Seat 1: rocky62033 (4027 Tournament chips) 
+Seat 2: Upyourpoker (5290 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5332 Tournament chips) 
+Seat 6: QQpocket (2425 Tournament chips) 
+Seat 7: Mildone (1351 Tournament chips) 
+Seat 8: secretariate (2560 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [20 Tournament chips]
+secretariate posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4027 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5290 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5332 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2425 Tournament chips.
+Mildone, at seat 7, is in this hand with 1331 Tournament chips.
+secretariate, at seat 8, is in this hand with 2520 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2d Js ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [40 Tournament chips]
+Upyourpoker calls [40 Tournament chips]
+Unclejimmy71 calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+QQpocket folds [40 Tournament chips]
+Mildone folds [20 Tournament chips]
+secretariate checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Td ] board:[ Ah Td]
+** Dealing Flop ** [ 7h ] board:[ Ah Td 7h]
+secretariate checks
+Upyourpoker checks
+Unclejimmy71 bets for 70 Tournament chips
+secretariate folds [70 Tournament chips]
+Upyourpoker folds [70 Tournament chips]
+Unclejimmy71 is returned 70 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Unclejimmy71 (4s Ad Ah Td 7h: a pair of aces)
+Unclejimmy71 wins main pot 140 Tournament chips.
+Seat 1: rocky62033 (4027 Tournament chips) 
+Seat 2: Upyourpoker (5250 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5332 Tournament chips) 
+Seat 6: QQpocket (2425 Tournament chips) 
+Seat 7: Mildone (1331 Tournament chips) 
+Seat 8: secretariate (2520 Tournament chips) 
+Game #23960413-20 ends
+Game #23960413-21 starts
+Seat 1: rocky62033 (4027 Tournament chips) 
+Seat 2: Upyourpoker (5250 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5332 Tournament chips) 
+Seat 6: QQpocket (2425 Tournament chips) 
+Seat 7: Mildone (1331 Tournament chips) 
+Seat 8: secretariate (2520 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [20 Tournament chips]
+rocky62033 posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3987 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5250 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3815 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5332 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2425 Tournament chips.
+Mildone, at seat 7, is in this hand with 1331 Tournament chips.
+secretariate, at seat 8, is in this hand with 2500 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 6d 2d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker calls [40 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+QQpocket calls [40 Tournament chips]
+Mildone calls [40 Tournament chips]
+secretariate calls [20 Tournament chips]
+rocky62033 checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Ac ] board:[ 8c Ac]
+** Dealing Flop ** [ 7h ] board:[ 8c Ac 7h]
+secretariate checks
+rocky62033 checks
+Upyourpoker checks
+QwertySpark checks
+QQpocket checks
+Mildone goes all-in for 1291 Tournament chips
+secretariate folds [1291 Tournament chips]
+rocky62033 folds [1291 Tournament chips]
+Upyourpoker folds [1291 Tournament chips]
+QwertySpark folds [1291 Tournament chips]
+QQpocket folds [1291 Tournament chips]
+Mildone is returned 1291 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Mildone (As 5s 8c Ac 7h: a pair of aces)
+Mildone wins main pot 240 Tournament chips.
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5292 Tournament chips) 
+Seat 6: QQpocket (2385 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-21 ends
+Game #23960413-22 starts
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5292 Tournament chips) 
+Seat 6: QQpocket (2385 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [20 Tournament chips]
+Upyourpoker posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3967 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5170 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand (absent) with 3815 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5292 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2385 Tournament chips.
+Mildone, at seat 7, is in this hand with 1531 Tournament chips.
+secretariate, at seat 8, is in this hand with 2480 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Js Tc ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+QQpocket raises all-in [2385 Tournament chips]
+Mildone folds [1531 Tournament chips]
+secretariate folds [2385 Tournament chips]
+rocky62033 folds [2365 Tournament chips]
+Upyourpoker folds [2345 Tournament chips]
+QwertySpark folds [2345 Tournament chips]
+QQpocket is returned 2345 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QQpocket (Jc Jh: a pair of jacks)
+QQpocket wins main pot 140 Tournament chips.
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5170 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5252 Tournament chips) 
+Seat 6: QQpocket (2485 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-22 ends
+Game #23960413-23 starts
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5170 Tournament chips) 
+Seat 3: Unclejimmy71 (3815 Tournament chips) 
+Seat 4: QwertySpark (5252 Tournament chips) 
+Seat 6: QQpocket (2485 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [20 Tournament chips]
+Unclejimmy71 posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3967 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5150 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand (absent) with 3775 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5252 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2485 Tournament chips.
+Mildone, at seat 7, is in this hand with 1531 Tournament chips.
+secretariate, at seat 8, is in this hand with 2480 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2s 5d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [40 Tournament chips]
+QQpocket folds [40 Tournament chips]
+Mildone folds [40 Tournament chips]
+secretariate folds [40 Tournament chips]
+rocky62033 folds [40 Tournament chips]
+Upyourpoker raises [60 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+Upyourpoker is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Upyourpoker (Tc 4d: ten high)
+Upyourpoker wins main pot 80 Tournament chips.
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3775 Tournament chips) 
+Seat 4: QwertySpark (5252 Tournament chips) 
+Seat 6: QQpocket (2485 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-23 ends
+Game #23960413-24 starts
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3775 Tournament chips) 
+Seat 4: QwertySpark (5252 Tournament chips) 
+Seat 6: QQpocket (2485 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3967 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand (absent) with 3755 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5212 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2485 Tournament chips.
+Mildone, at seat 7, is in this hand with 1531 Tournament chips.
+secretariate, at seat 8, is in this hand with 2480 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 5s Kc ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket raises [140 Tournament chips]
+Mildone folds [140 Tournament chips]
+secretariate folds [140 Tournament chips]
+rocky62033 folds [140 Tournament chips]
+Upyourpoker calls [140 Tournament chips]
+Unclejimmy71 folds [120 Tournament chips]
+(Unclejimmy71 has entered the table, is no longer absent.)
+QwertySpark folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 6d ] board:[ 2s 6d]
+** Dealing Flop ** [ Ah ] board:[ 2s 6d Ah]
+QQpocket bets for 340 Tournament chips
+Upyourpoker folds [340 Tournament chips]
+QQpocket is returned 340 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QQpocket (Ad Th 2s 6d Ah: a pair of aces)
+QQpocket wins main pot 340 Tournament chips.
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5070 Tournament chips) 
+Seat 3: Unclejimmy71 (3755 Tournament chips) 
+Seat 4: QwertySpark (5212 Tournament chips) 
+Seat 6: QQpocket (2685 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-24 ends
+Game #23960413-25 starts
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (5070 Tournament chips) 
+Seat 3: Unclejimmy71 (3755 Tournament chips) 
+Seat 4: QwertySpark (5212 Tournament chips) 
+Seat 6: QQpocket (2685 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [20 Tournament chips]
+QQpocket posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3967 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5070 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3755 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5192 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2645 Tournament chips.
+Mildone, at seat 7, is in this hand with 1531 Tournament chips.
+secretariate, at seat 8, is in this hand with 2480 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 9c 8c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [40 Tournament chips]
+secretariate folds [40 Tournament chips]
+rocky62033 folds [40 Tournament chips]
+Upyourpoker calls [40 Tournament chips]
+Unclejimmy71 folds [40 Tournament chips]
+QwertySpark raises [140 Tournament chips]
+QQpocket folds [120 Tournament chips]
+Upyourpoker calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Kd ] board:[ 3s Kd]
+** Dealing Flop ** [ 8h ] board:[ 3s Kd 8h]
+QwertySpark bets for 180 Tournament chips
+Upyourpoker folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9c 8c 3s Kd 8h: a pair of eights)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (4910 Tournament chips) 
+Seat 3: Unclejimmy71 (3755 Tournament chips) 
+Seat 4: QwertySpark (5412 Tournament chips) 
+Seat 6: QQpocket (2645 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-25 ends
+Game #23960413-26 starts
+Seat 1: rocky62033 (3967 Tournament chips) 
+Seat 2: Upyourpoker (4910 Tournament chips) 
+Seat 3: Unclejimmy71 (3755 Tournament chips) 
+Seat 4: QwertySpark (5412 Tournament chips) 
+Seat 6: QQpocket (2645 Tournament chips) 
+Seat 7: Mildone (1531 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [20 Tournament chips]
+Mildone posts the big blind [40 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3967 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4910 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3755 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5412 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2480 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jc 8c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [40 Tournament chips]
+rocky62033 calls [40 Tournament chips]
+Upyourpoker calls [40 Tournament chips]
+Unclejimmy71 calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+QQpocket folds [20 Tournament chips]
+Mildone checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 5s ] board:[ 9s 5s]
+** Dealing Flop ** [ Kc ] board:[ 9s 5s Kc]
+Mildone checks
+rocky62033 checks
+Upyourpoker checks
+Unclejimmy71 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 9s 5s Kc 9h]
+Mildone checks
+rocky62033 checks
+Upyourpoker checks
+Unclejimmy71 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 9s 5s Kc 9h 3c]
+Mildone checks
+rocky62033 checks
+Upyourpoker bets for 200 Tournament chips
+Unclejimmy71 folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Mildone folds [200 Tournament chips]
+rocky62033 folds [200 Tournament chips]
+Upyourpoker is returned 200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Upyourpoker (6d Kd 9s Kc 9h: two pair, kings and nines)
+Upyourpoker wins main pot 220 Tournament chips.
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5090 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+Game #23960413-26 ends
+Game #23960413-27 starts
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5090 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2480 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [30 Tournament chips]
+secretariate posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3927 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5090 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5372 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1461 Tournament chips.
+secretariate, at seat 8, is in this hand with 2420 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 5s 6d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [60 Tournament chips]
+Upyourpoker calls [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+QQpocket folds [60 Tournament chips]
+Mildone folds [30 Tournament chips]
+secretariate checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ As ] board:[ 2s As]
+** Dealing Flop ** [ 4h ] board:[ 2s As 4h]
+secretariate bets for 75 Tournament chips
+Upyourpoker folds [75 Tournament chips]
+secretariate is returned 75 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for secretariate (6s Js 2s As 4h: ace high)
+secretariate wins main pot 150 Tournament chips.
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5030 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1461 Tournament chips) 
+Seat 8: secretariate (2570 Tournament chips) 
+Game #23960413-27 ends
+Game #23960413-28 starts
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5030 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1461 Tournament chips) 
+Seat 8: secretariate (2570 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [30 Tournament chips]
+rocky62033 posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3867 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5030 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5372 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1461 Tournament chips.
+secretariate, at seat 8, is in this hand with 2540 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Th 5d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker calls [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+QQpocket folds [60 Tournament chips]
+Mildone calls [60 Tournament chips]
+secretariate calls [30 Tournament chips]
+rocky62033 checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 5h ] board:[ 6h 5h]
+** Dealing Flop ** [ Ts ] board:[ 6h 5h Ts]
+secretariate checks
+rocky62033 checks
+Upyourpoker checks
+Mildone checks
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 6h 5h Ts 6c]
+secretariate checks
+rocky62033 bets for 120 Tournament chips
+Upyourpoker folds [120 Tournament chips]
+Mildone folds [120 Tournament chips]
+secretariate folds [120 Tournament chips]
+rocky62033 is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for rocky62033 (6s 7h 6h Ts 6c: three sixes)
+rocky62033 wins main pot 240 Tournament chips.
+Seat 1: rocky62033 (4107 Tournament chips) 
+Seat 2: Upyourpoker (4970 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1401 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-28 ends
+Game #23960413-29 starts
+Seat 1: rocky62033 (4107 Tournament chips) 
+Seat 2: Upyourpoker (4970 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1401 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [30 Tournament chips]
+Upyourpoker posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4077 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4910 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3715 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5372 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1401 Tournament chips.
+secretariate, at seat 8, is in this hand with 2510 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ks 6c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+QQpocket folds [60 Tournament chips]
+Mildone folds [60 Tournament chips]
+secretariate folds [60 Tournament chips]
+rocky62033 calls [30 Tournament chips]
+Upyourpoker checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 3d ] board:[ Ah 3d]
+** Dealing Flop ** [ Kd ] board:[ Ah 3d Kd]
+rocky62033 checks
+Upyourpoker bets for 60 Tournament chips
+rocky62033 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ Ah 3d Kd As]
+rocky62033 checks
+Upyourpoker checks
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ Ah 3d Kd As Qs]
+rocky62033 checks
+Upyourpoker bets for 120 Tournament chips
+rocky62033 folds [120 Tournament chips]
+Upyourpoker is returned 120 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Upyourpoker (3s Ah 3d Kd As: two pair, aces and threes)
+Upyourpoker wins main pot 240 Tournament chips.
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5090 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1401 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-29 ends
+Game #23960413-30 starts
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5090 Tournament chips) 
+Seat 3: Unclejimmy71 (3715 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1401 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [30 Tournament chips]
+Unclejimmy71 posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3987 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5060 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5372 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1401 Tournament chips.
+secretariate, at seat 8, is in this hand with 2510 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 9s 2d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [60 Tournament chips]
+QQpocket folds [60 Tournament chips]
+Mildone calls [60 Tournament chips]
+secretariate folds [60 Tournament chips]
+rocky62033 folds [60 Tournament chips]
+Upyourpoker calls [30 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Kh ] board:[ 7s Kh]
+** Dealing Flop ** [ 6d ] board:[ 7s Kh 6d]
+Upyourpoker checks
+Unclejimmy71 checks
+Mildone checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 7s Kh 6d 3s]
+Upyourpoker checks
+Unclejimmy71 checks
+Mildone checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 7s Kh 6d 3s Jh]
+Upyourpoker has timed out - the hand is checked
+Unclejimmy71 checks
+Mildone checks
+Round 4 is over.
+Upyourpoker shows [ 2h Ah ] ace high
+Hand evaluation for Upyourpoker (Ah 7s Kh 6d Jh: ace high)
+Unclejimmy71 doesn't show [ Td 5s ]
+(Unclejimmy71 has Td 5s.)
+Mildone doesn't show [ Qc 8c ]
+(Mildone has Qc 8c.)
+Upyourpoker wins main pot 180 Tournament chips with ace/king/jack high.
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3655 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-30 ends
+Game #23960413-31 starts
+Seat 1: rocky62033 (3987 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3655 Tournament chips) 
+Seat 4: QwertySpark (5372 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3987 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3625 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5312 Tournament chips.
+QQpocket, at seat 6, is in this hand (absent) with 2625 Tournament chips.
+Mildone, at seat 7, is in this hand with 1341 Tournament chips.
+secretariate, at seat 8, is in this hand with 2510 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ts 4d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [60 Tournament chips]
+Mildone folds [60 Tournament chips]
+secretariate folds [60 Tournament chips]
+rocky62033 calls [60 Tournament chips]
+Upyourpoker folds [60 Tournament chips]
+Unclejimmy71 folds [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ As ] board:[ 7c As]
+** Dealing Flop ** [ Kc ] board:[ 7c As Kc]
+QwertySpark checks
+rocky62033 bets for 150 Tournament chips
+QwertySpark folds [150 Tournament chips]
+rocky62033 is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rocky62033 (Ad 8h 7c As Kc: a pair of aces)
+rocky62033 wins main pot 150 Tournament chips.
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3625 Tournament chips) 
+Seat 4: QwertySpark (5312 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-31 ends
+(QQpocket has entered the table, is no longer absent.)
+Game #23960413-32 starts
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3625 Tournament chips) 
+Seat 4: QwertySpark (5312 Tournament chips) 
+Seat 6: QQpocket (2625 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [30 Tournament chips]
+QQpocket posts the big blind [60 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4077 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3625 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5282 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2565 Tournament chips.
+Mildone, at seat 7, is in this hand with 1341 Tournament chips.
+secretariate, at seat 8, is in this hand with 2510 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 5h 9d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [60 Tournament chips]
+secretariate folds [60 Tournament chips]
+rocky62033 folds [60 Tournament chips]
+Upyourpoker folds [60 Tournament chips]
+Unclejimmy71 folds [60 Tournament chips]
+QwertySpark raises [90 Tournament chips]
+QQpocket calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 6c ] board:[ 7h 6c]
+** Dealing Flop ** [ Ks ] board:[ 7h 6c Ks]
+QwertySpark bets for 120 Tournament chips
+QQpocket calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 7h 6c Ks Qc]
+QwertySpark bets for 300 Tournament chips
+QQpocket folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9d 7h 6c Ks Qc: king high)
+QwertySpark wins main pot 480 Tournament chips.
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3625 Tournament chips) 
+Seat 4: QwertySpark (5552 Tournament chips) 
+Seat 6: QQpocket (2385 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-32 ends
+Game #23960413-33 starts
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3625 Tournament chips) 
+Seat 4: QwertySpark (5552 Tournament chips) 
+Seat 6: QQpocket (2385 Tournament chips) 
+Seat 7: Mildone (1341 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [50 Tournament chips]
+Mildone posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4077 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3625 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5552 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2335 Tournament chips.
+Mildone, at seat 7, is in this hand with 1241 Tournament chips.
+secretariate, at seat 8, is in this hand with 2510 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jc 4c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [100 Tournament chips]
+rocky62033 folds [100 Tournament chips]
+Upyourpoker folds [100 Tournament chips]
+Unclejimmy71 calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+QQpocket calls [50 Tournament chips]
+Mildone checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 5c ] board:[ 6c 5c]
+** Dealing Flop ** [ 3d ] board:[ 6c 5c 3d]
+QQpocket checks
+Mildone checks
+Unclejimmy71 checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 6c 5c 3d 8c]
+QQpocket checks
+Mildone checks
+Unclejimmy71 checks
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 6c 5c 3d 8c 8h]
+QQpocket checks
+Mildone checks
+Unclejimmy71 checks
+Round 4 is over.
+QQpocket shows [ 4h Qc ] a pair of eights
+Hand evaluation for QQpocket (Qc 6c 5c 8c 8h: a pair of eights)
+Mildone shows [ 6d As ] two pair, eights and sixes
+Hand evaluation for Mildone (6d As 6c 8c 8h: two pair, eights and sixes)
+Unclejimmy71 doesn't show [ Qs 7s ]
+(Unclejimmy71 has Qs 7s.)
+Mildone wins main pot 300 Tournament chips with two pair, eights and sixes, ace kicker.
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3525 Tournament chips) 
+Seat 4: QwertySpark (5552 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1541 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+Game #23960413-33 ends
+Game #23960413-34 starts
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3525 Tournament chips) 
+Seat 4: QwertySpark (5552 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1541 Tournament chips) 
+Seat 8: secretariate (2510 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [50 Tournament chips]
+secretariate posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4077 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3525 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5552 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2285 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2410 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 7c 7s ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [100 Tournament chips]
+Upyourpoker folds [100 Tournament chips]
+Unclejimmy71 folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+QQpocket folds [400 Tournament chips]
+Mildone folds [350 Tournament chips]
+secretariate folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (7c 7s: a pair of sevens)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3525 Tournament chips) 
+Seat 4: QwertySpark (5702 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2410 Tournament chips) 
+Game #23960413-34 ends
+Game #23960413-35 starts
+Seat 1: rocky62033 (4077 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3525 Tournament chips) 
+Seat 4: QwertySpark (5702 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2410 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [50 Tournament chips]
+rocky62033 posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3977 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5210 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3525 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5702 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2285 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2360 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Kh 7d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker folds [100 Tournament chips]
+Unclejimmy71 raises [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+QQpocket folds [350 Tournament chips]
+Mildone folds [350 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [250 Tournament chips]
+Unclejimmy71 is returned 250 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Unclejimmy71 (Ah Kc: ace high)
+Unclejimmy71 wins main pot 250 Tournament chips.
+Seat 1: rocky62033 (3977 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3675 Tournament chips) 
+Seat 4: QwertySpark (5702 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2360 Tournament chips) 
+Game #23960413-35 ends
+Game #23960413-36 starts
+Seat 1: rocky62033 (3977 Tournament chips) 
+Seat 2: Upyourpoker (5210 Tournament chips) 
+Seat 3: Unclejimmy71 (3675 Tournament chips) 
+Seat 4: QwertySpark (5702 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2360 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [50 Tournament chips]
+Upyourpoker posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3927 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5110 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3675 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5702 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2285 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2360 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ad 8c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+QQpocket folds [400 Tournament chips]
+Mildone folds [400 Tournament chips]
+secretariate re-raises [1200 Tournament chips]
+rocky62033 folds [1150 Tournament chips]
+Upyourpoker folds [1100 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+secretariate is returned 800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for secretariate (Td Tc: a pair of tens)
+secretariate wins main pot 950 Tournament chips.
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5110 Tournament chips) 
+Seat 3: Unclejimmy71 (3675 Tournament chips) 
+Seat 4: QwertySpark (5302 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+Game #23960413-36 ends
+Game #23960413-37 starts
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (5110 Tournament chips) 
+Seat 3: Unclejimmy71 (3675 Tournament chips) 
+Seat 4: QwertySpark (5302 Tournament chips) 
+Seat 6: QQpocket (2285 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [50 Tournament chips]
+Unclejimmy71 posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3927 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5060 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3575 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2285 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2910 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 3s Ks ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [100 Tournament chips]
+QQpocket calls [100 Tournament chips]
+Mildone folds [100 Tournament chips]
+secretariate folds [100 Tournament chips]
+rocky62033 folds [100 Tournament chips]
+Upyourpoker calls [50 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 9s ] board:[ 7h 9s]
+** Dealing Flop ** [ 5h ] board:[ 7h 9s 5h]
+Upyourpoker checks
+Unclejimmy71 bets for 100 Tournament chips
+QQpocket calls [100 Tournament chips]
+Upyourpoker calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 7h 9s 5h 9h]
+Upyourpoker checks
+Unclejimmy71 checks
+QQpocket checks
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 7h 9s 5h 9h Kh]
+Upyourpoker checks
+Unclejimmy71 checks
+QQpocket bets for 100 Tournament chips
+Upyourpoker calls [100 Tournament chips]
+Unclejimmy71 folds [100 Tournament chips]
+Round 4 is over.
+QQpocket shows [ Ts Qh ] flush, king high
+Hand evaluation for QQpocket (Qh 7h 5h 9h Kh: flush, king high)
+Upyourpoker doesn't show [ As Th ]
+(Upyourpoker has As Th.)
+QQpocket wins main pot 800 Tournament chips with flush, king/queen/nine high.
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (4810 Tournament chips) 
+Seat 3: Unclejimmy71 (3475 Tournament chips) 
+Seat 4: QwertySpark (5302 Tournament chips) 
+Seat 6: QQpocket (2785 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+Game #23960413-37 ends
+Game #23960413-38 starts
+Seat 1: rocky62033 (3927 Tournament chips) 
+Seat 2: Upyourpoker (4810 Tournament chips) 
+Seat 3: Unclejimmy71 (3475 Tournament chips) 
+Seat 4: QwertySpark (5302 Tournament chips) 
+Seat 6: QQpocket (2785 Tournament chips) 
+Seat 7: Mildone (1491 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3927 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4810 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3425 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5202 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2785 Tournament chips.
+Mildone, at seat 7, is in this hand with 1491 Tournament chips.
+secretariate, at seat 8, is in this hand with 2910 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2s 3d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [100 Tournament chips]
+Mildone calls [100 Tournament chips]
+secretariate folds [100 Tournament chips]
+rocky62033 calls [100 Tournament chips]
+Upyourpoker calls [100 Tournament chips]
+Unclejimmy71 calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 4d ] board:[ 9d 4d]
+** Dealing Flop ** [ 8s ] board:[ 9d 4d 8s]
+Unclejimmy71 checks
+QwertySpark checks
+Mildone checks
+rocky62033 bets for 500 Tournament chips
+Upyourpoker folds [500 Tournament chips]
+Unclejimmy71 folds [500 Tournament chips]
+QwertySpark folds [500 Tournament chips]
+Mildone folds [500 Tournament chips]
+rocky62033 is returned 500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rocky62033 (Js Jd 9d 4d 8s: a pair of jacks)
+rocky62033 wins main pot 500 Tournament chips.
+Seat 1: rocky62033 (4327 Tournament chips) 
+Seat 2: Upyourpoker (4710 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (5202 Tournament chips) 
+Seat 6: QQpocket (2785 Tournament chips) 
+Seat 7: Mildone (1391 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+Game #23960413-38 ends
+Game #23960413-39 starts
+Seat 1: rocky62033 (4327 Tournament chips) 
+Seat 2: Upyourpoker (4710 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (5202 Tournament chips) 
+Seat 6: QQpocket (2785 Tournament chips) 
+Seat 7: Mildone (1391 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [50 Tournament chips]
+QQpocket posts the big blind [100 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4327 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4710 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 5152 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2685 Tournament chips.
+Mildone, at seat 7, is in this hand with 1391 Tournament chips.
+secretariate, at seat 8, is in this hand with 2910 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 8d 6s ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone calls [100 Tournament chips]
+secretariate folds [100 Tournament chips]
+rocky62033 folds [100 Tournament chips]
+Upyourpoker calls [100 Tournament chips]
+Unclejimmy71 folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+QQpocket checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Qs ] board:[ 3d Qs]
+** Dealing Flop ** [ 6d ] board:[ 3d Qs 6d]
+QwertySpark checks
+QQpocket checks
+Mildone checks
+Upyourpoker checks
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 3d Qs 6d 5s]
+QwertySpark checks
+QQpocket bets for 100 Tournament chips
+Mildone calls [100 Tournament chips]
+Upyourpoker folds [100 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+QQpocket folds [700 Tournament chips]
+Mildone calls [700 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 3d Qs 6d 5s 5c]
+QwertySpark checks
+Mildone checks
+Round 4 is over.
+QwertySpark shows [ 8d 6s ] two pair, sixes and fives
+Hand evaluation for QwertySpark (6s Qs 6d 5s 5c: two pair, sixes and fives)
+Mildone shows [ 9c 9s ] two pair, nines and fives
+Hand evaluation for Mildone (9c 9s Qs 5s 5c: two pair, nines and fives)
+Mildone wins main pot 2100 Tournament chips with two pair, nines and fives, queen kicker.
+Seat 1: rocky62033 (4327 Tournament chips) 
+Seat 2: Upyourpoker (4610 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2585 Tournament chips) 
+Seat 7: Mildone (2591 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+Game #23960413-39 ends
+Game #23960413-40 starts
+Seat 1: rocky62033 (4327 Tournament chips) 
+Seat 2: Upyourpoker (4610 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2585 Tournament chips) 
+Seat 7: Mildone (2591 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [75 Tournament chips]
+Mildone posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4327 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4610 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2510 Tournament chips.
+Mildone, at seat 7, is in this hand with 2441 Tournament chips.
+secretariate, at seat 8, is in this hand with 2910 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 8c 2c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [150 Tournament chips]
+rocky62033 calls [150 Tournament chips]
+Upyourpoker raises [300 Tournament chips]
+Unclejimmy71 folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+QQpocket folds [225 Tournament chips]
+Mildone calls [150 Tournament chips]
+rocky62033 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 3c ] board:[ 4h 3c]
+** Dealing Flop ** [ Kd ] board:[ 4h 3c Kd]
+Mildone checks
+rocky62033 bets for 150 Tournament chips
+Upyourpoker raises [300 Tournament chips]
+Mildone folds [300 Tournament chips]
+rocky62033 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 4h 3c Kd Kc]
+rocky62033 checks
+Upyourpoker bets for 600 Tournament chips
+rocky62033 folds [600 Tournament chips]
+Upyourpoker is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Upyourpoker (Js Ah 4h Kd Kc: a pair of kings)
+Upyourpoker wins main pot 1575 Tournament chips.
+Seat 1: rocky62033 (3727 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2291 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+Game #23960413-40 ends
+Game #23960413-41 starts
+Seat 1: rocky62033 (3727 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (3375 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2291 Tournament chips) 
+Seat 8: secretariate (2910 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [75 Tournament chips]
+secretariate posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3727 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5585 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 3375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2510 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2760 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 7c 3d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 calls [150 Tournament chips]
+Upyourpoker folds [150 Tournament chips]
+Unclejimmy71 raises [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+QQpocket folds [300 Tournament chips]
+Mildone folds [225 Tournament chips]
+secretariate calls [150 Tournament chips]
+rocky62033 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 7d ] board:[ 6d 7d]
+** Dealing Flop ** [ Tc ] board:[ 6d 7d Tc]
+secretariate checks
+rocky62033 checks
+Unclejimmy71 bets for 975 Tournament chips
+secretariate folds [975 Tournament chips]
+rocky62033 calls [975 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 6d 7d Tc Ts]
+rocky62033 checks
+Unclejimmy71 goes all-in for 2100 Tournament chips
+rocky62033 calls [2100 Tournament chips]
+Tournament all-in showdown -- players show:
+rocky62033 shows [ Kd As ]
+Unclejimmy71 shows [ Ac Td ]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 6d 7d Tc Ts 2h]
+        (no action in this round)
+Round 4 is over.
+rocky62033 shows [ Kd As ] a pair of tens, ace/king kickers
+Unclejimmy71 shows [ Ac Td ] three tens, ace/seven kickers
+Unclejimmy71 wins main pot 7125 Tournament chips with three tens, ace/seven kickers.
+Seat 1: rocky62033 (352 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2610 Tournament chips) 
+Game #23960413-41 ends
+Game #23960413-42 starts
+Seat 1: rocky62033 (352 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2610 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [75 Tournament chips]
+rocky62033 posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 202 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5585 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2510 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2535 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 5s 9c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker folds [150 Tournament chips]
+Unclejimmy71 folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+QQpocket folds [150 Tournament chips]
+Mildone folds [150 Tournament chips]
+secretariate folds [75 Tournament chips]
+rocky62033 is returned 75 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for rocky62033 (Js Kc: king high)
+rocky62033 wins main pot 150 Tournament chips.
+Seat 1: rocky62033 (427 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2535 Tournament chips) 
+Game #23960413-42 ends
+Game #23960413-43 starts
+Seat 1: rocky62033 (427 Tournament chips) 
+Seat 2: Upyourpoker (5585 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2510 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2535 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [75 Tournament chips]
+Upyourpoker posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 352 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5435 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand (absent) with 7125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2510 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2535 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 8d 6c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+QQpocket calls [150 Tournament chips]
+Mildone folds [150 Tournament chips]
+secretariate raises [525 Tournament chips]
+rocky62033 calls all-in [352 Tournament chips]
+Upyourpoker folds [375 Tournament chips]
+QQpocket folds [375 Tournament chips]
+secretariate is returned 98 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rocky62033 shows [ 9s Qs ]
+secretariate shows [ 8c 8s ]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Qh ] board:[ Js Qh]
+** Dealing Flop ** [ Kd ] board:[ Js Qh Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Js Qh Kd 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Js Qh Kd 4h As]
+        (no action in this round)
+Round 4 is over.
+rocky62033 shows [ 9s Qs ] a pair of queens, ace/king kickers
+secretariate shows [ 8c 8s ] a pair of eights, ace/king kickers
+rocky62033 wins main pot 1154 Tournament chips with a pair of queens, ace/king kickers.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5435 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-43 ends
+Game #23960413-44 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5435 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [75 Tournament chips]
+Unclejimmy71 posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1154 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5360 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand (absent) with 6975 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4302 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2360 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2108 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2c 5d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+(Unclejimmy71 has entered the table, is no longer absent.)
+QwertySpark folds [150 Tournament chips]
+QQpocket folds [150 Tournament chips]
+Mildone folds [150 Tournament chips]
+secretariate folds [150 Tournament chips]
+rocky62033 folds [150 Tournament chips]
+Upyourpoker calls [75 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Qh ] board:[ 6c Qh]
+** Dealing Flop ** [ 7c ] board:[ 6c Qh 7c]
+Upyourpoker checks
+Unclejimmy71 checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 6c Qh 7c Ah]
+Upyourpoker checks
+Unclejimmy71 checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 6c Qh 7c Ah 2d]
+Upyourpoker checks
+Unclejimmy71 checks
+Round 4 is over.
+Upyourpoker shows [ Kh 8d ] ace high
+Hand evaluation for Upyourpoker (Kh 8d Qh 7c Ah: ace high)
+Unclejimmy71 shows [ Tc 2s ] a pair of deuces
+Hand evaluation for Unclejimmy71 (Tc 2s Qh Ah 2d: a pair of deuces)
+Unclejimmy71 wins main pot 300 Tournament chips with a pair of deuces, ace/queen kickers.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5285 Tournament chips) 
+Seat 3: Unclejimmy71 (7275 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-44 ends
+Game #23960413-45 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5285 Tournament chips) 
+Seat 3: Unclejimmy71 (7275 Tournament chips) 
+Seat 4: QwertySpark (4302 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1154 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5285 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7200 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4152 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2360 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2108 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jd 4c ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [150 Tournament chips]
+Mildone folds [150 Tournament chips]
+secretariate folds [150 Tournament chips]
+rocky62033 folds [150 Tournament chips]
+Upyourpoker folds [150 Tournament chips]
+Unclejimmy71 raises [225 Tournament chips]
+QwertySpark re-raises [300 Tournament chips]
+Unclejimmy71 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Jh ] board:[ 6h Jh]
+** Dealing Flop ** [ 8c ] board:[ 6h Jh 8c]
+Unclejimmy71 checks
+QwertySpark bets for 600 Tournament chips
+Unclejimmy71 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jd 4c 6h Jh 8c: a pair of jacks)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5285 Tournament chips) 
+Seat 3: Unclejimmy71 (6825 Tournament chips) 
+Seat 4: QwertySpark (4752 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-45 ends
+Game #23960413-46 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5285 Tournament chips) 
+Seat 3: Unclejimmy71 (6825 Tournament chips) 
+Seat 4: QwertySpark (4752 Tournament chips) 
+Seat 6: QQpocket (2360 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [75 Tournament chips]
+QQpocket posts the big blind [150 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1154 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5285 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 6825 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4677 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2210 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2108 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 6h Kd ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [150 Tournament chips]
+secretariate folds [150 Tournament chips]
+rocky62033 folds [150 Tournament chips]
+Upyourpoker calls [150 Tournament chips]
+Unclejimmy71 calls [150 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+QQpocket checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Tc ] board:[ 2c Tc]
+** Dealing Flop ** [ 7d ] board:[ 2c Tc 7d]
+QQpocket checks
+Upyourpoker checks
+Unclejimmy71 bets for 525 Tournament chips
+QQpocket folds [525 Tournament chips]
+Upyourpoker folds [525 Tournament chips]
+Unclejimmy71 is returned 525 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Unclejimmy71 (7h As 2c Tc 7d: a pair of sevens)
+Unclejimmy71 wins main pot 525 Tournament chips.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (7200 Tournament chips) 
+Seat 4: QwertySpark (4677 Tournament chips) 
+Seat 6: QQpocket (2210 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-46 ends
+Game #23960413-47 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (7200 Tournament chips) 
+Seat 4: QwertySpark (4677 Tournament chips) 
+Seat 6: QQpocket (2210 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [100 Tournament chips]
+Mildone posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1154 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5135 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7200 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4677 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand with 2016 Tournament chips.
+secretariate, at seat 8, is in this hand with 2108 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ts 5h ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [200 Tournament chips]
+rocky62033 folds [200 Tournament chips]
+Upyourpoker folds [200 Tournament chips]
+Unclejimmy71 folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+QQpocket folds [100 Tournament chips]
+Mildone is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Mildone (3d 6d: six high)
+Mildone wins main pot 200 Tournament chips.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (7200 Tournament chips) 
+Seat 4: QwertySpark (4677 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2316 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-47 ends
+Game #23960413-48 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (7200 Tournament chips) 
+Seat 4: QwertySpark (4677 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2316 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [100 Tournament chips]
+secretariate posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1154 Tournament chips.
+Upyourpoker, at seat 2, is in this hand (absent) with 5135 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7200 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4677 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 1908 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2d Kd ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [200 Tournament chips]
+Upyourpoker folds [200 Tournament chips]
+Unclejimmy71 raises [400 Tournament chips]
+QwertySpark re-raises [800 Tournament chips]
+QQpocket folds [800 Tournament chips]
+Mildone folds [700 Tournament chips]
+secretariate folds [600 Tournament chips]
+Unclejimmy71 calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 9h ] board:[ 9c 9h]
+** Dealing Flop ** [ 7c ] board:[ 9c 9h 7c]
+Unclejimmy71 bets for 950 Tournament chips
+(Upyourpoker has entered the table, is no longer absent.)
+QwertySpark folds [950 Tournament chips]
+Unclejimmy71 is returned 950 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Unclejimmy71 (7s Ad 9c 9h 7c: two pair, nines and sevens)
+Unclejimmy71 shows [ 7s Ad ] two pair, nines and sevens
+Hand evaluation for Unclejimmy71 (7s Ad 9c 9h 7c: two pair, nines and sevens)
+Unclejimmy71 wins main pot 1900 Tournament chips.
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (8300 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (1908 Tournament chips) 
+Game #23960413-48 ends
+Game #23960413-49 starts
+Seat 1: rocky62033 (1154 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (8300 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (1908 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [100 Tournament chips]
+rocky62033 posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 954 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 5135 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 8300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3877 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 1808 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 8c Js ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker folds [200 Tournament chips]
+Unclejimmy71 calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+QQpocket folds [200 Tournament chips]
+Mildone folds [200 Tournament chips]
+secretariate calls [100 Tournament chips]
+rocky62033 checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Qs ] board:[ As Qs]
+** Dealing Flop ** [ 6c ] board:[ As Qs 6c]
+secretariate checks
+rocky62033 checks
+Unclejimmy71 checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ As Qs 6c Jc]
+secretariate checks
+rocky62033 checks
+Unclejimmy71 checks
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ As Qs 6c Jc Ks]
+secretariate goes all-in for 1708 Tournament chips
+rocky62033 folds [954 Tournament chips]
+Unclejimmy71 folds [1708 Tournament chips]
+secretariate is returned 1708 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for secretariate (5s 4s As Qs Ks: flush, ace high)
+secretariate wins main pot 600 Tournament chips.
+Seat 1: rocky62033 (954 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (8100 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+Game #23960413-49 ends
+Game #23960413-50 starts
+Seat 1: rocky62033 (954 Tournament chips) 
+Seat 2: Upyourpoker (5135 Tournament chips) 
+Seat 3: Unclejimmy71 (8100 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [100 Tournament chips]
+Upyourpoker posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 854 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4935 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 8100 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3877 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2308 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ts 8h ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+QQpocket folds [200 Tournament chips]
+Mildone folds [200 Tournament chips]
+secretariate folds [200 Tournament chips]
+rocky62033 calls [100 Tournament chips]
+Upyourpoker checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 8c ] board:[ 9d 8c]
+** Dealing Flop ** [ 7h ] board:[ 9d 8c 7h]
+rocky62033 goes all-in for 754 Tournament chips
+Upyourpoker raises all-in [4935 Tournament chips]
+Unclejimmy71 folds [4935 Tournament chips]
+Upyourpoker is returned 4181 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rocky62033 shows [ 6c 5h ]
+Upyourpoker shows [ 9h 3h ]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 9d 8c 7h Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 9d 8c 7h Jc Qs]
+        (no action in this round)
+Round 4 is over.
+rocky62033 shows [ 6c 5h ] straight, nine high
+Upyourpoker shows [ 9h 3h ] a pair of nines, queen/jack kickers
+rocky62033 wins main pot 2108 Tournament chips with straight, nine high.
+Seat 1: rocky62033 (2108 Tournament chips) 
+Seat 2: Upyourpoker (4181 Tournament chips) 
+Seat 3: Unclejimmy71 (7900 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+Game #23960413-50 ends
+Game #23960413-51 starts
+Seat 1: rocky62033 (2108 Tournament chips) 
+Seat 2: Upyourpoker (4181 Tournament chips) 
+Seat 3: Unclejimmy71 (7900 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [100 Tournament chips]
+Unclejimmy71 posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 2108 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7700 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3877 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand (absent) with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2308 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 8d Kh ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [200 Tournament chips]
+QQpocket folds [200 Tournament chips]
+Mildone folds [200 Tournament chips]
+secretariate raises all-in [2308 Tournament chips]
+rocky62033 folds [2108 Tournament chips]
+Upyourpoker folds [2208 Tournament chips]
+Unclejimmy71 folds [2108 Tournament chips]
+secretariate is returned 2108 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for secretariate (8h 8s: a pair of eights)
+secretariate wins main pot 500 Tournament chips.
+Seat 1: rocky62033 (2108 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7700 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+Game #23960413-51 ends
+Game #23960413-52 starts
+Seat 1: rocky62033 (2108 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7700 Tournament chips) 
+Seat 4: QwertySpark (3877 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+rocky62033, at seat 1, is in this hand with 2108 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7600 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3677 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2110 Tournament chips.
+Mildone, at seat 7, is in this hand (absent) with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2608 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ks 9h ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [200 Tournament chips]
+Mildone folds [200 Tournament chips]
+secretariate folds [200 Tournament chips]
+rocky62033 calls [200 Tournament chips]
+Upyourpoker folds [200 Tournament chips]
+Unclejimmy71 folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 4s ] board:[ 8h 4s]
+** Dealing Flop ** [ 9s ] board:[ 8h 4s 9s]
+QwertySpark bets for 400 Tournament chips
+rocky62033 calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 8h 4s 9s 5c]
+QwertySpark bets for 650 Tournament chips
+rocky62033 folds [650 Tournament chips]
+QwertySpark is returned 650 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ks 9h 8h 9s 5c: a pair of nines)
+QwertySpark wins main pot 1300 Tournament chips.
+Seat 1: rocky62033 (1508 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (4577 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+Game #23960413-52 ends
+(Mildone has entered the table, is no longer absent.)
+Game #23960413-53 starts
+Seat 1: rocky62033 (1508 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (4577 Tournament chips) 
+Seat 6: QQpocket (2110 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+QQpocket posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 1508 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7600 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4427 Tournament chips.
+QQpocket, at seat 6, is in this hand with 1810 Tournament chips.
+Mildone, at seat 7, is in this hand with 2216 Tournament chips.
+secretariate, at seat 8, is in this hand with 2608 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ad 6h ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [300 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 calls [300 Tournament chips]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+QQpocket checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Qc ] board:[ Qd Qc]
+** Dealing Flop ** [ Kh ] board:[ Qd Qc Kh]
+QwertySpark checks
+QQpocket bets for 300 Tournament chips
+rocky62033 calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ Qd Qc Kh 6c]
+QwertySpark bets for 900 Tournament chips
+QQpocket raises all-in [1510 Tournament chips]
+rocky62033 calls all-in [908 Tournament chips]
+QwertySpark folds [610 Tournament chips]
+QQpocket is returned 602 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+rocky62033 shows [ Ks Js ]
+QQpocket shows [ 8d Kd ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Qd Qc Kh 6c 5s]
+        (no action in this round)
+Round 4 is over.
+rocky62033 shows [ Ks Js ] two pair, kings and queens, jack kicker
+QQpocket shows [ 8d Kd ] two pair, kings and queens, eight kicker
+rocky62033 wins main pot 4516 Tournament chips with two pair, kings and queens, jack kicker.
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (3077 Tournament chips) 
+Seat 6: QQpocket (602 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+Game #23960413-53 ends
+Game #23960413-54 starts
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (3077 Tournament chips) 
+Seat 6: QQpocket (602 Tournament chips) 
+Seat 7: Mildone (2216 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QQpocket posts the small blind [150 Tournament chips]
+Mildone posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4516 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7600 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3077 Tournament chips.
+QQpocket, at seat 6, is in this hand with 452 Tournament chips.
+Mildone, at seat 7, is in this hand with 1916 Tournament chips.
+secretariate, at seat 8, is in this hand with 2608 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Ad 2d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 folds [300 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+QQpocket folds [450 Tournament chips]
+Mildone folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad 2d: ace high)
+QwertySpark wins main pot 750 Tournament chips.
+(Mildone has entered the table, is no longer absent.)
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (3527 Tournament chips) 
+Seat 6: QQpocket (452 Tournament chips) 
+Seat 7: Mildone (1916 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+Game #23960413-54 ends
+Game #23960413-55 starts
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (7600 Tournament chips) 
+Seat 4: QwertySpark (3527 Tournament chips) 
+Seat 6: QQpocket (452 Tournament chips) 
+Seat 7: Mildone (1916 Tournament chips) 
+Seat 8: secretariate (2608 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Mildone posts the small blind [150 Tournament chips]
+secretariate posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4516 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7600 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3527 Tournament chips.
+QQpocket, at seat 6, is in this hand with 452 Tournament chips.
+Mildone, at seat 7, is in this hand with 1766 Tournament chips.
+secretariate, at seat 8, is in this hand with 2308 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 3h 6s ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 raises [1050 Tournament chips]
+QwertySpark folds [1050 Tournament chips]
+QQpocket folds [452 Tournament chips]
+Mildone folds [900 Tournament chips]
+secretariate folds [750 Tournament chips]
+Unclejimmy71 is returned 750 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Unclejimmy71 (Ac Ah: a pair of aces)
+Unclejimmy71 wins main pot 750 Tournament chips.
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (8050 Tournament chips) 
+Seat 4: QwertySpark (3527 Tournament chips) 
+Seat 6: QQpocket (452 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+Game #23960413-55 ends
+Game #23960413-56 starts
+Seat 1: rocky62033 (4516 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (8050 Tournament chips) 
+Seat 4: QwertySpark (3527 Tournament chips) 
+Seat 6: QQpocket (452 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2308 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+secretariate posts the small blind [150 Tournament chips]
+rocky62033 posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4216 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 4081 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 8050 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3527 Tournament chips.
+QQpocket, at seat 6, is in this hand with 452 Tournament chips.
+Mildone, at seat 7, is in this hand with 1766 Tournament chips.
+secretariate, at seat 8, is in this hand with 2158 Tournament chips.
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ Jc Jh ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+QQpocket calls all-in [452 Tournament chips]
+Mildone folds [1200 Tournament chips]
+secretariate folds [1050 Tournament chips]
+rocky62033 folds [900 Tournament chips]
+QwertySpark is returned 748 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jc Jh ]
+QQpocket shows [ Ah 4c ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 3d ] board:[ 2s 3d]
+** Dealing Flop ** [ 3h ] board:[ 2s 3d 3h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 2s 3d 3h 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 2s 3d 3h 2h 5h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jc Jh ] two pair, jacks and threes, five kicker
+QQpocket shows [ Ah 4c ] straight, five high
+QQpocket wins main pot 1354 Tournament chips with straight, five high.
+(Upyourpoker has entered the table, is no longer absent.)
+Seat 1: rocky62033 (4216 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (8050 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (1354 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+Game #23960413-56 ends
+Game #23960413-57 starts
+Seat 1: rocky62033 (4216 Tournament chips) 
+Seat 2: Upyourpoker (4081 Tournament chips) 
+Seat 3: Unclejimmy71 (8050 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (1354 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rocky62033 posts the small blind [150 Tournament chips]
+Upyourpoker posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 4066 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 3781 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 8050 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3075 Tournament chips.
+QQpocket, at seat 6, is in this hand with 1354 Tournament chips.
+Mildone, at seat 7, is in this hand with 1766 Tournament chips.
+secretariate, at seat 8, is in this hand with 2158 Tournament chips.
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 9h 7d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Unclejimmy71 calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+QQpocket calls [300 Tournament chips]
+Mildone folds [300 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 calls [150 Tournament chips]
+Upyourpoker checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 8h ] board:[ 5c 8h]
+** Dealing Flop ** [ Js ] board:[ 5c 8h Js]
+rocky62033 checks
+Upyourpoker checks
+Unclejimmy71 checks
+QQpocket goes all-in for 1054 Tournament chips
+rocky62033 folds [1054 Tournament chips]
+Upyourpoker calls [1054 Tournament chips]
+Unclejimmy71 folds [1054 Tournament chips]
+Tournament all-in showdown -- players show:
+Upyourpoker shows [ 6h 8d ]
+QQpocket shows [ Jc Kh ]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 5c 8h Js 9d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 5c 8h Js 9d 5h]
+        (no action in this round)
+Round 4 is over.
+Upyourpoker shows [ 6h 8d ] two pair, eights and fives, jack kicker
+QQpocket shows [ Jc Kh ] two pair, jacks and fives, king kicker
+QQpocket wins main pot 3308 Tournament chips with two pair, jacks and fives, king kicker.
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (2727 Tournament chips) 
+Seat 3: Unclejimmy71 (7750 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+Game #23960413-57 ends
+Game #23960413-58 starts
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (2727 Tournament chips) 
+Seat 3: Unclejimmy71 (7750 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Upyourpoker posts the small blind [150 Tournament chips]
+Unclejimmy71 posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3916 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 2577 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7450 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3075 Tournament chips.
+QQpocket, at seat 6, is in this hand with 3308 Tournament chips.
+Mildone, at seat 7, is in this hand with 1766 Tournament chips.
+secretariate, at seat 8, is in this hand with 2158 Tournament chips.
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 4c Jh ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QwertySpark folds [300 Tournament chips]
+QQpocket folds [300 Tournament chips]
+Mildone folds [300 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker calls [150 Tournament chips]
+Unclejimmy71 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 3d ] board:[ Qs 3d]
+** Dealing Flop ** [ Js ] board:[ Qs 3d Js]
+Upyourpoker bets for 300 Tournament chips
+Unclejimmy71 folds [300 Tournament chips]
+Upyourpoker is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Upyourpoker (As Qd Qs 3d Js: a pair of queens)
+Upyourpoker wins main pot 600 Tournament chips.
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (3027 Tournament chips) 
+Seat 3: Unclejimmy71 (7450 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+Game #23960413-58 ends
+Game #23960413-59 starts
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (3027 Tournament chips) 
+Seat 3: Unclejimmy71 (7450 Tournament chips) 
+Seat 4: QwertySpark (3075 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Unclejimmy71 posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3916 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 3027 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2775 Tournament chips.
+QQpocket, at seat 6, is in this hand with 3308 Tournament chips.
+Mildone, at seat 7, is in this hand with 1766 Tournament chips.
+secretariate, at seat 8, is in this hand with 2158 Tournament chips.
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 6d Jh ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+QQpocket folds [300 Tournament chips]
+Mildone folds [300 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker calls [300 Tournament chips]
+Unclejimmy71 calls [150 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Qh ] board:[ 4h Qh]
+** Dealing Flop ** [ Ks ] board:[ 4h Qh Ks]
+Unclejimmy71 checks
+QwertySpark checks
+Upyourpoker bets for 600 Tournament chips
+Unclejimmy71 folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Upyourpoker is returned 600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Upyourpoker (6c 8c 4h Qh Ks: king high)
+Upyourpoker wins main pot 900 Tournament chips.
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (3627 Tournament chips) 
+Seat 3: Unclejimmy71 (7150 Tournament chips) 
+Seat 4: QwertySpark (2775 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+Game #23960413-59 ends
+Game #23960413-60 starts
+Seat 1: rocky62033 (3916 Tournament chips) 
+Seat 2: Upyourpoker (3627 Tournament chips) 
+Seat 3: Unclejimmy71 (7150 Tournament chips) 
+Seat 4: QwertySpark (2775 Tournament chips) 
+Seat 6: QQpocket (3308 Tournament chips) 
+Seat 7: Mildone (1766 Tournament chips) 
+Seat 8: secretariate (2158 Tournament chips) 
+The button is at seat 2
+rocky62033 posted ante of 25 Tournament chips
+Upyourpoker posted ante of 25 Tournament chips
+Unclejimmy71 posted ante of 25 Tournament chips
+QQpocket posted ante of 25 Tournament chips
+Mildone posted ante of 25 Tournament chips
+secretariate posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+QQpocket posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3891 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 3602 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2600 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2983 Tournament chips.
+Mildone, at seat 7, is in this hand with 1741 Tournament chips.
+secretariate, at seat 8, is in this hand with 2133 Tournament chips.
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 7d As ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+Mildone folds [300 Tournament chips]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+QQpocket checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Ts ] board:[ 6s Ts]
+** Dealing Flop ** [ Ac ] board:[ 6s Ts Ac]
+QwertySpark bets for 387 Tournament chips
+QQpocket folds [387 Tournament chips]
+QwertySpark is returned 387 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7d As 6s Ts Ac: a pair of aces)
+QwertySpark wins main pot 775 Tournament chips.
+Seat 1: rocky62033 (3891 Tournament chips) 
+Seat 2: Upyourpoker (3602 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (3225 Tournament chips) 
+Seat 6: QQpocket (2983 Tournament chips) 
+Seat 7: Mildone (1741 Tournament chips) 
+Seat 8: secretariate (2133 Tournament chips) 
+Game #23960413-60 ends
+Game #23960413-61 starts
+Seat 1: rocky62033 (3891 Tournament chips) 
+Seat 2: Upyourpoker (3602 Tournament chips) 
+Seat 3: Unclejimmy71 (7125 Tournament chips) 
+Seat 4: QwertySpark (3225 Tournament chips) 
+Seat 6: QQpocket (2983 Tournament chips) 
+Seat 7: Mildone (1741 Tournament chips) 
+Seat 8: secretariate (2133 Tournament chips) 
+The button is at seat 3
+rocky62033 posted ante of 25 Tournament chips
+Upyourpoker posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Unclejimmy71 posted ante of 25 Tournament chips
+QQpocket posted ante of 25 Tournament chips
+Mildone posted ante of 25 Tournament chips
+secretariate posted ante of 25 Tournament chips
+The button is moved to seat 4.
+QQpocket posts the small blind [150 Tournament chips]
+Mildone posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3866 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 3577 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7100 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3200 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2808 Tournament chips.
+Mildone, at seat 7, is in this hand with 1416 Tournament chips.
+secretariate, at seat 8, is in this hand with 2108 Tournament chips.
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 2d Qh ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+secretariate folds [300 Tournament chips]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker folds [300 Tournament chips]
+Unclejimmy71 raises [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+QQpocket folds [450 Tournament chips]
+Mildone folds [300 Tournament chips]
+Unclejimmy71 is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Unclejimmy71 (Kd Td: king high)
+Unclejimmy71 wins main pot 925 Tournament chips.
+(Mildone has entered the table, is no longer absent.)
+Seat 1: rocky62033 (3866 Tournament chips) 
+Seat 2: Upyourpoker (3577 Tournament chips) 
+Seat 3: Unclejimmy71 (7725 Tournament chips) 
+Seat 4: QwertySpark (3200 Tournament chips) 
+Seat 6: QQpocket (2808 Tournament chips) 
+Seat 7: Mildone (1416 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+Game #23960413-61 ends
+Game #23960413-62 starts
+Seat 1: rocky62033 (3866 Tournament chips) 
+Seat 2: Upyourpoker (3577 Tournament chips) 
+Seat 3: Unclejimmy71 (7725 Tournament chips) 
+Seat 4: QwertySpark (3200 Tournament chips) 
+Seat 6: QQpocket (2808 Tournament chips) 
+Seat 7: Mildone (1416 Tournament chips) 
+Seat 8: secretariate (2108 Tournament chips) 
+The button is at seat 4
+Upyourpoker posted ante of 25 Tournament chips
+rocky62033 posted ante of 25 Tournament chips
+Unclejimmy71 posted ante of 25 Tournament chips
+Mildone posted ante of 25 Tournament chips
+secretariate posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+QQpocket posted ante of 25 Tournament chips
+The button is moved to seat 6.
+Mildone posts the small blind [150 Tournament chips]
+secretariate posts the big blind [300 Tournament chips]
+rocky62033, at seat 1, is in this hand with 3841 Tournament chips.
+Upyourpoker, at seat 2, is in this hand with 3552 Tournament chips.
+Unclejimmy71, at seat 3, is in this hand with 7700 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3175 Tournament chips.
+QQpocket, at seat 6, is in this hand with 2783 Tournament chips.
+Mildone, at seat 7, is in this hand with 1241 Tournament chips.
+secretariate, at seat 8, is in this hand with 1783 Tournament chips.
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Mildone is dealt: **
+secretariate is dealt: **
+rocky62033 is dealt: **
+Upyourpoker is dealt: **
+Unclejimmy71 is dealt: **
+
+QQpocket is dealt: **
+Dealt to rocky62033 [ **** ]
+Dealt to Upyourpoker [ **** ]
+Dealt to Unclejimmy71 [ **** ]
+Dealt to QwertySpark [ 9h 9d ]
+Dealt to QQpocket [ **** ]
+Dealt to Mildone [ **** ]
+Dealt to secretariate [ **** ]
+rocky62033 folds [300 Tournament chips]
+Upyourpoker raises [1800 Tournament chips]
+Unclejimmy71 folds [1800 Tournament chips]
+QwertySpark raises all-in [3175 Tournament chips]
+QQpocket calls all-in [2783 Tournament chips]
+Mildone calls all-in [1241 Tournament chips]
+secretariate folds [1783 Tournament chips]
+Upyourpoker calls [1375 Tournament chips]
+Tournament all-in showdown -- players show:
+Upyourpoker shows [ Ac Ad ]
+QwertySpark shows [ 9h 9d ]
+QQpocket shows [ Kc Kd ]
+Mildone shows [ Ts Th ]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 5h ] board:[ 3s 5h]
+** Dealing Flop ** [ 2c ] board:[ 3s 5h 2c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 3s 5h 2c Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 3s 5h 2c Qs Jc]
+        (no action in this round)
+Round 4 is over.
+Upyourpoker shows [ Ac Ad ] a pair of aces, queen/jack kickers
+QwertySpark shows [ 9h 9d ] a pair of nines, queen/jack kickers
+QQpocket shows [ Kc Kd ] a pair of kings, queen/jack kickers
+Mildone shows [ Ts Th ] a pair of tens, queen/jack kickers
+Upyourpoker wins main pot 6039 Tournament chips with a pair of aces, queen/jack kickers.
+Upyourpoker wins side pot #1 4176 Tournament chips with a pair of aces, queen/jack kickers.
+Upyourpoker wins side pot #2 784 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 1: rocky62033 (3841 Tournament chips) 
+Seat 2: Upyourpoker (11376 Tournament chips) 
+Seat 3: Unclejimmy71 (7700 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 6: QQpocket (0 Tournament chips) 
+Seat 7: Mildone (0 Tournament chips) 
+Seat 8: secretariate (1783 Tournament chips) 
+Game #23960413-62 ends
+Player Mildone leaves the table with 0 Tournament chips
+Player QQpocket leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips
+Player secretariate leaves the table with 1783 Tournament chips
+Player Upyourpoker leaves the table with 11376 Tournament chips
+Player Unclejimmy71 leaves the table with 7700 Tournament chips
+Player rocky62033 leaves the table with 3841 Tournament chips

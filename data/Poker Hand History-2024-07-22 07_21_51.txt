@@ -1,0 +1,1489 @@
+Game#: 23902642
+Round 4 is over.
+Veganbich shows [ 3h 5d ] a pair of deuces
+Hand evaluation for Veganbich (5d 2c 7d 2h Kh: a pair of deuces)
+Dave63146 shows [ 9s 8s ] a pair of deuces
+Hand evaluation for Dave63146 (9s 8s 2c 2h Kh: a pair of deuces)
+BoratSacdiev shows [ 7c Ac ] two pair, sevens and deuces
+Hand evaluation for BoratSacdiev (7c Ac 2c 7d 2h: two pair, sevens and deuces)
+BoratSacdiev wins main pot 2095 Tournament chips with two pair, sevens and deuces, ace kicker.
+BoratSacdiev wins side pot #1 220 Tournament chips with two pair, sevens and deuces, ace kicker.
+Veganbich: Noobzzzz waiting for aces noobzzzz
+Seat 0: SAMOGAS (85 Tournament chips) 
+Seat 1: robbingu (1230 Tournament chips) 
+Seat 2: Veganbich (825 Tournament chips) 
+Seat 3: LuckyLunatic (1525 Tournament chips) 
+Seat 4: mo211 (970 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Dave63146 (0 Tournament chips) 
+Seat 7: Petro032 (1730 Tournament chips) 
+Seat 8: BoratSacdiev (4405 Tournament chips) 
+Game #23902642-11 ends
+Player Dave63146 leaves the table with 0 Tournament chips
+Game #23902642-12 starts
+Seat 0: SAMOGAS (85 Tournament chips) 
+Seat 1: robbingu (1230 Tournament chips) 
+Seat 2: Veganbich (825 Tournament chips) 
+Seat 3: LuckyLunatic (1525 Tournament chips) 
+Seat 4: mo211 (970 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 7: Petro032 (1730 Tournament chips) 
+Seat 8: BoratSacdiev (4405 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Veganbich posts the small blind [25 Tournament chips]
+LuckyLunatic posts the big blind [50 Tournament chips]
+SAMOGAS, at seat 0, is in this hand with 85 Tournament chips.
+robbingu, at seat 1, is in this hand with 1230 Tournament chips.
+Veganbich, at seat 2, is in this hand with 800 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1475 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 885 Tournament chips.
+Petro032, at seat 7, is in this hand with 1730 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 4405 Tournament chips.
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Dealt to SAMOGAS [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ Kc 2c ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+mo211 folds [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Petro032 calls [50 Tournament chips]
+BoratSacdiev calls [50 Tournament chips]
+SAMOGAS raises all-in [85 Tournament chips]
+robbingu calls [85 Tournament chips]
+Veganbich completes [100 Tournament chips]
+LuckyLunatic folds [75 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Petro032 calls [75 Tournament chips]
+BoratSacdiev calls [75 Tournament chips]
+robbingu calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Ad ] board:[ Ks Ad]
+** Dealing Flop ** [ 4c ] board:[ Ks Ad 4c]
+Veganbich bets for 50 Tournament chips
+QwertySpark calls [50 Tournament chips]
+Petro032 calls [50 Tournament chips]
+BoratSacdiev calls [50 Tournament chips]
+robbingu folds [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ Ks Ad 4c 7s]
+Veganbich bets for 100 Tournament chips
+QwertySpark folds [100 Tournament chips]
+Petro032 calls [100 Tournament chips]
+BoratSacdiev folds [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ Ks Ad 4c 7s 3d]
+Veganbich bets for 100 Tournament chips
+Petro032 folds [100 Tournament chips]
+Veganbich is returned 100 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+SAMOGAS shows [ 8h Ah ]
+Veganbich shows [ Js 3s ]
+Round 4 is over.
+SAMOGAS shows [ 8h Ah ] a pair of aces, king/eight kickers
+Veganbich shows [ Js 3s ] a pair of threes, ace/king kickers
+SAMOGAS wins main pot 560 Tournament chips with a pair of aces, king/eight kickers.
+Veganbich wins side pot #1 600 Tournament chips with a pair of threes, ace/king kickers.
+Seat 0: SAMOGAS (560 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1475 Tournament chips) 
+Seat 4: mo211 (970 Tournament chips) 
+Seat 5: QwertySpark (710 Tournament chips) 
+Seat 7: Petro032 (1455 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+Game #23902642-12 ends
+Game #23902642-13 starts
+Seat 0: SAMOGAS (560 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1475 Tournament chips) 
+Seat 4: mo211 (970 Tournament chips) 
+Seat 5: QwertySpark (710 Tournament chips) 
+Seat 7: Petro032 (1455 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+LuckyLunatic posts the small blind [25 Tournament chips]
+mo211 posts the big blind [50 Tournament chips]
+SAMOGAS, at seat 0, is in this hand with 560 Tournament chips.
+robbingu, at seat 1, is in this hand with 1105 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1150 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 920 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 710 Tournament chips.
+Petro032, at seat 7, is in this hand with 1455 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 4230 Tournament chips.
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+Dealt to SAMOGAS [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 9d Td ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+QwertySpark raises [100 Tournament chips]
+Petro032 folds [100 Tournament chips]
+BoratSacdiev folds [100 Tournament chips]
+SAMOGAS calls [100 Tournament chips]
+robbingu folds [100 Tournament chips]
+Veganbich folds [100 Tournament chips]
+LuckyLunatic folds [75 Tournament chips]
+mo211 folds [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Jc ] board:[ 7h Jc]
+** Dealing Flop ** [ Qc ] board:[ 7h Jc Qc]
+QwertySpark bets for 50 Tournament chips
+SAMOGAS folds [50 Tournament chips]
+QwertySpark is returned 50 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9d Td 7h Jc Qc: queen high)
+QwertySpark wins main pot 275 Tournament chips.
+Seat 0: SAMOGAS (460 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (920 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 7: Petro032 (1455 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+Game #23902642-13 ends
+Game #23902642-14 starts
+Seat 0: SAMOGAS (460 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (920 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 7: Petro032 (1455 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+mo211 posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+SAMOGAS, at seat 0, is in this hand with 460 Tournament chips.
+robbingu, at seat 1, is in this hand with 1105 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1150 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 835 Tournament chips.
+Petro032, at seat 7, is in this hand with 1455 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 4230 Tournament chips.
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+Dealt to SAMOGAS [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 4h 6c ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+Petro032 calls [50 Tournament chips]
+BoratSacdiev folds [50 Tournament chips]
+SAMOGAS calls [50 Tournament chips]
+robbingu folds [50 Tournament chips]
+Veganbich folds [50 Tournament chips]
+LuckyLunatic folds [50 Tournament chips]
+mo211 folds [25 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 9c ] board:[ 8c 9c]
+** Dealing Flop ** [ 6h ] board:[ 8c 9c 6h]
+QwertySpark checks
+Petro032 checks
+SAMOGAS checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 8c 9c 6h 2c]
+QwertySpark bets for 100 Tournament chips
+Petro032 raises [200 Tournament chips]
+SAMOGAS folds [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 8c 9c 6h 2c 3s]
+QwertySpark checks
+Petro032 bets for 100 Tournament chips
+QwertySpark folds [100 Tournament chips]
+Petro032 is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Petro032 (9d 6d 8c 9c 6h: two pair, nines and sixes)
+Petro032 wins main pot 575 Tournament chips.
+Seat 0: SAMOGAS (410 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (635 Tournament chips) 
+Seat 7: Petro032 (1780 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+Game #23902642-14 ends
+Game #23902642-15 starts
+Seat 0: SAMOGAS (410 Tournament chips) 
+Seat 1: robbingu (1105 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (635 Tournament chips) 
+Seat 7: Petro032 (1780 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [50 Tournament chips]
+Petro032 posts the big blind [75 Tournament chips]
+SAMOGAS, at seat 0, is in this hand with 410 Tournament chips.
+robbingu, at seat 1, is in this hand with 1105 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1150 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 585 Tournament chips.
+Petro032, at seat 7, is in this hand with 1705 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand (absent) with 4230 Tournament chips.
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+SAMOGAS is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+Dealt to SAMOGAS [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ Js Jd ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+BoratSacdiev folds [75 Tournament chips]
+SAMOGAS raises [150 Tournament chips]
+robbingu calls [150 Tournament chips]
+Veganbich folds [150 Tournament chips]
+LuckyLunatic folds [150 Tournament chips]
+mo211 folds [150 Tournament chips]
+QwertySpark re-raises [175 Tournament chips]
+Petro032 folds [150 Tournament chips]
+SAMOGAS re-raises [150 Tournament chips]
+robbingu calls [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Tc ] board:[ 2d Tc]
+** Dealing Flop ** [ 9s ] board:[ 2d Tc 9s]
+QwertySpark bets for 75 Tournament chips
+SAMOGAS calls [75 Tournament chips]
+robbingu calls [75 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 2d Tc 9s 5d]
+QwertySpark bets for 150 Tournament chips
+SAMOGAS calls all-in [35 Tournament chips]
+robbingu calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 2d Tc 9s 5d 5h]
+QwertySpark goes all-in for 110 Tournament chips
+robbingu folds [110 Tournament chips]
+QwertySpark is returned 110 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+SAMOGAS shows [ Kc Qd ]
+QwertySpark shows [ Js Jd ]
+Round 4 is over.
+SAMOGAS shows [ Kc Qd ] a pair of fives, king/queen kickers
+QwertySpark shows [ Js Jd ] two pair, jacks and fives, ten kicker
+QwertySpark wins main pot 1305 Tournament chips with two pair, jacks and fives, ten kicker.
+QwertySpark wins side pot #1 230 Tournament chips with two pair, jacks and fives, ten kicker.
+Seat 0: SAMOGAS (0 Tournament chips) 
+Seat 1: robbingu (580 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 7: Petro032 (1705 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+Game #23902642-15 ends
+Player SAMOGAS leaves the table with 0 Tournament chips
+Game #23902642-16 starts
+Seat 1: robbingu (580 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 7: Petro032 (1705 Tournament chips) 
+Seat 8: BoratSacdiev (4230 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Petro032 posts the small blind [50 Tournament chips]
+BoratSacdiev posts the big blind [75 Tournament chips]
+robbingu, at seat 1, is in this hand with 580 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1150 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1645 Tournament chips.
+Petro032, at seat 7, is in this hand with 1655 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 4155 Tournament chips.
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 7d Tc ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+robbingu calls [75 Tournament chips]
+Veganbich folds [75 Tournament chips]
+LuckyLunatic folds [75 Tournament chips]
+mo211 folds [75 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+Petro032 calls [25 Tournament chips]
+BoratSacdiev checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Td ] board:[ Kd Td]
+** Dealing Flop ** [ 6d ] board:[ Kd Td 6d]
+Petro032 has timed out - the hand is checked
+BoratSacdiev checks
+robbingu checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Kd Td 6d 8c]
+Petro032 bets for 150 Tournament chips
+BoratSacdiev calls [150 Tournament chips]
+robbingu folds [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Kd Td 6d 8c 2d]
+Petro032 checks
+BoratSacdiev bets for 150 Tournament chips
+Petro032 calls [150 Tournament chips]
+Round 4 is over.
+BoratSacdiev shows [ 2s 3d ] flush, king high
+Hand evaluation for BoratSacdiev (3d Kd Td 6d 2d: flush, king high)
+Petro032 shows [ 8d 7s ] flush, king high
+Hand evaluation for Petro032 (8d Kd Td 6d 2d: flush, king high)
+Petro032 wins main pot 825 Tournament chips with flush, king/ten/eight high.
+Seat 1: robbingu (505 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (865 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3855 Tournament chips) 
+Game #23902642-16 ends
+Game #23902642-17 starts
+Seat 1: robbingu (505 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (865 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3855 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+BoratSacdiev posts the small blind [50 Tournament chips]
+robbingu posts the big blind [75 Tournament chips]
+robbingu, at seat 1, is in this hand with 430 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1150 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1645 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 865 Tournament chips.
+Petro032, at seat 7, is in this hand with 2155 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3805 Tournament chips.
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ Tc 3h ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+Veganbich folds [75 Tournament chips]
+LuckyLunatic folds [75 Tournament chips]
+mo211 folds [75 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+stdntalbnbad calls [75 Tournament chips]
+Petro032 folds [75 Tournament chips]
+BoratSacdiev calls [25 Tournament chips]
+robbingu checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Jd ] board:[ 2d Jd]
+** Dealing Flop ** [ Ac ] board:[ 2d Jd Ac]
+BoratSacdiev checks
+robbingu checks
+stdntalbnbad bets for 75 Tournament chips
+BoratSacdiev calls [75 Tournament chips]
+robbingu calls [75 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 2d Jd Ac 5d]
+BoratSacdiev checks
+robbingu checks
+stdntalbnbad checks
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 2d Jd Ac 5d 2c]
+BoratSacdiev has timed out - the hand is checked
+robbingu checks
+stdntalbnbad checks
+Round 4 is over.
+BoratSacdiev shows [ 8c Qs ] a pair of deuces
+Hand evaluation for BoratSacdiev (Qs 2d Jd Ac 2c: a pair of deuces)
+robbingu doesn't show [ Th 8d ]
+(robbingu has Th 8d.)
+stdntalbnbad shows [ 9d 9c ] two pair, nines and deuces
+Hand evaluation for stdntalbnbad (9d 9c 2d Ac 2c: two pair, nines and deuces)
+stdntalbnbad wins main pot 450 Tournament chips with two pair, nines and deuces, ace kicker.
+Seat 1: robbingu (355 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3705 Tournament chips) 
+Game #23902642-17 ends
+Game #23902642-18 starts
+Seat 1: robbingu (355 Tournament chips) 
+Seat 2: Veganbich (1150 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3705 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+robbingu posts the small blind [50 Tournament chips]
+Veganbich posts the big blind [75 Tournament chips]
+robbingu, at seat 1, is in this hand with 305 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1075 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1450 Tournament chips.
+mo211, at seat 4, is in this hand (absent) with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1645 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 1165 Tournament chips.
+Petro032, at seat 7, is in this hand with 2155 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3705 Tournament chips.
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 3s Jh ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+LuckyLunatic folds [75 Tournament chips]
+mo211 folds [75 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+stdntalbnbad folds [75 Tournament chips]
+Petro032 folds [75 Tournament chips]
+BoratSacdiev calls [75 Tournament chips]
+robbingu folds [25 Tournament chips]
+Veganbich checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 3d ] board:[ 4h 3d]
+** Dealing Flop ** [ 8s ] board:[ 4h 3d 8s]
+Veganbich bets for 75 Tournament chips
+BoratSacdiev folds [75 Tournament chips]
+Veganbich is returned 75 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Veganbich (5c 2s 4h 3d 8s: eight high)
+Veganbich wins main pot 200 Tournament chips.
+Seat 1: robbingu (305 Tournament chips) 
+Seat 2: Veganbich (1275 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3630 Tournament chips) 
+Game #23902642-18 ends
+Game #23902642-19 starts
+Seat 1: robbingu (305 Tournament chips) 
+Seat 2: Veganbich (1275 Tournament chips) 
+Seat 3: LuckyLunatic (1450 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (2155 Tournament chips) 
+Seat 8: BoratSacdiev (3630 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Veganbich posts the small blind [50 Tournament chips]
+LuckyLunatic posts the big blind [100 Tournament chips]
+robbingu, at seat 1, is in this hand with 305 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1225 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1350 Tournament chips.
+mo211, at seat 4, is in this hand with 895 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1645 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 1165 Tournament chips.
+Petro032, at seat 7, is in this hand with 2155 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3630 Tournament chips.
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 9c 7s ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+mo211 folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+stdntalbnbad folds [100 Tournament chips]
+Petro032 raises [200 Tournament chips]
+BoratSacdiev calls [200 Tournament chips]
+robbingu calls [200 Tournament chips]
+Veganbich calls [150 Tournament chips]
+LuckyLunatic folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Kd ] board:[ Jh Kd]
+** Dealing Flop ** [ 7h ] board:[ Jh Kd 7h]
+Veganbich checks
+Petro032 checks
+BoratSacdiev bets for 100 Tournament chips
+robbingu calls [100 Tournament chips]
+Veganbich folds [100 Tournament chips]
+Petro032 folds [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Jh Kd 7h 8d]
+BoratSacdiev bets for 200 Tournament chips
+robbingu calls all-in [5 Tournament chips]
+BoratSacdiev is returned 195 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+robbingu shows [ 7c Kc ]
+BoratSacdiev shows [ 2c Ks ]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ Jh Kd 7h 8d 3d]
+        (no action in this round)
+Round 4 is over.
+robbingu shows [ 7c Kc ] two pair, kings and sevens, jack kicker
+BoratSacdiev shows [ 2c Ks ] a pair of kings, jack/eight kickers
+robbingu wins main pot 1110 Tournament chips with two pair, kings and sevens, jack kicker.
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1350 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+Game #23902642-19 ends
+Game #23902642-20 starts
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1350 Tournament chips) 
+Seat 4: mo211 (895 Tournament chips) 
+Seat 5: QwertySpark (1645 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+LuckyLunatic posts the small blind [50 Tournament chips]
+mo211 posts the big blind [100 Tournament chips]
+robbingu, at seat 1, is in this hand with 1110 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1075 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1300 Tournament chips.
+mo211, at seat 4, is in this hand with 795 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1645 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 1165 Tournament chips.
+Petro032, at seat 7, is in this hand with 1955 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3325 Tournament chips.
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 2d Ac ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+QwertySpark calls [100 Tournament chips]
+stdntalbnbad folds [100 Tournament chips]
+Petro032 folds [100 Tournament chips]
+BoratSacdiev folds [100 Tournament chips]
+robbingu folds [100 Tournament chips]
+Veganbich folds [100 Tournament chips]
+LuckyLunatic folds [50 Tournament chips]
+mo211 checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Jh ] board:[ Ad Jh]
+** Dealing Flop ** [ Qc ] board:[ Ad Jh Qc]
+mo211 checks
+QwertySpark bets for 100 Tournament chips
+mo211 calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Ad Jh Qc 8s]
+mo211 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Ad Jh Qc 8s 8d]
+mo211 checks
+QwertySpark bets for 200 Tournament chips
+mo211 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ac Ad Qc 8s 8d: two pair, aces and eights)
+QwertySpark wins main pot 450 Tournament chips.
+(mo211 has entered the table, is no longer absent.)
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (695 Tournament chips) 
+Seat 5: QwertySpark (1895 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+Game #23902642-20 ends
+Game #23902642-21 starts
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (695 Tournament chips) 
+Seat 5: QwertySpark (1895 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+mo211 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+robbingu, at seat 1, is in this hand with 1110 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1075 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1300 Tournament chips.
+mo211, at seat 4, is in this hand with 645 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1795 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 1165 Tournament chips.
+Petro032, at seat 7, is in this hand with 1955 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3325 Tournament chips.
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 2c Kh ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+stdntalbnbad folds [100 Tournament chips]
+Petro032 folds [100 Tournament chips]
+BoratSacdiev folds [100 Tournament chips]
+robbingu calls [100 Tournament chips]
+Veganbich folds [100 Tournament chips]
+LuckyLunatic folds [100 Tournament chips]
+mo211 folds [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 4s ] board:[ 9h 4s]
+** Dealing Flop ** [ 6d ] board:[ 9h 4s 6d]
+QwertySpark checks
+robbingu checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 9h 4s 6d Jh]
+QwertySpark checks
+robbingu checks
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 9h 4s 6d Jh 8h]
+QwertySpark checks
+robbingu checks
+Round 4 is over.
+QwertySpark shows [ 2c Kh ] king high
+Hand evaluation for QwertySpark (Kh 9h 6d Jh 8h: king high)
+robbingu shows [ 7s 7d ] a pair of sevens
+Hand evaluation for robbingu (7s 7d 9h Jh 8h: a pair of sevens)
+robbingu wins main pot 250 Tournament chips with a pair of sevens, jack/nine kickers.
+Veganbich: Noobzzzz waiting for aces noobzzzz
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (645 Tournament chips) 
+Seat 5: QwertySpark (1795 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+Game #23902642-21 ends
+Game #23902642-22 starts
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (1075 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (645 Tournament chips) 
+Seat 5: QwertySpark (1795 Tournament chips) 
+Seat 6: stdntalbnbad (1165 Tournament chips) 
+Seat 7: Petro032 (1955 Tournament chips) 
+Seat 8: BoratSacdiev (3325 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [50 Tournament chips]
+stdntalbnbad posts the big blind [100 Tournament chips]
+robbingu, at seat 1, is in this hand with 1260 Tournament chips.
+Veganbich, at seat 2, is in this hand with 1075 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1300 Tournament chips.
+mo211, at seat 4, is in this hand with 645 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1745 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 1065 Tournament chips.
+Petro032, at seat 7, is in this hand with 1955 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3325 Tournament chips.
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ Kd 9h ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+Petro032 calls [100 Tournament chips]
+BoratSacdiev calls [100 Tournament chips]
+robbingu folds [100 Tournament chips]
+Veganbich raises [200 Tournament chips]
+LuckyLunatic folds [200 Tournament chips]
+mo211 calls [200 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+stdntalbnbad folds [100 Tournament chips]
+Petro032 calls [100 Tournament chips]
+BoratSacdiev calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 5c ] board:[ Qc 5c]
+** Dealing Flop ** [ 2d ] board:[ Qc 5c 2d]
+Petro032 checks
+BoratSacdiev checks
+Veganbich bets for 100 Tournament chips
+mo211 calls [100 Tournament chips]
+Petro032 calls [100 Tournament chips]
+BoratSacdiev calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Qc 5c 2d Tc]
+Petro032 checks
+BoratSacdiev checks
+Veganbich bets for 200 Tournament chips
+mo211 folds [200 Tournament chips]
+Petro032 folds [200 Tournament chips]
+BoratSacdiev calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Qc 5c 2d Tc 5d]
+BoratSacdiev checks
+Veganbich bets for 200 Tournament chips
+BoratSacdiev calls [200 Tournament chips]
+Round 4 is over.
+Veganbich shows [ 3c 3d ] two pair, fives and threes
+Hand evaluation for Veganbich (3c 3d Qc 5c 5d: two pair, fives and threes)
+BoratSacdiev doesn't show [ 2c 7d ]
+(BoratSacdiev has 2c 7d.)
+Veganbich wins main pot 2150 Tournament chips with two pair, fives and threes, queen kicker.
+Veganbich: Noobzzzz waiting for aces noobzzzz
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1745 Tournament chips) 
+Seat 6: stdntalbnbad (1065 Tournament chips) 
+Seat 7: Petro032 (1655 Tournament chips) 
+Seat 8: BoratSacdiev (2625 Tournament chips) 
+Game #23902642-22 ends
+Game #23902642-23 starts
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1745 Tournament chips) 
+Seat 6: stdntalbnbad (1065 Tournament chips) 
+Seat 7: Petro032 (1655 Tournament chips) 
+Seat 8: BoratSacdiev (2625 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+stdntalbnbad posts the small blind [75 Tournament chips]
+Petro032 posts the big blind [150 Tournament chips]
+robbingu, at seat 1, is in this hand with 1260 Tournament chips.
+Veganbich, at seat 2, is in this hand with 2525 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand (absent) with 1300 Tournament chips.
+mo211, at seat 4, is in this hand with 345 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1745 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 1505 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 2625 Tournament chips.
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 7h 8s ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+BoratSacdiev calls [150 Tournament chips]
+Veganbich: Noobzzzz waiting for aces noobzzzz
+Veganbich: Noobzzzz waiting for aces noobzzzz
+robbingu folds [150 Tournament chips]
+LuckyLunatic: dude, what are you saying???
+Veganbich folds [150 Tournament chips]
+LuckyLunatic folds [150 Tournament chips]
+mo211 folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Petro032: Play more hands....I believe
+stdntalbnbad folds [75 Tournament chips]
+Petro032 checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 3d ] board:[ 8d 3d]
+** Dealing Flop ** [ 8c ] board:[ 8d 3d 8c]
+Petro032 bets for 150 Tournament chips
+BoratSacdiev calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 8d 3d 8c Ac]
+Petro032 bets for 300 Tournament chips
+BoratSacdiev calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 8d 3d 8c Ac Tc]
+Petro032 bets for 300 Tournament chips
+BoratSacdiev calls [300 Tournament chips]
+Round 4 is over.
+Petro032 shows [ 3s 5c ] two pair, eights and threes
+Hand evaluation for Petro032 (3s 8d 3d 8c Ac: two pair, eights and threes)
+BoratSacdiev doesn't show [ Qs 4h ]
+(BoratSacdiev has Qs 4h.)
+Petro032 wins main pot 1875 Tournament chips with two pair, eights and threes, ace kicker.
+Seat 0: Arcodad2 (1045 Tournament chips) 
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1745 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (2630 Tournament chips) 
+Seat 8: BoratSacdiev (1725 Tournament chips) 
+Game #23902642-23 ends
+Game #23902642-24 starts
+Seat 0: Arcodad2 (1045 Tournament chips) 
+Seat 1: robbingu (1260 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (1300 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1745 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (2630 Tournament chips) 
+Seat 8: BoratSacdiev (1725 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Petro032 posts the small blind [75 Tournament chips]
+BoratSacdiev posts the big blind [150 Tournament chips]
+Arcodad2, at seat 0, is in this hand with 1045 Tournament chips.
+robbingu, at seat 1, is in this hand with 1260 Tournament chips.
+Veganbich, at seat 2, is in this hand with 2525 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand with 1300 Tournament chips.
+mo211, at seat 4, is in this hand with 345 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1745 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 2555 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 1575 Tournament chips.
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Dealt to Arcodad2 [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ Kd 2d ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+Arcodad2 folds [150 Tournament chips]
+robbingu calls [150 Tournament chips]
+LuckyLunatic: So you want someone to play more hands even though they are not playable .... Am I saying that right?
+Veganbich folds [150 Tournament chips]
+LuckyLunatic raises [300 Tournament chips]
+Petro032: No me...Veganbich is saying that
+mo211 folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+stdntalbnbad folds [300 Tournament chips]
+Petro032 calls [225 Tournament chips]
+BoratSacdiev re-raises [300 Tournament chips]
+robbingu folds [300 Tournament chips]
+LuckyLunatic: so really no meet? no Smash burgers? no *************
+LuckyLunatic calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Petro032 calls [150 Tournament chips]
+Round 1 is over.
+LuckyLunatic: meat, not meety
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 9h ] board:[ 8h 9h]
+** Dealing Flop ** [ 4c ] board:[ 8h 9h 4c]
+Petro032 bets for 150 Tournament chips
+BoratSacdiev raises [300 Tournament chips]
+LuckyLunatic folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Petro032 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 8h 9h 4c 4s]
+Petro032 checks
+BoratSacdiev checks
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 8h 9h 4c 4s Qs]
+Petro032 checks
+BoratSacdiev bets for 300 Tournament chips
+Petro032 folds, showing 6h 7h [300 Tournament chips]
+BoratSacdiev is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for BoratSacdiev (Ac Qd 4c 4s Qs: two pair, queens and fours)
+BoratSacdiev wins main pot 2550 Tournament chips.
+Seat 0: Arcodad2 (1045 Tournament chips) 
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1295 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (3525 Tournament chips) 
+Game #23902642-24 ends
+Game #23902642-25 starts
+Seat 0: Arcodad2 (1045 Tournament chips) 
+Seat 1: robbingu (1110 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 4: mo211 (345 Tournament chips) 
+Seat 5: QwertySpark (1295 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (3525 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+BoratSacdiev posts the small blind [75 Tournament chips]
+Arcodad2 posts the big blind [150 Tournament chips]
+Arcodad2, at seat 0, is in this hand with 895 Tournament chips.
+robbingu, at seat 1, is in this hand with 1110 Tournament chips.
+Veganbich, at seat 2, is in this hand with 2525 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand with 850 Tournament chips.
+mo211, at seat 4, is in this hand with 345 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1295 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 1880 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 3450 Tournament chips.
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+mo211 is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+Dealt to Arcodad2 [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to mo211 [ **** ]
+Dealt to QwertySpark [ 3h Ac ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+robbingu calls [150 Tournament chips]
+Veganbich folds [150 Tournament chips]
+LuckyLunatic folds [150 Tournament chips]
+mo211 raises [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+stdntalbnbad folds [300 Tournament chips]
+Petro032 folds [300 Tournament chips]
+BoratSacdiev calls [225 Tournament chips]
+Arcodad2 folds [150 Tournament chips]
+robbingu calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 9c ] board:[ 8d 9c]
+** Dealing Flop ** [ 5d ] board:[ 8d 9c 5d]
+BoratSacdiev bets for 150 Tournament chips
+robbingu folds [150 Tournament chips]
+mo211 calls all-in [45 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+BoratSacdiev calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 8d 9c 5d Ks]
+BoratSacdiev checks
+QwertySpark bets for 300 Tournament chips
+BoratSacdiev calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 8d 9c 5d Ks Jh]
+BoratSacdiev checks
+QwertySpark bets for 300 Tournament chips
+BoratSacdiev calls [300 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 3h Ac ] ace high
+Hand evaluation for QwertySpark (Ac 8d 9c Ks Jh: ace high)
+BoratSacdiev shows [ 9h 4c ] a pair of nines
+Hand evaluation for BoratSacdiev (9h 8d 9c Ks Jh: a pair of nines)
+mo211 shows [ Ah Qc ] ace high
+Hand evaluation for mo211 (Ah Qc 9c Ks Jh: ace high)
+BoratSacdiev wins main pot 1485 Tournament chips with a pair of nines, king/jack kickers.
+BoratSacdiev wins side pot #1 1710 Tournament chips with a pair of nines, king/jack kickers.
+Seat 0: Arcodad2 (895 Tournament chips) 
+Seat 1: robbingu (810 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 4: mo211 (0 Tournament chips) 
+Seat 5: QwertySpark (95 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+Game #23902642-25 ends
+Player mo211 leaves the table with 0 Tournament chips
+Game #23902642-26 starts
+Seat 0: Arcodad2 (895 Tournament chips) 
+Seat 1: robbingu (810 Tournament chips) 
+Seat 2: Veganbich (2525 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 5: QwertySpark (95 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Arcodad2 posts the small blind [100 Tournament chips]
+robbingu posts the big blind [200 Tournament chips]
+Arcodad2, at seat 0, is in this hand with 795 Tournament chips.
+robbingu, at seat 1, is in this hand with 610 Tournament chips.
+Veganbich, at seat 2, is in this hand with 2525 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand with 850 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 95 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 1880 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 5520 Tournament chips.
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Dealt to Arcodad2 [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to QwertySpark [ 7d Ac ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+Veganbich raises [400 Tournament chips]
+LuckyLunatic folds [400 Tournament chips]
+QwertySpark calls all-in [95 Tournament chips]
+stdntalbnbad folds [400 Tournament chips]
+Petro032 folds [400 Tournament chips]
+BoratSacdiev folds [400 Tournament chips]
+Arcodad2 calls [300 Tournament chips]
+robbingu calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Qc ] board:[ 5s Qc]
+** Dealing Flop ** [ 3c ] board:[ 5s Qc 3c]
+Arcodad2 checks
+robbingu checks
+Veganbich bets for 200 Tournament chips
+Arcodad2 folds [200 Tournament chips]
+robbingu calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 5s Qc 3c Qd]
+robbingu checks
+Veganbich bets for 400 Tournament chips
+robbingu folds [210 Tournament chips]
+Veganbich is returned 400 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Veganbich shows [ Js Ts ]
+QwertySpark shows [ 7d Ac ]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 5s Qc 3c Qd 7s]
+        (no action in this round)
+Round 4 is over.
+Veganbich shows [ Js Ts ] a pair of queens, jack/ten kickers
+QwertySpark shows [ 7d Ac ] two pair, queens and sevens, ace kicker
+QwertySpark wins main pot 380 Tournament chips with two pair, queens and sevens, ace kicker.
+Veganbich wins side pot #1 1315 Tournament chips with a pair of queens, jack/ten kickers.
+Seat 0: Arcodad2 (495 Tournament chips) 
+Seat 1: robbingu (210 Tournament chips) 
+Seat 2: Veganbich (3240 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 5: QwertySpark (380 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+Game #23902642-26 ends
+Game #23902642-27 starts
+Seat 0: Arcodad2 (495 Tournament chips) 
+Seat 1: robbingu (210 Tournament chips) 
+Seat 2: Veganbich (3240 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 5: QwertySpark (380 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+robbingu posts the small blind [100 Tournament chips]
+Veganbich posts the big blind [200 Tournament chips]
+Arcodad2, at seat 0, is in this hand with 495 Tournament chips.
+robbingu, at seat 1, is in this hand (absent) with 110 Tournament chips.
+Veganbich, at seat 2, is in this hand with 3040 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand with 850 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 380 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 1880 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 5520 Tournament chips.
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+robbingu is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+Dealt to Arcodad2 [ **** ]
+Dealt to robbingu [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to QwertySpark [ As Kh ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+(robbingu has entered the table, is no longer absent.)
+LuckyLunatic folds [200 Tournament chips]
+QwertySpark raises all-in [380 Tournament chips]
+stdntalbnbad folds [380 Tournament chips]
+Petro032 folds [380 Tournament chips]
+BoratSacdiev folds [380 Tournament chips]
+Arcodad2 folds [380 Tournament chips]
+robbingu calls all-in [110 Tournament chips]
+Veganbich calls [180 Tournament chips]
+Tournament all-in showdown -- players show:
+robbingu shows [ 8s Ac ]
+Veganbich shows [ Ad 9d ]
+QwertySpark shows [ As Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6c ] board:[ 6s 6c]
+** Dealing Flop ** [ Ks ] board:[ 6s 6c Ks]
+        (no action in this round)
+Round 2 is over.
+Veganbich: Noobzzzz waiting for aces noobzzzz
+** Dealing Turn ** [ Jc ] board:[ 6s 6c Ks Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 6s 6c Ks Jc Jd]
+        (no action in this round)
+Round 4 is over.
+robbingu shows [ 8s Ac ] two pair, jacks and sixes, ace kicker
+Veganbich shows [ Ad 9d ] two pair, jacks and sixes, ace kicker
+QwertySpark shows [ As Kh ] two pair, kings and jacks, ace kicker
+QwertySpark wins main pot 630 Tournament chips with two pair, kings and jacks, ace kicker.
+QwertySpark wins side pot #1 340 Tournament chips with two pair, kings and jacks, ace kicker.
+Seat 0: Arcodad2 (495 Tournament chips) 
+Seat 1: robbingu (0 Tournament chips) 
+Seat 2: Veganbich (2860 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 5: QwertySpark (970 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+Game #23902642-27 ends
+Player robbingu leaves the table with 0 Tournament chips
+Game #23902642-28 starts
+Seat 0: Arcodad2 (495 Tournament chips) 
+Seat 2: Veganbich (2860 Tournament chips) 
+Seat 3: LuckyLunatic (850 Tournament chips) 
+Seat 5: QwertySpark (970 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Veganbich posts the small blind [100 Tournament chips]
+LuckyLunatic posts the big blind [200 Tournament chips]
+Arcodad2, at seat 0, is in this hand with 495 Tournament chips.
+Veganbich, at seat 2, is in this hand with 2760 Tournament chips.
+LuckyLunatic, at seat 3, is in this hand with 650 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 970 Tournament chips.
+stdntalbnbad, at seat 6, is in this hand with 990 Tournament chips.
+Petro032, at seat 7, is in this hand with 1880 Tournament chips.
+BoratSacdiev, at seat 8, is in this hand with 5520 Tournament chips.
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+Veganbich is dealt: **
+LuckyLunatic is dealt: **
+
+stdntalbnbad is dealt: **
+Petro032 is dealt: **
+BoratSacdiev is dealt: **
+Arcodad2 is dealt: **
+Dealt to Arcodad2 [ **** ]
+Dealt to Veganbich [ **** ]
+Dealt to LuckyLunatic [ **** ]
+Dealt to QwertySpark [ Ac 4c ]
+Dealt to stdntalbnbad [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to BoratSacdiev [ **** ]
+QwertySpark calls [200 Tournament chips]
+stdntalbnbad folds [200 Tournament chips]
+Petro032 folds [200 Tournament chips]
+BoratSacdiev folds [200 Tournament chips]
+Arcodad2 folds [200 Tournament chips]
+Veganbich raises [300 Tournament chips]
+LuckyLunatic folds [200 Tournament chips]
+QwertySpark re-raises [400 Tournament chips]
+Veganbich re-raises [400 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Qh ] board:[ 7h Qh]
+** Dealing Flop ** [ 3c ] board:[ 7h Qh 3c]
+Veganbich bets for 200 Tournament chips
+QwertySpark calls all-in [170 Tournament chips]
+Veganbich is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Veganbich shows [ Qd Ad ]
+QwertySpark shows [ Ac 4c ]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 7h Qh 3c 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 7h Qh 3c 5d 8h]
+        (no action in this round)
+Round 4 is over.
+Veganbich shows [ Qd Ad ] a pair of queens, ace/eight kickers
+QwertySpark shows [ Ac 4c ] ace/queen/eight high
+Veganbich wins main pot 2140 Tournament chips with a pair of queens, ace/eight kickers.
+Veganbich: Noobzzzz waiting for aces noobzzzz
+Seat 0: Arcodad2 (495 Tournament chips) 
+Seat 2: Veganbich (4030 Tournament chips) 
+Seat 3: LuckyLunatic (650 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Seat 6: stdntalbnbad (990 Tournament chips) 
+Seat 7: Petro032 (1880 Tournament chips) 
+Seat 8: BoratSacdiev (5520 Tournament chips) 
+Game #23902642-28 ends
+Player QwertySpark leaves the table with 0 Tournament chips

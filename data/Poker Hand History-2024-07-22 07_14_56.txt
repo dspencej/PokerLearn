@@ -1,0 +1,2153 @@
+Game#: 23981147
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 2h ] board:[ 5d 2h]
+** Dealing Flop ** [ 4d ] board:[ 5d 2h 4d]
+Puttputt59 checks
+oldman38 bets for 90 Tournament chips
+Macwelds folds [90 Tournament chips]
+Puttputt59 folds [90 Tournament chips]
+oldman38 is returned 90 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for oldman38 (5c Qd 5d 2h 4d: a pair of fives)
+oldman38 wins main pot 180 Tournament chips.
+Seat 0: Puttputt59 (1610 Tournament chips) 
+Seat 1: oldman38 (2455 Tournament chips) 
+Seat 2: Macwelds (2315 Tournament chips) 
+Seat 3: hibabe14 (3420 Tournament chips) 
+Seat 4: Remoschwab (1060 Tournament chips) 
+Seat 5: QwertySpark (3147 Tournament chips) 
+Game #23981147-17 ends
+Game #23981147-18 starts
+Seat 0: Puttputt59 (1610 Tournament chips) 
+Seat 1: oldman38 (2455 Tournament chips) 
+Seat 2: Macwelds (2315 Tournament chips) 
+Seat 3: hibabe14 (3420 Tournament chips) 
+Seat 4: Remoschwab (1060 Tournament chips) 
+Seat 5: QwertySpark (3147 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+oldman38 posts the small blind [30 Tournament chips]
+Macwelds posts the big blind [60 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1610 Tournament chips.
+oldman38, at seat 1, is in this hand with 2425 Tournament chips.
+Macwelds, at seat 2, is in this hand with 2255 Tournament chips.
+hibabe14, at seat 3, is in this hand with 3420 Tournament chips.
+Remoschwab, at seat 4, is in this hand with 1060 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3147 Tournament chips.
+oldman38 is dealt: **
+Macwelds is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Macwelds is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Qs Ks ]
+hibabe14 raises [120 Tournament chips]
+Remoschwab calls [120 Tournament chips]
+QwertySpark re-raises [300 Tournament chips]
+Puttputt59 calls [300 Tournament chips]
+oldman38 folds [270 Tournament chips]
+Macwelds calls [240 Tournament chips]
+hibabe14 calls [180 Tournament chips]
+Remoschwab calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Td ] board:[ 4d Td]
+** Dealing Flop ** [ 7h ] board:[ 4d Td 7h]
+Macwelds checks
+hibabe14 bets for 765 Tournament chips
+Remoschwab calls all-in [760 Tournament chips]
+QwertySpark folds [765 Tournament chips]
+Puttputt59 raises all-in [1310 Tournament chips]
+Macwelds folds [1310 Tournament chips]
+hibabe14 folds [545 Tournament chips]
+Puttputt59 is returned 545 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ Tc Ac ]
+Remoschwab shows [ Jc 9h ]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 4d Td 7h 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 4d Td 7h 8d 8h]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ Tc Ac ] two pair, tens and eights, ace kicker
+Remoschwab shows [ Jc 9h ] straight, jack high
+Remoschwab wins main pot 3810 Tournament chips with straight, jack high.
+Puttputt59 wins side pot #1 10 Tournament chips with two pair, tens and eights, ace kicker.
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (2425 Tournament chips) 
+Seat 2: Macwelds (2015 Tournament chips) 
+Seat 3: hibabe14 (2355 Tournament chips) 
+Seat 4: Remoschwab (3810 Tournament chips) 
+Seat 5: QwertySpark (2847 Tournament chips) 
+Game #23981147-18 ends
+Game #23981147-19 starts
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (2425 Tournament chips) 
+Seat 2: Macwelds (2015 Tournament chips) 
+Seat 3: hibabe14 (2355 Tournament chips) 
+Seat 4: Remoschwab (3810 Tournament chips) 
+Seat 5: QwertySpark (2847 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Macwelds posts the small blind [30 Tournament chips]
+hibabe14 posts the big blind [60 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 555 Tournament chips.
+oldman38, at seat 1, is in this hand with 2425 Tournament chips.
+Macwelds, at seat 2, is in this hand with 1985 Tournament chips.
+hibabe14, at seat 3, is in this hand with 2295 Tournament chips.
+Remoschwab, at seat 4, is in this hand with 3810 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2847 Tournament chips.
+Macwelds is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Macwelds is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Macwelds [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 3c 5s ]
+Remoschwab calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Puttputt59 folds [60 Tournament chips]
+oldman38 calls [60 Tournament chips]
+Macwelds calls [30 Tournament chips]
+hibabe14 checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 3h ] board:[ 7s 3h]
+** Dealing Flop ** [ Kc ] board:[ 7s 3h Kc]
+Macwelds checks
+hibabe14 bets for 120 Tournament chips
+Remoschwab folds [120 Tournament chips]
+oldman38 raises [399 Tournament chips]
+Macwelds re-raises [678 Tournament chips]
+hibabe14 raises all-in [2175 Tournament chips]
+oldman38 raises all-in [1966 Tournament chips]
+Macwelds calls all-in [1277 Tournament chips]
+oldman38 is returned 70 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+oldman38 shows [ Kh Jd ]
+Macwelds shows [ 6c 7h ]
+hibabe14 shows [ 3s Ks ]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 7s 3h Kc 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 7s 3h Kc 2h 6s]
+        (no action in this round)
+Round 4 is over.
+oldman38 shows [ Kh Jd ] a pair of kings, jack/seven kickers
+Macwelds shows [ 6c 7h ] two pair, sevens and sixes, king kicker
+hibabe14 shows [ 3s Ks ] two pair, kings and threes, seven kicker
+hibabe14 wins main pot 6105 Tournament chips with two pair, kings and threes, seven kicker.
+hibabe14 wins side pot #1 680 Tournament chips with two pair, kings and threes, seven kicker.
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (70 Tournament chips) 
+Seat 2: Macwelds (0 Tournament chips) 
+Seat 3: hibabe14 (6785 Tournament chips) 
+Seat 4: Remoschwab (3750 Tournament chips) 
+Seat 5: QwertySpark (2847 Tournament chips) 
+Game #23981147-19 ends
+Player Macwelds leaves the table with 0 Tournament chips
+Game #23981147-20 starts
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (70 Tournament chips) 
+Seat 3: hibabe14 (6785 Tournament chips) 
+Seat 4: Remoschwab (3750 Tournament chips) 
+Seat 5: QwertySpark (2847 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+hibabe14 posts the small blind [30 Tournament chips]
+Remoschwab posts the big blind [60 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 555 Tournament chips.
+oldman38, at seat 1, is in this hand with 70 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6755 Tournament chips.
+Remoschwab, at seat 4, is in this hand with 3690 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2847 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 5s 6s ]
+QwertySpark raises [240 Tournament chips]
+Puttputt59 folds [240 Tournament chips]
+oldman38 calls all-in [70 Tournament chips]
+hibabe14 folds [210 Tournament chips]
+Remoschwab folds [180 Tournament chips]
+QwertySpark is returned 170 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+oldman38 shows [ Qd 9h ]
+QwertySpark shows [ 5s 6s ]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Jd ] board:[ Kc Jd]
+** Dealing Flop ** [ Ks ] board:[ Kc Jd Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Kc Jd Ks 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Kc Jd Ks 8s Kd]
+        (no action in this round)
+Round 4 is over.
+oldman38 shows [ Qd 9h ] three kings, queen/jack kickers
+QwertySpark shows [ 5s 6s ] three kings, jack/eight kickers
+oldman38 wins main pot 230 Tournament chips with three kings, queen/jack kickers.
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (230 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3690 Tournament chips) 
+Seat 5: QwertySpark (2777 Tournament chips) 
+Game #23981147-20 ends
+Game #23981147-21 starts
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (230 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3690 Tournament chips) 
+Seat 5: QwertySpark (2777 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Remoschwab posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 555 Tournament chips.
+oldman38, at seat 1, is in this hand with 230 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6755 Tournament chips.
+Remoschwab, at seat 4, is in this hand with 3640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2677 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 9h 3s ]
+Puttputt59 folds [100 Tournament chips]
+oldman38 raises all-in [230 Tournament chips]
+hibabe14 folds [230 Tournament chips]
+Remoschwab folds [180 Tournament chips]
+QwertySpark folds [130 Tournament chips]
+oldman38 is returned 130 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for oldman38 (Kh Qh: king high)
+oldman38 wins main pot 250 Tournament chips.
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (380 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2677 Tournament chips) 
+Game #23981147-21 ends
+Game #23981147-22 starts
+Seat 0: Puttputt59 (555 Tournament chips) 
+Seat 1: oldman38 (380 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2677 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [50 Tournament chips]
+Puttputt59 posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 455 Tournament chips.
+oldman38, at seat 1, is in this hand with 380 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6755 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2627 Tournament chips.
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Qd Kh ]
+oldman38 folds [100 Tournament chips]
+hibabe14 folds [100 Tournament chips]
+Remoschwab folds [100 Tournament chips]
+QwertySpark raises [350 Tournament chips]
+Puttputt59 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qd Kh: king high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: Puttputt59 (455 Tournament chips) 
+Seat 1: oldman38 (380 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2777 Tournament chips) 
+Game #23981147-22 ends
+Game #23981147-23 starts
+Seat 0: Puttputt59 (455 Tournament chips) 
+Seat 1: oldman38 (380 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2777 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Puttputt59 posts the small blind [50 Tournament chips]
+oldman38 posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 405 Tournament chips.
+oldman38, at seat 1, is in this hand with 280 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6755 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2777 Tournament chips.
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 8c 7s ]
+hibabe14 folds [100 Tournament chips]
+Remoschwab folds [100 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+Puttputt59 folds [250 Tournament chips]
+oldman38 raises all-in [280 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Tournament all-in showdown -- players show:
+oldman38 shows [ Kh Kc ]
+QwertySpark shows [ 8c 7s ]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 8d ] board:[ 5s 8d]
+** Dealing Flop ** [ 5c ] board:[ 5s 8d 5c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 5s 8d 5c 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 5s 8d 5c 9s 9d]
+        (no action in this round)
+Round 4 is over.
+oldman38 shows [ Kh Kc ] two pair, kings and nines, eight kicker
+QwertySpark shows [ 8c 7s ] two pair, nines and eights, seven kicker
+oldman38 wins main pot 810 Tournament chips with two pair, kings and nines, eight kicker.
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (810 Tournament chips) 
+Seat 2: Jymshue2021 (4915 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+Game #23981147-23 ends
+Game #23981147-24 starts
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (810 Tournament chips) 
+Seat 2: Jymshue2021 (4915 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+oldman38 posts the small blind [50 Tournament chips]
+Jymshue2021 posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 405 Tournament chips.
+oldman38, at seat 1, is in this hand with 760 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4815 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6755 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2397 Tournament chips.
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 8s 6d ]
+hibabe14 folds [100 Tournament chips]
+Remoschwab folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Puttputt59 folds [100 Tournament chips]
+oldman38 raises all-in [760 Tournament chips]
+Jymshue2021 folds [710 Tournament chips]
+oldman38 is returned 710 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for oldman38 (Kd Ks: a pair of kings)
+oldman38 wins main pot 200 Tournament chips.
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (910 Tournament chips) 
+Seat 2: Jymshue2021 (4815 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+Game #23981147-24 ends
+Game #23981147-25 starts
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (910 Tournament chips) 
+Seat 2: Jymshue2021 (4815 Tournament chips) 
+Seat 3: hibabe14 (6755 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jymshue2021 posts the small blind [50 Tournament chips]
+hibabe14 posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 405 Tournament chips.
+oldman38, at seat 1, is in this hand with 910 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4765 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6655 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2397 Tournament chips.
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 7s Qc ]
+Remoschwab folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Puttputt59 folds [100 Tournament chips]
+oldman38 raises all-in [910 Tournament chips]
+Jymshue2021 folds [860 Tournament chips]
+hibabe14 folds [810 Tournament chips]
+oldman38 is returned 810 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for oldman38 (4h 4s: a pair of fours)
+oldman38 wins main pot 250 Tournament chips.
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (1060 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6655 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+Game #23981147-25 ends
+Game #23981147-26 starts
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (1060 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6655 Tournament chips) 
+Seat 4: Remoschwab (3640 Tournament chips) 
+Seat 5: QwertySpark (2397 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+hibabe14 posts the small blind [50 Tournament chips]
+Remoschwab posts the big blind [100 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 405 Tournament chips.
+oldman38, at seat 1, is in this hand with 1060 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4765 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6605 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3540 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2397 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 7h 7s ]
+QwertySpark raises [400 Tournament chips]
+Puttputt59 folds [400 Tournament chips]
+oldman38 folds [400 Tournament chips]
+Jymshue2021 folds [400 Tournament chips]
+hibabe14 folds [350 Tournament chips]
+Remoschwab folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (7h 7s: a pair of sevens)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (1060 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3540 Tournament chips) 
+Seat 5: QwertySpark (2547 Tournament chips) 
+Game #23981147-26 ends
+Game #23981147-27 starts
+Seat 0: Puttputt59 (405 Tournament chips) 
+Seat 1: oldman38 (1060 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3540 Tournament chips) 
+Seat 5: QwertySpark (2547 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Remoschwab posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 405 Tournament chips.
+oldman38, at seat 1, is in this hand with 1060 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4765 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 6605 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3465 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2397 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 5d Ac ]
+Puttputt59 calls [150 Tournament chips]
+oldman38 calls [150 Tournament chips]
+Jymshue2021 folds [150 Tournament chips]
+hibabe14 folds [150 Tournament chips]
+Remoschwab folds [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Qd ] board:[ Kh Qd]
+** Dealing Flop ** [ 3d ] board:[ Kh Qd 3d]
+QwertySpark bets for 412 Tournament chips
+Puttputt59 calls all-in [255 Tournament chips]
+oldman38 folds [412 Tournament chips]
+QwertySpark is returned 157 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ Tc Js ]
+QwertySpark shows [ 5d Ac ]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Kh Qd 3d 8c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Kh Qd 3d 8c As]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ Tc Js ] straight, ace high
+QwertySpark shows [ 5d Ac ] a pair of aces, king/queen kickers
+Puttputt59 wins main pot 1035 Tournament chips with straight, ace high.
+Seat 0: Puttputt59 (1035 Tournament chips) 
+Seat 1: oldman38 (910 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (2142 Tournament chips) 
+Game #23981147-27 ends
+Game #23981147-28 starts
+Seat 0: Puttputt59 (1035 Tournament chips) 
+Seat 1: oldman38 (910 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (2142 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [75 Tournament chips]
+Puttputt59 posts the big blind [150 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 885 Tournament chips.
+oldman38, at seat 1, is in this hand with 910 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4765 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6605 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3465 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2067 Tournament chips.
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 3s 9s ]
+oldman38 calls [150 Tournament chips]
+Jymshue2021 folds [150 Tournament chips]
+hibabe14 folds [150 Tournament chips]
+Remoschwab folds [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Puttputt59 checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Ac ] board:[ 2d Ac]
+** Dealing Flop ** [ 9h ] board:[ 2d Ac 9h]
+QwertySpark checks
+Puttputt59 checks
+oldman38 goes all-in for 760 Tournament chips
+QwertySpark folds [760 Tournament chips]
+Puttputt59 folds [760 Tournament chips]
+oldman38 is returned 760 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for oldman38 (5h Ah 2d Ac 9h: a pair of aces)
+oldman38 wins main pot 450 Tournament chips.
+Seat 0: Puttputt59 (885 Tournament chips) 
+Seat 1: oldman38 (1210 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (1992 Tournament chips) 
+Game #23981147-28 ends
+Game #23981147-29 starts
+Seat 0: Puttputt59 (885 Tournament chips) 
+Seat 1: oldman38 (1210 Tournament chips) 
+Seat 2: Jymshue2021 (4765 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (1992 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Puttputt59 posts the small blind [75 Tournament chips]
+oldman38 posts the big blind [150 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 810 Tournament chips.
+oldman38, at seat 1, is in this hand with 1060 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4765 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 6605 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3465 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1992 Tournament chips.
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+oldman38 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to oldman38 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Qc Ah ]
+Jymshue2021 calls [150 Tournament chips]
+hibabe14 folds [150 Tournament chips]
+Remoschwab folds [150 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+Puttputt59 folds [525 Tournament chips]
+oldman38 raises all-in [1060 Tournament chips]
+Jymshue2021 folds [1060 Tournament chips]
+QwertySpark calls [610 Tournament chips]
+Tournament all-in showdown -- players show:
+oldman38 shows [ Js Jh ]
+QwertySpark shows [ Qc Ah ]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 5h ] board:[ Qd 5h]
+** Dealing Flop ** [ 3d ] board:[ Qd 5h 3d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Qd 5h 3d Tc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Qd 5h 3d Tc Td]
+        (no action in this round)
+Round 4 is over.
+oldman38 shows [ Js Jh ] two pair, jacks and tens, queen kicker
+QwertySpark shows [ Qc Ah ] two pair, queens and tens, ace kicker
+QwertySpark wins main pot 2645 Tournament chips with two pair, queens and tens, ace kicker.
+Seat 0: Puttputt59 (810 Tournament chips) 
+Seat 1: oldman38 (0 Tournament chips) 
+Seat 2: Jymshue2021 (4615 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+Game #23981147-29 ends
+Player oldman38 leaves the table with 0 Tournament chips
+Game #23981147-30 starts
+Seat 0: Puttputt59 (810 Tournament chips) 
+Seat 2: Jymshue2021 (4615 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+Jymshue2021 posts the big blind [150 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 810 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4465 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 6605 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3465 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3427 Tournament chips.
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 4s Jd ]
+hibabe14 folds [150 Tournament chips]
+Remoschwab folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Puttputt59 folds [150 Tournament chips]
+Jymshue2021 is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Jymshue2021 (Ks 9s: king high)
+Seat 0: Puttputt59 (810 Tournament chips) 
+Seat 2: Jymshue2021 (4615 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+Game #23981147-30 ends
+Game #23981147-31 starts
+Seat 0: Puttputt59 (810 Tournament chips) 
+Seat 2: Jymshue2021 (4615 Tournament chips) 
+Seat 3: hibabe14 (6605 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+The button is at seat 0
+Jymshue2021 posts the small blind [75 Tournament chips]
+hibabe14 posts the big blind [150 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 810 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4540 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 6455 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3465 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3427 Tournament chips.
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Ts 3h ]
+Remoschwab folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Puttputt59 raises [300 Tournament chips]
+Jymshue2021 folds [225 Tournament chips]
+hibabe14 raises all-in [6455 Tournament chips]
+Puttputt59 calls all-in [510 Tournament chips]
+hibabe14 is returned 5795 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ Kh Kc ]
+hibabe14 shows [ Jc 2h ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 9c ] board:[ 7s 9c]
+** Dealing Flop ** [ 5d ] board:[ 7s 9c 5d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 7s 9c 5d 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 7s 9c 5d 4s 4d]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ Kh Kc ] two pair, kings and fours, nine kicker
+hibabe14 shows [ Jc 2h ] a pair of fours, jack/nine kickers
+Puttputt59 wins main pot 1695 Tournament chips with two pair, kings and fours, nine kicker.
+Seat 0: Puttputt59 (1695 Tournament chips) 
+Seat 2: Jymshue2021 (4540 Tournament chips) 
+Seat 3: hibabe14 (5795 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+Game #23981147-31 ends
+Game #23981147-32 starts
+Seat 0: Puttputt59 (1695 Tournament chips) 
+Seat 2: Jymshue2021 (4540 Tournament chips) 
+Seat 3: hibabe14 (5795 Tournament chips) 
+Seat 4: Remoschwab (3465 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+hibabe14 posts the small blind [100 Tournament chips]
+Remoschwab posts the big blind [200 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1695 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4540 Tournament chips.
+hibabe14, at seat 3, is in this hand with 5695 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3265 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3427 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 4h 8s ]
+QwertySpark folds [200 Tournament chips]
+Puttputt59 calls [200 Tournament chips]
+Jymshue2021 folds [200 Tournament chips]
+hibabe14 calls [100 Tournament chips]
+Remoschwab folds
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 7h ] board:[ Ac 7h]
+** Dealing Flop ** [ Jh ] board:[ Ac 7h Jh]
+hibabe14 checks
+Puttputt59 checks
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Ac 7h Jh 2h]
+hibabe14 bets for 200 Tournament chips
+Puttputt59 folds [200 Tournament chips]
+hibabe14 is returned 200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for hibabe14 (8d Kh Ac 7h Jh: ace high)
+hibabe14 wins main pot 600 Tournament chips.
+Seat 0: Puttputt59 (1495 Tournament chips) 
+Seat 2: Jymshue2021 (4540 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3265 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+Game #23981147-32 ends
+Game #23981147-33 starts
+Seat 0: Puttputt59 (1495 Tournament chips) 
+Seat 2: Jymshue2021 (4540 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3265 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Remoschwab posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1495 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4540 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6195 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3165 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3227 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 7d 4s ]
+Puttputt59 folds [200 Tournament chips]
+Jymshue2021 calls [200 Tournament chips]
+hibabe14 folds [200 Tournament chips]
+Remoschwab folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Ks ] board:[ Qs Ks]
+** Dealing Flop ** [ 5h ] board:[ Qs Ks 5h]
+QwertySpark checks
+Jymshue2021 bets for 200 Tournament chips
+QwertySpark folds [200 Tournament chips]
+Jymshue2021 is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Jymshue2021 (9c Ac Qs Ks 5h: ace high)
+Jymshue2021 wins main pot 500 Tournament chips.
+Seat 0: Puttputt59 (1495 Tournament chips) 
+Seat 2: Jymshue2021 (4840 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3227 Tournament chips) 
+Game #23981147-33 ends
+Game #23981147-34 starts
+Seat 0: Puttputt59 (1495 Tournament chips) 
+Seat 2: Jymshue2021 (4840 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3227 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [100 Tournament chips]
+Puttputt59 posts the big blind [200 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1295 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4840 Tournament chips.
+hibabe14, at seat 3, is in this hand with 6195 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3165 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3127 Tournament chips.
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 7c 9s ]
+Jymshue2021 folds [200 Tournament chips]
+hibabe14 folds [200 Tournament chips]
+Remoschwab folds [200 Tournament chips]
+QwertySpark raises [700 Tournament chips]
+Puttputt59 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (7c 9s: nine high)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 0: Puttputt59 (1295 Tournament chips) 
+Seat 2: Jymshue2021 (4840 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+Game #23981147-34 ends
+Game #23981147-35 starts
+Seat 0: Puttputt59 (1295 Tournament chips) 
+Seat 2: Jymshue2021 (4840 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3427 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Puttputt59 posts the small blind [100 Tournament chips]
+Jymshue2021 posts the big blind [200 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1195 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4640 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 6195 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3165 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3427 Tournament chips.
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Ah 9c ]
+hibabe14 folds [200 Tournament chips]
+Remoschwab folds [200 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Puttputt59 folds [700 Tournament chips]
+Jymshue2021 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ah 9c: ace high)
+QwertySpark wins main pot 500 Tournament chips.
+Seat 0: Puttputt59 (1195 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4640 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3727 Tournament chips) 
+Game #23981147-35 ends
+Game #23981147-36 starts
+Seat 0: Puttputt59 (1195 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4640 Tournament chips) 
+Seat 3: hibabe14 (6195 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3727 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+Jymshue2021 posts the small blind [100 Tournament chips]
+hibabe14 posts the big blind [200 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1195 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4540 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 5995 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 3165 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3727 Tournament chips.
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 4s Jh ]
+Remoschwab folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Puttputt59 calls [200 Tournament chips]
+Jymshue2021 calls [100 Tournament chips]
+hibabe14 raises [600 Tournament chips]
+Puttputt59 calls [600 Tournament chips]
+Jymshue2021 folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Js ] board:[ 2h Js]
+** Dealing Flop ** [ Kc ] board:[ 2h Js Kc]
+hibabe14 checks
+Puttputt59 goes all-in for 395 Tournament chips
+hibabe14 calls [395 Tournament chips]
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ Jc 9h ]
+hibabe14 shows [ Ts Tc ]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 2h Js Kc 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 2h Js Kc 4h Ks]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ Jc 9h ] two pair, kings and jacks, nine kicker
+hibabe14 shows [ Ts Tc ] two pair, kings and tens, jack kicker
+Puttputt59 wins main pot 2590 Tournament chips with two pair, kings and jacks, nine kicker.
+Seat 0: Puttputt59 (2590 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (5000 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3727 Tournament chips) 
+Game #23981147-36 ends
+Game #23981147-37 starts
+Seat 0: Puttputt59 (2590 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (5000 Tournament chips) 
+Seat 4: Remoschwab (3165 Tournament chips) 
+Seat 5: QwertySpark (3727 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+hibabe14 posts the small blind [150 Tournament chips]
+Remoschwab posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 2590 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7676 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4440 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4850 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2865 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3727 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Jd Td ]
+QwertySpark raises [1200 Tournament chips]
+Puttputt59 folds [1200 Tournament chips]
+bear7665PD folds [1200 Tournament chips]
+Jymshue2021 folds [1200 Tournament chips]
+hibabe14 folds [1050 Tournament chips]
+Remoschwab folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jd Td: jack high)
+QwertySpark wins main pot 750 Tournament chips.
+Seat 0: Puttputt59 (2590 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2865 Tournament chips) 
+Seat 5: QwertySpark (4177 Tournament chips) 
+Game #23981147-37 ends
+Game #23981147-38 starts
+Seat 0: Puttputt59 (2590 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2865 Tournament chips) 
+Seat 5: QwertySpark (4177 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Remoschwab posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 2590 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7676 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4440 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4850 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2715 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3877 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 9c Jc ]
+Puttputt59 calls [300 Tournament chips]
+bear7665PD folds [300 Tournament chips]
+Jymshue2021 folds [300 Tournament chips]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [150 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 4d ] board:[ Tc 4d]
+** Dealing Flop ** [ Qc ] board:[ Tc 4d Qc]
+QwertySpark bets for 750 Tournament chips
+Puttputt59 folds [750 Tournament chips]
+QwertySpark is returned 750 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9c Jc Tc 4d Qc: queen high)
+QwertySpark wins main pot 750 Tournament chips.
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4627 Tournament chips) 
+Game #23981147-38 ends
+Game #23981147-39 starts
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4440 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4627 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [150 Tournament chips]
+Puttputt59 posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1990 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7676 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4440 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4850 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2715 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4477 Tournament chips.
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Kh 8d ]
+bear7665PD folds [300 Tournament chips]
+Jymshue2021 raises [900 Tournament chips]
+hibabe14 folds [900 Tournament chips]
+Remoschwab folds [900 Tournament chips]
+QwertySpark folds [750 Tournament chips]
+Puttputt59 folds [600 Tournament chips]
+Jymshue2021 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Jymshue2021 (2d 2c: a pair of deuces)
+Jymshue2021 wins main pot 750 Tournament chips.
+Seat 0: Puttputt59 (1990 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4890 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+Game #23981147-39 ends
+Game #23981147-40 starts
+Seat 0: Puttputt59 (1990 Tournament chips) 
+Seat 1: bear7665PD (7676 Tournament chips) 
+Seat 2: Jymshue2021 (4890 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Puttputt59 posts the small blind [150 Tournament chips]
+bear7665PD posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1840 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7376 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4890 Tournament chips.
+hibabe14, at seat 3, is in this hand (absent) with 4850 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2715 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4477 Tournament chips.
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 8c 3s ]
+Jymshue2021 folds [300 Tournament chips]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Puttputt59 raises [750 Tournament chips]
+bear7665PD folds [600 Tournament chips]
+Puttputt59 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Puttputt59 (Ad 9c: ace high)
+Puttputt59 wins main pot 600 Tournament chips.
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7376 Tournament chips) 
+Seat 2: Jymshue2021 (4890 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+Game #23981147-40 ends
+Game #23981147-41 starts
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7376 Tournament chips) 
+Seat 2: Jymshue2021 (4890 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+bear7665PD posts the small blind [150 Tournament chips]
+Jymshue2021 posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 2290 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7226 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4590 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4850 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2715 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4477 Tournament chips.
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Qs 9s ]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Puttputt59 folds [300 Tournament chips]
+bear7665PD calls [150 Tournament chips]
+Jymshue2021 checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 8h ] board:[ Td 8h]
+** Dealing Flop ** [ 8d ] board:[ Td 8h 8d]
+bear7665PD checks
+Jymshue2021 bets for 300 Tournament chips
+bear7665PD calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Td 8h 8d 7h]
+bear7665PD bets for 1200 Tournament chips
+Jymshue2021 folds [1200 Tournament chips]
+bear7665PD is returned 1200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bear7665PD (8s As Td 8h 8d: three eights)
+bear7665PD wins main pot 1200 Tournament chips.
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7976 Tournament chips) 
+Seat 2: Jymshue2021 (4290 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+Game #23981147-41 ends
+Game #23981147-42 starts
+Seat 0: Puttputt59 (2290 Tournament chips) 
+Seat 1: bear7665PD (7976 Tournament chips) 
+Seat 2: Jymshue2021 (4290 Tournament chips) 
+Seat 3: hibabe14 (4850 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Jymshue2021 posts the small blind [150 Tournament chips]
+hibabe14 posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 2290 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 7976 Tournament chips.
+Jymshue2021, at seat 2, is in this hand with 4140 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4550 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2715 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4477 Tournament chips.
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Jymshue2021 is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Jymshue2021 [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Th 9d ]
+Remoschwab folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Puttputt59 calls [300 Tournament chips]
+bear7665PD calls [300 Tournament chips]
+Jymshue2021 calls [150 Tournament chips]
+hibabe14 checks
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 9h ] board:[ 4c 9h]
+** Dealing Flop ** [ 3c ] board:[ 4c 9h 3c]
+Jymshue2021 checks
+hibabe14 has timed out - the hand is checked
+Puttputt59 checks
+bear7665PD bets for 600 Tournament chips
+Jymshue2021 raises all-in [3990 Tournament chips]
+hibabe14 folds [3990 Tournament chips]
+Puttputt59 folds [1990 Tournament chips]
+bear7665PD calls [3390 Tournament chips]
+Tournament all-in showdown -- players show:
+bear7665PD shows [ 7h 7d ]
+Jymshue2021 shows [ 3h 6h ]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 4c 9h 3c 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 4c 9h 3c 6d 7s]
+        (no action in this round)
+Round 4 is over.
+bear7665PD shows [ 7h 7d ] three sevens, nine/six kickers
+Jymshue2021 shows [ 3h 6h ] two pair, sixes and threes, nine kicker
+bear7665PD wins main pot 9180 Tournament chips with three sevens, nine/six kickers.
+Seat 0: Puttputt59 (1990 Tournament chips) 
+Seat 1: bear7665PD (12866 Tournament chips) 
+Seat 2: Jymshue2021 (0 Tournament chips) 
+Seat 3: hibabe14 (4550 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+Game #23981147-42 ends
+Player Jymshue2021 leaves the table with 0 Tournament chips
+Game #23981147-43 starts
+Seat 0: Puttputt59 (1990 Tournament chips) 
+Seat 1: bear7665PD (12866 Tournament chips) 
+Seat 3: hibabe14 (4550 Tournament chips) 
+Seat 4: Remoschwab (2715 Tournament chips) 
+Seat 5: QwertySpark (4477 Tournament chips) 
+The button is at seat 1
+Puttputt59 posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+bear7665PD posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 2.
+hibabe14 posts the small blind [150 Tournament chips]
+Remoschwab posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1965 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 12841 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4375 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2390 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4452 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Js Ts ]
+QwertySpark raises [1200 Tournament chips]
+Puttputt59 raises all-in [1965 Tournament chips]
+bear7665PD folds [1965 Tournament chips]
+hibabe14 folds [1815 Tournament chips]
+Remoschwab folds [1665 Tournament chips]
+QwertySpark calls [765 Tournament chips]
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ 5d As ]
+QwertySpark shows [ Js Ts ]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 9c ] board:[ 8d 9c]
+** Dealing Flop ** [ 2d ] board:[ 8d 9c 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 8d 9c 2d 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 8d 9c 2d 8h 9d]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ 5d As ] two pair, nines and eights, ace kicker
+QwertySpark shows [ Js Ts ] two pair, nines and eights, jack kicker
+Puttputt59 wins main pot 4505 Tournament chips with two pair, nines and eights, ace kicker.
+Seat 0: Puttputt59 (4505 Tournament chips) 
+Seat 1: bear7665PD (12841 Tournament chips) 
+Seat 3: hibabe14 (4375 Tournament chips) 
+Seat 4: Remoschwab (2390 Tournament chips) 
+Seat 5: QwertySpark (2487 Tournament chips) 
+Game #23981147-43 ends
+Game #23981147-44 starts
+Seat 0: Puttputt59 (4505 Tournament chips) 
+Seat 1: bear7665PD (12841 Tournament chips) 
+Seat 3: hibabe14 (4375 Tournament chips) 
+Seat 4: Remoschwab (2390 Tournament chips) 
+Seat 5: QwertySpark (2487 Tournament chips) 
+The button is at seat 2
+Puttputt59 posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+bear7665PD posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 3.
+Remoschwab posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 4480 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 12816 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4350 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2215 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2162 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Kh 8c ]
+Puttputt59 folds [300 Tournament chips]
+bear7665PD folds [300 Tournament chips]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [150 Tournament chips]
+QwertySpark is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kh 8c: king high)
+QwertySpark wins main pot 425 Tournament chips.
+Seat 0: Puttputt59 (4480 Tournament chips) 
+Seat 1: bear7665PD (12816 Tournament chips) 
+Seat 2: Richygotmoney (18668 Tournament chips) 
+Seat 3: hibabe14 (4350 Tournament chips) 
+Seat 4: Remoschwab (2215 Tournament chips) 
+Seat 5: QwertySpark (2737 Tournament chips) 
+Game #23981147-44 ends
+Game #23981147-45 starts
+Seat 0: Puttputt59 (4480 Tournament chips) 
+Seat 1: bear7665PD (12816 Tournament chips) 
+Seat 2: Richygotmoney (18668 Tournament chips) 
+Seat 3: hibabe14 (4350 Tournament chips) 
+Seat 4: Remoschwab (2215 Tournament chips) 
+Seat 5: QwertySpark (2737 Tournament chips) 
+The button is at seat 3
+Puttputt59 posted ante of 25 Tournament chips
+bear7665PD posted ante of 25 Tournament chips
+Richygotmoney posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 4.
+QwertySpark posts the small blind [150 Tournament chips]
+Puttputt59 posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 4155 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 12791 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 18643 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4325 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2190 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2562 Tournament chips.
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 4s 3c ]
+bear7665PD folds [300 Tournament chips]
+Richygotmoney calls [300 Tournament chips]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Puttputt59 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 9c ] board:[ Qs 9c]
+** Dealing Flop ** [ Jd ] board:[ Qs 9c Jd]
+QwertySpark checks
+Puttputt59 bets for 600 Tournament chips
+Richygotmoney calls [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ Qs 9c Jd Jc]
+Puttputt59 bets for 1200 Tournament chips
+Richygotmoney folds [1200 Tournament chips]
+Puttputt59 is returned 1200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Puttputt59 (Jh Qs 9c Jd Jc: three jacks)
+Puttputt59 wins main pot 2250 Tournament chips.
+Seat 0: Puttputt59 (5805 Tournament chips) 
+Seat 1: bear7665PD (12791 Tournament chips) 
+Seat 2: Richygotmoney (17743 Tournament chips) 
+Seat 3: hibabe14 (4325 Tournament chips) 
+Seat 4: Remoschwab (2190 Tournament chips) 
+Seat 5: QwertySpark (2412 Tournament chips) 
+Game #23981147-45 ends
+Game #23981147-46 starts
+Seat 0: Puttputt59 (5805 Tournament chips) 
+Seat 1: bear7665PD (12791 Tournament chips) 
+Seat 2: Richygotmoney (17743 Tournament chips) 
+Seat 3: hibabe14 (4325 Tournament chips) 
+Seat 4: Remoschwab (2190 Tournament chips) 
+Seat 5: QwertySpark (2412 Tournament chips) 
+The button is at seat 4
+Puttputt59 posted ante of 25 Tournament chips
+bear7665PD posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+Richygotmoney posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 5.
+Puttputt59 posts the small blind [150 Tournament chips]
+bear7665PD posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 5630 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 12466 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 17718 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4300 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2165 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2387 Tournament chips.
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+bear7665PD is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Jd 5s ]
+Richygotmoney raises [1200 Tournament chips]
+hibabe14 folds [1200 Tournament chips]
+Remoschwab folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Puttputt59 folds [1050 Tournament chips]
+bear7665PD calls [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 7h ] board:[ Qd 7h]
+** Dealing Flop ** [ 7s ] board:[ Qd 7h 7s]
+bear7665PD bets for 2700 Tournament chips
+Richygotmoney raises [7200 Tournament chips]
+bear7665PD raises all-in [8866 Tournament chips]
+Richygotmoney calls [4366 Tournament chips]
+Tournament all-in showdown -- players show:
+bear7665PD shows [ Qc Ad ]
+Richygotmoney shows [ Kc Kh ]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Qd 7h 7s Th]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Qd 7h 7s Th 8d]
+        (no action in this round)
+Round 4 is over.
+bear7665PD shows [ Qc Ad ] two pair, queens and sevens, ace kicker
+Richygotmoney shows [ Kc Kh ] two pair, kings and sevens, queen kicker
+Richygotmoney wins main pot 25832 Tournament chips with two pair, kings and sevens, queen kicker.
+Seat 0: Puttputt59 (5630 Tournament chips) 
+Seat 1: bear7665PD (0 Tournament chips) 
+Seat 2: Richygotmoney (30784 Tournament chips) 
+Seat 3: hibabe14 (4300 Tournament chips) 
+Seat 4: Remoschwab (2165 Tournament chips) 
+Seat 5: QwertySpark (2387 Tournament chips) 
+Game #23981147-46 ends
+Player bear7665PD leaves the table with 0 Tournament chips
+Game #23981147-47 starts
+Seat 0: Puttputt59 (5630 Tournament chips) 
+Seat 2: Richygotmoney (30784 Tournament chips) 
+Seat 3: hibabe14 (4300 Tournament chips) 
+Seat 4: Remoschwab (2165 Tournament chips) 
+Seat 5: QwertySpark (2387 Tournament chips) 
+The button is at seat 5
+Richygotmoney posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Puttputt59 posted ante of 25 Tournament chips
+The button is moved to seat 0.
+Richygotmoney posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 5605 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30459 Tournament chips.
+hibabe14, at seat 3, is in this hand with 4275 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2140 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2362 Tournament chips.
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ As Qd ]
+hibabe14 folds [300 Tournament chips]
+Remoschwab folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+Puttputt59 folds [1200 Tournament chips]
+Richygotmoney folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As Qd: ace high)
+QwertySpark wins main pot 725 Tournament chips.
+Seat 0: Puttputt59 (5605 Tournament chips) 
+Seat 2: Richygotmoney (30459 Tournament chips) 
+Seat 3: hibabe14 (4275 Tournament chips) 
+Seat 4: Remoschwab (2140 Tournament chips) 
+Seat 5: QwertySpark (2787 Tournament chips) 
+Game #23981147-47 ends
+Game #23981147-48 starts
+Seat 0: Puttputt59 (5605 Tournament chips) 
+Seat 2: Richygotmoney (30459 Tournament chips) 
+Seat 3: hibabe14 (4275 Tournament chips) 
+Seat 4: Remoschwab (2140 Tournament chips) 
+Seat 5: QwertySpark (2787 Tournament chips) 
+The button is at seat 0
+Puttputt59 posted ante of 25 Tournament chips
+Richygotmoney posted ante of 25 Tournament chips
+hibabe14 posted ante of 25 Tournament chips
+Remoschwab posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Richygotmoney posts the small blind [150 Tournament chips]
+hibabe14 posts the big blind [300 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 5580 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30284 Tournament chips.
+hibabe14, at seat 3, is in this hand with 3950 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 2115 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2762 Tournament chips.
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 7s 4h ]
+Remoschwab folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Puttputt59 raises [600 Tournament chips]
+Richygotmoney folds [450 Tournament chips]
+hibabe14 raises all-in [3950 Tournament chips]
+Puttputt59 calls [3650 Tournament chips]
+Tournament all-in showdown -- players show:
+Puttputt59 shows [ Th Jh ]
+hibabe14 shows [ 7h Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Qc ] board:[ 6c Qc]
+** Dealing Flop ** [ 2d ] board:[ 6c Qc 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 6c Qc 2d 3s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 6c Qc 2d 3s 6d]
+        (no action in this round)
+Round 4 is over.
+Puttputt59 shows [ Th Jh ] a pair of sixes, queen/jack kickers
+hibabe14 shows [ 7h Ad ] a pair of sixes, ace/queen kickers
+hibabe14 wins main pot 8775 Tournament chips with a pair of sixes, ace/queen kickers.
+Seat 0: Puttputt59 (1330 Tournament chips) 
+Seat 2: Richygotmoney (30284 Tournament chips) 
+Seat 3: hibabe14 (8775 Tournament chips) 
+Seat 4: Remoschwab (2115 Tournament chips) 
+Seat 5: QwertySpark (2762 Tournament chips) 
+Game #23981147-48 ends
+Game #23981147-49 starts
+Seat 0: Puttputt59 (1330 Tournament chips) 
+Seat 2: Richygotmoney (30284 Tournament chips) 
+Seat 3: hibabe14 (8775 Tournament chips) 
+Seat 4: Remoschwab (2115 Tournament chips) 
+Seat 5: QwertySpark (2762 Tournament chips) 
+The button is at seat 0
+Puttputt59 posted ante of 50 Tournament chips
+Richygotmoney posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 2.
+hibabe14 posts the small blind [200 Tournament chips]
+Remoschwab posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand with 1280 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30234 Tournament chips.
+hibabe14, at seat 3, is in this hand with 8525 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 1665 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2712 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ 4s 5s ]
+QwertySpark folds [400 Tournament chips]
+Puttputt59 folds [400 Tournament chips]
+Richygotmoney raises [800 Tournament chips]
+hibabe14 folds [600 Tournament chips]
+Remoschwab folds [400 Tournament chips]
+Richygotmoney is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Richygotmoney (Js Kh: king high)
+Richygotmoney wins main pot 1250 Tournament chips.
+(hibabe14 has entered the table, is no longer absent.)
+Seat 0: Puttputt59 (1280 Tournament chips) 
+Seat 2: Richygotmoney (31084 Tournament chips) 
+Seat 3: hibabe14 (8525 Tournament chips) 
+Seat 4: Remoschwab (1665 Tournament chips) 
+Seat 5: QwertySpark (2712 Tournament chips) 
+Game #23981147-49 ends
+Game #23981147-50 starts
+Seat 0: Puttputt59 (1280 Tournament chips) 
+Seat 2: Richygotmoney (31084 Tournament chips) 
+Seat 3: hibabe14 (8525 Tournament chips) 
+Seat 4: Remoschwab (1665 Tournament chips) 
+Seat 5: QwertySpark (2712 Tournament chips) 
+The button is at seat 2
+Puttputt59 posted ante of 50 Tournament chips
+Richygotmoney posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+The button is moved to seat 3.
+Remoschwab posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand (absent) with 1230 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 31034 Tournament chips.
+hibabe14, at seat 3, is in this hand with 8475 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 1415 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2262 Tournament chips.
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ As Kc ]
+Puttputt59 folds [400 Tournament chips]
+Richygotmoney folds [400 Tournament chips]
+hibabe14 folds [400 Tournament chips]
+Remoschwab folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As Kc: ace high)
+QwertySpark wins main pot 650 Tournament chips.
+Seat 0: Puttputt59 (1230 Tournament chips) 
+Seat 2: Richygotmoney (31034 Tournament chips) 
+Seat 3: hibabe14 (8475 Tournament chips) 
+Seat 4: Remoschwab (1415 Tournament chips) 
+Seat 5: QwertySpark (3112 Tournament chips) 
+Game #23981147-50 ends
+Game #23981147-51 starts
+Seat 0: Puttputt59 (1230 Tournament chips) 
+Seat 2: Richygotmoney (31034 Tournament chips) 
+Seat 3: hibabe14 (8475 Tournament chips) 
+Seat 4: Remoschwab (1415 Tournament chips) 
+Seat 5: QwertySpark (3112 Tournament chips) 
+The button is at seat 3
+Puttputt59 posted ante of 50 Tournament chips
+Richygotmoney posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 4.
+QwertySpark posts the small blind [200 Tournament chips]
+Puttputt59 posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand (absent) with 780 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30984 Tournament chips.
+hibabe14, at seat 3, is in this hand with 8425 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 1365 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2862 Tournament chips.
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Ts 8d ]
+Richygotmoney folds [400 Tournament chips]
+hibabe14 raises [800 Tournament chips]
+Remoschwab folds [800 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Puttputt59 folds [400 Tournament chips]
+hibabe14 is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for hibabe14 (Ac 4c: ace high)
+hibabe14 wins main pot 1250 Tournament chips.
+Seat 0: Puttputt59 (780 Tournament chips) 
+Seat 2: Richygotmoney (30984 Tournament chips) 
+Seat 3: hibabe14 (9275 Tournament chips) 
+Seat 4: Remoschwab (1365 Tournament chips) 
+Seat 5: QwertySpark (2862 Tournament chips) 
+Game #23981147-51 ends
+Game #23981147-52 starts
+Seat 0: Puttputt59 (780 Tournament chips) 
+Seat 2: Richygotmoney (30984 Tournament chips) 
+Seat 3: hibabe14 (9275 Tournament chips) 
+Seat 4: Remoschwab (1365 Tournament chips) 
+Seat 5: QwertySpark (2862 Tournament chips) 
+The button is at seat 4
+Puttputt59 posted ante of 50 Tournament chips
+Richygotmoney posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 5.
+Puttputt59 posts the small blind [200 Tournament chips]
+Richygotmoney posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand (absent) with 530 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30534 Tournament chips.
+hibabe14, at seat 3, is in this hand with 9225 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 1315 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2812 Tournament chips.
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Jc 5h ]
+hibabe14 folds [400 Tournament chips]
+Remoschwab folds [400 Tournament chips]
+QwertySpark raises [1600 Tournament chips]
+Puttputt59 folds [530 Tournament chips]
+Richygotmoney folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jc 5h: jack high)
+QwertySpark wins main pot 1250 Tournament chips.
+Seat 0: Puttputt59 (530 Tournament chips) 
+Seat 2: Richygotmoney (30534 Tournament chips) 
+Seat 3: hibabe14 (9225 Tournament chips) 
+Seat 4: Remoschwab (1315 Tournament chips) 
+Seat 5: QwertySpark (3662 Tournament chips) 
+Game #23981147-52 ends
+Game #23981147-53 starts
+Seat 0: Puttputt59 (530 Tournament chips) 
+Seat 2: Richygotmoney (30534 Tournament chips) 
+Seat 3: hibabe14 (9225 Tournament chips) 
+Seat 4: Remoschwab (1315 Tournament chips) 
+Seat 5: QwertySpark (3662 Tournament chips) 
+The button is at seat 5
+Puttputt59 posted ante of 50 Tournament chips
+Richygotmoney posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 0.
+Richygotmoney posts the small blind [200 Tournament chips]
+hibabe14 posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand (absent) with 480 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 30284 Tournament chips.
+hibabe14, at seat 3, is in this hand with 8775 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 1265 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3612 Tournament chips.
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Jh 7s ]
+Remoschwab folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Puttputt59 folds [400 Tournament chips]
+Richygotmoney calls [200 Tournament chips]
+hibabe14 checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 4c ] board:[ 5h 4c]
+** Dealing Flop ** [ 4h ] board:[ 5h 4c 4h]
+Richygotmoney bets for 1200 Tournament chips
+hibabe14 raises all-in [8775 Tournament chips]
+Richygotmoney folds [7575 Tournament chips]
+hibabe14 is returned 7575 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for hibabe14 (Jc Ts 5h 4c 4h: a pair of fours)
+hibabe14 wins main pot 3450 Tournament chips.
+Seat 0: Puttputt59 (480 Tournament chips) 
+Seat 2: Richygotmoney (28884 Tournament chips) 
+Seat 3: hibabe14 (11025 Tournament chips) 
+Seat 4: Remoschwab (1265 Tournament chips) 
+Seat 5: QwertySpark (3612 Tournament chips) 
+Game #23981147-53 ends
+Game #23981147-54 starts
+Seat 0: Puttputt59 (480 Tournament chips) 
+Seat 2: Richygotmoney (28884 Tournament chips) 
+Seat 3: hibabe14 (11025 Tournament chips) 
+Seat 4: Remoschwab (1265 Tournament chips) 
+Seat 5: QwertySpark (3612 Tournament chips) 
+The button is at seat 0
+Richygotmoney posted ante of 50 Tournament chips
+Puttputt59 posted ante of 50 Tournament chips
+hibabe14 posted ante of 50 Tournament chips
+Remoschwab posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 2.
+hibabe14 posts the small blind [200 Tournament chips]
+Remoschwab posts the big blind [400 Tournament chips]
+Puttputt59, at seat 0, is in this hand (absent) with 430 Tournament chips.
+Richygotmoney, at seat 2, is in this hand with 28834 Tournament chips.
+hibabe14, at seat 3, is in this hand with 10775 Tournament chips.
+Remoschwab, at seat 4, is in this hand (absent) with 815 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3562 Tournament chips.
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+hibabe14 is dealt: **
+Remoschwab is dealt: **
+
+Puttputt59 is dealt: **
+Richygotmoney is dealt: **
+Dealt to Puttputt59 [ **** ]
+Dealt to Richygotmoney [ **** ]
+Dealt to hibabe14 [ **** ]
+Dealt to Remoschwab [ **** ]
+Dealt to QwertySpark [ Tc Ac ]
+QwertySpark raises [1600 Tournament chips]
+Puttputt59 folds [430 Tournament chips]
+Richygotmoney re-raises [3200 Tournament chips]
+hibabe14 folds [3000 Tournament chips]
+Remoschwab folds [815 Tournament chips]
+QwertySpark raises all-in [1962 Tournament chips]
+Richygotmoney calls [362 Tournament chips]
+Tournament all-in showdown -- players show:
+Richygotmoney shows [ Qh Ah ]
+QwertySpark shows [ Tc Ac ]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 7s ] board:[ 8d 7s]
+** Dealing Flop ** [ Jd ] board:[ 8d 7s Jd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 8d 7s Jd 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 8d 7s Jd 4d 6s]
+        (no action in this round)
+Round 4 is over.
+Richygotmoney shows [ Qh Ah ] ace/queen/jack high
+QwertySpark shows [ Tc Ac ] ace/jack/ten high
+Richygotmoney wins main pot 7974 Tournament chips with ace/queen/jack high.
+Seat 0: Puttputt59 (430 Tournament chips) 
+Seat 2: Richygotmoney (33246 Tournament chips) 
+Seat 3: hibabe14 (10775 Tournament chips) 
+Seat 4: Remoschwab (815 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Game #23981147-54 ends
+Player QwertySpark leaves the table with 0 Tournament chips

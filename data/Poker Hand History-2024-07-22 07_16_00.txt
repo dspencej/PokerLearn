@@ -1,0 +1,2411 @@
+Game#: 23980244
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+QwertySpark is dealt: Qd
+The button is moved to seat 0.
+Game #23980244-1 starts
+Seat 0: Ibcurlyjo (1500 Tournament chips) 
+Seat 1: Ronl3559 (1500 Tournament chips) 
+Seat 2: Razmazter (1500 Tournament chips) 
+Seat 3: DarthVader1967 (1500 Tournament chips) 
+Seat 4: zorro55 (1500 Tournament chips) 
+Seat 5: pksmiddy (1500 Tournament chips) 
+Seat 6: alkymo (1500 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 0
+Ronl3559 posts the small blind [5 Tournament chips]
+Razmazter posts the big blind [10 Tournament chips]
+Ibcurlyjo, at seat 0, is in this hand with 1500 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 1495 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1490 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 1500 Tournament chips.
+zorro55, at seat 4, is in this hand with 1500 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1500 Tournament chips.
+alkymo, at seat 6, is in this hand with 1500 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Dealt to Ibcurlyjo [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ 6h 7s ]
+DarthVader1967 calls [10 Tournament chips]
+zorro55 calls [10 Tournament chips]
+pksmiddy calls [10 Tournament chips]
+alkymo folds [10 Tournament chips]
+Luthmoneybags folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Ibcurlyjo folds [10 Tournament chips]
+Ronl3559 calls [5 Tournament chips]
+Razmazter checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 7d ] board:[ 3h 7d]
+** Dealing Flop ** [ Ah ] board:[ 3h 7d Ah]
+Ronl3559 bets for 50 Tournament chips
+Razmazter: gl darth
+Razmazter calls [50 Tournament chips]
+DarthVader1967 folds [50 Tournament chips]
+zorro55 folds [50 Tournament chips]
+pksmiddy calls [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 3h 7d Ah 5c]
+Ronl3559 bets for 200 Tournament chips
+DarthVader1967: gl raz
+Razmazter folds [200 Tournament chips]
+pksmiddy calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 3h 7d Ah 5c Qc]
+Razmazter: ty
+Ronl3559 bets for 600 Tournament chips
+pksmiddy calls [600 Tournament chips]
+Round 4 is over.
+Ronl3559 shows [ Ts Ad ] a pair of aces
+Hand evaluation for Ronl3559 (Ts Ad 7d Ah Qc: a pair of aces)
+pksmiddy doesn't show [ 8s As ]
+(pksmiddy has 8s As.)
+Ronl3559 wins main pot 1800 Tournament chips with a pair of aces, queen/ten kickers.
+Seat 0: Ibcurlyjo (1500 Tournament chips) 
+Seat 1: Ronl3559 (2440 Tournament chips) 
+Seat 2: Razmazter (1440 Tournament chips) 
+Seat 3: DarthVader1967 (1490 Tournament chips) 
+Seat 4: zorro55 (1490 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1500 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+Game #23980244-1 ends
+Game #23980244-2 starts
+Seat 0: Ibcurlyjo (1500 Tournament chips) 
+Seat 1: Ronl3559 (2440 Tournament chips) 
+Seat 2: Razmazter (1440 Tournament chips) 
+Seat 3: DarthVader1967 (1490 Tournament chips) 
+Seat 4: zorro55 (1490 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1500 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Razmazter posts the small blind [5 Tournament chips]
+DarthVader1967 posts the big blind [10 Tournament chips]
+Ibcurlyjo, at seat 0, is in this hand with 1500 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2440 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1435 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 1480 Tournament chips.
+zorro55, at seat 4, is in this hand with 1490 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 640 Tournament chips.
+alkymo, at seat 6, is in this hand with 1500 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Dealt to Ibcurlyjo [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ 8c 6d ]
+zorro55 calls [10 Tournament chips]
+pksmiddy folds [10 Tournament chips]
+alkymo folds [10 Tournament chips]
+Razmazter: warming up
+Luthmoneybags folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Ibcurlyjo raises [525 Tournament chips]
+Ronl3559 folds [525 Tournament chips]
+DarthVader1967: lol they only practice
+Razmazter folds [520 Tournament chips]
+DarthVader1967 raises all-in [1480 Tournament chips]
+zorro55 folds [1480 Tournament chips]
+Ibcurlyjo calls [965 Tournament chips]
+Tournament all-in showdown -- players show:
+Ibcurlyjo shows [ Jh Jd ]
+DarthVader1967 shows [ Ad Kc ]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 7h ] board:[ 8h 7h]
+** Dealing Flop ** [ 9h ] board:[ 8h 7h 9h]
+        (no action in this round)
+Razmazter: yup
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 8h 7h 9h 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 8h 7h 9h 5d Ks]
+        (no action in this round)
+DarthVader1967: means noting
+Round 4 is over.
+Ibcurlyjo shows [ Jh Jd ] a pair of jacks, king/nine kickers
+DarthVader1967 shows [ Ad Kc ] a pair of kings, ace/nine kickers
+DarthVader1967 wins main pot 2995 Tournament chips with a pair of kings, ace/nine kickers.
+Seat 0: Ibcurlyjo (10 Tournament chips) 
+Seat 1: Ronl3559 (2440 Tournament chips) 
+Seat 2: Razmazter (1435 Tournament chips) 
+Seat 3: DarthVader1967 (2995 Tournament chips) 
+Seat 4: zorro55 (1480 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1500 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+Game #23980244-2 ends
+Razmazter: whew
+Game #23980244-3 starts
+Seat 0: Ibcurlyjo (10 Tournament chips) 
+Seat 1: Ronl3559 (2440 Tournament chips) 
+Seat 2: Razmazter (1435 Tournament chips) 
+Seat 3: DarthVader1967 (2995 Tournament chips) 
+Seat 4: zorro55 (1480 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1500 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1500 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DarthVader1967 posts the small blind [5 Tournament chips]
+zorro55 posts the big blind [10 Tournament chips]
+Ibcurlyjo, at seat 0, is in this hand with 10 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2440 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1435 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2990 Tournament chips.
+zorro55, at seat 4, is in this hand with 1470 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 640 Tournament chips.
+alkymo, at seat 6, is in this hand with 1500 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1500 Tournament chips.
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+Dealt to Ibcurlyjo [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ 4s Js ]
+pksmiddy folds [10 Tournament chips]
+alkymo calls [10 Tournament chips]
+Luthmoneybags folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Ibcurlyjo folds [10 Tournament chips]
+Ronl3559 calls [10 Tournament chips]
+Razmazter: not a proving groud
+Razmazter calls [10 Tournament chips]
+DarthVader1967 folds [5 Tournament chips]
+zorro55 checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Ad ] board:[ 8d Ad]
+** Dealing Flop ** [ Ac ] board:[ 8d Ad Ac]
+zorro55 checks
+alkymo checks
+QwertySpark checks
+Ronl3559 checks
+Razmazter checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 8d Ad Ac 9d]
+zorro55 checks
+DarthVader1967: 7pm different story
+alkymo checks
+Razmazter: yup gearing up
+QwertySpark checks
+Ronl3559 checks
+Razmazter bets for 10 Tournament chips
+zorro55 folds [10 Tournament chips]
+alkymo calls [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Ronl3559 folds [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 8d Ad Ac 9d 5c]
+alkymo checks
+Razmazter bets for 105 Tournament chips
+alkymo calls [105 Tournament chips]
+Round 4 is over.
+Razmazter shows [ Td Qc ] a pair of aces
+Hand evaluation for Razmazter (Td Qc Ad Ac 9d: a pair of aces)
+alkymo shows [ 7c 8c ] two pair, aces and eights
+Hand evaluation for alkymo (8c 8d Ad Ac 9d: two pair, aces and eights)
+alkymo wins main pot 285 Tournament chips with two pair, aces and eights, nine kicker.
+Seat 0: Ibcurlyjo (10 Tournament chips) 
+Seat 1: Ronl3559 (2430 Tournament chips) 
+Seat 2: Razmazter (1310 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1470 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1660 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1490 Tournament chips) 
+Game #23980244-3 ends
+Game #23980244-4 starts
+Seat 0: Ibcurlyjo (10 Tournament chips) 
+Seat 1: Ronl3559 (2430 Tournament chips) 
+Seat 2: Razmazter (1310 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1470 Tournament chips) 
+Seat 5: pksmiddy (640 Tournament chips) 
+Seat 6: alkymo (1660 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1490 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+zorro55 posts the small blind [5 Tournament chips]
+pksmiddy posts the big blind [10 Tournament chips]
+Ibcurlyjo, at seat 0, is in this hand with 10 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2430 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1310 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2990 Tournament chips.
+zorro55, at seat 4, is in this hand with 1465 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 630 Tournament chips.
+alkymo, at seat 6, is in this hand with 1660 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1490 Tournament chips.
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ibcurlyjo is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+Dealt to Ibcurlyjo [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ Jh 3h ]
+alkymo calls [10 Tournament chips]
+Luthmoneybags folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Ibcurlyjo calls all-in [10 Tournament chips]
+Ronl3559 calls [10 Tournament chips]
+Razmazter calls [10 Tournament chips]
+DarthVader1967 folds [10 Tournament chips]
+zorro55 calls [5 Tournament chips]
+pksmiddy checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 8s ] board:[ 4s 8s]
+** Dealing Flop ** [ Qc ] board:[ 4s 8s Qc]
+zorro55 checks
+pksmiddy checks
+alkymo checks
+QwertySpark checks
+Ronl3559 checks
+Razmazter checks
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 4s 8s Qc 9s]
+zorro55 checks
+pksmiddy checks
+alkymo goes all-in for 1650 Tournament chips
+QwertySpark folds [1480 Tournament chips]
+Ronl3559 folds [1650 Tournament chips]
+Razmazter folds [1300 Tournament chips]
+zorro55 folds [1460 Tournament chips]
+pksmiddy folds [630 Tournament chips]
+alkymo is returned 1650 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Ibcurlyjo shows [ 9d Ts ]
+alkymo shows [ Js Tc ]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 4s 8s Qc 9s Ks]
+        (no action in this round)
+Round 4 is over.
+Ibcurlyjo shows [ 9d Ts ] flush, king/ten/nine high
+alkymo shows [ Js Tc ] flush, king/jack/nine high
+alkymo wins main pot 70 Tournament chips with flush, king/jack/nine high.
+Seat 0: Ibcurlyjo (0 Tournament chips) 
+Seat 1: Ronl3559 (2420 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1460 Tournament chips) 
+Seat 5: pksmiddy (630 Tournament chips) 
+Seat 6: alkymo (1720 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+Game #23980244-4 ends
+Player Ibcurlyjo leaves the table with 0 Tournament chips
+Game #23980244-5 starts
+Seat 1: Ronl3559 (2420 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1460 Tournament chips) 
+Seat 5: pksmiddy (630 Tournament chips) 
+Seat 6: alkymo (1720 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+pksmiddy posts the small blind [10 Tournament chips]
+alkymo posts the big blind [20 Tournament chips]
+Ronl3559, at seat 1, is in this hand with 2420 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1300 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2990 Tournament chips.
+zorro55, at seat 4, is in this hand with 1460 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 620 Tournament chips.
+alkymo, at seat 6, is in this hand with 1700 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1480 Tournament chips.
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ 6s 9c ]
+Luthmoneybags folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Ronl3559 calls [20 Tournament chips]
+Razmazter folds [20 Tournament chips]
+DarthVader1967 folds [20 Tournament chips]
+zorro55 folds [20 Tournament chips]
+pksmiddy calls [10 Tournament chips]
+alkymo checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 8h ] board:[ Js 8h]
+** Dealing Flop ** [ 4s ] board:[ Js 8h 4s]
+pksmiddy checks
+alkymo checks
+Ronl3559 checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Js 8h 4s 5c]
+pksmiddy bets for 30 Tournament chips
+alkymo folds [30 Tournament chips]
+Ronl3559 folds [30 Tournament chips]
+pksmiddy is returned 30 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for pksmiddy (5h Js 8h 4s 5c: a pair of fives)
+pksmiddy wins main pot 60 Tournament chips.
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1460 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (1700 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+Game #23980244-5 ends
+Game #23980244-6 starts
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (2990 Tournament chips) 
+Seat 4: zorro55 (1460 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (1700 Tournament chips) 
+Seat 7: Luthmoneybags (1500 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+alkymo posts the small blind [10 Tournament chips]
+Luthmoneybags posts the big blind [20 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1500 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2400 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1300 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2990 Tournament chips.
+zorro55, at seat 4, is in this hand with 1460 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 670 Tournament chips.
+alkymo, at seat 6, is in this hand with 1690 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1480 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1480 Tournament chips.
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ Jh 5h ]
+QwertySpark folds [20 Tournament chips]
+Dweg209 folds [20 Tournament chips]
+Ronl3559 folds [20 Tournament chips]
+Razmazter folds [20 Tournament chips]
+DarthVader1967 raises [219 Tournament chips]
+zorro55 calls [219 Tournament chips]
+pksmiddy folds [219 Tournament chips]
+alkymo folds [209 Tournament chips]
+Luthmoneybags folds [199 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 3c ] board:[ Js 3c]
+** Dealing Flop ** [ 5d ] board:[ Js 3c 5d]
+DarthVader1967 checks
+zorro55 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Js 3c 5d 7h]
+DarthVader1967 checks
+zorro55 checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Js 3c 5d 7h 7s]
+DarthVader1967 bets for 101 Tournament chips
+zorro55 folds [101 Tournament chips]
+DarthVader1967 is returned 101 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for DarthVader1967 (Jc Jd Js 7h 7s: full house, jacks full of sevens)
+DarthVader1967 wins main pot 468 Tournament chips.
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1241 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (1690 Tournament chips) 
+Seat 7: Luthmoneybags (1480 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+Game #23980244-6 ends
+Game #23980244-7 starts
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1300 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1241 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (1690 Tournament chips) 
+Seat 7: Luthmoneybags (1480 Tournament chips) 
+Seat 8: QwertySpark (1480 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Luthmoneybags posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1500 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2400 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1300 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3239 Tournament chips.
+zorro55, at seat 4, is in this hand with 1241 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 670 Tournament chips.
+alkymo, at seat 6, is in this hand with 1690 Tournament chips.
+Luthmoneybags, at seat 7, is in this hand with 1470 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1460 Tournament chips.
+Luthmoneybags is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Luthmoneybags is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to Luthmoneybags [ **** ]
+Dealt to QwertySpark [ Ah 4c ]
+Dweg209 folds [20 Tournament chips]
+Ronl3559 folds [20 Tournament chips]
+Razmazter calls [20 Tournament chips]
+DarthVader1967 folds [20 Tournament chips]
+zorro55 calls [20 Tournament chips]
+pksmiddy folds [20 Tournament chips]
+alkymo calls [20 Tournament chips]
+Luthmoneybags calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 7d ] board:[ 9h 7d]
+** Dealing Flop ** [ 4h ] board:[ 9h 7d 4h]
+Luthmoneybags bets for 50 Tournament chips
+QwertySpark calls [50 Tournament chips]
+Razmazter folds [50 Tournament chips]
+zorro55 folds [50 Tournament chips]
+alkymo calls [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 9h 7d 4h 8h]
+Luthmoneybags bets for 250 Tournament chips
+QwertySpark raises [660 Tournament chips]
+alkymo calls [660 Tournament chips]
+Luthmoneybags raises all-in [1160 Tournament chips]
+QwertySpark calls all-in [750 Tournament chips]
+alkymo calls [750 Tournament chips]
+Tournament all-in showdown -- players show:
+alkymo shows [ 2h Th ]
+Luthmoneybags shows [ Qh 7h ]
+QwertySpark shows [ Ah 4c ]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 9h 7d 4h 8h 5h]
+        (no action in this round)
+Round 4 is over.
+alkymo shows [ 2h Th ] flush, ten/nine/eight high
+Luthmoneybags shows [ Qh 7h ] flush, queen/nine/eight high
+QwertySpark shows [ Ah 4c ] flush, ace/nine/eight high
+QwertySpark wins main pot 4480 Tournament chips with flush, ace/nine/eight high.
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1280 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1221 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 7: Luthmoneybags (0 Tournament chips) 
+Seat 8: QwertySpark (4480 Tournament chips) 
+Game #23980244-7 ends
+Player Luthmoneybags leaves the table with 0 Tournament chips
+Game #23980244-8 starts
+Seat 0: Dweg209 (1500 Tournament chips) 
+Seat 1: Ronl3559 (2400 Tournament chips) 
+Seat 2: Razmazter (1280 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1221 Tournament chips) 
+Seat 5: pksmiddy (670 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 8: QwertySpark (4480 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [10 Tournament chips]
+Dweg209 posts the big blind [20 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1480 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2400 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1280 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3239 Tournament chips.
+zorro55, at seat 4, is in this hand with 1221 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 670 Tournament chips.
+alkymo, at seat 6, is in this hand with 210 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to QwertySpark [ 8c 3d ]
+Ronl3559 calls [20 Tournament chips]
+Razmazter calls [20 Tournament chips]
+DarthVader1967 folds [20 Tournament chips]
+zorro55 folds [20 Tournament chips]
+pksmiddy calls [20 Tournament chips]
+alkymo folds [20 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Dweg209 folds
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 4c ] board:[ 2c 4c]
+** Dealing Flop ** [ Ah ] board:[ 2c 4c Ah]
+Ronl3559 checks
+Razmazter checks
+pksmiddy bets for 45 Tournament chips
+Ronl3559 folds [45 Tournament chips]
+Razmazter calls [45 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 2c 4c Ah 6c]
+Razmazter checks
+pksmiddy checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 2c 4c Ah 6c 6s]
+Razmazter bets for 80 Tournament chips
+pksmiddy folds [80 Tournament chips]
+Razmazter is returned 80 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Razmazter (Ac 7h Ah 6c 6s: two pair, aces and sixes)
+Razmazter shows [ Ac 7h ] two pair, aces and sixes
+Hand evaluation for Razmazter (Ac 7h Ah 6c 6s: two pair, aces and sixes)
+Razmazter wins main pot 180 Tournament chips.
+Seat 0: Dweg209 (1480 Tournament chips) 
+Seat 1: Ronl3559 (2380 Tournament chips) 
+Seat 2: Razmazter (1395 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1221 Tournament chips) 
+Seat 5: pksmiddy (605 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 7: ldomin (1500 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-8 ends
+Game #23980244-9 starts
+Seat 0: Dweg209 (1480 Tournament chips) 
+Seat 1: Ronl3559 (2380 Tournament chips) 
+Seat 2: Razmazter (1395 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1221 Tournament chips) 
+Seat 5: pksmiddy (605 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 7: ldomin (1500 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Dweg209 posts the small blind [10 Tournament chips]
+Ronl3559 posts the big blind [20 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2360 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1395 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3239 Tournament chips.
+zorro55, at seat 4, is in this hand with 1221 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 605 Tournament chips.
+alkymo, at seat 6, is in this hand with 210 Tournament chips.
+ldomin, at seat 7, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Kd Tc ]
+Razmazter folds [20 Tournament chips]
+DarthVader1967 folds [20 Tournament chips]
+zorro55 calls [20 Tournament chips]
+pksmiddy raises all-in [605 Tournament chips]
+alkymo folds [210 Tournament chips]
+ldomin calls [605 Tournament chips]
+QwertySpark folds [605 Tournament chips]
+Dweg209 folds [595 Tournament chips]
+Ronl3559 folds [585 Tournament chips]
+zorro55 folds [585 Tournament chips]
+Tournament all-in showdown -- players show:
+pksmiddy shows [ 7h 4d ]
+ldomin shows [ Ah Td ]
+Razmazter: im a deceptive...little chit...lol
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Kc ] board:[ 4s Kc]
+** Dealing Flop ** [ 5c ] board:[ 4s Kc 5c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 4s Kc 5c 7s]
+        (no action in this round)
+Razmazter: wink wink
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 4s Kc 5c 7s 4h]
+        (no action in this round)
+Round 4 is over.
+pksmiddy shows [ 7h 4d ] full house, fours full of sevens
+ldomin shows [ Ah Td ] a pair of fours, ace/king kickers
+pksmiddy wins main pot 1260 Tournament chips with full house, fours full of sevens.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2360 Tournament chips) 
+Seat 2: Razmazter (1395 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 7: ldomin (895 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-9 ends
+Game #23980244-10 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2360 Tournament chips) 
+Seat 2: Razmazter (1395 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (210 Tournament chips) 
+Seat 7: ldomin (895 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Ronl3559 posts the small blind [15 Tournament chips]
+Razmazter posts the big blind [30 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2345 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1365 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3239 Tournament chips.
+zorro55, at seat 4, is in this hand with 1201 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1260 Tournament chips.
+alkymo, at seat 6, is in this hand with 210 Tournament chips.
+ldomin, at seat 7, is in this hand with 895 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 6d Ts ]
+DarthVader1967 folds [30 Tournament chips]
+zorro55 folds [30 Tournament chips]
+pksmiddy folds [30 Tournament chips]
+alkymo raises all-in [210 Tournament chips]
+ldomin calls [210 Tournament chips]
+QwertySpark folds [210 Tournament chips]
+Dweg209 folds [210 Tournament chips]
+Ronl3559 calls [195 Tournament chips]
+Razmazter folds [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 5c ] board:[ 4c 5c]
+** Dealing Flop ** [ Qh ] board:[ 4c 5c Qh]
+Ronl3559 checks
+ldomin checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 4c 5c Qh 6h]
+Ronl3559 checks
+ldomin checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 4c 5c Qh 6h Qd]
+Ronl3559 checks
+ldomin checks
+Round 4 is over.
+Ronl3559 shows [ 9d Kd ] a pair of queens
+Hand evaluation for Ronl3559 (9d Kd Qh 6h Qd: a pair of queens)
+alkymo shows [ 7c 7h ] two pair, queens and sevens
+Hand evaluation for alkymo (7c 7h Qh 6h Qd: two pair, queens and sevens)
+ldomin shows [ 3s As ] a pair of queens
+Hand evaluation for ldomin (As 5c Qh 6h Qd: a pair of queens)
+alkymo wins main pot 660 Tournament chips with two pair, queens and sevens, six kicker.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2150 Tournament chips) 
+Seat 2: Razmazter (1365 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (660 Tournament chips) 
+Seat 7: ldomin (685 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-10 ends
+Game #23980244-11 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2150 Tournament chips) 
+Seat 2: Razmazter (1365 Tournament chips) 
+Seat 3: DarthVader1967 (3239 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (660 Tournament chips) 
+Seat 7: ldomin (685 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Razmazter posts the small blind [15 Tournament chips]
+DarthVader1967 posts the big blind [30 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2150 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1350 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3209 Tournament chips.
+zorro55, at seat 4, is in this hand with 1201 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1260 Tournament chips.
+alkymo, at seat 6, is in this hand with 660 Tournament chips.
+ldomin, at seat 7, is in this hand with 685 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 9c Kd ]
+zorro55 folds [30 Tournament chips]
+pksmiddy folds [30 Tournament chips]
+alkymo folds [30 Tournament chips]
+ldomin calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Dweg209 folds [30 Tournament chips]
+Ronl3559 calls [30 Tournament chips]
+Razmazter calls [15 Tournament chips]
+DarthVader1967 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Ah ] board:[ Qs Ah]
+** Dealing Flop ** [ As ] board:[ Qs Ah As]
+Razmazter checks
+DarthVader1967 checks
+ldomin checks
+Ronl3559 checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Qs Ah As 3d]
+Razmazter bets for 30 Tournament chips
+DarthVader1967 folds [30 Tournament chips]
+ldomin folds [30 Tournament chips]
+Ronl3559 raises all-in [2120 Tournament chips]
+Razmazter folds, showing Ts 8s [1305 Tournament chips]
+Ronl3559 is returned 2090 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Ronl3559 (Jh Ad Qs Ah As: three aces)
+Ronl3559 wins main pot 180 Tournament chips.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3209 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (660 Tournament chips) 
+Seat 7: ldomin (655 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-11 ends
+Game #23980244-12 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3209 Tournament chips) 
+Seat 4: zorro55 (1201 Tournament chips) 
+Seat 5: pksmiddy (1260 Tournament chips) 
+Seat 6: alkymo (660 Tournament chips) 
+Seat 7: ldomin (655 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DarthVader1967 posts the small blind [15 Tournament chips]
+zorro55 posts the big blind [30 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2270 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1305 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3194 Tournament chips.
+zorro55, at seat 4, is in this hand with 1171 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1260 Tournament chips.
+alkymo, at seat 6, is in this hand with 660 Tournament chips.
+ldomin, at seat 7, is in this hand with 655 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 8d Jd ]
+pksmiddy raises [90 Tournament chips]
+alkymo raises all-in [660 Tournament chips]
+ldomin folds [655 Tournament chips]
+QwertySpark folds [660 Tournament chips]
+Dweg209 folds [660 Tournament chips]
+Ronl3559 folds [660 Tournament chips]
+Razmazter folds [660 Tournament chips]
+DarthVader1967 folds [645 Tournament chips]
+zorro55 folds [630 Tournament chips]
+pksmiddy calls [570 Tournament chips]
+Tournament all-in showdown -- players show:
+pksmiddy shows [ Jh Ac ]
+alkymo shows [ As Td ]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 4s ] board:[ 3c 4s]
+** Dealing Flop ** [ Ks ] board:[ 3c 4s Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 3c 4s Ks 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 3c 4s Ks 3h 4c]
+        (no action in this round)
+Round 4 is over.
+pksmiddy shows [ Jh Ac ] two pair, fours and threes, ace kicker
+alkymo shows [ As Td ] two pair, fours and threes, ace kicker
+pksmiddy wins main pot 683 Tournament chips of a 1365 Tournament chips pot with two pair, fours and threes, ace kicker.
+alkymo wins main pot 682 Tournament chips of a 1365 Tournament chips pot with two pair, fours and threes, ace kicker.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3194 Tournament chips) 
+Seat 4: zorro55 (1171 Tournament chips) 
+Seat 5: pksmiddy (1283 Tournament chips) 
+Seat 6: alkymo (682 Tournament chips) 
+Seat 7: ldomin (655 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-12 ends
+Game #23980244-13 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3194 Tournament chips) 
+Seat 4: zorro55 (1171 Tournament chips) 
+Seat 5: pksmiddy (1283 Tournament chips) 
+Seat 6: alkymo (682 Tournament chips) 
+Seat 7: ldomin (655 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+zorro55 posts the small blind [15 Tournament chips]
+pksmiddy posts the big blind [30 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2270 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1305 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3194 Tournament chips.
+zorro55, at seat 4, is in this hand with 1156 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1253 Tournament chips.
+alkymo, at seat 6, is in this hand with 682 Tournament chips.
+ldomin, at seat 7, is in this hand with 655 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Kh 5s ]
+alkymo folds [30 Tournament chips]
+ldomin calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Dweg209 folds [30 Tournament chips]
+Ronl3559 folds [30 Tournament chips]
+Razmazter folds [30 Tournament chips]
+DarthVader1967 folds [30 Tournament chips]
+zorro55 folds [15 Tournament chips]
+pksmiddy checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 5h ] board:[ 6s 5h]
+** Dealing Flop ** [ Th ] board:[ 6s 5h Th]
+pksmiddy bets for 30 Tournament chips
+ldomin folds [30 Tournament chips]
+pksmiddy is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for pksmiddy (Ks Qh 6s 5h Th: king high)
+pksmiddy wins main pot 75 Tournament chips.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3194 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1328 Tournament chips) 
+Seat 6: alkymo (682 Tournament chips) 
+Seat 7: ldomin (625 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-13 ends
+Game #23980244-14 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (2270 Tournament chips) 
+Seat 2: Razmazter (1305 Tournament chips) 
+Seat 3: DarthVader1967 (3194 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1328 Tournament chips) 
+Seat 6: alkymo (682 Tournament chips) 
+Seat 7: ldomin (625 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+pksmiddy posts the small blind [20 Tournament chips]
+alkymo posts the big blind [40 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2270 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1305 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3194 Tournament chips.
+zorro55, at seat 4, is in this hand with 1156 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1308 Tournament chips.
+alkymo, at seat 6, is in this hand with 642 Tournament chips.
+ldomin, at seat 7, is in this hand with 625 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+alkymo is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to alkymo [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 3d 4h ]
+ldomin folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Dweg209 folds [40 Tournament chips]
+Ronl3559 calls [40 Tournament chips]
+Razmazter calls [40 Tournament chips]
+DarthVader1967 calls [40 Tournament chips]
+zorro55 folds [40 Tournament chips]
+pksmiddy calls [20 Tournament chips]
+alkymo raises all-in [642 Tournament chips]
+Ronl3559 calls [642 Tournament chips]
+Razmazter folds [642 Tournament chips]
+DarthVader1967 folds [642 Tournament chips]
+pksmiddy folds [642 Tournament chips]
+Tournament all-in showdown -- players show:
+Ronl3559 shows [ 6h 6c ]
+alkymo shows [ As Jd ]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 5d ] board:[ Kd 5d]
+** Dealing Flop ** [ 2s ] board:[ Kd 5d 2s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Kd 5d 2s Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ Kd 5d 2s Qc 5c]
+        (no action in this round)
+Round 4 is over.
+Ronl3559 shows [ 6h 6c ] two pair, sixes and fives, king kicker
+alkymo shows [ As Jd ] a pair of fives, ace/king kickers
+Ronl3559 wins main pot 1484 Tournament chips with two pair, sixes and fives, king kicker.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (1265 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1288 Tournament chips) 
+Seat 6: alkymo (0 Tournament chips) 
+Seat 7: ldomin (625 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+Game #23980244-14 ends
+Player alkymo leaves the table with 0 Tournament chips
+Game #23980244-15 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (1265 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1288 Tournament chips) 
+Seat 7: ldomin (625 Tournament chips) 
+Seat 8: QwertySpark (4470 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+ldomin posts the big blind [40 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 3072 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1265 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3154 Tournament chips.
+zorro55, at seat 4, is in this hand with 1156 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1288 Tournament chips.
+ldomin, at seat 7, is in this hand with 585 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4470 Tournament chips.
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Ac As ]
+QwertySpark raises [160 Tournament chips]
+Dweg209 folds [160 Tournament chips]
+Ronl3559 folds [160 Tournament chips]
+Razmazter calls [160 Tournament chips]
+DarthVader1967 folds [160 Tournament chips]
+zorro55 folds [160 Tournament chips]
+pksmiddy folds [160 Tournament chips]
+ldomin folds [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 3h ] board:[ 6d 3h]
+** Dealing Flop ** [ 7s ] board:[ 6d 3h 7s]
+QwertySpark checks
+Razmazter checks
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 6d 3h 7s 7d]
+QwertySpark bets for 80 Tournament chips
+Razmazter raises [160 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 6d 3h 7s 7d 9s]
+QwertySpark bets for 240 Tournament chips
+Razmazter folds, showing Kc Jd [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ac As 7s 7d 9s: two pair, aces and sevens)
+QwertySpark wins main pot 680 Tournament chips.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (945 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1288 Tournament chips) 
+Seat 7: ldomin (585 Tournament chips) 
+Seat 8: QwertySpark (4830 Tournament chips) 
+Game #23980244-15 ends
+Game #23980244-16 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (945 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1288 Tournament chips) 
+Seat 7: ldomin (585 Tournament chips) 
+Seat 8: QwertySpark (4830 Tournament chips) 
+The button is at seat 5
+ldomin posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1470 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 3072 Tournament chips.
+Razmazter, at seat 2, is in this hand with 945 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3154 Tournament chips.
+zorro55, at seat 4, is in this hand with 1156 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1288 Tournament chips.
+ldomin, at seat 7, is in this hand with 565 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4790 Tournament chips.
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 3h Qs ]
+Dweg209 folds [40 Tournament chips]
+Ronl3559 folds [40 Tournament chips]
+Razmazter calls [40 Tournament chips]
+DarthVader1967 folds [40 Tournament chips]
+zorro55 folds [40 Tournament chips]
+pksmiddy calls [40 Tournament chips]
+ldomin folds [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 3d ] board:[ Ad 3d]
+** Dealing Flop ** [ Ah ] board:[ Ad 3d Ah]
+QwertySpark bets for 40 Tournament chips
+Razmazter calls [40 Tournament chips]
+pksmiddy folds [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Ad 3d Ah 5s]
+QwertySpark bets for 120 Tournament chips
+Razmazter folds, showing 7c 3c [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (3h Qs Ad 3d Ah: two pair, aces and threes)
+QwertySpark wins main pot 220 Tournament chips.
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (865 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1248 Tournament chips) 
+Seat 7: ldomin (565 Tournament chips) 
+Seat 8: QwertySpark (4970 Tournament chips) 
+Game #23980244-16 ends
+Game #23980244-17 starts
+Seat 0: Dweg209 (1470 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (865 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1156 Tournament chips) 
+Seat 5: pksmiddy (1248 Tournament chips) 
+Seat 7: ldomin (565 Tournament chips) 
+Seat 8: QwertySpark (4970 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+QwertySpark posts the small blind [20 Tournament chips]
+Dweg209 posts the big blind [40 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1430 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 3072 Tournament chips.
+Razmazter, at seat 2, is in this hand with 865 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3154 Tournament chips.
+zorro55, at seat 4, is in this hand with 1156 Tournament chips.
+pksmiddy, at seat 5, is in this hand with 1248 Tournament chips.
+ldomin, at seat 7, is in this hand with 565 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4950 Tournament chips.
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+pksmiddy is dealt: **
+ldomin is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to pksmiddy [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Ah Qd ]
+Ronl3559 folds [40 Tournament chips]
+Razmazter folds [40 Tournament chips]
+DarthVader1967 folds [40 Tournament chips]
+zorro55 calls [40 Tournament chips]
+pksmiddy raises [120 Tournament chips]
+ldomin calls [120 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Dweg209 folds [80 Tournament chips]
+zorro55 calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 3d ] board:[ Tc 3d]
+** Dealing Flop ** [ 3c ] board:[ Tc 3d 3c]
+QwertySpark bets for 260 Tournament chips
+zorro55 folds [260 Tournament chips]
+pksmiddy raises all-in [1128 Tournament chips]
+ldomin folds [445 Tournament chips]
+QwertySpark calls [868 Tournament chips]
+Tournament all-in showdown -- players show:
+pksmiddy shows [ Kh Js ]
+QwertySpark shows [ Ah Qd ]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ Tc 3d 3c As]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Tc 3d 3c As Jh]
+        (no action in this round)
+Round 4 is over.
+pksmiddy shows [ Kh Js ] two pair, jacks and threes, ace kicker
+QwertySpark shows [ Ah Qd ] two pair, aces and threes, queen kicker
+QwertySpark wins main pot 2776 Tournament chips with two pair, aces and threes, queen kicker.
+Seat 0: Dweg209 (1430 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (865 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 5: pksmiddy (0 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6498 Tournament chips) 
+Game #23980244-17 ends
+Player pksmiddy leaves the table with 0 Tournament chips
+Game #23980244-18 starts
+Seat 0: Dweg209 (1430 Tournament chips) 
+Seat 1: Ronl3559 (3072 Tournament chips) 
+Seat 2: Razmazter (865 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6498 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Dweg209 posts the small blind [30 Tournament chips]
+Ronl3559 posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 3012 Tournament chips.
+Razmazter, at seat 2, is in this hand with 865 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3154 Tournament chips.
+zorro55, at seat 4, is in this hand with 1036 Tournament chips.
+ldomin, at seat 7, is in this hand with 445 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6498 Tournament chips.
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ As 7d ]
+Razmazter calls [60 Tournament chips]
+DarthVader1967: folded 73 lol
+DarthVader1967 folds [60 Tournament chips]
+zorro55 folds [60 Tournament chips]
+ldomin folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Dweg209 folds [30 Tournament chips]
+Ronl3559 checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Qh ] board:[ 5c Qh]
+** Dealing Flop ** [ Qs ] board:[ 5c Qh Qs]
+Ronl3559 checks
+Razmazter bets for 60 Tournament chips
+QwertySpark folds [60 Tournament chips]
+Ronl3559 folds [60 Tournament chips]
+Razmazter is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Razmazter (Jc Jd 5c Qh Qs: two pair, queens and jacks)
+Razmazter wins main pot 210 Tournament chips.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (3012 Tournament chips) 
+Seat 2: Razmazter (1015 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6438 Tournament chips) 
+Game #23980244-18 ends
+Game #23980244-19 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (3012 Tournament chips) 
+Seat 2: Razmazter (1015 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6438 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Ronl3559 posts the small blind [30 Tournament chips]
+Razmazter posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2982 Tournament chips.
+Razmazter, at seat 2, is in this hand with 955 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3154 Tournament chips.
+zorro55, at seat 4, is in this hand with 1036 Tournament chips.
+ldomin, at seat 7, is in this hand with 445 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6438 Tournament chips.
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Ks 7s ]
+DarthVader1967 folds [60 Tournament chips]
+Razmazter: the bears in the bush
+Razmazter: lol
+zorro55 folds [60 Tournament chips]
+ldomin folds [60 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+DarthVader1967: just depends
+Dweg209 folds [240 Tournament chips]
+Ronl3559 folds [210 Tournament chips]
+Razmazter folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+DarthVader1967: it just depends
+round 1 is over.
+Hand evaluation for QwertySpark (Ks 7s: king high)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (955 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6528 Tournament chips) 
+Game #23980244-19 ends
+Razmazter: lol
+Game #23980244-20 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (955 Tournament chips) 
+Seat 3: DarthVader1967 (3154 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6528 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Razmazter posts the small blind [30 Tournament chips]
+DarthVader1967 posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2982 Tournament chips.
+Razmazter, at seat 2, is in this hand with 925 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3094 Tournament chips.
+zorro55, at seat 4, is in this hand with 1036 Tournament chips.
+ldomin, at seat 7, is in this hand with 445 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6528 Tournament chips.
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 9h Ks ]
+zorro55 folds [60 Tournament chips]
+ldomin folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Dweg209 folds [60 Tournament chips]
+Ronl3559 folds [60 Tournament chips]
+Razmazter: jus having fun
+Razmazter calls [30 Tournament chips]
+DarthVader1967 checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 4d ] board:[ 9d 4d]
+** Dealing Flop ** [ 5s ] board:[ 9d 4d 5s]
+DarthVader1967: maybe or maybe not
+Razmazter checks
+DarthVader1967: or i could go change my depends :)
+DarthVader1967 checks
+Razmazter: lol
+QwertySpark bets for 210 Tournament chips
+Razmazter folds [210 Tournament chips]
+DarthVader1967 folds [210 Tournament chips]
+QwertySpark is returned 210 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9h Ks 9d 4d 5s: a pair of nines)
+QwertySpark wins main pot 180 Tournament chips.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (895 Tournament chips) 
+Seat 3: DarthVader1967 (3094 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6648 Tournament chips) 
+Game #23980244-20 ends
+Game #23980244-21 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (895 Tournament chips) 
+Seat 3: DarthVader1967 (3094 Tournament chips) 
+Seat 4: zorro55 (1036 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6648 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DarthVader1967 posts the small blind [30 Tournament chips]
+zorro55 posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2982 Tournament chips.
+Razmazter, at seat 2, is in this hand with 895 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 3064 Tournament chips.
+zorro55, at seat 4, is in this hand with 976 Tournament chips.
+ldomin, at seat 7, is in this hand with 445 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6648 Tournament chips.
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Th 9c ]
+ldomin folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Dweg209 folds [60 Tournament chips]
+Ronl3559 folds [60 Tournament chips]
+Razmazter raises all-in [895 Tournament chips]
+DarthVader1967 calls [865 Tournament chips]
+zorro55 folds [835 Tournament chips]
+QwertySpark folds [835 Tournament chips]
+Tournament all-in showdown -- players show:
+Razmazter shows [ Kd Ad ]
+DarthVader1967 shows [ Ts As ]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Qs ] board:[ Qc Qs]
+** Dealing Flop ** [ 3h ] board:[ Qc Qs 3h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Qc Qs 3h 6d]
+        (no action in this round)
+Round 3 is over.
+DarthVader1967: nh
+** Dealing River ** [ Ac ] board:[ Qc Qs 3h 6d Ac]
+        (no action in this round)
+Round 4 is over.
+Razmazter shows [ Kd Ad ] two pair, aces and queens, king kicker
+DarthVader1967 shows [ Ts As ] two pair, aces and queens, ten kicker
+Razmazter wins main pot 1910 Tournament chips with two pair, aces and queens, king kicker.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2199 Tournament chips) 
+Seat 4: zorro55 (976 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6588 Tournament chips) 
+Game #23980244-21 ends
+Game #23980244-22 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2982 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2199 Tournament chips) 
+Seat 4: zorro55 (976 Tournament chips) 
+Seat 7: ldomin (445 Tournament chips) 
+Seat 8: QwertySpark (6588 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+zorro55 posts the small blind [30 Tournament chips]
+ldomin posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2982 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1910 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2199 Tournament chips.
+zorro55, at seat 4, is in this hand with 946 Tournament chips.
+ldomin, at seat 7, is in this hand with 385 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6588 Tournament chips.
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Ks 3s ]
+Razmazter: steeerike 1
+QwertySpark calls [60 Tournament chips]
+Dweg209 folds [60 Tournament chips]
+Ronl3559 calls [60 Tournament chips]
+Razmazter: ty...you got 2 left
+Razmazter: lol
+Razmazter folds [60 Tournament chips]
+DarthVader1967 folds [60 Tournament chips]
+zorro55 calls [30 Tournament chips]
+ldomin checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Kc ] board:[ Jh Kc]
+** Dealing Flop ** [ Jd ] board:[ Jh Kc Jd]
+zorro55 checks
+ldomin checks
+QwertySpark bets for 120 Tournament chips
+DarthVader1967: ha ha i'll take your chippies
+Ronl3559 calls [120 Tournament chips]
+zorro55 calls [120 Tournament chips]
+ldomin folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Jh Kc Jd 9c]
+zorro55 checks
+QwertySpark checks
+Ronl3559 checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Jh Kc Jd 9c Js]
+zorro55 goes all-in for 796 Tournament chips
+QwertySpark calls [796 Tournament chips]
+Ronl3559 folds [796 Tournament chips]
+Tournament all-in showdown -- players show:
+zorro55 shows [ Jc Kh ]
+QwertySpark shows [ Ks 3s ]
+Razmazter: hug your chippies...dadys home
+Round 4 is over.
+Razmazter: lol\
+zorro55 shows [ Jc Kh ] four jacks, king kicker
+QwertySpark shows [ Ks 3s ] full house, jacks full of kings
+zorro55 wins main pot 2192 Tournament chips with four jacks, king kicker.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2802 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2199 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (385 Tournament chips) 
+Seat 8: QwertySpark (5612 Tournament chips) 
+Game #23980244-22 ends
+Game #23980244-23 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2802 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2199 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (385 Tournament chips) 
+Seat 8: QwertySpark (5612 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+ldomin posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1400 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2802 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1910 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2199 Tournament chips.
+zorro55, at seat 4, is in this hand with 2192 Tournament chips.
+ldomin, at seat 7, is in this hand with 355 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5552 Tournament chips.
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 7c 2h ]
+Dweg209 folds [60 Tournament chips]
+Ronl3559 folds [60 Tournament chips]
+Razmazter folds [60 Tournament chips]
+DarthVader1967 calls [60 Tournament chips]
+zorro55 folds [60 Tournament chips]
+ldomin calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 9s ] board:[ Tc 9s]
+** Dealing Flop ** [ Kc ] board:[ Tc 9s Kc]
+ldomin checks
+QwertySpark checks
+DarthVader1967 bets for 2138 Tournament chips
+ldomin folds [325 Tournament chips]
+QwertySpark folds [2138 Tournament chips]
+DarthVader1967 is returned 2138 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for DarthVader1967 (Th Kd Tc 9s Kc: two pair, kings and tens)
+DarthVader1967 wins main pot 180 Tournament chips.
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2802 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2319 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (5552 Tournament chips) 
+Game #23980244-23 ends
+Game #23980244-24 starts
+Seat 0: Dweg209 (1400 Tournament chips) 
+Seat 1: Ronl3559 (2802 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2319 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (5552 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+Dweg209 posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1300 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 2802 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1910 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2319 Tournament chips.
+zorro55, at seat 4, is in this hand with 2192 Tournament chips.
+ldomin, at seat 7, is in this hand with 325 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5502 Tournament chips.
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Qs 8s ]
+Ronl3559 calls [100 Tournament chips]
+Razmazter: somebody dropped the ball
+Razmazter folds [100 Tournament chips]
+DarthVader1967 folds [100 Tournament chips]
+zorro55 folds [100 Tournament chips]
+ldomin folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Dweg209 folds
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Ah ] board:[ 5s Ah]
+** Dealing Flop ** [ As ] board:[ 5s Ah As]
+QwertySpark bets for 150 Tournament chips
+Ronl3559 raises [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 5s Ah As Ad]
+QwertySpark bets for 450 Tournament chips
+Ronl3559 raises [900 Tournament chips]
+QwertySpark calls [450 Tournament chips]
+Round 3 is over.
+Razmazter: im gonna pick it up and have a look
+** Dealing River ** [ 6c ] board:[ 5s Ah As Ad 6c]
+DarthVader1967: that was a fummmmmmmmmm bbbbbbbbble
+Razmazter: lol
+QwertySpark bets for 1350 Tournament chips
+DarthVader1967: lol
+Ronl3559 raises all-in [1502 Tournament chips]
+QwertySpark calls [152 Tournament chips]
+Tournament all-in showdown -- players show:
+Ronl3559 shows [ 5c Kc ]
+QwertySpark shows [ Qs 8s ]
+Round 4 is over.
+Ronl3559 shows [ 5c Kc ] full house, aces full of fives
+QwertySpark shows [ Qs 8s ] three aces, queen/eight kickers
+Ronl3559 wins main pot 5704 Tournament chips with full house, aces full of fives.
+Seat 0: Dweg209 (1300 Tournament chips) 
+Seat 1: Ronl3559 (5704 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2319 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (2750 Tournament chips) 
+Game #23980244-24 ends
+Game #23980244-25 starts
+Seat 0: Dweg209 (1300 Tournament chips) 
+Seat 1: Ronl3559 (5704 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2319 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (2750 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Dweg209 posts the small blind [50 Tournament chips]
+Ronl3559 posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1250 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 5604 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1910 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2319 Tournament chips.
+zorro55, at seat 4, is in this hand with 2192 Tournament chips.
+ldomin, at seat 7, is in this hand with 325 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2750 Tournament chips.
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Ah Ks ]
+Razmazter folds [100 Tournament chips]
+DarthVader1967 calls [100 Tournament chips]
+zorro55 folds [100 Tournament chips]
+ldomin folds [100 Tournament chips]
+QwertySpark raises [500 Tournament chips]
+Dweg209 folds [450 Tournament chips]
+Ronl3559 folds [400 Tournament chips]
+DarthVader1967 calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 6c ] board:[ Tc 6c]
+** Dealing Flop ** [ 8h ] board:[ Tc 6c 8h]
+DarthVader1967 goes all-in for 1819 Tournament chips
+QwertySpark folds [1819 Tournament chips]
+DarthVader1967 is returned 1819 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for DarthVader1967 (Ts Qs Tc 6c 8h: a pair of tens)
+DarthVader1967 wins main pot 1150 Tournament chips.
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5604 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2969 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (2250 Tournament chips) 
+Game #23980244-25 ends
+Game #23980244-26 starts
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5604 Tournament chips) 
+Seat 2: Razmazter (1910 Tournament chips) 
+Seat 3: DarthVader1967 (2969 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (325 Tournament chips) 
+Seat 8: QwertySpark (2250 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Ronl3559 posts the small blind [50 Tournament chips]
+Razmazter posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1250 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 5554 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1810 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2969 Tournament chips.
+zorro55, at seat 4, is in this hand with 2192 Tournament chips.
+ldomin, at seat 7, is in this hand with 325 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2250 Tournament chips.
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 4s 5h ]
+DarthVader1967 folds [100 Tournament chips]
+zorro55 folds [100 Tournament chips]
+ldomin calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Dweg209 folds [100 Tournament chips]
+Ronl3559 calls [50 Tournament chips]
+Razmazter checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Kh ] board:[ Jc Kh]
+** Dealing Flop ** [ 3s ] board:[ Jc Kh 3s]
+Ronl3559 checks
+Razmazter checks
+ldomin checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Jc Kh 3s 9h]
+Ronl3559 checks
+Razmazter bets for 100 Tournament chips
+ldomin calls [100 Tournament chips]
+Ronl3559 folds [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Jc Kh 3s 9h Ac]
+Razmazter checks
+ldomin goes all-in for 125 Tournament chips
+Razmazter calls [125 Tournament chips]
+Tournament all-in showdown -- players show:
+Razmazter shows [ 6c Jd ]
+ldomin shows [ As Jh ]
+Round 4 is over.
+Razmazter shows [ 6c Jd ] a pair of jacks, ace/king kickers
+ldomin shows [ As Jh ] two pair, aces and jacks, king kicker
+ldomin wins main pot 750 Tournament chips with two pair, aces and jacks, king kicker.
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (1585 Tournament chips) 
+Seat 3: DarthVader1967 (2969 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (2250 Tournament chips) 
+Game #23980244-26 ends
+Game #23980244-27 starts
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (1585 Tournament chips) 
+Seat 3: DarthVader1967 (2969 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (2250 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Razmazter posts the small blind [50 Tournament chips]
+DarthVader1967 posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1250 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 5504 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1535 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2869 Tournament chips.
+zorro55, at seat 4, is in this hand with 2192 Tournament chips.
+ldomin, at seat 7, is in this hand with 750 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2250 Tournament chips.
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ 6c As ]
+Razmazter: wheee
+zorro55 folds [100 Tournament chips]
+ldomin folds [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Dweg209 folds [100 Tournament chips]
+Ronl3559 folds [100 Tournament chips]
+Razmazter calls [50 Tournament chips]
+DarthVader1967 checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Kh ] board:[ Qc Kh]
+** Dealing Flop ** [ 2h ] board:[ Qc Kh 2h]
+Razmazter checks
+DarthVader1967 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Qc Kh 2h Ac]
+Razmazter goes all-in for 1485 Tournament chips
+DarthVader1967 folds [1485 Tournament chips]
+QwertySpark calls [1485 Tournament chips]
+Tournament all-in showdown -- players show:
+Razmazter shows [ 2d Ks ]
+QwertySpark shows [ 6c As ]
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Qc Kh 2h Ac 4h]
+        (no action in this round)
+Round 4 is over.
+Razmazter shows [ 2d Ks ] two pair, kings and deuces, ace kicker
+QwertySpark shows [ 6c As ] a pair of aces, king/queen kickers
+Razmazter wins main pot 3270 Tournament chips with two pair, kings and deuces, ace kicker.
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (3270 Tournament chips) 
+Seat 3: DarthVader1967 (2869 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (665 Tournament chips) 
+Game #23980244-27 ends
+DarthVader1967: pmsl
+Game #23980244-28 starts
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (3270 Tournament chips) 
+Seat 3: DarthVader1967 (2869 Tournament chips) 
+Seat 4: zorro55 (2192 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (665 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+DarthVader1967 posts the small blind [50 Tournament chips]
+zorro55 posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1250 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 5504 Tournament chips.
+Razmazter, at seat 2, is in this hand with 3270 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2819 Tournament chips.
+zorro55, at seat 4, is in this hand with 2092 Tournament chips.
+ldomin, at seat 7, is in this hand with 750 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 665 Tournament chips.
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ Jh Ad ]
+ldomin folds [100 Tournament chips]
+QwertySpark raises all-in [665 Tournament chips]
+Dweg209 folds [665 Tournament chips]
+Ronl3559 folds [665 Tournament chips]
+Razmazter folds [665 Tournament chips]
+DarthVader1967 folds [615 Tournament chips]
+zorro55 folds [565 Tournament chips]
+QwertySpark is returned 565 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jh Ad: ace high)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (3270 Tournament chips) 
+Seat 3: DarthVader1967 (2819 Tournament chips) 
+Seat 4: zorro55 (2092 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (815 Tournament chips) 
+Game #23980244-28 ends
+Game #23980244-29 starts
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (5504 Tournament chips) 
+Seat 2: Razmazter (3270 Tournament chips) 
+Seat 3: DarthVader1967 (2819 Tournament chips) 
+Seat 4: zorro55 (2092 Tournament chips) 
+Seat 7: ldomin (750 Tournament chips) 
+Seat 8: QwertySpark (815 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+zorro55 posts the small blind [50 Tournament chips]
+ldomin posts the big blind [100 Tournament chips]
+Dweg209, at seat 0, is in this hand (absent) with 1250 Tournament chips.
+Ronl3559, at seat 1, is in this hand with 5504 Tournament chips.
+Razmazter, at seat 2, is in this hand with 3270 Tournament chips.
+DarthVader1967, at seat 3, is in this hand with 2819 Tournament chips.
+zorro55, at seat 4, is in this hand with 2042 Tournament chips.
+ldomin, at seat 7, is in this hand with 650 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 815 Tournament chips.
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+zorro55 is dealt: **
+ldomin is dealt: **
+
+Dweg209 is dealt: **
+Ronl3559 is dealt: **
+Razmazter is dealt: **
+DarthVader1967 is dealt: **
+Dealt to Dweg209 [ **** ]
+Dealt to Ronl3559 [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to DarthVader1967 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to ldomin [ **** ]
+Dealt to QwertySpark [ As Tc ]
+QwertySpark raises all-in [815 Tournament chips]
+Dweg209 folds [815 Tournament chips]
+Ronl3559 calls [815 Tournament chips]
+Razmazter folds [815 Tournament chips]
+DarthVader1967 folds [815 Tournament chips]
+zorro55 folds [765 Tournament chips]
+ldomin calls all-in [650 Tournament chips]
+Tournament all-in showdown -- players show:
+Ronl3559 shows [ Ks Ad ]
+ldomin shows [ Kc 8c ]
+QwertySpark shows [ As Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 5d ] board:[ 7d 5d]
+** Dealing Flop ** [ 3s ] board:[ 7d 5d 3s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 7d 5d 3s 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 7d 5d 3s 5c 4s]
+        (no action in this round)
+Round 4 is over.
+Ronl3559 shows [ Ks Ad ] a pair of fives, ace/king kickers
+ldomin shows [ Kc 8c ] a pair of fives, king/eight kickers
+QwertySpark shows [ As Tc ] a pair of fives, ace/ten kickers
+Ronl3559 wins main pot 2300 Tournament chips with a pair of fives, ace/king kickers.
+Ronl3559 wins side pot #1 130 Tournament chips with a pair of fives, ace/king kickers.
+Seat 0: Dweg209 (1250 Tournament chips) 
+Seat 1: Ronl3559 (7119 Tournament chips) 
+Seat 2: Razmazter (3270 Tournament chips) 
+Seat 3: DarthVader1967 (2819 Tournament chips) 
+Seat 4: zorro55 (2042 Tournament chips) 
+Seat 7: ldomin (0 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #23980244-29 ends
+Player ldomin leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips
+Player zorro55 leaves the table with 2042 Tournament chips
+Player DarthVader1967 leaves the table with 2819 Tournament chips
+Player Dweg209 leaves the table with 1250 Tournament chips
+Player Razmazter leaves the table with 3270 Tournament chips

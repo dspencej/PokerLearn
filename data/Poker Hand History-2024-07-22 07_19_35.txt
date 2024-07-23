@@ -1,0 +1,1943 @@
+Game#: 23943862
+rudydog1 bets for 35 Tournament chips
+Lightning Hil calls [35 Tournament chips]
+Dhenderson folds [35 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 8h 9d Jc 3s]
+rudydog1 bets for 52 Tournament chips
+Lightning Hil folds [52 Tournament chips]
+rudydog1 is returned 52 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for rudydog1 (Js 8h 9d Jc 3s: a pair of jacks)
+rudydog1 wins main pot 105 Tournament chips.
+Seat 0: rudydog1 (2060 Tournament chips) 
+Seat 1: CaptainKlean (2000 Tournament chips) 
+Seat 2: DBMAN56 (2000 Tournament chips) 
+Seat 3: EZ69 (2000 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1990 Tournament chips) 
+Seat 7: UFGator483 (2000 Tournament chips) 
+Seat 8: MTGambler (1995 Tournament chips) 
+Game #23943862-1 ends
+Game #23943862-2 starts
+Seat 0: rudydog1 (2060 Tournament chips) 
+Seat 1: CaptainKlean (2000 Tournament chips) 
+Seat 2: DBMAN56 (2000 Tournament chips) 
+Seat 3: EZ69 (2000 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1990 Tournament chips) 
+Seat 7: UFGator483 (2000 Tournament chips) 
+Seat 8: MTGambler (1995 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rudydog1 posts the small blind [5 Tournament chips]
+CaptainKlean posts the big blind [10 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2055 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1990 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2000 Tournament chips.
+EZ69, at seat 3, is in this hand with 2000 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2000 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1955 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1990 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2000 Tournament chips.
+MTGambler, at seat 8, is in this hand with 1995 Tournament chips.
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 4d 9s ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+DBMAN56 folds [10 Tournament chips]
+EZ69 calls [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Lightning Hil folds [10 Tournament chips]
+Dhenderson calls [10 Tournament chips]
+UFGator483 folds [10 Tournament chips]
+MTGambler calls [10 Tournament chips]
+rudydog1 calls [5 Tournament chips]
+CaptainKlean checks
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 9h ] board:[ 6c 9h]
+** Dealing Flop ** [ 2d ] board:[ 6c 9h 2d]
+rudydog1 checks
+CaptainKlean checks
+EZ69 checks
+Dhenderson checks
+MTGambler checks
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 6c 9h 2d 9c]
+rudydog1 bets for 10 Tournament chips
+CaptainKlean folds [10 Tournament chips]
+EZ69 folds [10 Tournament chips]
+Dhenderson folds [10 Tournament chips]
+MTGambler calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 6c 9h 2d 9c 2c]
+rudydog1 checks
+MTGambler checks
+Round 4 is over.
+rudydog1 shows [ 8s As ] two pair, nines and deuces
+Hand evaluation for rudydog1 (As 9h 2d 9c 2c: two pair, nines and deuces)
+MTGambler shows [ 8h 8c ] two pair, nines and eights
+Hand evaluation for MTGambler (8h 8c 6c 9h 9c: two pair, nines and eights)
+MTGambler wins main pot 70 Tournament chips with two pair, nines and eights, six kicker.
+Seat 0: rudydog1 (2040 Tournament chips) 
+Seat 1: CaptainKlean (1990 Tournament chips) 
+Seat 2: DBMAN56 (2000 Tournament chips) 
+Seat 3: EZ69 (1990 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2000 Tournament chips) 
+Seat 8: MTGambler (2045 Tournament chips) 
+Game #23943862-2 ends
+Game #23943862-3 starts
+Seat 0: rudydog1 (2040 Tournament chips) 
+Seat 1: CaptainKlean (1990 Tournament chips) 
+Seat 2: DBMAN56 (2000 Tournament chips) 
+Seat 3: EZ69 (1990 Tournament chips) 
+Seat 4: QwertySpark (2000 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2000 Tournament chips) 
+Seat 8: MTGambler (2045 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+CaptainKlean posts the small blind [5 Tournament chips]
+DBMAN56 posts the big blind [10 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2040 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1985 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1990 Tournament chips.
+EZ69, at seat 3, is in this hand with 1990 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2000 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1955 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1980 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2000 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2045 Tournament chips.
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Kc Qd ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+EZ69 calls [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+Lightning Hil folds [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+UFGator483 calls [40 Tournament chips]
+MTGambler folds [40 Tournament chips]
+rudydog1 folds [40 Tournament chips]
+CaptainKlean folds [35 Tournament chips]
+DBMAN56 folds [30 Tournament chips]
+EZ69 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2d ] board:[ 4h 2d]
+** Dealing Flop ** [ 9h ] board:[ 4h 2d 9h]
+EZ69 checks
+QwertySpark checks
+UFGator483 bets for 77 Tournament chips
+EZ69 folds [77 Tournament chips]
+QwertySpark calls [77 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 4h 2d 9h 8s]
+QwertySpark checks
+UFGator483 bets for 289 Tournament chips
+QwertySpark folds [289 Tournament chips]
+UFGator483 is returned 289 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for UFGator483 (Ks 9s 4h 9h 8s: a pair of nines)
+UFGator483 wins main pot 289 Tournament chips.
+Seat 0: rudydog1 (2040 Tournament chips) 
+Seat 1: CaptainKlean (1985 Tournament chips) 
+Seat 2: DBMAN56 (1990 Tournament chips) 
+Seat 3: EZ69 (1950 Tournament chips) 
+Seat 4: QwertySpark (1883 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2172 Tournament chips) 
+Seat 8: MTGambler (2045 Tournament chips) 
+Game #23943862-3 ends
+Game #23943862-4 starts
+Seat 0: rudydog1 (2040 Tournament chips) 
+Seat 1: CaptainKlean (1985 Tournament chips) 
+Seat 2: DBMAN56 (1990 Tournament chips) 
+Seat 3: EZ69 (1950 Tournament chips) 
+Seat 4: QwertySpark (1883 Tournament chips) 
+Seat 5: Lightning Hil (1955 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2172 Tournament chips) 
+Seat 8: MTGambler (2045 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+DBMAN56 posts the small blind [5 Tournament chips]
+EZ69 posts the big blind [10 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2040 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1985 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1985 Tournament chips.
+EZ69, at seat 3, is in this hand with 1940 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1883 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1955 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1980 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2172 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2045 Tournament chips.
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 4d 7c ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+QwertySpark folds [10 Tournament chips]
+Lightning Hil calls [10 Tournament chips]
+Dhenderson folds [10 Tournament chips]
+UFGator483 calls [10 Tournament chips]
+MTGambler calls [10 Tournament chips]
+rudydog1 calls [10 Tournament chips]
+CaptainKlean folds [10 Tournament chips]
+DBMAN56 calls [5 Tournament chips]
+EZ69 checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 9h ] board:[ 2h 9h]
+** Dealing Flop ** [ 8h ] board:[ 2h 9h 8h]
+DBMAN56 checks
+EZ69 checks
+Lightning Hil checks
+UFGator483 checks
+MTGambler checks
+rudydog1 bets for 10 Tournament chips
+DBMAN56 folds [10 Tournament chips]
+EZ69 folds [10 Tournament chips]
+Lightning Hil folds [10 Tournament chips]
+UFGator483 folds [10 Tournament chips]
+MTGambler folds [10 Tournament chips]
+rudydog1 is returned 10 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rudydog1 (Kh As 2h 9h 8h: ace high)
+rudydog1 wins main pot 60 Tournament chips.
+(EZ69 has entered the table, is no longer absent.)
+Seat 0: rudydog1 (2090 Tournament chips) 
+Seat 1: CaptainKlean (1985 Tournament chips) 
+Seat 2: DBMAN56 (1980 Tournament chips) 
+Seat 3: EZ69 (1940 Tournament chips) 
+Seat 4: QwertySpark (1883 Tournament chips) 
+Seat 5: Lightning Hil (1945 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2162 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+Game #23943862-4 ends
+Game #23943862-5 starts
+Seat 0: rudydog1 (2090 Tournament chips) 
+Seat 1: CaptainKlean (1985 Tournament chips) 
+Seat 2: DBMAN56 (1980 Tournament chips) 
+Seat 3: EZ69 (1940 Tournament chips) 
+Seat 4: QwertySpark (1883 Tournament chips) 
+Seat 5: Lightning Hil (1945 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2162 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+EZ69 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2090 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1985 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1980 Tournament chips.
+EZ69, at seat 3, is in this hand with 1935 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1873 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1945 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1980 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2162 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2035 Tournament chips.
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 2s 6d ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+Lightning Hil calls [10 Tournament chips]
+Dhenderson folds [10 Tournament chips]
+UFGator483 raises [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+rudydog1 calls [30 Tournament chips]
+CaptainKlean calls [30 Tournament chips]
+DBMAN56 calls [30 Tournament chips]
+EZ69 calls [25 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 2c ] board:[ 3c 2c]
+** Dealing Flop ** [ 7h ] board:[ 3c 2c 7h]
+EZ69 checks
+Lightning Hil bets for 20 Tournament chips
+UFGator483 calls [20 Tournament chips]
+rudydog1 calls [20 Tournament chips]
+CaptainKlean calls [20 Tournament chips]
+DBMAN56 folds [20 Tournament chips]
+EZ69 folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 3c 2c 7h Td]
+Lightning Hil bets for 10 Tournament chips
+UFGator483 calls [10 Tournament chips]
+rudydog1 calls [10 Tournament chips]
+CaptainKlean calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 3c 2c 7h Td Ks]
+Lightning Hil bets for 10 Tournament chips
+UFGator483 raises [370 Tournament chips]
+rudydog1 folds [370 Tournament chips]
+CaptainKlean folds [370 Tournament chips]
+Lightning Hil folds [360 Tournament chips]
+UFGator483 is returned 360 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for UFGator483 (Kd Ad 7h Td Ks: a pair of kings)
+UFGator483 wins main pot 330 Tournament chips.
+Seat 0: rudydog1 (2030 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (1950 Tournament chips) 
+Seat 3: EZ69 (1910 Tournament chips) 
+Seat 4: QwertySpark (1873 Tournament chips) 
+Seat 5: Lightning Hil (1875 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+Game #23943862-5 ends
+Game #23943862-6 starts
+Seat 0: rudydog1 (2030 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (1950 Tournament chips) 
+Seat 3: EZ69 (1910 Tournament chips) 
+Seat 4: QwertySpark (1873 Tournament chips) 
+Seat 5: Lightning Hil (1875 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [5 Tournament chips]
+Lightning Hil posts the big blind [10 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2030 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1925 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1950 Tournament chips.
+EZ69, at seat 3, is in this hand with 1910 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1868 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1865 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1980 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2422 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2035 Tournament chips.
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Jh 2h ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+Dhenderson folds [10 Tournament chips]
+UFGator483 folds [10 Tournament chips]
+MTGambler folds [10 Tournament chips]
+rudydog1 calls [10 Tournament chips]
+CaptainKlean folds [10 Tournament chips]
+DBMAN56 folds [10 Tournament chips]
+EZ69 calls [10 Tournament chips]
+QwertySpark calls [5 Tournament chips]
+Lightning Hil checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 4d ] board:[ Th 4d]
+** Dealing Flop ** [ 9d ] board:[ Th 4d 9d]
+QwertySpark checks
+Lightning Hil checks
+rudydog1 bets for 10 Tournament chips
+EZ69 calls [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Lightning Hil calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Th 4d 9d 3h]
+QwertySpark bets for 40 Tournament chips
+Lightning Hil folds [40 Tournament chips]
+rudydog1 calls [40 Tournament chips]
+EZ69 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Th 4d 9d 3h 9s]
+QwertySpark bets for 120 Tournament chips
+rudydog1 calls [120 Tournament chips]
+EZ69 folds [120 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Jh 2h ] a pair of nines
+Hand evaluation for QwertySpark (Jh Th 4d 9d 9s: a pair of nines)
+rudydog1 shows [ Kc Ts ] two pair, tens and nines
+Hand evaluation for rudydog1 (Kc Ts Th 9d 9s: two pair, tens and nines)
+rudydog1 wins main pot 440 Tournament chips with two pair, tens and nines, king kicker.
+Seat 0: rudydog1 (2290 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (1950 Tournament chips) 
+Seat 3: EZ69 (1850 Tournament chips) 
+Seat 4: QwertySpark (1693 Tournament chips) 
+Seat 5: Lightning Hil (1855 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+Game #23943862-6 ends
+Game #23943862-7 starts
+Seat 0: rudydog1 (2290 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (1950 Tournament chips) 
+Seat 3: EZ69 (1850 Tournament chips) 
+Seat 4: QwertySpark (1693 Tournament chips) 
+Seat 5: Lightning Hil (1855 Tournament chips) 
+Seat 6: Dhenderson (1980 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Lightning Hil posts the small blind [10 Tournament chips]
+Dhenderson posts the big blind [20 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2290 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1925 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1950 Tournament chips.
+EZ69, at seat 3, is in this hand with 1850 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1693 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1845 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1960 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2422 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2035 Tournament chips.
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 9s 4d ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+UFGator483 folds [20 Tournament chips]
+MTGambler folds [20 Tournament chips]
+rudydog1 calls [20 Tournament chips]
+CaptainKlean folds [20 Tournament chips]
+DBMAN56 calls [20 Tournament chips]
+EZ69 calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Lightning Hil calls [10 Tournament chips]
+Dhenderson checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 2h ] board:[ 6s 2h]
+** Dealing Flop ** [ 5s ] board:[ 6s 2h 5s]
+Lightning Hil checks
+Dhenderson checks
+rudydog1 bets for 20 Tournament chips
+DBMAN56 calls [20 Tournament chips]
+EZ69 calls [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Dhenderson folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 6s 2h 5s 4s]
+Lightning Hil checks
+rudydog1 checks
+DBMAN56 checks
+EZ69 checks
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 6s 2h 5s 4s Ts]
+Lightning Hil checks
+rudydog1 checks
+DBMAN56 checks
+EZ69 checks
+Round 4 is over.
+Lightning Hil shows [ Ad 7c ] ace high
+Hand evaluation for Lightning Hil (Ad 7c 6s 5s Ts: ace high)
+rudydog1 shows [ 6d Th ] two pair, tens and sixes
+Hand evaluation for rudydog1 (6d Th 6s 5s Ts: two pair, tens and sixes)
+DBMAN56 shows [ Ac 2s ] flush, ten high
+Hand evaluation for DBMAN56 (2s 6s 5s 4s Ts: flush, ten high)
+EZ69 doesn't show [ Kh 8h ]
+(EZ69 has Kh 8h.)
+DBMAN56 wins main pot 180 Tournament chips with flush, ten/six/five high.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1810 Tournament chips) 
+Seat 4: QwertySpark (1693 Tournament chips) 
+Seat 5: Lightning Hil (1815 Tournament chips) 
+Seat 6: Dhenderson (1960 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+Game #23943862-7 ends
+Game #23943862-8 starts
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1810 Tournament chips) 
+Seat 4: QwertySpark (1693 Tournament chips) 
+Seat 5: Lightning Hil (1815 Tournament chips) 
+Seat 6: Dhenderson (1960 Tournament chips) 
+Seat 7: UFGator483 (2422 Tournament chips) 
+Seat 8: MTGambler (2035 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Dhenderson posts the small blind [10 Tournament chips]
+UFGator483 posts the big blind [20 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1925 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2090 Tournament chips.
+EZ69, at seat 3, is in this hand with 1810 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1693 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1815 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1950 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2402 Tournament chips.
+MTGambler, at seat 8, is in this hand with 2035 Tournament chips.
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Qs 8d ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+MTGambler calls [20 Tournament chips]
+rudydog1 calls [20 Tournament chips]
+CaptainKlean folds [20 Tournament chips]
+DBMAN56 folds [20 Tournament chips]
+EZ69 calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Dhenderson calls [10 Tournament chips]
+UFGator483 checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Jd ] board:[ Kh Jd]
+** Dealing Flop ** [ 5c ] board:[ Kh Jd 5c]
+Dhenderson checks
+UFGator483 checks
+MTGambler checks
+rudydog1 checks
+EZ69 checks
+QwertySpark checks
+Lightning Hil checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Kh Jd 5c 2c]
+Dhenderson checks
+UFGator483 checks
+MTGambler checks
+rudydog1 checks
+EZ69 bets for 40 Tournament chips
+QwertySpark folds [40 Tournament chips]
+Lightning Hil folds [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+UFGator483 folds [40 Tournament chips]
+MTGambler folds [40 Tournament chips]
+rudydog1 folds [40 Tournament chips]
+EZ69 is returned 40 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for EZ69 (Kc Ac Kh Jd 5c: a pair of kings)
+EZ69 wins main pot 140 Tournament chips.
+Seat 0: rudydog1 (2230 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1930 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1795 Tournament chips) 
+Seat 6: Dhenderson (1940 Tournament chips) 
+Seat 7: UFGator483 (2402 Tournament chips) 
+Seat 8: MTGambler (2015 Tournament chips) 
+Game #23943862-8 ends
+Game #23943862-9 starts
+Seat 0: rudydog1 (2230 Tournament chips) 
+Seat 1: CaptainKlean (1925 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1930 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1795 Tournament chips) 
+Seat 6: Dhenderson (1940 Tournament chips) 
+Seat 7: UFGator483 (2402 Tournament chips) 
+Seat 8: MTGambler (2015 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+UFGator483 posts the small blind [10 Tournament chips]
+MTGambler posts the big blind [20 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2230 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1925 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2090 Tournament chips.
+EZ69, at seat 3, is in this hand with 1930 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1673 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1795 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1940 Tournament chips.
+UFGator483, at seat 7, is in this hand with 2392 Tournament chips.
+MTGambler, at seat 8, is in this hand with 1995 Tournament chips.
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 4s 9h ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+rudydog1 calls [20 Tournament chips]
+CaptainKlean calls [20 Tournament chips]
+DBMAN56 folds [20 Tournament chips]
+EZ69 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Dhenderson calls [20 Tournament chips]
+UFGator483 calls [10 Tournament chips]
+MTGambler raises [20 Tournament chips]
+rudydog1 folds [20 Tournament chips]
+CaptainKlean calls [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Dhenderson calls [20 Tournament chips]
+UFGator483 re-raises [260 Tournament chips]
+MTGambler re-raises [480 Tournament chips]
+CaptainKlean folds [480 Tournament chips]
+Lightning Hil folds [480 Tournament chips]
+Dhenderson folds [480 Tournament chips]
+UFGator483 calls [240 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 7d ] board:[ 6h 7d]
+** Dealing Flop ** [ Qh ] board:[ 6h 7d Qh]
+UFGator483 checks
+MTGambler checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 6h 7d Qh 5h]
+UFGator483 bets for 1180 Tournament chips
+MTGambler raises all-in [1495 Tournament chips]
+UFGator483 calls [315 Tournament chips]
+Tournament all-in showdown -- players show:
+UFGator483 shows [ 2c Ah ]
+MTGambler shows [ Kh Ks ]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 6h 7d Qh 5h 9c]
+        (no action in this round)
+Round 4 is over.
+UFGator483 shows [ 2c Ah ] ace/queen/nine high
+MTGambler shows [ Kh Ks ] a pair of kings, queen/nine kickers
+MTGambler wins main pot 4170 Tournament chips with a pair of kings, queen/nine kickers.
+Seat 0: rudydog1 (2210 Tournament chips) 
+Seat 1: CaptainKlean (1885 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1930 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1755 Tournament chips) 
+Seat 6: Dhenderson (1900 Tournament chips) 
+Seat 7: UFGator483 (387 Tournament chips) 
+Seat 8: MTGambler (4170 Tournament chips) 
+Game #23943862-9 ends
+Game #23943862-10 starts
+Seat 0: rudydog1 (2210 Tournament chips) 
+Seat 1: CaptainKlean (1885 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (1930 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1755 Tournament chips) 
+Seat 6: Dhenderson (1900 Tournament chips) 
+Seat 7: UFGator483 (387 Tournament chips) 
+Seat 8: MTGambler (4170 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+MTGambler posts the small blind [10 Tournament chips]
+rudydog1 posts the big blind [20 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2190 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1885 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2090 Tournament chips.
+EZ69, at seat 3, is in this hand with 1930 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1673 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1755 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1900 Tournament chips.
+UFGator483, at seat 7, is in this hand with 387 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4160 Tournament chips.
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+UFGator483 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Th 4h ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to UFGator483 [ **** ]
+Dealt to MTGambler [ **** ]
+CaptainKlean folds [20 Tournament chips]
+DBMAN56 folds [20 Tournament chips]
+EZ69 calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Lightning Hil calls [20 Tournament chips]
+Dhenderson folds [20 Tournament chips]
+UFGator483 raises all-in [387 Tournament chips]
+MTGambler folds [377 Tournament chips]
+rudydog1 folds [367 Tournament chips]
+EZ69 calls [367 Tournament chips]
+Lightning Hil folds [367 Tournament chips]
+Tournament all-in showdown -- players show:
+EZ69 shows [ 5d Ac ]
+UFGator483 shows [ 2c Jc ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 8s ] board:[ 7s 8s]
+** Dealing Flop ** [ Ah ] board:[ 7s 8s Ah]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 7s 8s Ah 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 7s 8s Ah 6s 2d]
+        (no action in this round)
+Round 4 is over.
+EZ69 shows [ 5d Ac ] a pair of aces, eight/seven kickers
+UFGator483 shows [ 2c Jc ] a pair of deuces, ace/jack kickers
+EZ69 wins main pot 824 Tournament chips with a pair of aces, eight/seven kickers.
+Seat 0: rudydog1 (2190 Tournament chips) 
+Seat 1: CaptainKlean (1885 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1735 Tournament chips) 
+Seat 6: Dhenderson (1900 Tournament chips) 
+Seat 7: UFGator483 (0 Tournament chips) 
+Seat 8: MTGambler (4160 Tournament chips) 
+Game #23943862-10 ends
+Player UFGator483 leaves the table with 0 Tournament chips
+Game #23943862-11 starts
+Seat 0: rudydog1 (2190 Tournament chips) 
+Seat 1: CaptainKlean (1885 Tournament chips) 
+Seat 2: DBMAN56 (2090 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1735 Tournament chips) 
+Seat 6: Dhenderson (1900 Tournament chips) 
+Seat 8: MTGambler (4160 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+rudydog1 posts the small blind [15 Tournament chips]
+CaptainKlean posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2175 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1855 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2090 Tournament chips.
+EZ69, at seat 3, is in this hand with 2367 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1673 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1735 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1900 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4160 Tournament chips.
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Ks 6s ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+DBMAN56 calls [30 Tournament chips]
+EZ69 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Lightning Hil calls [30 Tournament chips]
+Dhenderson calls [30 Tournament chips]
+MTGambler calls [30 Tournament chips]
+rudydog1 calls [15 Tournament chips]
+CaptainKlean checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 5c ] board:[ 2c 5c]
+** Dealing Flop ** [ 7c ] board:[ 2c 5c 7c]
+rudydog1 checks
+CaptainKlean checks
+DBMAN56 checks
+Lightning Hil checks
+Dhenderson checks
+MTGambler checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 2c 5c 7c Jc]
+rudydog1 bets for 30 Tournament chips
+CaptainKlean folds [30 Tournament chips]
+DBMAN56 folds [30 Tournament chips]
+Lightning Hil folds [30 Tournament chips]
+Dhenderson calls [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 2c 5c 7c Jc 3d]
+rudydog1 bets for 30 Tournament chips
+Dhenderson calls [30 Tournament chips]
+Round 4 is over.
+rudydog1 shows [ Td Qc ] flush, queen high
+Hand evaluation for rudydog1 (Qc 2c 5c 7c Jc: flush, queen high)
+Dhenderson doesn't show [ 8c Qd ]
+(Dhenderson has 8c Qd.)
+rudydog1 wins main pot 300 Tournament chips with flush, queen/jack/seven high.
+Seat 0: rudydog1 (2400 Tournament chips) 
+Seat 1: CaptainKlean (1855 Tournament chips) 
+Seat 2: DBMAN56 (2060 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1705 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+Game #23943862-11 ends
+Game #23943862-12 starts
+Seat 0: rudydog1 (2400 Tournament chips) 
+Seat 1: CaptainKlean (1855 Tournament chips) 
+Seat 2: DBMAN56 (2060 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1705 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+CaptainKlean posts the small blind [15 Tournament chips]
+DBMAN56 posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2400 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1840 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2030 Tournament chips.
+EZ69, at seat 3, is in this hand with 2367 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1673 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1705 Tournament chips.
+Dhenderson, at seat 6, is in this hand with 1810 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4130 Tournament chips.
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 3h 9d ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+EZ69 calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Lightning Hil calls [30 Tournament chips]
+Dhenderson folds [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+rudydog1 calls [30 Tournament chips]
+CaptainKlean folds [15 Tournament chips]
+DBMAN56 raises [135 Tournament chips]
+EZ69 folds [135 Tournament chips]
+Lightning Hil folds [135 Tournament chips]
+rudydog1 folds [135 Tournament chips]
+DBMAN56 is returned 135 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for DBMAN56 (Ac Ah: a pair of aces)
+DBMAN56 wins main pot 135 Tournament chips.
+Seat 0: rudydog1 (2370 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2165 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1675 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+Game #23943862-12 ends
+Game #23943862-13 starts
+Seat 0: rudydog1 (2370 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2165 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1675 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+DBMAN56 posts the small blind [15 Tournament chips]
+EZ69 posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2370 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1840 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2150 Tournament chips.
+EZ69, at seat 3, is in this hand with 2307 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1673 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1675 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1810 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4130 Tournament chips.
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 8d Qs ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+QwertySpark folds [30 Tournament chips]
+Lightning Hil folds [30 Tournament chips]
+Dhenderson folds [30 Tournament chips]
+MTGambler calls [30 Tournament chips]
+rudydog1 calls [30 Tournament chips]
+CaptainKlean folds [30 Tournament chips]
+DBMAN56 calls [15 Tournament chips]
+EZ69 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Qd ] board:[ 9h Qd]
+** Dealing Flop ** [ Jc ] board:[ 9h Qd Jc]
+DBMAN56 checks
+EZ69 checks
+MTGambler checks
+rudydog1 checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 9h Qd Jc Ts]
+DBMAN56 checks
+EZ69 checks
+MTGambler checks
+rudydog1 checks
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 9h Qd Jc Ts Ks]
+DBMAN56 checks
+EZ69 checks
+MTGambler bets for 120 Tournament chips
+rudydog1 folds [120 Tournament chips]
+DBMAN56 folds [120 Tournament chips]
+EZ69 calls [120 Tournament chips]
+Round 4 is over.
+MTGambler shows [ 9c Js ] straight, king high
+Hand evaluation for MTGambler (9c Js Qd Ts Ks: straight, king high)
+EZ69 shows [ 4s 5d ] straight, king high
+Hand evaluation for EZ69 (9h Qd Jc Ts Ks: straight, king high)
+EZ69 wins main pot 180 Tournament chips of a 360 Tournament chips pot with straight, king high.
+MTGambler wins main pot 180 Tournament chips of a 360 Tournament chips pot with straight, king high.
+Seat 0: rudydog1 (2340 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2135 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1675 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4160 Tournament chips) 
+Game #23943862-13 ends
+Game #23943862-14 starts
+Seat 0: rudydog1 (2340 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2135 Tournament chips) 
+Seat 3: EZ69 (2367 Tournament chips) 
+Seat 4: QwertySpark (1673 Tournament chips) 
+Seat 5: Lightning Hil (1675 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4160 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+EZ69 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2340 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1840 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2135 Tournament chips.
+EZ69, at seat 3, is in this hand with 2352 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1643 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 1675 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1810 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4160 Tournament chips.
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Kh 3c ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+Lightning Hil calls [30 Tournament chips]
+Dhenderson folds [30 Tournament chips]
+MTGambler calls [30 Tournament chips]
+rudydog1 calls [30 Tournament chips]
+CaptainKlean folds [30 Tournament chips]
+DBMAN56 calls [30 Tournament chips]
+EZ69 calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 3s ] board:[ Jh 3s]
+** Dealing Flop ** [ 4c ] board:[ Jh 3s 4c]
+EZ69 checks
+QwertySpark checks
+Lightning Hil checks
+MTGambler checks
+rudydog1 checks
+DBMAN56 bets for 180 Tournament chips
+EZ69 folds [180 Tournament chips]
+QwertySpark calls [180 Tournament chips]
+Lightning Hil calls [180 Tournament chips]
+MTGambler folds [180 Tournament chips]
+rudydog1 folds [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Jh 3s 4c 9c]
+QwertySpark checks
+Lightning Hil checks
+DBMAN56 bets for 720 Tournament chips
+QwertySpark folds [720 Tournament chips]
+Lightning Hil raises [1440 Tournament chips]
+DBMAN56 folds [720 Tournament chips]
+Lightning Hil is returned 720 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Lightning Hil (Jd Js Jh 4c 9c: three jacks)
+Lightning Hil wins main pot 2160 Tournament chips.
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (1205 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (1463 Tournament chips) 
+Seat 5: Lightning Hil (2905 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+Game #23943862-14 ends
+Game #23943862-15 starts
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (1205 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (1463 Tournament chips) 
+Seat 5: Lightning Hil (2905 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [15 Tournament chips]
+Lightning Hil posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2310 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1840 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 1205 Tournament chips.
+EZ69, at seat 3, is in this hand with 2337 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1448 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 2875 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1810 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4130 Tournament chips.
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 7s Ks ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+Dhenderson folds [30 Tournament chips]
+MTGambler folds [30 Tournament chips]
+rudydog1 folds [30 Tournament chips]
+CaptainKlean folds [30 Tournament chips]
+DBMAN56 raises [105 Tournament chips]
+EZ69 folds [105 Tournament chips]
+QwertySpark re-raises [285 Tournament chips]
+Lightning Hil folds [270 Tournament chips]
+DBMAN56 raises all-in [1100 Tournament chips]
+QwertySpark calls [905 Tournament chips]
+Tournament all-in showdown -- players show:
+DBMAN56 shows [ Qc Ad ]
+QwertySpark shows [ 7s Ks ]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 3d ] board:[ Tc 3d]
+** Dealing Flop ** [ 6c ] board:[ Tc 3d 6c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ Tc 3d 6c Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Tc 3d 6c Jc 8h]
+        (no action in this round)
+Round 4 is over.
+DBMAN56 shows [ Qc Ad ] ace/queen/jack high
+QwertySpark shows [ 7s Ks ] king/jack/ten high
+DBMAN56 wins main pot 2440 Tournament chips with ace/queen/jack high.
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (2875 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+Game #23943862-15 ends
+Game #23943862-16 starts
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1840 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (2875 Tournament chips) 
+Seat 6: Dhenderson (1810 Tournament chips) 
+Seat 8: MTGambler (4130 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Lightning Hil posts the small blind [15 Tournament chips]
+Dhenderson posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2310 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1840 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2440 Tournament chips.
+EZ69, at seat 3, is in this hand with 2337 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 258 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 2860 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1780 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4130 Tournament chips.
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 2d Th ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+MTGambler calls [30 Tournament chips]
+rudydog1 folds [30 Tournament chips]
+CaptainKlean raises [135 Tournament chips]
+DBMAN56 folds [135 Tournament chips]
+EZ69 folds [135 Tournament chips]
+QwertySpark folds [135 Tournament chips]
+Lightning Hil folds [120 Tournament chips]
+Dhenderson folds [105 Tournament chips]
+MTGambler calls [105 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Ac ] board:[ 3c Ac]
+** Dealing Flop ** [ 6h ] board:[ 3c Ac 6h]
+MTGambler checks
+CaptainKlean bets for 30 Tournament chips
+MTGambler folds [30 Tournament chips]
+CaptainKlean is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for CaptainKlean (Ah Jc 3c Ac 6h: a pair of aces)
+CaptainKlean wins main pot 315 Tournament chips.
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (2020 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (2860 Tournament chips) 
+Seat 6: Dhenderson (1780 Tournament chips) 
+Seat 8: MTGambler (3995 Tournament chips) 
+Game #23943862-16 ends
+Game #23943862-17 starts
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (2020 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (2860 Tournament chips) 
+Seat 6: Dhenderson (1780 Tournament chips) 
+Seat 8: MTGambler (3995 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Dhenderson posts the small blind [15 Tournament chips]
+MTGambler posts the big blind [30 Tournament chips]
+rudydog1, at seat 0, is in this hand (absent) with 2310 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 2020 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2440 Tournament chips.
+EZ69, at seat 3, is in this hand with 2337 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 258 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 2860 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 3965 Tournament chips.
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 9c Td ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+rudydog1 folds [30 Tournament chips]
+CaptainKlean calls [30 Tournament chips]
+DBMAN56 folds [30 Tournament chips]
+EZ69 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Lightning Hil calls [30 Tournament chips]
+Dhenderson folds [15 Tournament chips]
+MTGambler checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 6h ] board:[ 9s 6h]
+** Dealing Flop ** [ 8h ] board:[ 9s 6h 8h]
+MTGambler checks
+CaptainKlean checks
+Lightning Hil checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 9s 6h 8h 7s]
+MTGambler checks
+CaptainKlean bets for 52 Tournament chips
+Lightning Hil calls [52 Tournament chips]
+MTGambler folds [52 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 9s 6h 8h 7s 5c]
+CaptainKlean checks
+Lightning Hil bets for 209 Tournament chips
+CaptainKlean calls [209 Tournament chips]
+Round 4 is over.
+Lightning Hil shows [ Tc Ah ] straight, ten high
+Hand evaluation for Lightning Hil (Tc 9s 6h 8h 7s: straight, ten high)
+CaptainKlean shows [ 5d 6s ] straight, nine high
+Hand evaluation for CaptainKlean (5d 6s 9s 8h 7s: straight, nine high)
+Lightning Hil wins main pot 627 Tournament chips with straight, ten high.
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1729 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3196 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (3965 Tournament chips) 
+Game #23943862-17 ends
+Game #23943862-18 starts
+Seat 0: rudydog1 (2310 Tournament chips) 
+Seat 1: CaptainKlean (1729 Tournament chips) 
+Seat 2: DBMAN56 (2440 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3196 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (3965 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+MTGambler posts the small blind [20 Tournament chips]
+rudydog1 posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand (absent) with 2270 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1729 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2440 Tournament chips.
+EZ69, at seat 3, is in this hand with 2337 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 258 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3196 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 3945 Tournament chips.
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 2h 8c ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+CaptainKlean folds [40 Tournament chips]
+DBMAN56 calls [40 Tournament chips]
+EZ69 folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Lightning Hil calls [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+MTGambler folds [20 Tournament chips]
+rudydog1 folds
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Ad ] board:[ Td Ad]
+** Dealing Flop ** [ 7c ] board:[ Td Ad 7c]
+DBMAN56 checks
+Lightning Hil bets for 40 Tournament chips
+DBMAN56 folds [40 Tournament chips]
+Lightning Hil is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Lightning Hil (8s 7h Td Ad 7c: a pair of sevens)
+Lightning Hil wins main pot 140 Tournament chips.
+Seat 0: rudydog1 (2270 Tournament chips) 
+Seat 1: CaptainKlean (1729 Tournament chips) 
+Seat 2: DBMAN56 (2400 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3296 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (3945 Tournament chips) 
+Game #23943862-18 ends
+Game #23943862-19 starts
+Seat 0: rudydog1 (2270 Tournament chips) 
+Seat 1: CaptainKlean (1729 Tournament chips) 
+Seat 2: DBMAN56 (2400 Tournament chips) 
+Seat 3: EZ69 (2337 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3296 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (3945 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+rudydog1 posts the small blind [20 Tournament chips]
+CaptainKlean posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand (absent) with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1689 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2400 Tournament chips.
+EZ69, at seat 3, is in this hand with 2337 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 258 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3296 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 3945 Tournament chips.
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 5d 8h ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+DBMAN56 folds [40 Tournament chips]
+EZ69 calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Lightning Hil calls [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+MTGambler calls [40 Tournament chips]
+rudydog1 folds [20 Tournament chips]
+CaptainKlean checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 4s ] board:[ 7s 4s]
+** Dealing Flop ** [ 5h ] board:[ 7s 4s 5h]
+CaptainKlean checks
+EZ69 checks
+Lightning Hil bets for 40 Tournament chips
+MTGambler calls [40 Tournament chips]
+CaptainKlean calls [40 Tournament chips]
+EZ69 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 7s 4s 5h 2d]
+CaptainKlean checks
+EZ69 checks
+Lightning Hil checks
+MTGambler checks
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 7s 4s 5h 2d 6d]
+CaptainKlean checks
+EZ69 checks
+Lightning Hil checks
+MTGambler checks
+Round 4 is over.
+CaptainKlean shows [ Qh 4h ] a pair of fours
+Hand evaluation for CaptainKlean (Qh 4h 7s 4s 6d: a pair of fours)
+EZ69 shows [ 9c 6c ] a pair of sixes
+Hand evaluation for EZ69 (9c 6c 7s 5h 6d: a pair of sixes)
+Lightning Hil doesn't show [ 9h Js ]
+(Lightning Hil has 9h Js.)
+MTGambler shows [ As 6h ] a pair of sixes
+Hand evaluation for MTGambler (As 6h 7s 5h 6d: a pair of sixes)
+MTGambler wins main pot 340 Tournament chips with a pair of sixes, ace/seven kickers.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1649 Tournament chips) 
+Seat 2: DBMAN56 (2400 Tournament chips) 
+Seat 3: EZ69 (2257 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3216 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4205 Tournament chips) 
+Game #23943862-19 ends
+Game #23943862-20 starts
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1649 Tournament chips) 
+Seat 2: DBMAN56 (2400 Tournament chips) 
+Seat 3: EZ69 (2257 Tournament chips) 
+Seat 4: QwertySpark (258 Tournament chips) 
+Seat 5: Lightning Hil (3216 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4205 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+CaptainKlean posts the small blind [20 Tournament chips]
+DBMAN56 posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1629 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2360 Tournament chips.
+EZ69, at seat 3, is in this hand with 2257 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 258 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3216 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4205 Tournament chips.
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 9h 8h ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+EZ69 calls [40 Tournament chips]
+QwertySpark raises all-in [258 Tournament chips]
+Lightning Hil folds [258 Tournament chips]
+Dhenderson folds [258 Tournament chips]
+MTGambler folds [258 Tournament chips]
+rudydog1 folds [258 Tournament chips]
+CaptainKlean folds [238 Tournament chips]
+DBMAN56 folds [218 Tournament chips]
+EZ69 folds [218 Tournament chips]
+QwertySpark is returned 218 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (9h 8h: nine high)
+QwertySpark wins main pot 140 Tournament chips.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1629 Tournament chips) 
+Seat 2: DBMAN56 (2360 Tournament chips) 
+Seat 3: EZ69 (2217 Tournament chips) 
+Seat 4: QwertySpark (358 Tournament chips) 
+Seat 5: Lightning Hil (3216 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4205 Tournament chips) 
+Game #23943862-20 ends
+Game #23943862-21 starts
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1629 Tournament chips) 
+Seat 2: DBMAN56 (2360 Tournament chips) 
+Seat 3: EZ69 (2217 Tournament chips) 
+Seat 4: QwertySpark (358 Tournament chips) 
+Seat 5: Lightning Hil (3216 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4205 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+DBMAN56 posts the small blind [20 Tournament chips]
+EZ69 posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1629 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2340 Tournament chips.
+EZ69, at seat 3, is in this hand with 2177 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 358 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3216 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4205 Tournament chips.
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ Jh 2c ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+QwertySpark folds [40 Tournament chips]
+Lightning Hil calls [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+MTGambler calls [40 Tournament chips]
+rudydog1 folds [40 Tournament chips]
+CaptainKlean calls [40 Tournament chips]
+DBMAN56 folds [20 Tournament chips]
+EZ69 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 9h ] board:[ 5s 9h]
+** Dealing Flop ** [ 7s ] board:[ 5s 9h 7s]
+EZ69 checks
+Lightning Hil bets for 40 Tournament chips
+MTGambler folds [40 Tournament chips]
+CaptainKlean folds [40 Tournament chips]
+EZ69 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 5s 9h 7s 2h]
+EZ69 checks
+Lightning Hil bets for 40 Tournament chips
+EZ69 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 5s 9h 7s 2h 3s]
+EZ69 checks
+Lightning Hil checks
+Round 4 is over.
+EZ69 shows [ Ad 8d ] ace high
+Hand evaluation for EZ69 (Ad 8d 5s 9h 7s: ace high)
+Lightning Hil shows [ Ts 5c ] a pair of fives
+Hand evaluation for Lightning Hil (Ts 5c 5s 9h 7s: a pair of fives)
+Lightning Hil wins main pot 340 Tournament chips with a pair of fives, ten/nine kickers.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1589 Tournament chips) 
+Seat 2: DBMAN56 (2340 Tournament chips) 
+Seat 3: EZ69 (2097 Tournament chips) 
+Seat 4: QwertySpark (358 Tournament chips) 
+Seat 5: Lightning Hil (3436 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4165 Tournament chips) 
+Game #23943862-21 ends
+Game #23943862-22 starts
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1589 Tournament chips) 
+Seat 2: DBMAN56 (2340 Tournament chips) 
+Seat 3: EZ69 (2097 Tournament chips) 
+Seat 4: QwertySpark (358 Tournament chips) 
+Seat 5: Lightning Hil (3436 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4165 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+EZ69 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand (absent) with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1589 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 2340 Tournament chips.
+EZ69, at seat 3, is in this hand with 2077 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 318 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3436 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4165 Tournament chips.
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+EZ69 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to EZ69 [ **** ]
+Dealt to QwertySpark [ 3h 9c ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+Lightning Hil folds [40 Tournament chips]
+Dhenderson folds [40 Tournament chips]
+MTGambler folds [40 Tournament chips]
+rudydog1 folds [40 Tournament chips]
+CaptainKlean folds [40 Tournament chips]
+DBMAN56 raises [120 Tournament chips]
+EZ69 calls [100 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 8c ] board:[ 9s 8c]
+** Dealing Flop ** [ Qc ] board:[ 9s 8c Qc]
+EZ69 checks
+DBMAN56 bets for 280 Tournament chips
+EZ69 calls [280 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 9s 8c Qc 8d]
+EZ69 checks
+DBMAN56 bets for 840 Tournament chips
+EZ69 calls [840 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 9s 8c Qc 8d 3c]
+EZ69 checks
+DBMAN56 goes all-in for 1100 Tournament chips
+EZ69 calls all-in [857 Tournament chips]
+DBMAN56 is returned 243 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+DBMAN56 shows [ Tc 7c ]
+EZ69 shows [ Qh Jh ]
+Round 4 is over.
+DBMAN56 shows [ Tc 7c ] flush, queen/ten/eight high
+EZ69 shows [ Qh Jh ] two pair, queens and eights, jack kicker
+DBMAN56 wins main pot 4234 Tournament chips with flush, queen/ten/eight high.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1589 Tournament chips) 
+Seat 2: DBMAN56 (4477 Tournament chips) 
+Seat 3: EZ69 (0 Tournament chips) 
+Seat 4: QwertySpark (318 Tournament chips) 
+Seat 5: Lightning Hil (3436 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4165 Tournament chips) 
+Game #23943862-22 ends
+Player EZ69 leaves the table with 0 Tournament chips
+Game #23943862-23 starts
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1589 Tournament chips) 
+Seat 2: DBMAN56 (4477 Tournament chips) 
+Seat 4: QwertySpark (318 Tournament chips) 
+Seat 5: Lightning Hil (3436 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4165 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [20 Tournament chips]
+Lightning Hil posts the big blind [40 Tournament chips]
+rudydog1, at seat 0, is in this hand (absent) with 2250 Tournament chips.
+CaptainKlean, at seat 1, is in this hand with 1589 Tournament chips.
+DBMAN56, at seat 2, is in this hand with 4477 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 298 Tournament chips.
+Lightning Hil, at seat 5, is in this hand with 3396 Tournament chips.
+Dhenderson, at seat 6, is in this hand (absent) with 1765 Tournament chips.
+MTGambler, at seat 8, is in this hand with 4165 Tournament chips.
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+
+Lightning Hil is dealt: **
+Dhenderson is dealt: **
+MTGambler is dealt: **
+rudydog1 is dealt: **
+CaptainKlean is dealt: **
+DBMAN56 is dealt: **
+Dealt to rudydog1 [ **** ]
+Dealt to CaptainKlean [ **** ]
+Dealt to DBMAN56 [ **** ]
+Dealt to QwertySpark [ Jd Ac ]
+Dealt to Lightning Hil [ **** ]
+Dealt to Dhenderson [ **** ]
+Dealt to MTGambler [ **** ]
+Dhenderson folds [40 Tournament chips]
+MTGambler folds [40 Tournament chips]
+rudydog1 folds [40 Tournament chips]
+CaptainKlean folds [40 Tournament chips]
+DBMAN56 calls [40 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+Lightning Hil calls [80 Tournament chips]
+DBMAN56 calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 3d ] board:[ 6h 3d]
+** Dealing Flop ** [ 4c ] board:[ 6h 3d 4c]
+QwertySpark goes all-in for 198 Tournament chips
+Lightning Hil calls [198 Tournament chips]
+DBMAN56 folds [198 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jd Ac ]
+Lightning Hil shows [ 6c Qs ]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 6h 3d 4c 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 6h 3d 4c 2h Ts]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jd Ac ] ace/jack/ten high
+Lightning Hil shows [ 6c Qs ] a pair of sixes, queen/ten kickers
+Lightning Hil wins main pot 756 Tournament chips with a pair of sixes, queen/ten kickers.
+Seat 0: rudydog1 (2250 Tournament chips) 
+Seat 1: CaptainKlean (1589 Tournament chips) 
+Seat 2: DBMAN56 (4357 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: Lightning Hil (3874 Tournament chips) 
+Seat 6: Dhenderson (1765 Tournament chips) 
+Seat 8: MTGambler (4165 Tournament chips) 
+Game #23943862-23 ends
+Player QwertySpark leaves the table with 0 Tournament chips

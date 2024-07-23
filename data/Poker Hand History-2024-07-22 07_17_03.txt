@@ -1,0 +1,561 @@
+Game#: 23963203
+glenvey calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ Ah 2c Kd Qs]
+glenvey checks
+Wall2 bets for 100 Tournament chips
+Sarge007 calls [100 Tournament chips]
+glenvey calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Ah 2c Kd Qs 6d]
+glenvey checks
+Wall2 checks
+Sarge007 checks
+Round 4 is over.
+glenvey shows [ As 5c ] a pair of aces
+Hand evaluation for glenvey (As Ah Kd Qs 6d: a pair of aces)
+Wall2 doesn't show [ 9c 9d ]
+(Wall2 has 9c 9d.)
+Sarge007 doesn't show [ 3d 3s ]
+(Sarge007 has 3d 3s.)
+glenvey wins main pot 690 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: Veganbich (985 Tournament chips) 
+Seat 1: Wall2 (780 Tournament chips) 
+Seat 2: Sarge007 (1105 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (980 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: Pjohnson67 (780 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (990 Tournament chips) 
+Game #23963203-5 ends
+Game #23963203-6 starts
+Seat 0: Veganbich (985 Tournament chips) 
+Seat 1: Wall2 (780 Tournament chips) 
+Seat 2: Sarge007 (1105 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (980 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: Pjohnson67 (780 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (990 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+KingHill posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Veganbich, at seat 0, is in this hand with 985 Tournament chips.
+Wall2, at seat 1, is in this hand with 780 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1105 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+KingHill, at seat 4, is in this hand (absent) with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 980 Tournament chips.
+Pjohnson67, at seat 6, is in this hand with 780 Tournament chips.
+glenvey, at seat 7, is in this hand with 1430 Tournament chips.
+MarkT64, at seat 8, is in this hand with 990 Tournament chips.
+KingHill is dealt: **
+
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+Veganbich is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+KingHill is dealt: **
+
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+Veganbich is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+Dealt to Veganbich [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to QwertySpark [ 3h Kc ]
+Dealt to Pjohnson67 [ **** ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+Pjohnson67 folds [20 Tournament chips]
+glenvey folds [20 Tournament chips]
+MarkT64 raises [40 Tournament chips]
+Veganbich raises all-in [985 Tournament chips]
+Wall2 folds [780 Tournament chips]
+Sarge007 folds [985 Tournament chips]
+Jones52 folds [980 Tournament chips]
+KingHill folds [970 Tournament chips]
+QwertySpark folds [965 Tournament chips]
+MarkT64 calls [945 Tournament chips]
+Tournament all-in showdown -- players show:
+Veganbich shows [ 8s Ac ]
+MarkT64 shows [ As Kd ]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 3c ] board:[ Jd 3c]
+** Dealing Flop ** [ Qh ] board:[ Jd 3c Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Jd 3c Qh Ah]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Jd 3c Qh Ah 2c]
+        (no action in this round)
+Round 4 is over.
+Veganbich shows [ 8s Ac ] a pair of aces, queen/jack kickers
+MarkT64 shows [ As Kd ] a pair of aces, king/queen kickers
+MarkT64 wins main pot 2000 Tournament chips with a pair of aces, king/queen kickers.
+Veganbich: Noobs waiting for aces
+Seat 0: Veganbich (0 Tournament chips) 
+Seat 1: Wall2 (780 Tournament chips) 
+Seat 2: Sarge007 (1105 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (970 Tournament chips) 
+Seat 5: QwertySpark (980 Tournament chips) 
+Seat 6: Pjohnson67 (780 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (2005 Tournament chips) 
+Game #23963203-6 ends
+Player Veganbich leaves the table with 0 Tournament chips
+Game #23963203-7 starts
+Seat 1: Wall2 (780 Tournament chips) 
+Seat 2: Sarge007 (1105 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (970 Tournament chips) 
+Seat 5: QwertySpark (980 Tournament chips) 
+Seat 6: Pjohnson67 (780 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (2005 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [10 Tournament chips]
+Pjohnson67 posts the big blind [20 Tournament chips]
+Wall2, at seat 1, is in this hand with 780 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1105 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+KingHill, at seat 4, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 970 Tournament chips.
+Pjohnson67, at seat 6, is in this hand with 760 Tournament chips.
+glenvey, at seat 7, is in this hand with 1430 Tournament chips.
+MarkT64, at seat 8, is in this hand with 2005 Tournament chips.
+
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+KingHill is dealt: **
+
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+KingHill is dealt: **
+Dealt to Wall2 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to QwertySpark [ Th 6h ]
+Dealt to Pjohnson67 [ **** ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+glenvey folds [20 Tournament chips]
+MarkT64 calls [20 Tournament chips]
+Wall2 calls [20 Tournament chips]
+Sarge007 raises [40 Tournament chips]
+Jones52 folds [40 Tournament chips]
+KingHill folds [40 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Pjohnson67 calls [20 Tournament chips]
+MarkT64 calls [20 Tournament chips]
+Wall2 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Ad ] board:[ Td Ad]
+** Dealing Flop ** [ 4c ] board:[ Td Ad 4c]
+QwertySpark bets for 20 Tournament chips
+Pjohnson67 folds [20 Tournament chips]
+MarkT64 calls [20 Tournament chips]
+Wall2 calls [20 Tournament chips]
+Sarge007 raises all-in [1065 Tournament chips]
+QwertySpark folds [920 Tournament chips]
+MarkT64 folds [1045 Tournament chips]
+Wall2 folds [720 Tournament chips]
+Sarge007 is returned 1045 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Sarge007 (8c Ac Td Ad 4c: a pair of aces)
+Sarge007 wins main pot 280 Tournament chips.
+Seat 0: bornin38 (1000 Tournament chips) 
+Seat 1: Wall2 (720 Tournament chips) 
+Seat 2: Sarge007 (1325 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (970 Tournament chips) 
+Seat 5: QwertySpark (920 Tournament chips) 
+Seat 6: Pjohnson67 (740 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+Game #23963203-7 ends
+Game #23963203-8 starts
+Seat 0: bornin38 (1000 Tournament chips) 
+Seat 1: Wall2 (720 Tournament chips) 
+Seat 2: Sarge007 (1325 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (970 Tournament chips) 
+Seat 5: QwertySpark (920 Tournament chips) 
+Seat 6: Pjohnson67 (740 Tournament chips) 
+Seat 7: glenvey (1430 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Pjohnson67 posts the small blind [10 Tournament chips]
+glenvey posts the big blind [20 Tournament chips]
+bornin38, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+Wall2, at seat 1, is in this hand with 720 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1325 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+KingHill, at seat 4, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 920 Tournament chips.
+Pjohnson67, at seat 6, is in this hand with 730 Tournament chips.
+glenvey, at seat 7, is in this hand with 1410 Tournament chips.
+MarkT64, at seat 8, is in this hand with 1945 Tournament chips.
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+KingHill is dealt: **
+
+Pjohnson67 is dealt: **
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Wall2 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+KingHill is dealt: **
+
+Dealt to bornin38 [ **** ]
+Dealt to Wall2 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to QwertySpark [ Td As ]
+Dealt to Pjohnson67 [ **** ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+MarkT64 folds [20 Tournament chips]
+bornin38 folds [20 Tournament chips]
+Wall2 raises [40 Tournament chips]
+Sarge007 calls [40 Tournament chips]
+Jones52 folds [40 Tournament chips]
+KingHill calls [40 Tournament chips]
+QwertySpark re-raises [160 Tournament chips]
+Pjohnson67 calls [150 Tournament chips]
+glenvey calls [140 Tournament chips]
+Wall2 calls [120 Tournament chips]
+Sarge007 folds [120 Tournament chips]
+KingHill calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 7h ] board:[ Kd 7h]
+** Dealing Flop ** [ 9d ] board:[ Kd 7h 9d]
+Pjohnson67 goes all-in for 580 Tournament chips
+glenvey raises all-in [1270 Tournament chips]
+Wall2 calls all-in [560 Tournament chips]
+KingHill calls all-in [810 Tournament chips]
+QwertySpark folds [760 Tournament chips]
+glenvey is returned 460 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Wall2 shows [ Qc Ac ]
+KingHill shows [ 2s 2d ]
+Pjohnson67 shows [ Qs 7c ]
+glenvey shows [ Kh Jd ]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Kd 7h 9d Kc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Kd 7h 9d Kc Ks]
+        (no action in this round)
+Round 4 is over.
+Wall2 shows [ Qc Ac ] three kings, ace/queen kickers
+KingHill shows [ 2s 2d ] full house, kings full of deuces
+Pjohnson67 shows [ Qs 7c ] full house, kings full of sevens
+glenvey shows [ Kh Jd ] four kings, jack kicker
+glenvey wins main pot 3080 Tournament chips with four kings, jack kicker.
+glenvey wins side pot #1 60 Tournament chips with four kings, jack kicker.
+glenvey wins side pot #2 460 Tournament chips with four kings, jack kicker.
+Seat 0: bornin38 (1000 Tournament chips) 
+Seat 1: Wall2 (0 Tournament chips) 
+Seat 2: Sarge007 (1285 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 4: KingHill (0 Tournament chips) 
+Seat 5: QwertySpark (760 Tournament chips) 
+Seat 6: Pjohnson67 (0 Tournament chips) 
+Seat 7: glenvey (4060 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+Game #23963203-8 ends
+Player Wall2 leaves the table with 0 Tournament chips
+Player Pjohnson67 leaves the table with 0 Tournament chips
+Player KingHill leaves the table with 0 Tournament chips
+Game #23963203-9 starts
+Seat 0: bornin38 (1000 Tournament chips) 
+Seat 2: Sarge007 (1285 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (760 Tournament chips) 
+Seat 7: glenvey (4060 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+glenvey posts the small blind [15 Tournament chips]
+MarkT64 posts the big blind [30 Tournament chips]
+bornin38, at seat 0, is in this hand with 1000 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1285 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 760 Tournament chips.
+glenvey, at seat 7, is in this hand with 4045 Tournament chips.
+MarkT64, at seat 8, is in this hand with 1915 Tournament chips.
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+Dealt to bornin38 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to QwertySpark [ Ac 8c ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+bornin38 calls [30 Tournament chips]
+Sarge007 calls [30 Tournament chips]
+Jones52 folds [30 Tournament chips]
+QwertySpark raises [210 Tournament chips]
+glenvey folds [195 Tournament chips]
+MarkT64 folds [180 Tournament chips]
+bornin38 folds [180 Tournament chips]
+Sarge007 folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ac 8c: ace high)
+QwertySpark wins main pot 135 Tournament chips.
+Seat 0: bornin38 (970 Tournament chips) 
+Seat 2: Sarge007 (1255 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1915 Tournament chips) 
+Game #23963203-9 ends
+Game #23963203-10 starts
+Seat 0: bornin38 (970 Tournament chips) 
+Seat 2: Sarge007 (1255 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1915 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+MarkT64 posts the small blind [15 Tournament chips]
+bornin38 posts the big blind [30 Tournament chips]
+bornin38, at seat 0, is in this hand with 940 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1255 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 865 Tournament chips.
+glenvey, at seat 7, is in this hand with 4045 Tournament chips.
+MarkT64, at seat 8, is in this hand with 1900 Tournament chips.
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+Dealt to bornin38 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to QwertySpark [ 2h 7c ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+Sarge007 folds [30 Tournament chips]
+Jones52 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+glenvey folds [30 Tournament chips]
+MarkT64 calls [15 Tournament chips]
+bornin38 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 3c ] board:[ Kh 3c]
+** Dealing Flop ** [ Ts ] board:[ Kh 3c Ts]
+MarkT64 bets for 30 Tournament chips
+bornin38 folds [30 Tournament chips]
+MarkT64 is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for MarkT64 (9s 4c Kh 3c Ts: king high)
+MarkT64 wins main pot 60 Tournament chips.
+Seat 0: bornin38 (940 Tournament chips) 
+Seat 2: Sarge007 (1255 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+Game #23963203-10 ends
+Game #23963203-11 starts
+Seat 0: bornin38 (940 Tournament chips) 
+Seat 2: Sarge007 (1255 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1945 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+bornin38 posts the small blind [15 Tournament chips]
+Sarge007 posts the big blind [30 Tournament chips]
+bornin38, at seat 0, is in this hand with 925 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1225 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 980 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 865 Tournament chips.
+glenvey, at seat 7, is in this hand with 4045 Tournament chips.
+MarkT64, at seat 8, is in this hand with 1945 Tournament chips.
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+Dealt to bornin38 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to QwertySpark [ Ks 4c ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+Jones52 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+glenvey folds [30 Tournament chips]
+MarkT64 calls [30 Tournament chips]
+bornin38 folds [15 Tournament chips]
+Sarge007 checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Jc ] board:[ 6h Jc]
+** Dealing Flop ** [ 8h ] board:[ 6h Jc 8h]
+Sarge007 checks
+MarkT64 checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 6h Jc 8h 3d]
+Sarge007 checks
+MarkT64 checks
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 6h Jc 8h 3d 8s]
+Sarge007 bets for 30 Tournament chips
+MarkT64 calls [30 Tournament chips]
+Round 4 is over.
+Sarge007 shows [ 7h 3s ] two pair, eights and threes
+Hand evaluation for Sarge007 (3s Jc 8h 3d 8s: two pair, eights and threes)
+MarkT64 doesn't show [ Th Kc ]
+(MarkT64 has Th Kc.)
+Sarge007 wins main pot 135 Tournament chips with two pair, eights and threes, jack kicker.
+Seat 0: bornin38 (925 Tournament chips) 
+Seat 2: Sarge007 (1330 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1885 Tournament chips) 
+Game #23963203-11 ends
+Game #23963203-12 starts
+Seat 0: bornin38 (925 Tournament chips) 
+Seat 2: Sarge007 (1330 Tournament chips) 
+Seat 3: Jones52 (980 Tournament chips) 
+Seat 5: QwertySpark (865 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (1885 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Sarge007 posts the small blind [15 Tournament chips]
+Jones52 posts the big blind [30 Tournament chips]
+bornin38, at seat 0, is in this hand with 925 Tournament chips.
+Sarge007, at seat 2, is in this hand with 1315 Tournament chips.
+Jones52, at seat 3, is in this hand (absent) with 950 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 865 Tournament chips.
+glenvey, at seat 7, is in this hand with 4045 Tournament chips.
+MarkT64, at seat 8, is in this hand with 1885 Tournament chips.
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Sarge007 is dealt: **
+Jones52 is dealt: **
+
+glenvey is dealt: **
+MarkT64 is dealt: **
+bornin38 is dealt: **
+Dealt to bornin38 [ **** ]
+Dealt to Sarge007 [ **** ]
+Dealt to Jones52 [ **** ]
+Dealt to QwertySpark [ 9h 9c ]
+Dealt to glenvey [ **** ]
+Dealt to MarkT64 [ **** ]
+QwertySpark raises [180 Tournament chips]
+glenvey folds [180 Tournament chips]
+MarkT64 re-raises [585 Tournament chips]
+bornin38 folds [585 Tournament chips]
+Sarge007 folds [570 Tournament chips]
+Jones52 folds [555 Tournament chips]
+QwertySpark raises all-in [685 Tournament chips]
+MarkT64 calls [280 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9h 9c ]
+MarkT64 shows [ Td As ]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 7d ] board:[ Ac 7d]
+** Dealing Flop ** [ Kd ] board:[ Ac 7d Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Ac 7d Kd 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ Ac 7d Kd 4d Qh]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 9h 9c ] a pair of nines, ace/king kickers
+MarkT64 shows [ Td As ] a pair of aces, king/queen kickers
+MarkT64 wins main pot 1775 Tournament chips with a pair of aces, king/queen kickers.
+Seat 0: bornin38 (925 Tournament chips) 
+Seat 2: Sarge007 (1315 Tournament chips) 
+Seat 3: Jones52 (950 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Seat 7: glenvey (4045 Tournament chips) 
+Seat 8: MarkT64 (2795 Tournament chips) 
+Game #23963203-12 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player bornin38 leaves the table with 925 Tournament chips
+Player Jones52 leaves the table with 950 Tournament chips
+Player Sarge007 leaves the table with 1315 Tournament chips
+Player glenvey leaves the table with 4045 Tournament chips
+Player MarkT64 leaves the table with 2795 Tournament chips
+Game 23963203 is now shutting down

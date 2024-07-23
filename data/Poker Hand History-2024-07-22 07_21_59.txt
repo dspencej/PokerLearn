@@ -1,0 +1,118 @@
+Game#: 23902644
+jerrecurl is dealt: **
+QwertySpark is dealt: 5c
+yrtbta is dealt: **
+AlbertaWldcat is dealt: **
+southbflo is dealt: **
+tallkelly is dealt: **
+69shelby is dealt: **
+Bodozer is dealt: **
+Pjohnson67 is dealt: **
+The button is moved to seat 6.
+Game #23902644-1 starts
+Seat 0: jerrecurl (1000 Tournament chips) 
+Seat 1: QwertySpark (1000 Tournament chips) 
+Seat 2: yrtbta (1000 Tournament chips) 
+Seat 3: AlbertaWldcat (1000 Tournament chips) 
+Seat 4: southbflo (1000 Tournament chips) 
+Seat 5: tallkelly (1000 Tournament chips) 
+Seat 6: 69shelby (1000 Tournament chips) 
+Seat 7: Bodozer (1000 Tournament chips) 
+Seat 8: Pjohnson67 (1000 Tournament chips) 
+The button is at seat 6
+Bodozer posts the small blind [10 Tournament chips]
+Pjohnson67 posts the big blind [15 Tournament chips]
+jerrecurl, at seat 0, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1000 Tournament chips.
+yrtbta, at seat 2, is in this hand with 1000 Tournament chips.
+AlbertaWldcat, at seat 3, is in this hand with 1000 Tournament chips.
+southbflo, at seat 4, is in this hand with 1000 Tournament chips.
+tallkelly, at seat 5, is in this hand with 1000 Tournament chips.
+69shelby, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Bodozer, at seat 7, is in this hand with 990 Tournament chips.
+Pjohnson67, at seat 8, is in this hand with 985 Tournament chips.
+Bodozer is dealt: **
+Pjohnson67 is dealt: **
+jerrecurl is dealt: **
+
+yrtbta is dealt: **
+AlbertaWldcat is dealt: **
+southbflo is dealt: **
+tallkelly is dealt: **
+69shelby is dealt: **
+Bodozer is dealt: **
+Pjohnson67 is dealt: **
+jerrecurl is dealt: **
+
+yrtbta is dealt: **
+AlbertaWldcat is dealt: **
+southbflo is dealt: **
+tallkelly is dealt: **
+69shelby is dealt: **
+Dealt to jerrecurl [ **** ]
+Dealt to QwertySpark [ 5c Kc ]
+Dealt to yrtbta [ **** ]
+Dealt to AlbertaWldcat [ **** ]
+Dealt to southbflo [ **** ]
+Dealt to tallkelly [ **** ]
+Dealt to 69shelby [ **** ]
+Dealt to Bodozer [ **** ]
+Dealt to Pjohnson67 [ **** ]
+jerrecurl calls [15 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+yrtbta calls [15 Tournament chips]
+AlbertaWldcat folds [15 Tournament chips]
+southbflo calls [15 Tournament chips]
+tallkelly raises [30 Tournament chips]
+69shelby folds [30 Tournament chips]
+Bodozer folds [20 Tournament chips]
+Pjohnson67 re-raises [30 Tournament chips]
+jerrecurl calls [30 Tournament chips]
+yrtbta folds [30 Tournament chips]
+southbflo calls [30 Tournament chips]
+tallkelly re-raises [30 Tournament chips]
+Pjohnson67 calls [15 Tournament chips]
+jerrecurl calls [15 Tournament chips]
+southbflo calls [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 4c ] board:[ Jc 4c]
+** Dealing Flop ** [ Qc ] board:[ Jc 4c Qc]
+Pjohnson67 checks
+jerrecurl checks
+southbflo checks
+tallkelly bets for 15 Tournament chips
+Pjohnson67 folds [15 Tournament chips]
+jerrecurl calls [15 Tournament chips]
+southbflo folds [15 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Jc 4c Qc 8c]
+jerrecurl checks
+tallkelly bets for 30 Tournament chips
+jerrecurl calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Jc 4c Qc 8c 4d]
+jerrecurl checks
+tallkelly bets for 30 Tournament chips
+jerrecurl calls [30 Tournament chips]
+Round 4 is over.
+tallkelly shows [ Ac Qh ] flush, ace high
+Hand evaluation for tallkelly (Ac Jc 4c Qc 8c: flush, ace high)
+jerrecurl doesn't show [ Ad 9c ]
+(jerrecurl has Ad 9c.)
+tallkelly wins main pot 415 Tournament chips with flush, ace/queen/jack high.
+Seat 0: jerrecurl (865 Tournament chips) 
+Seat 1: QwertySpark (1000 Tournament chips) 
+Seat 2: yrtbta (985 Tournament chips) 
+Seat 3: AlbertaWldcat (1000 Tournament chips) 
+Seat 4: southbflo (940 Tournament chips) 
+Seat 5: tallkelly (1280 Tournament chips) 
+Seat 6: 69shelby (1000 Tournament chips) 
+Seat 7: Bodozer (990 Tournament chips) 
+Seat 8: Pjohnson67 (940 Tournament chips) 
+Game #23902644-1 ends
+Player QwertySpark leaves the table with 1000 Tournament chips
+Player Pjohnson67 leaves the table with 940 Tournament chips
+Player southbflo leaves the table with 940 Tournament chips
+Player tallkelly leaves the table with 1280 Tournament chips
+Player Bodozer leaves the table with 990 Tournament chips

@@ -1,0 +1,2071 @@
+Game#: 23938316
+Seat 0: craigd48 (14715 Tournament chips) 
+Seat 1: Mace88 (5096 Tournament chips) 
+Seat 2: QwertySpark (9235 Tournament chips) 
+Seat 3: brownkoko123 (11961 Tournament chips) 
+Seat 4: luckylaureano (3315 Tournament chips) 
+Seat 5: canyoncowboys (2575 Tournament chips) 
+Seat 7: FlyingHammer (3140 Tournament chips) 
+Game #23938316-43 ends
+Game #23938316-44 starts
+Seat 0: craigd48 (14715 Tournament chips) 
+Seat 1: Mace88 (5096 Tournament chips) 
+Seat 2: QwertySpark (9235 Tournament chips) 
+Seat 3: brownkoko123 (11961 Tournament chips) 
+Seat 4: luckylaureano (3315 Tournament chips) 
+Seat 5: canyoncowboys (2575 Tournament chips) 
+Seat 7: FlyingHammer (3140 Tournament chips) 
+The button is at seat 7
+craigd48 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+Mace88 posted ante of 75 Tournament chips
+brownkoko123 posted ante of 75 Tournament chips
+luckylaureano posted ante of 75 Tournament chips
+FlyingHammer posted ante of 75 Tournament chips
+canyoncowboys posted ante of 75 Tournament chips
+craigd48 posts the small blind [300 Tournament chips]
+Mace88 posts the big blind [600 Tournament chips]
+craigd48, at seat 0, is in this hand with 14340 Tournament chips.
+Mace88, at seat 1, is in this hand with 4421 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9160 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 11886 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 3240 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 2500 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 3065 Tournament chips.
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ Tc Jc ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+QwertySpark raises [1800 Tournament chips]
+brownkoko123 folds [1800 Tournament chips]
+luckylaureano folds [1800 Tournament chips]
+canyoncowboys folds [1800 Tournament chips]
+FlyingHammer folds [1800 Tournament chips]
+craigd48 folds [1500 Tournament chips]
+Mace88 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Tc Jc: jack high)
+QwertySpark wins main pot 2025 Tournament chips.
+(canyoncowboys has entered the table, is no longer absent.)
+Seat 0: craigd48 (14340 Tournament chips) 
+Seat 1: Mace88 (4421 Tournament chips) 
+Seat 2: QwertySpark (10585 Tournament chips) 
+Seat 3: brownkoko123 (11886 Tournament chips) 
+Seat 4: luckylaureano (3240 Tournament chips) 
+Seat 5: canyoncowboys (2500 Tournament chips) 
+Seat 7: FlyingHammer (3065 Tournament chips) 
+Game #23938316-44 ends
+Game #23938316-45 starts
+Seat 0: craigd48 (14340 Tournament chips) 
+Seat 1: Mace88 (4421 Tournament chips) 
+Seat 2: QwertySpark (10585 Tournament chips) 
+Seat 3: brownkoko123 (11886 Tournament chips) 
+Seat 4: luckylaureano (3240 Tournament chips) 
+Seat 5: canyoncowboys (2500 Tournament chips) 
+Seat 7: FlyingHammer (3065 Tournament chips) 
+The button is at seat 7
+craigd48 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+brownkoko123 posted ante of 75 Tournament chips
+Mace88 posted ante of 75 Tournament chips
+luckylaureano posted ante of 75 Tournament chips
+canyoncowboys posted ante of 75 Tournament chips
+FlyingHammer posted ante of 75 Tournament chips
+The button is moved to seat 0.
+Mace88 posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+craigd48, at seat 0, is in this hand with 14265 Tournament chips.
+Mace88, at seat 1, is in this hand with 4046 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9910 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 11811 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 3165 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 2425 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 2990 Tournament chips.
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ Jc 7h ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+brownkoko123 folds [600 Tournament chips]
+luckylaureano folds [600 Tournament chips]
+canyoncowboys raises [1200 Tournament chips]
+FlyingHammer folds [1200 Tournament chips]
+craigd48 folds [1200 Tournament chips]
+Mace88 folds [900 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 9s ] board:[ Th 9s]
+** Dealing Flop ** [ Ad ] board:[ Th 9s Ad]
+QwertySpark bets for 1200 Tournament chips
+canyoncowboys raises all-in [1225 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jc 7h ]
+canyoncowboys shows [ As Td ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Th 9s Ad 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Th 9s Ad 5c 6s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jc 7h ] ace/jack/ten high
+canyoncowboys shows [ As Td ] two pair, aces and tens, nine kicker
+canyoncowboys wins main pot 5675 Tournament chips with two pair, aces and tens, nine kicker.
+Seat 0: craigd48 (14265 Tournament chips) 
+Seat 1: Mace88 (4046 Tournament chips) 
+Seat 2: QwertySpark (8085 Tournament chips) 
+Seat 3: brownkoko123 (11811 Tournament chips) 
+Seat 4: luckylaureano (3165 Tournament chips) 
+Seat 5: canyoncowboys (5675 Tournament chips) 
+Seat 7: FlyingHammer (2990 Tournament chips) 
+Game #23938316-45 ends
+Game #23938316-46 starts
+Seat 0: craigd48 (14265 Tournament chips) 
+Seat 1: Mace88 (4046 Tournament chips) 
+Seat 2: QwertySpark (8085 Tournament chips) 
+Seat 3: brownkoko123 (11811 Tournament chips) 
+Seat 4: luckylaureano (3165 Tournament chips) 
+Seat 5: canyoncowboys (5675 Tournament chips) 
+Seat 7: FlyingHammer (2990 Tournament chips) 
+The button is at seat 0
+craigd48 posted ante of 75 Tournament chips
+brownkoko123 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+Mace88 posted ante of 75 Tournament chips
+luckylaureano posted ante of 75 Tournament chips
+FlyingHammer posted ante of 75 Tournament chips
+canyoncowboys posted ante of 75 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [300 Tournament chips]
+brownkoko123 posts the big blind [600 Tournament chips]
+craigd48, at seat 0, is in this hand with 14190 Tournament chips.
+Mace88, at seat 1, is in this hand with 3971 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7710 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 11136 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 3090 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 5600 Tournament chips.
+FlyingHammer, at seat 7, is in this hand (absent) with 2915 Tournament chips.
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ 5c Tc ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+luckylaureano folds [600 Tournament chips]
+canyoncowboys folds [600 Tournament chips]
+FlyingHammer folds [600 Tournament chips]
+craigd48 folds [600 Tournament chips]
+Mace88 folds [600 Tournament chips]
+QwertySpark raises [1500 Tournament chips]
+brownkoko123 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (5c Tc: ten high)
+QwertySpark wins main pot 1725 Tournament chips.
+Seat 0: craigd48 (14190 Tournament chips) 
+Seat 1: Mace88 (3971 Tournament chips) 
+Seat 2: QwertySpark (9135 Tournament chips) 
+Seat 3: brownkoko123 (11136 Tournament chips) 
+Seat 4: luckylaureano (3090 Tournament chips) 
+Seat 5: canyoncowboys (5600 Tournament chips) 
+Seat 7: FlyingHammer (2915 Tournament chips) 
+Game #23938316-46 ends
+Game #23938316-47 starts
+Seat 0: craigd48 (14190 Tournament chips) 
+Seat 1: Mace88 (3971 Tournament chips) 
+Seat 2: QwertySpark (9135 Tournament chips) 
+Seat 3: brownkoko123 (11136 Tournament chips) 
+Seat 4: luckylaureano (3090 Tournament chips) 
+Seat 5: canyoncowboys (5600 Tournament chips) 
+Seat 7: FlyingHammer (2915 Tournament chips) 
+The button is at seat 1
+craigd48 posted ante of 100 Tournament chips
+Mace88 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+FlyingHammer posted ante of 100 Tournament chips
+brownkoko123 posted ante of 100 Tournament chips
+canyoncowboys posted ante of 100 Tournament chips
+luckylaureano posted ante of 100 Tournament chips
+The button is moved to seat 2.
+brownkoko123 posts the small blind [400 Tournament chips]
+luckylaureano posts the big blind [800 Tournament chips]
+craigd48, at seat 0, is in this hand with 14090 Tournament chips.
+Mace88, at seat 1, is in this hand with 3871 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9035 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10636 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 2190 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 5500 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 2815 Tournament chips.
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ 3s Ah ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+canyoncowboys folds [800 Tournament chips]
+FlyingHammer folds [800 Tournament chips]
+craigd48 folds [800 Tournament chips]
+Mace88 raises all-in [3871 Tournament chips]
+QwertySpark folds [3871 Tournament chips]
+brownkoko123 folds [3471 Tournament chips]
+luckylaureano calls all-in [2190 Tournament chips]
+Mace88 is returned 881 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Mace88 shows [ 9d 8d ]
+luckylaureano shows [ 6h Kc ]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 6s ] board:[ 3h 6s]
+** Dealing Flop ** [ Ks ] board:[ 3h 6s Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 3h 6s Ks 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 3h 6s Ks 5s 8s]
+        (no action in this round)
+Round 4 is over.
+Mace88 shows [ 9d 8d ] a pair of eights, king/nine kickers
+luckylaureano shows [ 6h Kc ] two pair, kings and sixes, eight kicker
+luckylaureano wins main pot 7080 Tournament chips with two pair, kings and sixes, eight kicker.
+Seat 0: craigd48 (14090 Tournament chips) 
+Seat 1: Mace88 (881 Tournament chips) 
+Seat 2: QwertySpark (9035 Tournament chips) 
+Seat 3: brownkoko123 (10636 Tournament chips) 
+Seat 4: luckylaureano (7080 Tournament chips) 
+Seat 5: canyoncowboys (5500 Tournament chips) 
+Seat 7: FlyingHammer (2815 Tournament chips) 
+Game #23938316-47 ends
+Game #23938316-48 starts
+Seat 0: craigd48 (14090 Tournament chips) 
+Seat 1: Mace88 (881 Tournament chips) 
+Seat 2: QwertySpark (9035 Tournament chips) 
+Seat 3: brownkoko123 (10636 Tournament chips) 
+Seat 4: luckylaureano (7080 Tournament chips) 
+Seat 5: canyoncowboys (5500 Tournament chips) 
+Seat 7: FlyingHammer (2815 Tournament chips) 
+The button is at seat 2
+craigd48 posted ante of 100 Tournament chips
+Mace88 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+brownkoko123 posted ante of 100 Tournament chips
+luckylaureano posted ante of 100 Tournament chips
+canyoncowboys posted ante of 100 Tournament chips
+FlyingHammer posted ante of 100 Tournament chips
+The button is moved to seat 3.
+luckylaureano posts the small blind [400 Tournament chips]
+canyoncowboys posts the big blind [800 Tournament chips]
+craigd48, at seat 0, is in this hand with 13990 Tournament chips.
+Mace88, at seat 1, is in this hand with 781 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8935 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10536 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6580 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 4600 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 2715 Tournament chips.
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ 6d Qs ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+FlyingHammer raises all-in [2715 Tournament chips]
+craigd48 folds [2715 Tournament chips]
+Mace88 calls all-in [781 Tournament chips]
+QwertySpark folds [2715 Tournament chips]
+brownkoko123 folds [2715 Tournament chips]
+luckylaureano folds [2315 Tournament chips]
+canyoncowboys folds [1915 Tournament chips]
+FlyingHammer is returned 1915 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Mace88 shows [ Kd Ad ]
+FlyingHammer shows [ 7h 7s ]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 5c ] board:[ Th 5c]
+** Dealing Flop ** [ Kc ] board:[ Th 5c Kc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Th 5c Kc 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ Th 5c Kc 2c 5h]
+        (no action in this round)
+Round 4 is over.
+Mace88 shows [ Kd Ad ] two pair, kings and fives, ace kicker
+FlyingHammer shows [ 7h 7s ] two pair, sevens and fives, king kicker
+Mace88 wins main pot 3443 Tournament chips with two pair, kings and fives, ace kicker.
+FlyingHammer wins side pot #1 38 Tournament chips with two pair, sevens and fives, king kicker.
+Seat 0: craigd48 (13990 Tournament chips) 
+Seat 1: Mace88 (3443 Tournament chips) 
+Seat 2: QwertySpark (8935 Tournament chips) 
+Seat 3: brownkoko123 (10536 Tournament chips) 
+Seat 4: luckylaureano (6580 Tournament chips) 
+Seat 5: canyoncowboys (4600 Tournament chips) 
+Seat 7: FlyingHammer (1953 Tournament chips) 
+Game #23938316-48 ends
+Game #23938316-49 starts
+Seat 0: craigd48 (13990 Tournament chips) 
+Seat 1: Mace88 (3443 Tournament chips) 
+Seat 2: QwertySpark (8935 Tournament chips) 
+Seat 3: brownkoko123 (10536 Tournament chips) 
+Seat 4: luckylaureano (6580 Tournament chips) 
+Seat 5: canyoncowboys (4600 Tournament chips) 
+Seat 7: FlyingHammer (1953 Tournament chips) 
+The button is at seat 3
+craigd48 posted ante of 100 Tournament chips
+Mace88 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+brownkoko123 posted ante of 100 Tournament chips
+luckylaureano posted ante of 100 Tournament chips
+canyoncowboys posted ante of 100 Tournament chips
+FlyingHammer posted ante of 100 Tournament chips
+The button is moved to seat 4.
+canyoncowboys posts the small blind [400 Tournament chips]
+FlyingHammer posts the big blind [800 Tournament chips]
+craigd48, at seat 0, is in this hand with 13890 Tournament chips.
+Mace88, at seat 1, is in this hand with 3343 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8835 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10436 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6480 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 4100 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 1053 Tournament chips.
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ Th 9c ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+craigd48 folds [800 Tournament chips]
+Mace88 raises all-in [3343 Tournament chips]
+QwertySpark folds [3343 Tournament chips]
+brownkoko123 folds [3343 Tournament chips]
+luckylaureano folds [3343 Tournament chips]
+canyoncowboys folds [2943 Tournament chips]
+FlyingHammer folds [1053 Tournament chips]
+Mace88 is returned 2543 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Mace88 (Ac Ks: ace high)
+Mace88 shows [ Ac Ks ] ace high
+Hand evaluation for Mace88 (Ac Ks: ace high)
+Mace88 wins main pot 2700 Tournament chips.
+(canyoncowboys has entered the table, is no longer absent.)
+Seat 0: craigd48 (13890 Tournament chips) 
+Seat 1: Mace88 (5243 Tournament chips) 
+Seat 2: QwertySpark (8835 Tournament chips) 
+Seat 3: brownkoko123 (10436 Tournament chips) 
+Seat 4: luckylaureano (6480 Tournament chips) 
+Seat 5: canyoncowboys (4100 Tournament chips) 
+Seat 7: FlyingHammer (1053 Tournament chips) 
+Game #23938316-49 ends
+Game #23938316-50 starts
+Seat 0: craigd48 (13890 Tournament chips) 
+Seat 1: Mace88 (5243 Tournament chips) 
+Seat 2: QwertySpark (8835 Tournament chips) 
+Seat 3: brownkoko123 (10436 Tournament chips) 
+Seat 4: luckylaureano (6480 Tournament chips) 
+Seat 5: canyoncowboys (4100 Tournament chips) 
+Seat 7: FlyingHammer (1053 Tournament chips) 
+The button is at seat 4
+craigd48 posted ante of 100 Tournament chips
+Mace88 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+brownkoko123 posted ante of 100 Tournament chips
+luckylaureano posted ante of 100 Tournament chips
+FlyingHammer posted ante of 100 Tournament chips
+canyoncowboys posted ante of 100 Tournament chips
+The button is moved to seat 5.
+FlyingHammer posts the small blind [400 Tournament chips]
+craigd48 posts the big blind [800 Tournament chips]
+craigd48, at seat 0, is in this hand with 12990 Tournament chips.
+Mace88, at seat 1, is in this hand with 5143 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8735 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10336 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6380 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 4000 Tournament chips.
+FlyingHammer, at seat 7, is in this hand with 553 Tournament chips.
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+FlyingHammer is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ Jc 2h ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to FlyingHammer [ **** ]
+Mace88 raises [3500 Tournament chips]
+QwertySpark folds [3500 Tournament chips]
+brownkoko123 folds [3500 Tournament chips]
+luckylaureano folds [3500 Tournament chips]
+canyoncowboys folds [3500 Tournament chips]
+FlyingHammer calls all-in [553 Tournament chips]
+craigd48 folds [2700 Tournament chips]
+Mace88 is returned 2547 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Mace88 shows [ Ad 8h ]
+FlyingHammer shows [ 9s Jh ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 2c ] board:[ Ts 2c]
+** Dealing Flop ** [ 2d ] board:[ Ts 2c 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Ts 2c 2d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Ts 2c 2d 3h Ks]
+        (no action in this round)
+Round 4 is over.
+Mace88 shows [ Ad 8h ] a pair of deuces, ace/king kickers
+FlyingHammer shows [ 9s Jh ] a pair of deuces, king/jack kickers
+Mace88 wins main pot 3406 Tournament chips with a pair of deuces, ace/king kickers.
+Seat 0: craigd48 (12990 Tournament chips) 
+Seat 1: Mace88 (7596 Tournament chips) 
+Seat 2: QwertySpark (8735 Tournament chips) 
+Seat 3: brownkoko123 (10336 Tournament chips) 
+Seat 4: luckylaureano (6380 Tournament chips) 
+Seat 5: canyoncowboys (4000 Tournament chips) 
+Seat 7: FlyingHammer (0 Tournament chips) 
+Game #23938316-50 ends
+Player FlyingHammer leaves the table with 0 Tournament chips
+Game #23938316-51 starts
+Seat 0: craigd48 (12990 Tournament chips) 
+Seat 1: Mace88 (7596 Tournament chips) 
+Seat 2: QwertySpark (8735 Tournament chips) 
+Seat 3: brownkoko123 (10336 Tournament chips) 
+Seat 4: luckylaureano (6380 Tournament chips) 
+Seat 5: canyoncowboys (4000 Tournament chips) 
+The button is at seat 5
+craigd48 posted ante of 100 Tournament chips
+Mace88 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+brownkoko123 posted ante of 100 Tournament chips
+luckylaureano posted ante of 100 Tournament chips
+canyoncowboys posted ante of 100 Tournament chips
+The button is moved to seat 7.
+craigd48 posts the small blind [400 Tournament chips]
+Mace88 posts the big blind [800 Tournament chips]
+craigd48, at seat 0, is in this hand with 12490 Tournament chips.
+Mace88, at seat 1, is in this hand with 6696 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8635 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10236 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6280 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 3900 Tournament chips.
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ As Th ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+QwertySpark raises [3200 Tournament chips]
+brownkoko123 folds [3200 Tournament chips]
+luckylaureano folds [3200 Tournament chips]
+canyoncowboys folds [3200 Tournament chips]
+craigd48 folds [2800 Tournament chips]
+Mace88 folds [2400 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As Th: ace high)
+QwertySpark wins main pot 2600 Tournament chips.
+Seat 0: craigd48 (12490 Tournament chips) 
+Seat 1: Mace88 (6696 Tournament chips) 
+Seat 2: QwertySpark (10435 Tournament chips) 
+Seat 3: brownkoko123 (10236 Tournament chips) 
+Seat 4: luckylaureano (6280 Tournament chips) 
+Seat 5: canyoncowboys (3900 Tournament chips) 
+Seat 7: Facemobb (17304 Tournament chips) 
+Game #23938316-51 ends
+Game #23938316-52 starts
+Seat 0: craigd48 (12490 Tournament chips) 
+Seat 1: Mace88 (6696 Tournament chips) 
+Seat 2: QwertySpark (10435 Tournament chips) 
+Seat 3: brownkoko123 (10236 Tournament chips) 
+Seat 4: luckylaureano (6280 Tournament chips) 
+Seat 5: canyoncowboys (3900 Tournament chips) 
+Seat 7: Facemobb (17304 Tournament chips) 
+The button is at seat 7
+craigd48 posted ante of 125 Tournament chips
+Mace88 posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+brownkoko123 posted ante of 125 Tournament chips
+canyoncowboys posted ante of 125 Tournament chips
+Facemobb posted ante of 125 Tournament chips
+luckylaureano posted ante of 125 Tournament chips
+The button is moved to seat 0.
+Mace88 posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+craigd48, at seat 0, is in this hand with 12365 Tournament chips.
+Mace88, at seat 1, is in this hand with 5971 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9110 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 10111 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6155 Tournament chips.
+canyoncowboys, at seat 5, is in this hand (absent) with 3775 Tournament chips.
+Facemobb, at seat 7, is in this hand with 17179 Tournament chips.
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Mace88 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Mace88 [ **** ]
+Dealt to QwertySpark [ 8d Qs ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+(canyoncowboys has entered the table, is no longer absent.)
+brownkoko123 folds [1200 Tournament chips]
+luckylaureano folds [1200 Tournament chips]
+canyoncowboys raises [2400 Tournament chips]
+Facemobb folds [2400 Tournament chips]
+craigd48 re-raises [3600 Tournament chips]
+Mace88 raises all-in [5971 Tournament chips]
+QwertySpark folds [5371 Tournament chips]
+canyoncowboys calls all-in [1375 Tournament chips]
+craigd48 calls [2971 Tournament chips]
+Tournament all-in showdown -- players show:
+craigd48 shows [ As Qc ]
+Mace88 shows [ Ah Kd ]
+canyoncowboys shows [ Ks Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 9s ] board:[ 9h 9s]
+** Dealing Flop ** [ 6d ] board:[ 9h 9s 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 9h 9s 6d Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 9h 9s 6d Qd 2s]
+        (no action in this round)
+Round 4 is over.
+craigd48 shows [ As Qc ] two pair, queens and nines, ace kicker
+Mace88 shows [ Ah Kd ] a pair of nines, ace/king kickers
+canyoncowboys shows [ Ks Kh ] two pair, kings and nines, queen kicker
+canyoncowboys wins main pot 13400 Tournament chips with two pair, kings and nines, queen kicker.
+craigd48 wins side pot #1 5592 Tournament chips with two pair, queens and nines, ace kicker.
+Seat 0: craigd48 (11386 Tournament chips) 
+Seat 1: Mace88 (0 Tournament chips) 
+Seat 2: QwertySpark (9110 Tournament chips) 
+Seat 3: brownkoko123 (10111 Tournament chips) 
+Seat 4: luckylaureano (6155 Tournament chips) 
+Seat 5: canyoncowboys (13400 Tournament chips) 
+Seat 7: Facemobb (17179 Tournament chips) 
+Game #23938316-52 ends
+Player Mace88 leaves the table with 0 Tournament chips
+Game #23938316-53 starts
+Seat 0: craigd48 (11386 Tournament chips) 
+Seat 2: QwertySpark (9110 Tournament chips) 
+Seat 3: brownkoko123 (10111 Tournament chips) 
+Seat 4: luckylaureano (6155 Tournament chips) 
+Seat 5: canyoncowboys (13400 Tournament chips) 
+Seat 7: Facemobb (17179 Tournament chips) 
+The button is at seat 0
+craigd48 posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+brownkoko123 posted ante of 125 Tournament chips
+luckylaureano posted ante of 125 Tournament chips
+canyoncowboys posted ante of 125 Tournament chips
+Facemobb posted ante of 125 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [600 Tournament chips]
+brownkoko123 posts the big blind [1200 Tournament chips]
+craigd48, at seat 0, is in this hand with 11261 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8385 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 8786 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6030 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 13275 Tournament chips.
+Facemobb, at seat 7, is in this hand with 17054 Tournament chips.
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to QwertySpark [ Ts 2d ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+luckylaureano raises all-in [6030 Tournament chips]
+canyoncowboys folds [6030 Tournament chips]
+Facemobb folds [6030 Tournament chips]
+craigd48 folds [6030 Tournament chips]
+QwertySpark folds [5430 Tournament chips]
+brownkoko123 folds [4830 Tournament chips]
+luckylaureano is returned 4830 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for luckylaureano (Ac 4c: ace high)
+luckylaureano wins main pot 3750 Tournament chips.
+Seat 0: craigd48 (11261 Tournament chips) 
+Seat 1: Tommy101010 (14120 Tournament chips) 
+Seat 2: QwertySpark (8385 Tournament chips) 
+Seat 3: brownkoko123 (8786 Tournament chips) 
+Seat 4: luckylaureano (8580 Tournament chips) 
+Seat 5: canyoncowboys (13275 Tournament chips) 
+Seat 7: Facemobb (17054 Tournament chips) 
+Game #23938316-53 ends
+Game #23938316-54 starts
+Seat 0: craigd48 (11261 Tournament chips) 
+Seat 1: Tommy101010 (14120 Tournament chips) 
+Seat 2: QwertySpark (8385 Tournament chips) 
+Seat 3: brownkoko123 (8786 Tournament chips) 
+Seat 4: luckylaureano (8580 Tournament chips) 
+Seat 5: canyoncowboys (13275 Tournament chips) 
+Seat 7: Facemobb (17054 Tournament chips) 
+The button is at seat 1
+craigd48 posted ante of 125 Tournament chips
+Tommy101010 posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+brownkoko123 posted ante of 125 Tournament chips
+luckylaureano posted ante of 125 Tournament chips
+canyoncowboys posted ante of 125 Tournament chips
+Facemobb posted ante of 125 Tournament chips
+The button is moved to seat 2.
+brownkoko123 posts the small blind [600 Tournament chips]
+luckylaureano posts the big blind [1200 Tournament chips]
+craigd48, at seat 0, is in this hand with 11136 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 13995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8260 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 8061 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 7255 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 13150 Tournament chips.
+Facemobb, at seat 7, is in this hand with 16929 Tournament chips.
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 3c Tc ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+canyoncowboys folds [1200 Tournament chips]
+Facemobb calls [1200 Tournament chips]
+craigd48 folds [1200 Tournament chips]
+Tommy101010 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+brownkoko123 calls [600 Tournament chips]
+luckylaureano checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 7s ] board:[ 3d 7s]
+** Dealing Flop ** [ 7c ] board:[ 3d 7s 7c]
+brownkoko123 checks
+luckylaureano checks
+Facemobb bets for 1200 Tournament chips
+brownkoko123 folds [1200 Tournament chips]
+luckylaureano folds [1200 Tournament chips]
+Facemobb is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Facemobb (9d 7d 3d 7s 7c: three sevens)
+Facemobb wins main pot 4475 Tournament chips.
+Seat 0: craigd48 (11136 Tournament chips) 
+Seat 1: Tommy101010 (13995 Tournament chips) 
+Seat 2: QwertySpark (8260 Tournament chips) 
+Seat 3: brownkoko123 (7461 Tournament chips) 
+Seat 4: luckylaureano (7255 Tournament chips) 
+Seat 5: canyoncowboys (13150 Tournament chips) 
+Seat 7: Facemobb (20204 Tournament chips) 
+Game #23938316-54 ends
+Game #23938316-55 starts
+Seat 0: craigd48 (11136 Tournament chips) 
+Seat 1: Tommy101010 (13995 Tournament chips) 
+Seat 2: QwertySpark (8260 Tournament chips) 
+Seat 3: brownkoko123 (7461 Tournament chips) 
+Seat 4: luckylaureano (7255 Tournament chips) 
+Seat 5: canyoncowboys (13150 Tournament chips) 
+Seat 7: Facemobb (20204 Tournament chips) 
+The button is at seat 2
+Tommy101010 posted ante of 125 Tournament chips
+canyoncowboys posted ante of 125 Tournament chips
+brownkoko123 posted ante of 125 Tournament chips
+Facemobb posted ante of 125 Tournament chips
+luckylaureano posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+craigd48 posted ante of 125 Tournament chips
+The button is moved to seat 3.
+luckylaureano posts the small blind [600 Tournament chips]
+canyoncowboys posts the big blind [1200 Tournament chips]
+craigd48, at seat 0, is in this hand with 11011 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 13870 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8135 Tournament chips.
+brownkoko123, at seat 3, is in this hand with 7336 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6530 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 11825 Tournament chips.
+Facemobb, at seat 7, is in this hand with 20079 Tournament chips.
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+brownkoko123 is dealt: **
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+brownkoko123 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 2s Ah ]
+Dealt to brownkoko123 [ **** ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+Facemobb folds [1200 Tournament chips]
+craigd48 folds [1200 Tournament chips]
+Tommy101010 folds [1200 Tournament chips]
+QwertySpark raises [4800 Tournament chips]
+brownkoko123 raises all-in [7336 Tournament chips]
+luckylaureano folds [6530 Tournament chips]
+canyoncowboys folds [6136 Tournament chips]
+QwertySpark calls [2536 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 2s Ah ]
+brownkoko123 shows [ Ad Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Qs ] board:[ 2c Qs]
+** Dealing Flop ** [ 9d ] board:[ 2c Qs 9d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 2c Qs 9d 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 2c Qs 9d 9s 5d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 2s Ah ] two pair, nines and deuces, ace kicker
+brownkoko123 shows [ Ad Kh ] a pair of nines, ace/king kickers
+QwertySpark wins main pot 17347 Tournament chips with two pair, nines and deuces, ace kicker.
+Seat 0: craigd48 (11011 Tournament chips) 
+Seat 1: Tommy101010 (13870 Tournament chips) 
+Seat 2: QwertySpark (18146 Tournament chips) 
+Seat 3: brownkoko123 (0 Tournament chips) 
+Seat 4: luckylaureano (6530 Tournament chips) 
+Seat 5: canyoncowboys (11825 Tournament chips) 
+Seat 7: Facemobb (20079 Tournament chips) 
+Game #23938316-55 ends
+Player brownkoko123 leaves the table with 0 Tournament chips
+Game #23938316-56 starts
+Seat 0: craigd48 (11011 Tournament chips) 
+Seat 1: Tommy101010 (13870 Tournament chips) 
+Seat 2: QwertySpark (18146 Tournament chips) 
+Seat 4: luckylaureano (6530 Tournament chips) 
+Seat 5: canyoncowboys (11825 Tournament chips) 
+Seat 7: Facemobb (20079 Tournament chips) 
+The button is at seat 3
+Tommy101010 posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+luckylaureano posted ante of 125 Tournament chips
+craigd48 posted ante of 125 Tournament chips
+canyoncowboys posted ante of 125 Tournament chips
+Facemobb posted ante of 125 Tournament chips
+The button is moved to seat 4.
+canyoncowboys posts the small blind [600 Tournament chips]
+Facemobb posts the big blind [1200 Tournament chips]
+craigd48, at seat 0, is in this hand with 10886 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 13745 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 18021 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6405 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 11100 Tournament chips.
+Facemobb, at seat 7, is in this hand with 18754 Tournament chips.
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 7d 4h ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+craigd48 folds [1200 Tournament chips]
+Tommy101010 calls [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+luckylaureano folds [1200 Tournament chips]
+canyoncowboys calls [600 Tournament chips]
+Facemobb checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 3d ] board:[ Jc 3d]
+** Dealing Flop ** [ Tc ] board:[ Jc 3d Tc]
+canyoncowboys bets for 1200 Tournament chips
+Facemobb calls [1200 Tournament chips]
+Tommy101010 calls [1200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Jc 3d Tc 6s]
+canyoncowboys bets for 1200 Tournament chips
+Facemobb folds [1200 Tournament chips]
+Tommy101010 calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Jc 3d Tc 6s As]
+canyoncowboys bets for 3600 Tournament chips
+Tommy101010 folds [3600 Tournament chips]
+canyoncowboys is returned 3600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for canyoncowboys (Ah Jh Jc Tc As: two pair, aces and jacks)
+canyoncowboys wins main pot 10350 Tournament chips.
+Seat 0: craigd48 (10886 Tournament chips) 
+Seat 1: Tommy101010 (10145 Tournament chips) 
+Seat 2: QwertySpark (18021 Tournament chips) 
+Seat 4: luckylaureano (6405 Tournament chips) 
+Seat 5: canyoncowboys (18450 Tournament chips) 
+Seat 6: GTMAC (8559 Tournament chips) 
+Seat 7: Facemobb (17554 Tournament chips) 
+Game #23938316-56 ends
+Game #23938316-57 starts
+Seat 0: craigd48 (10886 Tournament chips) 
+Seat 1: Tommy101010 (10145 Tournament chips) 
+Seat 2: QwertySpark (18021 Tournament chips) 
+Seat 4: luckylaureano (6405 Tournament chips) 
+Seat 5: canyoncowboys (18450 Tournament chips) 
+Seat 6: GTMAC (8559 Tournament chips) 
+Seat 7: Facemobb (17554 Tournament chips) 
+The button is at seat 4
+craigd48 posted ante of 150 Tournament chips
+Tommy101010 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+luckylaureano posted ante of 150 Tournament chips
+canyoncowboys posted ante of 150 Tournament chips
+Facemobb posted ante of 150 Tournament chips
+The button is moved to seat 5.
+Facemobb posts the small blind [800 Tournament chips]
+craigd48 posts the big blind [1600 Tournament chips]
+craigd48, at seat 0, is in this hand with 9136 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 9995 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 17871 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6255 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 18300 Tournament chips.
+Facemobb, at seat 7, is in this hand with 16604 Tournament chips.
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 8d 5s ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to Facemobb [ **** ]
+Tommy101010 raises [4800 Tournament chips]
+QwertySpark folds [4800 Tournament chips]
+luckylaureano folds [4800 Tournament chips]
+canyoncowboys folds [4800 Tournament chips]
+Facemobb folds [4000 Tournament chips]
+craigd48 folds [3200 Tournament chips]
+Tommy101010 is returned 3200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Tommy101010 (Kc Ks: a pair of kings)
+Tommy101010 wins main pot 4900 Tournament chips.
+(canyoncowboys has entered the table, is no longer absent.)
+Seat 0: craigd48 (9136 Tournament chips) 
+Seat 1: Tommy101010 (13295 Tournament chips) 
+Seat 2: QwertySpark (17871 Tournament chips) 
+Seat 4: luckylaureano (6255 Tournament chips) 
+Seat 5: canyoncowboys (18300 Tournament chips) 
+Seat 6: GTMAC (8559 Tournament chips) 
+Seat 7: Facemobb (16604 Tournament chips) 
+Game #23938316-57 ends
+Game #23938316-58 starts
+Seat 0: craigd48 (9136 Tournament chips) 
+Seat 1: Tommy101010 (13295 Tournament chips) 
+Seat 2: QwertySpark (17871 Tournament chips) 
+Seat 4: luckylaureano (6255 Tournament chips) 
+Seat 5: canyoncowboys (18300 Tournament chips) 
+Seat 6: GTMAC (8559 Tournament chips) 
+Seat 7: Facemobb (16604 Tournament chips) 
+The button is at seat 5
+craigd48 posted ante of 150 Tournament chips
+Tommy101010 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+luckylaureano posted ante of 150 Tournament chips
+canyoncowboys posted ante of 150 Tournament chips
+GTMAC posted ante of 150 Tournament chips
+Facemobb posted ante of 150 Tournament chips
+The button is moved to seat 7.
+craigd48 posts the small blind [800 Tournament chips]
+Tommy101010 posts the big blind [1600 Tournament chips]
+craigd48, at seat 0, is in this hand with 8186 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 11545 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 17721 Tournament chips.
+luckylaureano, at seat 4, is in this hand with 6105 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 18150 Tournament chips.
+GTMAC, at seat 6, is in this hand with 8409 Tournament chips.
+Facemobb, at seat 7, is in this hand with 16454 Tournament chips.
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+luckylaureano is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Jc Jd ]
+Dealt to luckylaureano [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+QwertySpark raises [8000 Tournament chips]
+luckylaureano calls all-in [6105 Tournament chips]
+canyoncowboys folds [8000 Tournament chips]
+GTMAC folds [8000 Tournament chips]
+Facemobb folds [8000 Tournament chips]
+craigd48 folds [7200 Tournament chips]
+Tommy101010 folds [6400 Tournament chips]
+QwertySpark is returned 1895 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jc Jd ]
+luckylaureano shows [ 9h Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Qd ] board:[ 6h Qd]
+** Dealing Flop ** [ Tc ] board:[ 6h Qd Tc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 6h Qd Tc Ks]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 6h Qd Tc Ks Ac]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jc Jd ] straight, ace high
+luckylaureano shows [ 9h Kh ] a pair of kings, ace/queen kickers
+QwertySpark wins main pot 15660 Tournament chips with straight, ace high.
+Seat 0: craigd48 (8186 Tournament chips) 
+Seat 1: Tommy101010 (11545 Tournament chips) 
+Seat 2: QwertySpark (27276 Tournament chips) 
+Seat 4: luckylaureano (0 Tournament chips) 
+Seat 5: canyoncowboys (18150 Tournament chips) 
+Seat 6: GTMAC (8409 Tournament chips) 
+Seat 7: Facemobb (16454 Tournament chips) 
+Game #23938316-58 ends
+Player luckylaureano leaves the table with 0 Tournament chips
+Game #23938316-59 starts
+Seat 0: craigd48 (8186 Tournament chips) 
+Seat 1: Tommy101010 (11545 Tournament chips) 
+Seat 2: QwertySpark (27276 Tournament chips) 
+Seat 5: canyoncowboys (18150 Tournament chips) 
+Seat 6: GTMAC (8409 Tournament chips) 
+Seat 7: Facemobb (16454 Tournament chips) 
+The button is at seat 7
+craigd48 posted ante of 150 Tournament chips
+Tommy101010 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+canyoncowboys posted ante of 150 Tournament chips
+GTMAC posted ante of 150 Tournament chips
+Facemobb posted ante of 150 Tournament chips
+The button is moved to seat 0.
+Tommy101010 posts the small blind [800 Tournament chips]
+QwertySpark posts the big blind [1600 Tournament chips]
+craigd48, at seat 0, is in this hand with 8036 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 10595 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 25526 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 18000 Tournament chips.
+GTMAC, at seat 6, is in this hand with 8259 Tournament chips.
+Facemobb, at seat 7, is in this hand (absent) with 16304 Tournament chips.
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Jh 2h ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+(Facemobb has entered the table, is no longer absent.)
+canyoncowboys folds [1600 Tournament chips]
+GTMAC folds [1600 Tournament chips]
+Facemobb raises [4000 Tournament chips]
+craigd48 folds [4000 Tournament chips]
+Tommy101010 folds [3200 Tournament chips]
+QwertySpark calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 5s ] board:[ 6h 5s]
+** Dealing Flop ** [ Js ] board:[ 6h 5s Js]
+QwertySpark bets for 9700 Tournament chips
+Facemobb raises all-in [12304 Tournament chips]
+QwertySpark calls [2604 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jh 2h ]
+Facemobb shows [ Kc Ks ]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 6h 5s Js 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 6h 5s Js 5d Ts]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jh 2h ] two pair, jacks and fives, ten kicker
+Facemobb shows [ Kc Ks ] two pair, kings and fives, jack kicker
+Facemobb wins main pot 34308 Tournament chips with two pair, kings and fives, jack kicker.
+Seat 0: craigd48 (8036 Tournament chips) 
+Seat 1: Tommy101010 (10595 Tournament chips) 
+Seat 2: QwertySpark (10822 Tournament chips) 
+Seat 5: canyoncowboys (18000 Tournament chips) 
+Seat 6: GTMAC (8259 Tournament chips) 
+Seat 7: Facemobb (34308 Tournament chips) 
+Game #23938316-59 ends
+Game #23938316-60 starts
+Seat 0: craigd48 (8036 Tournament chips) 
+Seat 1: Tommy101010 (10595 Tournament chips) 
+Seat 2: QwertySpark (10822 Tournament chips) 
+Seat 5: canyoncowboys (18000 Tournament chips) 
+Seat 6: GTMAC (8259 Tournament chips) 
+Seat 7: Facemobb (34308 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 150 Tournament chips
+craigd48 posted ante of 150 Tournament chips
+Tommy101010 posted ante of 150 Tournament chips
+canyoncowboys posted ante of 150 Tournament chips
+GTMAC posted ante of 150 Tournament chips
+Facemobb posted ante of 150 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [800 Tournament chips]
+canyoncowboys posts the big blind [1600 Tournament chips]
+craigd48, at seat 0, is in this hand with 7886 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 10445 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 9872 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 16250 Tournament chips.
+GTMAC, at seat 6, is in this hand with 8109 Tournament chips.
+Facemobb, at seat 7, is in this hand with 34158 Tournament chips.
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 7s 4s ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+GTMAC folds [1600 Tournament chips]
+Facemobb folds [1600 Tournament chips]
+craigd48 folds [1600 Tournament chips]
+Tommy101010 calls [1600 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+canyoncowboys has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 4c ] board:[ Ks 4c]
+** Dealing Flop ** [ Qh ] board:[ Ks 4c Qh]
+QwertySpark checks
+canyoncowboys has timed out - the hand is checked
+Tommy101010 bets for 2850 Tournament chips
+QwertySpark calls [2850 Tournament chips]
+canyoncowboys folds [2850 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Ks 4c Qh Qd]
+QwertySpark goes all-in for 6222 Tournament chips
+Tommy101010 folds [5995 Tournament chips]
+QwertySpark is returned 6222 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (4s Ks 4c Qh Qd: two pair, queens and fours)
+QwertySpark wins main pot 11400 Tournament chips.
+Seat 0: craigd48 (7886 Tournament chips) 
+Seat 1: Tommy101010 (5995 Tournament chips) 
+Seat 2: QwertySpark (17622 Tournament chips) 
+Seat 5: canyoncowboys (16250 Tournament chips) 
+Seat 6: GTMAC (8109 Tournament chips) 
+Seat 7: Facemobb (34158 Tournament chips) 
+Seat 8: CoRiverBoater (24534 Tournament chips) 
+Game #23938316-60 ends
+Game #23938316-61 starts
+Seat 0: craigd48 (7886 Tournament chips) 
+Seat 1: Tommy101010 (5995 Tournament chips) 
+Seat 2: QwertySpark (17622 Tournament chips) 
+Seat 5: canyoncowboys (16250 Tournament chips) 
+Seat 6: GTMAC (8109 Tournament chips) 
+Seat 7: Facemobb (34158 Tournament chips) 
+Seat 8: CoRiverBoater (24534 Tournament chips) 
+The button is at seat 1
+Tommy101010 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+craigd48 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+The button is moved to seat 2.
+canyoncowboys posts the small blind [1000 Tournament chips]
+GTMAC posts the big blind [2000 Tournament chips]
+craigd48, at seat 0, is in this hand with 7686 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 5795 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 17422 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 15050 Tournament chips.
+GTMAC, at seat 6, is in this hand with 5909 Tournament chips.
+Facemobb, at seat 7, is in this hand with 33958 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 24334 Tournament chips.
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Qh 4s ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+Facemobb folds [2000 Tournament chips]
+CoRiverBoater folds [2000 Tournament chips]
+craigd48 folds [2000 Tournament chips]
+Tommy101010 calls [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+canyoncowboys folds [1000 Tournament chips]
+GTMAC raises all-in [5909 Tournament chips]
+Tommy101010 calls all-in [3795 Tournament chips]
+GTMAC is returned 2114 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Tommy101010 shows [ Qc Kd ]
+GTMAC shows [ 6d 7c ]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 7s ] board:[ Qd 7s]
+** Dealing Flop ** [ 4h ] board:[ Qd 7s 4h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ Qd 7s 4h 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Qd 7s 4h 5d Ah]
+        (no action in this round)
+Round 4 is over.
+Tommy101010 shows [ Qc Kd ] a pair of queens, ace/king kickers
+GTMAC shows [ 6d 7c ] a pair of sevens, ace/queen kickers
+Tommy101010 wins main pot 13990 Tournament chips with a pair of queens, ace/king kickers.
+Seat 0: craigd48 (7686 Tournament chips) 
+Seat 1: Tommy101010 (13990 Tournament chips) 
+Seat 2: QwertySpark (17422 Tournament chips) 
+Seat 5: canyoncowboys (15050 Tournament chips) 
+Seat 6: GTMAC (2114 Tournament chips) 
+Seat 7: Facemobb (33958 Tournament chips) 
+Seat 8: CoRiverBoater (24334 Tournament chips) 
+Game #23938316-61 ends
+Game #23938316-62 starts
+Seat 0: craigd48 (7686 Tournament chips) 
+Seat 1: Tommy101010 (13990 Tournament chips) 
+Seat 2: QwertySpark (17422 Tournament chips) 
+Seat 5: canyoncowboys (15050 Tournament chips) 
+Seat 6: GTMAC (2114 Tournament chips) 
+Seat 7: Facemobb (33958 Tournament chips) 
+Seat 8: CoRiverBoater (24334 Tournament chips) 
+The button is at seat 2
+craigd48 posted ante of 200 Tournament chips
+Tommy101010 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+The button is moved to seat 5.
+GTMAC posts the small blind [1000 Tournament chips]
+Facemobb posts the big blind [2000 Tournament chips]
+craigd48, at seat 0, is in this hand with 7486 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 13790 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 17222 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 14850 Tournament chips.
+GTMAC, at seat 6, is in this hand with 914 Tournament chips.
+Facemobb, at seat 7, is in this hand with 31758 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 24134 Tournament chips.
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Tc 2s ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+CoRiverBoater folds [2000 Tournament chips]
+craigd48 calls [2000 Tournament chips]
+Tommy101010 raises all-in [13790 Tournament chips]
+QwertySpark folds [13790 Tournament chips]
+canyoncowboys folds [13790 Tournament chips]
+GTMAC calls all-in [914 Tournament chips]
+Facemobb folds [11790 Tournament chips]
+craigd48 folds [5486 Tournament chips]
+Tommy101010 is returned 11790 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Tommy101010 shows [ Ac Kh ]
+GTMAC shows [ Qd 5d ]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 9h ] board:[ 5s 9h]
+** Dealing Flop ** [ 4c ] board:[ 5s 9h 4c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 5s 9h 4c 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 5s 9h 4c 6s 6h]
+        (no action in this round)
+Round 4 is over.
+Tommy101010 shows [ Ac Kh ] a pair of sixes, ace/king kickers
+GTMAC shows [ Qd 5d ] two pair, sixes and fives, queen kicker
+GTMAC wins main pot 9056 Tournament chips with two pair, sixes and fives, queen kicker.
+Tommy101010 wins side pot #1 258 Tournament chips with a pair of sixes, ace/king kickers.
+Seat 0: craigd48 (5486 Tournament chips) 
+Seat 1: Tommy101010 (12048 Tournament chips) 
+Seat 2: QwertySpark (17222 Tournament chips) 
+Seat 5: canyoncowboys (14850 Tournament chips) 
+Seat 6: GTMAC (9056 Tournament chips) 
+Seat 7: Facemobb (31758 Tournament chips) 
+Seat 8: CoRiverBoater (24134 Tournament chips) 
+Game #23938316-62 ends
+Game #23938316-63 starts
+Seat 0: craigd48 (5486 Tournament chips) 
+Seat 1: Tommy101010 (12048 Tournament chips) 
+Seat 2: QwertySpark (17222 Tournament chips) 
+Seat 5: canyoncowboys (14850 Tournament chips) 
+Seat 6: GTMAC (9056 Tournament chips) 
+Seat 7: Facemobb (31758 Tournament chips) 
+Seat 8: CoRiverBoater (24134 Tournament chips) 
+The button is at seat 5
+craigd48 posted ante of 200 Tournament chips
+Tommy101010 posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+The button is moved to seat 6.
+Facemobb posts the small blind [1000 Tournament chips]
+CoRiverBoater posts the big blind [2000 Tournament chips]
+craigd48, at seat 0, is in this hand with 5286 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 11848 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 17022 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 14650 Tournament chips.
+GTMAC, at seat 6, is in this hand with 8856 Tournament chips.
+Facemobb, at seat 7, is in this hand with 30558 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 21934 Tournament chips.
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 8h 9d ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+craigd48 folds [2000 Tournament chips]
+Tommy101010 folds [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+canyoncowboys calls [2000 Tournament chips]
+GTMAC raises all-in [8856 Tournament chips]
+Facemobb folds [7856 Tournament chips]
+CoRiverBoater calls [6856 Tournament chips]
+canyoncowboys calls [6856 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4c ] board:[ Ad 4c]
+** Dealing Flop ** [ Kh ] board:[ Ad 4c Kh]
+CoRiverBoater checks
+canyoncowboys goes all-in for 5794 Tournament chips
+CoRiverBoater calls [5794 Tournament chips]
+Tournament all-in showdown -- players show:
+canyoncowboys shows [ As 7h ]
+GTMAC shows [ Qs 4s ]
+CoRiverBoater shows [ 2d Qd ]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Ad 4c Kh 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ Ad 4c Kh 4h 7d]
+        (no action in this round)
+Round 4 is over.
+canyoncowboys shows [ As 7h ] two pair, aces and sevens, king kicker
+GTMAC shows [ Qs 4s ] three fours, ace/king kickers
+CoRiverBoater shows [ 2d Qd ] a pair of fours, ace/king kickers
+GTMAC wins main pot 28968 Tournament chips with three fours, ace/king kickers.
+canyoncowboys wins side pot #1 11588 Tournament chips with two pair, aces and sevens, king kicker.
+Seat 0: craigd48 (5286 Tournament chips) 
+Seat 1: Tommy101010 (11848 Tournament chips) 
+Seat 2: QwertySpark (17022 Tournament chips) 
+Seat 5: canyoncowboys (11588 Tournament chips) 
+Seat 6: GTMAC (28968 Tournament chips) 
+Seat 7: Facemobb (30558 Tournament chips) 
+Seat 8: CoRiverBoater (9284 Tournament chips) 
+Game #23938316-63 ends
+Game #23938316-64 starts
+Seat 0: craigd48 (5286 Tournament chips) 
+Seat 1: Tommy101010 (11848 Tournament chips) 
+Seat 2: QwertySpark (17022 Tournament chips) 
+Seat 5: canyoncowboys (11588 Tournament chips) 
+Seat 6: GTMAC (28968 Tournament chips) 
+Seat 7: Facemobb (30558 Tournament chips) 
+Seat 8: CoRiverBoater (9284 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 200 Tournament chips
+craigd48 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+Tommy101010 posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+The button is moved to seat 7.
+CoRiverBoater posts the small blind [1200 Tournament chips]
+craigd48 posts the big blind [2400 Tournament chips]
+craigd48, at seat 0, is in this hand with 2686 Tournament chips.
+Tommy101010, at seat 1, is in this hand with 11648 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 16822 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 11388 Tournament chips.
+GTMAC, at seat 6, is in this hand with 28768 Tournament chips.
+Facemobb, at seat 7, is in this hand with 30358 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 7884 Tournament chips.
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+craigd48 is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Dealt to craigd48 [ **** ]
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Js 9h ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+Tommy101010 calls [2400 Tournament chips]
+QwertySpark calls [2400 Tournament chips]
+canyoncowboys folds [2400 Tournament chips]
+GTMAC folds [2400 Tournament chips]
+Facemobb folds [2400 Tournament chips]
+CoRiverBoater folds [1200 Tournament chips]
+craigd48 raises all-in [2686 Tournament chips]
+Tommy101010 calls [2686 Tournament chips]
+QwertySpark calls [2686 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ As ] board:[ 9c As]
+** Dealing Flop ** [ Qc ] board:[ 9c As Qc]
+Tommy101010 goes all-in for 6562 Tournament chips
+QwertySpark folds [6562 Tournament chips]
+Tommy101010 is returned 6562 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+craigd48 shows [ Tc 2h ]
+Tommy101010 shows [ Ah 3c ]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 9c As Qc 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 9c As Qc 6d 2s]
+        (no action in this round)
+Round 4 is over.
+craigd48 shows [ Tc 2h ] a pair of deuces, ace/queen kickers
+Tommy101010 shows [ Ah 3c ] a pair of aces, queen/nine kickers
+Tommy101010 wins main pot 17858 Tournament chips with a pair of aces, queen/nine kickers.
+Seat 0: craigd48 (0 Tournament chips) 
+Seat 1: Tommy101010 (24420 Tournament chips) 
+Seat 2: QwertySpark (11736 Tournament chips) 
+Seat 5: canyoncowboys (11388 Tournament chips) 
+Seat 6: GTMAC (28768 Tournament chips) 
+Seat 7: Facemobb (30358 Tournament chips) 
+Seat 8: CoRiverBoater (7884 Tournament chips) 
+Game #23938316-64 ends
+Player craigd48 leaves the table with 0 Tournament chips
+Game #23938316-65 starts
+Seat 1: Tommy101010 (24420 Tournament chips) 
+Seat 2: QwertySpark (11736 Tournament chips) 
+Seat 5: canyoncowboys (11388 Tournament chips) 
+Seat 6: GTMAC (28768 Tournament chips) 
+Seat 7: Facemobb (30358 Tournament chips) 
+Seat 8: CoRiverBoater (7884 Tournament chips) 
+The button is at seat 7
+Tommy101010 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+The button is moved to seat 8.
+Tommy101010 posts the big blind [2400 Tournament chips]
+Tommy101010, at seat 1, is in this hand with 21820 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 11536 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 11188 Tournament chips.
+GTMAC, at seat 6, is in this hand with 28568 Tournament chips.
+Facemobb, at seat 7, is in this hand with 30158 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 7684 Tournament chips.
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+Tommy101010 is dealt: **
+
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Ts 4c ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+QwertySpark folds [2400 Tournament chips]
+canyoncowboys folds [2400 Tournament chips]
+GTMAC folds [2400 Tournament chips]
+Facemobb raises [4800 Tournament chips]
+CoRiverBoater folds [4800 Tournament chips]
+Tommy101010 calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 8c ] board:[ 7s 8c]
+** Dealing Flop ** [ Qc ] board:[ 7s 8c Qc]
+Tommy101010 checks
+Facemobb bets for 4000 Tournament chips
+Tommy101010 folds [4000 Tournament chips]
+Facemobb is returned 4000 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Facemobb (Ah 3c 7s 8c Qc: ace high)
+Facemobb wins main pot 10800 Tournament chips.
+Seat 1: Tommy101010 (19420 Tournament chips) 
+Seat 2: QwertySpark (11536 Tournament chips) 
+Seat 3: entertainer101 (23937 Tournament chips) 
+Seat 5: canyoncowboys (11188 Tournament chips) 
+Seat 6: GTMAC (28568 Tournament chips) 
+Seat 7: Facemobb (36158 Tournament chips) 
+Seat 8: CoRiverBoater (7684 Tournament chips) 
+Game #23938316-65 ends
+Game #23938316-66 starts
+Seat 1: Tommy101010 (19420 Tournament chips) 
+Seat 2: QwertySpark (11536 Tournament chips) 
+Seat 3: entertainer101 (23937 Tournament chips) 
+Seat 5: canyoncowboys (11188 Tournament chips) 
+Seat 6: GTMAC (28568 Tournament chips) 
+Seat 7: Facemobb (36158 Tournament chips) 
+Seat 8: CoRiverBoater (7684 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 200 Tournament chips
+Tommy101010 posted ante of 200 Tournament chips
+entertainer101 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+CoRiverBoater posted ante of 200 Tournament chips
+Tommy101010 posts the small blind [1200 Tournament chips]
+QwertySpark posts the big blind [2400 Tournament chips]
+Tommy101010, at seat 1, is in this hand with 18020 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 8936 Tournament chips.
+entertainer101, at seat 3, is in this hand with 23737 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 10988 Tournament chips.
+GTMAC, at seat 6, is in this hand with 28368 Tournament chips.
+Facemobb, at seat 7, is in this hand with 35958 Tournament chips.
+CoRiverBoater, at seat 8, is in this hand with 7484 Tournament chips.
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+CoRiverBoater is dealt: **
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 3h 7h ]
+Dealt to entertainer101 [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Dealt to CoRiverBoater [ **** ]
+entertainer101 calls [2400 Tournament chips]
+canyoncowboys folds [2400 Tournament chips]
+GTMAC calls [2400 Tournament chips]
+Facemobb folds [2400 Tournament chips]
+CoRiverBoater calls [2400 Tournament chips]
+Tommy101010 calls [1200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 4h ] board:[ Qd 4h]
+** Dealing Flop ** [ 9c ] board:[ Qd 4h 9c]
+Tommy101010 checks
+QwertySpark checks
+entertainer101 checks
+GTMAC bets for 6700 Tournament chips
+CoRiverBoater calls all-in [5084 Tournament chips]
+Tommy101010 raises all-in [16820 Tournament chips]
+QwertySpark folds [8936 Tournament chips]
+entertainer101 folds [16820 Tournament chips]
+GTMAC calls [10120 Tournament chips]
+Tournament all-in showdown -- players show:
+Tommy101010 shows [ 9s 9d ]
+GTMAC shows [ Qc Js ]
+CoRiverBoater shows [ 3c 3s ]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Qd 4h 9c Kc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Qd 4h 9c Kc 5s]
+        (no action in this round)
+Round 4 is over.
+Tommy101010 shows [ 9s 9d ] three nines, king/queen kickers
+GTMAC shows [ Qc Js ] a pair of queens, king/jack kickers
+CoRiverBoater shows [ 3c 3s ] a pair of threes, king/queen kickers
+Tommy101010 wins main pot 28652 Tournament chips with three nines, king/queen kickers.
+Tommy101010 wins side pot #1 23472 Tournament chips with three nines, king/queen kickers.
+Seat 1: Tommy101010 (52124 Tournament chips) 
+Seat 2: QwertySpark (8936 Tournament chips) 
+Seat 3: entertainer101 (21337 Tournament chips) 
+Seat 5: canyoncowboys (10988 Tournament chips) 
+Seat 6: GTMAC (9148 Tournament chips) 
+Seat 7: Facemobb (35958 Tournament chips) 
+Seat 8: CoRiverBoater (0 Tournament chips) 
+Game #23938316-66 ends
+Player CoRiverBoater leaves the table with 0 Tournament chips
+Game #23938316-67 starts
+Seat 1: Tommy101010 (52124 Tournament chips) 
+Seat 2: QwertySpark (8936 Tournament chips) 
+Seat 3: entertainer101 (21337 Tournament chips) 
+Seat 5: canyoncowboys (10988 Tournament chips) 
+Seat 6: GTMAC (9148 Tournament chips) 
+Seat 7: Facemobb (35958 Tournament chips) 
+The button is at seat 8
+Tommy101010 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+entertainer101 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+The button is moved to seat 1.
+QwertySpark posts the small blind [1200 Tournament chips]
+entertainer101 posts the big blind [2400 Tournament chips]
+Tommy101010, at seat 1, is in this hand with 51924 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7536 Tournament chips.
+entertainer101, at seat 3, is in this hand with 18737 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 10788 Tournament chips.
+GTMAC, at seat 6, is in this hand with 8948 Tournament chips.
+Facemobb, at seat 7, is in this hand with 35758 Tournament chips.
+
+entertainer101 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Th 6h ]
+Dealt to entertainer101 [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+canyoncowboys calls [2400 Tournament chips]
+GTMAC raises all-in [8948 Tournament chips]
+Facemobb folds [8948 Tournament chips]
+Tommy101010 folds [8948 Tournament chips]
+QwertySpark folds [7536 Tournament chips]
+entertainer101 folds [6548 Tournament chips]
+canyoncowboys calls [6548 Tournament chips]
+Tournament all-in showdown -- players show:
+canyoncowboys shows [ Td Jd ]
+GTMAC shows [ Ks Js ]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 6s ] board:[ 9c 6s]
+** Dealing Flop ** [ Jc ] board:[ 9c 6s Jc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 9c 6s Jc 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 9c 6s Jc 4s Qh]
+        (no action in this round)
+Round 4 is over.
+canyoncowboys shows [ Td Jd ] a pair of jacks, queen/ten kickers
+GTMAC shows [ Ks Js ] a pair of jacks, king/queen kickers
+GTMAC wins main pot 22696 Tournament chips with a pair of jacks, king/queen kickers.
+Seat 1: Tommy101010 (51924 Tournament chips) 
+Seat 2: QwertySpark (7536 Tournament chips) 
+Seat 3: entertainer101 (18737 Tournament chips) 
+Seat 4: SCOTTYG44 (59592 Tournament chips) 
+Seat 5: canyoncowboys (1840 Tournament chips) 
+Seat 6: GTMAC (22696 Tournament chips) 
+Seat 7: Facemobb (35758 Tournament chips) 
+Game #23938316-67 ends
+Game #23938316-68 starts
+Seat 1: Tommy101010 (51924 Tournament chips) 
+Seat 2: QwertySpark (7536 Tournament chips) 
+Seat 3: entertainer101 (18737 Tournament chips) 
+Seat 4: SCOTTYG44 (59592 Tournament chips) 
+Seat 5: canyoncowboys (1840 Tournament chips) 
+Seat 6: GTMAC (22696 Tournament chips) 
+Seat 7: Facemobb (35758 Tournament chips) 
+The button is at seat 1
+Tommy101010 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+entertainer101 posted ante of 200 Tournament chips
+SCOTTYG44 posted ante of 200 Tournament chips
+canyoncowboys posted ante of 200 Tournament chips
+Facemobb posted ante of 200 Tournament chips
+GTMAC posted ante of 200 Tournament chips
+The button is moved to seat 2.
+entertainer101 posts the small blind [1200 Tournament chips]
+SCOTTYG44 posts the big blind [2400 Tournament chips]
+Tommy101010, at seat 1, is in this hand with 51724 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7336 Tournament chips.
+entertainer101, at seat 3, is in this hand with 17337 Tournament chips.
+SCOTTYG44, at seat 4, is in this hand with 56992 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 1640 Tournament chips.
+GTMAC, at seat 6, is in this hand with 22496 Tournament chips.
+Facemobb, at seat 7, is in this hand with 35558 Tournament chips.
+entertainer101 is dealt: **
+SCOTTYG44 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+SCOTTYG44 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ Qh 4s ]
+Dealt to entertainer101 [ **** ]
+Dealt to SCOTTYG44 [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+canyoncowboys calls all-in [1640 Tournament chips]
+GTMAC folds [2400 Tournament chips]
+Facemobb folds [2400 Tournament chips]
+Tommy101010 folds [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+entertainer101 calls [1200 Tournament chips]
+SCOTTYG44 checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 4c ] board:[ 8h 4c]
+** Dealing Flop ** [ 7d ] board:[ 8h 4c 7d]
+entertainer101 checks
+SCOTTYG44 checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 8h 4c 7d Ts]
+entertainer101 bets for 2400 Tournament chips
+SCOTTYG44 calls [2400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 8h 4c 7d Ts 2s]
+entertainer101 checks
+SCOTTYG44 checks
+Round 4 is over.
+entertainer101 shows [ Js As ] ace high
+Hand evaluation for entertainer101 (Js As 8h 7d Ts: ace high)
+SCOTTYG44 shows [ Jc 2h ] a pair of deuces
+Hand evaluation for SCOTTYG44 (Jc 2h 8h Ts 2s: a pair of deuces)
+canyoncowboys shows [ 6c 7s ] a pair of sevens
+Hand evaluation for canyoncowboys (6c 7s 8h 7d Ts: a pair of sevens)
+canyoncowboys wins main pot 6320 Tournament chips with a pair of sevens, ten/eight kickers.
+SCOTTYG44 wins side pot #1 6320 Tournament chips with a pair of deuces, jack/ten kickers.
+Seat 1: Tommy101010 (51724 Tournament chips) 
+Seat 2: QwertySpark (7336 Tournament chips) 
+Seat 3: entertainer101 (13737 Tournament chips) 
+Seat 4: SCOTTYG44 (60912 Tournament chips) 
+Seat 5: canyoncowboys (6320 Tournament chips) 
+Seat 6: GTMAC (22496 Tournament chips) 
+Seat 7: Facemobb (35558 Tournament chips) 
+Game #23938316-68 ends
+Game #23938316-69 starts
+Seat 1: Tommy101010 (51724 Tournament chips) 
+Seat 2: QwertySpark (7336 Tournament chips) 
+Seat 3: entertainer101 (13737 Tournament chips) 
+Seat 4: SCOTTYG44 (60912 Tournament chips) 
+Seat 5: canyoncowboys (6320 Tournament chips) 
+Seat 6: GTMAC (22496 Tournament chips) 
+Seat 7: Facemobb (35558 Tournament chips) 
+The button is at seat 2
+Tommy101010 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+SCOTTYG44 posted ante of 300 Tournament chips
+entertainer101 posted ante of 300 Tournament chips
+canyoncowboys posted ante of 300 Tournament chips
+Facemobb posted ante of 300 Tournament chips
+GTMAC posted ante of 300 Tournament chips
+The button is moved to seat 3.
+SCOTTYG44 posts the small blind [1500 Tournament chips]
+canyoncowboys posts the big blind [3000 Tournament chips]
+Tommy101010, at seat 1, is in this hand (absent) with 51424 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 7036 Tournament chips.
+entertainer101, at seat 3, is in this hand with 13437 Tournament chips.
+SCOTTYG44, at seat 4, is in this hand with 59112 Tournament chips.
+canyoncowboys, at seat 5, is in this hand with 3020 Tournament chips.
+GTMAC, at seat 6, is in this hand with 22196 Tournament chips.
+Facemobb, at seat 7, is in this hand with 35258 Tournament chips.
+SCOTTYG44 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+SCOTTYG44 is dealt: **
+canyoncowboys is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 6c 8s ]
+Dealt to entertainer101 [ **** ]
+Dealt to SCOTTYG44 [ **** ]
+Dealt to canyoncowboys [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+GTMAC folds [3000 Tournament chips]
+Facemobb folds [3000 Tournament chips]
+Tommy101010 folds [3000 Tournament chips]
+QwertySpark folds [3000 Tournament chips]
+entertainer101 folds [3000 Tournament chips]
+SCOTTYG44 calls [1500 Tournament chips]
+canyoncowboys checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Kc ] board:[ 7s Kc]
+** Dealing Flop ** [ 9s ] board:[ 7s Kc 9s]
+SCOTTYG44 bets for 3000 Tournament chips
+canyoncowboys raises all-in [3020 Tournament chips]
+SCOTTYG44 calls [20 Tournament chips]
+Tournament all-in showdown -- players show:
+SCOTTYG44 shows [ 9h 5h ]
+canyoncowboys shows [ As Jh ]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 7s Kc 9s Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 7s Kc 9s Kh 2h]
+        (no action in this round)
+Round 4 is over.
+SCOTTYG44 shows [ 9h 5h ] two pair, kings and nines, seven kicker
+canyoncowboys shows [ As Jh ] a pair of kings, ace/jack kickers
+SCOTTYG44 wins main pot 14140 Tournament chips with two pair, kings and nines, seven kicker.
+Seat 1: Tommy101010 (51424 Tournament chips) 
+Seat 2: QwertySpark (7036 Tournament chips) 
+Seat 3: entertainer101 (13437 Tournament chips) 
+Seat 4: SCOTTYG44 (68732 Tournament chips) 
+Seat 5: canyoncowboys (0 Tournament chips) 
+Seat 6: GTMAC (22196 Tournament chips) 
+Seat 7: Facemobb (35258 Tournament chips) 
+Game #23938316-69 ends
+Player canyoncowboys leaves the table with 0 Tournament chips
+Game #23938316-70 starts
+Seat 1: Tommy101010 (51424 Tournament chips) 
+Seat 2: QwertySpark (7036 Tournament chips) 
+Seat 3: entertainer101 (13437 Tournament chips) 
+Seat 4: SCOTTYG44 (68732 Tournament chips) 
+Seat 6: GTMAC (22196 Tournament chips) 
+Seat 7: Facemobb (35258 Tournament chips) 
+The button is at seat 3
+Tommy101010 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+SCOTTYG44 posted ante of 300 Tournament chips
+entertainer101 posted ante of 300 Tournament chips
+GTMAC posted ante of 300 Tournament chips
+Facemobb posted ante of 300 Tournament chips
+The button is moved to seat 4.
+GTMAC posts the big blind [3000 Tournament chips]
+Tommy101010, at seat 1, is in this hand (absent) with 51124 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 6736 Tournament chips.
+entertainer101, at seat 3, is in this hand with 13137 Tournament chips.
+SCOTTYG44, at seat 4, is in this hand with 68432 Tournament chips.
+GTMAC, at seat 6, is in this hand with 18896 Tournament chips.
+Facemobb, at seat 7, is in this hand with 34958 Tournament chips.
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+SCOTTYG44 is dealt: **
+GTMAC is dealt: **
+Facemobb is dealt: **
+Tommy101010 is dealt: **
+
+entertainer101 is dealt: **
+SCOTTYG44 is dealt: **
+Dealt to Tommy101010 [ **** ]
+Dealt to QwertySpark [ 4d 3d ]
+Dealt to entertainer101 [ **** ]
+Dealt to SCOTTYG44 [ **** ]
+Dealt to GTMAC [ **** ]
+Dealt to Facemobb [ **** ]
+Facemobb folds [3000 Tournament chips]
+Tommy101010 folds [3000 Tournament chips]
+QwertySpark raises all-in [6736 Tournament chips]
+entertainer101 folds [6736 Tournament chips]
+SCOTTYG44 folds [6736 Tournament chips]
+GTMAC calls [3736 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 4d 3d ]
+GTMAC shows [ Kc Th ]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Qh ] board:[ 6h Qh]
+** Dealing Flop ** [ 7h ] board:[ 6h Qh 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 6h Qh 7h Ac]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 6h Qh 7h Ac Td]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 4d 3d ] ace/queen/ten high
+GTMAC shows [ Kc Th ] a pair of tens, ace/king kickers
+GTMAC wins main pot 15272 Tournament chips with a pair of tens, ace/king kickers.
+Seat 0: workinblum (59322 Tournament chips) 
+Seat 1: Tommy101010 (51124 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: entertainer101 (13137 Tournament chips) 
+Seat 4: SCOTTYG44 (68432 Tournament chips) 
+Seat 6: GTMAC (30432 Tournament chips) 
+Seat 7: Facemobb (34958 Tournament chips) 
+Game #23938316-70 ends
+Player QwertySpark leaves the table with 0 Tournament chips

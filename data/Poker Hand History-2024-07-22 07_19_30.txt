@@ -1,0 +1,2617 @@
+Game#: 23948652
+Cooper2Win bets for 205 Tournament chips
+dnepr55 calls [205 Tournament chips]
+Russray folds [205 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 9h 8h 6d 7h]
+Cooper2Win bets for 322 Tournament chips
+dnepr55 calls [322 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 9h 8h 6d 7h 3h]
+Cooper2Win checks
+dnepr55 bets for 1289 Tournament chips
+Cooper2Win folds [1289 Tournament chips]
+dnepr55 is returned 1289 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for dnepr55 (5c 5h 9h 8h 7h: a pair of fives)
+dnepr55 wins main pot 1289 Tournament chips.
+Seat 0: Folgers41 (9990 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (9815 Tournament chips) 
+Seat 3: Cooper2Win (9756 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10540 Tournament chips) 
+Seat 6: mojonotious (9989 Tournament chips) 
+Seat 7: PokerZog (9970 Tournament chips) 
+Seat 8: QwertySpark (10000 Tournament chips) 
+Game #23948652-5 ends
+Player Cooper2Win leaves the table with 9756 Tournament chips
+Game #23948652-6 starts
+Seat 0: Folgers41 (9990 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (9815 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10540 Tournament chips) 
+Seat 6: mojonotious (9989 Tournament chips) 
+Seat 7: PokerZog (9970 Tournament chips) 
+Seat 8: QwertySpark (10000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+PokerZog posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9990 Tournament chips.
+Russray, at seat 1, is in this hand with 9855 Tournament chips.
+sackieepm, at seat 2, is in this hand with 9815 Tournament chips.
+Gman102505, at seat 4, is in this hand with 9965 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10540 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9989 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9960 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9980 Tournament chips.
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 3c Ad 7s 8h ]
+Folgers41 folds [20 Tournament chips]
+Russray folds [20 Tournament chips]
+sackieepm calls [20 Tournament chips]
+Gman102505 folds [20 Tournament chips]
+dnepr55 calls [20 Tournament chips]
+mojonotious folds [20 Tournament chips]
+PokerZog calls [10 Tournament chips]
+QwertySpark has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Ah ] board:[ Js Ah]
+** Dealing Flop ** [ Kc ] board:[ Js Ah Kc]
+PokerZog bets for 80 Tournament chips
+QwertySpark folds [80 Tournament chips]
+sackieepm calls [80 Tournament chips]
+dnepr55 folds [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Js Ah Kc 2c]
+PokerZog bets for 240 Tournament chips
+sackieepm folds [240 Tournament chips]
+PokerZog is returned 240 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for PokerZog (Td Qs Js Ah Kc: straight, ace high)
+PokerZog wins main pot 240 Tournament chips.
+Seat 0: Folgers41 (9990 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (9715 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10520 Tournament chips) 
+Seat 6: mojonotious (9989 Tournament chips) 
+Seat 7: PokerZog (10110 Tournament chips) 
+Seat 8: QwertySpark (9980 Tournament chips) 
+Game #23948652-6 ends
+Game #23948652-7 starts
+Seat 0: Folgers41 (9990 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (9715 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10520 Tournament chips) 
+Seat 6: mojonotious (9989 Tournament chips) 
+Seat 7: PokerZog (10110 Tournament chips) 
+Seat 8: QwertySpark (9980 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [10 Tournament chips]
+Folgers41 posts the big blind [20 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9970 Tournament chips.
+Russray, at seat 1, is in this hand with 9855 Tournament chips.
+sackieepm, at seat 2, is in this hand with 9715 Tournament chips.
+Gman102505, at seat 4, is in this hand with 9965 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10520 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9989 Tournament chips.
+PokerZog, at seat 7, is in this hand with 10110 Tournament chips.
+QwertySpark, at seat 8, is in this hand (absent) with 9970 Tournament chips.
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 8c 2d Qc 5d ]
+Russray folds [20 Tournament chips]
+sackieepm calls [20 Tournament chips]
+Gman102505 folds [20 Tournament chips]
+dnepr55 calls [20 Tournament chips]
+mojonotious calls [20 Tournament chips]
+PokerZog calls [20 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Folgers41 folds
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 3s ] board:[ Js 3s]
+** Dealing Flop ** [ 3c ] board:[ Js 3s 3c]
+sackieepm checks
+dnepr55 checks
+mojonotious checks
+PokerZog checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Js 3s 3c 4d]
+sackieepm checks
+dnepr55 checks
+mojonotious checks
+PokerZog checks
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Js 3s 3c 4d Ks]
+sackieepm checks
+dnepr55 checks
+mojonotious checks
+PokerZog bets for 110 Tournament chips
+sackieepm calls [110 Tournament chips]
+dnepr55 folds [110 Tournament chips]
+mojonotious calls [110 Tournament chips]
+Round 4 is over.
+PokerZog shows [ Kc 5c Qd 7c ] two pair, kings and threes
+PokerZog shows [ Kc 5c Qd 7c ] no qualifying low hand.
+Hand evaluation for PokerZog (-)
+sackieepm shows [ Th Ts 6c 7s ] flush, king high
+sackieepm shows [ Th Ts 6c 7s ] no qualifying low hand.
+Hand evaluation for sackieepm (-)
+mojonotious doesn't show [ 6h Kd 6s Ad ]
+(mojonotious has 6h Kd 6s Ad.)
+sackieepm wins main pot 440 Tournament chips with flush, king/jack/ten high.
+Seat 0: Folgers41 (9970 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (10025 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10500 Tournament chips) 
+Seat 6: mojonotious (9859 Tournament chips) 
+Seat 7: PokerZog (9980 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-7 ends
+Game #23948652-8 starts
+Seat 0: Folgers41 (9970 Tournament chips) 
+Seat 1: Russray (9855 Tournament chips) 
+Seat 2: sackieepm (10025 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10500 Tournament chips) 
+Seat 6: mojonotious (9859 Tournament chips) 
+Seat 7: PokerZog (9980 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Folgers41 posts the small blind [10 Tournament chips]
+Russray posts the big blind [20 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 9835 Tournament chips.
+sackieepm, at seat 2, is in this hand with 10025 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9965 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10500 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9859 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9980 Tournament chips.
+QwertySpark, at seat 8, is in this hand (absent) with 9970 Tournament chips.
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ As 6c 8c 3s ]
+sackieepm calls [20 Tournament chips]
+Gman102505 folds [20 Tournament chips]
+dnepr55 calls [20 Tournament chips]
+mojonotious calls [20 Tournament chips]
+PokerZog calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Folgers41 folds [10 Tournament chips]
+Russray checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Td ] board:[ Th Td]
+** Dealing Flop ** [ 3h ] board:[ Th Td 3h]
+Russray checks
+sackieepm checks
+dnepr55 checks
+mojonotious has timed out - the hand is checked
+PokerZog checks
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ Th Td 3h Ad]
+Russray bets for 110 Tournament chips
+sackieepm calls [110 Tournament chips]
+dnepr55 calls [110 Tournament chips]
+mojonotious calls [110 Tournament chips]
+PokerZog folds [110 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Th Td 3h Ad Ks]
+Russray bets for 550 Tournament chips
+sackieepm raises [2200 Tournament chips]
+dnepr55 folds [2200 Tournament chips]
+mojonotious folds [2200 Tournament chips]
+Russray re-raises [6600 Tournament chips]
+sackieepm raises all-in [7695 Tournament chips]
+Russray calls all-in [2575 Tournament chips]
+sackieepm is returned 170 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Russray shows [ 4d 7d Ac Ah ]
+sackieepm shows [ Jc Tc 9c Kc ]
+Round 4 is over.
+Russray shows [ 4d 7d Ac Ah ] full house, aces full of tens
+sackieepm shows [ Jc Tc 9c Kc ] full house, tens full of kings
+Russray wins main pot 20000 Tournament chips with full house, aces full of tens.
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (20000 Tournament chips) 
+Seat 2: sackieepm (170 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10370 Tournament chips) 
+Seat 6: mojonotious (9729 Tournament chips) 
+Seat 7: PokerZog (9960 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-8 ends
+Game #23948652-9 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (20000 Tournament chips) 
+Seat 2: sackieepm (170 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10370 Tournament chips) 
+Seat 6: mojonotious (9729 Tournament chips) 
+Seat 7: PokerZog (9960 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Russray posts the small blind [15 Tournament chips]
+sackieepm posts the big blind [25 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19985 Tournament chips.
+sackieepm, at seat 2, is in this hand with 145 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9965 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10370 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9729 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9960 Tournament chips.
+QwertySpark, at seat 8, is in this hand (absent) with 9970 Tournament chips.
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 7c Kc Th Ks ]
+Gman102505 folds [25 Tournament chips]
+dnepr55 calls [25 Tournament chips]
+mojonotious calls [25 Tournament chips]
+PokerZog calls [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+Folgers41 folds [25 Tournament chips]
+Russray calls [10 Tournament chips]
+sackieepm checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Tc ] board:[ 4d Tc]
+** Dealing Flop ** [ Ac ] board:[ 4d Tc Ac]
+Russray checks
+sackieepm checks
+dnepr55 checks
+mojonotious checks
+PokerZog checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 4d Tc Ac 8h]
+Russray bets for 25 Tournament chips
+sackieepm folds [25 Tournament chips]
+dnepr55 calls [25 Tournament chips]
+mojonotious calls [25 Tournament chips]
+PokerZog raises [250 Tournament chips]
+Russray folds [225 Tournament chips]
+dnepr55 calls [225 Tournament chips]
+mojonotious calls [225 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 4d Tc Ac 8h 6h]
+dnepr55 checks
+mojonotious checks
+PokerZog bets for 900 Tournament chips
+dnepr55 calls [900 Tournament chips]
+mojonotious calls [900 Tournament chips]
+Round 4 is over.
+PokerZog shows [ 2s Ad 9h 5c ] a pair of aces
+PokerZog shows [ 2s Ad 9h 5c ] 6 5 4 low
+Hand evaluation for PokerZog (2s 5c 4d Ac 6h: 6 5 4 low)
+dnepr55 shows [ 5h Qh Qs 2d ] a pair of queens
+dnepr55 shows [ 5h Qh Qs 2d ] 6 5 4 low
+Hand evaluation for dnepr55 (5h 2d 4d Ac 6h: 6 5 4 low)
+mojonotious shows [ Qc Ah 5s 9c ] a pair of aces
+mojonotious shows [ Qc Ah 5s 9c ] 8 6 5 low
+Hand evaluation for mojonotious (Ah 5s 4d 8h 6h: 8 6 5 low)
+mojonotious wins main pot 1800 Tournament chips with a pair of aces, queen/ten kickers (high).
+dnepr55 wins main pot 900 Tournament chips of a 1800 Tournament chips pot with 6 5 4 2 A (low).
+PokerZog wins main pot 900 Tournament chips of a 1800 Tournament chips pot with 6 5 4 2 A (low).
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19950 Tournament chips) 
+Seat 2: sackieepm (145 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10095 Tournament chips) 
+Seat 6: mojonotious (10354 Tournament chips) 
+Seat 7: PokerZog (9685 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-9 ends
+Game #23948652-10 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19950 Tournament chips) 
+Seat 2: sackieepm (145 Tournament chips) 
+Seat 4: Gman102505 (9965 Tournament chips) 
+Seat 5: dnepr55 (10095 Tournament chips) 
+Seat 6: mojonotious (10354 Tournament chips) 
+Seat 7: PokerZog (9685 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+sackieepm posts the small blind [15 Tournament chips]
+Gman102505 posts the big blind [25 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19950 Tournament chips.
+sackieepm, at seat 2, is in this hand with 130 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9940 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10095 Tournament chips.
+mojonotious, at seat 6, is in this hand with 10354 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9685 Tournament chips.
+QwertySpark, at seat 8, is in this hand (absent) with 9970 Tournament chips.
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Ah Ac Ks Kc ]
+dnepr55 calls [25 Tournament chips]
+mojonotious folds [25 Tournament chips]
+PokerZog calls [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+Folgers41 folds [25 Tournament chips]
+Russray calls [25 Tournament chips]
+sackieepm folds [10 Tournament chips]
+Gman102505 folds
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 3d ] board:[ As 3d]
+** Dealing Flop ** [ 2d ] board:[ As 3d 2d]
+dnepr55 checks
+PokerZog checks
+Russray checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ As 3d 2d Td]
+dnepr55 checks
+PokerZog bets for 115 Tournament chips
+Russray folds [115 Tournament chips]
+dnepr55 calls [115 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ As 3d 2d Td Ts]
+dnepr55 checks
+PokerZog bets for 345 Tournament chips
+dnepr55 folds [345 Tournament chips]
+PokerZog is returned 345 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for PokerZog (Kd 9d 3d 2d Td: flush, king high)
+PokerZog wins main pot 345 Tournament chips.
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19925 Tournament chips) 
+Seat 2: sackieepm (130 Tournament chips) 
+Seat 4: Gman102505 (9940 Tournament chips) 
+Seat 5: dnepr55 (9955 Tournament chips) 
+Seat 6: mojonotious (10354 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-10 ends
+Game #23948652-11 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19925 Tournament chips) 
+Seat 2: sackieepm (130 Tournament chips) 
+Seat 4: Gman102505 (9940 Tournament chips) 
+Seat 5: dnepr55 (9955 Tournament chips) 
+Seat 6: mojonotious (10354 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Gman102505 posts the small blind [15 Tournament chips]
+dnepr55 posts the big blind [25 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19925 Tournament chips.
+sackieepm, at seat 2, is in this hand with 130 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 9930 Tournament chips.
+mojonotious, at seat 6, is in this hand with 10354 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9890 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9970 Tournament chips.
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Qd 5c 8h 5d ]
+mojonotious calls [25 Tournament chips]
+PokerZog folds [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+Folgers41 folds [25 Tournament chips]
+Russray calls [25 Tournament chips]
+sackieepm raises all-in [130 Tournament chips]
+Gman102505 folds [115 Tournament chips]
+dnepr55 calls [105 Tournament chips]
+mojonotious calls [105 Tournament chips]
+Russray calls [105 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Ah ] board:[ 2d Ah]
+** Dealing Flop ** [ 4s ] board:[ 2d Ah 4s]
+dnepr55 has timed out - the hand is checked
+mojonotious checks
+Russray has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 2d Ah 4s 9s]
+dnepr55 bets for 535 Tournament chips
+mojonotious calls [535 Tournament chips]
+Russray folds [535 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 2d Ah 4s 9s 6d]
+dnepr55 bets for 1605 Tournament chips
+mojonotious calls [1605 Tournament chips]
+Round 4 is over.
+dnepr55 shows [ Qh 9d 9c 7s ] three nines
+dnepr55 shows [ Qh 9d 9c 7s ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+mojonotious shows [ 7c 6c Qc Jh ] a pair of sixes
+mojonotious shows [ 7c 6c Qc Jh ] 7 6 4 low
+Hand evaluation for mojonotious (7c 6c 2d Ah 4s: 7 6 4 low)
+sackieepm shows [ 3h As 2s Js ] two pair, aces and deuces
+sackieepm shows [ 3h As 2s Js ] 6 4 3 low
+Hand evaluation for sackieepm (3h As 2d 4s 6d: 6 4 3 low)
+dnepr55 wins main pot 268 Tournament chips with three nines, ace/six kickers (high).
+sackieepm wins main pot 267 Tournament chips with 6 4 3 2 A (low).
+dnepr55 wins side pot #1 2140 Tournament chips with three nines, ace/six kickers (high).
+mojonotious wins side pot #1 2140 Tournament chips with 7 6 4 2 A (low).
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19795 Tournament chips) 
+Seat 2: sackieepm (267 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (10093 Tournament chips) 
+Seat 6: mojonotious (10224 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-11 ends
+Game #23948652-12 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19795 Tournament chips) 
+Seat 2: sackieepm (267 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (10093 Tournament chips) 
+Seat 6: mojonotious (10224 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+dnepr55 posts the small blind [15 Tournament chips]
+mojonotious posts the big blind [25 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19795 Tournament chips.
+sackieepm, at seat 2, is in this hand with 267 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10078 Tournament chips.
+mojonotious, at seat 6, is in this hand with 10199 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9890 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9970 Tournament chips.
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Tc Qs 9c 3s ]
+PokerZog folds [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+Folgers41 folds [25 Tournament chips]
+Russray calls [25 Tournament chips]
+sackieepm raises [115 Tournament chips]
+Gman102505 folds [115 Tournament chips]
+dnepr55 calls [100 Tournament chips]
+mojonotious calls [90 Tournament chips]
+Russray calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 7c ] board:[ 2d 7c]
+** Dealing Flop ** [ 6d ] board:[ 2d 7c 6d]
+dnepr55 bets for 460 Tournament chips
+mojonotious calls [460 Tournament chips]
+Russray calls [460 Tournament chips]
+sackieepm calls all-in [152 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 2d 7c 6d 5s]
+dnepr55 bets for 1992 Tournament chips
+mojonotious raises [7968 Tournament chips]
+Russray folds [7968 Tournament chips]
+dnepr55 calls [5976 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 2d 7c 6d 5s Qd]
+dnepr55 goes all-in for 1550 Tournament chips
+mojonotious calls [1550 Tournament chips]
+Tournament all-in showdown -- players show:
+sackieepm shows [ 9d 7d 8d Kd ]
+dnepr55 shows [ 4d Jc 5c As ]
+mojonotious shows [ 3d 3c Js 4c ]
+Round 4 is over.
+sackieepm shows [ 9d 7d 8d Kd ] flush, king/queen/nine high
+dnepr55 shows [ 4d Jc 5c As ] a pair of fives, ace/queen kickers
+mojonotious shows [ 3d 3c Js 4c ] straight, seven high
+sackieepm wins main pot 534 Tournament chips with flush, king/queen/nine high (high).
+dnepr55 wins main pot 534 Tournament chips with 6 5 4 2 A (low).
+mojonotious wins side pot #1 9980 Tournament chips with straight, seven high (high).
+dnepr55 wins side pot #1 9980 Tournament chips with 6 5 4 2 A (low).
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19220 Tournament chips) 
+Seat 2: sackieepm (534 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (10514 Tournament chips) 
+Seat 6: mojonotious (10111 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-12 ends
+Game #23948652-13 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19220 Tournament chips) 
+Seat 2: sackieepm (534 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (10514 Tournament chips) 
+Seat 6: mojonotious (10111 Tournament chips) 
+Seat 7: PokerZog (9890 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+mojonotious posts the small blind [25 Tournament chips]
+PokerZog posts the big blind [50 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19220 Tournament chips.
+sackieepm, at seat 2, is in this hand with 534 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10514 Tournament chips.
+mojonotious, at seat 6, is in this hand with 10086 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9840 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9970 Tournament chips.
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 6s Th Ks 8s ]
+QwertySpark folds [50 Tournament chips]
+Folgers41 folds [50 Tournament chips]
+Russray folds [50 Tournament chips]
+sackieepm calls [50 Tournament chips]
+Gman102505 folds [50 Tournament chips]
+dnepr55 calls [50 Tournament chips]
+mojonotious calls [25 Tournament chips]
+PokerZog checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 7h ] board:[ 6h 7h]
+** Dealing Flop ** [ 6d ] board:[ 6h 7h 6d]
+mojonotious checks
+PokerZog checks
+sackieepm checks
+dnepr55 bets for 200 Tournament chips
+mojonotious calls [200 Tournament chips]
+PokerZog folds [200 Tournament chips]
+sackieepm folds [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 6h 7h 6d 2d]
+mojonotious checks
+dnepr55 bets for 600 Tournament chips
+mojonotious calls [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 6h 7h 6d 2d Qd]
+mojonotious checks
+dnepr55 bets for 1800 Tournament chips
+mojonotious calls [1800 Tournament chips]
+Round 4 is over.
+dnepr55 shows [ 3h 7s Jh 6c ] full house, sixes full of sevens
+dnepr55 shows [ 3h 7s Jh 6c ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+mojonotious doesn't show [ Qs Ah 9s 2s ]
+(mojonotious has Qs Ah 9s 2s.)
+dnepr55 wins main pot 5400 Tournament chips with full house, sixes full of sevens.
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19220 Tournament chips) 
+Seat 2: sackieepm (484 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13264 Tournament chips) 
+Seat 6: mojonotious (7461 Tournament chips) 
+Seat 7: PokerZog (9840 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+Game #23948652-13 ends
+Game #23948652-14 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19220 Tournament chips) 
+Seat 2: sackieepm (484 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13264 Tournament chips) 
+Seat 6: mojonotious (7461 Tournament chips) 
+Seat 7: PokerZog (9840 Tournament chips) 
+Seat 8: QwertySpark (9970 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+PokerZog posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9960 Tournament chips.
+Russray, at seat 1, is in this hand with 19220 Tournament chips.
+sackieepm, at seat 2, is in this hand with 484 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 13264 Tournament chips.
+mojonotious, at seat 6, is in this hand with 7461 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9815 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9920 Tournament chips.
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Qs 3h As Ad ]
+Folgers41 folds [50 Tournament chips]
+Russray calls [50 Tournament chips]
+sackieepm folds [50 Tournament chips]
+Gman102505 folds [50 Tournament chips]
+dnepr55 calls [50 Tournament chips]
+mojonotious folds [50 Tournament chips]
+PokerZog calls [25 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 3s ] board:[ 5d 3s]
+** Dealing Flop ** [ Js ] board:[ 5d 3s Js]
+PokerZog checks
+QwertySpark bets for 100 Tournament chips
+Russray calls [100 Tournament chips]
+dnepr55 calls [100 Tournament chips]
+PokerZog calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 5d 3s Js 3d]
+PokerZog checks
+QwertySpark bets for 150 Tournament chips
+Russray folds [150 Tournament chips]
+dnepr55 calls [150 Tournament chips]
+PokerZog folds [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 5d 3s Js 3d Ac]
+QwertySpark bets for 900 Tournament chips
+dnepr55 folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (As Ad 3s 3d Ac: full house, aces full of threes)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19070 Tournament chips) 
+Seat 2: sackieepm (484 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (12964 Tournament chips) 
+Seat 6: mojonotious (7461 Tournament chips) 
+Seat 7: PokerZog (9690 Tournament chips) 
+Seat 8: QwertySpark (10570 Tournament chips) 
+Game #23948652-14 ends
+Game #23948652-15 starts
+Seat 0: Folgers41 (9960 Tournament chips) 
+Seat 1: Russray (19070 Tournament chips) 
+Seat 2: sackieepm (484 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (12964 Tournament chips) 
+Seat 6: mojonotious (7461 Tournament chips) 
+Seat 7: PokerZog (9690 Tournament chips) 
+Seat 8: QwertySpark (10570 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [25 Tournament chips]
+Folgers41 posts the big blind [50 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9910 Tournament chips.
+Russray, at seat 1, is in this hand with 19070 Tournament chips.
+sackieepm, at seat 2, is in this hand with 484 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 12964 Tournament chips.
+mojonotious, at seat 6, is in this hand with 7461 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9690 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 10545 Tournament chips.
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+sackieepm is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to sackieepm [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 3d 2s 3c Js ]
+Russray folds [50 Tournament chips]
+sackieepm raises [175 Tournament chips]
+Gman102505 folds [175 Tournament chips]
+dnepr55 calls [175 Tournament chips]
+mojonotious calls [175 Tournament chips]
+PokerZog folds [175 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Folgers41 calls [125 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Qs ] board:[ Jd Qs]
+** Dealing Flop ** [ 9c ] board:[ Jd Qs 9c]
+QwertySpark checks
+Folgers41 checks
+sackieepm goes all-in for 309 Tournament chips
+dnepr55 raises [1802 Tournament chips]
+mojonotious folds [1802 Tournament chips]
+QwertySpark folds [1802 Tournament chips]
+Folgers41 folds [1802 Tournament chips]
+dnepr55 is returned 1493 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+sackieepm shows [ Qh Ac Ad 6s ]
+dnepr55 shows [ Jc 5h Jh 6d ]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Jd Qs 9c 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Jd Qs 9c 8d Ks]
+        (no action in this round)
+Round 4 is over.
+sackieepm shows [ Qh Ac Ad 6s ] a pair of aces, king/queen kickers
+dnepr55 shows [ Jc 5h Jh 6d ] three jacks, king/queen kickers
+dnepr55 wins main pot 1493 Tournament chips with three jacks, king/queen kickers.
+Seat 0: Folgers41 (9785 Tournament chips) 
+Seat 1: Russray (19070 Tournament chips) 
+Seat 2: sackieepm (0 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13973 Tournament chips) 
+Seat 6: mojonotious (7286 Tournament chips) 
+Seat 7: PokerZog (9690 Tournament chips) 
+Seat 8: QwertySpark (10395 Tournament chips) 
+Game #23948652-15 ends
+Player sackieepm leaves the table with 0 Tournament chips
+Game #23948652-16 starts
+Seat 0: Folgers41 (9785 Tournament chips) 
+Seat 1: Russray (19070 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13973 Tournament chips) 
+Seat 6: mojonotious (7286 Tournament chips) 
+Seat 7: PokerZog (9690 Tournament chips) 
+Seat 8: QwertySpark (10395 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Folgers41 posts the small blind [25 Tournament chips]
+Russray posts the big blind [50 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9760 Tournament chips.
+Russray, at seat 1, is in this hand with 19020 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9925 Tournament chips.
+dnepr55, at seat 5, is in this hand with 13973 Tournament chips.
+mojonotious, at seat 6, is in this hand with 7286 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9690 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 10395 Tournament chips.
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 2c 5s 9c 3s ]
+Gman102505 folds [50 Tournament chips]
+dnepr55 calls [50 Tournament chips]
+mojonotious folds [50 Tournament chips]
+PokerZog calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Folgers41 raises [75 Tournament chips]
+Russray folds [50 Tournament chips]
+dnepr55 calls [50 Tournament chips]
+PokerZog calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 6h ] board:[ 2s 6h]
+** Dealing Flop ** [ 2h ] board:[ 2s 6h 2h]
+Folgers41 checks
+dnepr55 checks
+PokerZog checks
+QwertySpark bets for 200 Tournament chips
+Folgers41 folds [200 Tournament chips]
+dnepr55 calls [200 Tournament chips]
+PokerZog folds [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 2s 6h 2h 6c]
+dnepr55 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 2s 6h 2h 6c 8c]
+dnepr55 bets for 50 Tournament chips
+QwertySpark raises [300 Tournament chips]
+dnepr55 calls [250 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 2c 5s 9c 3s ] three deuces
+QwertySpark shows [ 2c 5s 9c 3s ] 8 6 5 low
+Hand evaluation for QwertySpark (5s 3s 2s 6h 8c: 8 6 5 low)
+dnepr55 doesn't show [ 8d Ad Qh 9s ]
+(dnepr55 has 8d Ad Qh 9s.)
+QwertySpark wins main pot 725 Tournament chips with three deuces, nine/eight kickers (high).
+QwertySpark wins main pot 725 Tournament chips with 8 6 5 3 2 (low).
+Seat 0: Folgers41 (9685 Tournament chips) 
+Seat 1: Russray (19020 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13373 Tournament chips) 
+Seat 6: mojonotious (7286 Tournament chips) 
+Seat 7: PokerZog (9590 Tournament chips) 
+Seat 8: QwertySpark (11245 Tournament chips) 
+Game #23948652-16 ends
+Game #23948652-17 starts
+Seat 0: Folgers41 (9685 Tournament chips) 
+Seat 1: Russray (19020 Tournament chips) 
+Seat 4: Gman102505 (9925 Tournament chips) 
+Seat 5: dnepr55 (13373 Tournament chips) 
+Seat 6: mojonotious (7286 Tournament chips) 
+Seat 7: PokerZog (9590 Tournament chips) 
+Seat 8: QwertySpark (11245 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Russray posts the small blind [25 Tournament chips]
+Gman102505 posts the big blind [50 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9685 Tournament chips.
+Russray, at seat 1, is in this hand with 18995 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9875 Tournament chips.
+dnepr55, at seat 5, is in this hand with 13373 Tournament chips.
+mojonotious, at seat 6, is in this hand with 7286 Tournament chips.
+PokerZog, at seat 7, is in this hand with 9590 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 11245 Tournament chips.
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 4c Jd Td 7s ]
+dnepr55 calls [50 Tournament chips]
+mojonotious calls [50 Tournament chips]
+PokerZog calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Folgers41 calls [50 Tournament chips]
+Russray calls [25 Tournament chips]
+Gman102505 folds
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2s ] board:[ 4h 2s]
+** Dealing Flop ** [ 9h ] board:[ 4h 2s 9h]
+Russray checks
+dnepr55 checks
+mojonotious checks
+PokerZog bets for 350 Tournament chips
+QwertySpark folds [350 Tournament chips]
+Folgers41 calls [350 Tournament chips]
+Russray folds [350 Tournament chips]
+dnepr55 calls [350 Tournament chips]
+mojonotious calls [350 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 4h 2s 9h Kh]
+dnepr55 checks
+mojonotious checks
+PokerZog bets for 1750 Tournament chips
+Folgers41 folds [1750 Tournament chips]
+dnepr55 calls [1750 Tournament chips]
+mojonotious folds [1750 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 4h 2s 9h Kh Ts]
+dnepr55 checks
+PokerZog checks
+Round 4 is over.
+dnepr55 shows [ 3c 9c 8d 5s ] a pair of nines
+dnepr55 shows [ 3c 9c 8d 5s ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+PokerZog doesn't show [ 5c Jc As 3s ]
+(PokerZog has 5c Jc As 3s.)
+dnepr55 wins main pot 5250 Tournament chips with a pair of nines, king/ten kickers.
+Seat 0: Folgers41 (9285 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9875 Tournament chips) 
+Seat 5: dnepr55 (16473 Tournament chips) 
+Seat 6: mojonotious (6886 Tournament chips) 
+Seat 7: PokerZog (7440 Tournament chips) 
+Seat 8: QwertySpark (11195 Tournament chips) 
+Game #23948652-17 ends
+Game #23948652-18 starts
+Seat 0: Folgers41 (9285 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9875 Tournament chips) 
+Seat 5: dnepr55 (16473 Tournament chips) 
+Seat 6: mojonotious (6886 Tournament chips) 
+Seat 7: PokerZog (7440 Tournament chips) 
+Seat 8: QwertySpark (11195 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Gman102505 posts the small blind [50 Tournament chips]
+dnepr55 posts the big blind [75 Tournament chips]
+Folgers41, at seat 0, is in this hand with 9285 Tournament chips.
+Russray, at seat 1, is in this hand with 18970 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16398 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6886 Tournament chips.
+PokerZog, at seat 7, is in this hand with 7440 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 11195 Tournament chips.
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Ah 8s Qd 6h ]
+mojonotious calls [75 Tournament chips]
+PokerZog folds [75 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Folgers41 calls [75 Tournament chips]
+Russray folds [75 Tournament chips]
+Gman102505 folds [25 Tournament chips]
+dnepr55 checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 7s ] board:[ Ad 7s]
+** Dealing Flop ** [ 6c ] board:[ Ad 7s 6c]
+dnepr55 checks
+mojonotious checks
+QwertySpark bets for 250 Tournament chips
+Folgers41 raises [500 Tournament chips]
+dnepr55 folds [500 Tournament chips]
+mojonotious folds [500 Tournament chips]
+QwertySpark calls [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Ad 7s 6c 4s]
+QwertySpark bets for 1350 Tournament chips
+Folgers41 raises [5400 Tournament chips]
+QwertySpark calls [4050 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ Ad 7s 6c 4s 3c]
+QwertySpark goes all-in for 5220 Tournament chips
+Folgers41 calls all-in [3310 Tournament chips]
+QwertySpark is returned 1910 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Folgers41 shows [ 4h 3s 5d 8h ]
+QwertySpark shows [ Ah 8s Qd 6h ]
+Round 4 is over.
+Folgers41 shows [ 4h 3s 5d 8h ] straight, eight high
+QwertySpark shows [ Ah 8s Qd 6h ] two pair, aces and sixes, seven kicker
+Folgers41 wins main pot 9385 Tournament chips with straight, eight high (high).
+Folgers41 wins main pot 9385 Tournament chips with 6 5 4 3 A (low).
+Seat 0: Folgers41 (18770 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16398 Tournament chips) 
+Seat 6: mojonotious (6811 Tournament chips) 
+Seat 7: PokerZog (7440 Tournament chips) 
+Seat 8: QwertySpark (1910 Tournament chips) 
+Game #23948652-18 ends
+Game #23948652-19 starts
+Seat 0: Folgers41 (18770 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16398 Tournament chips) 
+Seat 6: mojonotious (6811 Tournament chips) 
+Seat 7: PokerZog (7440 Tournament chips) 
+Seat 8: QwertySpark (1910 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 4.
+dnepr55 posts the small blind [50 Tournament chips]
+mojonotious posts the big blind [75 Tournament chips]
+Folgers41, at seat 0, is in this hand with 18770 Tournament chips.
+Russray, at seat 1, is in this hand with 18970 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16348 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6736 Tournament chips.
+PokerZog, at seat 7, is in this hand with 7440 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1910 Tournament chips.
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 7c 4s Kc Ts ]
+PokerZog calls [75 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Folgers41 calls [75 Tournament chips]
+Russray folds [75 Tournament chips]
+Gman102505 folds [75 Tournament chips]
+dnepr55 calls [25 Tournament chips]
+mojonotious checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 9d ] board:[ 4d 9d]
+** Dealing Flop ** [ 9h ] board:[ 4d 9d 9h]
+dnepr55 checks
+mojonotious checks
+PokerZog checks
+QwertySpark checks
+Folgers41 checks
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 4d 9d 9h 3h]
+dnepr55 checks
+mojonotious checks
+PokerZog has timed out - the hand is checked
+QwertySpark checks
+Folgers41 checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 4d 9d 9h 3h Qd]
+dnepr55 has timed out - the hand is checked
+mojonotious checks
+PokerZog checks
+QwertySpark checks
+Folgers41 checks
+Round 4 is over.
+dnepr55 shows [ Th Ks 5s 2s ] a pair of nines
+dnepr55 shows [ Th Ks 5s 2s ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+mojonotious shows [ 3c 6h Tc Kd ] two pair, nines and threes
+mojonotious shows [ 3c 6h Tc Kd ] no qualifying low hand.
+Hand evaluation for mojonotious (-)
+PokerZog shows [ 2c Jh Qh 8c ] two pair, queens and nines
+PokerZog shows [ 2c Jh Qh 8c ] no qualifying low hand.
+Hand evaluation for PokerZog (-)
+QwertySpark doesn't show [ 7c 4s Kc Ts ]
+(QwertySpark has 7c 4s Kc Ts.)
+Folgers41 doesn't show [ Js Td 8s 6s ]
+(Folgers41 has Js Td 8s 6s.)
+PokerZog wins main pot 375 Tournament chips with two pair, queens and nines, jack kicker.
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16323 Tournament chips) 
+Seat 6: mojonotious (6736 Tournament chips) 
+Seat 7: PokerZog (7740 Tournament chips) 
+Seat 8: QwertySpark (1835 Tournament chips) 
+Game #23948652-19 ends
+Game #23948652-20 starts
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16323 Tournament chips) 
+Seat 6: mojonotious (6736 Tournament chips) 
+Seat 7: PokerZog (7740 Tournament chips) 
+Seat 8: QwertySpark (1835 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+mojonotious posts the small blind [50 Tournament chips]
+PokerZog posts the big blind [75 Tournament chips]
+Folgers41, at seat 0, is in this hand with 18695 Tournament chips.
+Russray, at seat 1, is in this hand with 18970 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16323 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6686 Tournament chips.
+PokerZog, at seat 7, is in this hand with 7665 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1835 Tournament chips.
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ Ad 3c 2c As ]
+QwertySpark raises [275 Tournament chips]
+Folgers41 folds [275 Tournament chips]
+Russray folds [275 Tournament chips]
+Gman102505 folds [275 Tournament chips]
+dnepr55 calls [275 Tournament chips]
+mojonotious calls [225 Tournament chips]
+PokerZog folds [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Tc ] board:[ 4c Tc]
+** Dealing Flop ** [ 4h ] board:[ 4c Tc 4h]
+mojonotious checks
+QwertySpark checks
+dnepr55 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 4c Tc 4h 7h]
+mojonotious checks
+QwertySpark bets for 450 Tournament chips
+dnepr55 folds [450 Tournament chips]
+mojonotious calls [450 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ 4c Tc 4h 7h Kc]
+mojonotious checks
+QwertySpark goes all-in for 1110 Tournament chips
+mojonotious folds [1110 Tournament chips]
+QwertySpark is returned 1110 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (3c 2c 4c Tc Kc: flush, king high)
+QwertySpark wins main pot 1800 Tournament chips.
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16048 Tournament chips) 
+Seat 6: mojonotious (6011 Tournament chips) 
+Seat 7: PokerZog (7665 Tournament chips) 
+Seat 8: QwertySpark (2910 Tournament chips) 
+Game #23948652-20 ends
+Game #23948652-21 starts
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (16048 Tournament chips) 
+Seat 6: mojonotious (6011 Tournament chips) 
+Seat 7: PokerZog (7665 Tournament chips) 
+Seat 8: QwertySpark (2910 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+PokerZog posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [75 Tournament chips]
+Folgers41, at seat 0, is in this hand with 18695 Tournament chips.
+Russray, at seat 1, is in this hand with 18970 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16048 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6011 Tournament chips.
+PokerZog, at seat 7, is in this hand with 7615 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2835 Tournament chips.
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 8c 2d 5s Js ]
+Folgers41 folds [75 Tournament chips]
+Russray folds [75 Tournament chips]
+Gman102505 folds [75 Tournament chips]
+dnepr55 calls [75 Tournament chips]
+mojonotious calls [75 Tournament chips]
+PokerZog raises [325 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+dnepr55 calls [300 Tournament chips]
+mojonotious calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 2h ] board:[ 9h 2h]
+** Dealing Flop ** [ Th ] board:[ 9h 2h Th]
+PokerZog bets for 1200 Tournament chips
+dnepr55 folds [1200 Tournament chips]
+mojonotious folds [1200 Tournament chips]
+PokerZog is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for PokerZog (Ad As 9h 2h Th: a pair of aces)
+PokerZog wins main pot 1200 Tournament chips.
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5636 Tournament chips) 
+Seat 7: PokerZog (8490 Tournament chips) 
+Seat 8: QwertySpark (2835 Tournament chips) 
+Game #23948652-21 ends
+Game #23948652-22 starts
+Seat 0: Folgers41 (18695 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5636 Tournament chips) 
+Seat 7: PokerZog (8490 Tournament chips) 
+Seat 8: QwertySpark (2835 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+Folgers41 posts the big blind [100 Tournament chips]
+Folgers41, at seat 0, is in this hand with 18595 Tournament chips.
+Russray, at seat 1, is in this hand with 18970 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 15673 Tournament chips.
+mojonotious, at seat 6, is in this hand with 5636 Tournament chips.
+PokerZog, at seat 7, is in this hand with 8490 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2785 Tournament chips.
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+PokerZog is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to PokerZog [ **** ]
+Dealt to QwertySpark [ 5c 4c Qs 3d ]
+Russray folds [100 Tournament chips]
+Gman102505 folds [100 Tournament chips]
+dnepr55 folds [100 Tournament chips]
+mojonotious calls [100 Tournament chips]
+PokerZog calls [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+Folgers41 checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3c ] board:[ Qd 3c]
+** Dealing Flop ** [ 4h ] board:[ Qd 3c 4h]
+QwertySpark bets for 200 Tournament chips
+Folgers41 calls [200 Tournament chips]
+mojonotious folds [200 Tournament chips]
+PokerZog raises [1200 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+Folgers41 calls [1000 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Qd 3c 4h 9s]
+Folgers41 checks
+PokerZog bets for 3000 Tournament chips
+Folgers41 raises [12000 Tournament chips]
+PokerZog calls all-in [4190 Tournament chips]
+Folgers41 is returned 4810 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Folgers41 shows [ 7h 4d 9h 6s ]
+PokerZog shows [ Jh 2c 3s 3h ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Qd 3c 4h 9s 5s]
+        (no action in this round)
+Round 4 is over.
+Folgers41 shows [ 7h 4d 9h 6s ] straight, seven high
+PokerZog shows [ Jh 2c 3s 3h ] three threes, queen/nine kickers
+Folgers41 wins main pot 8690 Tournament chips with straight, seven high (high).
+Folgers41 wins main pot 8690 Tournament chips with 7 6 5 4 3 (low).
+Seat 0: Folgers41 (27585 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 7: PokerZog (0 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+Game #23948652-22 ends
+Player PokerZog leaves the table with 0 Tournament chips
+Game #23948652-23 starts
+Seat 0: Folgers41 (27585 Tournament chips) 
+Seat 1: Russray (18970 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Folgers41 posts the small blind [50 Tournament chips]
+Russray posts the big blind [100 Tournament chips]
+Folgers41, at seat 0, is in this hand with 27535 Tournament chips.
+Russray, at seat 1, is in this hand with 18870 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9825 Tournament chips.
+dnepr55, at seat 5, is in this hand with 15673 Tournament chips.
+mojonotious, at seat 6, is in this hand with 5536 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2535 Tournament chips.
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ 9c Kd Th 7s ]
+Gman102505 folds [100 Tournament chips]
+dnepr55 folds [100 Tournament chips]
+mojonotious folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Folgers41 calls [50 Tournament chips]
+Russray checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 3d ] board:[ 2h 3d]
+** Dealing Flop ** [ 6s ] board:[ 2h 3d 6s]
+Folgers41 checks
+Russray checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 2h 3d 6s 9h]
+Folgers41 checks
+Russray checks
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 2h 3d 6s 9h 4d]
+Folgers41 checks
+Russray bets for 200 Tournament chips
+Folgers41 calls [200 Tournament chips]
+Round 4 is over.
+Russray shows [ 7c 5s 8s As ] straight, seven high
+Russray shows [ 7c 5s 8s As ] 5 4 3 low
+Hand evaluation for Russray (5s As 2h 3d 4d: 5 4 3 low)
+Folgers41 doesn't show [ 8c 5h Qc 8h ]
+(Folgers41 has 8c 5h Qc 8h.)
+Russray wins main pot 300 Tournament chips with straight, seven high (high).
+Russray wins main pot 300 Tournament chips with 5 4 3 2 A (low).
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (19270 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+Game #23948652-23 ends
+Game #23948652-24 starts
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (19270 Tournament chips) 
+Seat 4: Gman102505 (9825 Tournament chips) 
+Seat 5: dnepr55 (15673 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Russray posts the small blind [50 Tournament chips]
+Gman102505 posts the big blind [100 Tournament chips]
+Folgers41, at seat 0, is in this hand with 27285 Tournament chips.
+Russray, at seat 1, is in this hand with 19220 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9725 Tournament chips.
+dnepr55, at seat 5, is in this hand with 15673 Tournament chips.
+mojonotious, at seat 6, is in this hand with 5536 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2535 Tournament chips.
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ 3h Th 8c Td ]
+dnepr55 raises [350 Tournament chips]
+mojonotious folds [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+Folgers41 folds [350 Tournament chips]
+Russray calls [300 Tournament chips]
+Gman102505 folds [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 3c ] board:[ Kc 3c]
+** Dealing Flop ** [ Ts ] board:[ Kc 3c Ts]
+Russray checks
+dnepr55 bets for 800 Tournament chips
+Russray folds [800 Tournament chips]
+dnepr55 is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dnepr55 (Kd Ad Kc 3c Ts: a pair of kings)
+dnepr55 wins main pot 800 Tournament chips.
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18920 Tournament chips) 
+Seat 3: WDS57 (8063 Tournament chips) 
+Seat 4: Gman102505 (9725 Tournament chips) 
+Seat 5: dnepr55 (16123 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+Game #23948652-24 ends
+Game #23948652-25 starts
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18920 Tournament chips) 
+Seat 3: WDS57 (8063 Tournament chips) 
+Seat 4: Gman102505 (9725 Tournament chips) 
+Seat 5: dnepr55 (16123 Tournament chips) 
+Seat 6: mojonotious (5536 Tournament chips) 
+Seat 8: QwertySpark (2535 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Gman102505 posts the small blind [50 Tournament chips]
+dnepr55 posts the big blind [100 Tournament chips]
+Folgers41, at seat 0, is in this hand with 27285 Tournament chips.
+Russray, at seat 1, is in this hand with 18920 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16023 Tournament chips.
+mojonotious, at seat 6, is in this hand with 5536 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2535 Tournament chips.
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ Tc 3h 5h 3d ]
+mojonotious calls [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Folgers41 folds [100 Tournament chips]
+Russray folds [100 Tournament chips]
+Gman102505 folds [50 Tournament chips]
+dnepr55 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Qh ] board:[ 9h Qh]
+** Dealing Flop ** [ 8d ] board:[ 9h Qh 8d]
+dnepr55 checks
+mojonotious checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 9h Qh 8d 6s]
+dnepr55 checks
+mojonotious checks
+QwertySpark bets for 200 Tournament chips
+dnepr55 calls [200 Tournament chips]
+mojonotious calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 9h Qh 8d 6s 9s]
+dnepr55 checks
+mojonotious checks
+QwertySpark checks
+Round 4 is over.
+dnepr55 shows [ 6c 4h Js Ks ] two pair, nines and sixes
+dnepr55 shows [ 6c 4h Js Ks ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+mojonotious shows [ Qs Ah 7h 4s ] two pair, queens and nines
+mojonotious shows [ Qs Ah 7h 4s ] no qualifying low hand.
+Hand evaluation for mojonotious (-)
+QwertySpark doesn't show [ Tc 3h 5h 3d ]
+(QwertySpark has Tc 3h 5h 3d.)
+mojonotious wins main pot 950 Tournament chips with two pair, queens and nines, ace kicker.
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18920 Tournament chips) 
+Seat 3: WDS57 (8063 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (15823 Tournament chips) 
+Seat 6: mojonotious (6186 Tournament chips) 
+Seat 8: QwertySpark (2235 Tournament chips) 
+Game #23948652-25 ends
+Game #23948652-26 starts
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18920 Tournament chips) 
+Seat 3: WDS57 (8063 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (15823 Tournament chips) 
+Seat 6: mojonotious (6186 Tournament chips) 
+Seat 8: QwertySpark (2235 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 4.
+dnepr55 posts the small blind [50 Tournament chips]
+mojonotious posts the big blind [100 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27285 Tournament chips.
+Russray, at seat 1, is in this hand with 18920 Tournament chips.
+WDS57, at seat 3, is in this hand with 8063 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 15773 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6086 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2235 Tournament chips.
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ Ah 6s Jh 6c ]
+QwertySpark calls [100 Tournament chips]
+Folgers41 folds [100 Tournament chips]
+Russray calls [100 Tournament chips]
+WDS57 calls [100 Tournament chips]
+Gman102505 folds [100 Tournament chips]
+dnepr55 folds [50 Tournament chips]
+mojonotious checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 8c ] board:[ 5d 8c]
+** Dealing Flop ** [ 5c ] board:[ 5d 8c 5c]
+mojonotious checks
+QwertySpark checks
+Russray bets for 100 Tournament chips
+WDS57 calls [100 Tournament chips]
+mojonotious calls [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 5d 8c 5c 4h]
+mojonotious checks
+QwertySpark checks
+Russray checks
+WDS57 checks
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 5d 8c 5c 4h 8s]
+mojonotious checks
+QwertySpark checks
+Russray checks
+WDS57 checks
+Round 4 is over.
+mojonotious shows [ 7h Ad 3d Qs ] a pair of eights
+mojonotious shows [ 7h Ad 3d Qs ] 8 5 4 low
+Hand evaluation for mojonotious (Ad 3d 5d 8c 4h: 8 5 4 low)
+QwertySpark shows [ Ah 6s Jh 6c ] two pair, eights and sixes
+QwertySpark shows [ Ah 6s Jh 6c ] 8 6 5 low
+Hand evaluation for QwertySpark (Ah 6s 5d 8c 4h: 8 6 5 low)
+Russray doesn't show [ 4s 7s 9h Ac ]
+(Russray has 4s 7s 9h Ac.)
+WDS57 shows [ 3s Qc Th Tc ] two pair, tens and eights
+WDS57 shows [ 3s Qc Th Tc ] no qualifying low hand.
+Hand evaluation for WDS57 (-)
+WDS57 wins main pot 425 Tournament chips with two pair, tens and eights, five kicker (high).
+mojonotious wins main pot 425 Tournament chips with 8 5 4 3 A (low).
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18720 Tournament chips) 
+Seat 3: WDS57 (8288 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (15773 Tournament chips) 
+Seat 6: mojonotious (6411 Tournament chips) 
+Seat 8: QwertySpark (2035 Tournament chips) 
+Game #23948652-26 ends
+Game #23948652-27 starts
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18720 Tournament chips) 
+Seat 3: WDS57 (8288 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (15773 Tournament chips) 
+Seat 6: mojonotious (6411 Tournament chips) 
+Seat 8: QwertySpark (2035 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+mojonotious posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27285 Tournament chips.
+Russray, at seat 1, is in this hand with 18720 Tournament chips.
+WDS57, at seat 3, is in this hand with 8288 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 15773 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6336 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1885 Tournament chips.
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ 6c Kc 7c 8h ]
+Folgers41 folds [150 Tournament chips]
+Russray folds [150 Tournament chips]
+WDS57 calls [150 Tournament chips]
+Gman102505 folds [150 Tournament chips]
+dnepr55 calls [150 Tournament chips]
+mojonotious calls [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 4s ] board:[ 5h 4s]
+** Dealing Flop ** [ Th ] board:[ 5h 4s Th]
+mojonotious checks
+QwertySpark bets for 150 Tournament chips
+WDS57 calls [150 Tournament chips]
+dnepr55 calls [150 Tournament chips]
+mojonotious calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 5h 4s Th 2c]
+mojonotious checks
+QwertySpark checks
+WDS57 checks
+dnepr55 checks
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 5h 4s Th 2c 4h]
+mojonotious checks
+QwertySpark checks
+WDS57 checks
+dnepr55 checks
+Round 4 is over.
+mojonotious shows [ 9c 6s 2s Tc ] two pair, tens and fours
+mojonotious shows [ 9c 6s 2s Tc ] no qualifying low hand.
+Hand evaluation for mojonotious (-)
+QwertySpark shows [ 6c Kc 7c 8h ] a pair of fours
+QwertySpark shows [ 6c Kc 7c 8h ] 7 6 5 low
+Hand evaluation for QwertySpark (6c 7c 5h 4s 2c: 7 6 5 low)
+WDS57 shows [ 7s Kd 8c Ad ] a pair of fours
+WDS57 shows [ 7s Kd 8c Ad ] 7 5 4 low
+Hand evaluation for WDS57 (7s Ad 5h 4s 2c: 7 5 4 low)
+dnepr55 shows [ Jc Td Jh 5d ] two pair, jacks and fours
+dnepr55 shows [ Jc Td Jh 5d ] no qualifying low hand.
+Hand evaluation for dnepr55 (-)
+dnepr55 wins main pot 600 Tournament chips with two pair, jacks and fours, ten kicker (high).
+WDS57 wins main pot 600 Tournament chips with 7 5 4 2 A (low).
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18720 Tournament chips) 
+Seat 3: WDS57 (8588 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (16073 Tournament chips) 
+Seat 6: mojonotious (6111 Tournament chips) 
+Seat 8: QwertySpark (1735 Tournament chips) 
+Game #23948652-27 ends
+Game #23948652-28 starts
+Seat 0: Folgers41 (27285 Tournament chips) 
+Seat 1: Russray (18720 Tournament chips) 
+Seat 3: WDS57 (8588 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (16073 Tournament chips) 
+Seat 6: mojonotious (6111 Tournament chips) 
+Seat 8: QwertySpark (1735 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+QwertySpark posts the small blind [75 Tournament chips]
+Folgers41 posts the big blind [150 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27135 Tournament chips.
+Russray, at seat 1, is in this hand with 18720 Tournament chips.
+WDS57, at seat 3, is in this hand with 8588 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 16073 Tournament chips.
+mojonotious, at seat 6, is in this hand with 6111 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 1660 Tournament chips.
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ Td 4c Ts 8c ]
+Russray calls [150 Tournament chips]
+WDS57 calls [150 Tournament chips]
+Gman102505 folds [150 Tournament chips]
+dnepr55 raises [825 Tournament chips]
+mojonotious calls [825 Tournament chips]
+QwertySpark calls [750 Tournament chips]
+Folgers41 folds [675 Tournament chips]
+Russray calls [675 Tournament chips]
+WDS57 calls [675 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 4s ] board:[ Jd 4s]
+** Dealing Flop ** [ Ah ] board:[ Jd 4s Ah]
+QwertySpark checks
+Russray checks
+WDS57 checks
+dnepr55 bets for 4275 Tournament chips
+mojonotious raises all-in [5286 Tournament chips]
+QwertySpark folds [910 Tournament chips]
+Russray folds [5286 Tournament chips]
+WDS57 raises all-in [7763 Tournament chips]
+dnepr55 folds [3488 Tournament chips]
+WDS57 is returned 2477 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+WDS57 shows [ Qh 9d Th Jc ]
+mojonotious shows [ 2c 9s Qs 3h ]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd 4s Ah 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Jd 4s Ah 6d Tc]
+        (no action in this round)
+Round 4 is over.
+WDS57 shows [ Qh 9d Th Jc ] two pair, jacks and tens, ace kicker
+mojonotious shows [ 2c 9s Qs 3h ] ace/queen/jack high
+WDS57 wins main pot 9561 Tournament chips with two pair, jacks and tens, ace kicker (high).
+mojonotious wins main pot 9561 Tournament chips with 6 4 3 2 A (low).
+Seat 0: Folgers41 (27135 Tournament chips) 
+Seat 1: Russray (17895 Tournament chips) 
+Seat 3: WDS57 (12038 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (10973 Tournament chips) 
+Seat 6: mojonotious (9561 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+Game #23948652-28 ends
+Game #23948652-29 starts
+Seat 0: Folgers41 (27135 Tournament chips) 
+Seat 1: Russray (17895 Tournament chips) 
+Seat 3: WDS57 (12038 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (10973 Tournament chips) 
+Seat 6: mojonotious (9561 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Folgers41 posts the small blind [75 Tournament chips]
+Russray posts the big blind [150 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27060 Tournament chips.
+Russray, at seat 1, is in this hand with 17745 Tournament chips.
+WDS57, at seat 3, is in this hand with 12038 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10973 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9561 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 910 Tournament chips.
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ 9c Td 9d 9h ]
+WDS57 calls [150 Tournament chips]
+Gman102505 folds [150 Tournament chips]
+dnepr55 folds [150 Tournament chips]
+mojonotious calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Folgers41 folds [75 Tournament chips]
+Russray checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Ks ] board:[ Jd Ks]
+** Dealing Flop ** [ 5s ] board:[ Jd Ks 5s]
+Russray checks
+WDS57 checks
+mojonotious checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Jd Ks 5s 5h]
+Russray checks
+WDS57 checks
+mojonotious checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Jd Ks 5s 5h Jh]
+Russray checks
+WDS57 checks
+mojonotious checks
+Round 4 is over.
+Russray shows [ Tc 8s 6h 4d ] a pair of jacks
+Russray shows [ Tc 8s 6h 4d ] no qualifying low hand.
+Hand evaluation for Russray (-)
+WDS57 shows [ Ad 3s Ah 4h ] two pair, aces and jacks
+WDS57 shows [ Ad 3s Ah 4h ] no qualifying low hand.
+Hand evaluation for WDS57 (-)
+mojonotious doesn't show [ As Qd 2d Kd ]
+(mojonotious has As Qd 2d Kd.)
+WDS57 wins main pot 525 Tournament chips with two pair, aces and jacks, king kicker.
+Seat 0: Folgers41 (27060 Tournament chips) 
+Seat 1: Russray (17745 Tournament chips) 
+Seat 3: WDS57 (12413 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (10973 Tournament chips) 
+Seat 6: mojonotious (9411 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+Game #23948652-29 ends
+Game #23948652-30 starts
+Seat 0: Folgers41 (27060 Tournament chips) 
+Seat 1: Russray (17745 Tournament chips) 
+Seat 3: WDS57 (12413 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (10973 Tournament chips) 
+Seat 6: mojonotious (9411 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Russray posts the small blind [75 Tournament chips]
+WDS57 posts the big blind [150 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27060 Tournament chips.
+Russray, at seat 1, is in this hand with 17670 Tournament chips.
+WDS57, at seat 3, is in this hand with 12263 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9675 Tournament chips.
+dnepr55, at seat 5, is in this hand with 10973 Tournament chips.
+mojonotious, at seat 6, is in this hand with 9411 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 910 Tournament chips.
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ Js 9d 5c Tc ]
+Gman102505 folds [150 Tournament chips]
+dnepr55 raises [525 Tournament chips]
+mojonotious calls [525 Tournament chips]
+QwertySpark folds [525 Tournament chips]
+Folgers41 folds [525 Tournament chips]
+Russray folds [450 Tournament chips]
+WDS57 calls [375 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 7s ] board:[ Td 7s]
+** Dealing Flop ** [ 2d ] board:[ Td 7s 2d]
+WDS57 checks
+dnepr55 bets for 1650 Tournament chips
+mojonotious calls [1650 Tournament chips]
+WDS57 folds [1650 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ Td 7s 2d 6c]
+dnepr55 bets for 4950 Tournament chips
+mojonotious folds [4950 Tournament chips]
+dnepr55 is returned 4950 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for dnepr55 (Kd Kc Td 7s 6c: a pair of kings)
+dnepr55 wins main pot 4950 Tournament chips.
+Seat 0: Folgers41 (27060 Tournament chips) 
+Seat 1: Russray (17670 Tournament chips) 
+Seat 3: WDS57 (11888 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (13748 Tournament chips) 
+Seat 6: mojonotious (7236 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+Game #23948652-30 ends
+Game #23948652-31 starts
+Seat 0: Folgers41 (27060 Tournament chips) 
+Seat 1: Russray (17670 Tournament chips) 
+Seat 3: WDS57 (11888 Tournament chips) 
+Seat 4: Gman102505 (9675 Tournament chips) 
+Seat 5: dnepr55 (13748 Tournament chips) 
+Seat 6: mojonotious (7236 Tournament chips) 
+Seat 8: QwertySpark (910 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+WDS57 posts the small blind [75 Tournament chips]
+Gman102505 posts the big blind [150 Tournament chips]
+Folgers41, at seat 0, is in this hand (absent) with 27060 Tournament chips.
+Russray, at seat 1, is in this hand with 17670 Tournament chips.
+WDS57, at seat 3, is in this hand with 11813 Tournament chips.
+Gman102505, at seat 4, is in this hand (absent) with 9525 Tournament chips.
+dnepr55, at seat 5, is in this hand with 13748 Tournament chips.
+mojonotious, at seat 6, is in this hand with 7236 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 910 Tournament chips.
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+WDS57 is dealt: **
+Gman102505 is dealt: **
+dnepr55 is dealt: **
+mojonotious is dealt: **
+
+Folgers41 is dealt: **
+Russray is dealt: **
+Dealt to Folgers41 [ **** ]
+Dealt to Russray [ **** ]
+Dealt to WDS57 [ **** ]
+Dealt to Gman102505 [ **** ]
+Dealt to dnepr55 [ **** ]
+Dealt to mojonotious [ **** ]
+Dealt to QwertySpark [ Ah 5d 3h Jd ]
+dnepr55 raises [525 Tournament chips]
+mojonotious calls [525 Tournament chips]
+QwertySpark raises all-in [910 Tournament chips]
+Folgers41 folds [910 Tournament chips]
+Russray calls [910 Tournament chips]
+WDS57 calls [835 Tournament chips]
+Gman102505 folds [760 Tournament chips]
+dnepr55 folds [385 Tournament chips]
+mojonotious calls [385 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 6c ] board:[ Kd 6c]
+** Dealing Flop ** [ Ad ] board:[ Kd 6c Ad]
+WDS57 checks
+mojonotious bets for 4315 Tournament chips
+Russray calls [4315 Tournament chips]
+WDS57 calls [4315 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Kd 6c Ad Ac]
+WDS57 checks
+mojonotious goes all-in for 2011 Tournament chips
+Russray calls [2011 Tournament chips]
+WDS57 raises all-in [6663 Tournament chips]
+Russray calls [4652 Tournament chips]
+Tournament all-in showdown -- players show:
+Russray shows [ 3s Jc 2c Js ]
+WDS57 shows [ As 8c 2h 9s ]
+mojonotious shows [ 5h Jh 6d 6s ]
+QwertySpark shows [ Ah 5d 3h Jd ]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Kd 6c Ad Ac 8h]
+        (no action in this round)
+Round 4 is over.
+Russray shows [ 3s Jc 2c Js ] two pair, aces and jacks, king kicker
+WDS57 shows [ As 8c 2h 9s ] full house, aces full of eights
+mojonotious shows [ 5h Jh 6d 6s ] full house, sixes full of aces
+QwertySpark shows [ Ah 5d 3h Jd ] three aces, king/jack kickers
+WDS57 wins main pot 2158 Tournament chips with full house, aces full of eights (high).
+Russray wins main pot 2157 Tournament chips with 8 6 3 2 A (low).
+WDS57 wins side pot #1 9489 Tournament chips with full house, aces full of eights (high).
+Russray wins side pot #1 9489 Tournament chips with 8 6 3 2 A (low).
+WDS57 wins side pot #2 4652 Tournament chips with full house, aces full of eights (high).
+Russray wins side pot #2 4652 Tournament chips with 8 6 3 2 A (low).
+Seat 0: Folgers41 (27060 Tournament chips) 
+Seat 1: Russray (22080 Tournament chips) 
+Seat 3: WDS57 (16299 Tournament chips) 
+Seat 4: Gman102505 (9525 Tournament chips) 
+Seat 5: dnepr55 (13223 Tournament chips) 
+Seat 6: mojonotious (0 Tournament chips) 
+Seat 8: QwertySpark (0 Tournament chips) 
+Game #23948652-31 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player mojonotious leaves the table with 0 Tournament chips
+Player WDS57 leaves the table with 16299 Tournament chips
+Player Folgers41 leaves the table with 27060 Tournament chips
+Player Gman102505 leaves the table with 9525 Tournament chips
+Player dnepr55 leaves the table with 13223 Tournament chips
+Player Russray leaves the table with 22080 Tournament chips

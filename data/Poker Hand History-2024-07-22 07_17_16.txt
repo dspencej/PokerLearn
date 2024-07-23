@@ -1,0 +1,517 @@
+Game#: 23961750
+crajax folds [8400 Tournament chips]
+Yan55yan66 is returned 8400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Yan55yan66 (As Ts 5c Ac Jd: a pair of aces)
+Yan55yan66 wins main pot 13200 Tournament chips.
+Seat 0: ganeshboy1 (42361 Tournament chips) 
+Seat 1: ParminderK (70231 Tournament chips) 
+Seat 3: LonnyMannino (141247 Tournament chips) 
+Seat 4: Curby828 (24279 Tournament chips) 
+Seat 5: crajax (25334 Tournament chips) 
+Seat 6: Yan55yan66 (21600 Tournament chips) 
+Seat 7: QwertySpark (34354 Tournament chips) 
+Game #23961750-73 ends
+Game #23961750-74 starts
+Seat 0: ganeshboy1 (42361 Tournament chips) 
+Seat 1: ParminderK (70231 Tournament chips) 
+Seat 3: LonnyMannino (141247 Tournament chips) 
+Seat 4: Curby828 (24279 Tournament chips) 
+Seat 5: crajax (25334 Tournament chips) 
+Seat 6: Yan55yan66 (21600 Tournament chips) 
+Seat 7: QwertySpark (34354 Tournament chips) 
+The button is at seat 6
+ganeshboy1 posted ante of 200 Tournament chips
+ParminderK posted ante of 200 Tournament chips
+LonnyMannino posted ante of 200 Tournament chips
+Curby828 posted ante of 200 Tournament chips
+crajax posted ante of 200 Tournament chips
+Yan55yan66 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+The button is moved to seat 0.
+ParminderK posts the small blind [800 Tournament chips]
+LonnyMannino posts the big blind [1600 Tournament chips]
+ganeshboy1, at seat 0, is in this hand with 42161 Tournament chips.
+ParminderK, at seat 1, is in this hand with 69231 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 139447 Tournament chips.
+Curby828, at seat 4, is in this hand with 24079 Tournament chips.
+crajax, at seat 5, is in this hand with 25134 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 21400 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 34154 Tournament chips.
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+ganeshboy1 is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+ganeshboy1 is dealt: **
+Dealt to ganeshboy1 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to crajax [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ As Jd ]
+Curby828 folds [1600 Tournament chips]
+crajax folds [1600 Tournament chips]
+Yan55yan66 calls [1600 Tournament chips]
+QwertySpark raises [8000 Tournament chips]
+ganeshboy1 calls [8000 Tournament chips]
+ParminderK folds [7200 Tournament chips]
+LonnyMannino folds [6400 Tournament chips]
+Yan55yan66 folds [6400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Js ] board:[ 3c Js]
+** Dealing Flop ** [ 6d ] board:[ 3c Js 6d]
+QwertySpark bets for 9100 Tournament chips
+ganeshboy1 raises all-in [34161 Tournament chips]
+QwertySpark calls all-in [17054 Tournament chips]
+ganeshboy1 is returned 8007 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ganeshboy1 shows [ Td Ts ]
+QwertySpark shows [ As Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 3c Js 6d 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 3c Js 6d 4s 2c]
+        (no action in this round)
+Round 4 is over.
+ganeshboy1 shows [ Td Ts ] a pair of tens, jack/six kickers
+QwertySpark shows [ As Jd ] a pair of jacks, ace/six kickers
+QwertySpark wins main pot 73708 Tournament chips with a pair of jacks, ace/six kickers.
+Seat 0: ganeshboy1 (8007 Tournament chips) 
+Seat 1: ParminderK (69231 Tournament chips) 
+Seat 3: LonnyMannino (139447 Tournament chips) 
+Seat 4: Curby828 (24079 Tournament chips) 
+Seat 5: crajax (25134 Tournament chips) 
+Seat 6: Yan55yan66 (19800 Tournament chips) 
+Seat 7: QwertySpark (73708 Tournament chips) 
+Seat 8: slodeath (22649 Tournament chips) 
+Game #23961750-74 ends
+Game #23961750-75 starts
+Seat 0: ganeshboy1 (8007 Tournament chips) 
+Seat 1: ParminderK (69231 Tournament chips) 
+Seat 3: LonnyMannino (139447 Tournament chips) 
+Seat 4: Curby828 (24079 Tournament chips) 
+Seat 5: crajax (25134 Tournament chips) 
+Seat 6: Yan55yan66 (19800 Tournament chips) 
+Seat 7: QwertySpark (73708 Tournament chips) 
+Seat 8: slodeath (22649 Tournament chips) 
+The button is at seat 0
+ganeshboy1 posted ante of 200 Tournament chips
+ParminderK posted ante of 200 Tournament chips
+LonnyMannino posted ante of 200 Tournament chips
+crajax posted ante of 200 Tournament chips
+Yan55yan66 posted ante of 200 Tournament chips
+Curby828 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+slodeath posted ante of 200 Tournament chips
+The button is moved to seat 1.
+LonnyMannino posts the small blind [800 Tournament chips]
+Curby828 posts the big blind [1600 Tournament chips]
+ganeshboy1, at seat 0, is in this hand with 7807 Tournament chips.
+ParminderK, at seat 1, is in this hand with 69031 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 138447 Tournament chips.
+Curby828, at seat 4, is in this hand with 22279 Tournament chips.
+crajax, at seat 5, is in this hand with 24934 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 19600 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 73508 Tournament chips.
+slodeath, at seat 8, is in this hand with 22449 Tournament chips.
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ganeshboy1 is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ganeshboy1 is dealt: **
+ParminderK is dealt: **
+Dealt to ganeshboy1 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to crajax [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ Ad 8d ]
+Dealt to slodeath [ **** ]
+crajax calls [1600 Tournament chips]
+Yan55yan66 folds [1600 Tournament chips]
+QwertySpark calls [1600 Tournament chips]
+slodeath folds [1600 Tournament chips]
+ganeshboy1 calls [1600 Tournament chips]
+ParminderK calls [1600 Tournament chips]
+LonnyMannino folds [800 Tournament chips]
+Curby828 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 9s ] board:[ 7h 9s]
+** Dealing Flop ** [ 2s ] board:[ 7h 9s 2s]
+Curby828 checks
+crajax checks
+QwertySpark checks
+ganeshboy1 goes all-in for 6207 Tournament chips
+ParminderK calls [6207 Tournament chips]
+Curby828 calls [6207 Tournament chips]
+crajax folds [6207 Tournament chips]
+QwertySpark folds [6207 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 7h 9s 2s Ah]
+Curby828 checks
+ParminderK bets for 14510 Tournament chips
+Curby828 folds [14510 Tournament chips]
+ParminderK is returned 14510 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ganeshboy1 shows [ 8c 9h ]
+ParminderK shows [ 9d Qc ]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 7h 9s 2s Ah 3d]
+        (no action in this round)
+Round 4 is over.
+ganeshboy1 shows [ 8c 9h ] a pair of nines, ace/eight kickers
+ParminderK shows [ 9d Qc ] a pair of nines, ace/queen kickers
+ParminderK wins main pot 29021 Tournament chips with a pair of nines, ace/queen kickers.
+Seat 0: ganeshboy1 (0 Tournament chips) 
+Seat 1: ParminderK (90245 Tournament chips) 
+Seat 3: LonnyMannino (138447 Tournament chips) 
+Seat 4: Curby828 (16072 Tournament chips) 
+Seat 5: crajax (23334 Tournament chips) 
+Seat 6: Yan55yan66 (19600 Tournament chips) 
+Seat 7: QwertySpark (71908 Tournament chips) 
+Seat 8: slodeath (22449 Tournament chips) 
+Game #23961750-75 ends
+Player ganeshboy1 leaves the table with 0 Tournament chips
+Game #23961750-76 starts
+Seat 1: ParminderK (90245 Tournament chips) 
+Seat 3: LonnyMannino (138447 Tournament chips) 
+Seat 4: Curby828 (16072 Tournament chips) 
+Seat 5: crajax (23334 Tournament chips) 
+Seat 6: Yan55yan66 (19600 Tournament chips) 
+Seat 7: QwertySpark (71908 Tournament chips) 
+Seat 8: slodeath (22449 Tournament chips) 
+The button is at seat 1
+ParminderK posted ante of 200 Tournament chips
+LonnyMannino posted ante of 200 Tournament chips
+Curby828 posted ante of 200 Tournament chips
+crajax posted ante of 200 Tournament chips
+Yan55yan66 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+slodeath posted ante of 200 Tournament chips
+The button is moved to seat 3.
+Curby828 posts the small blind [800 Tournament chips]
+crajax posts the big blind [1600 Tournament chips]
+ParminderK, at seat 1, is in this hand with 90045 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 138247 Tournament chips.
+Curby828, at seat 4, is in this hand with 15072 Tournament chips.
+crajax, at seat 5, is in this hand with 21534 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 19400 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 71708 Tournament chips.
+slodeath, at seat 8, is in this hand with 22249 Tournament chips.
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to crajax [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ Qs As ]
+Dealt to slodeath [ **** ]
+Yan55yan66 folds [1600 Tournament chips]
+QwertySpark raises [6400 Tournament chips]
+slodeath folds [6400 Tournament chips]
+ParminderK folds [6400 Tournament chips]
+LonnyMannino calls [6400 Tournament chips]
+Curby828 folds [5600 Tournament chips]
+crajax folds [4800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 4s ] board:[ Qh 4s]
+** Dealing Flop ** [ 2h ] board:[ Qh 4s 2h]
+QwertySpark bets for 16600 Tournament chips
+LonnyMannino calls [16600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Qh 4s 2h Th]
+QwertySpark checks
+LonnyMannino bets for 24900 Tournament chips
+QwertySpark folds [24900 Tournament chips]
+LonnyMannino is returned 24900 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for LonnyMannino (7h 6h Qh 2h Th: flush, queen high)
+LonnyMannino wins main pot 49800 Tournament chips.
+Seat 1: ParminderK (90045 Tournament chips) 
+Seat 3: LonnyMannino (165047 Tournament chips) 
+Seat 4: Curby828 (15072 Tournament chips) 
+Seat 5: crajax (21534 Tournament chips) 
+Seat 6: Yan55yan66 (19400 Tournament chips) 
+Seat 7: QwertySpark (48708 Tournament chips) 
+Seat 8: slodeath (22249 Tournament chips) 
+Game #23961750-76 ends
+Game #23961750-77 starts
+Seat 1: ParminderK (90045 Tournament chips) 
+Seat 3: LonnyMannino (165047 Tournament chips) 
+Seat 4: Curby828 (15072 Tournament chips) 
+Seat 5: crajax (21534 Tournament chips) 
+Seat 6: Yan55yan66 (19400 Tournament chips) 
+Seat 7: QwertySpark (48708 Tournament chips) 
+Seat 8: slodeath (22249 Tournament chips) 
+The button is at seat 3
+ParminderK posted ante of 300 Tournament chips
+LonnyMannino posted ante of 300 Tournament chips
+Curby828 posted ante of 300 Tournament chips
+crajax posted ante of 300 Tournament chips
+Yan55yan66 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+slodeath posted ante of 300 Tournament chips
+The button is moved to seat 4.
+crajax posts the small blind [1000 Tournament chips]
+Yan55yan66 posts the big blind [2000 Tournament chips]
+ParminderK, at seat 1, is in this hand with 89745 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 164747 Tournament chips.
+Curby828, at seat 4, is in this hand with 14772 Tournament chips.
+crajax, at seat 5, is in this hand with 20234 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 17100 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 48408 Tournament chips.
+slodeath, at seat 8, is in this hand with 21949 Tournament chips.
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to crajax [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ 7h 9d ]
+Dealt to slodeath [ **** ]
+QwertySpark folds [2000 Tournament chips]
+slodeath folds [2000 Tournament chips]
+ParminderK raises [4000 Tournament chips]
+LonnyMannino folds [4000 Tournament chips]
+Curby828 folds [4000 Tournament chips]
+crajax calls [3000 Tournament chips]
+Yan55yan66 calls [2000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Jd ] board:[ Qd Jd]
+** Dealing Flop ** [ Tc ] board:[ Qd Jd Tc]
+crajax checks
+Yan55yan66 checks
+ParminderK checks
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Qd Jd Tc 2h]
+crajax checks
+Yan55yan66 checks
+ParminderK bets for 14100 Tournament chips
+crajax folds [14100 Tournament chips]
+Yan55yan66 folds [14100 Tournament chips]
+ParminderK is returned 14100 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for ParminderK (7s As Qd Jd Tc: ace high)
+ParminderK wins main pot 14100 Tournament chips.
+Seat 1: ParminderK (99845 Tournament chips) 
+Seat 3: LonnyMannino (164747 Tournament chips) 
+Seat 4: Curby828 (14772 Tournament chips) 
+Seat 5: crajax (17234 Tournament chips) 
+Seat 6: Yan55yan66 (15100 Tournament chips) 
+Seat 7: QwertySpark (48408 Tournament chips) 
+Seat 8: slodeath (21949 Tournament chips) 
+Game #23961750-77 ends
+Game #23961750-78 starts
+Seat 1: ParminderK (99845 Tournament chips) 
+Seat 3: LonnyMannino (164747 Tournament chips) 
+Seat 4: Curby828 (14772 Tournament chips) 
+Seat 5: crajax (17234 Tournament chips) 
+Seat 6: Yan55yan66 (15100 Tournament chips) 
+Seat 7: QwertySpark (48408 Tournament chips) 
+Seat 8: slodeath (21949 Tournament chips) 
+The button is at seat 4
+LonnyMannino posted ante of 300 Tournament chips
+crajax posted ante of 300 Tournament chips
+Yan55yan66 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+ParminderK posted ante of 300 Tournament chips
+Curby828 posted ante of 300 Tournament chips
+slodeath posted ante of 300 Tournament chips
+The button is moved to seat 5.
+Yan55yan66 posts the small blind [1000 Tournament chips]
+QwertySpark posts the big blind [2000 Tournament chips]
+ParminderK, at seat 1, is in this hand with 99545 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 164447 Tournament chips.
+Curby828, at seat 4, is in this hand with 14472 Tournament chips.
+crajax, at seat 5, is in this hand with 16934 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 13800 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 46108 Tournament chips.
+slodeath, at seat 8, is in this hand with 21649 Tournament chips.
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+crajax is dealt: **
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to crajax [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ Jd Ac ]
+Dealt to slodeath [ **** ]
+slodeath folds [2000 Tournament chips]
+ParminderK folds [2000 Tournament chips]
+LonnyMannino folds [2000 Tournament chips]
+Curby828 folds [2000 Tournament chips]
+crajax calls [2000 Tournament chips]
+Yan55yan66 folds [1000 Tournament chips]
+QwertySpark raises [8000 Tournament chips]
+crajax calls [8000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Td ] board:[ Kc Td]
+** Dealing Flop ** [ Ad ] board:[ Kc Td Ad]
+QwertySpark bets for 8000 Tournament chips
+crajax calls all-in [6934 Tournament chips]
+QwertySpark is returned 1066 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+crajax shows [ Ks Jh ]
+QwertySpark shows [ Jd Ac ]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ Kc Td Ad 7s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Kc Td Ad 7s 2c]
+        (no action in this round)
+Round 4 is over.
+crajax shows [ Ks Jh ] a pair of kings, ace/jack kickers
+QwertySpark shows [ Jd Ac ] a pair of aces, king/jack kickers
+QwertySpark wins main pot 36968 Tournament chips with a pair of aces, king/jack kickers.
+Seat 1: ParminderK (99545 Tournament chips) 
+Seat 3: LonnyMannino (164447 Tournament chips) 
+Seat 4: Curby828 (14472 Tournament chips) 
+Seat 5: crajax (0 Tournament chips) 
+Seat 6: Yan55yan66 (13800 Tournament chips) 
+Seat 7: QwertySpark (68142 Tournament chips) 
+Seat 8: slodeath (21649 Tournament chips) 
+Game #23961750-78 ends
+Player crajax leaves the table with 0 Tournament chips
+Game #23961750-79 starts
+Seat 1: ParminderK (99545 Tournament chips) 
+Seat 3: LonnyMannino (164447 Tournament chips) 
+Seat 4: Curby828 (14472 Tournament chips) 
+Seat 6: Yan55yan66 (13800 Tournament chips) 
+Seat 7: QwertySpark (68142 Tournament chips) 
+Seat 8: slodeath (21649 Tournament chips) 
+The button is at seat 5
+ParminderK posted ante of 300 Tournament chips
+LonnyMannino posted ante of 300 Tournament chips
+Curby828 posted ante of 300 Tournament chips
+Yan55yan66 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+slodeath posted ante of 300 Tournament chips
+The button is moved to seat 6.
+QwertySpark posts the small blind [1000 Tournament chips]
+slodeath posts the big blind [2000 Tournament chips]
+ParminderK, at seat 1, is in this hand with 99245 Tournament chips.
+LonnyMannino, at seat 3, is in this hand with 164147 Tournament chips.
+Curby828, at seat 4, is in this hand with 14172 Tournament chips.
+Yan55yan66, at seat 6, is in this hand with 13500 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 66842 Tournament chips.
+slodeath, at seat 8, is in this hand with 19349 Tournament chips.
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+Yan55yan66 is dealt: **
+
+slodeath is dealt: **
+ParminderK is dealt: **
+LonnyMannino is dealt: **
+Curby828 is dealt: **
+Yan55yan66 is dealt: **
+Dealt to ParminderK [ **** ]
+Dealt to LonnyMannino [ **** ]
+Dealt to Curby828 [ **** ]
+Dealt to Yan55yan66 [ **** ]
+Dealt to QwertySpark [ 4s 4h ]
+Dealt to slodeath [ **** ]
+ParminderK folds [2000 Tournament chips]
+LonnyMannino folds [2000 Tournament chips]
+Curby828 folds [2000 Tournament chips]
+Yan55yan66 raises all-in [13500 Tournament chips]
+QwertySpark calls [12500 Tournament chips]
+slodeath folds [11500 Tournament chips]
+Tournament all-in showdown -- players show:
+Yan55yan66 shows [ 5s Ac ]
+QwertySpark shows [ 4s 4h ]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8d ] board:[ Qs 8d]
+** Dealing Flop ** [ 6s ] board:[ Qs 8d 6s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Qs 8d 6s 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Qs 8d 6s 7c 2h]
+        (no action in this round)
+Round 4 is over.
+Yan55yan66 shows [ 5s Ac ] ace/queen/eight high
+QwertySpark shows [ 4s 4h ] a pair of fours, queen/eight kickers
+QwertySpark wins main pot 30800 Tournament chips with a pair of fours, queen/eight kickers.
+Seat 1: ParminderK (99245 Tournament chips) 
+Seat 3: LonnyMannino (164147 Tournament chips) 
+Seat 4: Curby828 (14172 Tournament chips) 
+Seat 6: Yan55yan66 (0 Tournament chips) 
+Seat 7: QwertySpark (85142 Tournament chips) 
+Seat 8: slodeath (19349 Tournament chips) 
+Game #23961750-79 ends
+Player Yan55yan66 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 85142 Tournament chips
+Player slodeath leaves the table with 19349 Tournament chips
+Player Curby828 leaves the table with 14172 Tournament chips
+Player LonnyMannino leaves the table with 164147 Tournament chips
+Player ParminderK leaves the table with 99245 Tournament chips

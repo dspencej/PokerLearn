@@ -1,0 +1,5121 @@
+Game#: 23913668
+kofpoker calls [100 Tournament chips]
+navy54 calls [100 Tournament chips]
+Simmski folds [100 Tournament chips]
+johnnyg67 folds [100 Tournament chips]
+saf71 folds [50 Tournament chips]
+Round 1 is over.
+navy54: zzzzzzzzzzzzzzzzzzzzzzzzzzz
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 2c ] board:[ Qh 2c]
+** Dealing Flop ** [ 9c ] board:[ Qh 2c 9c]
+BLUE SEATS bets for 175 Tournament chips
+kofpoker folds [175 Tournament chips]
+navy54 folds [175 Tournament chips]
+BLUE SEATS is returned 175 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for BLUE SEATS (2d 7d Qh 2c 9c: a pair of deuces)
+BLUE SEATS wins main pot 350 Tournament chips.
+Seat 0: redyfreddy (7500 Tournament chips) 
+Seat 1: navy54 (7400 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (7400 Tournament chips) 
+Seat 7: BLUE SEATS (7875 Tournament chips) 
+Seat 8: kofpoker (7400 Tournament chips) 
+Game #23913668-2 ends
+Game #23913668-3 starts
+Seat 0: redyfreddy (7500 Tournament chips) 
+Seat 1: navy54 (7400 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (7400 Tournament chips) 
+Seat 7: BLUE SEATS (7875 Tournament chips) 
+Seat 8: kofpoker (7400 Tournament chips) 
+The button is at seat 3
+saf71 posts the small blind [25 Tournament chips]
+BLUE SEATS posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7500 Tournament chips.
+navy54, at seat 1, is in this hand with 7400 Tournament chips.
+Simmski, at seat 2, is in this hand with 7500 Tournament chips.
+johnnyg67, at seat 3, is in this hand with 7475 Tournament chips.
+saf71, at seat 6, is in this hand with 7375 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand with 7825 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7400 Tournament chips.
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+navy54 is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+navy54 is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to navy54 [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to johnnyg67 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+kofpoker folds [50 Tournament chips]
+redyfreddy calls [50 Tournament chips]
+navy54 raises all-in [7400 Tournament chips]
+Simmski folds [7400 Tournament chips]
+johnnyg67 folds [7400 Tournament chips]
+saf71 calls all-in [7375 Tournament chips]
+BLUE SEATS folds [7350 Tournament chips]
+redyfreddy folds [7350 Tournament chips]
+Tournament all-in showdown -- players show:
+navy54 shows [ Ac 5s ]
+saf71 shows [ As Ah ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Td ] board:[ Ks Td]
+** Dealing Flop ** [ 9d ] board:[ Ks Td 9d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Ks Td 9d 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Ks Td 9d 7c Kd]
+        (no action in this round)
+Round 4 is over.
+navy54 shows [ Ac 5s ] a pair of kings, ace/ten kickers
+saf71 shows [ As Ah ] two pair, aces and kings, ten kicker
+saf71 wins main pot 14900 Tournament chips with two pair, aces and kings, ten kicker.
+Seat 0: redyfreddy (7450 Tournament chips) 
+Seat 1: navy54 (0 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14900 Tournament chips) 
+Seat 7: BLUE SEATS (7825 Tournament chips) 
+Seat 8: kofpoker (7400 Tournament chips) 
+Game #23913668-3 ends
+Player navy54 leaves the table with 0 Tournament chips
+Game #23913668-4 starts
+Seat 0: redyfreddy (7450 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14900 Tournament chips) 
+Seat 7: BLUE SEATS (7825 Tournament chips) 
+Seat 8: kofpoker (7400 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+BLUE SEATS posts the small blind [25 Tournament chips]
+kofpoker posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7450 Tournament chips.
+Simmski, at seat 2, is in this hand with 7500 Tournament chips.
+johnnyg67, at seat 3, is in this hand with 7475 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Utahro, at seat 5, is in this hand with 7500 Tournament chips.
+saf71, at seat 6, is in this hand with 14900 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand with 7800 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7350 Tournament chips.
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to johnnyg67 [ **** ]
+Dealt to QwertySpark [ Kc 7s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+redyfreddy calls [50 Tournament chips]
+Simmski folds [50 Tournament chips]
+johnnyg67 folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Utahro folds [50 Tournament chips]
+saf71 calls [50 Tournament chips]
+BLUE SEATS raises [625 Tournament chips]
+kofpoker folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+saf71 calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 7h ] board:[ 3c 7h]
+** Dealing Flop ** [ Jc ] board:[ 3c 7h Jc]
+BLUE SEATS bets for 1400 Tournament chips
+saf71 folds [1400 Tournament chips]
+BLUE SEATS is returned 1400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for BLUE SEATS (Ks Jh 3c 7h Jc: a pair of jacks)
+BLUE SEATS wins main pot 1400 Tournament chips.
+Seat 0: redyfreddy (7400 Tournament chips) 
+Seat 1: BigTomSlick (7500 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (8575 Tournament chips) 
+Seat 8: kofpoker (7350 Tournament chips) 
+Game #23913668-4 ends
+Game #23913668-5 starts
+Seat 0: redyfreddy (7400 Tournament chips) 
+Seat 1: BigTomSlick (7500 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (7475 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (8575 Tournament chips) 
+Seat 8: kofpoker (7350 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+kofpoker posts the small blind [25 Tournament chips]
+redyfreddy posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7350 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7500 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+johnnyg67, at seat 3, is in this hand with 7475 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Utahro, at seat 5, is in this hand with 7500 Tournament chips.
+saf71, at seat 6, is in this hand with 14250 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand with 8575 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7325 Tournament chips.
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+johnnyg67 is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to johnnyg67 [ **** ]
+Dealt to QwertySpark [ 8d 9s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+BigTomSlick folds [50 Tournament chips]
+Simmski folds [50 Tournament chips]
+johnnyg67 raises [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Utahro folds [100 Tournament chips]
+saf71 folds [100 Tournament chips]
+BLUE SEATS re-raises [525 Tournament chips]
+kofpoker calls [500 Tournament chips]
+redyfreddy folds [475 Tournament chips]
+johnnyg67 calls [425 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ As ] board:[ 7h As]
+** Dealing Flop ** [ Qd ] board:[ 7h As Qd]
+kofpoker checks
+johnnyg67 bets for 812 Tournament chips
+BLUE SEATS raises [4061 Tournament chips]
+kofpoker folds [4061 Tournament chips]
+johnnyg67 calls [3249 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 7h As Qd 6c]
+johnnyg67 goes all-in for 2889 Tournament chips
+BLUE SEATS calls [2889 Tournament chips]
+Tournament all-in showdown -- players show:
+johnnyg67 shows [ Td Ad ]
+BLUE SEATS shows [ 5h 3h ]
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 7h As Qd 6c Ah]
+        (no action in this round)
+Round 4 is over.
+johnnyg67 shows [ Td Ad ] three aces, queen/ten kickers
+BLUE SEATS shows [ 5h 3h ] a pair of aces, queen/seven kickers
+johnnyg67 wins main pot 15525 Tournament chips with three aces, queen/ten kickers.
+johnnyg67: good hand
+Seat 0: redyfreddy (7350 Tournament chips) 
+Seat 1: BigTomSlick (7500 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 3: johnnyg67 (15525 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6825 Tournament chips) 
+Game #23913668-5 ends
+Player johnnyg67 leaves the table with 15525 Tournament chips
+Game #23913668-6 starts
+Seat 0: redyfreddy (7350 Tournament chips) 
+Seat 1: BigTomSlick (7500 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6825 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+redyfreddy posts the small blind [25 Tournament chips]
+BigTomSlick posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7325 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7450 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Utahro, at seat 5, is in this hand with 7500 Tournament chips.
+saf71, at seat 6, is in this hand with 14250 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6825 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ah Qd ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Simmski folds [50 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+Utahro folds [200 Tournament chips]
+saf71 folds [200 Tournament chips]
+BLUE SEATS folds [200 Tournament chips]
+kofpoker folds [200 Tournament chips]
+redyfreddy calls [175 Tournament chips]
+BigTomSlick calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Ac ] board:[ Js Ac]
+** Dealing Flop ** [ 6h ] board:[ Js Ac 6h]
+redyfreddy checks
+BigTomSlick checks
+QwertySpark bets for 350 Tournament chips
+redyfreddy folds [350 Tournament chips]
+BigTomSlick folds [350 Tournament chips]
+QwertySpark is returned 350 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ah Qd Js Ac 6h: a pair of aces)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: redyfreddy (7150 Tournament chips) 
+Seat 1: BigTomSlick (7300 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6825 Tournament chips) 
+Game #23913668-6 ends
+Game #23913668-7 starts
+Seat 0: redyfreddy (7150 Tournament chips) 
+Seat 1: BigTomSlick (7300 Tournament chips) 
+Seat 2: Simmski (7500 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (7500 Tournament chips) 
+Seat 6: saf71 (14250 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6825 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+BigTomSlick posts the small blind [25 Tournament chips]
+Simmski posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7150 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7275 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 7450 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7900 Tournament chips.
+Utahro, at seat 5, is in this hand with 7500 Tournament chips.
+saf71, at seat 6, is in this hand with 14250 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6825 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ts 8c ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+QwertySpark folds [50 Tournament chips]
+Utahro calls [50 Tournament chips]
+saf71 calls [50 Tournament chips]
+BLUE SEATS folds [50 Tournament chips]
+kofpoker raises [150 Tournament chips]
+redyfreddy calls [150 Tournament chips]
+BigTomSlick folds [125 Tournament chips]
+Simmski folds [100 Tournament chips]
+Utahro calls [100 Tournament chips]
+saf71 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 8s ] board:[ 7s 8s]
+** Dealing Flop ** [ 5c ] board:[ 7s 8s 5c]
+Utahro checks
+saf71 bets for 675 Tournament chips
+kofpoker folds [675 Tournament chips]
+redyfreddy folds [675 Tournament chips]
+Utahro calls [675 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 7s 8s 5c Qh]
+Utahro checks
+saf71 bets for 2025 Tournament chips
+Utahro folds [2025 Tournament chips]
+saf71 is returned 2025 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for saf71 (6h 6d 7s 8s Qh: a pair of sixes)
+saf71 wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (7000 Tournament chips) 
+Seat 1: BigTomSlick (7275 Tournament chips) 
+Seat 2: Simmski (7450 Tournament chips) 
+Seat 3: RichHappy (7500 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (6675 Tournament chips) 
+Seat 6: saf71 (15450 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6675 Tournament chips) 
+Game #23913668-7 ends
+Game #23913668-8 starts
+Seat 0: redyfreddy (7000 Tournament chips) 
+Seat 1: BigTomSlick (7275 Tournament chips) 
+Seat 2: Simmski (7450 Tournament chips) 
+Seat 3: RichHappy (7500 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (6675 Tournament chips) 
+Seat 6: saf71 (15450 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (6675 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Simmski posts the small blind [25 Tournament chips]
+RichHappy posts the big blind [50 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7000 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7275 Tournament chips.
+Simmski, at seat 2, is in this hand with 7425 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7450 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7900 Tournament chips.
+Utahro, at seat 5, is in this hand with 6675 Tournament chips.
+saf71, at seat 6, is in this hand with 15450 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6675 Tournament chips.
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 5c 8s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+QwertySpark folds [50 Tournament chips]
+Utahro folds [50 Tournament chips]
+saf71 calls [50 Tournament chips]
+BLUE SEATS folds [50 Tournament chips]
+kofpoker raises [150 Tournament chips]
+redyfreddy folds [150 Tournament chips]
+BigTomSlick folds [150 Tournament chips]
+Simmski folds [125 Tournament chips]
+RichHappy calls [100 Tournament chips]
+saf71 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Th ] board:[ 4h Th]
+** Dealing Flop ** [ 3c ] board:[ 4h Th 3c]
+RichHappy checks
+saf71 checks
+kofpoker bets for 150 Tournament chips
+RichHappy folds [150 Tournament chips]
+saf71 folds [150 Tournament chips]
+kofpoker is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for kofpoker (6c 6s 4h Th 3c: a pair of sixes)
+kofpoker wins main pot 475 Tournament chips.
+Seat 0: redyfreddy (7000 Tournament chips) 
+Seat 1: BigTomSlick (7275 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7350 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (6675 Tournament chips) 
+Seat 6: saf71 (15300 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+Game #23913668-8 ends
+Game #23913668-9 starts
+Seat 0: redyfreddy (7000 Tournament chips) 
+Seat 1: BigTomSlick (7275 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7350 Tournament chips) 
+Seat 4: QwertySpark (7900 Tournament chips) 
+Seat 5: Utahro (6675 Tournament chips) 
+Seat 6: saf71 (15300 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+RichHappy posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7000 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7275 Tournament chips.
+Simmski, at seat 2, is in this hand with 7425 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7800 Tournament chips.
+Utahro, at seat 5, is in this hand with 6675 Tournament chips.
+saf71, at seat 6, is in this hand with 15300 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7000 Tournament chips.
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 4h As ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Utahro calls [100 Tournament chips]
+saf71 calls [100 Tournament chips]
+BLUE SEATS folds [100 Tournament chips]
+kofpoker folds [100 Tournament chips]
+redyfreddy calls [100 Tournament chips]
+BigTomSlick calls [100 Tournament chips]
+Simmski folds [100 Tournament chips]
+RichHappy folds [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 7d ] board:[ Qd 7d]
+** Dealing Flop ** [ 7s ] board:[ Qd 7d 7s]
+QwertySpark checks
+Utahro checks
+saf71 checks
+redyfreddy checks
+BigTomSlick checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Qd 7d 7s 9d]
+QwertySpark bets for 200 Tournament chips
+Utahro calls [200 Tournament chips]
+saf71 raises [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Utahro calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ Qd 7d 7s 9d Th]
+Utahro bets for 300 Tournament chips
+saf71 calls [300 Tournament chips]
+Round 4 is over.
+Utahro shows [ Td 9s ] two pair, tens and nines
+Hand evaluation for Utahro (Td 9s Qd 9d Th: two pair, tens and nines)
+saf71 shows [ Ad 7c ] three sevens
+Hand evaluation for saf71 (Ad 7c Qd 7d 7s: three sevens)
+saf71 wins main pot 2550 Tournament chips with three sevens, ace/queen kickers.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (7175 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7600 Tournament chips) 
+Seat 5: Utahro (5675 Tournament chips) 
+Seat 6: saf71 (16850 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+Game #23913668-9 ends
+Game #23913668-10 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (7175 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7600 Tournament chips) 
+Seat 5: Utahro (5675 Tournament chips) 
+Seat 6: saf71 (16850 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [50 Tournament chips]
+Utahro posts the big blind [100 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7175 Tournament chips.
+Simmski, at seat 2, is in this hand with 7425 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7550 Tournament chips.
+Utahro, at seat 5, is in this hand with 5575 Tournament chips.
+saf71, at seat 6, is in this hand with 16850 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7000 Tournament chips.
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ Jc 2d ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+saf71 folds [100 Tournament chips]
+BLUE SEATS folds [100 Tournament chips]
+kofpoker folds [100 Tournament chips]
+redyfreddy folds [100 Tournament chips]
+BigTomSlick raises [350 Tournament chips]
+Simmski folds [350 Tournament chips]
+RichHappy folds [350 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Utahro calls [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Ts ] board:[ 7h Ts]
+** Dealing Flop ** [ 4c ] board:[ 7h Ts 4c]
+Utahro bets for 100 Tournament chips
+BigTomSlick folds [100 Tournament chips]
+Utahro is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Utahro (As Tc 7h Ts 4c: a pair of tens)
+Utahro wins main pot 750 Tournament chips.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6825 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7550 Tournament chips) 
+Seat 5: Utahro (6075 Tournament chips) 
+Seat 6: saf71 (16850 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+Game #23913668-10 ends
+Game #23913668-11 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6825 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7550 Tournament chips) 
+Seat 5: Utahro (6075 Tournament chips) 
+Seat 6: saf71 (16850 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Utahro posts the small blind [50 Tournament chips]
+saf71 posts the big blind [100 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6825 Tournament chips.
+Simmski, at seat 2, is in this hand with 7425 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7550 Tournament chips.
+Utahro, at seat 5, is in this hand with 6025 Tournament chips.
+saf71, at seat 6, is in this hand with 16750 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1100 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7000 Tournament chips.
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 9d 4s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+BLUE SEATS folds [100 Tournament chips]
+kofpoker folds [100 Tournament chips]
+redyfreddy folds [100 Tournament chips]
+BigTomSlick raises [350 Tournament chips]
+Simmski folds [350 Tournament chips]
+RichHappy folds [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+Utahro calls [300 Tournament chips]
+saf71 folds [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Qc ] board:[ 4d Qc]
+** Dealing Flop ** [ 3s ] board:[ 4d Qc 3s]
+Utahro bets for 200 Tournament chips
+BigTomSlick calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 4d Qc 3s 8d]
+Utahro bets for 200 Tournament chips
+BigTomSlick folds [200 Tournament chips]
+Utahro is returned 200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Utahro (Qs Jh 4d Qc 8d: a pair of queens)
+Utahro wins main pot 1200 Tournament chips.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6275 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16750 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+Game #23913668-11 ends
+Game #23913668-12 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6275 Tournament chips) 
+Seat 2: Simmski (7425 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (7550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16750 Tournament chips) 
+Seat 7: BLUE SEATS (1100 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+saf71 posts the small blind [50 Tournament chips]
+BLUE SEATS posts the big blind [100 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6275 Tournament chips.
+Simmski, at seat 2, is in this hand with 7425 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7550 Tournament chips.
+Utahro, at seat 5, is in this hand with 6725 Tournament chips.
+saf71, at seat 6, is in this hand with 16700 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7000 Tournament chips.
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 4s 4c ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+kofpoker folds [100 Tournament chips]
+redyfreddy folds [100 Tournament chips]
+BigTomSlick folds [100 Tournament chips]
+Simmski raises [450 Tournament chips]
+RichHappy folds [450 Tournament chips]
+QwertySpark calls [450 Tournament chips]
+Utahro folds [450 Tournament chips]
+saf71 folds [400 Tournament chips]
+BLUE SEATS folds [350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 7s ] board:[ Th 7s]
+** Dealing Flop ** [ As ] board:[ Th 7s As]
+Simmski checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Th 7s As 5h]
+Simmski checks
+QwertySpark bets for 400 Tournament chips
+Simmski calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Th 7s As 5h 2s]
+Simmski checks
+QwertySpark checks
+Round 4 is over.
+Simmski shows [ Jd Kc ] ace high
+Hand evaluation for Simmski (Jd Kc Th 7s As: ace high)
+QwertySpark shows [ 4s 4c ] a pair of fours
+Hand evaluation for QwertySpark (4s 4c Th 7s As: a pair of fours)
+QwertySpark wins main pot 1850 Tournament chips with a pair of fours, ace/ten kickers.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6275 Tournament chips) 
+Seat 2: Simmski (6575 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (8550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (1000 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+Game #23913668-12 ends
+Game #23913668-13 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6275 Tournament chips) 
+Seat 2: Simmski (6575 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (8550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (1000 Tournament chips) 
+Seat 8: kofpoker (7000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+BLUE SEATS posts the small blind [50 Tournament chips]
+kofpoker posts the big blind [100 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6275 Tournament chips.
+Simmski, at seat 2, is in this hand with 6575 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 8550 Tournament chips.
+Utahro, at seat 5, is in this hand with 6725 Tournament chips.
+saf71, at seat 6, is in this hand with 16700 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6900 Tournament chips.
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 5h Kc ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+redyfreddy folds [100 Tournament chips]
+BigTomSlick calls [100 Tournament chips]
+Simmski folds [100 Tournament chips]
+RichHappy folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Utahro folds [100 Tournament chips]
+saf71 folds [100 Tournament chips]
+BLUE SEATS folds [50 Tournament chips]
+kofpoker checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 6s ] board:[ 5s 6s]
+** Dealing Flop ** [ Ah ] board:[ 5s 6s Ah]
+kofpoker checks
+BigTomSlick bets for 100 Tournament chips
+kofpoker calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 5s 6s Ah 9h]
+kofpoker checks
+BigTomSlick checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 5s 6s Ah 9h 3c]
+kofpoker bets for 450 Tournament chips
+BigTomSlick calls [450 Tournament chips]
+Round 4 is over.
+kofpoker shows [ 3s 9s ] two pair, nines and threes
+Hand evaluation for kofpoker (3s 9s Ah 9h 3c: two pair, nines and threes)
+BigTomSlick doesn't show [ 7d 6d ]
+(BigTomSlick has 7d 6d.)
+kofpoker wins main pot 1350 Tournament chips with two pair, nines and threes, ace kicker.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (5625 Tournament chips) 
+Seat 2: Simmski (6575 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (8550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7700 Tournament chips) 
+Game #23913668-13 ends
+Game #23913668-14 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (5625 Tournament chips) 
+Seat 2: Simmski (6575 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (8550 Tournament chips) 
+Seat 5: Utahro (6725 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7700 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+kofpoker posts the small blind [75 Tournament chips]
+redyfreddy posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6750 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 5625 Tournament chips.
+Simmski, at seat 2, is in this hand with 6575 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 8550 Tournament chips.
+Utahro, at seat 5, is in this hand with 6725 Tournament chips.
+saf71, at seat 6, is in this hand with 16700 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7625 Tournament chips.
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ Jh 8c ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+BigTomSlick calls [150 Tournament chips]
+Simmski calls [150 Tournament chips]
+RichHappy folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Utahro raises [300 Tournament chips]
+saf71 calls [300 Tournament chips]
+BLUE SEATS folds [300 Tournament chips]
+kofpoker folds [225 Tournament chips]
+redyfreddy folds [150 Tournament chips]
+BigTomSlick calls [150 Tournament chips]
+Simmski calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Js ] board:[ 5c Js]
+** Dealing Flop ** [ 8s ] board:[ 5c Js 8s]
+BigTomSlick checks
+Simmski checks
+QwertySpark bets for 1725 Tournament chips
+Utahro calls [1725 Tournament chips]
+saf71 folds [1725 Tournament chips]
+BigTomSlick folds [1725 Tournament chips]
+Simmski folds [1725 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 5c Js 8s 6s]
+QwertySpark checks
+Utahro bets for 750 Tournament chips
+QwertySpark calls [750 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 5c Js 8s 6s 2d]
+QwertySpark bets for 1800 Tournament chips
+Utahro calls [1800 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Jh 8c ] two pair, jacks and eights
+Hand evaluation for QwertySpark (Jh 8c Js 8s 6s: two pair, jacks and eights)
+Utahro doesn't show [ As Ad ]
+(Utahro has As Ad.)
+QwertySpark wins main pot 10275 Tournament chips with two pair, jacks and eights, six kicker.
+Seat 0: redyfreddy (6750 Tournament chips) 
+Seat 1: BigTomSlick (5325 Tournament chips) 
+Seat 2: Simmski (6275 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16400 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+Game #23913668-14 ends
+Game #23913668-15 starts
+Seat 0: redyfreddy (6750 Tournament chips) 
+Seat 1: BigTomSlick (5325 Tournament chips) 
+Seat 2: Simmski (6275 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16400 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+redyfreddy posts the small blind [75 Tournament chips]
+BigTomSlick posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6675 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 5175 Tournament chips.
+Simmski, at seat 2, is in this hand with 6275 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 14250 Tournament chips.
+Utahro, at seat 5, is in this hand with 2150 Tournament chips.
+saf71, at seat 6, is in this hand with 16400 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7625 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 9s 5s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Simmski folds [150 Tournament chips]
+RichHappy folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Utahro folds [150 Tournament chips]
+saf71 calls [150 Tournament chips]
+BLUE SEATS folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+redyfreddy calls [75 Tournament chips]
+BigTomSlick checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Th ] board:[ 7c Th]
+** Dealing Flop ** [ 3h ] board:[ 7c Th 3h]
+redyfreddy bets for 150 Tournament chips
+BigTomSlick folds [150 Tournament chips]
+saf71 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 7c Th 3h Ah]
+redyfreddy bets for 150 Tournament chips
+saf71 folds [150 Tournament chips]
+redyfreddy is returned 150 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for redyfreddy (Td Jd 7c Th Ah: a pair of tens)
+redyfreddy wins main pot 750 Tournament chips.
+Seat 0: redyfreddy (7200 Tournament chips) 
+Seat 1: BigTomSlick (5175 Tournament chips) 
+Seat 2: Simmski (6275 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+Game #23913668-15 ends
+Game #23913668-16 starts
+Seat 0: redyfreddy (7200 Tournament chips) 
+Seat 1: BigTomSlick (5175 Tournament chips) 
+Seat 2: Simmski (6275 Tournament chips) 
+Seat 3: RichHappy (7300 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+BigTomSlick posts the small blind [75 Tournament chips]
+Simmski posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7200 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 5100 Tournament chips.
+Simmski, at seat 2, is in this hand with 6125 Tournament chips.
+RichHappy, at seat 3, is in this hand with 7300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 14250 Tournament chips.
+Utahro, at seat 5, is in this hand with 2150 Tournament chips.
+saf71, at seat 6, is in this hand with 16100 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7625 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ Tc 6h ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+RichHappy calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Utahro folds [150 Tournament chips]
+saf71 folds [150 Tournament chips]
+BLUE SEATS folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+redyfreddy calls [150 Tournament chips]
+BigTomSlick calls [75 Tournament chips]
+Simmski checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 7d ] board:[ 2h 7d]
+** Dealing Flop ** [ Jd ] board:[ 2h 7d Jd]
+BigTomSlick checks
+Simmski bets for 600 Tournament chips
+RichHappy raises all-in [7150 Tournament chips]
+redyfreddy folds [7050 Tournament chips]
+BigTomSlick folds [5025 Tournament chips]
+Simmski calls all-in [5525 Tournament chips]
+RichHappy is returned 1025 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Simmski shows [ Jc 7c ]
+RichHappy shows [ Kc Kh ]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 2h 7d Jd 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 2h 7d Jd 8s 6s]
+        (no action in this round)
+Round 4 is over.
+Simmski shows [ Jc 7c ] two pair, jacks and sevens, eight kicker
+RichHappy shows [ Kc Kh ] a pair of kings, jack/eight kickers
+Simmski wins main pot 12850 Tournament chips with two pair, jacks and sevens, eight kicker.
+Seat 0: redyfreddy (7050 Tournament chips) 
+Seat 1: BigTomSlick (5025 Tournament chips) 
+Seat 2: Simmski (12850 Tournament chips) 
+Seat 3: RichHappy (1025 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+Game #23913668-16 ends
+Game #23913668-17 starts
+Seat 0: redyfreddy (7050 Tournament chips) 
+Seat 1: BigTomSlick (5025 Tournament chips) 
+Seat 2: Simmski (12850 Tournament chips) 
+Seat 3: RichHappy (1025 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (7625 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Simmski posts the small blind [75 Tournament chips]
+RichHappy posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7050 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 5025 Tournament chips.
+Simmski, at seat 2, is in this hand with 12775 Tournament chips.
+RichHappy, at seat 3, is in this hand with 875 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 14250 Tournament chips.
+Utahro, at seat 5, is in this hand with 2150 Tournament chips.
+saf71, at seat 6, is in this hand with 16100 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 7625 Tournament chips.
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ 8d 6h ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+QwertySpark folds [150 Tournament chips]
+Utahro folds [150 Tournament chips]
+saf71 folds [150 Tournament chips]
+BLUE SEATS folds [150 Tournament chips]
+kofpoker calls [150 Tournament chips]
+redyfreddy calls [150 Tournament chips]
+BigTomSlick raises [450 Tournament chips]
+Simmski folds [375 Tournament chips]
+RichHappy folds [300 Tournament chips]
+kofpoker calls [300 Tournament chips]
+redyfreddy folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 4d ] board:[ 7c 4d]
+** Dealing Flop ** [ As ] board:[ 7c 4d As]
+kofpoker checks
+BigTomSlick checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 7c 4d As 3d]
+kofpoker bets for 300 Tournament chips
+BigTomSlick calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 7c 4d As 3d Ac]
+kofpoker checks
+BigTomSlick checks
+Round 4 is over.
+kofpoker shows [ 2s 2d ] two pair, aces and deuces
+Hand evaluation for kofpoker (2s 2d 7c As Ac: two pair, aces and deuces)
+BigTomSlick shows [ 9h 7h ] two pair, aces and sevens
+Hand evaluation for BigTomSlick (9h 7h 7c As Ac: two pair, aces and sevens)
+BigTomSlick wins main pot 1875 Tournament chips with two pair, aces and sevens, nine kicker.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 3: RichHappy (875 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+Game #23913668-17 ends
+Game #23913668-18 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 3: RichHappy (875 Tournament chips) 
+Seat 4: QwertySpark (14250 Tournament chips) 
+Seat 5: Utahro (2150 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+RichHappy posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6150 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 12775 Tournament chips.
+RichHappy, at seat 3, is in this hand with 800 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 14100 Tournament chips.
+Utahro, at seat 5, is in this hand with 2150 Tournament chips.
+saf71, at seat 6, is in this hand with 16100 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6875 Tournament chips.
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+RichHappy is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to RichHappy [ **** ]
+Dealt to QwertySpark [ Jh Jc ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Utahro calls [150 Tournament chips]
+saf71 folds [150 Tournament chips]
+BLUE SEATS folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+redyfreddy folds [150 Tournament chips]
+BigTomSlick folds [150 Tournament chips]
+Simmski folds [150 Tournament chips]
+RichHappy raises all-in [800 Tournament chips]
+QwertySpark re-raises [1450 Tournament chips]
+Utahro folds [1450 Tournament chips]
+QwertySpark is returned 725 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+RichHappy shows [ 6c 5c ]
+QwertySpark shows [ Jh Jc ]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Ts ] board:[ 3c Ts]
+** Dealing Flop ** [ As ] board:[ 3c Ts As]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 3c Ts As 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 3c Ts As 8h Ah]
+        (no action in this round)
+Round 4 is over.
+RichHappy shows [ 6c 5c ] a pair of aces, ten/eight kickers
+QwertySpark shows [ Jh Jc ] two pair, aces and jacks, ten kicker
+QwertySpark wins main pot 1900 Tournament chips with two pair, aces and jacks, ten kicker.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 3: RichHappy (0 Tournament chips) 
+Seat 4: QwertySpark (15275 Tournament chips) 
+Seat 5: Utahro (2000 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+Game #23913668-18 ends
+Player RichHappy leaves the table with 0 Tournament chips
+Game #23913668-19 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 4: QwertySpark (15275 Tournament chips) 
+Seat 5: Utahro (2000 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [75 Tournament chips]
+Utahro posts the big blind [150 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6900 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6150 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 12775 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15200 Tournament chips.
+Utahro, at seat 5, is in this hand with 1850 Tournament chips.
+saf71, at seat 6, is in this hand with 16100 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 950 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6875 Tournament chips.
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Jh Js ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+saf71 folds [150 Tournament chips]
+BLUE SEATS folds [150 Tournament chips]
+kofpoker folds [150 Tournament chips]
+redyfreddy folds [150 Tournament chips]
+BigTomSlick folds [150 Tournament chips]
+Simmski folds [150 Tournament chips]
+QwertySpark raises [525 Tournament chips]
+Utahro folds [450 Tournament chips]
+QwertySpark is returned 450 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Jh Js: a pair of jacks)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 4: QwertySpark (15425 Tournament chips) 
+Seat 5: Utahro (1850 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+Game #23913668-19 ends
+Game #23913668-20 starts
+Seat 0: redyfreddy (6900 Tournament chips) 
+Seat 1: BigTomSlick (6150 Tournament chips) 
+Seat 2: Simmski (12775 Tournament chips) 
+Seat 4: QwertySpark (15425 Tournament chips) 
+Seat 5: Utahro (1850 Tournament chips) 
+Seat 6: saf71 (16100 Tournament chips) 
+Seat 7: BLUE SEATS (950 Tournament chips) 
+Seat 8: kofpoker (6875 Tournament chips) 
+The button is at seat 3
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+The button is moved to seat 4.
+Utahro posts the small blind [100 Tournament chips]
+saf71 posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6875 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 6125 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 12750 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15400 Tournament chips.
+Utahro, at seat 5, is in this hand with 1725 Tournament chips.
+saf71, at seat 6, is in this hand with 15875 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 925 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6850 Tournament chips.
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 5d As ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+BLUE SEATS folds [200 Tournament chips]
+kofpoker calls [200 Tournament chips]
+redyfreddy calls [200 Tournament chips]
+BigTomSlick calls [200 Tournament chips]
+Simmski folds [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Utahro folds [100 Tournament chips]
+saf71 checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 5c ] board:[ 3h 5c]
+** Dealing Flop ** [ 7s ] board:[ 3h 5c 7s]
+saf71 bets for 200 Tournament chips
+kofpoker calls [200 Tournament chips]
+redyfreddy calls [200 Tournament chips]
+BigTomSlick calls [200 Tournament chips]
+QwertySpark raises [1250 Tournament chips]
+saf71 calls [1050 Tournament chips]
+kofpoker folds [1050 Tournament chips]
+redyfreddy calls [1050 Tournament chips]
+BigTomSlick calls [1050 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 3h 5c 7s 5s]
+saf71 checks
+redyfreddy bets for 200 Tournament chips
+BigTomSlick folds [200 Tournament chips]
+QwertySpark raises [3550 Tournament chips]
+saf71 folds [3550 Tournament chips]
+redyfreddy folds [3350 Tournament chips]
+QwertySpark is returned 3350 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (5d As 5c 7s 5s: three fives)
+QwertySpark wins main pot 6900 Tournament chips.
+Seat 0: redyfreddy (5225 Tournament chips) 
+Seat 1: BigTomSlick (4675 Tournament chips) 
+Seat 2: Simmski (12750 Tournament chips) 
+Seat 4: QwertySpark (20650 Tournament chips) 
+Seat 5: Utahro (1725 Tournament chips) 
+Seat 6: saf71 (14625 Tournament chips) 
+Seat 7: BLUE SEATS (925 Tournament chips) 
+Seat 8: kofpoker (6450 Tournament chips) 
+Game #23913668-20 ends
+Game #23913668-21 starts
+Seat 0: redyfreddy (5225 Tournament chips) 
+Seat 1: BigTomSlick (4675 Tournament chips) 
+Seat 2: Simmski (12750 Tournament chips) 
+Seat 4: QwertySpark (20650 Tournament chips) 
+Seat 5: Utahro (1725 Tournament chips) 
+Seat 6: saf71 (14625 Tournament chips) 
+Seat 7: BLUE SEATS (925 Tournament chips) 
+Seat 8: kofpoker (6450 Tournament chips) 
+The button is at seat 4
+redyfreddy posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [100 Tournament chips]
+BLUE SEATS posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 5200 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 4650 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 12725 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 20625 Tournament chips.
+Utahro, at seat 5, is in this hand with 1700 Tournament chips.
+saf71, at seat 6, is in this hand with 14500 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 700 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6425 Tournament chips.
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Qh Qc ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+kofpoker calls [200 Tournament chips]
+redyfreddy folds [200 Tournament chips]
+BigTomSlick calls [200 Tournament chips]
+Simmski folds [200 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Utahro folds [800 Tournament chips]
+saf71 calls [700 Tournament chips]
+BLUE SEATS folds [600 Tournament chips]
+kofpoker calls [600 Tournament chips]
+BigTomSlick calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Th ] board:[ 7s Th]
+** Dealing Flop ** [ Ad ] board:[ 7s Th Ad]
+saf71 bets for 1000 Tournament chips
+kofpoker folds [1000 Tournament chips]
+BigTomSlick folds [1000 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+saf71 is returned 1000 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for saf71 (As 3d 7s Th Ad: a pair of aces)
+saf71 wins main pot 3600 Tournament chips.
+Seat 0: redyfreddy (5200 Tournament chips) 
+Seat 1: BigTomSlick (3850 Tournament chips) 
+Seat 2: Simmski (12725 Tournament chips) 
+Seat 4: QwertySpark (19825 Tournament chips) 
+Seat 5: Utahro (1700 Tournament chips) 
+Seat 6: saf71 (17400 Tournament chips) 
+Seat 7: BLUE SEATS (700 Tournament chips) 
+Seat 8: kofpoker (5625 Tournament chips) 
+Game #23913668-21 ends
+Game #23913668-22 starts
+Seat 0: redyfreddy (5200 Tournament chips) 
+Seat 1: BigTomSlick (3850 Tournament chips) 
+Seat 2: Simmski (12725 Tournament chips) 
+Seat 4: QwertySpark (19825 Tournament chips) 
+Seat 5: Utahro (1700 Tournament chips) 
+Seat 6: saf71 (17400 Tournament chips) 
+Seat 7: BLUE SEATS (700 Tournament chips) 
+Seat 8: kofpoker (5625 Tournament chips) 
+The button is at seat 5
+BigTomSlick posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+redyfreddy posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+The button is moved to seat 6.
+BLUE SEATS posts the small blind [100 Tournament chips]
+kofpoker posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 5175 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 3825 Tournament chips.
+Simmski, at seat 2, is in this hand with 12700 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19800 Tournament chips.
+Utahro, at seat 5, is in this hand with 1675 Tournament chips.
+saf71, at seat 6, is in this hand with 17375 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 575 Tournament chips.
+kofpoker, at seat 8, is in this hand with 5400 Tournament chips.
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 5c Qh ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+redyfreddy folds [200 Tournament chips]
+BigTomSlick folds [200 Tournament chips]
+Simmski calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Utahro folds [200 Tournament chips]
+saf71 calls [200 Tournament chips]
+BLUE SEATS folds [100 Tournament chips]
+kofpoker checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 4d ] board:[ As 4d]
+** Dealing Flop ** [ Th ] board:[ As 4d Th]
+kofpoker checks
+Simmski bets for 900 Tournament chips
+saf71 calls [900 Tournament chips]
+kofpoker folds [900 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ As 4d Th 4h]
+Simmski bets for 2700 Tournament chips
+saf71 calls [2700 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ As 4d Th 4h 3d]
+Simmski goes all-in for 8900 Tournament chips
+saf71 folds, showing Ad 6s [8900 Tournament chips]
+Simmski is returned 8900 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Simmski (Td Ah As 4d Th: two pair, aces and tens)
+Simmski wins main pot 8100 Tournament chips.
+Seat 0: redyfreddy (5175 Tournament chips) 
+Seat 1: BigTomSlick (3825 Tournament chips) 
+Seat 2: Simmski (17000 Tournament chips) 
+Seat 4: QwertySpark (19800 Tournament chips) 
+Seat 5: Utahro (1675 Tournament chips) 
+Seat 6: saf71 (13575 Tournament chips) 
+Seat 7: BLUE SEATS (575 Tournament chips) 
+Seat 8: kofpoker (5400 Tournament chips) 
+Game #23913668-22 ends
+Game #23913668-23 starts
+Seat 0: redyfreddy (5175 Tournament chips) 
+Seat 1: BigTomSlick (3825 Tournament chips) 
+Seat 2: Simmski (17000 Tournament chips) 
+Seat 4: QwertySpark (19800 Tournament chips) 
+Seat 5: Utahro (1675 Tournament chips) 
+Seat 6: saf71 (13575 Tournament chips) 
+Seat 7: BLUE SEATS (575 Tournament chips) 
+Seat 8: kofpoker (5400 Tournament chips) 
+The button is at seat 6
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+The button is moved to seat 7.
+kofpoker posts the small blind [100 Tournament chips]
+redyfreddy posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4950 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 3800 Tournament chips.
+Simmski, at seat 2, is in this hand with 16975 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19775 Tournament chips.
+Utahro, at seat 5, is in this hand with 1650 Tournament chips.
+saf71, at seat 6, is in this hand with 13550 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 550 Tournament chips.
+kofpoker, at seat 8, is in this hand with 5275 Tournament chips.
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2c 4d ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+BigTomSlick folds [200 Tournament chips]
+Simmski folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Utahro folds [200 Tournament chips]
+saf71 folds [200 Tournament chips]
+BLUE SEATS folds [200 Tournament chips]
+kofpoker calls [100 Tournament chips]
+redyfreddy checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ Jh ] board:[ 8d Jh]
+** Dealing Flop ** [ Tc ] board:[ 8d Jh Tc]
+kofpoker checks
+redyfreddy bets for 200 Tournament chips
+kofpoker calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 8d Jh Tc Ad]
+kofpoker checks
+redyfreddy bets for 200 Tournament chips
+kofpoker calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 8d Jh Tc Ad Qc]
+kofpoker checks
+redyfreddy bets for 200 Tournament chips
+kofpoker calls [200 Tournament chips]
+Round 4 is over.
+redyfreddy shows [ 7s Qh ] a pair of queens
+Hand evaluation for redyfreddy (Qh Jh Tc Ad Qc: a pair of queens)
+kofpoker shows [ 7h Ac ] a pair of aces
+Hand evaluation for kofpoker (Ac Jh Tc Ad Qc: a pair of aces)
+kofpoker wins main pot 1800 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 0: redyfreddy (4350 Tournament chips) 
+Seat 1: BigTomSlick (3800 Tournament chips) 
+Seat 2: Simmski (16975 Tournament chips) 
+Seat 4: QwertySpark (19775 Tournament chips) 
+Seat 5: Utahro (1650 Tournament chips) 
+Seat 6: saf71 (13550 Tournament chips) 
+Seat 7: BLUE SEATS (550 Tournament chips) 
+Seat 8: kofpoker (6375 Tournament chips) 
+Game #23913668-23 ends
+Game #23913668-24 starts
+Seat 0: redyfreddy (4350 Tournament chips) 
+Seat 1: BigTomSlick (3800 Tournament chips) 
+Seat 2: Simmski (16975 Tournament chips) 
+Seat 4: QwertySpark (19775 Tournament chips) 
+Seat 5: Utahro (1650 Tournament chips) 
+Seat 6: saf71 (13550 Tournament chips) 
+Seat 7: BLUE SEATS (550 Tournament chips) 
+Seat 8: kofpoker (6375 Tournament chips) 
+The button is at seat 7
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+The button is moved to seat 8.
+redyfreddy posts the small blind [100 Tournament chips]
+BigTomSlick posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4225 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 3575 Tournament chips.
+Simmski, at seat 2, is in this hand with 16950 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19750 Tournament chips.
+Utahro, at seat 5, is in this hand with 1625 Tournament chips.
+saf71, at seat 6, is in this hand with 13525 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 525 Tournament chips.
+kofpoker, at seat 8, is in this hand with 6350 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2d 6h ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Simmski calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Utahro folds [200 Tournament chips]
+saf71 folds [200 Tournament chips]
+BLUE SEATS folds [200 Tournament chips]
+kofpoker calls [200 Tournament chips]
+redyfreddy folds [100 Tournament chips]
+BigTomSlick raises all-in [3575 Tournament chips]
+Simmski folds [3575 Tournament chips]
+kofpoker calls [3575 Tournament chips]
+Tournament all-in showdown -- players show:
+BigTomSlick shows [ 7h 8h ]
+kofpoker shows [ As 5s ]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3c ] board:[ Qd 3c]
+** Dealing Flop ** [ Qc ] board:[ Qd 3c Qc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Qd 3c Qc 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Qd 3c Qc 8d 7s]
+        (no action in this round)
+Round 4 is over.
+BigTomSlick shows [ 7h 8h ] two pair, queens and eights, seven kicker
+kofpoker shows [ As 5s ] a pair of queens, ace/eight kickers
+BigTomSlick wins main pot 8050 Tournament chips with two pair, queens and eights, seven kicker.
+Seat 0: redyfreddy (4225 Tournament chips) 
+Seat 1: BigTomSlick (8050 Tournament chips) 
+Seat 2: Simmski (16750 Tournament chips) 
+Seat 4: QwertySpark (19750 Tournament chips) 
+Seat 5: Utahro (1625 Tournament chips) 
+Seat 6: saf71 (13525 Tournament chips) 
+Seat 7: BLUE SEATS (525 Tournament chips) 
+Seat 8: kofpoker (2575 Tournament chips) 
+Game #23913668-24 ends
+Game #23913668-25 starts
+Seat 0: redyfreddy (4225 Tournament chips) 
+Seat 1: BigTomSlick (8050 Tournament chips) 
+Seat 2: Simmski (16750 Tournament chips) 
+Seat 4: QwertySpark (19750 Tournament chips) 
+Seat 5: Utahro (1625 Tournament chips) 
+Seat 6: saf71 (13525 Tournament chips) 
+Seat 7: BLUE SEATS (525 Tournament chips) 
+Seat 8: kofpoker (2575 Tournament chips) 
+The button is at seat 8
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+The button is moved to seat 0.
+BigTomSlick posts the small blind [100 Tournament chips]
+Simmski posts the big blind [200 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4200 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 7925 Tournament chips.
+Simmski, at seat 2, is in this hand with 16525 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19725 Tournament chips.
+Utahro, at seat 5, is in this hand with 1600 Tournament chips.
+saf71, at seat 6, is in this hand with 13500 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 500 Tournament chips.
+kofpoker, at seat 8, is in this hand with 2550 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2c 3d ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+QwertySpark folds [200 Tournament chips]
+Utahro folds [200 Tournament chips]
+saf71 folds [200 Tournament chips]
+BLUE SEATS folds [200 Tournament chips]
+kofpoker calls [200 Tournament chips]
+redyfreddy folds [200 Tournament chips]
+BigTomSlick raises all-in [7925 Tournament chips]
+Simmski calls [7825 Tournament chips]
+kofpoker folds [2350 Tournament chips]
+Tournament all-in showdown -- players show:
+BigTomSlick shows [ Ac Qd ]
+Simmski shows [ Jh As ]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Th ] board:[ 2h Th]
+** Dealing Flop ** [ 2s ] board:[ 2h Th 2s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 2h Th 2s 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 2h Th 2s 7c 8c]
+        (no action in this round)
+Round 4 is over.
+BigTomSlick shows [ Ac Qd ] a pair of deuces, ace/queen kickers
+Simmski shows [ Jh As ] a pair of deuces, ace/jack kickers
+BigTomSlick wins main pot 16450 Tournament chips with a pair of deuces, ace/queen kickers.
+Seat 0: redyfreddy (4200 Tournament chips) 
+Seat 1: BigTomSlick (16450 Tournament chips) 
+Seat 2: Simmski (8700 Tournament chips) 
+Seat 4: QwertySpark (19725 Tournament chips) 
+Seat 5: Utahro (1600 Tournament chips) 
+Seat 6: saf71 (13500 Tournament chips) 
+Seat 7: BLUE SEATS (500 Tournament chips) 
+Seat 8: kofpoker (2350 Tournament chips) 
+Game #23913668-25 ends
+Game #23913668-26 starts
+Seat 0: redyfreddy (4200 Tournament chips) 
+Seat 1: BigTomSlick (16450 Tournament chips) 
+Seat 2: Simmski (8700 Tournament chips) 
+Seat 4: QwertySpark (19725 Tournament chips) 
+Seat 5: Utahro (1600 Tournament chips) 
+Seat 6: saf71 (13500 Tournament chips) 
+Seat 7: BLUE SEATS (500 Tournament chips) 
+Seat 8: kofpoker (2350 Tournament chips) 
+The button is at seat 0
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4175 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 16425 Tournament chips.
+Simmski, at seat 2, is in this hand with 8525 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19400 Tournament chips.
+Utahro, at seat 5, is in this hand with 1575 Tournament chips.
+saf71, at seat 6, is in this hand with 13475 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 475 Tournament chips.
+kofpoker, at seat 8, is in this hand with 2325 Tournament chips.
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2d Kh ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+Utahro folds [300 Tournament chips]
+saf71 calls [300 Tournament chips]
+BLUE SEATS folds [300 Tournament chips]
+kofpoker folds [300 Tournament chips]
+redyfreddy folds [300 Tournament chips]
+BigTomSlick folds [300 Tournament chips]
+Simmski calls [150 Tournament chips]
+QwertySpark folds
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Jc ] board:[ 2s Jc]
+** Dealing Flop ** [ 5h ] board:[ 2s Jc 5h]
+Simmski checks
+saf71 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 2s Jc 5h 7h]
+Simmski checks
+saf71 checks
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 2s Jc 5h 7h 4c]
+Simmski checks
+saf71 checks
+Round 4 is over.
+Simmski shows [ 6h Qc ] queen high
+Hand evaluation for Simmski (6h Qc Jc 5h 7h: queen high)
+saf71 shows [ Qh 5c ] a pair of fives
+Hand evaluation for saf71 (Qh 5c Jc 5h 7h: a pair of fives)
+saf71 wins main pot 1100 Tournament chips with a pair of fives, queen/jack kickers.
+Seat 0: redyfreddy (4175 Tournament chips) 
+Seat 1: BigTomSlick (16425 Tournament chips) 
+Seat 2: Simmski (8375 Tournament chips) 
+Seat 4: QwertySpark (19400 Tournament chips) 
+Seat 5: Utahro (1575 Tournament chips) 
+Seat 6: saf71 (14275 Tournament chips) 
+Seat 7: BLUE SEATS (475 Tournament chips) 
+Seat 8: kofpoker (2325 Tournament chips) 
+Game #23913668-26 ends
+Game #23913668-27 starts
+Seat 0: redyfreddy (4175 Tournament chips) 
+Seat 1: BigTomSlick (16425 Tournament chips) 
+Seat 2: Simmski (8375 Tournament chips) 
+Seat 4: QwertySpark (19400 Tournament chips) 
+Seat 5: Utahro (1575 Tournament chips) 
+Seat 6: saf71 (14275 Tournament chips) 
+Seat 7: BLUE SEATS (475 Tournament chips) 
+Seat 8: kofpoker (2325 Tournament chips) 
+The button is at seat 1
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+kofpoker posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [150 Tournament chips]
+Utahro posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4150 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 16400 Tournament chips.
+Simmski, at seat 2, is in this hand with 8350 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19225 Tournament chips.
+Utahro, at seat 5, is in this hand with 1250 Tournament chips.
+saf71, at seat 6, is in this hand with 14250 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 450 Tournament chips.
+kofpoker, at seat 8, is in this hand with 2300 Tournament chips.
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+kofpoker is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2c 6h ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+Dealt to kofpoker [ **** ]
+saf71 calls [300 Tournament chips]
+BLUE SEATS folds [300 Tournament chips]
+kofpoker raises all-in [2300 Tournament chips]
+redyfreddy folds [2300 Tournament chips]
+BigTomSlick folds [2300 Tournament chips]
+Simmski folds [2300 Tournament chips]
+QwertySpark folds [2150 Tournament chips]
+Utahro folds [1250 Tournament chips]
+saf71 calls [2000 Tournament chips]
+Tournament all-in showdown -- players show:
+saf71 shows [ Jd Ad ]
+kofpoker shows [ 9c Ah ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5h ] board:[ Ts 5h]
+** Dealing Flop ** [ Qh ] board:[ Ts 5h Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Ts 5h Qh 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Ts 5h Qh 3d 3h]
+        (no action in this round)
+Round 4 is over.
+saf71 shows [ Jd Ad ] a pair of threes, ace/queen kickers
+kofpoker shows [ 9c Ah ] a pair of threes, ace/queen kickers
+saf71 wins main pot 5250 Tournament chips with a pair of threes, ace/queen kickers.
+Seat 0: redyfreddy (4150 Tournament chips) 
+Seat 1: BigTomSlick (16400 Tournament chips) 
+Seat 2: Simmski (8350 Tournament chips) 
+Seat 4: QwertySpark (19225 Tournament chips) 
+Seat 5: Utahro (1250 Tournament chips) 
+Seat 6: saf71 (17200 Tournament chips) 
+Seat 7: BLUE SEATS (450 Tournament chips) 
+Seat 8: kofpoker (0 Tournament chips) 
+Game #23913668-27 ends
+Player kofpoker leaves the table with 0 Tournament chips
+Game #23913668-28 starts
+Seat 0: redyfreddy (4150 Tournament chips) 
+Seat 1: BigTomSlick (16400 Tournament chips) 
+Seat 2: Simmski (8350 Tournament chips) 
+Seat 4: QwertySpark (19225 Tournament chips) 
+Seat 5: Utahro (1250 Tournament chips) 
+Seat 6: saf71 (17200 Tournament chips) 
+Seat 7: BLUE SEATS (450 Tournament chips) 
+The button is at seat 2
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+The button is moved to seat 4.
+Utahro posts the small blind [150 Tournament chips]
+saf71 posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4125 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 16375 Tournament chips.
+Simmski, at seat 2, is in this hand with 8325 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 19200 Tournament chips.
+Utahro, at seat 5, is in this hand with 1075 Tournament chips.
+saf71, at seat 6, is in this hand with 16875 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 425 Tournament chips.
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Jd Ks ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+BLUE SEATS folds [300 Tournament chips]
+redyfreddy folds [300 Tournament chips]
+BigTomSlick folds [300 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+Simmski calls [300 Tournament chips]
+QwertySpark raises [1500 Tournament chips]
+Utahro calls all-in [1075 Tournament chips]
+saf71 folds [1200 Tournament chips]
+Simmski calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 9s ] board:[ 8h 9s]
+** Dealing Flop ** [ 5s ] board:[ 8h 9s 5s]
+Simmski checks
+QwertySpark bets for 1750 Tournament chips
+Simmski folds [1750 Tournament chips]
+QwertySpark is returned 1750 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jd Ks ]
+Utahro shows [ Ad 2h ]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 8h 9s 5s 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 8h 9s 5s 2d 5d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jd Ks ] a pair of fives, king/jack kickers
+Utahro shows [ Ad 2h ] two pair, fives and deuces, ace kicker
+Utahro wins main pot 4150 Tournament chips with two pair, fives and deuces, ace kicker.
+QwertySpark wins side pot #1 550 Tournament chips with a pair of fives, king/jack kickers.
+Seat 0: redyfreddy (4125 Tournament chips) 
+Seat 1: BigTomSlick (16375 Tournament chips) 
+Seat 2: Simmski (6825 Tournament chips) 
+Seat 4: QwertySpark (18250 Tournament chips) 
+Seat 5: Utahro (4150 Tournament chips) 
+Seat 6: saf71 (16875 Tournament chips) 
+Seat 7: BLUE SEATS (425 Tournament chips) 
+Game #23913668-28 ends
+Game #23913668-29 starts
+Seat 0: redyfreddy (4125 Tournament chips) 
+Seat 1: BigTomSlick (16375 Tournament chips) 
+Seat 2: Simmski (6825 Tournament chips) 
+Seat 4: QwertySpark (18250 Tournament chips) 
+Seat 5: Utahro (4150 Tournament chips) 
+Seat 6: saf71 (16875 Tournament chips) 
+Seat 7: BLUE SEATS (425 Tournament chips) 
+The button is at seat 4
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [150 Tournament chips]
+BLUE SEATS posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4100 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 16350 Tournament chips.
+Simmski, at seat 2, is in this hand with 6800 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 18225 Tournament chips.
+Utahro, at seat 5, is in this hand with 4125 Tournament chips.
+saf71, at seat 6, is in this hand with 16700 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 100 Tournament chips.
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 8h Jd ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+redyfreddy folds [300 Tournament chips]
+BigTomSlick raises [1225 Tournament chips]
+Simmski calls [1225 Tournament chips]
+QwertySpark folds [1225 Tournament chips]
+Utahro folds [1225 Tournament chips]
+saf71 folds [1075 Tournament chips]
+BLUE SEATS folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 5d ] board:[ Jh 5d]
+** Dealing Flop ** [ 8c ] board:[ Jh 5d 8c]
+BigTomSlick bets for 3075 Tournament chips
+Simmski folds [3075 Tournament chips]
+BigTomSlick is returned 3075 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for BigTomSlick (As Ad Jh 5d 8c: a pair of aces)
+BigTomSlick wins main pot 3075 Tournament chips.
+Seat 0: redyfreddy (4100 Tournament chips) 
+Seat 1: BigTomSlick (18200 Tournament chips) 
+Seat 2: Simmski (5575 Tournament chips) 
+Seat 4: QwertySpark (18225 Tournament chips) 
+Seat 5: Utahro (4125 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (100 Tournament chips) 
+Game #23913668-29 ends
+Game #23913668-30 starts
+Seat 0: redyfreddy (4100 Tournament chips) 
+Seat 1: BigTomSlick (18200 Tournament chips) 
+Seat 2: Simmski (5575 Tournament chips) 
+Seat 4: QwertySpark (18225 Tournament chips) 
+Seat 5: Utahro (4125 Tournament chips) 
+Seat 6: saf71 (16700 Tournament chips) 
+Seat 7: BLUE SEATS (100 Tournament chips) 
+The button is at seat 5
+Simmski posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+redyfreddy posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+BLUE SEATS posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+The button is moved to seat 6.
+BLUE SEATS posts the small blind [75 Tournament chips], goes all-in
+redyfreddy posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 3775 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18175 Tournament chips.
+Simmski, at seat 2, is in this hand with 5550 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 18200 Tournament chips.
+Utahro, at seat 5, is in this hand with 4100 Tournament chips.
+saf71, at seat 6, is in this hand with 16675 Tournament chips.
+BLUE SEATS, at seat 7, is in this hand (absent) with 0 Tournament chips.
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+BLUE SEATS is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Qd 6s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to BLUE SEATS [ **** ]
+BigTomSlick folds [300 Tournament chips]
+Simmski folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Utahro folds [300 Tournament chips]
+saf71 calls [300 Tournament chips]
+redyfreddy checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 2h ] board:[ 6h 2h]
+** Dealing Flop ** [ Ts ] board:[ 6h 2h Ts]
+redyfreddy bets for 300 Tournament chips
+saf71 folds [300 Tournament chips]
+redyfreddy is returned 300 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+redyfreddy shows [ 4c 2d ]
+BLUE SEATS shows [ 9d 4s ]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 6h 2h Ts Ac]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 6h 2h Ts Ac 7h]
+        (no action in this round)
+Round 4 is over.
+redyfreddy shows [ 4c 2d ] a pair of deuces, ace/ten kickers
+redyfreddy wins main pot 400 Tournament chips with a pair of deuces, ace/ten kickers.
+redyfreddy wins side pot #1 450 Tournament chips with a pair of deuces, ace/ten kickers.
+Seat 0: redyfreddy (4625 Tournament chips) 
+Seat 1: BigTomSlick (18175 Tournament chips) 
+Seat 2: Simmski (5550 Tournament chips) 
+Seat 4: QwertySpark (18200 Tournament chips) 
+Seat 5: Utahro (4100 Tournament chips) 
+Seat 6: saf71 (16375 Tournament chips) 
+Seat 7: BLUE SEATS (0 Tournament chips) 
+Game #23913668-30 ends
+Player BLUE SEATS leaves the table with 0 Tournament chips
+Game #23913668-31 starts
+Seat 0: redyfreddy (4625 Tournament chips) 
+Seat 1: BigTomSlick (18175 Tournament chips) 
+Seat 2: Simmski (5550 Tournament chips) 
+Seat 4: QwertySpark (18200 Tournament chips) 
+Seat 5: Utahro (4100 Tournament chips) 
+Seat 6: saf71 (16375 Tournament chips) 
+The button is at seat 6
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+The button is moved to seat 7.
+redyfreddy posts the small blind [150 Tournament chips]
+BigTomSlick posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4450 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17850 Tournament chips.
+Simmski, at seat 2, is in this hand with 5525 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 18175 Tournament chips.
+Utahro, at seat 5, is in this hand with 4075 Tournament chips.
+saf71, at seat 6, is in this hand with 16350 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 7h Jh ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Simmski folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Utahro calls [300 Tournament chips]
+saf71 folds [300 Tournament chips]
+redyfreddy calls [150 Tournament chips]
+BigTomSlick checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 9d ] board:[ 2c 9d]
+** Dealing Flop ** [ 5d ] board:[ 2c 9d 5d]
+redyfreddy bets for 300 Tournament chips
+BigTomSlick folds [300 Tournament chips]
+Utahro folds [300 Tournament chips]
+redyfreddy is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for redyfreddy (7s 5c 2c 9d 5d: a pair of fives)
+redyfreddy wins main pot 1050 Tournament chips.
+Seat 0: redyfreddy (5350 Tournament chips) 
+Seat 1: BigTomSlick (17850 Tournament chips) 
+Seat 2: Simmski (5525 Tournament chips) 
+Seat 4: QwertySpark (18175 Tournament chips) 
+Seat 5: Utahro (3775 Tournament chips) 
+Seat 6: saf71 (16350 Tournament chips) 
+Game #23913668-31 ends
+Game #23913668-32 starts
+Seat 0: redyfreddy (5350 Tournament chips) 
+Seat 1: BigTomSlick (17850 Tournament chips) 
+Seat 2: Simmski (5525 Tournament chips) 
+Seat 4: QwertySpark (18175 Tournament chips) 
+Seat 5: Utahro (3775 Tournament chips) 
+Seat 6: saf71 (16350 Tournament chips) 
+The button is at seat 7
+redyfreddy posted ante of 25 Tournament chips
+BigTomSlick posted ante of 25 Tournament chips
+Simmski posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Utahro posted ante of 25 Tournament chips
+saf71 posted ante of 25 Tournament chips
+The button is moved to seat 0.
+BigTomSlick posts the small blind [150 Tournament chips]
+Simmski posts the big blind [300 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 5325 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17675 Tournament chips.
+Simmski, at seat 2, is in this hand with 5200 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 18150 Tournament chips.
+Utahro, at seat 5, is in this hand with 3750 Tournament chips.
+saf71, at seat 6, is in this hand with 16325 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 3s Ac ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+QwertySpark folds [300 Tournament chips]
+Utahro calls [300 Tournament chips]
+saf71 calls [300 Tournament chips]
+redyfreddy calls [300 Tournament chips]
+BigTomSlick folds [150 Tournament chips]
+Simmski has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 8c ] board:[ 7h 8c]
+** Dealing Flop ** [ 9c ] board:[ 7h 8c 9c]
+Simmski checks
+Utahro checks
+saf71 checks
+redyfreddy bets for 300 Tournament chips
+Simmski calls [300 Tournament chips]
+Utahro calls [300 Tournament chips]
+saf71 folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 7h 8c 9c Ks]
+Simmski checks
+Utahro checks
+redyfreddy bets for 300 Tournament chips
+Simmski calls [300 Tournament chips]
+Utahro calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 7h 8c 9c Ks 6s]
+Simmski checks
+Utahro checks
+redyfreddy bets for 600 Tournament chips
+Simmski folds [600 Tournament chips]
+Utahro folds [600 Tournament chips]
+redyfreddy is returned 600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for redyfreddy (Th 7h 8c 9c 6s: straight, ten high)
+redyfreddy wins main pot 3300 Tournament chips.
+Seat 0: redyfreddy (7725 Tournament chips) 
+Seat 1: BigTomSlick (17675 Tournament chips) 
+Seat 2: Simmski (4600 Tournament chips) 
+Seat 4: QwertySpark (18150 Tournament chips) 
+Seat 5: Utahro (2850 Tournament chips) 
+Seat 6: saf71 (16025 Tournament chips) 
+Game #23913668-32 ends
+Game #23913668-33 starts
+Seat 0: redyfreddy (7725 Tournament chips) 
+Seat 1: BigTomSlick (17675 Tournament chips) 
+Seat 2: Simmski (4600 Tournament chips) 
+Seat 4: QwertySpark (18150 Tournament chips) 
+Seat 5: Utahro (2850 Tournament chips) 
+Seat 6: saf71 (16025 Tournament chips) 
+The button is at seat 0
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Utahro posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+redyfreddy posted ante of 50 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7675 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17625 Tournament chips.
+Simmski, at seat 2, is in this hand with 4350 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 17700 Tournament chips.
+Utahro, at seat 5, is in this hand with 2800 Tournament chips.
+saf71, at seat 6, is in this hand with 15975 Tournament chips.
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2d Td ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+Utahro folds [400 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+saf71 folds [400 Tournament chips]
+redyfreddy calls [400 Tournament chips]
+BigTomSlick raises [2100 Tournament chips]
+Simmski folds [1900 Tournament chips]
+QwertySpark folds [1700 Tournament chips]
+redyfreddy folds [1700 Tournament chips]
+BigTomSlick is returned 1700 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BigTomSlick (Ac 8c: ace high)
+BigTomSlick wins main pot 1700 Tournament chips.
+Seat 0: redyfreddy (7275 Tournament chips) 
+Seat 1: BigTomSlick (18925 Tournament chips) 
+Seat 2: Simmski (4350 Tournament chips) 
+Seat 4: QwertySpark (17700 Tournament chips) 
+Seat 5: Utahro (2800 Tournament chips) 
+Seat 6: saf71 (15975 Tournament chips) 
+Game #23913668-33 ends
+Game #23913668-34 starts
+Seat 0: redyfreddy (7275 Tournament chips) 
+Seat 1: BigTomSlick (18925 Tournament chips) 
+Seat 2: Simmski (4350 Tournament chips) 
+Seat 4: QwertySpark (17700 Tournament chips) 
+Seat 5: Utahro (2800 Tournament chips) 
+Seat 6: saf71 (15975 Tournament chips) 
+The button is at seat 1
+redyfreddy posted ante of 50 Tournament chips
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Utahro posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [200 Tournament chips]
+Utahro posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7225 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18875 Tournament chips.
+Simmski, at seat 2, is in this hand with 4300 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 17450 Tournament chips.
+Utahro, at seat 5, is in this hand with 2350 Tournament chips.
+saf71, at seat 6, is in this hand with 15925 Tournament chips.
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 8s 2c ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+saf71 folds [400 Tournament chips]
+redyfreddy folds [400 Tournament chips]
+BigTomSlick folds [400 Tournament chips]
+Simmski folds [400 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+Utahro calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 7d ] board:[ 7h 7d]
+** Dealing Flop ** [ 5d ] board:[ 7h 7d 5d]
+QwertySpark checks
+Utahro checks
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 7h 7d 5d Qc]
+QwertySpark bets for 1200 Tournament chips
+Utahro raises all-in [1950 Tournament chips]
+QwertySpark folds [750 Tournament chips]
+Utahro is returned 750 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Utahro (8h Qs 7h 7d Qc: two pair, queens and sevens)
+Utahro wins main pot 4300 Tournament chips.
+Seat 0: redyfreddy (7225 Tournament chips) 
+Seat 1: BigTomSlick (18875 Tournament chips) 
+Seat 2: Simmski (4300 Tournament chips) 
+Seat 4: QwertySpark (15650 Tournament chips) 
+Seat 5: Utahro (5050 Tournament chips) 
+Seat 6: saf71 (15925 Tournament chips) 
+Game #23913668-34 ends
+Game #23913668-35 starts
+Seat 0: redyfreddy (7225 Tournament chips) 
+Seat 1: BigTomSlick (18875 Tournament chips) 
+Seat 2: Simmski (4300 Tournament chips) 
+Seat 4: QwertySpark (15650 Tournament chips) 
+Seat 5: Utahro (5050 Tournament chips) 
+Seat 6: saf71 (15925 Tournament chips) 
+The button is at seat 2
+redyfreddy posted ante of 50 Tournament chips
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Utahro posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+The button is moved to seat 4.
+Utahro posts the small blind [200 Tournament chips]
+saf71 posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7175 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18825 Tournament chips.
+Simmski, at seat 2, is in this hand with 4250 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15600 Tournament chips.
+Utahro, at seat 5, is in this hand with 4800 Tournament chips.
+saf71, at seat 6, is in this hand with 15475 Tournament chips.
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Utahro is dealt: **
+saf71 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 5s 4s ]
+Dealt to Utahro [ **** ]
+Dealt to saf71 [ **** ]
+redyfreddy folds [400 Tournament chips]
+BigTomSlick folds [400 Tournament chips]
+Simmski folds [400 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Utahro calls [200 Tournament chips]
+saf71 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 4d ] board:[ 5h 4d]
+** Dealing Flop ** [ 3h ] board:[ 5h 4d 3h]
+Utahro checks
+saf71 has timed out - the hand is checked
+QwertySpark bets for 800 Tournament chips
+Utahro calls [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 5h 4d 3h Ah]
+Utahro goes all-in for 3800 Tournament chips
+QwertySpark calls [3800 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 5s 4s ]
+Utahro shows [ 8h Ac ]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 5h 4d 3h Ah 9c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 5s 4s ] two pair, fives and fours, ace kicker
+Utahro shows [ 8h Ac ] a pair of aces, nine/eight kickers
+QwertySpark wins main pot 10700 Tournament chips with two pair, fives and fours, ace kicker.
+Seat 0: redyfreddy (7175 Tournament chips) 
+Seat 1: BigTomSlick (18825 Tournament chips) 
+Seat 2: Simmski (4250 Tournament chips) 
+Seat 4: QwertySpark (21300 Tournament chips) 
+Seat 5: Utahro (0 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (4650 Tournament chips) 
+Game #23913668-35 ends
+Player Utahro leaves the table with 0 Tournament chips
+Game #23913668-36 starts
+Seat 0: redyfreddy (7175 Tournament chips) 
+Seat 1: BigTomSlick (18825 Tournament chips) 
+Seat 2: Simmski (4250 Tournament chips) 
+Seat 4: QwertySpark (21300 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (4650 Tournament chips) 
+The button is at seat 4
+redyfreddy posted ante of 50 Tournament chips
+BigTomSlick posted ante of 50 Tournament chips
+Blooodz10 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+The button is moved to seat 5.
+Blooodz10 posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7125 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18775 Tournament chips.
+Simmski, at seat 2, is in this hand with 4200 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 21250 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 4200 Tournament chips.
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 9s Td ]
+Dealt to Blooodz10 [ **** ]
+redyfreddy folds [400 Tournament chips]
+BigTomSlick folds [400 Tournament chips]
+Simmski folds [400 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Blooodz10 folds
+round 1 is over.
+Hand evaluation for QwertySpark (9s Td: ten high)
+QwertySpark wins main pot 1050 Tournament chips.
+Seat 0: redyfreddy (7125 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (4200 Tournament chips) 
+Seat 4: QwertySpark (21900 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (4200 Tournament chips) 
+Game #23913668-36 ends
+Game #23913668-37 starts
+Seat 0: redyfreddy (7125 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (4200 Tournament chips) 
+Seat 4: QwertySpark (21900 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (4200 Tournament chips) 
+The button is at seat 5
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Blooodz10 posted ante of 50 Tournament chips
+redyfreddy posted ante of 50 Tournament chips
+Blooodz10 posts the small blind [200 Tournament chips]
+redyfreddy posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6675 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18725 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 4150 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 21850 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3950 Tournament chips.
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2d 9d ]
+Dealt to Blooodz10 [ **** ]
+BigTomSlick folds [400 Tournament chips]
+Simmski folds [400 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2d 9d: nine high)
+QwertySpark wins main pot 1250 Tournament chips.
+Seat 0: redyfreddy (6675 Tournament chips) 
+Seat 1: BigTomSlick (18725 Tournament chips) 
+Seat 2: Simmski (4150 Tournament chips) 
+Seat 4: QwertySpark (22700 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (3950 Tournament chips) 
+Game #23913668-37 ends
+Game #23913668-38 starts
+Seat 0: redyfreddy (6675 Tournament chips) 
+Seat 1: BigTomSlick (18725 Tournament chips) 
+Seat 2: Simmski (4150 Tournament chips) 
+Seat 4: QwertySpark (22700 Tournament chips) 
+Seat 6: saf71 (15475 Tournament chips) 
+Seat 8: Blooodz10 (3950 Tournament chips) 
+The button is at seat 5
+redyfreddy posted ante of 50 Tournament chips
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+Blooodz10 posted ante of 50 Tournament chips
+The button is moved to seat 8.
+redyfreddy posts the small blind [200 Tournament chips]
+BigTomSlick posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 6425 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18275 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 4100 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 22650 Tournament chips.
+saf71, at seat 6, is in this hand with 15425 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3900 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+saf71 is dealt: **
+Blooodz10 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 9c 3d ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Simmski folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+saf71 folds [400 Tournament chips]
+Blooodz10 folds [400 Tournament chips]
+redyfreddy calls [200 Tournament chips]
+BigTomSlick checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Qc ] board:[ Ts Qc]
+** Dealing Flop ** [ Tc ] board:[ Ts Qc Tc]
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Ts Qc Tc 4d]
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Ts Qc Tc 4d 9s]
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 4 is over.
+redyfreddy shows [ 5h 9d ] two pair, tens and nines
+Hand evaluation for redyfreddy (9d Ts Qc Tc 9s: two pair, tens and nines)
+BigTomSlick shows [ Qs 4c ] two pair, queens and tens
+Hand evaluation for BigTomSlick (Qs Ts Qc Tc 9s: two pair, queens and tens)
+BigTomSlick wins main pot 3500 Tournament chips with two pair, queens and tens, nine kicker.
+Seat 0: redyfreddy (5025 Tournament chips) 
+Seat 1: BigTomSlick (20575 Tournament chips) 
+Seat 2: Simmski (4100 Tournament chips) 
+Seat 4: QwertySpark (22650 Tournament chips) 
+Seat 6: saf71 (15425 Tournament chips) 
+Seat 8: Blooodz10 (3900 Tournament chips) 
+Game #23913668-38 ends
+Game #23913668-39 starts
+Seat 0: redyfreddy (5025 Tournament chips) 
+Seat 1: BigTomSlick (20575 Tournament chips) 
+Seat 2: Simmski (4100 Tournament chips) 
+Seat 4: QwertySpark (22650 Tournament chips) 
+Seat 6: saf71 (15425 Tournament chips) 
+Seat 8: Blooodz10 (3900 Tournament chips) 
+The button is at seat 8
+redyfreddy posted ante of 50 Tournament chips
+BigTomSlick posted ante of 50 Tournament chips
+Simmski posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+saf71 posted ante of 50 Tournament chips
+Blooodz10 posted ante of 50 Tournament chips
+The button is moved to seat 0.
+BigTomSlick posts the small blind [200 Tournament chips]
+Simmski posts the big blind [400 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4975 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 20325 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 3650 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 22600 Tournament chips.
+saf71, at seat 6, is in this hand (absent) with 15375 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3850 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 7h Kd ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+QwertySpark folds [400 Tournament chips]
+saf71 folds [400 Tournament chips]
+Blooodz10 folds [400 Tournament chips]
+redyfreddy calls [400 Tournament chips]
+BigTomSlick calls [200 Tournament chips]
+Simmski folds
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 5c ] board:[ Qs 5c]
+** Dealing Flop ** [ 8d ] board:[ Qs 5c 8d]
+BigTomSlick checks
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Qs 5c 8d 4h]
+BigTomSlick checks
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Qs 5c 8d 4h 4c]
+BigTomSlick checks
+redyfreddy bets for 400 Tournament chips
+BigTomSlick calls [400 Tournament chips]
+Round 4 is over.
+redyfreddy shows [ 8c Qc ] two pair, queens and eights
+Hand evaluation for redyfreddy (8c Qc Qs 5c 8d: two pair, queens and eights)
+BigTomSlick doesn't show [ Qh Jd ]
+(BigTomSlick has Qh Jd.)
+redyfreddy wins main pot 3900 Tournament chips with two pair, queens and eights, five kicker.
+Seat 0: redyfreddy (7275 Tournament chips) 
+Seat 1: BigTomSlick (18925 Tournament chips) 
+Seat 2: Simmski (3650 Tournament chips) 
+Seat 4: QwertySpark (22600 Tournament chips) 
+Seat 5: scoop100 (12189 Tournament chips) 
+Seat 6: saf71 (15375 Tournament chips) 
+Seat 8: Blooodz10 (3850 Tournament chips) 
+Game #23913668-39 ends
+Game #23913668-40 starts
+Seat 0: redyfreddy (7275 Tournament chips) 
+Seat 1: BigTomSlick (18925 Tournament chips) 
+Seat 2: Simmski (3650 Tournament chips) 
+Seat 4: QwertySpark (22600 Tournament chips) 
+Seat 5: scoop100 (12189 Tournament chips) 
+Seat 6: saf71 (15375 Tournament chips) 
+Seat 8: Blooodz10 (3850 Tournament chips) 
+The button is at seat 0
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 7200 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18850 Tournament chips.
+Simmski, at seat 2, is in this hand with 3275 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 21925 Tournament chips.
+scoop100, at seat 5, is in this hand with 12114 Tournament chips.
+saf71, at seat 6, is in this hand (absent) with 15300 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3775 Tournament chips.
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ah Ad ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+scoop100 folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ah Ad: a pair of aces)
+QwertySpark wins main pot 1125 Tournament chips.
+Seat 0: redyfreddy (7200 Tournament chips) 
+Seat 1: BigTomSlick (18850 Tournament chips) 
+Seat 2: Simmski (3275 Tournament chips) 
+Seat 4: QwertySpark (23350 Tournament chips) 
+Seat 5: scoop100 (12114 Tournament chips) 
+Seat 6: saf71 (15300 Tournament chips) 
+Seat 8: Blooodz10 (3775 Tournament chips) 
+Game #23913668-40 ends
+Game #23913668-41 starts
+Seat 0: redyfreddy (7200 Tournament chips) 
+Seat 1: BigTomSlick (18850 Tournament chips) 
+Seat 2: Simmski (3275 Tournament chips) 
+Seat 4: QwertySpark (23350 Tournament chips) 
+Seat 5: scoop100 (12114 Tournament chips) 
+Seat 6: saf71 (15300 Tournament chips) 
+Seat 8: Blooodz10 (3775 Tournament chips) 
+The button is at seat 1
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [300 Tournament chips]
+scoop100 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 7125 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18775 Tournament chips.
+Simmski, at seat 2, is in this hand (absent) with 3200 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 22975 Tournament chips.
+scoop100, at seat 5, is in this hand with 11439 Tournament chips.
+saf71, at seat 6, is in this hand (absent) with 15225 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3700 Tournament chips.
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 3d 2d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+saf71 folds [600 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [600 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+scoop100 checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 6c ] board:[ 5c 6c]
+** Dealing Flop ** [ As ] board:[ 5c 6c As]
+QwertySpark checks
+scoop100 bets for 1200 Tournament chips
+QwertySpark calls [1200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 5c 6c As 2s]
+QwertySpark checks
+scoop100 checks
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 5c 6c As 2s Kd]
+QwertySpark bets for 2400 Tournament chips
+scoop100 folds [2400 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (2d 6c As 2s Kd: a pair of deuces)
+QwertySpark wins main pot 4125 Tournament chips.
+Seat 0: redyfreddy (7125 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (3200 Tournament chips) 
+Seat 4: QwertySpark (25600 Tournament chips) 
+Seat 5: scoop100 (10239 Tournament chips) 
+Seat 6: saf71 (15225 Tournament chips) 
+Seat 8: Blooodz10 (3700 Tournament chips) 
+Game #23913668-41 ends
+Game #23913668-42 starts
+Seat 0: redyfreddy (7125 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (3200 Tournament chips) 
+Seat 4: QwertySpark (25600 Tournament chips) 
+Seat 5: scoop100 (10239 Tournament chips) 
+Seat 6: saf71 (15225 Tournament chips) 
+Seat 8: Blooodz10 (3700 Tournament chips) 
+The button is at seat 2
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 4.
+scoop100 posts the small blind [300 Tournament chips]
+saf71 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 7050 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18700 Tournament chips.
+Simmski, at seat 2, is in this hand with 3125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 25525 Tournament chips.
+scoop100, at seat 5, is in this hand with 9864 Tournament chips.
+saf71, at seat 6, is in this hand (absent) with 14550 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 3625 Tournament chips.
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 3s Th ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski raises all-in [3125 Tournament chips]
+QwertySpark folds [3125 Tournament chips]
+scoop100 folds [2825 Tournament chips]
+saf71 folds [2525 Tournament chips]
+Simmski is returned 2525 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Simmski (6s Jd: jack high)
+Simmski wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (7050 Tournament chips) 
+Seat 1: BigTomSlick (18700 Tournament chips) 
+Seat 2: Simmski (4550 Tournament chips) 
+Seat 4: QwertySpark (25525 Tournament chips) 
+Seat 5: scoop100 (9864 Tournament chips) 
+Seat 6: saf71 (14550 Tournament chips) 
+Seat 8: Blooodz10 (3625 Tournament chips) 
+Game #23913668-42 ends
+Game #23913668-43 starts
+Seat 0: redyfreddy (7050 Tournament chips) 
+Seat 1: BigTomSlick (18700 Tournament chips) 
+Seat 2: Simmski (4550 Tournament chips) 
+Seat 4: QwertySpark (25525 Tournament chips) 
+Seat 5: scoop100 (9864 Tournament chips) 
+Seat 6: saf71 (14550 Tournament chips) 
+Seat 8: Blooodz10 (3625 Tournament chips) 
+The button is at seat 4
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [300 Tournament chips]
+Blooodz10 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 6975 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18625 Tournament chips.
+Simmski, at seat 2, is in this hand with 4475 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 25450 Tournament chips.
+scoop100, at seat 5, is in this hand with 9789 Tournament chips.
+saf71, at seat 6, is in this hand (absent) with 14175 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2950 Tournament chips.
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ As Kh ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [600 Tournament chips]
+QwertySpark raises [1800 Tournament chips]
+scoop100 raises all-in [9789 Tournament chips]
+saf71 folds [9489 Tournament chips]
+Blooodz10 folds [2950 Tournament chips]
+QwertySpark calls [7989 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ As Kh ]
+scoop100 shows [ Ad 8c ]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6c ] board:[ 8h 6c]
+** Dealing Flop ** [ 4s ] board:[ 8h 6c 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 8h 6c 4s 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 8h 6c 4s 3h 5d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ As Kh ] ace/king/eight high
+scoop100 shows [ Ad 8c ] a pair of eights, ace/six kickers
+scoop100 wins main pot 21003 Tournament chips with a pair of eights, ace/six kickers.
+Seat 0: redyfreddy (6975 Tournament chips) 
+Seat 1: BigTomSlick (18625 Tournament chips) 
+Seat 2: Simmski (4475 Tournament chips) 
+Seat 4: QwertySpark (15661 Tournament chips) 
+Seat 5: scoop100 (21003 Tournament chips) 
+Seat 6: saf71 (14175 Tournament chips) 
+Seat 8: Blooodz10 (2950 Tournament chips) 
+Game #23913668-43 ends
+Game #23913668-44 starts
+Seat 0: redyfreddy (6975 Tournament chips) 
+Seat 1: BigTomSlick (18625 Tournament chips) 
+Seat 2: Simmski (4475 Tournament chips) 
+Seat 4: QwertySpark (15661 Tournament chips) 
+Seat 5: scoop100 (21003 Tournament chips) 
+Seat 6: saf71 (14175 Tournament chips) 
+Seat 8: Blooodz10 (2950 Tournament chips) 
+The button is at seat 5
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 6.
+Blooodz10 posts the small blind [300 Tournament chips]
+redyfreddy posts the big blind [600 Tournament chips]
+saf71 posts ante of 75 Tournament chips 
+redyfreddy, at seat 0, is in this hand (absent) with 6300 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18550 Tournament chips.
+Simmski, at seat 2, is in this hand with 4400 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15586 Tournament chips.
+scoop100, at seat 5, is in this hand with 20928 Tournament chips.
+saf71, at seat 6, is in this hand with 14175 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2575 Tournament chips.
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ks 6s ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [600 Tournament chips]
+QwertySpark raises [1800 Tournament chips]
+scoop100 folds [1800 Tournament chips]
+saf71 folds [1800 Tournament chips]
+Blooodz10 folds [1500 Tournament chips]
+redyfreddy folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ks 6s: king high)
+QwertySpark wins main pot 1950 Tournament chips.
+Seat 0: redyfreddy (6300 Tournament chips) 
+Seat 1: BigTomSlick (18550 Tournament chips) 
+Seat 2: Simmski (4400 Tournament chips) 
+Seat 4: QwertySpark (16936 Tournament chips) 
+Seat 5: scoop100 (20928 Tournament chips) 
+Seat 6: saf71 (14175 Tournament chips) 
+Seat 8: Blooodz10 (2575 Tournament chips) 
+Game #23913668-44 ends
+Game #23913668-45 starts
+Seat 0: redyfreddy (6300 Tournament chips) 
+Seat 1: BigTomSlick (18550 Tournament chips) 
+Seat 2: Simmski (4400 Tournament chips) 
+Seat 4: QwertySpark (16936 Tournament chips) 
+Seat 5: scoop100 (20928 Tournament chips) 
+Seat 6: saf71 (14175 Tournament chips) 
+Seat 8: Blooodz10 (2575 Tournament chips) 
+The button is at seat 6
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+The button is moved to seat 8.
+(redyfreddy has entered the table, is no longer absent.)
+redyfreddy posts the small blind [300 Tournament chips]
+BigTomSlick posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 5925 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17875 Tournament chips.
+Simmski, at seat 2, is in this hand with 4325 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 16861 Tournament chips.
+scoop100, at seat 5, is in this hand with 20853 Tournament chips.
+saf71, at seat 6, is in this hand with 14100 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2500 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 8d Ts ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Simmski raises all-in [4325 Tournament chips]
+QwertySpark folds [4325 Tournament chips]
+scoop100 folds [4325 Tournament chips]
+saf71 folds [4325 Tournament chips]
+Blooodz10 folds [2500 Tournament chips]
+redyfreddy folds [4025 Tournament chips]
+BigTomSlick folds [3725 Tournament chips]
+Simmski is returned 3725 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Simmski (Ac 9h: ace high)
+Simmski wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (5925 Tournament chips) 
+Seat 1: BigTomSlick (17875 Tournament chips) 
+Seat 2: Simmski (5750 Tournament chips) 
+Seat 4: QwertySpark (16861 Tournament chips) 
+Seat 5: scoop100 (20853 Tournament chips) 
+Seat 6: saf71 (14100 Tournament chips) 
+Seat 8: Blooodz10 (2500 Tournament chips) 
+Game #23913668-45 ends
+Game #23913668-46 starts
+Seat 0: redyfreddy (5925 Tournament chips) 
+Seat 1: BigTomSlick (17875 Tournament chips) 
+Seat 2: Simmski (5750 Tournament chips) 
+Seat 4: QwertySpark (16861 Tournament chips) 
+Seat 5: scoop100 (20853 Tournament chips) 
+Seat 6: saf71 (14100 Tournament chips) 
+Seat 8: Blooodz10 (2500 Tournament chips) 
+The button is at seat 8
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 0.
+BigTomSlick posts the small blind [300 Tournament chips]
+Simmski posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 5850 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17500 Tournament chips.
+Simmski, at seat 2, is in this hand with 5075 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 16786 Tournament chips.
+scoop100, at seat 5, is in this hand with 20778 Tournament chips.
+saf71, at seat 6, is in this hand with 14025 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2425 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 6h 2c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+QwertySpark folds [600 Tournament chips]
+scoop100 folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [300 Tournament chips]
+Simmski is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Simmski (8h Qc: queen high)
+Simmski wins main pot 1125 Tournament chips.
+Seat 0: redyfreddy (5850 Tournament chips) 
+Seat 1: BigTomSlick (17500 Tournament chips) 
+Seat 2: Simmski (6500 Tournament chips) 
+Seat 4: QwertySpark (16786 Tournament chips) 
+Seat 5: scoop100 (20778 Tournament chips) 
+Seat 6: saf71 (14025 Tournament chips) 
+Seat 8: Blooodz10 (2425 Tournament chips) 
+Game #23913668-46 ends
+Game #23913668-47 starts
+Seat 0: redyfreddy (5850 Tournament chips) 
+Seat 1: BigTomSlick (17500 Tournament chips) 
+Seat 2: Simmski (6500 Tournament chips) 
+Seat 4: QwertySpark (16786 Tournament chips) 
+Seat 5: scoop100 (20778 Tournament chips) 
+Seat 6: saf71 (14025 Tournament chips) 
+Seat 8: Blooodz10 (2425 Tournament chips) 
+The button is at seat 0
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 5775 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17425 Tournament chips.
+Simmski, at seat 2, is in this hand with 6125 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 16111 Tournament chips.
+scoop100, at seat 5, is in this hand with 20703 Tournament chips.
+saf71, at seat 6, is in this hand with 13950 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2350 Tournament chips.
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ts 3c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+scoop100 folds [600 Tournament chips]
+saf71 folds [600 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick raises [2625 Tournament chips]
+Simmski folds [2325 Tournament chips]
+QwertySpark folds [2025 Tournament chips]
+BigTomSlick is returned 2025 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BigTomSlick (Tc Kc: king high)
+BigTomSlick wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (5775 Tournament chips) 
+Seat 1: BigTomSlick (18850 Tournament chips) 
+Seat 2: Simmski (6125 Tournament chips) 
+Seat 4: QwertySpark (16111 Tournament chips) 
+Seat 5: scoop100 (20703 Tournament chips) 
+Seat 6: saf71 (13950 Tournament chips) 
+Seat 8: Blooodz10 (2350 Tournament chips) 
+Game #23913668-47 ends
+Game #23913668-48 starts
+Seat 0: redyfreddy (5775 Tournament chips) 
+Seat 1: BigTomSlick (18850 Tournament chips) 
+Seat 2: Simmski (6125 Tournament chips) 
+Seat 4: QwertySpark (16111 Tournament chips) 
+Seat 5: scoop100 (20703 Tournament chips) 
+Seat 6: saf71 (13950 Tournament chips) 
+Seat 8: Blooodz10 (2350 Tournament chips) 
+The button is at seat 1
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [300 Tournament chips]
+scoop100 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 5700 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18775 Tournament chips.
+Simmski, at seat 2, is in this hand with 6050 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15736 Tournament chips.
+scoop100, at seat 5, is in this hand with 20028 Tournament chips.
+saf71, at seat 6, is in this hand with 13875 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2275 Tournament chips.
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Kh 3d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+saf71 folds [600 Tournament chips]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski raises all-in [6050 Tournament chips]
+QwertySpark folds [5750 Tournament chips]
+scoop100 folds [5450 Tournament chips]
+Simmski is returned 5450 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Simmski (Ah Qs: ace high)
+Simmski wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (5700 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (7475 Tournament chips) 
+Seat 4: QwertySpark (15736 Tournament chips) 
+Seat 5: scoop100 (20028 Tournament chips) 
+Seat 6: saf71 (13875 Tournament chips) 
+Seat 8: Blooodz10 (2275 Tournament chips) 
+Game #23913668-48 ends
+Game #23913668-49 starts
+Seat 0: redyfreddy (5700 Tournament chips) 
+Seat 1: BigTomSlick (18775 Tournament chips) 
+Seat 2: Simmski (7475 Tournament chips) 
+Seat 4: QwertySpark (15736 Tournament chips) 
+Seat 5: scoop100 (20028 Tournament chips) 
+Seat 6: saf71 (13875 Tournament chips) 
+Seat 8: Blooodz10 (2275 Tournament chips) 
+The button is at seat 2
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 4.
+scoop100 posts the small blind [300 Tournament chips]
+saf71 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 5625 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18700 Tournament chips.
+Simmski, at seat 2, is in this hand with 7400 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15661 Tournament chips.
+scoop100, at seat 5, is in this hand with 19653 Tournament chips.
+saf71, at seat 6, is in this hand with 13200 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 2200 Tournament chips.
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 4h Ah ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Blooodz10 folds [600 Tournament chips]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+scoop100 folds [2100 Tournament chips]
+saf71 folds [1800 Tournament chips]
+QwertySpark is returned 1800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (4h Ah: ace high)
+QwertySpark wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (5625 Tournament chips) 
+Seat 1: BigTomSlick (18700 Tournament chips) 
+Seat 2: Simmski (7400 Tournament chips) 
+Seat 4: QwertySpark (17086 Tournament chips) 
+Seat 5: scoop100 (19653 Tournament chips) 
+Seat 6: saf71 (13200 Tournament chips) 
+Seat 8: Blooodz10 (2200 Tournament chips) 
+Game #23913668-49 ends
+Game #23913668-50 starts
+Seat 0: redyfreddy (5625 Tournament chips) 
+Seat 1: BigTomSlick (18700 Tournament chips) 
+Seat 2: Simmski (7400 Tournament chips) 
+Seat 4: QwertySpark (17086 Tournament chips) 
+Seat 5: scoop100 (19653 Tournament chips) 
+Seat 6: saf71 (13200 Tournament chips) 
+Seat 8: Blooodz10 (2200 Tournament chips) 
+The button is at seat 4
+redyfreddy posted ante of 75 Tournament chips
+BigTomSlick posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [300 Tournament chips]
+Blooodz10 posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand (absent) with 5550 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18625 Tournament chips.
+Simmski, at seat 2, is in this hand with 7325 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 17011 Tournament chips.
+scoop100, at seat 5, is in this hand with 19578 Tournament chips.
+saf71, at seat 6, is in this hand with 12825 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1525 Tournament chips.
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ac As ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+redyfreddy folds [600 Tournament chips]
+BigTomSlick folds [600 Tournament chips]
+Simmski calls [600 Tournament chips]
+(redyfreddy has entered the table, is no longer absent.)
+QwertySpark raises [3000 Tournament chips]
+scoop100 folds [3000 Tournament chips]
+saf71 folds [2700 Tournament chips]
+Blooodz10 folds [1525 Tournament chips]
+Simmski folds [2400 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ac As: a pair of aces)
+QwertySpark wins main pot 2625 Tournament chips.
+Seat 0: redyfreddy (5550 Tournament chips) 
+Seat 1: BigTomSlick (18625 Tournament chips) 
+Seat 2: Simmski (6725 Tournament chips) 
+Seat 4: QwertySpark (19036 Tournament chips) 
+Seat 5: scoop100 (19578 Tournament chips) 
+Seat 6: saf71 (12825 Tournament chips) 
+Seat 8: Blooodz10 (1525 Tournament chips) 
+Game #23913668-50 ends
+Game #23913668-51 starts
+Seat 0: redyfreddy (5550 Tournament chips) 
+Seat 1: BigTomSlick (18625 Tournament chips) 
+Seat 2: Simmski (6725 Tournament chips) 
+Seat 4: QwertySpark (19036 Tournament chips) 
+Seat 5: scoop100 (19578 Tournament chips) 
+Seat 6: saf71 (12825 Tournament chips) 
+Seat 8: Blooodz10 (1525 Tournament chips) 
+The button is at seat 5
+BigTomSlick posted ante of 75 Tournament chips
+redyfreddy posted ante of 75 Tournament chips
+Simmski posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+scoop100 posted ante of 75 Tournament chips
+saf71 posted ante of 75 Tournament chips
+Blooodz10 posted ante of 75 Tournament chips
+The button is moved to seat 6.
+Blooodz10 posts the small blind [300 Tournament chips]
+redyfreddy posts the big blind [600 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4875 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 18550 Tournament chips.
+Simmski, at seat 2, is in this hand with 6650 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 18961 Tournament chips.
+scoop100, at seat 5, is in this hand with 19503 Tournament chips.
+saf71, at seat 6, is in this hand with 12750 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1150 Tournament chips.
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ As Jd ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+BigTomSlick folds [600 Tournament chips]
+Simmski folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+scoop100 folds [2400 Tournament chips]
+saf71 folds [2400 Tournament chips]
+Blooodz10 folds [1150 Tournament chips]
+redyfreddy folds [1800 Tournament chips]
+QwertySpark is returned 1800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (As Jd: ace high)
+QwertySpark wins main pot 2025 Tournament chips.
+Seat 0: redyfreddy (4875 Tournament chips) 
+Seat 1: BigTomSlick (18550 Tournament chips) 
+Seat 2: Simmski (6650 Tournament chips) 
+Seat 4: QwertySpark (20386 Tournament chips) 
+Seat 5: scoop100 (19503 Tournament chips) 
+Seat 6: saf71 (12750 Tournament chips) 
+Seat 8: Blooodz10 (1150 Tournament chips) 
+Game #23913668-51 ends
+Game #23913668-52 starts
+Seat 0: redyfreddy (4875 Tournament chips) 
+Seat 1: BigTomSlick (18550 Tournament chips) 
+Seat 2: Simmski (6650 Tournament chips) 
+Seat 4: QwertySpark (20386 Tournament chips) 
+Seat 5: scoop100 (19503 Tournament chips) 
+Seat 6: saf71 (12750 Tournament chips) 
+Seat 8: Blooodz10 (1150 Tournament chips) 
+The button is at seat 6
+redyfreddy posted ante of 100 Tournament chips
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 8.
+redyfreddy posts the small blind [400 Tournament chips]
+BigTomSlick posts the big blind [800 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 4375 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 17650 Tournament chips.
+Simmski, at seat 2, is in this hand with 6550 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 20286 Tournament chips.
+scoop100, at seat 5, is in this hand with 19403 Tournament chips.
+saf71, at seat 6, is in this hand with 12650 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1050 Tournament chips.
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 3c Ad ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Simmski folds [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+scoop100 folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+Blooodz10 folds [800 Tournament chips]
+redyfreddy calls [400 Tournament chips]
+BigTomSlick checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Jc ] board:[ 7s Jc]
+** Dealing Flop ** [ 5c ] board:[ 7s Jc 5c]
+redyfreddy bets for 800 Tournament chips
+BigTomSlick calls [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 7s Jc 5c 4d]
+redyfreddy bets for 800 Tournament chips
+BigTomSlick calls [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 7s Jc 5c 4d 6s]
+redyfreddy checks
+BigTomSlick checks
+QwertySpark bets for 4000 Tournament chips
+redyfreddy folds [2375 Tournament chips]
+BigTomSlick folds [4000 Tournament chips]
+QwertySpark is returned 4000 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (3c 7s 5c 4d 6s: straight, seven high)
+QwertySpark wins main pot 7900 Tournament chips.
+Seat 0: redyfreddy (2375 Tournament chips) 
+Seat 1: BigTomSlick (16050 Tournament chips) 
+Seat 2: Simmski (6550 Tournament chips) 
+Seat 4: QwertySpark (25786 Tournament chips) 
+Seat 5: scoop100 (19403 Tournament chips) 
+Seat 6: saf71 (12650 Tournament chips) 
+Seat 8: Blooodz10 (1050 Tournament chips) 
+Game #23913668-52 ends
+Game #23913668-53 starts
+Seat 0: redyfreddy (2375 Tournament chips) 
+Seat 1: BigTomSlick (16050 Tournament chips) 
+Seat 2: Simmski (6550 Tournament chips) 
+Seat 4: QwertySpark (25786 Tournament chips) 
+Seat 5: scoop100 (19403 Tournament chips) 
+Seat 6: saf71 (12650 Tournament chips) 
+Seat 8: Blooodz10 (1050 Tournament chips) 
+The button is at seat 8
+redyfreddy posted ante of 100 Tournament chips
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 0.
+BigTomSlick posts the small blind [400 Tournament chips]
+Simmski posts the big blind [800 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 2275 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 15550 Tournament chips.
+Simmski, at seat 2, is in this hand with 5650 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 25686 Tournament chips.
+scoop100, at seat 5, is in this hand with 19303 Tournament chips.
+saf71, at seat 6, is in this hand with 12550 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 950 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 6d 2c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+QwertySpark folds [800 Tournament chips]
+scoop100 folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+Blooodz10 folds [800 Tournament chips]
+redyfreddy folds [800 Tournament chips]
+BigTomSlick folds [400 Tournament chips]
+Simmski is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Simmski (2d 3c: three high)
+Simmski wins main pot 1500 Tournament chips.
+Seat 0: redyfreddy (2275 Tournament chips) 
+Seat 1: BigTomSlick (15550 Tournament chips) 
+Seat 2: Simmski (7550 Tournament chips) 
+Seat 4: QwertySpark (25686 Tournament chips) 
+Seat 5: scoop100 (19303 Tournament chips) 
+Seat 6: saf71 (12550 Tournament chips) 
+Seat 8: Blooodz10 (950 Tournament chips) 
+Game #23913668-53 ends
+Game #23913668-54 starts
+Seat 0: redyfreddy (2275 Tournament chips) 
+Seat 1: BigTomSlick (15550 Tournament chips) 
+Seat 2: Simmski (7550 Tournament chips) 
+Seat 4: QwertySpark (25686 Tournament chips) 
+Seat 5: scoop100 (19303 Tournament chips) 
+Seat 6: saf71 (12550 Tournament chips) 
+Seat 8: Blooodz10 (950 Tournament chips) 
+The button is at seat 0
+redyfreddy posted ante of 100 Tournament chips
+BigTomSlick posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+redyfreddy, at seat 0, is in this hand with 2175 Tournament chips.
+BigTomSlick, at seat 1, is in this hand with 15450 Tournament chips.
+Simmski, at seat 2, is in this hand with 7050 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 24786 Tournament chips.
+scoop100, at seat 5, is in this hand with 19203 Tournament chips.
+saf71, at seat 6, is in this hand with 12450 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 850 Tournament chips.
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+redyfreddy is dealt: **
+BigTomSlick is dealt: **
+Dealt to redyfreddy [ **** ]
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Th 4c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+scoop100 folds [800 Tournament chips]
+saf71 calls [800 Tournament chips]
+Blooodz10 folds [800 Tournament chips]
+redyfreddy calls [800 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski raises all-in [7050 Tournament chips]
+QwertySpark folds [6650 Tournament chips]
+saf71 folds [6650 Tournament chips]
+redyfreddy calls all-in [1375 Tournament chips]
+Simmski is returned 5275 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+redyfreddy shows [ Kd 9d ]
+Simmski shows [ Ac 9s ]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 5h ] board:[ 3d 5h]
+** Dealing Flop ** [ 8d ] board:[ 3d 5h 8d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 3d 5h 8d Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 3d 5h 8d Qs 7h]
+        (no action in this round)
+Round 4 is over.
+redyfreddy shows [ Kd 9d ] king/queen/nine high
+Simmski shows [ Ac 9s ] ace/queen/nine high
+Simmski wins main pot 6650 Tournament chips with ace/queen/nine high.
+Seat 0: redyfreddy (0 Tournament chips) 
+Seat 1: BigTomSlick (15450 Tournament chips) 
+Seat 2: Simmski (11925 Tournament chips) 
+Seat 4: QwertySpark (24786 Tournament chips) 
+Seat 5: scoop100 (19203 Tournament chips) 
+Seat 6: saf71 (11650 Tournament chips) 
+Seat 8: Blooodz10 (850 Tournament chips) 
+Game #23913668-54 ends
+Player redyfreddy leaves the table with 0 Tournament chips
+Game #23913668-55 starts
+Seat 1: BigTomSlick (15450 Tournament chips) 
+Seat 2: Simmski (11925 Tournament chips) 
+Seat 4: QwertySpark (24786 Tournament chips) 
+Seat 5: scoop100 (19203 Tournament chips) 
+Seat 6: saf71 (11650 Tournament chips) 
+Seat 8: Blooodz10 (850 Tournament chips) 
+The button is at seat 1
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [400 Tournament chips]
+scoop100 posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15350 Tournament chips.
+Simmski, at seat 2, is in this hand with 11825 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 24286 Tournament chips.
+scoop100, at seat 5, is in this hand with 18303 Tournament chips.
+saf71, at seat 6, is in this hand with 11550 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 750 Tournament chips.
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 7s 3d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+saf71 calls [800 Tournament chips]
+Blooodz10 folds [750 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski folds [800 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+scoop100 checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 6c ] board:[ 8s 6c]
+** Dealing Flop ** [ Jc ] board:[ 8s 6c Jc]
+QwertySpark checks
+scoop100 checks
+saf71 goes all-in for 10750 Tournament chips
+QwertySpark folds [10750 Tournament chips]
+scoop100 folds [10750 Tournament chips]
+saf71 is returned 10750 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for saf71 (Qc Kc 8s 6c Jc: king high)
+saf71 shows [ Qc Kc ] king high
+Hand evaluation for saf71 (Qc Kc 8s 6c Jc: king high)
+saf71 wins main pot 3000 Tournament chips.
+Seat 1: BigTomSlick (15350 Tournament chips) 
+Seat 2: Simmski (11825 Tournament chips) 
+Seat 4: QwertySpark (23886 Tournament chips) 
+Seat 5: scoop100 (18303 Tournament chips) 
+Seat 6: saf71 (13750 Tournament chips) 
+Seat 8: Blooodz10 (750 Tournament chips) 
+Game #23913668-55 ends
+Game #23913668-56 starts
+Seat 1: BigTomSlick (15350 Tournament chips) 
+Seat 2: Simmski (11825 Tournament chips) 
+Seat 4: QwertySpark (23886 Tournament chips) 
+Seat 5: scoop100 (18303 Tournament chips) 
+Seat 6: saf71 (13750 Tournament chips) 
+Seat 8: Blooodz10 (750 Tournament chips) 
+The button is at seat 2
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 4.
+scoop100 posts the small blind [400 Tournament chips]
+saf71 posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15250 Tournament chips.
+Simmski, at seat 2, is in this hand with 11725 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 23786 Tournament chips.
+scoop100, at seat 5, is in this hand with 17803 Tournament chips.
+saf71, at seat 6, is in this hand with 12850 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 650 Tournament chips.
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 6s Jc ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to Blooodz10 [ **** ]
+Blooodz10 folds [650 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+scoop100 calls [400 Tournament chips]
+saf71 raises [800 Tournament chips]
+scoop100 calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 5c ] board:[ 4c 5c]
+** Dealing Flop ** [ 8h ] board:[ 4c 5c 8h]
+scoop100 checks
+saf71 goes all-in for 12050 Tournament chips
+scoop100 folds [12050 Tournament chips]
+saf71 is returned 12050 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for saf71 (3c Ad 4c 5c 8h: ace high)
+saf71 wins main pot 3800 Tournament chips.
+Seat 1: BigTomSlick (15250 Tournament chips) 
+Seat 2: Simmski (11725 Tournament chips) 
+Seat 4: QwertySpark (23786 Tournament chips) 
+Seat 5: scoop100 (16603 Tournament chips) 
+Seat 6: saf71 (15850 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (11986 Tournament chips) 
+Seat 8: Blooodz10 (650 Tournament chips) 
+Game #23913668-56 ends
+Game #23913668-57 starts
+Seat 1: BigTomSlick (15250 Tournament chips) 
+Seat 2: Simmski (11725 Tournament chips) 
+Seat 4: QwertySpark (23786 Tournament chips) 
+Seat 5: scoop100 (16603 Tournament chips) 
+Seat 6: saf71 (15850 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (11986 Tournament chips) 
+Seat 8: Blooodz10 (650 Tournament chips) 
+The button is at seat 4
+Simmski posted ante of 100 Tournament chips
+BigTomSlick posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [400 Tournament chips]
+GRUMPYGRAMPZ posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15150 Tournament chips.
+Simmski, at seat 2, is in this hand with 11625 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 23686 Tournament chips.
+scoop100, at seat 5, is in this hand with 16503 Tournament chips.
+saf71, at seat 6, is in this hand with 15350 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 11086 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 550 Tournament chips.
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 8c Qs ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+Blooodz10 folds [550 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+scoop100 raises [2400 Tournament chips]
+saf71 folds [2000 Tournament chips]
+GRUMPYGRAMPZ folds [1600 Tournament chips]
+scoop100 is returned 1600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for scoop100 (8s 8h: a pair of eights)
+scoop100 wins main pot 2700 Tournament chips.
+Seat 1: BigTomSlick (15150 Tournament chips) 
+Seat 2: Simmski (11625 Tournament chips) 
+Seat 4: QwertySpark (23686 Tournament chips) 
+Seat 5: scoop100 (18403 Tournament chips) 
+Seat 6: saf71 (15350 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (11086 Tournament chips) 
+Seat 8: Blooodz10 (550 Tournament chips) 
+Game #23913668-57 ends
+Game #23913668-58 starts
+Seat 1: BigTomSlick (15150 Tournament chips) 
+Seat 2: Simmski (11625 Tournament chips) 
+Seat 4: QwertySpark (23686 Tournament chips) 
+Seat 5: scoop100 (18403 Tournament chips) 
+Seat 6: saf71 (15350 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (11086 Tournament chips) 
+Seat 8: Blooodz10 (550 Tournament chips) 
+The button is at seat 5
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+The button is moved to seat 6.
+GRUMPYGRAMPZ posts the small blind [400 Tournament chips]
+Blooodz10 posts the big blind [450 Tournament chips], goes all-in
+BigTomSlick, at seat 1, is in this hand with 15050 Tournament chips.
+Simmski, at seat 2, is in this hand with 11525 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 23586 Tournament chips.
+scoop100, at seat 5, is in this hand with 18303 Tournament chips.
+saf71, at seat 6, is in this hand with 15250 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10586 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 0 Tournament chips.
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 6s Kd ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+BigTomSlick calls [800 Tournament chips]
+Simmski folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+scoop100 folds [800 Tournament chips]
+saf71 raises [1600 Tournament chips]
+GRUMPYGRAMPZ folds [1200 Tournament chips]
+BigTomSlick calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Tc ] board:[ 4c Tc]
+** Dealing Flop ** [ 2c ] board:[ 4c Tc 2c]
+BigTomSlick checks
+saf71 bets for 800 Tournament chips
+BigTomSlick calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 4c Tc 2c Js]
+BigTomSlick checks
+saf71 bets for 800 Tournament chips
+BigTomSlick calls [800 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 4c Tc 2c Js As]
+BigTomSlick checks
+saf71 bets for 1600 Tournament chips
+BigTomSlick folds [1600 Tournament chips]
+saf71 is returned 1600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+saf71 shows [ 7s Ks ]
+Blooodz10 shows [ Qh 2d ]
+Round 4 is over.
+saf71 shows [ 7s Ks ] ace/king/jack high
+Blooodz10 wins main pot 2450 Tournament chips with a pair of deuces, ace/queen kickers.
+saf71 wins side pot #1 5500 Tournament chips with ace/king/jack high.
+Seat 1: BigTomSlick (11850 Tournament chips) 
+Seat 2: Simmski (11525 Tournament chips) 
+Seat 4: QwertySpark (23586 Tournament chips) 
+Seat 5: scoop100 (18303 Tournament chips) 
+Seat 6: saf71 (17550 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10586 Tournament chips) 
+Seat 8: Blooodz10 (2450 Tournament chips) 
+Game #23913668-58 ends
+Game #23913668-59 starts
+Seat 1: BigTomSlick (11850 Tournament chips) 
+Seat 2: Simmski (11525 Tournament chips) 
+Seat 4: QwertySpark (23586 Tournament chips) 
+Seat 5: scoop100 (18303 Tournament chips) 
+Seat 6: saf71 (17550 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10586 Tournament chips) 
+Seat 8: Blooodz10 (2450 Tournament chips) 
+The button is at seat 6
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 7.
+Blooodz10 posts the small blind [400 Tournament chips]
+BigTomSlick posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 10950 Tournament chips.
+Simmski, at seat 2, is in this hand with 11425 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 23486 Tournament chips.
+scoop100, at seat 5, is in this hand with 18203 Tournament chips.
+saf71, at seat 6, is in this hand with 17450 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10486 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1950 Tournament chips.
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2s Ac ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+Simmski raises [3500 Tournament chips]
+QwertySpark folds [3500 Tournament chips]
+scoop100 folds [3500 Tournament chips]
+saf71 folds [3500 Tournament chips]
+GRUMPYGRAMPZ folds [3500 Tournament chips]
+Blooodz10 folds [1950 Tournament chips]
+BigTomSlick calls [2700 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 6h ] board:[ 7h 6h]
+** Dealing Flop ** [ Tc ] board:[ 7h 6h Tc]
+BigTomSlick goes all-in for 8250 Tournament chips
+Simmski folds [7925 Tournament chips]
+BigTomSlick is returned 8250 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for BigTomSlick (Th 4c 7h 6h Tc: a pair of tens)
+BigTomSlick wins main pot 8100 Tournament chips.
+Seat 1: BigTomSlick (16350 Tournament chips) 
+Seat 2: Simmski (7925 Tournament chips) 
+Seat 4: QwertySpark (23486 Tournament chips) 
+Seat 5: scoop100 (18203 Tournament chips) 
+Seat 6: saf71 (17450 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10486 Tournament chips) 
+Seat 8: Blooodz10 (1950 Tournament chips) 
+Game #23913668-59 ends
+Game #23913668-60 starts
+Seat 1: BigTomSlick (16350 Tournament chips) 
+Seat 2: Simmski (7925 Tournament chips) 
+Seat 4: QwertySpark (23486 Tournament chips) 
+Seat 5: scoop100 (18203 Tournament chips) 
+Seat 6: saf71 (17450 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10486 Tournament chips) 
+Seat 8: Blooodz10 (1950 Tournament chips) 
+The button is at seat 7
+BigTomSlick posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 8.
+BigTomSlick posts the small blind [400 Tournament chips]
+Simmski posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15850 Tournament chips.
+Simmski, at seat 2, is in this hand with 7025 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 23386 Tournament chips.
+scoop100, at seat 5, is in this hand with 18103 Tournament chips.
+saf71, at seat 6, is in this hand with 17350 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10386 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1850 Tournament chips.
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 4s Jc ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+QwertySpark folds [800 Tournament chips]
+scoop100 folds [800 Tournament chips]
+saf71 raises [1600 Tournament chips]
+GRUMPYGRAMPZ folds [1600 Tournament chips]
+Blooodz10 folds [1600 Tournament chips]
+BigTomSlick folds [1200 Tournament chips]
+Simmski calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Ks ] board:[ 4d Ks]
+** Dealing Flop ** [ Ac ] board:[ 4d Ks Ac]
+Simmski checks
+saf71 goes all-in for 15750 Tournament chips
+Simmski folds [6225 Tournament chips]
+saf71 is returned 15750 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for saf71 (Kh 9h 4d Ks Ac: a pair of kings)
+saf71 wins main pot 4300 Tournament chips.
+Seat 1: BigTomSlick (15850 Tournament chips) 
+Seat 2: Simmski (6225 Tournament chips) 
+Seat 4: QwertySpark (23386 Tournament chips) 
+Seat 5: scoop100 (18103 Tournament chips) 
+Seat 6: saf71 (20050 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10386 Tournament chips) 
+Seat 8: Blooodz10 (1850 Tournament chips) 
+Game #23913668-60 ends
+Game #23913668-61 starts
+Seat 1: BigTomSlick (15850 Tournament chips) 
+Seat 2: Simmski (6225 Tournament chips) 
+Seat 4: QwertySpark (23386 Tournament chips) 
+Seat 5: scoop100 (18103 Tournament chips) 
+Seat 6: saf71 (20050 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10386 Tournament chips) 
+Seat 8: Blooodz10 (1850 Tournament chips) 
+The button is at seat 8
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15750 Tournament chips.
+Simmski, at seat 2, is in this hand with 5725 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 22486 Tournament chips.
+scoop100, at seat 5, is in this hand with 18003 Tournament chips.
+saf71, at seat 6, is in this hand with 19950 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10286 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1750 Tournament chips.
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 3h 2c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+scoop100 folds [800 Tournament chips]
+saf71 folds [800 Tournament chips]
+GRUMPYGRAMPZ folds [800 Tournament chips]
+Blooodz10 folds [800 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski calls [400 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Js ] board:[ Ks Js]
+** Dealing Flop ** [ Qc ] board:[ Ks Js Qc]
+Simmski bets for 1600 Tournament chips
+QwertySpark folds [1600 Tournament chips]
+Simmski is returned 1600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Simmski (7s 8s Ks Js Qc: king high)
+Simmski wins main pot 2300 Tournament chips.
+Seat 1: BigTomSlick (15750 Tournament chips) 
+Seat 2: Simmski (7625 Tournament chips) 
+Seat 4: QwertySpark (22486 Tournament chips) 
+Seat 5: scoop100 (18003 Tournament chips) 
+Seat 6: saf71 (19950 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10286 Tournament chips) 
+Seat 8: Blooodz10 (1750 Tournament chips) 
+Game #23913668-61 ends
+Game #23913668-62 starts
+Seat 1: BigTomSlick (15750 Tournament chips) 
+Seat 2: Simmski (7625 Tournament chips) 
+Seat 4: QwertySpark (22486 Tournament chips) 
+Seat 5: scoop100 (18003 Tournament chips) 
+Seat 6: saf71 (19950 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10286 Tournament chips) 
+Seat 8: Blooodz10 (1750 Tournament chips) 
+The button is at seat 1
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+BigTomSlick posted ante of 100 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [400 Tournament chips]
+scoop100 posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15650 Tournament chips.
+Simmski, at seat 2, is in this hand with 7525 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 21986 Tournament chips.
+scoop100, at seat 5, is in this hand with 17103 Tournament chips.
+saf71, at seat 6, is in this hand with 19850 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10186 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1650 Tournament chips.
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 9s Ac ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+saf71 raises [1600 Tournament chips]
+GRUMPYGRAMPZ folds [1600 Tournament chips]
+Blooodz10 folds [1600 Tournament chips]
+BigTomSlick folds [1600 Tournament chips]
+Simmski calls [1600 Tournament chips]
+QwertySpark re-raises [2800 Tournament chips]
+scoop100 folds [2400 Tournament chips]
+saf71 raises all-in [18250 Tournament chips]
+Simmski folds [5925 Tournament chips]
+QwertySpark folds [16650 Tournament chips]
+saf71 is returned 16650 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for saf71 (Kc Qs: king high)
+saf71 wins main pot 9500 Tournament chips.
+Seat 1: BigTomSlick (15650 Tournament chips) 
+Seat 2: Simmski (5925 Tournament chips) 
+Seat 4: QwertySpark (19186 Tournament chips) 
+Seat 5: scoop100 (17103 Tournament chips) 
+Seat 6: saf71 (26150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10186 Tournament chips) 
+Seat 8: Blooodz10 (1650 Tournament chips) 
+Game #23913668-62 ends
+Game #23913668-63 starts
+Seat 1: BigTomSlick (15650 Tournament chips) 
+Seat 2: Simmski (5925 Tournament chips) 
+Seat 4: QwertySpark (19186 Tournament chips) 
+Seat 5: scoop100 (17103 Tournament chips) 
+Seat 6: saf71 (26150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10186 Tournament chips) 
+Seat 8: Blooodz10 (1650 Tournament chips) 
+The button is at seat 2
+BigTomSlick posted ante of 100 Tournament chips
+Simmski posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+scoop100 posted ante of 100 Tournament chips
+saf71 posted ante of 100 Tournament chips
+GRUMPYGRAMPZ posted ante of 100 Tournament chips
+Blooodz10 posted ante of 100 Tournament chips
+The button is moved to seat 4.
+scoop100 posts the small blind [400 Tournament chips]
+saf71 posts the big blind [800 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15550 Tournament chips.
+Simmski, at seat 2, is in this hand with 5825 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 19086 Tournament chips.
+scoop100, at seat 5, is in this hand with 16603 Tournament chips.
+saf71, at seat 6, is in this hand with 25250 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 10086 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1550 Tournament chips.
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 5s 8d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+GRUMPYGRAMPZ folds [800 Tournament chips]
+Blooodz10 folds [800 Tournament chips]
+BigTomSlick folds [800 Tournament chips]
+Simmski folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+scoop100 folds [400 Tournament chips]
+saf71 is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for saf71 (9d Td: ten high)
+saf71 wins main pot 1500 Tournament chips.
+Seat 1: BigTomSlick (15550 Tournament chips) 
+Seat 2: Simmski (5825 Tournament chips) 
+Seat 4: QwertySpark (19086 Tournament chips) 
+Seat 5: scoop100 (16603 Tournament chips) 
+Seat 6: saf71 (27150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10086 Tournament chips) 
+Seat 8: Blooodz10 (1550 Tournament chips) 
+Game #23913668-63 ends
+Game #23913668-64 starts
+Seat 1: BigTomSlick (15550 Tournament chips) 
+Seat 2: Simmski (5825 Tournament chips) 
+Seat 4: QwertySpark (19086 Tournament chips) 
+Seat 5: scoop100 (16603 Tournament chips) 
+Seat 6: saf71 (27150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (10086 Tournament chips) 
+Seat 8: Blooodz10 (1550 Tournament chips) 
+The button is at seat 4
+BigTomSlick posted ante of 150 Tournament chips
+Simmski posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+scoop100 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+GRUMPYGRAMPZ posted ante of 150 Tournament chips
+Blooodz10 posted ante of 150 Tournament chips
+The button is moved to seat 5.
+saf71 posts the small blind [600 Tournament chips]
+GRUMPYGRAMPZ posts the big blind [1200 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15400 Tournament chips.
+Simmski, at seat 2, is in this hand with 5675 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 18936 Tournament chips.
+scoop100, at seat 5, is in this hand with 16453 Tournament chips.
+saf71, at seat 6, is in this hand with 26400 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 8736 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 1400 Tournament chips.
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 7d 6s ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+Blooodz10 folds [1200 Tournament chips]
+BigTomSlick folds [1200 Tournament chips]
+Simmski folds [1200 Tournament chips]
+QwertySpark raises [3600 Tournament chips]
+scoop100 folds [3600 Tournament chips]
+saf71 raises all-in [26400 Tournament chips]
+GRUMPYGRAMPZ folds [8736 Tournament chips]
+QwertySpark folds [15336 Tournament chips]
+saf71 is returned 23400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for saf71 (4d As: ace high)
+saf71 wins main pot 9450 Tournament chips.
+Seat 1: BigTomSlick (15400 Tournament chips) 
+Seat 2: Simmski (5675 Tournament chips) 
+Seat 4: QwertySpark (15336 Tournament chips) 
+Seat 5: scoop100 (16453 Tournament chips) 
+Seat 6: saf71 (32850 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (8736 Tournament chips) 
+Seat 8: Blooodz10 (1400 Tournament chips) 
+Game #23913668-64 ends
+Game #23913668-65 starts
+Seat 1: BigTomSlick (15400 Tournament chips) 
+Seat 2: Simmski (5675 Tournament chips) 
+Seat 4: QwertySpark (15336 Tournament chips) 
+Seat 5: scoop100 (16453 Tournament chips) 
+Seat 6: saf71 (32850 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (8736 Tournament chips) 
+Seat 8: Blooodz10 (1400 Tournament chips) 
+The button is at seat 5
+BigTomSlick posted ante of 150 Tournament chips
+Simmski posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+scoop100 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+GRUMPYGRAMPZ posted ante of 150 Tournament chips
+Blooodz10 posted ante of 150 Tournament chips
+The button is moved to seat 6.
+GRUMPYGRAMPZ posts the small blind [600 Tournament chips]
+Blooodz10 posts the big blind [1200 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 15250 Tournament chips.
+Simmski, at seat 2, is in this hand with 5525 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15186 Tournament chips.
+scoop100, at seat 5, is in this hand with 16303 Tournament chips.
+saf71, at seat 6, is in this hand with 32700 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 7986 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 50 Tournament chips.
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 8s 5d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+BigTomSlick folds [1200 Tournament chips]
+Simmski folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+scoop100 raises [3600 Tournament chips]
+saf71 raises all-in [32700 Tournament chips]
+GRUMPYGRAMPZ folds [7986 Tournament chips]
+Blooodz10 folds [50 Tournament chips]
+scoop100 folds [12703 Tournament chips]
+saf71 is returned 29100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for saf71 (4s 4c: a pair of fours)
+saf71 wins main pot 10050 Tournament chips.
+Seat 1: BigTomSlick (15250 Tournament chips) 
+Seat 2: Simmski (5525 Tournament chips) 
+Seat 4: QwertySpark (15186 Tournament chips) 
+Seat 5: scoop100 (12703 Tournament chips) 
+Seat 6: saf71 (39150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7986 Tournament chips) 
+Seat 8: Blooodz10 (50 Tournament chips) 
+Game #23913668-65 ends
+Game #23913668-66 starts
+Seat 1: BigTomSlick (15250 Tournament chips) 
+Seat 2: Simmski (5525 Tournament chips) 
+Seat 4: QwertySpark (15186 Tournament chips) 
+Seat 5: scoop100 (12703 Tournament chips) 
+Seat 6: saf71 (39150 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7986 Tournament chips) 
+Seat 8: Blooodz10 (50 Tournament chips) 
+The button is at seat 6
+BigTomSlick posted ante of 150 Tournament chips
+Simmski posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+scoop100 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+GRUMPYGRAMPZ posted ante of 150 Tournament chips
+Blooodz10 posted ante of 50 Tournament chips
+The button is moved to seat 7.
+BigTomSlick posts the big blind [1200 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 13900 Tournament chips.
+Simmski, at seat 2, is in this hand with 5375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 15036 Tournament chips.
+scoop100, at seat 5, is in this hand with 12553 Tournament chips.
+saf71, at seat 6, is in this hand with 39000 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 7836 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 0 Tournament chips.
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ Ad 4d ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+Simmski folds [1200 Tournament chips]
+QwertySpark raises [3600 Tournament chips]
+scoop100 folds [3600 Tournament chips]
+saf71 folds [3600 Tournament chips]
+GRUMPYGRAMPZ folds [3600 Tournament chips]
+BigTomSlick calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 6c ] board:[ Ts 6c]
+** Dealing Flop ** [ Kh ] board:[ Ts 6c Kh]
+BigTomSlick checks
+QwertySpark bets for 8150 Tournament chips
+BigTomSlick folds [8150 Tournament chips]
+QwertySpark is returned 8150 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 4d ]
+Blooodz10 shows [ Ks 2d ]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Ts 6c Kh 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ Ts 6c Kh 3d Jc]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 4d ] ace/king/jack high
+Blooodz10 wins main pot 350 Tournament chips with a pair of kings, jack/ten kickers.
+QwertySpark wins side pot #1 7800 Tournament chips with ace/king/jack high.
+(saf71 has entered the table, is no longer absent.)
+Seat 1: BigTomSlick (11500 Tournament chips) 
+Seat 2: Simmski (5375 Tournament chips) 
+Seat 4: QwertySpark (19236 Tournament chips) 
+Seat 5: scoop100 (12553 Tournament chips) 
+Seat 6: saf71 (39000 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7836 Tournament chips) 
+Seat 8: Blooodz10 (350 Tournament chips) 
+Game #23913668-66 ends
+Game #23913668-67 starts
+Seat 1: BigTomSlick (11500 Tournament chips) 
+Seat 2: Simmski (5375 Tournament chips) 
+Seat 4: QwertySpark (19236 Tournament chips) 
+Seat 5: scoop100 (12553 Tournament chips) 
+Seat 6: saf71 (39000 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7836 Tournament chips) 
+Seat 8: Blooodz10 (350 Tournament chips) 
+The button is at seat 7
+BigTomSlick posted ante of 150 Tournament chips
+Simmski posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+scoop100 posted ante of 150 Tournament chips
+GRUMPYGRAMPZ posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+Blooodz10 posted ante of 150 Tournament chips
+BigTomSlick posts the small blind [600 Tournament chips]
+Simmski posts the big blind [1200 Tournament chips]
+BigTomSlick, at seat 1, is in this hand with 10750 Tournament chips.
+Simmski, at seat 2, is in this hand with 4025 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 19086 Tournament chips.
+scoop100, at seat 5, is in this hand with 12403 Tournament chips.
+saf71, at seat 6, is in this hand with 38850 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 7686 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 200 Tournament chips.
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+BigTomSlick is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Dealt to BigTomSlick [ **** ]
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 2h 6c ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+QwertySpark folds [1200 Tournament chips]
+scoop100 folds [1200 Tournament chips]
+saf71 raises all-in [38850 Tournament chips]
+GRUMPYGRAMPZ folds [7686 Tournament chips]
+Blooodz10 folds [200 Tournament chips]
+BigTomSlick calls all-in [10750 Tournament chips]
+Simmski folds [4025 Tournament chips]
+saf71 is returned 27500 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+BigTomSlick shows [ Js Th ]
+saf71 shows [ Kc Td ]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ Tc ] board:[ 3h Tc]
+** Dealing Flop ** [ 8c ] board:[ 3h Tc 8c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 3h Tc 8c Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 3h Tc 8c Jc Kd]
+        (no action in this round)
+Round 4 is over.
+BigTomSlick shows [ Js Th ] two pair, jacks and tens, king kicker
+saf71 shows [ Kc Td ] two pair, kings and tens, jack kicker
+saf71 wins main pot 24950 Tournament chips with two pair, kings and tens, jack kicker.
+Seat 1: BigTomSlick (0 Tournament chips) 
+Seat 2: Simmski (4025 Tournament chips) 
+Seat 4: QwertySpark (19086 Tournament chips) 
+Seat 5: scoop100 (12403 Tournament chips) 
+Seat 6: saf71 (52450 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7686 Tournament chips) 
+Seat 8: Blooodz10 (200 Tournament chips) 
+Game #23913668-67 ends
+Player BigTomSlick leaves the table with 0 Tournament chips
+Game #23913668-68 starts
+Seat 2: Simmski (4025 Tournament chips) 
+Seat 4: QwertySpark (19086 Tournament chips) 
+Seat 5: scoop100 (12403 Tournament chips) 
+Seat 6: saf71 (52450 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7686 Tournament chips) 
+Seat 8: Blooodz10 (200 Tournament chips) 
+The button is at seat 7
+Simmski posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+scoop100 posted ante of 150 Tournament chips
+saf71 posted ante of 150 Tournament chips
+GRUMPYGRAMPZ posted ante of 150 Tournament chips
+Blooodz10 posted ante of 150 Tournament chips
+The button is moved to seat 1.
+Simmski posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+Simmski, at seat 2, is in this hand with 3275 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 17736 Tournament chips.
+scoop100, at seat 5, is in this hand with 12253 Tournament chips.
+saf71, at seat 6, is in this hand with 52300 Tournament chips.
+GRUMPYGRAMPZ, at seat 7, is in this hand (absent) with 7536 Tournament chips.
+Blooodz10, at seat 8, is in this hand (absent) with 50 Tournament chips.
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+Simmski is dealt: **
+
+scoop100 is dealt: **
+saf71 is dealt: **
+GRUMPYGRAMPZ is dealt: **
+Blooodz10 is dealt: **
+Dealt to Simmski [ **** ]
+Dealt to QwertySpark [ 9c Qc ]
+Dealt to scoop100 [ **** ]
+Dealt to saf71 [ **** ]
+Dealt to GRUMPYGRAMPZ [ **** ]
+Dealt to Blooodz10 [ **** ]
+scoop100 folds [1200 Tournament chips]
+saf71 raises all-in [52300 Tournament chips]
+GRUMPYGRAMPZ folds [7536 Tournament chips]
+Blooodz10 folds [50 Tournament chips]
+Simmski folds [3275 Tournament chips]
+QwertySpark calls all-in [17736 Tournament chips]
+saf71 is returned 33364 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9c Qc ]
+saf71 shows [ Ac 2d ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Ad ] board:[ Ts Ad]
+** Dealing Flop ** [ 5s ] board:[ Ts Ad 5s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Ts Ad 5s 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Ts Ad 5s 4d 4s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 9c Qc ] a pair of fours, ace/queen kickers
+saf71 shows [ Ac 2d ] two pair, aces and fours, ten kicker
+saf71 wins main pot 39372 Tournament chips with two pair, aces and fours, ten kicker.
+Seat 2: Simmski (3275 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: scoop100 (12253 Tournament chips) 
+Seat 6: saf71 (72736 Tournament chips) 
+Seat 7: GRUMPYGRAMPZ (7536 Tournament chips) 
+Seat 8: Blooodz10 (50 Tournament chips) 
+Game #23913668-68 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player saf71 leaves the table with 72736 Tournament chips
+Player GRUMPYGRAMPZ leaves the table with 7536 Tournament chips
+Player Simmski leaves the table with 3275 Tournament chips
+Player Blooodz10 leaves the table with 50 Tournament chips
+Player scoop100 leaves the table with 12253 Tournament chips

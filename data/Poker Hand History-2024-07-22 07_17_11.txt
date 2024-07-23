@@ -1,0 +1,338 @@
+Game#: 23961768
+Twisted312 folds [2000 Tournament chips]
+Ads1209 folds [1000 Tournament chips]
+acarpov checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 6c ] board:[ As 6c]
+** Dealing Flop ** [ Ah ] board:[ As 6c Ah]
+acarpov checks
+WDS45 checks
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ As 6c Ah Ad]
+acarpov checks
+WDS45 checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ As 6c Ah Ad 6s]
+acarpov bets for 2000 Tournament chips
+WDS45 calls [2000 Tournament chips]
+Round 4 is over.
+acarpov shows [ 5c Ks ] full house, aces full of sixes
+Hand evaluation for acarpov (As 6c Ah Ad 6s: full house, aces full of sixes)
+WDS45 shows [ 3d 2d ] full house, aces full of sixes
+Hand evaluation for WDS45 (As 6c Ah Ad 6s: full house, aces full of sixes)
+WDS45 wins main pot 5400 Tournament chips of a 10800 Tournament chips pot with full house, aces full of sixes.
+acarpov wins main pot 5400 Tournament chips of a 10800 Tournament chips pot with full house, aces full of sixes.
+Seat 0: darkstar3333 (10162 Tournament chips) 
+Seat 1: WDS45 (85837 Tournament chips) 
+Seat 2: WhyzChoice (42824 Tournament chips) 
+Seat 4: QwertySpark (85142 Tournament chips) 
+Seat 5: Twisted312 (57160 Tournament chips) 
+Seat 7: Ads1209 (40838 Tournament chips) 
+Seat 8: acarpov (24852 Tournament chips) 
+Game #23961768-70 ends
+Game #23961768-71 starts
+Seat 0: darkstar3333 (10162 Tournament chips) 
+Seat 1: WDS45 (85837 Tournament chips) 
+Seat 2: WhyzChoice (42824 Tournament chips) 
+Seat 4: QwertySpark (85142 Tournament chips) 
+Seat 5: Twisted312 (57160 Tournament chips) 
+Seat 7: Ads1209 (40838 Tournament chips) 
+Seat 8: acarpov (24852 Tournament chips) 
+The button is at seat 5
+darkstar3333 posted ante of 300 Tournament chips
+WDS45 posted ante of 300 Tournament chips
+WhyzChoice posted ante of 300 Tournament chips
+Twisted312 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+acarpov posted ante of 300 Tournament chips
+Ads1209 posted ante of 300 Tournament chips
+The button is moved to seat 7.
+acarpov posts the small blind [1000 Tournament chips]
+darkstar3333 posts the big blind [2000 Tournament chips]
+darkstar3333, at seat 0, is in this hand with 7862 Tournament chips.
+WDS45, at seat 1, is in this hand with 85537 Tournament chips.
+WhyzChoice, at seat 2, is in this hand with 42524 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 84842 Tournament chips.
+Twisted312, at seat 5, is in this hand with 56860 Tournament chips.
+Ads1209, at seat 7, is in this hand with 40538 Tournament chips.
+acarpov, at seat 8, is in this hand with 23552 Tournament chips.
+acarpov is dealt: **
+darkstar3333 is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+darkstar3333 is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+Dealt to darkstar3333 [ **** ]
+Dealt to WDS45 [ **** ]
+Dealt to WhyzChoice [ **** ]
+Dealt to QwertySpark [ Kd 8s ]
+Dealt to Twisted312 [ **** ]
+Dealt to Ads1209 [ **** ]
+Dealt to acarpov [ **** ]
+WDS45 folds [2000 Tournament chips]
+WhyzChoice folds [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+Twisted312 raises [9100 Tournament chips]
+Ads1209 folds [9100 Tournament chips]
+acarpov folds [8100 Tournament chips]
+darkstar3333 folds [7100 Tournament chips]
+Twisted312 is returned 7100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Twisted312 (Jd Js: a pair of jacks)
+Twisted312 wins main pot 7100 Tournament chips.
+Seat 0: darkstar3333 (7862 Tournament chips) 
+Seat 1: WDS45 (85537 Tournament chips) 
+Seat 2: WhyzChoice (42524 Tournament chips) 
+Seat 4: QwertySpark (84842 Tournament chips) 
+Seat 5: Twisted312 (61960 Tournament chips) 
+Seat 7: Ads1209 (40538 Tournament chips) 
+Seat 8: acarpov (23552 Tournament chips) 
+Game #23961768-71 ends
+Game #23961768-72 starts
+Seat 0: darkstar3333 (7862 Tournament chips) 
+Seat 1: WDS45 (85537 Tournament chips) 
+Seat 2: WhyzChoice (42524 Tournament chips) 
+Seat 4: QwertySpark (84842 Tournament chips) 
+Seat 5: Twisted312 (61960 Tournament chips) 
+Seat 7: Ads1209 (40538 Tournament chips) 
+Seat 8: acarpov (23552 Tournament chips) 
+The button is at seat 7
+darkstar3333 posted ante of 300 Tournament chips
+WDS45 posted ante of 300 Tournament chips
+WhyzChoice posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+Twisted312 posted ante of 300 Tournament chips
+Ads1209 posted ante of 300 Tournament chips
+acarpov posted ante of 300 Tournament chips
+The button is moved to seat 8.
+darkstar3333 posts the small blind [1000 Tournament chips]
+WDS45 posts the big blind [2000 Tournament chips]
+darkstar3333, at seat 0, is in this hand with 6562 Tournament chips.
+WDS45, at seat 1, is in this hand with 83237 Tournament chips.
+WhyzChoice, at seat 2, is in this hand with 42224 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 84542 Tournament chips.
+Twisted312, at seat 5, is in this hand with 61660 Tournament chips.
+Ads1209, at seat 7, is in this hand with 40238 Tournament chips.
+acarpov, at seat 8, is in this hand with 23252 Tournament chips.
+darkstar3333 is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+darkstar3333 is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+Dealt to darkstar3333 [ **** ]
+Dealt to WDS45 [ **** ]
+Dealt to WhyzChoice [ **** ]
+Dealt to QwertySpark [ 3c 3h ]
+Dealt to Twisted312 [ **** ]
+Dealt to Ads1209 [ **** ]
+Dealt to acarpov [ **** ]
+WhyzChoice folds [2000 Tournament chips]
+QwertySpark calls [2000 Tournament chips]
+Twisted312 calls [2000 Tournament chips]
+Ads1209 calls [2000 Tournament chips]
+acarpov calls [2000 Tournament chips]
+darkstar3333 calls [1000 Tournament chips]
+WDS45 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 6d ] board:[ 9c 6d]
+** Dealing Flop ** [ Ts ] board:[ 9c 6d Ts]
+darkstar3333 goes all-in for 5562 Tournament chips
+WDS45 folds [5562 Tournament chips]
+QwertySpark folds [5562 Tournament chips]
+Twisted312 calls [5562 Tournament chips]
+Ads1209 folds [5562 Tournament chips]
+acarpov folds [5562 Tournament chips]
+Tournament all-in showdown -- players show:
+darkstar3333 shows [ Th 8s ]
+Twisted312 shows [ Qh Td ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 9c 6d Ts 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 9c 6d Ts 5c 6h]
+        (no action in this round)
+Round 4 is over.
+darkstar3333 shows [ Th 8s ] two pair, tens and sixes, nine kicker
+Twisted312 shows [ Qh Td ] two pair, tens and sixes, queen kicker
+Twisted312 wins main pot 25224 Tournament chips with two pair, tens and sixes, queen kicker.
+Seat 0: darkstar3333 (0 Tournament chips) 
+Seat 1: WDS45 (83237 Tournament chips) 
+Seat 2: WhyzChoice (42224 Tournament chips) 
+Seat 4: QwertySpark (82542 Tournament chips) 
+Seat 5: Twisted312 (79322 Tournament chips) 
+Seat 7: Ads1209 (38238 Tournament chips) 
+Seat 8: acarpov (21252 Tournament chips) 
+Game #23961768-72 ends
+Player darkstar3333 leaves the table with 0 Tournament chips
+Game #23961768-73 starts
+Seat 1: WDS45 (83237 Tournament chips) 
+Seat 2: WhyzChoice (42224 Tournament chips) 
+Seat 4: QwertySpark (82542 Tournament chips) 
+Seat 5: Twisted312 (79322 Tournament chips) 
+Seat 7: Ads1209 (38238 Tournament chips) 
+Seat 8: acarpov (21252 Tournament chips) 
+The button is at seat 8
+WDS45 posted ante of 300 Tournament chips
+WhyzChoice posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+Twisted312 posted ante of 300 Tournament chips
+Ads1209 posted ante of 300 Tournament chips
+acarpov posted ante of 300 Tournament chips
+The button is moved to seat 0.
+WDS45 posts the small blind [1000 Tournament chips]
+WhyzChoice posts the big blind [2000 Tournament chips]
+WDS45, at seat 1, is in this hand with 81937 Tournament chips.
+WhyzChoice, at seat 2, is in this hand with 39924 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 82242 Tournament chips.
+Twisted312, at seat 5, is in this hand with 79022 Tournament chips.
+Ads1209, at seat 7, is in this hand with 37938 Tournament chips.
+acarpov, at seat 8, is in this hand with 20952 Tournament chips.
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+Dealt to WDS45 [ **** ]
+Dealt to WhyzChoice [ **** ]
+Dealt to QwertySpark [ Qd 9c ]
+Dealt to Twisted312 [ **** ]
+Dealt to Ads1209 [ **** ]
+Dealt to acarpov [ **** ]
+QwertySpark folds [2000 Tournament chips]
+Twisted312 raises [4000 Tournament chips]
+Ads1209 calls [4000 Tournament chips]
+acarpov folds [4000 Tournament chips]
+WDS45 re-raises [5000 Tournament chips]
+WhyzChoice folds [4000 Tournament chips]
+Twisted312 calls [2000 Tournament chips]
+Ads1209 calls [2000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 8s ] board:[ Qc 8s]
+** Dealing Flop ** [ 3h ] board:[ Qc 8s 3h]
+WDS45 bets for 10900 Tournament chips
+Twisted312 folds [10900 Tournament chips]
+Ads1209 folds [10900 Tournament chips]
+WDS45 is returned 10900 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for WDS45 (Js As Qc 8s 3h: ace high)
+WDS45 wins main pot 21800 Tournament chips.
+Seat 1: WDS45 (98737 Tournament chips) 
+Seat 2: WhyzChoice (39924 Tournament chips) 
+Seat 3: Guardsfan (136960 Tournament chips) 
+Seat 4: QwertySpark (82242 Tournament chips) 
+Seat 5: Twisted312 (73022 Tournament chips) 
+Seat 7: Ads1209 (31938 Tournament chips) 
+Seat 8: acarpov (20952 Tournament chips) 
+Game #23961768-73 ends
+Game #23961768-74 starts
+Seat 1: WDS45 (98737 Tournament chips) 
+Seat 2: WhyzChoice (39924 Tournament chips) 
+Seat 3: Guardsfan (136960 Tournament chips) 
+Seat 4: QwertySpark (82242 Tournament chips) 
+Seat 5: Twisted312 (73022 Tournament chips) 
+Seat 7: Ads1209 (31938 Tournament chips) 
+Seat 8: acarpov (20952 Tournament chips) 
+The button is at seat 0
+WDS45 posted ante of 300 Tournament chips
+WhyzChoice posted ante of 300 Tournament chips
+Guardsfan posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+Twisted312 posted ante of 300 Tournament chips
+Ads1209 posted ante of 300 Tournament chips
+acarpov posted ante of 300 Tournament chips
+The button is moved to seat 1.
+WhyzChoice posts the small blind [1000 Tournament chips]
+Guardsfan posts the big blind [2000 Tournament chips]
+WDS45, at seat 1, is in this hand with 98437 Tournament chips.
+WhyzChoice, at seat 2, is in this hand with 38624 Tournament chips.
+Guardsfan, at seat 3, is in this hand with 134660 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 81942 Tournament chips.
+Twisted312, at seat 5, is in this hand with 72722 Tournament chips.
+Ads1209, at seat 7, is in this hand with 31638 Tournament chips.
+acarpov, at seat 8, is in this hand with 20652 Tournament chips.
+WhyzChoice is dealt: **
+Guardsfan is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+WDS45 is dealt: **
+WhyzChoice is dealt: **
+Guardsfan is dealt: **
+
+Twisted312 is dealt: **
+Ads1209 is dealt: **
+acarpov is dealt: **
+WDS45 is dealt: **
+Dealt to WDS45 [ **** ]
+Dealt to WhyzChoice [ **** ]
+Dealt to Guardsfan [ **** ]
+Dealt to QwertySpark [ 6d 6h ]
+Dealt to Twisted312 [ **** ]
+Dealt to Ads1209 [ **** ]
+Dealt to acarpov [ **** ]
+QwertySpark raises [4000 Tournament chips]
+Twisted312 folds [4000 Tournament chips]
+Ads1209 folds [4000 Tournament chips]
+acarpov folds [4000 Tournament chips]
+WDS45 folds [4000 Tournament chips]
+WhyzChoice folds [3000 Tournament chips]
+Guardsfan re-raises [13100 Tournament chips]
+QwertySpark calls [11100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 5c ] board:[ Td 5c]
+** Dealing Flop ** [ 4c ] board:[ Td 5c 4c]
+Guardsfan goes all-in for 121560 Tournament chips
+QwertySpark calls all-in [66842 Tournament chips]
+Guardsfan is returned 54718 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Guardsfan shows [ Kh Ks ]
+QwertySpark shows [ 6d 6h ]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ Td 5c 4c 7s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Td 5c 4c 7s 2s]
+        (no action in this round)
+Round 4 is over.
+Guardsfan shows [ Kh Ks ] a pair of kings, ten/seven kickers
+QwertySpark shows [ 6d 6h ] a pair of sixes, ten/seven kickers
+Guardsfan wins main pot 166984 Tournament chips with a pair of kings, ten/seven kickers.
+Guardsfan: close
+Seat 1: WDS45 (98437 Tournament chips) 
+Seat 2: WhyzChoice (38624 Tournament chips) 
+Seat 3: Guardsfan (221702 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: Twisted312 (72722 Tournament chips) 
+Seat 7: Ads1209 (31638 Tournament chips) 
+Seat 8: acarpov (20652 Tournament chips) 
+Game #23961768-74 ends
+Player QwertySpark leaves the table with 0 Tournament chips

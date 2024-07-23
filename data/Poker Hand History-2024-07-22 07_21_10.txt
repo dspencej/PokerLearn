@@ -1,0 +1,1866 @@
+Game#: 23937052
+Raybob85 goes all-in for 6975 Tournament chips
+hdsteve calls [6975 Tournament chips]
+Tournament all-in showdown -- players show:
+Raybob85 shows [ Ks Kc ]
+hdsteve shows [ As Kd ]
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ Td 5c 7s Ad]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Td 5c 7s Ad 3h]
+        (no action in this round)
+Round 4 is over.
+Raybob85 shows [ Ks Kc ] a pair of kings, ace/ten kickers
+hdsteve shows [ As Kd ] a pair of aces, king/ten kickers
+hdsteve wins main pot 16200 Tournament chips with a pair of aces, king/ten kickers.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 3: Cherokee1898 (7450 Tournament chips) 
+Seat 4: SAMOGAS (7500 Tournament chips) 
+Seat 5: Raybob85 (0 Tournament chips) 
+Seat 6: luckykarma (7500 Tournament chips) 
+Seat 7: Nelly7 (7500 Tournament chips) 
+Seat 8: hdsteve (23375 Tournament chips) 
+Game #23937052-2 ends
+Player Raybob85 leaves the table with 0 Tournament chips
+Game #23937052-3 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 3: Cherokee1898 (7450 Tournament chips) 
+Seat 4: SAMOGAS (7500 Tournament chips) 
+Seat 6: luckykarma (7500 Tournament chips) 
+Seat 7: Nelly7 (7500 Tournament chips) 
+Seat 8: hdsteve (23375 Tournament chips) 
+The button is at seat 8
+Cherokee1898 posts the small blind [25 Tournament chips]
+SAMOGAS posts the big blind [50 Tournament chips]
+Cherokee1898, at seat 3, is in this hand with 7425 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7450 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7500 Tournament chips.
+Nelly7, at seat 7, is in this hand with 7500 Tournament chips.
+hdsteve, at seat 8, is in this hand with 23375 Tournament chips.
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+luckykarma folds [50 Tournament chips]
+Nelly7 folds [50 Tournament chips]
+hdsteve raises [150 Tournament chips]
+Cherokee1898 calls [125 Tournament chips]
+SAMOGAS re-raises [200 Tournament chips]
+hdsteve calls [100 Tournament chips]
+Cherokee1898 re-raises [850 Tournament chips]
+SAMOGAS folds [750 Tournament chips]
+hdsteve calls [750 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 9s ] board:[ 3c 9s]
+** Dealing Flop ** [ Ad ] board:[ 3c 9s Ad]
+Cherokee1898 bets for 1125 Tournament chips
+hdsteve folds [1125 Tournament chips]
+Cherokee1898 is returned 1125 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Cherokee1898 (Jc Jd 3c 9s Ad: a pair of jacks)
+Cherokee1898 wins main pot 2250 Tournament chips.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7250 Tournament chips) 
+Seat 5: river5150 (7500 Tournament chips) 
+Seat 6: luckykarma (7500 Tournament chips) 
+Seat 7: Nelly7 (7500 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+Game #23937052-3 ends
+Game #23937052-4 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7250 Tournament chips) 
+Seat 5: river5150 (7500 Tournament chips) 
+Seat 6: luckykarma (7500 Tournament chips) 
+Seat 7: Nelly7 (7500 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 3.
+SAMOGAS posts the small blind [25 Tournament chips]
+river5150 posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8475 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7500 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8700 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7225 Tournament chips.
+river5150, at seat 5, is in this hand with 7450 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7500 Tournament chips.
+Nelly7, at seat 7, is in this hand with 7500 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22375 Tournament chips.
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+Dealt to QwertySpark [ 9d Kc ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+luckykarma raises [100 Tournament chips]
+Nelly7 calls [100 Tournament chips]
+hdsteve folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+001WPT1 calls [100 Tournament chips]
+Cherokee1898 folds [100 Tournament chips]
+SAMOGAS folds [75 Tournament chips]
+river5150 calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 4h ] board:[ 6s 4h]
+** Dealing Flop ** [ 3d ] board:[ 6s 4h 3d]
+river5150 bets for 212 Tournament chips
+luckykarma calls [212 Tournament chips]
+Nelly7 calls [212 Tournament chips]
+001WPT1 folds [212 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 6s 4h 3d As]
+river5150 checks
+luckykarma bets for 530 Tournament chips
+Nelly7 folds [530 Tournament chips]
+river5150 calls [530 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 6s 4h 3d As Td]
+river5150 checks
+luckykarma bets for 910 Tournament chips
+river5150 folds [910 Tournament chips]
+luckykarma is returned 910 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for luckykarma (Ac 6c 6s As Td: two pair, aces and sixes)
+luckykarma wins main pot 2121 Tournament chips.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7225 Tournament chips) 
+Seat 5: river5150 (6658 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (7188 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+Game #23937052-4 ends
+Game #23937052-5 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7225 Tournament chips) 
+Seat 5: river5150 (6658 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (7188 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+river5150 posts the small blind [25 Tournament chips]
+luckykarma posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8475 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7400 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8700 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7225 Tournament chips.
+river5150, at seat 5, is in this hand with 6633 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8729 Tournament chips.
+Nelly7, at seat 7, is in this hand with 7188 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22375 Tournament chips.
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+Dealt to QwertySpark [ 8d 2d ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Nelly7 calls [50 Tournament chips]
+hdsteve folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+001WPT1 folds [50 Tournament chips]
+Cherokee1898 folds [50 Tournament chips]
+SAMOGAS calls [50 Tournament chips]
+river5150 calls [25 Tournament chips]
+luckykarma checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Kc ] board:[ 3d Kc]
+** Dealing Flop ** [ Jd ] board:[ 3d Kc Jd]
+river5150 checks
+luckykarma bets for 100 Tournament chips
+Nelly7 folds [100 Tournament chips]
+SAMOGAS folds [100 Tournament chips]
+river5150 folds [100 Tournament chips]
+luckykarma is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for luckykarma (Kd 6s 3d Kc Jd: a pair of kings)
+luckykarma wins main pot 200 Tournament chips.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (6608 Tournament chips) 
+Seat 6: luckykarma (8929 Tournament chips) 
+Seat 7: Nelly7 (7138 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+Game #23937052-5 ends
+Game #23937052-6 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (6608 Tournament chips) 
+Seat 6: luckykarma (8929 Tournament chips) 
+Seat 7: Nelly7 (7138 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+luckykarma posts the small blind [25 Tournament chips]
+Nelly7 posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8475 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7400 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8700 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7175 Tournament chips.
+river5150, at seat 5, is in this hand with 6608 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8904 Tournament chips.
+Nelly7, at seat 7, is in this hand with 7088 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22375 Tournament chips.
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+Dealt to QwertySpark [ Th Ks ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+hdsteve folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+001WPT1 folds [50 Tournament chips]
+Cherokee1898 folds [50 Tournament chips]
+SAMOGAS folds [50 Tournament chips]
+river5150 calls [50 Tournament chips]
+luckykarma calls [25 Tournament chips]
+Nelly7 checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ As ] board:[ 3c As]
+** Dealing Flop ** [ 2h ] board:[ 3c As 2h]
+luckykarma checks
+Nelly7 bets for 50 Tournament chips
+river5150 calls [50 Tournament chips]
+luckykarma calls [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 3c As 2h 2s]
+luckykarma checks
+Nelly7 bets for 300 Tournament chips
+river5150 calls [300 Tournament chips]
+luckykarma folds [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 3c As 2h 2s 5d]
+Nelly7 bets for 50 Tournament chips
+river5150 calls [50 Tournament chips]
+Round 4 is over.
+Nelly7 shows [ 5s Jh ] two pair, fives and deuces
+Hand evaluation for Nelly7 (5s As 2h 2s 5d: two pair, fives and deuces)
+river5150 shows [ Ad 3d ] two pair, aces and threes
+Hand evaluation for river5150 (Ad 3d 3c As 5d: two pair, aces and threes)
+river5150 wins main pot 1000 Tournament chips with two pair, aces and threes, five kicker.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (7158 Tournament chips) 
+Seat 6: luckykarma (8829 Tournament chips) 
+Seat 7: Nelly7 (6688 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+Game #23937052-6 ends
+Game #23937052-7 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (7158 Tournament chips) 
+Seat 6: luckykarma (8829 Tournament chips) 
+Seat 7: Nelly7 (6688 Tournament chips) 
+Seat 8: hdsteve (22375 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Nelly7 posts the small blind [25 Tournament chips]
+hdsteve posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8475 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7400 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7500 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8700 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7175 Tournament chips.
+river5150, at seat 5, is in this hand with 7158 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8829 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22325 Tournament chips.
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Dealt to QwertySpark [ Qh 8s ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+QwertySpark folds [50 Tournament chips]
+001WPT1 folds [50 Tournament chips]
+Sharknchips1 folds [50 Tournament chips]
+Cherokee1898 folds [50 Tournament chips]
+SAMOGAS folds [50 Tournament chips]
+river5150 calls [50 Tournament chips]
+luckykarma calls [50 Tournament chips]
+Nelly7 folds [25 Tournament chips]
+hdsteve raises [200 Tournament chips]
+river5150 folds [200 Tournament chips]
+luckykarma folds [200 Tournament chips]
+hdsteve is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for hdsteve (Ac Ks: ace high)
+hdsteve wins main pot 175 Tournament chips.
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (7108 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22500 Tournament chips) 
+Game #23937052-7 ends
+Game #23937052-8 starts
+Seat 0: QwertySpark (8475 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7500 Tournament chips) 
+Seat 3: Cherokee1898 (8700 Tournament chips) 
+Seat 4: SAMOGAS (7175 Tournament chips) 
+Seat 5: river5150 (7108 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22500 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+hdsteve posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8375 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7400 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7500 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8700 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 7175 Tournament chips.
+river5150, at seat 5, is in this hand with 7108 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8779 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22450 Tournament chips.
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+Dealt to QwertySpark [ 3d Ad ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+001WPT1 folds [100 Tournament chips]
+Sharknchips1 calls [100 Tournament chips]
+Cherokee1898 raises [400 Tournament chips]
+SAMOGAS calls [400 Tournament chips]
+river5150 calls [400 Tournament chips]
+luckykarma folds [400 Tournament chips]
+Nelly7 folds [400 Tournament chips]
+hdsteve folds [350 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Sharknchips1 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 8c ] board:[ 7d 8c]
+** Dealing Flop ** [ Jc ] board:[ 7d 8c Jc]
+QwertySpark checks
+Sharknchips1 checks
+Cherokee1898 checks
+SAMOGAS checks
+river5150 bets for 200 Tournament chips
+QwertySpark calls [200 Tournament chips]
+Sharknchips1 folds [200 Tournament chips]
+Cherokee1898 calls [200 Tournament chips]
+SAMOGAS calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 7d 8c Jc 2c]
+QwertySpark checks
+Cherokee1898 checks
+SAMOGAS checks
+river5150 bets for 1425 Tournament chips
+QwertySpark folds [1425 Tournament chips]
+Cherokee1898 folds [1425 Tournament chips]
+SAMOGAS calls [1425 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 7d 8c Jc 2c 7s]
+SAMOGAS checks
+river5150 checks
+Round 4 is over.
+SAMOGAS shows [ Ac 9s ] a pair of sevens
+Hand evaluation for SAMOGAS (Ac 9s 7d Jc 7s: a pair of sevens)
+river5150 shows [ Js Kd ] two pair, jacks and sevens
+Hand evaluation for river5150 (Js Kd 7d Jc 7s: two pair, jacks and sevens)
+river5150 wins main pot 5700 Tournament chips with two pair, jacks and sevens, king kicker.
+Seat 0: QwertySpark (7875 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 4: SAMOGAS (5150 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+Game #23937052-8 ends
+Game #23937052-9 starts
+Seat 0: QwertySpark (7875 Tournament chips) 
+Seat 1: 001WPT1 (7400 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 4: SAMOGAS (5150 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [50 Tournament chips]
+001WPT1 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7825 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7300 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7100 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8100 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 5150 Tournament chips.
+river5150, at seat 5, is in this hand with 10783 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8779 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22450 Tournament chips.
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+Dealt to QwertySpark [ 3s Jh ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Sharknchips1 raises [600 Tournament chips]
+Cherokee1898 folds [600 Tournament chips]
+SAMOGAS folds [600 Tournament chips]
+river5150 folds [600 Tournament chips]
+luckykarma folds [600 Tournament chips]
+Nelly7 folds [600 Tournament chips]
+hdsteve folds [600 Tournament chips]
+QwertySpark folds [550 Tournament chips]
+001WPT1 folds [500 Tournament chips]
+Sharknchips1 is returned 500 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Sharknchips1 (Ks Ad: ace high)
+Sharknchips1 wins main pot 250 Tournament chips.
+Seat 0: QwertySpark (7825 Tournament chips) 
+Seat 1: 001WPT1 (7300 Tournament chips) 
+Seat 2: Sharknchips1 (7250 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 4: SAMOGAS (5150 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+Game #23937052-9 ends
+Game #23937052-10 starts
+Seat 0: QwertySpark (7825 Tournament chips) 
+Seat 1: 001WPT1 (7300 Tournament chips) 
+Seat 2: Sharknchips1 (7250 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 4: SAMOGAS (5150 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+001WPT1 posts the small blind [50 Tournament chips]
+Sharknchips1 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7825 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7250 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7150 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8100 Tournament chips.
+SAMOGAS, at seat 4, is in this hand with 5150 Tournament chips.
+river5150, at seat 5, is in this hand with 10783 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8779 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22450 Tournament chips.
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+SAMOGAS is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Dealt to QwertySpark [ Kc Ks ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to SAMOGAS [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Cherokee1898 folds [100 Tournament chips]
+SAMOGAS raises [200 Tournament chips]
+river5150 folds [200 Tournament chips]
+luckykarma folds [200 Tournament chips]
+Nelly7 folds [200 Tournament chips]
+hdsteve folds [200 Tournament chips]
+QwertySpark re-raises [1000 Tournament chips]
+001WPT1 folds [950 Tournament chips]
+Sharknchips1 folds [900 Tournament chips]
+SAMOGAS calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 2s ] board:[ Ad 2s]
+** Dealing Flop ** [ 6c ] board:[ Ad 2s 6c]
+SAMOGAS checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ Ad 2s 6c Kd]
+SAMOGAS checks
+QwertySpark bets for 2150 Tournament chips
+SAMOGAS raises all-in [4150 Tournament chips]
+QwertySpark calls [2000 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kc Ks ]
+SAMOGAS shows [ Ah 4d ]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ Ad 2s 6c Kd 5c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kc Ks ] three kings, ace/six kickers
+SAMOGAS shows [ Ah 4d ] a pair of aces, king/six kickers
+QwertySpark wins main pot 10450 Tournament chips with three kings, ace/six kickers.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 1: 001WPT1 (7250 Tournament chips) 
+Seat 2: Sharknchips1 (7150 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 4: SAMOGAS (0 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+Game #23937052-10 ends
+Player SAMOGAS leaves the table with 0 Tournament chips
+Game #23937052-11 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 1: 001WPT1 (7250 Tournament chips) 
+Seat 2: Sharknchips1 (7150 Tournament chips) 
+Seat 3: Cherokee1898 (8100 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8779 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (22450 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Sharknchips1 posts the small blind [50 Tournament chips]
+Cherokee1898 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13125 Tournament chips.
+001WPT1, at seat 1, is in this hand with 7250 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7100 Tournament chips.
+Cherokee1898, at seat 3, is in this hand with 8000 Tournament chips.
+river5150, at seat 5, is in this hand with 10783 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8779 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 22450 Tournament chips.
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Cherokee1898 is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Dealt to QwertySpark [ Td 2c ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Cherokee1898 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+river5150 folds [100 Tournament chips]
+luckykarma calls [100 Tournament chips]
+Nelly7 folds [100 Tournament chips]
+hdsteve raises [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+001WPT1 calls [400 Tournament chips]
+Sharknchips1 folds [350 Tournament chips]
+Cherokee1898 calls [300 Tournament chips]
+luckykarma folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 9c ] board:[ 6c 9c]
+** Dealing Flop ** [ 3c ] board:[ 6c 9c 3c]
+Cherokee1898 bets for 675 Tournament chips
+hdsteve calls [675 Tournament chips]
+001WPT1 folds [675 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 6c 9c 3c Js]
+Cherokee1898 bets for 2700 Tournament chips
+hdsteve calls [2700 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 6c 9c 3c Js 5d]
+Cherokee1898 goes all-in for 4325 Tournament chips
+hdsteve calls [4325 Tournament chips]
+Tournament all-in showdown -- players show:
+Cherokee1898 shows [ Kd 9h ]
+hdsteve shows [ Ac Ad ]
+Round 4 is over.
+Cherokee1898 shows [ Kd 9h ] a pair of nines, king/jack kickers
+hdsteve shows [ Ac Ad ] a pair of aces, jack/nine kickers
+hdsteve wins main pot 16750 Tournament chips with a pair of aces, jack/nine kickers.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 1: 001WPT1 (6850 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 3: Cherokee1898 (0 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8679 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (31100 Tournament chips) 
+Game #23937052-11 ends
+Player Cherokee1898 leaves the table with 0 Tournament chips
+Game #23937052-12 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 1: 001WPT1 (6850 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 5: river5150 (10783 Tournament chips) 
+Seat 6: luckykarma (8679 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (31100 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+river5150 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13125 Tournament chips.
+001WPT1, at seat 1, is in this hand with 6850 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7100 Tournament chips.
+river5150, at seat 5, is in this hand with 10683 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8679 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 31100 Tournament chips.
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+001WPT1 is dealt: **
+Sharknchips1 is dealt: **
+Dealt to QwertySpark [ 6d 8s ]
+Dealt to 001WPT1 [ **** ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+luckykarma raises [300 Tournament chips]
+Nelly7 folds [300 Tournament chips]
+hdsteve calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+001WPT1 re-raises [1300 Tournament chips]
+Sharknchips1 folds [1300 Tournament chips]
+river5150 re-raises [4900 Tournament chips]
+luckykarma folds [4700 Tournament chips]
+hdsteve folds [4700 Tournament chips]
+001WPT1 raises all-in [5550 Tournament chips]
+river5150 calls [1850 Tournament chips]
+Tournament all-in showdown -- players show:
+001WPT1 shows [ Ks Kh ]
+river5150 shows [ Ah Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Jh ] board:[ Qs Jh]
+** Dealing Flop ** [ 4s ] board:[ Qs Jh 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Qs Jh 4s 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Qs Jh 4s 5h 4h]
+        (no action in this round)
+Round 4 is over.
+001WPT1 shows [ Ks Kh ] two pair, kings and fours, queen kicker
+river5150 shows [ Ah Ac ] two pair, aces and fours, queen kicker
+river5150 wins main pot 14300 Tournament chips with two pair, aces and fours, queen kicker.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 1: 001WPT1 (0 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 4: Plumbnator (7500 Tournament chips) 
+Seat 5: river5150 (18233 Tournament chips) 
+Seat 6: luckykarma (8379 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+Game #23937052-12 ends
+Player 001WPT1 leaves the table with 0 Tournament chips
+Game #23937052-13 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 4: Plumbnator (7500 Tournament chips) 
+Seat 5: river5150 (18233 Tournament chips) 
+Seat 6: luckykarma (8379 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+The button is at seat 2
+river5150 posts the small blind [50 Tournament chips]
+luckykarma posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13125 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7100 Tournament chips.
+river5150, at seat 5, is in this hand with 18183 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8279 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30800 Tournament chips.
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Dealt to QwertySpark [ 4h Qc ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Nelly7 folds [100 Tournament chips]
+hdsteve folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Sharknchips1 folds [100 Tournament chips]
+river5150 calls [50 Tournament chips]
+luckykarma checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 5s ] board:[ Th 5s]
+** Dealing Flop ** [ 6s ] board:[ Th 5s 6s]
+river5150 bets for 200 Tournament chips
+luckykarma calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Th 5s 6s Kc]
+river5150 checks
+luckykarma checks
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ Th 5s 6s Kc 7d]
+river5150 bets for 300 Tournament chips
+luckykarma folds [300 Tournament chips]
+river5150 is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for river5150 (Qh 7h Th Kc 7d: a pair of sevens)
+river5150 wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 4: Plumbnator (7500 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8079 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+Game #23937052-13 ends
+Game #23937052-14 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (7100 Tournament chips) 
+Seat 4: Plumbnator (7500 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8079 Tournament chips) 
+Seat 7: Nelly7 (6663 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 5.
+luckykarma posts the small blind [75 Tournament chips]
+Nelly7 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13125 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 7100 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 7500 Tournament chips.
+river5150, at seat 5, is in this hand with 18533 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8004 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6513 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30800 Tournament chips.
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+Dealt to QwertySpark [ 4s 9d ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+hdsteve folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Sharknchips1 calls [150 Tournament chips]
+Plumbnator raises [675 Tournament chips]
+river5150 folds [675 Tournament chips]
+luckykarma folds [600 Tournament chips]
+Nelly7 folds [525 Tournament chips]
+Sharknchips1 calls [525 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 4c ] board:[ 5s 4c]
+** Dealing Flop ** [ 6c ] board:[ 5s 4c 6c]
+Sharknchips1 bets for 150 Tournament chips
+Plumbnator raises [1012 Tournament chips]
+Sharknchips1 folds [862 Tournament chips]
+Plumbnator is returned 862 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Plumbnator (Jd Ts 5s 4c 6c: jack high)
+Plumbnator wins main pot 1875 Tournament chips.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (6275 Tournament chips) 
+Seat 4: Plumbnator (8550 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8004 Tournament chips) 
+Seat 7: Nelly7 (6513 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+Game #23937052-14 ends
+Game #23937052-15 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (6275 Tournament chips) 
+Seat 4: Plumbnator (8550 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8004 Tournament chips) 
+Seat 7: Nelly7 (6513 Tournament chips) 
+Seat 8: hdsteve (30800 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Nelly7 posts the small blind [75 Tournament chips]
+hdsteve posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 13125 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 6275 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 8550 Tournament chips.
+river5150, at seat 5, is in this hand with 18533 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8004 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6438 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30650 Tournament chips.
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Dealt to QwertySpark [ 3s Ac ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+QwertySpark folds [150 Tournament chips]
+Sharknchips1 folds [150 Tournament chips]
+Plumbnator calls [150 Tournament chips]
+river5150 folds [150 Tournament chips]
+luckykarma folds [150 Tournament chips]
+Nelly7 calls [75 Tournament chips]
+hdsteve checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Qs ] board:[ 7h Qs]
+** Dealing Flop ** [ As ] board:[ 7h Qs As]
+Nelly7 checks
+hdsteve checks
+Plumbnator bets for 150 Tournament chips
+Nelly7 folds [150 Tournament chips]
+hdsteve folds [150 Tournament chips]
+Plumbnator is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Plumbnator (9d Kc 7h Qs As: ace high)
+Plumbnator wins main pot 450 Tournament chips.
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (6275 Tournament chips) 
+Seat 4: Plumbnator (8850 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8004 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30650 Tournament chips) 
+Game #23937052-15 ends
+Game #23937052-16 starts
+Seat 0: QwertySpark (13125 Tournament chips) 
+Seat 2: Sharknchips1 (6275 Tournament chips) 
+Seat 4: Plumbnator (8850 Tournament chips) 
+Seat 5: river5150 (18533 Tournament chips) 
+Seat 6: luckykarma (8004 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30650 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+hdsteve posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 12975 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 6275 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 8850 Tournament chips.
+river5150, at seat 5, is in this hand with 18533 Tournament chips.
+luckykarma, at seat 6, is in this hand with 8004 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6363 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30575 Tournament chips.
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+Dealt to QwertySpark [ 9h 5s ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Sharknchips1 calls [150 Tournament chips]
+Plumbnator calls [150 Tournament chips]
+river5150 calls [150 Tournament chips]
+luckykarma raises [750 Tournament chips]
+Nelly7 folds [750 Tournament chips]
+hdsteve folds [675 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Sharknchips1 calls [600 Tournament chips]
+Plumbnator re-raises [3225 Tournament chips]
+river5150 folds [3225 Tournament chips]
+luckykarma folds [2625 Tournament chips]
+Sharknchips1 folds [2625 Tournament chips]
+Plumbnator is returned 2625 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Plumbnator (9c Kh: king high)
+Plumbnator wins main pot 2625 Tournament chips.
+Seat 0: QwertySpark (12975 Tournament chips) 
+Seat 2: Sharknchips1 (5525 Tournament chips) 
+Seat 4: Plumbnator (10725 Tournament chips) 
+Seat 5: river5150 (18383 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30575 Tournament chips) 
+Game #23937052-16 ends
+Game #23937052-17 starts
+Seat 0: QwertySpark (12975 Tournament chips) 
+Seat 2: Sharknchips1 (5525 Tournament chips) 
+Seat 4: Plumbnator (10725 Tournament chips) 
+Seat 5: river5150 (18383 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30575 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [75 Tournament chips]
+Sharknchips1 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 12900 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 5375 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 10725 Tournament chips.
+river5150, at seat 5, is in this hand with 18383 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7254 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6363 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30575 Tournament chips.
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+Dealt to QwertySpark [ 6s 8d ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Plumbnator folds [150 Tournament chips]
+river5150 raises [450 Tournament chips]
+luckykarma folds [450 Tournament chips]
+Nelly7 folds [450 Tournament chips]
+hdsteve calls [450 Tournament chips]
+QwertySpark folds [375 Tournament chips]
+Sharknchips1 folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 3c ] board:[ 7d 3c]
+** Dealing Flop ** [ 4s ] board:[ 7d 3c 4s]
+river5150 bets for 1125 Tournament chips
+hdsteve folds [1125 Tournament chips]
+river5150 is returned 1125 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for river5150 (As Js 7d 3c 4s: ace high)
+river5150 wins main pot 1125 Tournament chips.
+Seat 0: QwertySpark (12900 Tournament chips) 
+Seat 2: Sharknchips1 (5375 Tournament chips) 
+Seat 4: Plumbnator (10725 Tournament chips) 
+Seat 5: river5150 (19058 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+Game #23937052-17 ends
+Game #23937052-18 starts
+Seat 0: QwertySpark (12900 Tournament chips) 
+Seat 2: Sharknchips1 (5375 Tournament chips) 
+Seat 4: Plumbnator (10725 Tournament chips) 
+Seat 5: river5150 (19058 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6363 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Sharknchips1 posts the small blind [75 Tournament chips]
+Plumbnator posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 12900 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 5300 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 10575 Tournament chips.
+river5150, at seat 5, is in this hand with 19058 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7254 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6363 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30125 Tournament chips.
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Dealt to QwertySpark [ Kh 6c ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+river5150 calls [150 Tournament chips]
+luckykarma folds [150 Tournament chips]
+Nelly7 calls [150 Tournament chips]
+hdsteve folds [150 Tournament chips]
+QwertySpark raises [750 Tournament chips]
+Sharknchips1 folds [675 Tournament chips]
+Plumbnator folds [600 Tournament chips]
+river5150 calls [600 Tournament chips]
+Nelly7 folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 6d ] board:[ Qd 6d]
+** Dealing Flop ** [ 5c ] board:[ Qd 6d 5c]
+river5150 bets for 937 Tournament chips
+QwertySpark calls [937 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Qd 6d 5c 7h]
+river5150 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Qd 6d 5c 7h 5d]
+river5150 bets for 1874 Tournament chips
+QwertySpark calls [1874 Tournament chips]
+Round 4 is over.
+river5150 shows [ 4c 4h ] two pair, fives and fours
+Hand evaluation for river5150 (4c 4h Qd 5c 5d: two pair, fives and fours)
+QwertySpark shows [ Kh 6c ] two pair, sixes and fives
+Hand evaluation for QwertySpark (Kh 6c 6d 5c 5d: two pair, sixes and fives)
+QwertySpark wins main pot 7497 Tournament chips with two pair, sixes and fives, king kicker.
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5300 Tournament chips) 
+Seat 4: Plumbnator (10575 Tournament chips) 
+Seat 5: river5150 (15497 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6213 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+Game #23937052-18 ends
+Game #23937052-19 starts
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5300 Tournament chips) 
+Seat 4: Plumbnator (10575 Tournament chips) 
+Seat 5: river5150 (15497 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6213 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+Plumbnator posts the small blind [75 Tournament chips]
+river5150 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16836 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 5300 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 10500 Tournament chips.
+river5150, at seat 5, is in this hand with 15347 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7254 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6213 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30125 Tournament chips.
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Dealt to QwertySpark [ 5d 9s ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+luckykarma folds [150 Tournament chips]
+Nelly7 calls [150 Tournament chips]
+hdsteve folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Sharknchips1 folds [150 Tournament chips]
+Plumbnator folds [75 Tournament chips]
+river5150 checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 2d ] board:[ 5h 2d]
+** Dealing Flop ** [ 8c ] board:[ 5h 2d 8c]
+river5150 checks
+Nelly7 bets for 150 Tournament chips
+river5150 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 5h 2d 8c 4c]
+river5150 checks
+Nelly7 bets for 150 Tournament chips
+river5150 calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 5h 2d 8c 4c 2h]
+river5150 checks
+Nelly7 checks
+Round 4 is over.
+river5150 shows [ 7c Ac ] a pair of deuces
+Hand evaluation for river5150 (7c Ac 2d 8c 2h: a pair of deuces)
+Nelly7 shows [ Ah 8d ] two pair, eights and deuces
+Hand evaluation for Nelly7 (Ah 8d 2d 8c 2h: two pair, eights and deuces)
+Nelly7 wins main pot 975 Tournament chips with two pair, eights and deuces, ace kicker.
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5300 Tournament chips) 
+Seat 4: Plumbnator (10500 Tournament chips) 
+Seat 5: river5150 (15047 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6738 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+Game #23937052-19 ends
+Game #23937052-20 starts
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5300 Tournament chips) 
+Seat 4: Plumbnator (10500 Tournament chips) 
+Seat 5: river5150 (15047 Tournament chips) 
+Seat 6: luckykarma (7254 Tournament chips) 
+Seat 7: Nelly7 (6738 Tournament chips) 
+Seat 8: hdsteve (30125 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+river5150 posts the small blind [75 Tournament chips]
+luckykarma posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16836 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 5300 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 10500 Tournament chips.
+river5150, at seat 5, is in this hand with 14972 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7104 Tournament chips.
+Nelly7, at seat 7, is in this hand with 6738 Tournament chips.
+hdsteve, at seat 8, is in this hand with 30125 Tournament chips.
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+Dealt to QwertySpark [ Js 7d ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Nelly7 calls [150 Tournament chips]
+hdsteve calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Sharknchips1 calls [150 Tournament chips]
+Plumbnator calls [150 Tournament chips]
+river5150 calls [75 Tournament chips]
+luckykarma checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Td ] board:[ Qd Td]
+** Dealing Flop ** [ 9d ] board:[ Qd Td 9d]
+river5150 checks
+luckykarma checks
+Nelly7 bets for 300 Tournament chips
+hdsteve folds [300 Tournament chips]
+Sharknchips1 folds [300 Tournament chips]
+Plumbnator raises [1050 Tournament chips]
+river5150 folds [1050 Tournament chips]
+luckykarma folds [1050 Tournament chips]
+Nelly7 calls [750 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ Qd Td 9d Kh]
+Nelly7 bets for 150 Tournament chips
+Plumbnator raises [1725 Tournament chips]
+Nelly7 folds [1575 Tournament chips]
+Plumbnator is returned 1575 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Plumbnator (6d 4d Qd Td 9d: flush, queen high)
+Plumbnator wins main pot 3300 Tournament chips.
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5150 Tournament chips) 
+Seat 4: Plumbnator (12450 Tournament chips) 
+Seat 5: river5150 (14897 Tournament chips) 
+Seat 6: luckykarma (7104 Tournament chips) 
+Seat 7: Nelly7 (5388 Tournament chips) 
+Seat 8: hdsteve (29975 Tournament chips) 
+Game #23937052-20 ends
+Game #23937052-21 starts
+Seat 0: QwertySpark (16836 Tournament chips) 
+Seat 2: Sharknchips1 (5150 Tournament chips) 
+Seat 4: Plumbnator (12450 Tournament chips) 
+Seat 5: river5150 (14897 Tournament chips) 
+Seat 6: luckykarma (7104 Tournament chips) 
+Seat 7: Nelly7 (5388 Tournament chips) 
+Seat 8: hdsteve (29975 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+luckykarma posts the small blind [75 Tournament chips]
+Nelly7 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16836 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 5150 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 12450 Tournament chips.
+river5150, at seat 5, is in this hand with 14897 Tournament chips.
+luckykarma, at seat 6, is in this hand with 7029 Tournament chips.
+Nelly7, at seat 7, is in this hand with 5238 Tournament chips.
+hdsteve, at seat 8, is in this hand with 29975 Tournament chips.
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+Dealt to QwertySpark [ Jd Th ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+hdsteve calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Sharknchips1 calls [150 Tournament chips]
+Plumbnator calls [150 Tournament chips]
+river5150 folds [150 Tournament chips]
+luckykarma calls [75 Tournament chips]
+Nelly7 checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Ks ] board:[ Ad Ks]
+** Dealing Flop ** [ Qd ] board:[ Ad Ks Qd]
+luckykarma checks
+Nelly7 checks
+hdsteve bets for 750 Tournament chips
+QwertySpark raises [2025 Tournament chips]
+Sharknchips1 folds [2025 Tournament chips]
+Plumbnator folds [2025 Tournament chips]
+luckykarma folds [2025 Tournament chips]
+Nelly7 folds [2025 Tournament chips]
+hdsteve calls [1275 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ Ad Ks Qd Jh]
+hdsteve checks
+QwertySpark goes all-in for 14661 Tournament chips
+hdsteve calls [14661 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jd Th ]
+hdsteve shows [ Js Kd ]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Ad Ks Qd Jh 2c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jd Th ] straight, ace high
+hdsteve shows [ Js Kd ] two pair, kings and jacks, ace kicker
+QwertySpark wins main pot 34272 Tournament chips with straight, ace high.
+Seat 0: QwertySpark (34272 Tournament chips) 
+Seat 2: Sharknchips1 (5000 Tournament chips) 
+Seat 4: Plumbnator (12300 Tournament chips) 
+Seat 5: river5150 (14897 Tournament chips) 
+Seat 6: luckykarma (6954 Tournament chips) 
+Seat 7: Nelly7 (5238 Tournament chips) 
+Seat 8: hdsteve (13139 Tournament chips) 
+Game #23937052-21 ends
+Game #23937052-22 starts
+Seat 0: QwertySpark (34272 Tournament chips) 
+Seat 2: Sharknchips1 (5000 Tournament chips) 
+Seat 4: Plumbnator (12300 Tournament chips) 
+Seat 5: river5150 (14897 Tournament chips) 
+Seat 6: luckykarma (6954 Tournament chips) 
+Seat 7: Nelly7 (5238 Tournament chips) 
+Seat 8: hdsteve (13139 Tournament chips) 
+The button is at seat 5
+Sharknchips1 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Plumbnator posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+luckykarma posted ante of 25 Tournament chips
+Nelly7 posted ante of 25 Tournament chips
+hdsteve posted ante of 25 Tournament chips
+The button is moved to seat 6.
+Nelly7 posts the small blind [100 Tournament chips]
+hdsteve posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 34247 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 4975 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 12275 Tournament chips.
+river5150, at seat 5, is in this hand with 14872 Tournament chips.
+luckykarma, at seat 6, is in this hand with 6929 Tournament chips.
+Nelly7, at seat 7, is in this hand with 5113 Tournament chips.
+hdsteve, at seat 8, is in this hand with 12914 Tournament chips.
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Dealt to QwertySpark [ Kd Th ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+QwertySpark folds [200 Tournament chips]
+Sharknchips1 folds [200 Tournament chips]
+Plumbnator raises [1675 Tournament chips]
+river5150 folds [1675 Tournament chips]
+luckykarma folds [1675 Tournament chips]
+Nelly7 folds [1575 Tournament chips]
+hdsteve folds [1475 Tournament chips]
+Plumbnator is returned 1475 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Plumbnator (6h 6c: a pair of sixes)
+Plumbnator wins main pot 675 Tournament chips.
+Seat 0: QwertySpark (34247 Tournament chips) 
+Seat 2: Sharknchips1 (4975 Tournament chips) 
+Seat 4: Plumbnator (12750 Tournament chips) 
+Seat 5: river5150 (14872 Tournament chips) 
+Seat 6: luckykarma (6929 Tournament chips) 
+Seat 7: Nelly7 (5113 Tournament chips) 
+Seat 8: hdsteve (12914 Tournament chips) 
+Game #23937052-22 ends
+Game #23937052-23 starts
+Seat 0: QwertySpark (34247 Tournament chips) 
+Seat 2: Sharknchips1 (4975 Tournament chips) 
+Seat 4: Plumbnator (12750 Tournament chips) 
+Seat 5: river5150 (14872 Tournament chips) 
+Seat 6: luckykarma (6929 Tournament chips) 
+Seat 7: Nelly7 (5113 Tournament chips) 
+Seat 8: hdsteve (12914 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 25 Tournament chips
+Plumbnator posted ante of 25 Tournament chips
+Sharknchips1 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+luckykarma posted ante of 25 Tournament chips
+Nelly7 posted ante of 25 Tournament chips
+hdsteve posted ante of 25 Tournament chips
+The button is moved to seat 7.
+hdsteve posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 34022 Tournament chips.
+Sharknchips1, at seat 2, is in this hand (absent) with 4950 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 12725 Tournament chips.
+river5150, at seat 5, is in this hand with 14847 Tournament chips.
+luckykarma, at seat 6, is in this hand with 6904 Tournament chips.
+Nelly7, at seat 7, is in this hand with 5088 Tournament chips.
+hdsteve, at seat 8, is in this hand with 12789 Tournament chips.
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+Dealt to QwertySpark [ 4s 5h ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Sharknchips1 folds [200 Tournament chips]
+Plumbnator raises [400 Tournament chips]
+river5150 folds [400 Tournament chips]
+luckykarma folds [400 Tournament chips]
+Nelly7 calls [400 Tournament chips]
+hdsteve calls [300 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 8s ] board:[ 2d 8s]
+** Dealing Flop ** [ 2h ] board:[ 2d 8s 2h]
+hdsteve checks
+QwertySpark checks
+Plumbnator checks
+Nelly7 checks
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 2d 8s 2h 7d]
+hdsteve checks
+QwertySpark bets for 600 Tournament chips
+Plumbnator folds [600 Tournament chips]
+Nelly7 folds [600 Tournament chips]
+hdsteve folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (5h 2d 8s 2h 7d: a pair of deuces)
+QwertySpark wins main pot 1775 Tournament chips.
+Seat 0: QwertySpark (35597 Tournament chips) 
+Seat 2: Sharknchips1 (4950 Tournament chips) 
+Seat 4: Plumbnator (12325 Tournament chips) 
+Seat 5: river5150 (14847 Tournament chips) 
+Seat 6: luckykarma (6904 Tournament chips) 
+Seat 7: Nelly7 (4688 Tournament chips) 
+Seat 8: hdsteve (12489 Tournament chips) 
+Game #23937052-23 ends
+Game #23937052-24 starts
+Seat 0: QwertySpark (35597 Tournament chips) 
+Seat 2: Sharknchips1 (4950 Tournament chips) 
+Seat 4: Plumbnator (12325 Tournament chips) 
+Seat 5: river5150 (14847 Tournament chips) 
+Seat 6: luckykarma (6904 Tournament chips) 
+Seat 7: Nelly7 (4688 Tournament chips) 
+Seat 8: hdsteve (12489 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 25 Tournament chips
+Sharknchips1 posted ante of 25 Tournament chips
+Plumbnator posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+luckykarma posted ante of 25 Tournament chips
+Nelly7 posted ante of 25 Tournament chips
+hdsteve posted ante of 25 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [100 Tournament chips]
+Sharknchips1 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35472 Tournament chips.
+Sharknchips1, at seat 2, is in this hand (absent) with 4725 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 12300 Tournament chips.
+river5150, at seat 5, is in this hand with 14822 Tournament chips.
+luckykarma, at seat 6, is in this hand with 6879 Tournament chips.
+Nelly7, at seat 7, is in this hand with 4663 Tournament chips.
+hdsteve, at seat 8, is in this hand with 12464 Tournament chips.
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+Dealt to QwertySpark [ 8c Js ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+Plumbnator folds [200 Tournament chips]
+river5150 folds [200 Tournament chips]
+(Sharknchips1 has entered the table, is no longer absent.)
+luckykarma folds [200 Tournament chips]
+Nelly7 folds [200 Tournament chips]
+hdsteve folds [200 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+Sharknchips1 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (8c Js: jack high)
+QwertySpark wins main pot 575 Tournament chips.
+(Sharknchips1 has entered the table, is no longer absent.)
+Seat 0: QwertySpark (35947 Tournament chips) 
+Seat 2: Sharknchips1 (4725 Tournament chips) 
+Seat 4: Plumbnator (12300 Tournament chips) 
+Seat 5: river5150 (14822 Tournament chips) 
+Seat 6: luckykarma (6879 Tournament chips) 
+Seat 7: Nelly7 (4663 Tournament chips) 
+Seat 8: hdsteve (12464 Tournament chips) 
+Game #23937052-24 ends
+Game #23937052-25 starts
+Seat 0: QwertySpark (35947 Tournament chips) 
+Seat 2: Sharknchips1 (4725 Tournament chips) 
+Seat 4: Plumbnator (12300 Tournament chips) 
+Seat 5: river5150 (14822 Tournament chips) 
+Seat 6: luckykarma (6879 Tournament chips) 
+Seat 7: Nelly7 (4663 Tournament chips) 
+Seat 8: hdsteve (12464 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 25 Tournament chips
+Sharknchips1 posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+Plumbnator posted ante of 25 Tournament chips
+luckykarma posted ante of 25 Tournament chips
+Nelly7 posted ante of 25 Tournament chips
+hdsteve posted ante of 25 Tournament chips
+The button is moved to seat 0.
+Sharknchips1 posts the small blind [100 Tournament chips]
+Plumbnator posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35922 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 4600 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 12075 Tournament chips.
+river5150, at seat 5, is in this hand with 14797 Tournament chips.
+luckykarma, at seat 6, is in this hand with 6854 Tournament chips.
+Nelly7, at seat 7, is in this hand with 4638 Tournament chips.
+hdsteve, at seat 8, is in this hand with 12439 Tournament chips.
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Dealt to QwertySpark [ Tc 8h ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+river5150 folds [200 Tournament chips]
+luckykarma folds [200 Tournament chips]
+Nelly7 folds [200 Tournament chips]
+hdsteve calls [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Sharknchips1 folds [100 Tournament chips]
+Plumbnator raises [875 Tournament chips]
+hdsteve calls [875 Tournament chips]
+QwertySpark folds [875 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 9c ] board:[ Ts 9c]
+** Dealing Flop ** [ 3d ] board:[ Ts 9c 3d]
+Plumbnator bets for 1312 Tournament chips
+hdsteve folds [1312 Tournament chips]
+Plumbnator is returned 1312 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Plumbnator (Js Kc Ts 9c 3d: king high)
+Plumbnator wins main pot 2625 Tournament chips.
+Seat 0: QwertySpark (35722 Tournament chips) 
+Seat 2: Sharknchips1 (4600 Tournament chips) 
+Seat 4: Plumbnator (13825 Tournament chips) 
+Seat 5: river5150 (14797 Tournament chips) 
+Seat 6: luckykarma (6854 Tournament chips) 
+Seat 7: Nelly7 (4638 Tournament chips) 
+Seat 8: hdsteve (11364 Tournament chips) 
+Game #23937052-25 ends
+Game #23937052-26 starts
+Seat 0: QwertySpark (35722 Tournament chips) 
+Seat 2: Sharknchips1 (4600 Tournament chips) 
+Seat 4: Plumbnator (13825 Tournament chips) 
+Seat 5: river5150 (14797 Tournament chips) 
+Seat 6: luckykarma (6854 Tournament chips) 
+Seat 7: Nelly7 (4638 Tournament chips) 
+Seat 8: hdsteve (11364 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 25 Tournament chips
+Sharknchips1 posted ante of 25 Tournament chips
+Plumbnator posted ante of 25 Tournament chips
+river5150 posted ante of 25 Tournament chips
+luckykarma posted ante of 25 Tournament chips
+Nelly7 posted ante of 25 Tournament chips
+hdsteve posted ante of 25 Tournament chips
+The button is moved to seat 2.
+Plumbnator posts the small blind [100 Tournament chips]
+river5150 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35697 Tournament chips.
+Sharknchips1, at seat 2, is in this hand with 4575 Tournament chips.
+Plumbnator, at seat 4, is in this hand with 13700 Tournament chips.
+river5150, at seat 5, is in this hand with 14572 Tournament chips.
+luckykarma, at seat 6, is in this hand with 6829 Tournament chips.
+Nelly7, at seat 7, is in this hand with 4613 Tournament chips.
+hdsteve, at seat 8, is in this hand with 11339 Tournament chips.
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Plumbnator is dealt: **
+river5150 is dealt: **
+luckykarma is dealt: **
+Nelly7 is dealt: **
+hdsteve is dealt: **
+
+Sharknchips1 is dealt: **
+Dealt to QwertySpark [ Th Kc ]
+Dealt to Sharknchips1 [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to river5150 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to Nelly7 [ **** ]
+Dealt to hdsteve [ **** ]
+luckykarma folds [200 Tournament chips]
+Nelly7 calls [200 Tournament chips]
+hdsteve raises [1000 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+Sharknchips1 calls [1000 Tournament chips]
+Plumbnator folds [900 Tournament chips]
+river5150 folds [800 Tournament chips]
+Nelly7 calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 3s ] board:[ 5c 3s]
+** Dealing Flop ** [ 4s ] board:[ 5c 3s 4s]
+Nelly7 bets for 400 Tournament chips
+hdsteve raises all-in [10339 Tournament chips]
+Sharknchips1 calls all-in [3575 Tournament chips]
+Nelly7 calls all-in [3213 Tournament chips]
+hdsteve is returned 6726 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Sharknchips1 shows [ 5s Ac ]
+Nelly7 shows [ 6s Qs ]
+hdsteve shows [ 9h 9s ]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 5c 3s 4s 9c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 5c 3s 4s 9c 8c]
+        (no action in this round)
+Round 4 is over.
+Sharknchips1 shows [ 5s Ac ] a pair of fives, ace/nine kickers
+Nelly7 shows [ 6s Qs ] queen/nine/eight high
+hdsteve shows [ 9h 9s ] three nines, eight/five kickers
+hdsteve wins main pot 14200 Tournament chips with three nines, eight/five kickers.
+hdsteve wins side pot #1 76 Tournament chips with three nines, eight/five kickers.
+Seat 0: QwertySpark (35697 Tournament chips) 
+Seat 2: Sharknchips1 (0 Tournament chips) 
+Seat 4: Plumbnator (13700 Tournament chips) 
+Seat 5: river5150 (14572 Tournament chips) 
+Seat 6: luckykarma (6829 Tournament chips) 
+Seat 7: Nelly7 (0 Tournament chips) 
+Seat 8: hdsteve (21002 Tournament chips) 
+Game #23937052-26 ends
+Player Sharknchips1 leaves the table with 0 Tournament chips
+Player Nelly7 leaves the table with 0 Tournament chips
+Player Plumbnator leaves the table with 13700 Tournament chips
+Player QwertySpark leaves the table with 35697 Tournament chips
+Player hdsteve leaves the table with 21002 Tournament chips
+Player river5150 leaves the table with 14572 Tournament chips
+Player luckykarma leaves the table with 6829 Tournament chips

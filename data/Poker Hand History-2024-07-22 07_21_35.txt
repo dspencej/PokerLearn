@@ -1,0 +1,3039 @@
+Game#: 23915013
+IMMORTAL71121 calls [50 Tournament chips]
+walterriceii folds [45 Tournament chips]
+HAWK0787 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Ts ] board:[ 2h Ts]
+** Dealing Flop ** [ 3h ] board:[ 2h Ts 3h]
+HAWK0787 checks
+mulberrytrees checks
+IMMORTAL71121 checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 2h Ts 3h 8c]
+HAWK0787 bets for 77 Tournament chips
+mulberrytrees calls [77 Tournament chips]
+IMMORTAL71121 folds [77 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 2h Ts 3h 8c 2s]
+HAWK0787 bets for 154 Tournament chips
+mulberrytrees calls [154 Tournament chips]
+Round 4 is over.
+HAWK0787 shows [ 3s Kh ] two pair, threes and deuces
+Hand evaluation for HAWK0787 (3s Kh 2h 3h 2s: two pair, threes and deuces)
+mulberrytrees shows [ Ac 8h ] two pair, eights and deuces
+Hand evaluation for mulberrytrees (Ac 8h 2h 8c 2s: two pair, eights and deuces)
+mulberrytrees wins main pot 617 Tournament chips with two pair, eights and deuces, ace kicker.
+Seat 0: Emperiono (2500 Tournament chips) 
+Seat 1: IMMORTAL71121 (2450 Tournament chips) 
+Seat 2: mjsnook (7500 Tournament chips) 
+Seat 3: QwertySpark (2485 Tournament chips) 
+Seat 4: walterriceii (2495 Tournament chips) 
+Seat 5: HAWK0787 (2219 Tournament chips) 
+Seat 6: radrrick (2500 Tournament chips) 
+Seat 7: Mana (2500 Tournament chips) 
+Seat 8: mulberrytrees (2836 Tournament chips) 
+Game #23915013-1 ends
+Game #23915013-2 starts
+Seat 0: Emperiono (2500 Tournament chips) 
+Seat 1: IMMORTAL71121 (2450 Tournament chips) 
+Seat 2: mjsnook (7500 Tournament chips) 
+Seat 3: QwertySpark (2485 Tournament chips) 
+Seat 4: walterriceii (2495 Tournament chips) 
+Seat 5: HAWK0787 (2219 Tournament chips) 
+Seat 6: radrrick (2500 Tournament chips) 
+Seat 7: Mana (2500 Tournament chips) 
+Seat 8: mulberrytrees (2836 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 4.
+HAWK0787 posts the small blind [5 Tournament chips]
+radrrick posts the big blind [10 Tournament chips]
+Emperiono, at seat 0, is in this hand with 2500 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2450 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2485 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2495 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2214 Tournament chips.
+radrrick, at seat 6, is in this hand with 2490 Tournament chips.
+Mana, at seat 7, is in this hand with 2500 Tournament chips.
+mulberrytrees, at seat 8, is in this hand with 2836 Tournament chips.
+HAWK0787 is dealt: **
+radrrick is dealt: **
+Mana is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+radrrick is dealt: **
+Mana is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 9d Qd ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to radrrick [ **** ]
+Dealt to Mana [ **** ]
+Dealt to mulberrytrees [ **** ]
+Mana folds [10 Tournament chips]
+mulberrytrees calls [10 Tournament chips]
+Emperiono folds [10 Tournament chips]
+IMMORTAL71121 folds [10 Tournament chips]
+mjsnook calls [10 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+walterriceii calls [60 Tournament chips]
+HAWK0787 calls [55 Tournament chips]
+radrrick folds [50 Tournament chips]
+mulberrytrees calls [50 Tournament chips]
+mjsnook calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Ad ] board:[ 5s Ad]
+** Dealing Flop ** [ Tc ] board:[ 5s Ad Tc]
+HAWK0787 checks
+mulberrytrees bets for 360 Tournament chips
+mjsnook folds [360 Tournament chips]
+QwertySpark folds [360 Tournament chips]
+walterriceii folds [360 Tournament chips]
+HAWK0787 folds [360 Tournament chips]
+mulberrytrees is returned 360 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for mulberrytrees (As Jh 5s Ad Tc: a pair of aces)
+mulberrytrees wins main pot 310 Tournament chips.
+Seat 0: Emperiono (2500 Tournament chips) 
+Seat 1: IMMORTAL71121 (2450 Tournament chips) 
+Seat 2: mjsnook (7440 Tournament chips) 
+Seat 3: QwertySpark (2425 Tournament chips) 
+Seat 4: walterriceii (2435 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: radrrick (2490 Tournament chips) 
+Seat 7: Mana (2500 Tournament chips) 
+Seat 8: mulberrytrees (3086 Tournament chips) 
+Game #23915013-2 ends
+Player Mana leaves the table with 2500 Tournament chips
+Game #23915013-3 starts
+Seat 0: Emperiono (2500 Tournament chips) 
+Seat 1: IMMORTAL71121 (2450 Tournament chips) 
+Seat 2: mjsnook (7440 Tournament chips) 
+Seat 3: QwertySpark (2425 Tournament chips) 
+Seat 4: walterriceii (2435 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: radrrick (2490 Tournament chips) 
+Seat 8: mulberrytrees (3086 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+radrrick posts the small blind [10 Tournament chips]
+mulberrytrees posts the big blind [20 Tournament chips]
+Emperiono, at seat 0, is in this hand with 2500 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2450 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7440 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2425 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2435 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2159 Tournament chips.
+radrrick, at seat 6, is in this hand (absent) with 2480 Tournament chips.
+mulberrytrees, at seat 8, is in this hand with 3066 Tournament chips.
+radrrick is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+radrrick is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ As 3h ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to radrrick [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono calls [20 Tournament chips]
+IMMORTAL71121 calls [20 Tournament chips]
+mjsnook calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+walterriceii folds [20 Tournament chips]
+HAWK0787 folds [20 Tournament chips]
+radrrick folds [10 Tournament chips]
+mulberrytrees checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6d ] board:[ 6s 6d]
+** Dealing Flop ** [ 3c ] board:[ 6s 6d 3c]
+mulberrytrees checks
+Emperiono bets for 60 Tournament chips
+IMMORTAL71121 folds [60 Tournament chips]
+mjsnook calls [60 Tournament chips]
+QwertySpark raises [350 Tournament chips]
+mulberrytrees folds [350 Tournament chips]
+Emperiono calls [290 Tournament chips]
+mjsnook folds [290 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 6s 6d 3c 2s]
+Emperiono checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 6s 6d 3c 2s 5h]
+Emperiono bets for 870 Tournament chips
+QwertySpark calls [870 Tournament chips]
+Round 4 is over.
+Emperiono shows [ 4h 4c ] straight, six high
+Hand evaluation for Emperiono (4h 6s 3c 2s 5h: straight, six high)
+QwertySpark doesn't show [ As 3h ]
+(QwertySpark has As 3h.)
+Emperiono wins main pot 2610 Tournament chips with straight, six high.
+Seat 0: Emperiono (3870 Tournament chips) 
+Seat 1: IMMORTAL71121 (2430 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2435 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: radrrick (2480 Tournament chips) 
+Seat 7: dabeast7 (2500 Tournament chips) 
+Seat 8: mulberrytrees (3066 Tournament chips) 
+Game #23915013-3 ends
+Player radrrick leaves the table with 2480 Tournament chips
+Game #23915013-4 starts
+Seat 0: Emperiono (3870 Tournament chips) 
+Seat 1: IMMORTAL71121 (2430 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2435 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 7: dabeast7 (2500 Tournament chips) 
+Seat 8: mulberrytrees (3066 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+mulberrytrees posts the small blind [10 Tournament chips]
+Emperiono posts the big blind [20 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3850 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2430 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7360 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1185 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2435 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2159 Tournament chips.
+mulberrytrees, at seat 8, is in this hand with 3056 Tournament chips.
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 5c Td ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to mulberrytrees [ **** ]
+IMMORTAL71121 folds [20 Tournament chips]
+mjsnook folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+walterriceii calls [20 Tournament chips]
+HAWK0787 folds [20 Tournament chips]
+mulberrytrees calls [10 Tournament chips]
+Emperiono checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 9h ] board:[ Tc 9h]
+** Dealing Flop ** [ Qh ] board:[ Tc 9h Qh]
+mulberrytrees checks
+Emperiono checks
+walterriceii checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ Tc 9h Qh Kh]
+mulberrytrees checks
+Emperiono checks
+walterriceii bets for 20 Tournament chips
+mulberrytrees calls [20 Tournament chips]
+Emperiono folds [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Tc 9h Qh Kh 5d]
+mulberrytrees checks
+walterriceii bets for 100 Tournament chips
+mulberrytrees calls [100 Tournament chips]
+Round 4 is over.
+walterriceii shows [ Th Jh ] straight flush, king high
+Hand evaluation for walterriceii (Th Jh 9h Qh Kh: straight flush, king high)
+mulberrytrees doesn't show [ 3h Kd ]
+(mulberrytrees has 3h Kd.)
+walterriceii wins main pot 300 Tournament chips with straight flush, king high.
+Seat 0: Emperiono (3850 Tournament chips) 
+Seat 1: IMMORTAL71121 (2430 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2500 Tournament chips) 
+Seat 7: dabeast7 (2500 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-4 ends
+Game #23915013-5 starts
+Seat 0: Emperiono (3850 Tournament chips) 
+Seat 1: IMMORTAL71121 (2430 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2500 Tournament chips) 
+Seat 7: dabeast7 (2500 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Emperiono posts the small blind [10 Tournament chips]
+IMMORTAL71121 posts the big blind [20 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3840 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2410 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7360 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1185 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2595 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2159 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2500 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2500 Tournament chips.
+mulberrytrees, at seat 8, is in this hand with 2926 Tournament chips.
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 9s 6s ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mjsnook folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+walterriceii folds [20 Tournament chips]
+HAWK0787 folds [20 Tournament chips]
+pokerdealer47 folds [20 Tournament chips]
+dabeast7 calls [20 Tournament chips]
+mulberrytrees raises [90 Tournament chips]
+Emperiono calls [80 Tournament chips]
+IMMORTAL71121 calls [70 Tournament chips]
+dabeast7 folds [70 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Kc ] board:[ 4s Kc]
+** Dealing Flop ** [ 3c ] board:[ 4s Kc 3c]
+Emperiono checks
+IMMORTAL71121 checks
+mulberrytrees bets for 145 Tournament chips
+Emperiono folds [145 Tournament chips]
+IMMORTAL71121 calls [145 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 4s Kc 3c Qc]
+IMMORTAL71121 checks
+mulberrytrees checks
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 4s Kc 3c Qc 5d]
+IMMORTAL71121 checks
+mulberrytrees bets for 386 Tournament chips
+IMMORTAL71121 folds [386 Tournament chips]
+mulberrytrees is returned 386 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for mulberrytrees (Ks Qd Kc Qc 5d: two pair, kings and queens)
+mulberrytrees wins main pot 580 Tournament chips.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2195 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2500 Tournament chips) 
+Seat 7: dabeast7 (2480 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-5 ends
+Game #23915013-6 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2195 Tournament chips) 
+Seat 2: mjsnook (7360 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2500 Tournament chips) 
+Seat 7: dabeast7 (2480 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+IMMORTAL71121 posts the small blind [10 Tournament chips]
+mjsnook posts the big blind [20 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2185 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7340 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1185 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2595 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2159 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2500 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2480 Tournament chips.
+mulberrytrees, at seat 8, is in this hand with 3271 Tournament chips.
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Qs 5d ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+QwertySpark folds [20 Tournament chips]
+walterriceii folds [20 Tournament chips]
+HAWK0787 folds [20 Tournament chips]
+pokerdealer47 calls [20 Tournament chips]
+dabeast7 calls [20 Tournament chips]
+mulberrytrees folds [20 Tournament chips]
+Emperiono folds [20 Tournament chips]
+IMMORTAL71121 folds [10 Tournament chips]
+mjsnook checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6h ] board:[ 8h 6h]
+** Dealing Flop ** [ Jc ] board:[ 8h 6h Jc]
+mjsnook checks
+pokerdealer47 checks
+dabeast7 checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 8h 6h Jc Ac]
+mjsnook checks
+pokerdealer47 checks
+dabeast7 checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 8h 6h Jc Ac Jh]
+mjsnook checks
+pokerdealer47 checks
+dabeast7 checks
+Round 4 is over.
+mjsnook shows [ 7c 9d ] a pair of jacks
+Hand evaluation for mjsnook (9d 8h Jc Ac Jh: a pair of jacks)
+pokerdealer47 shows [ 8c 7d ] two pair, jacks and eights
+Hand evaluation for pokerdealer47 (8c 8h Jc Ac Jh: two pair, jacks and eights)
+dabeast7 doesn't show [ Ks 5c ]
+(dabeast7 has Ks 5c.)
+pokerdealer47 wins main pot 70 Tournament chips with two pair, jacks and eights, ace kicker.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2185 Tournament chips) 
+Seat 2: mjsnook (7340 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2550 Tournament chips) 
+Seat 7: dabeast7 (2460 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-6 ends
+Game #23915013-7 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2185 Tournament chips) 
+Seat 2: mjsnook (7340 Tournament chips) 
+Seat 3: QwertySpark (1185 Tournament chips) 
+Seat 4: walterriceii (2595 Tournament chips) 
+Seat 5: HAWK0787 (2159 Tournament chips) 
+Seat 6: pokerdealer47 (2550 Tournament chips) 
+Seat 7: dabeast7 (2460 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+mjsnook posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2185 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7330 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1165 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2595 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2159 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2550 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2460 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3271 Tournament chips.
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 6s 8c ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+walterriceii calls [20 Tournament chips]
+HAWK0787 calls [20 Tournament chips]
+pokerdealer47 calls [20 Tournament chips]
+dabeast7 calls [20 Tournament chips]
+mulberrytrees folds [20 Tournament chips]
+pokerdealer47: lets go kiddies play or sit out
+Emperiono folds [20 Tournament chips]
+IMMORTAL71121 folds [20 Tournament chips]
+mjsnook folds [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Qc ] board:[ Jd Qc]
+** Dealing Flop ** [ 8h ] board:[ Jd Qc 8h]
+QwertySpark checks
+walterriceii checks
+HAWK0787 checks
+pokerdealer47 goes all-in for 2530 Tournament chips
+dabeast7 folds [2440 Tournament chips]
+QwertySpark folds [1165 Tournament chips]
+walterriceii folds [2530 Tournament chips]
+HAWK0787 folds [2139 Tournament chips]
+pokerdealer47 is returned 2530 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for pokerdealer47 (8d Js Jd Qc 8h: two pair, jacks and eights)
+pokerdealer47: LETS GO KID PLAY OR SIT OUT
+pokerdealer47 wins main pot 110 Tournament chips.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2185 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (1165 Tournament chips) 
+Seat 4: walterriceii (2575 Tournament chips) 
+Seat 5: HAWK0787 (2139 Tournament chips) 
+Seat 6: pokerdealer47 (2640 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-7 ends
+Game #23915013-8 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2185 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (1165 Tournament chips) 
+Seat 4: walterriceii (2575 Tournament chips) 
+Seat 5: HAWK0787 (2139 Tournament chips) 
+Seat 6: pokerdealer47 (2640 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [15 Tournament chips]
+walterriceii posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2185 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7330 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1150 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2545 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2139 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2640 Tournament chips.
+dabeast7, at seat 7, is in this hand (absent) with 2440 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3271 Tournament chips.
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 5h 6s ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+HAWK0787 calls [30 Tournament chips]
+pokerdealer47 calls [30 Tournament chips]
+dabeast7 folds [30 Tournament chips]
+mulberrytrees folds [30 Tournament chips]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 calls [30 Tournament chips]
+mjsnook folds [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+walterriceii checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 3c ] board:[ Js 3c]
+** Dealing Flop ** [ 7c ] board:[ Js 3c 7c]
+QwertySpark checks
+walterriceii checks
+HAWK0787 bets for 60 Tournament chips
+pokerdealer47 folds [60 Tournament chips]
+pokerdealer47: guess its report time
+IMMORTAL71121 folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+walterriceii calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Js 3c 7c 5s]
+QwertySpark bets for 120 Tournament chips
+walterriceii folds [120 Tournament chips]
+HAWK0787 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Js 3c 7c 5s Jh]
+QwertySpark checks
+HAWK0787 bets for 379 Tournament chips
+QwertySpark calls [379 Tournament chips]
+Round 4 is over.
+HAWK0787 shows [ Qs 7s ] two pair, jacks and sevens
+Hand evaluation for HAWK0787 (Qs 7s Js 7c Jh: two pair, jacks and sevens)
+QwertySpark doesn't show [ 5h 6s ]
+(QwertySpark has 5h 6s.)
+HAWK0787 wins main pot 1328 Tournament chips with two pair, jacks and sevens, queen kicker.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2155 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2485 Tournament chips) 
+Seat 5: HAWK0787 (2878 Tournament chips) 
+Seat 6: pokerdealer47 (2610 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-8 ends
+Game #23915013-9 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2155 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2485 Tournament chips) 
+Seat 5: HAWK0787 (2878 Tournament chips) 
+Seat 6: pokerdealer47 (2610 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+walterriceii posts the small blind [15 Tournament chips]
+HAWK0787 posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2155 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7330 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 576 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2470 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2848 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2610 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2440 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3271 Tournament chips.
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 6h Ts ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+(IMMORTAL71121 has entered the table, is no longer absent.)
+pokerdealer47 calls [30 Tournament chips]
+pokerdealer47: REPORTED
+dabeast7 folds [30 Tournament chips]
+mulberrytrees folds [30 Tournament chips]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 calls [30 Tournament chips]
+mjsnook folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+walterriceii calls [15 Tournament chips]
+HAWK0787 checks
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 3s ] board:[ 6d 3s]
+** Dealing Flop ** [ 4c ] board:[ 6d 3s 4c]
+walterriceii checks
+HAWK0787 checks
+pokerdealer47 checks
+IMMORTAL71121 checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 6d 3s 4c 5c]
+walterriceii checks
+HAWK0787 bets for 60 Tournament chips
+pokerdealer47 calls [60 Tournament chips]
+IMMORTAL71121 folds [60 Tournament chips]
+walterriceii folds [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 6d 3s 4c 5c 4d]
+HAWK0787 bets for 240 Tournament chips
+pokerdealer47 folds [240 Tournament chips]
+HAWK0787 is returned 240 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for HAWK0787 (2c 6d 3s 4c 5c: straight, six high)
+HAWK0787 wins main pot 240 Tournament chips.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (3028 Tournament chips) 
+Seat 6: pokerdealer47 (2520 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-9 ends
+Game #23915013-10 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7330 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (3028 Tournament chips) 
+Seat 6: pokerdealer47 (2520 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+HAWK0787 posts the small blind [15 Tournament chips]
+pokerdealer47 posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2125 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7330 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 576 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2455 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3013 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2490 Tournament chips.
+dabeast7, at seat 7, is in this hand (absent) with 2440 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3271 Tournament chips.
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 4s 3d ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+dabeast7 folds [30 Tournament chips]
+mulberrytrees folds [30 Tournament chips]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 folds [30 Tournament chips]
+mjsnook calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+walterriceii folds [30 Tournament chips]
+HAWK0787 calls [15 Tournament chips]
+pokerdealer47 checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 6c ] board:[ 4d 6c]
+** Dealing Flop ** [ 3h ] board:[ 4d 6c 3h]
+HAWK0787 checks
+pokerdealer47 checks
+mjsnook bets for 90 Tournament chips
+HAWK0787 folds [90 Tournament chips]
+pokerdealer47 calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 4d 6c 3h Qh]
+pokerdealer47 checks
+mjsnook bets for 135 Tournament chips
+pokerdealer47 calls [135 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 4d 6c 3h Qh 2c]
+pokerdealer47 goes all-in for 2265 Tournament chips
+mjsnook folds [2265 Tournament chips]
+pokerdealer47 is returned 2265 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for pokerdealer47 (5s 4d 6c 3h 2c: straight, six high)
+pokerdealer47 wins main pot 540 Tournament chips.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (2998 Tournament chips) 
+Seat 6: pokerdealer47 (2805 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-10 ends
+pokerdealer47: REPORTED
+Game #23915013-11 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (576 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (2998 Tournament chips) 
+Seat 6: pokerdealer47 (2805 Tournament chips) 
+Seat 7: dabeast7 (2440 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+pokerdealer47 posts the small blind [15 Tournament chips]
+dabeast7 posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2125 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7075 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 576 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2455 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2998 Tournament chips.
+pokerdealer47, at seat 6, is in this hand with 2790 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2410 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3271 Tournament chips.
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+pokerdealer47 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Kh Ts ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to pokerdealer47 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mulberrytrees folds [30 Tournament chips]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 folds [30 Tournament chips]
+mjsnook folds [30 Tournament chips]
+QwertySpark raises all-in [576 Tournament chips]
+walterriceii folds [576 Tournament chips]
+HAWK0787 calls [576 Tournament chips]
+pokerdealer47 calls [561 Tournament chips]
+dabeast7 folds [546 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 8s ] board:[ Jc 8s]
+** Dealing Flop ** [ Qd ] board:[ Jc 8s Qd]
+pokerdealer47 goes all-in for 2229 Tournament chips
+HAWK0787 calls [2229 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kh Ts ]
+HAWK0787 shows [ Jh Ks ]
+pokerdealer47 shows [ 8h 5h ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Jc 8s Qd 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Jc 8s Qd 6h Ad]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kh Ts ] straight, ace high
+HAWK0787 shows [ Jh Ks ] a pair of jacks, ace/king kickers
+pokerdealer47 shows [ 8h 5h ] a pair of eights, ace/queen kickers
+QwertySpark wins main pot 1758 Tournament chips with straight, ace high.
+HAWK0787 wins side pot #1 4458 Tournament chips with a pair of jacks, ace/king kickers.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1758 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 6: pokerdealer47 (0 Tournament chips) 
+Seat 7: dabeast7 (2410 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+Game #23915013-11 ends
+Player pokerdealer47 leaves the table with 0 Tournament chips
+Game #23915013-12 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1758 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (2410 Tournament chips) 
+Seat 8: mulberrytrees (3271 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+dabeast7 posts the small blind [15 Tournament chips]
+mulberrytrees posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3760 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2125 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7075 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1758 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2455 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4651 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2395 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3241 Tournament chips.
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Ad Qs ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 folds [30 Tournament chips]
+mjsnook folds [30 Tournament chips]
+QwertySpark raises [330 Tournament chips]
+walterriceii folds [330 Tournament chips]
+HAWK0787 folds [330 Tournament chips]
+dabeast7 folds [315 Tournament chips]
+mulberrytrees folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad Qs: ace high)
+QwertySpark wins main pot 75 Tournament chips.
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (2395 Tournament chips) 
+Seat 8: mulberrytrees (3241 Tournament chips) 
+Game #23915013-12 ends
+Game #23915013-13 starts
+Seat 0: Emperiono (3760 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 4: walterriceii (2455 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (2395 Tournament chips) 
+Seat 8: mulberrytrees (3241 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+mulberrytrees posts the small blind [15 Tournament chips]
+Emperiono posts the big blind [30 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3730 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2125 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7075 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1803 Tournament chips.
+walterriceii, at seat 4, is in this hand with 2455 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4651 Tournament chips.
+dabeast7, at seat 7, is in this hand with 2395 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Tc 6s ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+IMMORTAL71121 folds [30 Tournament chips]
+mjsnook folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+walterriceii raises [105 Tournament chips]
+HAWK0787 folds [105 Tournament chips]
+dabeast7 calls [105 Tournament chips]
+mulberrytrees folds [90 Tournament chips]
+Emperiono folds [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 7d ] board:[ Ac 7d]
+** Dealing Flop ** [ 5d ] board:[ Ac 7d 5d]
+walterriceii bets for 255 Tournament chips
+dabeast7 calls [255 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Ac 7d 5d 3h]
+walterriceii bets for 765 Tournament chips
+dabeast7 calls [765 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Ac 7d 5d 3h 5s]
+walterriceii bets for 30 Tournament chips
+dabeast7 raises [60 Tournament chips]
+walterriceii raises all-in [1300 Tournament chips]
+dabeast7 calls all-in [1210 Tournament chips]
+walterriceii is returned 60 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+walterriceii shows [ As Ks ]
+dabeast7 shows [ Ah 7c ]
+Round 4 is over.
+walterriceii shows [ As Ks ] two pair, aces and fives, king kicker
+dabeast7 shows [ Ah 7c ] two pair, aces and sevens, five kicker
+dabeast7 wins main pot 4835 Tournament chips with two pair, aces and sevens, five kicker.
+Seat 0: Emperiono (3730 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 4: walterriceii (60 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4835 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-13 ends
+Game #23915013-14 starts
+Seat 0: Emperiono (3730 Tournament chips) 
+Seat 1: IMMORTAL71121 (2125 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 4: walterriceii (60 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4835 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Emperiono posts the small blind [20 Tournament chips]
+IMMORTAL71121 posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2085 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7075 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1803 Tournament chips.
+walterriceii, at seat 4, is in this hand with 60 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4651 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4835 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+walterriceii is dealt: **
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 3c 6d ]
+Dealt to walterriceii [ **** ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mjsnook folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+walterriceii raises all-in [60 Tournament chips]
+HAWK0787 folds [60 Tournament chips]
+dabeast7 calls [60 Tournament chips]
+mulberrytrees folds [60 Tournament chips]
+Emperiono folds [40 Tournament chips]
+IMMORTAL71121 folds [20 Tournament chips]
+Tournament all-in showdown -- players show:
+walterriceii shows [ 8d 8h ]
+dabeast7 shows [ 8s Js ]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 4s ] board:[ 2c 4s]
+** Dealing Flop ** [ Jh ] board:[ 2c 4s Jh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 2c 4s Jh 7d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 2c 4s Jh 7d Jc]
+        (no action in this round)
+Round 4 is over.
+walterriceii shows [ 8d 8h ] two pair, jacks and eights, seven kicker
+dabeast7 shows [ 8s Js ] three jacks, eight/seven kickers
+dabeast7 wins main pot 180 Tournament chips with three jacks, eight/seven kickers.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2085 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 4: walterriceii (0 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4955 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-14 ends
+Player walterriceii leaves the table with 0 Tournament chips
+Game #23915013-15 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2085 Tournament chips) 
+Seat 2: mjsnook (7075 Tournament chips) 
+Seat 3: QwertySpark (1803 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4955 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+IMMORTAL71121 posts the small blind [20 Tournament chips]
+mjsnook posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7035 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1803 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4651 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4955 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 3h Ah ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+QwertySpark raises [160 Tournament chips]
+HAWK0787 folds [160 Tournament chips]
+dabeast7 calls [160 Tournament chips]
+mulberrytrees folds [160 Tournament chips]
+Emperiono folds [160 Tournament chips]
+IMMORTAL71121 folds [140 Tournament chips]
+mjsnook calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 9h ] board:[ 6d 9h]
+** Dealing Flop ** [ 5d ] board:[ 6d 9h 5d]
+mjsnook bets for 500 Tournament chips
+QwertySpark folds [500 Tournament chips]
+dabeast7 folds [500 Tournament chips]
+mjsnook is returned 500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for mjsnook (8d 9d 6d 9h 5d: a pair of nines)
+mjsnook wins main pot 500 Tournament chips.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7415 Tournament chips) 
+Seat 3: QwertySpark (1643 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4795 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-15 ends
+Game #23915013-16 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7415 Tournament chips) 
+Seat 3: QwertySpark (1643 Tournament chips) 
+Seat 5: HAWK0787 (4651 Tournament chips) 
+Seat 7: dabeast7 (4795 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+mjsnook posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7395 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1603 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4651 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4795 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Td 3s ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+HAWK0787 raises [140 Tournament chips]
+dabeast7 folds [140 Tournament chips]
+mulberrytrees folds [140 Tournament chips]
+Emperiono folds [140 Tournament chips]
+IMMORTAL71121 folds [140 Tournament chips]
+mjsnook folds [120 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 4h ] board:[ Kd 4h]
+** Dealing Flop ** [ Th ] board:[ Kd 4h Th]
+QwertySpark checks
+HAWK0787 bets for 150 Tournament chips
+QwertySpark calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Kd 4h Th 9h]
+QwertySpark bets for 400 Tournament chips
+HAWK0787 folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Td Kd 4h Th 9h: a pair of tens)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (1953 Tournament chips) 
+Seat 5: HAWK0787 (4361 Tournament chips) 
+Seat 7: dabeast7 (4795 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-16 ends
+Game #23915013-17 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (1953 Tournament chips) 
+Seat 5: HAWK0787 (4361 Tournament chips) 
+Seat 7: dabeast7 (4795 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [20 Tournament chips]
+HAWK0787 posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7395 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1933 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4321 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4795 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 5d 4s ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+dabeast7 calls [40 Tournament chips]
+mulberrytrees folds [40 Tournament chips]
+Emperiono folds [40 Tournament chips]
+IMMORTAL71121 folds [40 Tournament chips]
+mjsnook folds [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+HAWK0787 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 5h ] board:[ 5s 5h]
+** Dealing Flop ** [ Td ] board:[ 5s 5h Td]
+QwertySpark checks
+HAWK0787 bets for 40 Tournament chips
+dabeast7 folds [40 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+HAWK0787 folds [80 Tournament chips]
+QwertySpark is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (5d 4s 5s 5h Td: three fives)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2073 Tournament chips) 
+Seat 5: HAWK0787 (4281 Tournament chips) 
+Seat 7: dabeast7 (4755 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-17 ends
+Game #23915013-18 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2073 Tournament chips) 
+Seat 5: HAWK0787 (4281 Tournament chips) 
+Seat 7: dabeast7 (4755 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+HAWK0787 posts the small blind [20 Tournament chips]
+dabeast7 posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7395 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2073 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4261 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4715 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3226 Tournament chips.
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ As 9d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mulberrytrees folds [40 Tournament chips]
+Emperiono folds [40 Tournament chips]
+IMMORTAL71121 folds [40 Tournament chips]
+mjsnook folds [40 Tournament chips]
+QwertySpark raises [160 Tournament chips]
+HAWK0787 folds [140 Tournament chips]
+dabeast7 calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Kc ] board:[ 3d Kc]
+** Dealing Flop ** [ 7d ] board:[ 3d Kc 7d]
+dabeast7 checks
+QwertySpark bets for 170 Tournament chips
+dabeast7 calls [170 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 3d Kc 7d 2s]
+dabeast7 checks
+QwertySpark bets for 680 Tournament chips
+dabeast7 folds [680 Tournament chips]
+QwertySpark is returned 680 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (As 9d 3d Kc 7d: ace high)
+QwertySpark wins main pot 680 Tournament chips.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2423 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4425 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+Game #23915013-18 ends
+Game #23915013-19 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2423 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4425 Tournament chips) 
+Seat 8: mulberrytrees (3226 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+dabeast7 posts the small blind [20 Tournament chips]
+mulberrytrees posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3710 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7395 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2423 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4261 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4405 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3186 Tournament chips.
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 7h 6d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono folds [40 Tournament chips]
+IMMORTAL71121 folds [40 Tournament chips]
+mjsnook folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+HAWK0787 folds [40 Tournament chips]
+dabeast7 calls [20 Tournament chips]
+mulberrytrees folds
+round 1 is over.
+Hand evaluation for dabeast7 (Jd 8c: jack high)
+dabeast7 wins main pot 80 Tournament chips.
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2423 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3186 Tournament chips) 
+Game #23915013-19 ends
+Game #23915013-20 starts
+Seat 0: Emperiono (3710 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (7395 Tournament chips) 
+Seat 3: QwertySpark (2423 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3186 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+mulberrytrees posts the small blind [20 Tournament chips]
+Emperiono posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3670 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7395 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2423 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4261 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4465 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 7s Qs ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+IMMORTAL71121 folds [40 Tournament chips]
+mjsnook calls [40 Tournament chips]
+QwertySpark raises [160 Tournament chips]
+HAWK0787 folds [160 Tournament chips]
+dabeast7 folds [160 Tournament chips]
+mulberrytrees folds [140 Tournament chips]
+Emperiono calls [120 Tournament chips]
+mjsnook calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 4h ] board:[ Ts 4h]
+** Dealing Flop ** [ 2h ] board:[ Ts 4h 2h]
+Emperiono checks
+mjsnook bets for 250 Tournament chips
+QwertySpark calls [250 Tournament chips]
+Emperiono folds [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Ts 4h 2h Qd]
+mjsnook checks
+QwertySpark bets for 320 Tournament chips
+mjsnook folds [320 Tournament chips]
+QwertySpark is returned 320 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (7s Qs Ts 4h Qd: a pair of queens)
+QwertySpark wins main pot 1000 Tournament chips.
+Seat 0: Emperiono (3550 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (3013 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-20 ends
+Game #23915013-21 starts
+Seat 0: Emperiono (3550 Tournament chips) 
+Seat 1: IMMORTAL71121 (2065 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (3013 Tournament chips) 
+Seat 5: HAWK0787 (4261 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Emperiono posts the small blind [20 Tournament chips]
+IMMORTAL71121 posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3530 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2025 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6985 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3013 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4261 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4465 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 3h Jh ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mjsnook folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+HAWK0787 raises [80 Tournament chips]
+dabeast7 folds [80 Tournament chips]
+mulberrytrees folds [80 Tournament chips]
+Emperiono folds [60 Tournament chips]
+IMMORTAL71121 folds [40 Tournament chips]
+HAWK0787 is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for HAWK0787 (8s Ah: ace high)
+HAWK0787 wins main pot 100 Tournament chips.
+Seat 0: Emperiono (3530 Tournament chips) 
+Seat 1: IMMORTAL71121 (2025 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (3013 Tournament chips) 
+Seat 5: HAWK0787 (4321 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-21 ends
+Game #23915013-22 starts
+Seat 0: Emperiono (3530 Tournament chips) 
+Seat 1: IMMORTAL71121 (2025 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (3013 Tournament chips) 
+Seat 5: HAWK0787 (4321 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+IMMORTAL71121 posts the small blind [20 Tournament chips]
+mjsnook posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3530 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6945 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3013 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4321 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4465 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Kh Kd ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+QwertySpark raises [160 Tournament chips]
+HAWK0787 folds [160 Tournament chips]
+dabeast7 folds [160 Tournament chips]
+mulberrytrees folds [160 Tournament chips]
+Emperiono folds [160 Tournament chips]
+IMMORTAL71121 folds [140 Tournament chips]
+mjsnook folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kh Kd: a pair of kings)
+QwertySpark wins main pot 100 Tournament chips.
+Seat 0: Emperiono (3530 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6945 Tournament chips) 
+Seat 3: QwertySpark (3073 Tournament chips) 
+Seat 5: HAWK0787 (4321 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-22 ends
+Game #23915013-23 starts
+Seat 0: Emperiono (3530 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6945 Tournament chips) 
+Seat 3: QwertySpark (3073 Tournament chips) 
+Seat 5: HAWK0787 (4321 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+mjsnook posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Emperiono, at seat 0, is in this hand with 3530 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6925 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3033 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 4321 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4465 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Jc 6d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+HAWK0787 calls [40 Tournament chips]
+dabeast7 folds [40 Tournament chips]
+mulberrytrees folds [40 Tournament chips]
+Emperiono raises [140 Tournament chips]
+IMMORTAL71121 folds [140 Tournament chips]
+mjsnook calls [120 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+HAWK0787 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 3s ] board:[ 8c 3s]
+** Dealing Flop ** [ 5h ] board:[ 8c 3s 5h]
+mjsnook bets for 40 Tournament chips
+HAWK0787 calls [40 Tournament chips]
+Emperiono raises [620 Tournament chips]
+mjsnook folds [580 Tournament chips]
+HAWK0787 calls [580 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 8c 3s 5h 2d]
+HAWK0787 checks
+Emperiono goes all-in for 2770 Tournament chips
+HAWK0787 folds [2770 Tournament chips]
+Emperiono is returned 2770 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Emperiono (9h Kh 8c 3s 5h: king high)
+Emperiono wins main pot 1740 Tournament chips.
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6765 Tournament chips) 
+Seat 3: QwertySpark (3033 Tournament chips) 
+Seat 5: HAWK0787 (3561 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-23 ends
+Game #23915013-24 starts
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6765 Tournament chips) 
+Seat 3: QwertySpark (3033 Tournament chips) 
+Seat 5: HAWK0787 (3561 Tournament chips) 
+Seat 7: dabeast7 (4465 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [30 Tournament chips]
+HAWK0787 posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4510 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6765 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3003 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3501 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4465 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Qd Js ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+dabeast7 calls [60 Tournament chips]
+mulberrytrees folds [60 Tournament chips]
+Emperiono folds [60 Tournament chips]
+IMMORTAL71121 folds [60 Tournament chips]
+mjsnook calls [60 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+HAWK0787 checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5h ] board:[ Ts 5h]
+** Dealing Flop ** [ 2h ] board:[ Ts 5h 2h]
+QwertySpark checks
+HAWK0787 bets for 60 Tournament chips
+dabeast7 calls [60 Tournament chips]
+mjsnook folds [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Ts 5h 2h Td]
+QwertySpark bets for 120 Tournament chips
+HAWK0787 folds [120 Tournament chips]
+dabeast7 folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qd Js Ts 5h Td: a pair of tens)
+QwertySpark wins main pot 420 Tournament chips.
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6705 Tournament chips) 
+Seat 3: QwertySpark (3333 Tournament chips) 
+Seat 5: HAWK0787 (3441 Tournament chips) 
+Seat 7: dabeast7 (4345 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-24 ends
+Game #23915013-25 starts
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6705 Tournament chips) 
+Seat 3: QwertySpark (3333 Tournament chips) 
+Seat 5: HAWK0787 (3441 Tournament chips) 
+Seat 7: dabeast7 (4345 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+HAWK0787 posts the small blind [30 Tournament chips]
+dabeast7 posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4510 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6705 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3333 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3411 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4285 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3166 Tournament chips.
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 5d Td ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mulberrytrees folds [60 Tournament chips]
+Emperiono folds [60 Tournament chips]
+IMMORTAL71121 folds [60 Tournament chips]
+mjsnook calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+HAWK0787 folds [30 Tournament chips]
+dabeast7 checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5c ] board:[ Ts 5c]
+** Dealing Flop ** [ Kh ] board:[ Ts 5c Kh]
+dabeast7 checks
+mjsnook bets for 60 Tournament chips
+dabeast7 folds [60 Tournament chips]
+mjsnook is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for mjsnook (Th 8h Ts 5c Kh: a pair of tens)
+mjsnook wins main pot 150 Tournament chips.
+(dabeast7 has entered the table, is no longer absent.)
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6795 Tournament chips) 
+Seat 3: QwertySpark (3333 Tournament chips) 
+Seat 5: HAWK0787 (3411 Tournament chips) 
+Seat 7: dabeast7 (4285 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+Game #23915013-25 ends
+Game #23915013-26 starts
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (6795 Tournament chips) 
+Seat 3: QwertySpark (3333 Tournament chips) 
+Seat 5: HAWK0787 (3411 Tournament chips) 
+Seat 7: dabeast7 (4285 Tournament chips) 
+Seat 8: mulberrytrees (3166 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+dabeast7 posts the small blind [30 Tournament chips]
+mulberrytrees posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4510 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6795 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 3333 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3411 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4255 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3106 Tournament chips.
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Kc Qd ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono folds [60 Tournament chips]
+IMMORTAL71121 folds [60 Tournament chips]
+mjsnook calls [60 Tournament chips]
+QwertySpark raises [180 Tournament chips]
+HAWK0787 calls [180 Tournament chips]
+dabeast7 folds [150 Tournament chips]
+mulberrytrees folds [120 Tournament chips]
+mjsnook calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 8s ] board:[ Jh 8s]
+** Dealing Flop ** [ 9s ] board:[ Jh 8s 9s]
+mjsnook bets for 315 Tournament chips
+QwertySpark calls [315 Tournament chips]
+HAWK0787 folds [315 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Jh 8s 9s 2c]
+mjsnook goes all-in for 6300 Tournament chips
+QwertySpark folds [2838 Tournament chips]
+mjsnook is returned 6300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for mjsnook (Ts Jd Jh 8s 9s: a pair of jacks)
+mjsnook wins main pot 1260 Tournament chips.
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3231 Tournament chips) 
+Seat 7: dabeast7 (4255 Tournament chips) 
+Seat 8: mulberrytrees (3106 Tournament chips) 
+Game #23915013-26 ends
+Game #23915013-27 starts
+Seat 0: Emperiono (4510 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3231 Tournament chips) 
+Seat 7: dabeast7 (4255 Tournament chips) 
+Seat 8: mulberrytrees (3106 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+mulberrytrees posts the small blind [30 Tournament chips]
+Emperiono posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4450 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 2005 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7560 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2838 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3231 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4255 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Ac 7d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+IMMORTAL71121 folds [60 Tournament chips]
+mjsnook folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+HAWK0787 calls [60 Tournament chips]
+dabeast7 calls [60 Tournament chips]
+mulberrytrees folds [30 Tournament chips]
+Emperiono checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 6h ] board:[ 8h 6h]
+** Dealing Flop ** [ 8c ] board:[ 8h 6h 8c]
+Emperiono checks
+HAWK0787 bets for 100 Tournament chips
+dabeast7 folds [100 Tournament chips]
+Emperiono folds [100 Tournament chips]
+HAWK0787 is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for HAWK0787 (6s 5s 8h 6h 8c: two pair, eights and sixes)
+HAWK0787 wins main pot 210 Tournament chips.
+Seat 0: Emperiono (4450 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3381 Tournament chips) 
+Seat 7: dabeast7 (4195 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-27 ends
+Game #23915013-28 starts
+Seat 0: Emperiono (4450 Tournament chips) 
+Seat 1: IMMORTAL71121 (2005 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3381 Tournament chips) 
+Seat 7: dabeast7 (4195 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Emperiono posts the small blind [30 Tournament chips]
+IMMORTAL71121 posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4420 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1945 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7560 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2838 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3381 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4195 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 9h 8s ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mjsnook folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+HAWK0787 calls [60 Tournament chips]
+dabeast7 folds [60 Tournament chips]
+mulberrytrees folds [60 Tournament chips]
+Emperiono folds [30 Tournament chips]
+IMMORTAL71121 folds
+round 1 is over.
+Hand evaluation for HAWK0787 (Jc 8c: jack high)
+HAWK0787 wins main pot 150 Tournament chips.
+Seat 0: Emperiono (4420 Tournament chips) 
+Seat 1: IMMORTAL71121 (1945 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (4195 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-28 ends
+Game #23915013-29 starts
+Seat 0: Emperiono (4420 Tournament chips) 
+Seat 1: IMMORTAL71121 (1945 Tournament chips) 
+Seat 2: mjsnook (7560 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (4195 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+IMMORTAL71121 posts the small blind [30 Tournament chips]
+mjsnook posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4420 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2838 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3471 Tournament chips.
+dabeast7, at seat 7, is in this hand with 4195 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 9s Td ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+QwertySpark folds [60 Tournament chips]
+HAWK0787 folds [60 Tournament chips]
+dabeast7 calls [60 Tournament chips]
+mulberrytrees folds [60 Tournament chips]
+Emperiono folds [60 Tournament chips]
+IMMORTAL71121 folds [30 Tournament chips]
+mjsnook raises [60 Tournament chips]
+dabeast7 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 6s ] board:[ Tc 6s]
+** Dealing Flop ** [ 6d ] board:[ Tc 6s 6d]
+mjsnook checks
+dabeast7 checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Tc 6s 6d Qh]
+mjsnook bets for 270 Tournament chips
+dabeast7 calls [270 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Tc 6s 6d Qh Ad]
+mjsnook bets for 60 Tournament chips
+dabeast7 calls [60 Tournament chips]
+Round 4 is over.
+mjsnook shows [ Qd 8c ] two pair, queens and sixes
+Hand evaluation for mjsnook (Qd 6s 6d Qh Ad: two pair, queens and sixes)
+dabeast7 doesn't show [ Ts Kh ]
+(dabeast7 has Ts Kh.)
+mjsnook wins main pot 930 Tournament chips with two pair, queens and sixes, ace kicker.
+Seat 0: Emperiono (4420 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8040 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-29 ends
+Game #23915013-30 starts
+Seat 0: Emperiono (4420 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8040 Tournament chips) 
+Seat 3: QwertySpark (2838 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+mjsnook posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+Emperiono, at seat 0, is in this hand with 4420 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 8010 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2778 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3471 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3745 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Ad 9d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+HAWK0787 folds [60 Tournament chips]
+dabeast7 folds [60 Tournament chips]
+mulberrytrees folds [60 Tournament chips]
+Emperiono raises [150 Tournament chips]
+IMMORTAL71121 folds [150 Tournament chips]
+mjsnook folds [120 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 5s ] board:[ Jc 5s]
+** Dealing Flop ** [ 4h ] board:[ Jc 5s 4h]
+QwertySpark bets for 240 Tournament chips
+Emperiono calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Jc 5s 4h 9c]
+QwertySpark checks
+Emperiono bets for 525 Tournament chips
+QwertySpark calls [525 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Jc 5s 4h 9c 2c]
+QwertySpark bets for 600 Tournament chips
+Emperiono raises [2040 Tournament chips]
+QwertySpark folds [1323 Tournament chips]
+Emperiono is returned 1440 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Emperiono (3h Ah 5s 4h 2c: straight, five high)
+Emperiono wins main pot 3060 Tournament chips.
+Seat 0: Emperiono (5965 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8010 Tournament chips) 
+Seat 3: QwertySpark (1323 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-30 ends
+Game #23915013-31 starts
+Seat 0: Emperiono (5965 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8010 Tournament chips) 
+Seat 3: QwertySpark (1323 Tournament chips) 
+Seat 5: HAWK0787 (3471 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [50 Tournament chips]
+HAWK0787 posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 5965 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 8010 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1273 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3371 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3745 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 9c Jc ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+dabeast7 folds [100 Tournament chips]
+mulberrytrees folds [100 Tournament chips]
+Emperiono folds [100 Tournament chips]
+IMMORTAL71121 folds [100 Tournament chips]
+mjsnook calls [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+HAWK0787 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Jd ] board:[ 9h Jd]
+** Dealing Flop ** [ 2d ] board:[ 9h Jd 2d]
+QwertySpark bets for 100 Tournament chips
+HAWK0787 folds [100 Tournament chips]
+mjsnook folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9c Jc 9h Jd 2d: two pair, jacks and nines)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 0: Emperiono (5965 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7910 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (3371 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-31 ends
+Game #23915013-32 starts
+Seat 0: Emperiono (5965 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7910 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (3371 Tournament chips) 
+Seat 7: dabeast7 (3745 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+HAWK0787 posts the small blind [50 Tournament chips]
+dabeast7 posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 5965 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7910 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1523 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 3321 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3645 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 3076 Tournament chips.
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 2s 4h ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mulberrytrees folds [100 Tournament chips]
+Emperiono raises [200 Tournament chips]
+IMMORTAL71121 folds [200 Tournament chips]
+mjsnook folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+HAWK0787 calls [150 Tournament chips]
+dabeast7 folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 7h ] board:[ 3s 7h]
+** Dealing Flop ** [ 4c ] board:[ 3s 7h 4c]
+HAWK0787 checks
+Emperiono bets for 200 Tournament chips
+HAWK0787 calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 3s 7h 4c Ks]
+HAWK0787 checks
+Emperiono bets for 900 Tournament chips
+HAWK0787 calls [900 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 3s 7h 4c Ks Td]
+HAWK0787 checks
+Emperiono checks
+Round 4 is over.
+HAWK0787 shows [ Js 5s ] king high
+Hand evaluation for HAWK0787 (Js 5s 7h Ks Td: king high)
+Emperiono shows [ Ad 9s ] ace high
+Hand evaluation for Emperiono (Ad 9s 7h Ks Td: ace high)
+Emperiono wins main pot 2700 Tournament chips with ace/king/ten high.
+Seat 0: Emperiono (7365 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7910 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3645 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+Game #23915013-32 ends
+Game #23915013-33 starts
+Seat 0: Emperiono (7365 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7910 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3645 Tournament chips) 
+Seat 8: mulberrytrees (3076 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+dabeast7 posts the small blind [50 Tournament chips]
+mulberrytrees posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7365 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7910 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1523 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2071 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3595 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2976 Tournament chips.
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 4c Kh ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono folds [100 Tournament chips]
+IMMORTAL71121 folds [100 Tournament chips]
+mjsnook calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+HAWK0787 folds [100 Tournament chips]
+dabeast7 folds [50 Tournament chips]
+mulberrytrees folds
+round 1 is over.
+Hand evaluation for mjsnook (Qd 8c: queen high)
+mjsnook wins main pot 250 Tournament chips.
+Seat 0: Emperiono (7365 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8060 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3595 Tournament chips) 
+Seat 8: mulberrytrees (2976 Tournament chips) 
+Game #23915013-33 ends
+Game #23915013-34 starts
+Seat 0: Emperiono (7365 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (8060 Tournament chips) 
+Seat 3: QwertySpark (1523 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3595 Tournament chips) 
+Seat 8: mulberrytrees (2976 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+mulberrytrees posts the small blind [50 Tournament chips]
+Emperiono posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7265 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1915 Tournament chips.
+mjsnook, at seat 2, is in this hand with 8060 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1523 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2071 Tournament chips.
+dabeast7, at seat 7, is in this hand (absent) with 3595 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Qd Js ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+IMMORTAL71121 folds [100 Tournament chips]
+mjsnook calls [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+HAWK0787 folds [400 Tournament chips]
+dabeast7 folds [400 Tournament chips]
+mulberrytrees folds [350 Tournament chips]
+Emperiono folds [300 Tournament chips]
+mjsnook calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Td ] board:[ 9d Td]
+** Dealing Flop ** [ Ac ] board:[ 9d Td Ac]
+mjsnook checks
+QwertySpark bets for 475 Tournament chips
+mjsnook calls [475 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 9d Td Ac Ah]
+mjsnook checks
+QwertySpark goes all-in for 648 Tournament chips
+mjsnook folds [648 Tournament chips]
+QwertySpark is returned 648 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Qd Js Td Ac Ah: a pair of aces)
+QwertySpark wins main pot 1900 Tournament chips.
+Seat 0: Emperiono (7265 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7185 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3595 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-34 ends
+Game #23915013-35 starts
+Seat 0: Emperiono (7265 Tournament chips) 
+Seat 1: IMMORTAL71121 (1915 Tournament chips) 
+Seat 2: mjsnook (7185 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3595 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Emperiono posts the small blind [50 Tournament chips]
+IMMORTAL71121 posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7215 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand (absent) with 1815 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7185 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2548 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2071 Tournament chips.
+dabeast7, at seat 7, is in this hand (absent) with 3595 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 2h Jc ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+(dabeast7 has entered the table, is no longer absent.)
+mjsnook folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+HAWK0787 folds [100 Tournament chips]
+dabeast7 calls [100 Tournament chips]
+mulberrytrees folds [100 Tournament chips]
+Emperiono raises [400 Tournament chips]
+IMMORTAL71121 folds [350 Tournament chips]
+dabeast7 folds [350 Tournament chips]
+Emperiono is returned 350 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Emperiono (Ac Ks: ace high)
+Emperiono shows [ Ac Ks ] ace high
+Hand evaluation for Emperiono (Ac Ks: ace high)
+Emperiono wins main pot 300 Tournament chips.
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1815 Tournament chips) 
+Seat 2: mjsnook (7185 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3495 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-35 ends
+Game #23915013-36 starts
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1815 Tournament chips) 
+Seat 2: mjsnook (7185 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2071 Tournament chips) 
+Seat 7: dabeast7 (3495 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+IMMORTAL71121 posts the small blind [50 Tournament chips]
+mjsnook posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7465 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 1765 Tournament chips.
+mjsnook, at seat 2, is in this hand with 7085 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2548 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2071 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3495 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 8d 6d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+QwertySpark folds [100 Tournament chips]
+HAWK0787 raises [200 Tournament chips]
+dabeast7 folds [200 Tournament chips]
+mulberrytrees folds [200 Tournament chips]
+Emperiono folds [200 Tournament chips]
+IMMORTAL71121 folds [150 Tournament chips]
+mjsnook calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Jc ] board:[ 7s Jc]
+** Dealing Flop ** [ As ] board:[ 7s Jc As]
+mjsnook checks
+HAWK0787 checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 7s Jc As Kh]
+mjsnook checks
+HAWK0787 bets for 100 Tournament chips
+mjsnook folds [100 Tournament chips]
+HAWK0787 is returned 100 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for HAWK0787 (4d 4h Jc As Kh: a pair of fours)
+HAWK0787 shows [ 4d 4h ] a pair of fours
+Hand evaluation for HAWK0787 (4d 4h Jc As Kh: a pair of fours)
+HAWK0787 wins main pot 450 Tournament chips.
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1765 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2321 Tournament chips) 
+Seat 7: dabeast7 (3495 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-36 ends
+Game #23915013-37 starts
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1765 Tournament chips) 
+Seat 2: mjsnook (6985 Tournament chips) 
+Seat 3: QwertySpark (2548 Tournament chips) 
+Seat 5: HAWK0787 (2321 Tournament chips) 
+Seat 7: dabeast7 (3495 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+mjsnook posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7465 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 1765 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6935 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2448 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2321 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3495 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ Jd 9d ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+HAWK0787 folds [100 Tournament chips]
+dabeast7 calls [100 Tournament chips]
+mulberrytrees folds [100 Tournament chips]
+Emperiono folds [100 Tournament chips]
+IMMORTAL71121 calls [100 Tournament chips]
+mjsnook folds [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Qd ] board:[ 2d Qd]
+** Dealing Flop ** [ 4c ] board:[ 2d Qd 4c]
+QwertySpark checks
+dabeast7 checks
+IMMORTAL71121 checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 2d Qd 4c 2c]
+QwertySpark bets for 300 Tournament chips
+dabeast7 folds [300 Tournament chips]
+IMMORTAL71121 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Jd 9d 2d Qd 2c: a pair of deuces)
+QwertySpark wins main pot 350 Tournament chips.
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1665 Tournament chips) 
+Seat 2: mjsnook (6935 Tournament chips) 
+Seat 3: QwertySpark (2798 Tournament chips) 
+Seat 5: HAWK0787 (2321 Tournament chips) 
+Seat 7: dabeast7 (3395 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-37 ends
+Game #23915013-38 starts
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (1665 Tournament chips) 
+Seat 2: mjsnook (6935 Tournament chips) 
+Seat 3: QwertySpark (2798 Tournament chips) 
+Seat 5: HAWK0787 (2321 Tournament chips) 
+Seat 7: dabeast7 (3395 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [75 Tournament chips]
+HAWK0787 posts the big blind [150 Tournament chips]
+Emperiono, at seat 0, is in this hand (absent) with 7465 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 1665 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6935 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2723 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2171 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3395 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 6c 3s ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+dabeast7 folds [150 Tournament chips]
+mulberrytrees folds [150 Tournament chips]
+Emperiono folds [150 Tournament chips]
+IMMORTAL71121 calls [150 Tournament chips]
+mjsnook calls [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+HAWK0787 checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Ad ] board:[ 4h Ad]
+** Dealing Flop ** [ 4s ] board:[ 4h Ad 4s]
+QwertySpark checks
+HAWK0787 checks
+IMMORTAL71121 bets for 450 Tournament chips
+mjsnook folds [450 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+HAWK0787 folds [450 Tournament chips]
+IMMORTAL71121 is returned 450 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for IMMORTAL71121 (8s Ah 4h Ad 4s: two pair, aces and fours)
+IMMORTAL71121 wins main pot 600 Tournament chips.
+(Emperiono has entered the table, is no longer absent.)
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (2115 Tournament chips) 
+Seat 2: mjsnook (6785 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2171 Tournament chips) 
+Seat 7: dabeast7 (3395 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-38 ends
+Game #23915013-39 starts
+Seat 0: Emperiono (7465 Tournament chips) 
+Seat 1: IMMORTAL71121 (2115 Tournament chips) 
+Seat 2: mjsnook (6785 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2171 Tournament chips) 
+Seat 7: dabeast7 (3395 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+HAWK0787 posts the small blind [75 Tournament chips]
+dabeast7 posts the big blind [150 Tournament chips]
+Emperiono, at seat 0, is in this hand with 7465 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 2115 Tournament chips.
+mjsnook, at seat 2, is in this hand with 6785 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2648 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2096 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3245 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2926 Tournament chips.
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 5s 7h ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mulberrytrees folds [150 Tournament chips]
+Emperiono raises [375 Tournament chips]
+IMMORTAL71121 calls [375 Tournament chips]
+mjsnook calls [375 Tournament chips]
+QwertySpark folds [375 Tournament chips]
+HAWK0787 folds [300 Tournament chips]
+dabeast7 folds [225 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Jh ] board:[ 8h Jh]
+** Dealing Flop ** [ 6h ] board:[ 8h Jh 6h]
+Emperiono bets for 675 Tournament chips
+IMMORTAL71121 calls [675 Tournament chips]
+mjsnook raises all-in [6410 Tournament chips]
+Emperiono calls [5735 Tournament chips]
+IMMORTAL71121 folds [1065 Tournament chips]
+Tournament all-in showdown -- players show:
+Emperiono shows [ Ah Ad ]
+mjsnook shows [ 8c Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 8h Jh 6h 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 8h Jh 6h 2c 3d]
+        (no action in this round)
+Round 4 is over.
+Emperiono shows [ Ah Ad ] a pair of aces, jack/eight kickers
+mjsnook shows [ 8c Jd ] two pair, jacks and eights, six kicker
+mjsnook wins main pot 14845 Tournament chips with two pair, jacks and eights, six kicker.
+Seat 0: Emperiono (680 Tournament chips) 
+Seat 1: IMMORTAL71121 (1065 Tournament chips) 
+Seat 2: mjsnook (14845 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2096 Tournament chips) 
+Seat 7: dabeast7 (3245 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+Game #23915013-39 ends
+Game #23915013-40 starts
+Seat 0: Emperiono (680 Tournament chips) 
+Seat 1: IMMORTAL71121 (1065 Tournament chips) 
+Seat 2: mjsnook (14845 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2096 Tournament chips) 
+Seat 7: dabeast7 (3245 Tournament chips) 
+Seat 8: mulberrytrees (2926 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+dabeast7 posts the small blind [75 Tournament chips]
+mulberrytrees posts the big blind [150 Tournament chips]
+Emperiono, at seat 0, is in this hand with 680 Tournament chips.
+IMMORTAL71121, at seat 1, is in this hand with 1065 Tournament chips.
+mjsnook, at seat 2, is in this hand with 14845 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2648 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2096 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3170 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2776 Tournament chips.
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+Emperiono is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+Dealt to Emperiono [ **** ]
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 4h Js ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+Emperiono: wafj
+Emperiono raises all-in [680 Tournament chips]
+IMMORTAL71121 calls [680 Tournament chips]
+mjsnook folds [680 Tournament chips]
+QwertySpark folds [680 Tournament chips]
+HAWK0787 folds [680 Tournament chips]
+dabeast7 folds [605 Tournament chips]
+mulberrytrees folds [530 Tournament chips]
+Tournament all-in showdown -- players show:
+Emperiono shows [ Qd Ts ]
+IMMORTAL71121 shows [ As 5s ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 3h ] board:[ 7s 3h]
+** Dealing Flop ** [ 5h ] board:[ 7s 3h 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 7s 3h 5h Ks]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 7s 3h 5h Ks 3c]
+        (no action in this round)
+Round 4 is over.
+Emperiono shows [ Qd Ts ] a pair of threes, king/queen kickers
+IMMORTAL71121 shows [ As 5s ] two pair, fives and threes, ace kicker
+IMMORTAL71121 wins main pot 1585 Tournament chips with two pair, fives and threes, ace kicker.
+Seat 0: Emperiono (0 Tournament chips) 
+Seat 1: IMMORTAL71121 (1970 Tournament chips) 
+Seat 2: mjsnook (14845 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2096 Tournament chips) 
+Seat 7: dabeast7 (3170 Tournament chips) 
+Seat 8: mulberrytrees (2776 Tournament chips) 
+Game #23915013-40 ends
+Player Emperiono leaves the table with 0 Tournament chips
+Game #23915013-41 starts
+Seat 1: IMMORTAL71121 (1970 Tournament chips) 
+Seat 2: mjsnook (14845 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2096 Tournament chips) 
+Seat 7: dabeast7 (3170 Tournament chips) 
+Seat 8: mulberrytrees (2776 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+mulberrytrees posts the small blind [75 Tournament chips]
+IMMORTAL71121 posts the big blind [150 Tournament chips]
+IMMORTAL71121, at seat 1, is in this hand with 1820 Tournament chips.
+mjsnook, at seat 2, is in this hand with 14845 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2648 Tournament chips.
+HAWK0787, at seat 5, is in this hand with 2096 Tournament chips.
+dabeast7, at seat 7, is in this hand with 3170 Tournament chips.
+mulberrytrees, at seat 8, is in this hand (absent) with 2701 Tournament chips.
+mulberrytrees is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+mulberrytrees is dealt: **
+IMMORTAL71121 is dealt: **
+mjsnook is dealt: **
+
+HAWK0787 is dealt: **
+dabeast7 is dealt: **
+Dealt to IMMORTAL71121 [ **** ]
+Dealt to mjsnook [ **** ]
+Dealt to QwertySpark [ 4c Ad ]
+Dealt to HAWK0787 [ **** ]
+Dealt to dabeast7 [ **** ]
+Dealt to mulberrytrees [ **** ]
+mjsnook calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+HAWK0787 folds [150 Tournament chips]
+dabeast7 folds [150 Tournament chips]
+mulberrytrees folds [75 Tournament chips]
+IMMORTAL71121 raises [150 Tournament chips]
+mjsnook calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Kc ] board:[ 4s Kc]
+** Dealing Flop ** [ Qc ] board:[ 4s Kc Qc]
+IMMORTAL71121 bets for 600 Tournament chips
+mjsnook calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 4s Kc Qc Qd]
+IMMORTAL71121 bets for 600 Tournament chips
+mjsnook raises all-in [13945 Tournament chips]
+IMMORTAL71121 calls all-in [470 Tournament chips]
+mjsnook is returned 12875 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+IMMORTAL71121 shows [ Jd Jc ]
+mjsnook shows [ Qs Js ]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 4s Kc Qc Qd Ts]
+        (no action in this round)
+Round 4 is over.
+IMMORTAL71121 shows [ Jd Jc ] two pair, queens and jacks, king kicker
+mjsnook shows [ Qs Js ] three queens, king/jack kickers
+mjsnook wins main pot 4015 Tournament chips with three queens, king/jack kickers.
+Seat 1: IMMORTAL71121 (0 Tournament chips) 
+Seat 2: mjsnook (16890 Tournament chips) 
+Seat 3: QwertySpark (2648 Tournament chips) 
+Seat 5: HAWK0787 (2096 Tournament chips) 
+Seat 7: dabeast7 (3170 Tournament chips) 
+Seat 8: mulberrytrees (2701 Tournament chips) 
+Game #23915013-41 ends
+Player IMMORTAL71121 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 2648 Tournament chips
+Player dabeast7 leaves the table with 3170 Tournament chips
+Player HAWK0787 leaves the table with 2096 Tournament chips
+Player mulberrytrees leaves the table with 2701 Tournament chips
+Player mjsnook leaves the table with 16890 Tournament chips

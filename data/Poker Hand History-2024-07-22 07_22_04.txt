@@ -1,0 +1,125 @@
+Game#: 23902440
+QwertySpark folds [20 Tournament chips]
+johnderby calls [20 Tournament chips]
+swtldy0310 raises [40 Tournament chips]
+maxx22 calls [40 Tournament chips]
+ninjasez calls [30 Tournament chips]
+morelove21 folds [20 Tournament chips]
+johnderby calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 8c ] board:[ Qh 8c]
+** Dealing Flop ** [ 7d ] board:[ Qh 8c 7d]
+ninjasez checks
+johnderby checks
+swtldy0310 bets for 180 Tournament chips
+maxx22 calls [180 Tournament chips]
+ninjasez calls [180 Tournament chips]
+johnderby calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Qh 8c 7d Ac]
+ninjasez checks
+johnderby bets for 20 Tournament chips
+swtldy0310 raises all-in [780 Tournament chips]
+maxx22 folds [780 Tournament chips]
+ninjasez folds [780 Tournament chips]
+johnderby folds [760 Tournament chips]
+swtldy0310 is returned 760 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for swtldy0310 (Qc Qh 8c 7d Ac: a pair of queens)
+swtldy0310 wins main pot 940 Tournament chips.
+Seat 0: johnderby (760 Tournament chips) 
+Seat 1: swtldy0310 (1700 Tournament chips) 
+Seat 2: maxx22 (780 Tournament chips) 
+Seat 3: Silverdapple (2030 Tournament chips) 
+Seat 4: ninjasez (780 Tournament chips) 
+Seat 5: stdntalbnbad (960 Tournament chips) 
+Seat 6: morelove21 (980 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: Scottjhg (1100 Tournament chips) 
+Game #23902440-1 ends
+Player johnderby leaves the table with 760 Tournament chips
+Game #23902440-2 starts
+Seat 1: swtldy0310 (1700 Tournament chips) 
+Seat 2: maxx22 (780 Tournament chips) 
+Seat 3: Silverdapple (2030 Tournament chips) 
+Seat 4: ninjasez (780 Tournament chips) 
+Seat 5: stdntalbnbad (960 Tournament chips) 
+Seat 6: morelove21 (980 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: Scottjhg (1100 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+morelove21 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+swtldy0310, at seat 1, is in this hand with 1700 Tournament chips.
+maxx22, at seat 2, is in this hand with 780 Tournament chips.
+Silverdapple, at seat 3, is in this hand with 2030 Tournament chips.
+ninjasez, at seat 4, is in this hand with 780 Tournament chips.
+morelove21, at seat 6, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 980 Tournament chips.
+Scottjhg, at seat 8, is in this hand with 1100 Tournament chips.
+morelove21 is dealt: **
+
+Scottjhg is dealt: **
+swtldy0310 is dealt: **
+maxx22 is dealt: **
+Silverdapple is dealt: **
+ninjasez is dealt: **
+morelove21 is dealt: **
+
+Scottjhg is dealt: **
+swtldy0310 is dealt: **
+maxx22 is dealt: **
+Silverdapple is dealt: **
+ninjasez is dealt: **
+Dealt to swtldy0310 [ **** ]
+Dealt to maxx22 [ **** ]
+Dealt to Silverdapple [ **** ]
+Dealt to ninjasez [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to QwertySpark [ Ac 7c ]
+Dealt to Scottjhg [ **** ]
+Scottjhg raises [40 Tournament chips]
+swtldy0310 calls [40 Tournament chips]
+maxx22 folds [40 Tournament chips]
+Silverdapple calls [40 Tournament chips]
+ninjasez calls [40 Tournament chips]
+morelove21 folds [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 2s ] board:[ Kh 2s]
+** Dealing Flop ** [ As ] board:[ Kh 2s As]
+QwertySpark bets for 160 Tournament chips
+Scottjhg raises [320 Tournament chips]
+swtldy0310 calls [320 Tournament chips]
+Silverdapple folds [320 Tournament chips]
+ninjasez folds [320 Tournament chips]
+QwertySpark raises all-in [800 Tournament chips]
+Scottjhg raises all-in [740 Tournament chips]
+swtldy0310 folds [740 Tournament chips]
+Scottjhg is returned 100 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ac 7c ]
+Scottjhg shows [ Js Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Kh 2s As 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ Kh 2s As 4d 9c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ac 7c ] a pair of aces, king/nine kickers
+Scottjhg shows [ Js Ad ] a pair of aces, king/jack kickers
+Scottjhg wins main pot 2450 Tournament chips with a pair of aces, king/jack kickers.
+Seat 1: swtldy0310 (1340 Tournament chips) 
+Seat 2: maxx22 (780 Tournament chips) 
+Seat 3: Silverdapple (1990 Tournament chips) 
+Seat 4: ninjasez (740 Tournament chips) 
+Seat 5: stdntalbnbad (960 Tournament chips) 
+Seat 6: morelove21 (970 Tournament chips) 
+Seat 7: QwertySpark (0 Tournament chips) 
+Seat 8: Scottjhg (2550 Tournament chips) 
+Game #23902440-2 ends
+Player QwertySpark leaves the table with 0 Tournament chips

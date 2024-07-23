@@ -1,0 +1,1538 @@
+Game#: 23980734
+MurdochXIV is dealt: **
+Camp Forever is dealt: **
+QwertySpark is dealt: 6c
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+The button is moved to seat 1.
+Game #23980734-1 starts
+Seat 0: MurdochXIV (2500 Tournament chips) 
+Seat 1: Camp Forever (2500 Tournament chips) 
+Seat 2: QwertySpark (2500 Tournament chips) 
+Seat 3: buttercut (2500 Tournament chips) 
+Seat 4: kleeblatt (2500 Tournament chips) 
+Seat 5: debbiek222 (2500 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2500 Tournament chips) 
+Seat 8: Earthee1 (2500 Tournament chips) 
+The button is at seat 1
+QwertySpark posts the small blind [5 Tournament chips]
+buttercut posts the big blind [10 Tournament chips]
+MurdochXIV, at seat 0, is in this hand with 2500 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2495 Tournament chips.
+buttercut, at seat 3, is in this hand with 2490 Tournament chips.
+kleeblatt, at seat 4, is in this hand (absent) with 2500 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2500 Tournament chips.
+kingphish051, at seat 6, is in this hand with 2500 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2500 Tournament chips.
+Earthee1, at seat 8, is in this hand with 2500 Tournament chips.
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+MurdochXIV is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+MurdochXIV is dealt: **
+Camp Forever is dealt: **
+Dealt to MurdochXIV [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Td 4h ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+kleeblatt folds [10 Tournament chips]
+debbiek222 folds [10 Tournament chips]
+kingphish051 folds [10 Tournament chips]
+ChoctawJ2 raises [35 Tournament chips]
+Earthee1 calls [35 Tournament chips]
+MurdochXIV calls [35 Tournament chips]
+Camp Forever folds [35 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+buttercut calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 2s ] board:[ Qh 2s]
+** Dealing Flop ** [ 8d ] board:[ Qh 2s 8d]
+buttercut bets for 145 Tournament chips
+ChoctawJ2 calls [145 Tournament chips]
+Earthee1 raises all-in [2465 Tournament chips]
+MurdochXIV calls all-in [2465 Tournament chips]
+buttercut folds [2320 Tournament chips]
+ChoctawJ2 folds [2320 Tournament chips]
+Tournament all-in showdown -- players show:
+MurdochXIV shows [ Ks Qc ]
+Earthee1 shows [ 2d 8h ]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Qh 2s 8d 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qh 2s 8d 2h 7c]
+        (no action in this round)
+Round 4 is over.
+MurdochXIV shows [ Ks Qc ] two pair, queens and deuces, king kicker
+Earthee1 shows [ 2d 8h ] full house, deuces full of eights
+Earthee1 wins main pot 5365 Tournament chips with full house, deuces full of eights.
+Seat 0: MurdochXIV (0 Tournament chips) 
+Seat 1: Camp Forever (2500 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2320 Tournament chips) 
+Seat 4: kleeblatt (2500 Tournament chips) 
+Seat 5: debbiek222 (2500 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2320 Tournament chips) 
+Seat 8: Earthee1 (5365 Tournament chips) 
+Game #23980734-1 ends
+Player MurdochXIV leaves the table with 0 Tournament chips
+Game #23980734-2 starts
+Seat 1: Camp Forever (2500 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2320 Tournament chips) 
+Seat 4: kleeblatt (2500 Tournament chips) 
+Seat 5: debbiek222 (2500 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2320 Tournament chips) 
+Seat 8: Earthee1 (5365 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+buttercut posts the small blind [5 Tournament chips]
+kleeblatt posts the big blind [10 Tournament chips]
+Camp Forever, at seat 1, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2495 Tournament chips.
+buttercut, at seat 3, is in this hand with 2315 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2490 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2500 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2500 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2320 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5365 Tournament chips.
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+Camp Forever is dealt: **
+
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 5d Ts ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+debbiek222 folds [10 Tournament chips]
+kingphish051 folds [10 Tournament chips]
+ChoctawJ2 calls [10 Tournament chips]
+Earthee1 calls [10 Tournament chips]
+Camp Forever raises [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+buttercut calls [25 Tournament chips]
+kleeblatt calls [20 Tournament chips]
+ChoctawJ2 folds [20 Tournament chips]
+Earthee1 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 4h ] board:[ 2h 4h]
+** Dealing Flop ** [ 3s ] board:[ 2h 4h 3s]
+buttercut checks
+kleeblatt checks
+Earthee1 checks
+Camp Forever bets for 30 Tournament chips
+buttercut calls [30 Tournament chips]
+kleeblatt calls [30 Tournament chips]
+Earthee1 folds [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 2h 4h 3s 9h]
+buttercut checks
+kleeblatt checks
+Camp Forever checks
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 2h 4h 3s 9h As]
+buttercut checks
+kleeblatt checks
+Camp Forever checks
+Round 4 is over.
+buttercut shows [ 5c 4s ] straight, five high
+Hand evaluation for buttercut (5c 4s 2h 3s As: straight, five high)
+kleeblatt doesn't show [ 4d 7h ]
+(kleeblatt has 4d 7h.)
+Camp Forever doesn't show [ Qh Ks ]
+(Camp Forever has Qh Ks.)
+buttercut wins main pot 220 Tournament chips with straight, five high.
+Seat 0: mariammalek (2500 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2480 Tournament chips) 
+Seat 4: kleeblatt (2440 Tournament chips) 
+Seat 5: debbiek222 (2500 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5335 Tournament chips) 
+Game #23980734-2 ends
+Game #23980734-3 starts
+Seat 0: mariammalek (2500 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2480 Tournament chips) 
+Seat 4: kleeblatt (2440 Tournament chips) 
+Seat 5: debbiek222 (2500 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5335 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+kleeblatt posts the small blind [5 Tournament chips]
+debbiek222 posts the big blind [10 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2500 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2495 Tournament chips.
+buttercut, at seat 3, is in this hand with 2480 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2435 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2490 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2500 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2310 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5335 Tournament chips.
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 5d 4c ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+kingphish051 folds [10 Tournament chips]
+ChoctawJ2 folds [10 Tournament chips]
+Earthee1 folds [10 Tournament chips]
+mariammalek calls [10 Tournament chips]
+Camp Forever folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+buttercut calls [10 Tournament chips]
+kleeblatt calls [5 Tournament chips]
+debbiek222 folds
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 7c ] board:[ Qs 7c]
+** Dealing Flop ** [ 6h ] board:[ Qs 7c 6h]
+kleeblatt checks
+mariammalek checks
+buttercut checks
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Qs 7c 6h 6d]
+kleeblatt bets for 10 Tournament chips
+mariammalek calls [10 Tournament chips]
+buttercut folds [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Qs 7c 6h 6d 6s]
+kleeblatt bets for 10 Tournament chips
+mariammalek calls [10 Tournament chips]
+Round 4 is over.
+kleeblatt shows [ 7h Js ] full house, sixes full of sevens
+Hand evaluation for kleeblatt (7h 7c 6h 6d 6s: full house, sixes full of sevens)
+mariammalek shows [ 8h 8s ] full house, sixes full of eights
+Hand evaluation for mariammalek (8h 8s 6h 6d 6s: full house, sixes full of eights)
+mariammalek wins main pot 80 Tournament chips with full house, sixes full of eights.
+Seat 0: mariammalek (2550 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2470 Tournament chips) 
+Seat 4: kleeblatt (2410 Tournament chips) 
+Seat 5: debbiek222 (2490 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5335 Tournament chips) 
+Game #23980734-3 ends
+Game #23980734-4 starts
+Seat 0: mariammalek (2550 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2495 Tournament chips) 
+Seat 3: buttercut (2470 Tournament chips) 
+Seat 4: kleeblatt (2410 Tournament chips) 
+Seat 5: debbiek222 (2490 Tournament chips) 
+Seat 6: kingphish051 (2500 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5335 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+debbiek222 posts the small blind [5 Tournament chips]
+kingphish051 posts the big blind [10 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2550 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2495 Tournament chips.
+buttercut, at seat 3, is in this hand with 2470 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2410 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2490 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand (absent) with 2310 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5335 Tournament chips.
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Qh Ks ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+ChoctawJ2 folds [10 Tournament chips]
+(ChoctawJ2 has entered the table, is no longer absent.)
+Earthee1 calls [10 Tournament chips]
+mariammalek calls [10 Tournament chips]
+Camp Forever folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+buttercut folds [10 Tournament chips]
+kleeblatt calls [10 Tournament chips]
+debbiek222 folds [5 Tournament chips]
+kingphish051 folds
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 3s ] board:[ 7d 3s]
+** Dealing Flop ** [ 4h ] board:[ 7d 3s 4h]
+Earthee1 checks
+mariammalek checks
+QwertySpark checks
+kleeblatt checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 7d 3s 4h Td]
+Earthee1 checks
+mariammalek checks
+QwertySpark checks
+kleeblatt checks
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 7d 3s 4h Td 4c]
+Earthee1 checks
+mariammalek checks
+QwertySpark checks
+kleeblatt checks
+Round 4 is over.
+Earthee1 shows [ 6d Jd ] a pair of fours
+Hand evaluation for Earthee1 (Jd 7d 4h Td 4c: a pair of fours)
+mariammalek doesn't show [ 2h 8h ]
+(mariammalek has 2h 8h.)
+QwertySpark shows [ Qh Ks ] a pair of fours
+Hand evaluation for QwertySpark (Qh Ks 4h Td 4c: a pair of fours)
+kleeblatt shows [ Qs Ad ] a pair of fours
+Hand evaluation for kleeblatt (Qs Ad 4h Td 4c: a pair of fours)
+kleeblatt wins main pot 55 Tournament chips with a pair of fours, ace/queen kickers.
+Seat 0: mariammalek (2540 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2485 Tournament chips) 
+Seat 3: buttercut (2470 Tournament chips) 
+Seat 4: kleeblatt (2455 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2490 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+Game #23980734-4 ends
+Game #23980734-5 starts
+Seat 0: mariammalek (2540 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2485 Tournament chips) 
+Seat 3: buttercut (2470 Tournament chips) 
+Seat 4: kleeblatt (2455 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2490 Tournament chips) 
+Seat 7: ChoctawJ2 (2310 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kingphish051 posts the small blind [5 Tournament chips]
+ChoctawJ2 posts the big blind [10 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2540 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2485 Tournament chips.
+buttercut, at seat 3, is in this hand with 2470 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2455 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2300 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5325 Tournament chips.
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Ts 2c ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+Earthee1 folds [10 Tournament chips]
+mariammalek calls [10 Tournament chips]
+Camp Forever folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+buttercut calls [10 Tournament chips]
+kleeblatt calls [10 Tournament chips]
+debbiek222 folds [10 Tournament chips]
+kingphish051 folds [5 Tournament chips]
+ChoctawJ2 checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Kd ] board:[ As Kd]
+** Dealing Flop ** [ Ad ] board:[ As Kd Ad]
+ChoctawJ2 has timed out - the hand is checked
+mariammalek checks
+buttercut checks
+kleeblatt goes all-in for 2445 Tournament chips
+ChoctawJ2 folds [2300 Tournament chips]
+mariammalek folds [2445 Tournament chips]
+buttercut folds [2445 Tournament chips]
+kleeblatt is returned 2445 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for kleeblatt (6d Ac As Kd Ad: three aces)
+kleeblatt wins main pot 45 Tournament chips.
+Seat 0: mariammalek (2530 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2485 Tournament chips) 
+Seat 3: buttercut (2460 Tournament chips) 
+Seat 4: kleeblatt (2490 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2300 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+Game #23980734-5 ends
+Game #23980734-6 starts
+Seat 0: mariammalek (2530 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2485 Tournament chips) 
+Seat 3: buttercut (2460 Tournament chips) 
+Seat 4: kleeblatt (2490 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2300 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+ChoctawJ2 posts the small blind [10 Tournament chips]
+Earthee1 posts the big blind [20 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2530 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2485 Tournament chips.
+buttercut, at seat 3, is in this hand with 2460 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2490 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2290 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5305 Tournament chips.
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ As Kc ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+mariammalek calls [20 Tournament chips]
+Camp Forever folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+buttercut folds [80 Tournament chips]
+kleeblatt folds [80 Tournament chips]
+debbiek222 folds [80 Tournament chips]
+kingphish051 folds [80 Tournament chips]
+ChoctawJ2 calls [70 Tournament chips]
+Earthee1 calls [60 Tournament chips]
+mariammalek calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Qc ] board:[ 3c Qc]
+** Dealing Flop ** [ 5s ] board:[ 3c Qc 5s]
+ChoctawJ2 checks
+Earthee1 checks
+mariammalek checks
+QwertySpark bets for 180 Tournament chips
+ChoctawJ2 folds [180 Tournament chips]
+Earthee1 folds [180 Tournament chips]
+mariammalek folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (As Kc 3c Qc 5s: ace high)
+QwertySpark wins main pot 320 Tournament chips.
+Seat 0: mariammalek (2450 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2460 Tournament chips) 
+Seat 4: kleeblatt (2490 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5245 Tournament chips) 
+Game #23980734-6 ends
+Game #23980734-7 starts
+Seat 0: mariammalek (2450 Tournament chips) 
+Seat 1: Camp Forever (2440 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2460 Tournament chips) 
+Seat 4: kleeblatt (2490 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5245 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Earthee1 posts the small blind [10 Tournament chips]
+mariammalek posts the big blind [20 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2430 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2440 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2725 Tournament chips.
+buttercut, at seat 3, is in this hand with 2460 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2490 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand (absent) with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5235 Tournament chips.
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 9h Kc ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+Camp Forever calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+buttercut calls [20 Tournament chips]
+kleeblatt calls [20 Tournament chips]
+debbiek222 folds [20 Tournament chips]
+kingphish051 folds [20 Tournament chips]
+ChoctawJ2 folds [20 Tournament chips]
+Earthee1 calls [10 Tournament chips]
+(ChoctawJ2 has entered the table, is no longer absent.)
+mariammalek checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 4d ] board:[ 3s 4d]
+** Dealing Flop ** [ 8d ] board:[ 3s 4d 8d]
+Earthee1 checks
+mariammalek checks
+Camp Forever checks
+buttercut checks
+kleeblatt checks
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 3s 4d 8d 6c]
+Earthee1 checks
+mariammalek checks
+Camp Forever checks
+buttercut checks
+kleeblatt checks
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 3s 4d 8d 6c 2c]
+Earthee1 checks
+mariammalek checks
+Camp Forever checks
+buttercut checks
+kleeblatt checks
+Round 4 is over.
+Earthee1 shows [ Td 6h ] a pair of sixes
+Hand evaluation for Earthee1 (Td 6h 4d 8d 6c: a pair of sixes)
+mariammalek doesn't show [ 9d Kh ]
+(mariammalek has 9d Kh.)
+Camp Forever doesn't show [ 9c Tc ]
+(Camp Forever has 9c Tc.)
+buttercut doesn't show [ Th Ks ]
+(buttercut has Th Ks.)
+kleeblatt doesn't show [ 7c Jh ]
+(kleeblatt has 7c Jh.)
+Earthee1 wins main pot 100 Tournament chips with a pair of sixes, ten/eight kickers.
+Seat 0: mariammalek (2430 Tournament chips) 
+Seat 1: Camp Forever (2420 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2440 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+Game #23980734-7 ends
+Game #23980734-8 starts
+Seat 0: mariammalek (2430 Tournament chips) 
+Seat 1: Camp Forever (2420 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2440 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+mariammalek posts the small blind [10 Tournament chips]
+Camp Forever posts the big blind [20 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2420 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2400 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2725 Tournament chips.
+buttercut, at seat 3, is in this hand with 2440 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2470 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5325 Tournament chips.
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 3c Jd ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+QwertySpark folds [20 Tournament chips]
+buttercut calls [20 Tournament chips]
+kleeblatt folds [20 Tournament chips]
+debbiek222 folds [20 Tournament chips]
+kingphish051 folds [20 Tournament chips]
+ChoctawJ2 folds [20 Tournament chips]
+Earthee1 folds [20 Tournament chips]
+mariammalek raises [90 Tournament chips]
+Camp Forever folds [80 Tournament chips]
+buttercut folds [80 Tournament chips]
+mariammalek is returned 80 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for mariammalek (Kd Kh: a pair of kings)
+mariammalek wins main pot 60 Tournament chips.
+Seat 0: mariammalek (2470 Tournament chips) 
+Seat 1: Camp Forever (2400 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2420 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+Game #23980734-8 ends
+Game #23980734-9 starts
+Seat 0: mariammalek (2470 Tournament chips) 
+Seat 1: Camp Forever (2400 Tournament chips) 
+Seat 2: QwertySpark (2725 Tournament chips) 
+Seat 3: buttercut (2420 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5325 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Camp Forever posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2470 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2390 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2705 Tournament chips.
+buttercut, at seat 3, is in this hand with 2420 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2470 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5325 Tournament chips.
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 5h 4h ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+buttercut calls [20 Tournament chips]
+kleeblatt folds [20 Tournament chips]
+debbiek222 folds [20 Tournament chips]
+kingphish051 folds [20 Tournament chips]
+ChoctawJ2 folds [20 Tournament chips]
+Earthee1 raises [40 Tournament chips]
+mariammalek calls [40 Tournament chips]
+Camp Forever folds [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+buttercut calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Jc ] board:[ Js Jc]
+** Dealing Flop ** [ 3h ] board:[ Js Jc 3h]
+QwertySpark checks
+(kingphish051 has entered the table, is no longer absent.)
+buttercut checks
+Earthee1 checks
+mariammalek checks
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Js Jc 3h 6d]
+QwertySpark bets for 40 Tournament chips
+buttercut folds [40 Tournament chips]
+Earthee1 folds [40 Tournament chips]
+mariammalek calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Js Jc 3h 6d 6s]
+QwertySpark bets for 250 Tournament chips
+mariammalek folds [250 Tournament chips]
+QwertySpark is returned 250 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (5h Js Jc 6d 6s: two pair, jacks and sixes)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (2895 Tournament chips) 
+Seat 3: buttercut (2380 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5285 Tournament chips) 
+Game #23980734-9 ends
+Game #23980734-10 starts
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (2895 Tournament chips) 
+Seat 3: buttercut (2380 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (5285 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+buttercut posts the big blind [30 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2390 Tournament chips.
+Camp Forever, at seat 1, is in this hand (absent) with 2390 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2880 Tournament chips.
+buttercut, at seat 3, is in this hand with 2350 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2470 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 5285 Tournament chips.
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Js Jc ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+kleeblatt folds [30 Tournament chips]
+debbiek222 folds [30 Tournament chips]
+kingphish051 folds [30 Tournament chips]
+ChoctawJ2 folds [30 Tournament chips]
+Earthee1 calls [30 Tournament chips]
+mariammalek folds [30 Tournament chips]
+Camp Forever folds [30 Tournament chips]
+QwertySpark raises [195 Tournament chips]
+buttercut folds [180 Tournament chips]
+Earthee1 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 6c ] board:[ 4s 6c]
+** Dealing Flop ** [ 3c ] board:[ 4s 6c 3c]
+QwertySpark bets for 450 Tournament chips
+Earthee1 calls [450 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 4s 6c 3c 4c]
+QwertySpark checks
+Earthee1 checks
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 4s 6c 3c 4c Ah]
+QwertySpark bets for 645 Tournament chips
+Earthee1 folds [645 Tournament chips]
+QwertySpark is returned 645 Tournament chips (uncalled).
+(Camp Forever has entered the table, is no longer absent.)
+round 4 is over.
+Hand evaluation for QwertySpark (Js Jc 4s 4c Ah: two pair, jacks and fours)
+QwertySpark wins main pot 1350 Tournament chips.
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 3: buttercut (2350 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (4625 Tournament chips) 
+Game #23980734-10 ends
+Game #23980734-11 starts
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 3: buttercut (2350 Tournament chips) 
+Seat 4: kleeblatt (2470 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (4625 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+buttercut posts the small blind [15 Tournament chips]
+kleeblatt posts the big blind [30 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2390 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2390 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3585 Tournament chips.
+buttercut, at seat 3, is in this hand with 2335 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2440 Tournament chips.
+debbiek222, at seat 5, is in this hand (absent) with 2485 Tournament chips.
+kingphish051, at seat 6, is in this hand with 2485 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4625 Tournament chips.
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+debbiek222 is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Qh 6s ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to debbiek222 [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+debbiek222 folds [30 Tournament chips]
+kingphish051 folds [30 Tournament chips]
+ChoctawJ2 folds [30 Tournament chips]
+Earthee1 calls [30 Tournament chips]
+mariammalek folds [30 Tournament chips]
+Camp Forever folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+buttercut calls [15 Tournament chips]
+kleeblatt checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Kc ] board:[ Jd Kc]
+** Dealing Flop ** [ 8c ] board:[ Jd Kc 8c]
+buttercut bets for 30 Tournament chips
+kleeblatt raises [60 Tournament chips]
+Earthee1 calls [60 Tournament chips]
+buttercut calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Jd Kc 8c 4c]
+buttercut bets for 135 Tournament chips
+kleeblatt folds [135 Tournament chips]
+Earthee1 calls [135 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Jd Kc 8c 4c Kd]
+buttercut checks
+Earthee1 checks
+Round 4 is over.
+buttercut shows [ Qc Td ] a pair of kings
+Hand evaluation for buttercut (Qc Td Jd Kc Kd: a pair of kings)
+Earthee1 shows [ Jh 6h ] two pair, kings and jacks
+Hand evaluation for Earthee1 (Jh Jd Kc 8c Kd: two pair, kings and jacks)
+Earthee1 wins main pot 540 Tournament chips with two pair, kings and jacks, eight kicker.
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 3: buttercut (2125 Tournament chips) 
+Seat 4: kleeblatt (2380 Tournament chips) 
+Seat 5: debbiek222 (2485 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+Game #23980734-11 ends
+Player debbiek222 leaves the table with 0 Tournament chips
+Game #23980734-12 starts
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (2390 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 3: buttercut (2125 Tournament chips) 
+Seat 4: kleeblatt (2380 Tournament chips) 
+Seat 6: kingphish051 (2485 Tournament chips) 
+Seat 7: ChoctawJ2 (2220 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+kleeblatt posts the small blind [15 Tournament chips]
+kingphish051 posts the big blind [30 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2390 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 2390 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3585 Tournament chips.
+buttercut, at seat 3, is in this hand with 2125 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2365 Tournament chips.
+kingphish051, at seat 6, is in this hand with 2455 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2220 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4940 Tournament chips.
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+buttercut is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 3h 6c ]
+Dealt to buttercut [ **** ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+ChoctawJ2 raises [75 Tournament chips]
+Earthee1 folds [75 Tournament chips]
+mariammalek folds [75 Tournament chips]
+Camp Forever re-raises [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+buttercut calls [120 Tournament chips]
+kleeblatt folds [105 Tournament chips]
+kingphish051 folds [90 Tournament chips]
+ChoctawJ2 calls [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 6d ] board:[ 7h 6d]
+** Dealing Flop ** [ Ad ] board:[ 7h 6d Ad]
+ChoctawJ2 checks
+Camp Forever bets for 303 Tournament chips
+buttercut calls [303 Tournament chips]
+ChoctawJ2 folds [303 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 7h 6d Ad Kh]
+Camp Forever bets for 758 Tournament chips
+buttercut calls [758 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 7h 6d Ad Kh 5c]
+Camp Forever goes all-in for 1209 Tournament chips
+buttercut calls all-in [944 Tournament chips]
+Camp Forever is returned 265 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Camp Forever shows [ Ah Th ]
+buttercut shows [ As 8d ]
+Round 4 is over.
+Camp Forever shows [ Ah Th ] a pair of aces, king/ten kickers
+buttercut shows [ As 8d ] a pair of aces, king/eight kickers
+Camp Forever wins main pot 4415 Tournament chips with a pair of aces, king/ten kickers.
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 3: buttercut (0 Tournament chips) 
+Seat 4: kleeblatt (2365 Tournament chips) 
+Seat 6: kingphish051 (2455 Tournament chips) 
+Seat 7: ChoctawJ2 (2100 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+Game #23980734-12 ends
+Player buttercut leaves the table with 0 Tournament chips
+Game #23980734-13 starts
+Seat 0: mariammalek (2390 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 4: kleeblatt (2365 Tournament chips) 
+Seat 6: kingphish051 (2455 Tournament chips) 
+Seat 7: ChoctawJ2 (2100 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+kingphish051 posts the small blind [15 Tournament chips]
+ChoctawJ2 posts the big blind [30 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2390 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4680 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3585 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2365 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2070 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4940 Tournament chips.
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Th 7c ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+Earthee1 folds [30 Tournament chips]
+mariammalek calls [30 Tournament chips]
+Camp Forever folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+kleeblatt folds [30 Tournament chips]
+kingphish051 folds [15 Tournament chips]
+ChoctawJ2 checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ As ] board:[ Tc As]
+** Dealing Flop ** [ 7d ] board:[ Tc As 7d]
+ChoctawJ2 checks
+mariammalek checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Tc As 7d 8s]
+ChoctawJ2 checks
+mariammalek checks
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Tc As 7d 8s Ks]
+ChoctawJ2 checks
+mariammalek bets for 75 Tournament chips
+ChoctawJ2 folds [75 Tournament chips]
+mariammalek is returned 75 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for mariammalek (Td Ad Tc As Ks: two pair, aces and tens)
+mariammalek wins main pot 75 Tournament chips.
+Seat 0: mariammalek (2435 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 4: kleeblatt (2365 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2070 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+Game #23980734-13 ends
+Game #23980734-14 starts
+Seat 0: mariammalek (2435 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3585 Tournament chips) 
+Seat 4: kleeblatt (2365 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2070 Tournament chips) 
+Seat 8: Earthee1 (4940 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+ChoctawJ2 posts the small blind [20 Tournament chips]
+Earthee1 posts the big blind [40 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2435 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4680 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3585 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2365 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2050 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4900 Tournament chips.
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 8s Ac ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+mariammalek calls [40 Tournament chips]
+Camp Forever folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+kleeblatt calls [40 Tournament chips]
+kingphish051 folds [40 Tournament chips]
+ChoctawJ2 folds [20 Tournament chips]
+Earthee1 checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Ks ] board:[ 6h Ks]
+** Dealing Flop ** [ Jd ] board:[ 6h Ks Jd]
+Earthee1 checks
+mariammalek bets for 180 Tournament chips
+QwertySpark folds [180 Tournament chips]
+kleeblatt folds [180 Tournament chips]
+Earthee1 folds [180 Tournament chips]
+mariammalek is returned 180 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for mariammalek (8h Kc 6h Ks Jd: a pair of kings)
+mariammalek wins main pot 180 Tournament chips.
+Seat 0: mariammalek (2575 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2325 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4900 Tournament chips) 
+Game #23980734-14 ends
+Game #23980734-15 starts
+Seat 0: mariammalek (2575 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2325 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4900 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Earthee1 posts the small blind [20 Tournament chips]
+mariammalek posts the big blind [40 Tournament chips]
+mariammalek, at seat 0, is in this hand with 2535 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4680 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3545 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2325 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2050 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4880 Tournament chips.
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Js 4c ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+Camp Forever folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+kleeblatt calls [40 Tournament chips]
+kingphish051 folds [40 Tournament chips]
+ChoctawJ2 folds [40 Tournament chips]
+Earthee1 calls [20 Tournament chips]
+mariammalek checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Kc ] board:[ 5d Kc]
+** Dealing Flop ** [ 8s ] board:[ 5d Kc 8s]
+Earthee1 checks
+mariammalek bets for 120 Tournament chips
+kleeblatt folds [120 Tournament chips]
+Earthee1 calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 5d Kc 8s 9c]
+Earthee1 checks
+mariammalek bets for 360 Tournament chips
+Earthee1 calls [360 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 5d Kc 8s 9c 2c]
+Earthee1 checks
+mariammalek checks
+Round 4 is over.
+Earthee1 shows [ 7d 8d ] a pair of eights
+Hand evaluation for Earthee1 (7d 8d Kc 8s 9c: a pair of eights)
+mariammalek shows [ Kd Th ] a pair of kings
+Hand evaluation for mariammalek (Kd Th Kc 8s 9c: a pair of kings)
+mariammalek wins main pot 1080 Tournament chips with a pair of kings, ten/nine kickers.
+Seat 0: mariammalek (3135 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+Game #23980734-15 ends
+Game #23980734-16 starts
+Seat 0: mariammalek (3135 Tournament chips) 
+Seat 1: Camp Forever (4680 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+mariammalek posts the small blind [20 Tournament chips]
+Camp Forever posts the big blind [40 Tournament chips]
+mariammalek, at seat 0, is in this hand with 3115 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4640 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3545 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2285 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2050 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4380 Tournament chips.
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 4h 9d ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+QwertySpark folds [40 Tournament chips]
+kleeblatt folds [40 Tournament chips]
+kingphish051 folds [40 Tournament chips]
+ChoctawJ2 folds [40 Tournament chips]
+Earthee1 folds [40 Tournament chips]
+mariammalek calls [20 Tournament chips]
+Camp Forever checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Tc ] board:[ 7c Tc]
+** Dealing Flop ** [ 6s ] board:[ 7c Tc 6s]
+mariammalek checks
+Camp Forever checks
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 7c Tc 6s Qs]
+mariammalek checks
+Camp Forever bets for 80 Tournament chips
+mariammalek folds [80 Tournament chips]
+Camp Forever is returned 80 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Camp Forever (Ac 7c Tc 6s Qs: ace high)
+Camp Forever wins main pot 80 Tournament chips.
+Seat 0: mariammalek (3095 Tournament chips) 
+Seat 1: Camp Forever (4720 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+Game #23980734-16 ends
+Game #23980734-17 starts
+Seat 0: mariammalek (3095 Tournament chips) 
+Seat 1: Camp Forever (4720 Tournament chips) 
+Seat 2: QwertySpark (3545 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2050 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Camp Forever posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+mariammalek, at seat 0, is in this hand with 3095 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4700 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3505 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2285 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2050 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4380 Tournament chips.
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ 6h 5c ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+kleeblatt folds [40 Tournament chips]
+kingphish051 folds [40 Tournament chips]
+ChoctawJ2 calls [40 Tournament chips]
+Earthee1 folds [40 Tournament chips]
+mariammalek calls [40 Tournament chips]
+Camp Forever calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 6c ] board:[ 9s 6c]
+** Dealing Flop ** [ 7d ] board:[ 9s 6c 7d]
+Camp Forever bets for 80 Tournament chips
+QwertySpark raises [400 Tournament chips]
+ChoctawJ2 folds [400 Tournament chips]
+mariammalek folds [400 Tournament chips]
+Camp Forever folds [320 Tournament chips]
+QwertySpark is returned 320 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (6h 5c 9s 6c 7d: a pair of sixes)
+QwertySpark wins main pot 320 Tournament chips.
+Seat 0: mariammalek (3055 Tournament chips) 
+Seat 1: Camp Forever (4600 Tournament chips) 
+Seat 2: QwertySpark (3745 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2010 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+Game #23980734-17 ends
+Game #23980734-18 starts
+Seat 0: mariammalek (3055 Tournament chips) 
+Seat 1: Camp Forever (4600 Tournament chips) 
+Seat 2: QwertySpark (3745 Tournament chips) 
+Seat 4: kleeblatt (2285 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2010 Tournament chips) 
+Seat 8: Earthee1 (4380 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+kleeblatt posts the big blind [40 Tournament chips]
+mariammalek, at seat 0, is in this hand with 3055 Tournament chips.
+Camp Forever, at seat 1, is in this hand with 4600 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3725 Tournament chips.
+kleeblatt, at seat 4, is in this hand with 2245 Tournament chips.
+kingphish051, at seat 6, is in this hand (absent) with 2440 Tournament chips.
+ChoctawJ2, at seat 7, is in this hand with 2010 Tournament chips.
+Earthee1, at seat 8, is in this hand with 4380 Tournament chips.
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+
+kleeblatt is dealt: **
+kingphish051 is dealt: **
+ChoctawJ2 is dealt: **
+Earthee1 is dealt: **
+mariammalek is dealt: **
+Camp Forever is dealt: **
+Dealt to mariammalek [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to QwertySpark [ Ts 9h ]
+Dealt to kleeblatt [ **** ]
+Dealt to kingphish051 [ **** ]
+Dealt to ChoctawJ2 [ **** ]
+Dealt to Earthee1 [ **** ]
+kingphish051 folds [40 Tournament chips]
+ChoctawJ2 folds [40 Tournament chips]
+Earthee1 calls [40 Tournament chips]
+mariammalek calls [40 Tournament chips]
+Camp Forever calls [40 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+kleeblatt checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 8d ] board:[ Th 8d]
+** Dealing Flop ** [ 9d ] board:[ Th 8d 9d]
+QwertySpark bets for 100 Tournament chips
+kleeblatt calls [100 Tournament chips]
+Earthee1 raises all-in [4340 Tournament chips]
+mariammalek folds [3015 Tournament chips]
+Camp Forever folds [4340 Tournament chips]
+QwertySpark calls all-in [3605 Tournament chips]
+kleeblatt folds [2145 Tournament chips]
+Earthee1 is returned 635 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ts 9h ]
+Earthee1 shows [ 7s Jc ]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ Th 8d 9d As]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Th 8d 9d As 2c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ts 9h ] two pair, tens and nines, ace kicker
+Earthee1 shows [ 7s Jc ] straight, jack high
+Earthee1 wins main pot 7710 Tournament chips with straight, jack high.
+Seat 0: mariammalek (3015 Tournament chips) 
+Seat 1: Camp Forever (4560 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 4: kleeblatt (2145 Tournament chips) 
+Seat 6: kingphish051 (2440 Tournament chips) 
+Seat 7: ChoctawJ2 (2010 Tournament chips) 
+Seat 8: Earthee1 (8345 Tournament chips) 
+Game #23980734-18 ends
+Player QwertySpark leaves the table with 0 Tournament chips

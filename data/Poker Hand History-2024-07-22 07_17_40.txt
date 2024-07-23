@@ -1,0 +1,377 @@
+Game#: 23960645
+Khail calls [2225 Tournament chips]
+CletusfromGA folds [1625 Tournament chips]
+Tournament all-in showdown -- players show:
+TooDamnTuff shows [ Jd 4d ]
+Khail shows [ Ts Jh ]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 5s Js 7c 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 5s Js 7c 9s Jc]
+        (no action in this round)
+Round 4 is over.
+TooDamnTuff shows [ Jd 4d ] three jacks, nine/seven kickers
+Khail shows [ Ts Jh ] three jacks, ten/nine kickers
+Khail wins main pot 5650 Tournament chips with three jacks, ten/nine kickers.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 2: TooDamnTuff (0 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7245 Tournament chips) 
+Seat 6: Kathleen80 (720 Tournament chips) 
+Seat 7: morelove21 (4430 Tournament chips) 
+Seat 8: Heartbandit (3703 Tournament chips) 
+Game #23960645-23 ends
+Player TooDamnTuff leaves the table with 0 Tournament chips
+Game #23960645-24 starts
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7245 Tournament chips) 
+Seat 6: Kathleen80 (720 Tournament chips) 
+Seat 7: morelove21 (4430 Tournament chips) 
+Seat 8: Heartbandit (3703 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 5.
+Kathleen80 posts the small blind [75 Tournament chips]
+morelove21 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1920 Tournament chips.
+CletusfromGA, at seat 1, is in this hand with 3555 Tournament chips.
+laserav2, at seat 3, is in this hand with 1230 Tournament chips.
+Khail, at seat 5, is in this hand with 7245 Tournament chips.
+Kathleen80, at seat 6, is in this hand (absent) with 645 Tournament chips.
+morelove21, at seat 7, is in this hand with 4280 Tournament chips.
+Heartbandit, at seat 8, is in this hand with 3703 Tournament chips.
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Dealt to QwertySpark [ 2s Qc ]
+Dealt to CletusfromGA [ **** ]
+Dealt to laserav2 [ **** ]
+Dealt to Khail [ **** ]
+Dealt to Kathleen80 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to Heartbandit [ **** ]
+Heartbandit calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+CletusfromGA folds [150 Tournament chips]
+laserav2 folds [150 Tournament chips]
+Khail folds [150 Tournament chips]
+Kathleen80 folds [75 Tournament chips]
+morelove21 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Th ] board:[ 2d Th]
+** Dealing Flop ** [ 7s ] board:[ 2d Th 7s]
+morelove21 checks
+Heartbandit checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 2d Th 7s 5h]
+morelove21 checks
+Heartbandit checks
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 2d Th 7s 5h Ks]
+morelove21 checks
+Heartbandit checks
+Round 4 is over.
+morelove21 shows [ Js 2h ] a pair of deuces
+Hand evaluation for morelove21 (Js 2h 2d Th Ks: a pair of deuces)
+Heartbandit doesn't show [ 6s Qs ]
+(Heartbandit has 6s Qs.)
+morelove21 wins main pot 375 Tournament chips with a pair of deuces, king/jack kickers.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7245 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4655 Tournament chips) 
+Seat 8: Heartbandit (3553 Tournament chips) 
+Game #23960645-24 ends
+Game #23960645-25 starts
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7245 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4655 Tournament chips) 
+Seat 8: Heartbandit (3553 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+morelove21 posts the small blind [75 Tournament chips]
+Heartbandit posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1920 Tournament chips.
+CletusfromGA, at seat 1, is in this hand with 3555 Tournament chips.
+laserav2, at seat 3, is in this hand with 1230 Tournament chips.
+Khail, at seat 5, is in this hand with 7245 Tournament chips.
+Kathleen80, at seat 6, is in this hand (absent) with 645 Tournament chips.
+morelove21, at seat 7, is in this hand with 4580 Tournament chips.
+Heartbandit, at seat 8, is in this hand with 3403 Tournament chips.
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+Dealt to QwertySpark [ 9d As ]
+Dealt to CletusfromGA [ **** ]
+Dealt to laserav2 [ **** ]
+Dealt to Khail [ **** ]
+Dealt to Kathleen80 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to Heartbandit [ **** ]
+QwertySpark folds [150 Tournament chips]
+CletusfromGA folds [150 Tournament chips]
+laserav2 folds [150 Tournament chips]
+Khail raises [450 Tournament chips]
+Kathleen80 folds [450 Tournament chips]
+morelove21 folds [375 Tournament chips]
+Heartbandit folds [300 Tournament chips]
+Khail is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Khail (4d 4s: a pair of fours)
+Khail wins main pot 375 Tournament chips.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4580 Tournament chips) 
+Seat 8: Heartbandit (3403 Tournament chips) 
+Game #23960645-25 ends
+Game #23960645-26 starts
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: CletusfromGA (3555 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4580 Tournament chips) 
+Seat 8: Heartbandit (3403 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Heartbandit posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1720 Tournament chips.
+CletusfromGA, at seat 1, is in this hand with 3555 Tournament chips.
+laserav2, at seat 3, is in this hand with 1230 Tournament chips.
+Khail, at seat 5, is in this hand with 7470 Tournament chips.
+Kathleen80, at seat 6, is in this hand (absent) with 645 Tournament chips.
+morelove21, at seat 7, is in this hand with 4580 Tournament chips.
+Heartbandit, at seat 8, is in this hand with 3303 Tournament chips.
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Dealt to QwertySpark [ Tc Qd ]
+Dealt to CletusfromGA [ **** ]
+Dealt to laserav2 [ **** ]
+Dealt to Khail [ **** ]
+Dealt to Kathleen80 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to Heartbandit [ **** ]
+CletusfromGA calls [200 Tournament chips]
+laserav2 folds [200 Tournament chips]
+Khail folds [200 Tournament chips]
+Kathleen80 folds [200 Tournament chips]
+morelove21 folds [200 Tournament chips]
+Heartbandit folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 8h ] board:[ Jh 8h]
+** Dealing Flop ** [ Qc ] board:[ Jh 8h Qc]
+QwertySpark bets for 500 Tournament chips
+CletusfromGA folds [500 Tournament chips]
+QwertySpark is returned 500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Tc Qd Jh 8h Qc: a pair of queens)
+QwertySpark wins main pot 500 Tournament chips.
+Seat 0: QwertySpark (2220 Tournament chips) 
+Seat 1: CletusfromGA (3355 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4580 Tournament chips) 
+Seat 8: Heartbandit (3303 Tournament chips) 
+Game #23960645-26 ends
+Game #23960645-27 starts
+Seat 0: QwertySpark (2220 Tournament chips) 
+Seat 1: CletusfromGA (3355 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4580 Tournament chips) 
+Seat 8: Heartbandit (3303 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [100 Tournament chips]
+CletusfromGA posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 2120 Tournament chips.
+CletusfromGA, at seat 1, is in this hand with 3155 Tournament chips.
+laserav2, at seat 3, is in this hand with 1230 Tournament chips.
+Khail, at seat 5, is in this hand with 7470 Tournament chips.
+Kathleen80, at seat 6, is in this hand (absent) with 645 Tournament chips.
+morelove21, at seat 7, is in this hand with 4580 Tournament chips.
+Heartbandit, at seat 8, is in this hand with 3303 Tournament chips.
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+Dealt to QwertySpark [ 7h 3c ]
+Dealt to CletusfromGA [ **** ]
+Dealt to laserav2 [ **** ]
+Dealt to Khail [ **** ]
+Dealt to Kathleen80 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to Heartbandit [ **** ]
+laserav2 folds [200 Tournament chips]
+Khail folds [200 Tournament chips]
+Kathleen80 folds [200 Tournament chips]
+morelove21 calls [200 Tournament chips]
+Heartbandit folds [200 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+CletusfromGA re-raises [2200 Tournament chips]
+morelove21 folds [2200 Tournament chips]
+QwertySpark folds [1820 Tournament chips]
+CletusfromGA is returned 2000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for CletusfromGA (Qs Ac: ace high)
+CletusfromGA wins main pot 1000 Tournament chips.
+Seat 0: QwertySpark (1820 Tournament chips) 
+Seat 1: CletusfromGA (3955 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4380 Tournament chips) 
+Seat 8: Heartbandit (3303 Tournament chips) 
+Game #23960645-27 ends
+Game #23960645-28 starts
+Seat 0: QwertySpark (1820 Tournament chips) 
+Seat 1: CletusfromGA (3955 Tournament chips) 
+Seat 3: laserav2 (1230 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (4380 Tournament chips) 
+Seat 8: Heartbandit (3303 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+CletusfromGA posts the small blind [100 Tournament chips]
+laserav2 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1820 Tournament chips.
+CletusfromGA, at seat 1, is in this hand with 3855 Tournament chips.
+laserav2, at seat 3, is in this hand with 1030 Tournament chips.
+Khail, at seat 5, is in this hand with 7470 Tournament chips.
+Kathleen80, at seat 6, is in this hand (absent) with 645 Tournament chips.
+morelove21, at seat 7, is in this hand with 4380 Tournament chips.
+Heartbandit, at seat 8, is in this hand with 3303 Tournament chips.
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+CletusfromGA is dealt: **
+laserav2 is dealt: **
+Khail is dealt: **
+Kathleen80 is dealt: **
+morelove21 is dealt: **
+Heartbandit is dealt: **
+
+Dealt to QwertySpark [ 2c 4c ]
+Dealt to CletusfromGA [ **** ]
+Dealt to laserav2 [ **** ]
+Dealt to Khail [ **** ]
+Dealt to Kathleen80 [ **** ]
+Dealt to morelove21 [ **** ]
+Dealt to Heartbandit [ **** ]
+Khail folds [200 Tournament chips]
+Kathleen80 folds [200 Tournament chips]
+morelove21 raises [700 Tournament chips]
+Heartbandit calls [700 Tournament chips]
+QwertySpark folds [700 Tournament chips]
+CletusfromGA calls [600 Tournament chips]
+laserav2 re-raises [1000 Tournament chips]
+morelove21 raises all-in [3680 Tournament chips]
+Heartbandit calls all-in [2603 Tournament chips]
+CletusfromGA calls all-in [3255 Tournament chips]
+laserav2 calls all-in [30 Tournament chips]
+morelove21 is returned 425 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+CletusfromGA shows [ Ah Jd ]
+laserav2 shows [ Ks Kd ]
+morelove21 shows [ 5h 5s ]
+Heartbandit shows [ Ad Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 3d ] board:[ 7d 3d]
+** Dealing Flop ** [ Kh ] board:[ 7d 3d Kh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 7d 3d Kh 3s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 7d 3d Kh 3s 9h]
+        (no action in this round)
+Round 4 is over.
+CletusfromGA shows [ Ah Jd ] a pair of threes, ace/king kickers
+laserav2 shows [ Ks Kd ] full house, kings full of threes
+morelove21 shows [ 5h 5s ] two pair, fives and threes, king kicker
+Heartbandit shows [ Ad Tc ] a pair of threes, ace/king kickers
+laserav2 wins main pot 4920 Tournament chips with full house, kings full of threes.
+morelove21 wins side pot #1 6219 Tournament chips with two pair, fives and threes, king kicker.
+morelove21 wins side pot #2 1304 Tournament chips with two pair, fives and threes, king kicker.
+Seat 0: QwertySpark (1820 Tournament chips) 
+Seat 1: CletusfromGA (0 Tournament chips) 
+Seat 3: laserav2 (4920 Tournament chips) 
+Seat 5: Khail (7470 Tournament chips) 
+Seat 6: Kathleen80 (645 Tournament chips) 
+Seat 7: morelove21 (7948 Tournament chips) 
+Seat 8: Heartbandit (0 Tournament chips) 
+Game #23960645-28 ends
+Player Heartbandit leaves the table with 0 Tournament chips
+Player CletusfromGA leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 1820 Tournament chips
+Player morelove21 leaves the table with 7948 Tournament chips
+Player Khail leaves the table with 7470 Tournament chips
+Player Kathleen80 leaves the table with 645 Tournament chips
+Player laserav2 leaves the table with 4920 Tournament chips

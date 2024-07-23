@@ -1,0 +1,886 @@
+Game#: 23949426
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+QwertySpark is dealt: Kd
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+bhamilton15 is dealt: **
+The button is moved to seat 6.
+Game #23949426-1 starts
+Seat 0: JoePrefect (7500 Tournament chips) 
+Seat 1: cartar23 (7500 Tournament chips) 
+Seat 2: bornin38 (7500 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7500 Tournament chips) 
+Seat 6: Camp Forever (7500 Tournament chips) 
+Seat 7: AObush2763 (7500 Tournament chips) 
+Seat 8: bhamilton15 (7500 Tournament chips) 
+The button is at seat 6
+AObush2763 posts the small blind [25 Tournament chips]
+bhamilton15 posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand with 7500 Tournament chips.
+cartar23, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 7500 Tournament chips.
+bri99mjo, at seat 3, is in this hand (absent) with 7500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Simple_G65, at seat 5, is in this hand (absent) with 7500 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7500 Tournament chips.
+AObush2763, at seat 7, is in this hand (absent) with 7475 Tournament chips.
+bhamilton15, at seat 8, is in this hand with 7450 Tournament chips.
+AObush2763 is dealt: **
+bhamilton15 is dealt: **
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+bhamilton15 is dealt: **
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to cartar23 [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 5s Qc ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to bhamilton15 [ **** ]
+JoePrefect folds [50 Tournament chips]
+cartar23 calls [50 Tournament chips]
+bornin38 calls [50 Tournament chips]
+bri99mjo folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Simple_G65 folds [50 Tournament chips]
+Camp Forever calls [50 Tournament chips]
+AObush2763 calls [25 Tournament chips]
+bhamilton15 checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ As ] board:[ 3h As]
+** Dealing Flop ** [ 6s ] board:[ 3h As 6s]
+AObush2763 checks
+bhamilton15 checks
+cartar23 checks
+bornin38 bets for 250 Tournament chips
+Camp Forever folds [250 Tournament chips]
+AObush2763 folds [250 Tournament chips]
+bhamilton15 calls [250 Tournament chips]
+cartar23 folds [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 3h As 6s 6d]
+bhamilton15 checks
+bornin38 bets for 750 Tournament chips
+bhamilton15 calls [750 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 3h As 6s 6d Jc]
+bhamilton15 checks
+bornin38 bets for 2250 Tournament chips
+bhamilton15 folds [2250 Tournament chips]
+bornin38 is returned 2250 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for bornin38 (3c 3s 3h 6s 6d: full house, threes full of sixes)
+bornin38 wins main pot 2250 Tournament chips.
+Seat 0: JoePrefect (7500 Tournament chips) 
+Seat 1: cartar23 (7450 Tournament chips) 
+Seat 2: bornin38 (8700 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7500 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (7450 Tournament chips) 
+Seat 8: bhamilton15 (6450 Tournament chips) 
+Game #23949426-1 ends
+Game #23949426-2 starts
+Seat 0: JoePrefect (7500 Tournament chips) 
+Seat 1: cartar23 (7450 Tournament chips) 
+Seat 2: bornin38 (8700 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7500 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (7450 Tournament chips) 
+Seat 8: bhamilton15 (6450 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+bhamilton15 posts the small blind [25 Tournament chips]
+JoePrefect posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7450 Tournament chips.
+cartar23, at seat 1, is in this hand with 7450 Tournament chips.
+bornin38, at seat 2, is in this hand with 8700 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7500 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 7450 Tournament chips.
+bhamilton15, at seat 8, is in this hand with 6425 Tournament chips.
+bhamilton15 is dealt: **
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+bhamilton15 is dealt: **
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to cartar23 [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 4d Kd ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to bhamilton15 [ **** ]
+cartar23 calls [50 Tournament chips]
+bornin38 calls [50 Tournament chips]
+bri99mjo folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Simple_G65 calls [50 Tournament chips]
+Camp Forever folds [50 Tournament chips]
+AObush2763 raises all-in [7450 Tournament chips]
+bhamilton15 calls all-in [6425 Tournament chips]
+JoePrefect folds [7400 Tournament chips]
+cartar23 folds [7400 Tournament chips]
+bornin38 folds [7400 Tournament chips]
+Simple_G65 folds [7400 Tournament chips]
+AObush2763 is returned 1000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+AObush2763 shows [ Ah 6h ]
+bhamilton15 shows [ 9h Ks ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 7s ] board:[ 2s 7s]
+** Dealing Flop ** [ 2d ] board:[ 2s 7s 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 2s 7s 2d 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 2s 7s 2d 3d 2h]
+        (no action in this round)
+Round 4 is over.
+AObush2763 shows [ Ah 6h ] three deuces, ace/seven kickers
+bhamilton15 shows [ 9h Ks ] three deuces, king/nine kickers
+AObush2763 wins main pot 13100 Tournament chips with three deuces, ace/seven kickers.
+Seat 0: JoePrefect (7450 Tournament chips) 
+Seat 1: cartar23 (7400 Tournament chips) 
+Seat 2: bornin38 (8650 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7450 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (14100 Tournament chips) 
+Seat 8: bhamilton15 (0 Tournament chips) 
+Game #23949426-2 ends
+Player bhamilton15 leaves the table with 0 Tournament chips
+Game #23949426-3 starts
+Seat 0: JoePrefect (7450 Tournament chips) 
+Seat 1: cartar23 (7400 Tournament chips) 
+Seat 2: bornin38 (8650 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7450 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (14100 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+JoePrefect posts the small blind [25 Tournament chips]
+cartar23 posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+cartar23, at seat 1, is in this hand with 7350 Tournament chips.
+bornin38, at seat 2, is in this hand with 8650 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7450 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 14100 Tournament chips.
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+JoePrefect is dealt: **
+cartar23 is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to cartar23 [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 8s Qc ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+bornin38 folds [50 Tournament chips]
+bri99mjo folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Simple_G65 folds [50 Tournament chips]
+Camp Forever folds [50 Tournament chips]
+AObush2763 raises all-in [14100 Tournament chips]
+JoePrefect folds [7425 Tournament chips]
+cartar23 calls all-in [7350 Tournament chips]
+AObush2763 is returned 6700 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+cartar23 shows [ Ah Kh ]
+AObush2763 shows [ 6s 4s ]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 6d ] board:[ 9s 6d]
+** Dealing Flop ** [ 5s ] board:[ 9s 6d 5s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 9s 6d 5s Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 9s 6d 5s Qs Qh]
+        (no action in this round)
+Round 4 is over.
+cartar23 shows [ Ah Kh ] a pair of queens, ace/king kickers
+AObush2763 shows [ 6s 4s ] flush, queen/nine/six high
+AObush2763 wins main pot 14825 Tournament chips with flush, queen/nine/six high.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: cartar23 (0 Tournament chips) 
+Seat 2: bornin38 (8650 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7450 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (21525 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+Game #23949426-3 ends
+Player cartar23 leaves the table with 0 Tournament chips
+Game #23949426-4 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 2: bornin38 (8650 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7450 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (21525 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+bornin38 posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+bornin38, at seat 2, is in this hand with 8600 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7500 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7450 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 21525 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 7500 Tournament chips.
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ Jc 7d ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+bri99mjo folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Simple_G65 calls [50 Tournament chips]
+Camp Forever folds [50 Tournament chips]
+AObush2763 calls [50 Tournament chips]
+LuckyPsycho1 folds [50 Tournament chips]
+JoePrefect folds [50 Tournament chips]
+bornin38 raises [150 Tournament chips]
+Simple_G65 calls [150 Tournament chips]
+AObush2763 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5d ] board:[ Ts 5d]
+** Dealing Flop ** [ 4c ] board:[ Ts 5d 4c]
+bornin38 bets for 600 Tournament chips
+Simple_G65 folds [600 Tournament chips]
+AObush2763 calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Ts 5d 4c Qd]
+bornin38 bets for 1800 Tournament chips
+AObush2763 raises all-in [20725 Tournament chips]
+bornin38 calls all-in [6050 Tournament chips]
+AObush2763 is returned 12875 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+bornin38 shows [ Ah Th ]
+AObush2763 shows [ 3c 4d ]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Ts 5d 4c Qd 2h]
+        (no action in this round)
+Round 4 is over.
+bornin38 shows [ Ah Th ] a pair of tens, ace/queen kickers
+AObush2763 shows [ 3c 4d ] a pair of fours, queen/ten kickers
+bornin38 wins main pot 17500 Tournament chips with a pair of tens, ace/queen kickers.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17500 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7250 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (12875 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+Game #23949426-4 ends
+AObush2763: Nice program
+Game #23949426-5 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17500 Tournament chips) 
+Seat 3: bri99mjo (7500 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7250 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (12875 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+The button is at seat 0
+bornin38 posts the small blind [25 Tournament chips]
+bri99mjo posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7450 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7500 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7250 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 12875 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 7500 Tournament chips.
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ Qc 8s ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+QwertySpark folds [50 Tournament chips]
+Simple_G65 calls [50 Tournament chips]
+Camp Forever folds [50 Tournament chips]
+AObush2763: Hey I was wonderful in it
+AObush2763 raises all-in [12875 Tournament chips]
+LuckyPsycho1 folds [7500 Tournament chips]
+JoePrefect folds [7425 Tournament chips]
+bornin38 folds [12850 Tournament chips]
+bri99mjo folds [7450 Tournament chips]
+Simple_G65 folds [7200 Tournament chips]
+AObush2763 is returned 12825 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for AObush2763 (Tc 5s: ten high)
+AObush2763 shows [ Tc 5s ] ten high
+Hand evaluation for AObush2763 (Tc 5s: ten high)
+AObush2763 wins main pot 175 Tournament chips.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7450 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7200 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13000 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+Game #23949426-5 ends
+Game #23949426-6 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7450 Tournament chips) 
+Seat 4: QwertySpark (7500 Tournament chips) 
+Seat 5: Simple_G65 (7200 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13000 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+bri99mjo posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+DeeTain, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7425 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7450 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7200 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 13000 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 7500 Tournament chips.
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to DeeTain [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 5s Tc ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+Simple_G65 folds [50 Tournament chips]
+Camp Forever: certainly a donk show in here
+Camp Forever folds [50 Tournament chips]
+AObush2763 raises all-in [13000 Tournament chips]
+LuckyPsycho1 folds [7500 Tournament chips]
+JoePrefect folds [7425 Tournament chips]
+DeeTain folds [7500 Tournament chips]
+bornin38 folds [13000 Tournament chips]
+bri99mjo folds [7425 Tournament chips]
+QwertySpark folds [7450 Tournament chips]
+AObush2763 is returned 12950 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for AObush2763 (2c Ah: ace high)
+AObush2763 wins main pot 125 Tournament chips.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7425 Tournament chips) 
+Seat 4: QwertySpark (7450 Tournament chips) 
+Seat 5: Simple_G65 (7200 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13075 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+Game #23949426-6 ends
+(bornin38 has entered the table, is no longer absent.)
+Game #23949426-7 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7425 Tournament chips) 
+Seat 4: QwertySpark (7450 Tournament chips) 
+Seat 5: Simple_G65 (7200 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13075 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [25 Tournament chips]
+Simple_G65 posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+DeeTain, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7425 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7425 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7150 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7450 Tournament chips.
+AObush2763, at seat 7, is in this hand with 13075 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 7500 Tournament chips.
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to DeeTain [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ Qc Ah ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+Camp Forever folds [50 Tournament chips]
+AObush2763 calls [50 Tournament chips]
+LuckyPsycho1 folds [50 Tournament chips]
+JoePrefect folds [50 Tournament chips]
+DeeTain folds [50 Tournament chips]
+bornin38 folds [50 Tournament chips]
+bri99mjo calls [50 Tournament chips]
+Camp Forever: ? no *****
+QwertySpark calls [25 Tournament chips]
+Simple_G65 checks
+Round 1 is over.
+AObush2763: Let me get this right I'm a dog for letting someone draw out on me she okay
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Td ] board:[ 4c Td]
+** Dealing Flop ** [ Kd ] board:[ 4c Td Kd]
+QwertySpark bets for 150 Tournament chips
+Simple_G65 calls [150 Tournament chips]
+Camp Forever: donk is a donk
+AObush2763: Whoops never mind you're blonde
+AObush2763 folds [150 Tournament chips]
+bri99mjo folds [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 4c Td Kd 8h]
+QwertySpark checks
+Simple_G65 checks
+Round 3 is over.
+Camp Forever: card say it all
+** Dealing River ** [ 7d ] board:[ 4c Td Kd 8h 7d]
+QwertySpark checks
+Simple_G65 checks
+Round 4 is over.
+QwertySpark shows [ Qc Ah ] ace high
+Hand evaluation for QwertySpark (Qc Ah Td Kd 8h: ace high)
+Simple_G65 shows [ 4d 2h ] a pair of fours
+Hand evaluation for Simple_G65 (4d 4c Td Kd 8h: a pair of fours)
+Simple_G65 wins main pot 500 Tournament chips with a pair of fours, king/ten kickers.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (7250 Tournament chips) 
+Seat 5: Simple_G65 (7500 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13025 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+Game #23949426-7 ends
+Game #23949426-8 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (7250 Tournament chips) 
+Seat 5: Simple_G65 (7500 Tournament chips) 
+Seat 6: Camp Forever (7450 Tournament chips) 
+Seat 7: AObush2763 (13025 Tournament chips) 
+Seat 8: LuckyPsycho1 (7500 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Simple_G65 posts the small blind [25 Tournament chips]
+Camp Forever posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+DeeTain, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7250 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7475 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7400 Tournament chips.
+AObush2763, at seat 7, is in this hand with 13025 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 7500 Tournament chips.
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Dealt to JoePrefect [ **** ]
+Dealt to DeeTain [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 2d 2h ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+AObush2763 raises all-in [13025 Tournament chips]
+LuckyPsycho1 calls all-in [7500 Tournament chips]
+JoePrefect folds [7425 Tournament chips]
+DeeTain folds [7500 Tournament chips]
+bornin38 folds [13025 Tournament chips]
+bri99mjo folds [7375 Tournament chips]
+QwertySpark folds [7250 Tournament chips]
+Simple_G65 folds [7475 Tournament chips]
+Camp Forever folds [7400 Tournament chips]
+AObush2763 is returned 5525 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+AObush2763 shows [ Jh Kh ]
+LuckyPsycho1 shows [ As Jc ]
+Round 1 is over.
+Camp Forever: you showed your mentality already....
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 7h ] board:[ Ah 7h]
+** Dealing Flop ** [ Qs ] board:[ Ah 7h Qs]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ Ah 7h Qs 7d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ Ah 7h Qs 7d 3d]
+        (no action in this round)
+Round 4 is over.
+AObush2763 shows [ Jh Kh ] a pair of sevens, ace/king kickers
+LuckyPsycho1 shows [ As Jc ] two pair, aces and sevens, queen kicker
+LuckyPsycho1 wins main pot 15075 Tournament chips with two pair, aces and sevens, queen kicker.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (7250 Tournament chips) 
+Seat 5: Simple_G65 (7475 Tournament chips) 
+Seat 6: Camp Forever (7400 Tournament chips) 
+Seat 7: AObush2763 (5525 Tournament chips) 
+Seat 8: LuckyPsycho1 (15075 Tournament chips) 
+Game #23949426-8 ends
+Game #23949426-9 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (7250 Tournament chips) 
+Seat 5: Simple_G65 (7475 Tournament chips) 
+Seat 6: Camp Forever (7400 Tournament chips) 
+Seat 7: AObush2763 (5525 Tournament chips) 
+Seat 8: LuckyPsycho1 (15075 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Camp Forever posts the small blind [25 Tournament chips]
+AObush2763 posts the big blind [50 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+DeeTain, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 7250 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7475 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7375 Tournament chips.
+AObush2763, at seat 7, is in this hand with 5475 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 15075 Tournament chips.
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to DeeTain [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ Kd 3d ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+AObush2763: Put on your knees
+LuckyPsycho1 folds [50 Tournament chips]
+JoePrefect folds [50 Tournament chips]
+DeeTain folds [50 Tournament chips]
+bornin38 folds [50 Tournament chips]
+bri99mjo folds [50 Tournament chips]
+AObush2763: I'm trying to give birth to somebody can take me out I didn't mean to get in this tournament I've got five three off suit and I'm going to call
+QwertySpark calls [50 Tournament chips]
+Simple_G65 folds [50 Tournament chips]
+Camp Forever: dont be fooled by an avatar you idiot...
+Camp Forever folds [25 Tournament chips]
+AObush2763 raises all-in [5475 Tournament chips]
+QwertySpark calls [5475 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kd 3d ]
+AObush2763 shows [ 5d 3s ]
+Round 1 is over.
+Camp Forever: again... stupid mentality
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 5h ] board:[ 4s 5h]
+** Dealing Flop ** [ Qc ] board:[ 4s 5h Qc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 4s 5h Qc Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 4s 5h Qc Qs 7d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kd 3d ] a pair of queens, king/seven kickers
+AObush2763 shows [ 5d 3s ] two pair, queens and fives, seven kicker
+AObush2763 wins main pot 11075 Tournament chips with two pair, queens and fives, seven kicker.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (1725 Tournament chips) 
+Seat 5: Simple_G65 (7475 Tournament chips) 
+Seat 6: Camp Forever (7375 Tournament chips) 
+Seat 7: AObush2763 (11075 Tournament chips) 
+Seat 8: LuckyPsycho1 (15075 Tournament chips) 
+Game #23949426-9 ends
+Game #23949426-10 starts
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17475 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (1725 Tournament chips) 
+Seat 5: Simple_G65 (7475 Tournament chips) 
+Seat 6: Camp Forever (7375 Tournament chips) 
+Seat 7: AObush2763 (11075 Tournament chips) 
+Seat 8: LuckyPsycho1 (15075 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+AObush2763 posts the small blind [50 Tournament chips]
+LuckyPsycho1 posts the big blind [100 Tournament chips]
+JoePrefect, at seat 0, is in this hand (absent) with 7425 Tournament chips.
+DeeTain, at seat 1, is in this hand with 7500 Tournament chips.
+bornin38, at seat 2, is in this hand with 17475 Tournament chips.
+bri99mjo, at seat 3, is in this hand with 7375 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1725 Tournament chips.
+Simple_G65, at seat 5, is in this hand with 7475 Tournament chips.
+Camp Forever, at seat 6, is in this hand with 7375 Tournament chips.
+AObush2763, at seat 7, is in this hand with 11025 Tournament chips.
+LuckyPsycho1, at seat 8, is in this hand with 14975 Tournament chips.
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+AObush2763 is dealt: **
+LuckyPsycho1 is dealt: **
+JoePrefect is dealt: **
+DeeTain is dealt: **
+bornin38 is dealt: **
+bri99mjo is dealt: **
+
+Simple_G65 is dealt: **
+Camp Forever is dealt: **
+Dealt to JoePrefect [ **** ]
+Dealt to DeeTain [ **** ]
+Dealt to bornin38 [ **** ]
+Dealt to bri99mjo [ **** ]
+Dealt to QwertySpark [ 9d 7d ]
+Dealt to Simple_G65 [ **** ]
+Dealt to Camp Forever [ **** ]
+Dealt to AObush2763 [ **** ]
+Dealt to LuckyPsycho1 [ **** ]
+JoePrefect folds [100 Tournament chips]
+DeeTain folds [100 Tournament chips]
+AObush2763: I told you what I had
+bornin38 calls [100 Tournament chips]
+bri99mjo folds [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Simple_G65 folds [100 Tournament chips]
+AObush2763: Base five all them
+Camp Forever: shi
+Camp Forever folds [100 Tournament chips]
+AObush2763 raises all-in [11025 Tournament chips]
+LuckyPsycho1 folds [10975 Tournament chips]
+bornin38 folds [10975 Tournament chips]
+QwertySpark calls all-in [1625 Tournament chips]
+AObush2763 is returned 9350 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9d 7d ]
+AObush2763 shows [ 5s Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 7c ] board:[ Ad 7c]
+** Dealing Flop ** [ Th ] board:[ Ad 7c Th]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ Ad 7c Th 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Ad 7c Th 2s 4s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 9d 7d ] a pair of sevens, ace/ten kickers
+AObush2763 shows [ 5s Ac ] a pair of aces, ten/seven kickers
+AObush2763 wins main pot 3650 Tournament chips with a pair of aces, ten/seven kickers.
+Seat 0: JoePrefect (7425 Tournament chips) 
+Seat 1: DeeTain (7500 Tournament chips) 
+Seat 2: bornin38 (17375 Tournament chips) 
+Seat 3: bri99mjo (7375 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: Simple_G65 (7475 Tournament chips) 
+Seat 6: Camp Forever (7375 Tournament chips) 
+Seat 7: AObush2763 (13000 Tournament chips) 
+Seat 8: LuckyPsycho1 (14975 Tournament chips) 
+Game #23949426-10 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+AObush2763: ty

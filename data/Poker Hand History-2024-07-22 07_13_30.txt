@@ -1,0 +1,178 @@
+Game#: 24007856
+Danda2424 is dealt: **
+JackMabe is dealt: **
+HavinFunCO is dealt: **
+jamacared is dealt: **
+soo23 is dealt: **
+SadatGnosis is dealt: **
+eddsobo74 is dealt: **
+QwertySpark is dealt: 2h
+Vote4ALK2024 is dealt: **
+The button is moved to seat 4.
+Game #24007856-1 starts
+Seat 0: Danda2424 (1000 Tournament chips) 
+Seat 1: JackMabe (1000 Tournament chips) 
+Seat 2: HavinFunCO (1000 Tournament chips) 
+Seat 3: jamacared (1000 Tournament chips) 
+Seat 4: soo23 (1000 Tournament chips) 
+Seat 5: SadatGnosis (1000 Tournament chips) 
+Seat 6: eddsobo74 (1000 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: Vote4ALK2024 (1000 Tournament chips) 
+The button is at seat 4
+SadatGnosis posts the small blind [5 Tournament chips]
+eddsobo74 posts the big blind [10 Tournament chips]
+Danda2424, at seat 0, is in this hand with 1000 Tournament chips.
+JackMabe, at seat 1, is in this hand with 1000 Tournament chips.
+HavinFunCO, at seat 2, is in this hand with 1000 Tournament chips.
+jamacared, at seat 3, is in this hand with 1000 Tournament chips.
+soo23, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+SadatGnosis, at seat 5, is in this hand with 995 Tournament chips.
+eddsobo74, at seat 6, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 1000 Tournament chips.
+Vote4ALK2024, at seat 8, is in this hand with 1000 Tournament chips.
+SadatGnosis is dealt: **
+eddsobo74 is dealt: **
+
+Vote4ALK2024 is dealt: **
+Danda2424 is dealt: **
+JackMabe is dealt: **
+HavinFunCO is dealt: **
+jamacared is dealt: **
+soo23 is dealt: **
+SadatGnosis is dealt: **
+eddsobo74 is dealt: **
+
+Vote4ALK2024 is dealt: **
+Danda2424 is dealt: **
+JackMabe is dealt: **
+HavinFunCO is dealt: **
+jamacared is dealt: **
+soo23 is dealt: **
+Dealt to Danda2424 [ **** ]
+Dealt to JackMabe [ **** ]
+Dealt to HavinFunCO [ **** ]
+Dealt to jamacared [ **** ]
+Dealt to soo23 [ **** ]
+Dealt to SadatGnosis [ **** ]
+Dealt to eddsobo74 [ **** ]
+Dealt to QwertySpark [ 5d 7c ]
+Dealt to Vote4ALK2024 [ **** ]
+QwertySpark folds [10 Tournament chips]
+Vote4ALK2024 calls [10 Tournament chips]
+Danda2424 folds [10 Tournament chips]
+JackMabe folds [10 Tournament chips]
+HavinFunCO folds [10 Tournament chips]
+jamacared calls [10 Tournament chips]
+soo23 folds [10 Tournament chips]
+SadatGnosis folds [5 Tournament chips]
+eddsobo74 folds
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 2h ] board:[ 8s 2h]
+** Dealing Flop ** [ Jc ] board:[ 8s 2h Jc]
+Vote4ALK2024 has timed out - the hand is checked
+jamacared goes all-in for 990 Tournament chips
+Vote4ALK2024 folds [990 Tournament chips]
+jamacared is returned 990 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for jamacared (Kc Jh 8s 2h Jc: a pair of jacks)
+jamacared wins main pot 35 Tournament chips.
+Seat 0: Danda2424 (1000 Tournament chips) 
+Seat 1: JackMabe (1000 Tournament chips) 
+Seat 2: HavinFunCO (1000 Tournament chips) 
+Seat 3: jamacared (1025 Tournament chips) 
+Seat 4: soo23 (1000 Tournament chips) 
+Seat 5: SadatGnosis (995 Tournament chips) 
+Seat 6: eddsobo74 (990 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: Vote4ALK2024 (990 Tournament chips) 
+Game #24007856-1 ends
+Game #24007856-2 starts
+Seat 0: Danda2424 (1000 Tournament chips) 
+Seat 1: JackMabe (1000 Tournament chips) 
+Seat 2: HavinFunCO (1000 Tournament chips) 
+Seat 3: jamacared (1025 Tournament chips) 
+Seat 4: soo23 (1000 Tournament chips) 
+Seat 5: SadatGnosis (995 Tournament chips) 
+Seat 6: eddsobo74 (990 Tournament chips) 
+Seat 7: QwertySpark (1000 Tournament chips) 
+Seat 8: Vote4ALK2024 (990 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+eddsobo74 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+Danda2424, at seat 0, is in this hand with 1000 Tournament chips.
+JackMabe, at seat 1, is in this hand with 1000 Tournament chips.
+HavinFunCO, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+jamacared, at seat 3, is in this hand with 1025 Tournament chips.
+soo23, at seat 4, is in this hand with 1000 Tournament chips.
+SadatGnosis, at seat 5, is in this hand with 995 Tournament chips.
+eddsobo74, at seat 6, is in this hand (absent) with 985 Tournament chips.
+QwertySpark, at seat 7, is in this hand with 990 Tournament chips.
+Vote4ALK2024, at seat 8, is in this hand (absent) with 990 Tournament chips.
+eddsobo74 is dealt: **
+
+Vote4ALK2024 is dealt: **
+Danda2424 is dealt: **
+JackMabe is dealt: **
+HavinFunCO is dealt: **
+jamacared is dealt: **
+soo23 is dealt: **
+SadatGnosis is dealt: **
+eddsobo74 is dealt: **
+
+Vote4ALK2024 is dealt: **
+Danda2424 is dealt: **
+JackMabe is dealt: **
+HavinFunCO is dealt: **
+jamacared is dealt: **
+soo23 is dealt: **
+SadatGnosis is dealt: **
+Dealt to Danda2424 [ **** ]
+Dealt to JackMabe [ **** ]
+Dealt to HavinFunCO [ **** ]
+Dealt to jamacared [ **** ]
+Dealt to soo23 [ **** ]
+Dealt to SadatGnosis [ **** ]
+Dealt to eddsobo74 [ **** ]
+Dealt to QwertySpark [ Kd Jh ]
+Dealt to Vote4ALK2024 [ **** ]
+Vote4ALK2024 folds [10 Tournament chips]
+Danda2424 folds [10 Tournament chips]
+JackMabe folds [10 Tournament chips]
+HavinFunCO folds [10 Tournament chips]
+jamacared folds [10 Tournament chips]
+soo23 raises all-in [1000 Tournament chips]
+SadatGnosis folds [995 Tournament chips]
+eddsobo74 folds [985 Tournament chips]
+QwertySpark calls all-in [990 Tournament chips]
+Tournament all-in showdown -- players show:
+soo23 shows [ 6s Ks ]
+QwertySpark shows [ Kd Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 8d ] board:[ 6h 8d]
+** Dealing Flop ** [ 9d ] board:[ 6h 8d 9d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 6h 8d 9d Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 6h 8d 9d Qc 4d]
+        (no action in this round)
+Round 4 is over.
+soo23 shows [ 6s Ks ] a pair of sixes, king/queen kickers
+QwertySpark shows [ Kd Jh ] king/queen/jack high
+soo23 wins main pot 2005 Tournament chips with a pair of sixes, king/queen kickers.
+Seat 0: Danda2424 (1000 Tournament chips) 
+Seat 1: JackMabe (1000 Tournament chips) 
+Seat 2: HavinFunCO (1000 Tournament chips) 
+Seat 3: jamacared (1025 Tournament chips) 
+Seat 4: soo23 (2005 Tournament chips) 
+Seat 5: SadatGnosis (995 Tournament chips) 
+Seat 6: eddsobo74 (985 Tournament chips) 
+Seat 7: QwertySpark (0 Tournament chips) 
+Seat 8: Vote4ALK2024 (990 Tournament chips) 
+Game #24007856-2 ends
+Player QwertySpark leaves the table with 0 Tournament chips

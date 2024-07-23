@@ -1,0 +1,583 @@
+Game#: 23980366
+EdBishara folds [20 Tournament chips]
+junior7146 folds [20 Tournament chips]
+Cooperlara folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Dave8143 calls [20 Tournament chips]
+Eclipse64 folds [20 Tournament chips]
+Pokerchip folds [20 Tournament chips]
+VTTrout calls [10 Tournament chips]
+cantstandcha checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 9d ] board:[ As 9d]
+** Dealing Flop ** [ Ad ] board:[ As 9d Ad]
+VTTrout checks
+cantstandcha checks
+QwertySpark bets for 140 Tournament chips
+Dave8143 folds [140 Tournament chips]
+VTTrout folds [140 Tournament chips]
+cantstandcha calls [140 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ As 9d Ad 8h]
+cantstandcha checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ As 9d Ad 8h Th]
+cantstandcha checks
+QwertySpark bets for 180 Tournament chips
+cantstandcha folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ac As 9d Ad Th: three aces)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 0: junior7146 (2020 Tournament chips) 
+Seat 1: Cooperlara (1755 Tournament chips) 
+Seat 2: QwertySpark (2200 Tournament chips) 
+Seat 3: Dave8143 (1980 Tournament chips) 
+Seat 4: Eclipse64 (6015 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 6: VTTrout (2205 Tournament chips) 
+Seat 7: cantstandcha (1840 Tournament chips) 
+Seat 8: EdBishara (2000 Tournament chips) 
+Game #23980366-5 ends
+Game #23980366-6 starts
+Seat 0: junior7146 (2020 Tournament chips) 
+Seat 1: Cooperlara (1755 Tournament chips) 
+Seat 2: QwertySpark (2200 Tournament chips) 
+Seat 3: Dave8143 (1980 Tournament chips) 
+Seat 4: Eclipse64 (6015 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 6: VTTrout (2205 Tournament chips) 
+Seat 7: cantstandcha (1840 Tournament chips) 
+Seat 8: EdBishara (2000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+cantstandcha posts the small blind [10 Tournament chips]
+EdBishara posts the big blind [20 Tournament chips]
+junior7146, at seat 0, is in this hand with 2020 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1755 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2200 Tournament chips.
+Dave8143, at seat 3, is in this hand with 1980 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 6015 Tournament chips.
+Pokerchip, at seat 5, is in this hand (absent) with 1985 Tournament chips.
+VTTrout, at seat 6, is in this hand with 2205 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1980 Tournament chips.
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+VTTrout is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+VTTrout is dealt: **
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ Qh 2c ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to VTTrout [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+junior7146 calls [20 Tournament chips]
+Cooperlara calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Dave8143 raises [60 Tournament chips]
+Eclipse64 folds [60 Tournament chips]
+Pokerchip folds [60 Tournament chips]
+VTTrout re-raises [250 Tournament chips]
+cantstandcha folds [240 Tournament chips]
+EdBishara folds [230 Tournament chips]
+junior7146 calls [230 Tournament chips]
+Cooperlara folds [230 Tournament chips]
+Dave8143 calls [190 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 4d ] board:[ 6s 4d]
+** Dealing Flop ** [ Jd ] board:[ 6s 4d Jd]
+(Pokerchip has entered the table, is no longer absent.)
+junior7146 checks
+Dave8143 checks
+VTTrout bets for 20 Tournament chips
+junior7146 raises [40 Tournament chips]
+Dave8143 calls [40 Tournament chips]
+VTTrout calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 6s 4d Jd 4s]
+junior7146 goes all-in for 1730 Tournament chips
+Dave8143 folds [1690 Tournament chips]
+VTTrout calls [1730 Tournament chips]
+Tournament all-in showdown -- players show:
+junior7146 shows [ Js Ad ]
+VTTrout shows [ Jh 7h ]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 6s 4d Jd 4s 8h]
+        (no action in this round)
+Round 4 is over.
+junior7146 shows [ Js Ad ] two pair, jacks and fours, ace kicker
+VTTrout shows [ Jh 7h ] two pair, jacks and fours, eight kicker
+junior7146 wins main pot 4380 Tournament chips with two pair, jacks and fours, ace kicker.
+Seat 0: junior7146 (4380 Tournament chips) 
+Seat 1: Cooperlara (1735 Tournament chips) 
+Seat 2: QwertySpark (2200 Tournament chips) 
+Seat 3: Dave8143 (1690 Tournament chips) 
+Seat 4: Eclipse64 (6015 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 6: VTTrout (185 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1980 Tournament chips) 
+Game #23980366-6 ends
+Game #23980366-7 starts
+Seat 0: junior7146 (4380 Tournament chips) 
+Seat 1: Cooperlara (1735 Tournament chips) 
+Seat 2: QwertySpark (2200 Tournament chips) 
+Seat 3: Dave8143 (1690 Tournament chips) 
+Seat 4: Eclipse64 (6015 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 6: VTTrout (185 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1980 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+EdBishara posts the small blind [10 Tournament chips]
+junior7146 posts the big blind [20 Tournament chips]
+junior7146, at seat 0, is in this hand with 4360 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1735 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2200 Tournament chips.
+Dave8143, at seat 3, is in this hand with 1690 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 6015 Tournament chips.
+Pokerchip, at seat 5, is in this hand with 1985 Tournament chips.
+VTTrout, at seat 6, is in this hand with 185 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1970 Tournament chips.
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+VTTrout is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+VTTrout is dealt: **
+cantstandcha is dealt: **
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ Js Qc ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to VTTrout [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+Cooperlara calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Dave8143 calls [20 Tournament chips]
+Eclipse64 calls [20 Tournament chips]
+Pokerchip folds [20 Tournament chips]
+VTTrout raises all-in [185 Tournament chips]
+cantstandcha folds [185 Tournament chips]
+EdBishara folds [175 Tournament chips]
+junior7146 folds [165 Tournament chips]
+Cooperlara calls [165 Tournament chips]
+QwertySpark calls [165 Tournament chips]
+Dave8143 folds [165 Tournament chips]
+Eclipse64 calls [165 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 5c ] board:[ Ah 5c]
+** Dealing Flop ** [ 7c ] board:[ Ah 5c 7c]
+Cooperlara checks
+QwertySpark bets for 395 Tournament chips
+Eclipse64 calls [395 Tournament chips]
+Cooperlara folds [395 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Ah 5c 7c Th]
+QwertySpark checks
+Eclipse64 checks
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Ah 5c 7c Th 2c]
+QwertySpark checks
+Eclipse64 bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 4 is over.
+Eclipse64 shows [ Kd As ] a pair of aces
+Hand evaluation for Eclipse64 (Kd As Ah 7c Th: a pair of aces)
+VTTrout shows [ 3h Qd ] ace high
+Hand evaluation for VTTrout (Qd Ah 5c 7c Th: ace high)
+QwertySpark shows [ Js Qc ] ace high
+Hand evaluation for QwertySpark (Js Qc Ah 7c Th: ace high)
+Eclipse64 wins main pot 790 Tournament chips with a pair of aces, king/ten kickers.
+Eclipse64 wins side pot #1 830 Tournament chips with a pair of aces, king/ten kickers.
+Seat 0: junior7146 (4360 Tournament chips) 
+Seat 1: Cooperlara (1550 Tournament chips) 
+Seat 2: QwertySpark (1600 Tournament chips) 
+Seat 3: Dave8143 (1670 Tournament chips) 
+Seat 4: Eclipse64 (7035 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 6: VTTrout (0 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+Game #23980366-7 ends
+Player VTTrout leaves the table with 0 Tournament chips
+Game #23980366-8 starts
+Seat 0: junior7146 (4360 Tournament chips) 
+Seat 1: Cooperlara (1550 Tournament chips) 
+Seat 2: QwertySpark (1600 Tournament chips) 
+Seat 3: Dave8143 (1670 Tournament chips) 
+Seat 4: Eclipse64 (7035 Tournament chips) 
+Seat 5: Pokerchip (1985 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+junior7146 posts the small blind [15 Tournament chips]
+Cooperlara posts the big blind [30 Tournament chips]
+junior7146, at seat 0, is in this hand with 4345 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1520 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1600 Tournament chips.
+Dave8143, at seat 3, is in this hand with 1670 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 7035 Tournament chips.
+Pokerchip, at seat 5, is in this hand with 1985 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1970 Tournament chips.
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ 8s Tc ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+QwertySpark folds [30 Tournament chips]
+Dave8143 calls [30 Tournament chips]
+Eclipse64 calls [30 Tournament chips]
+Pokerchip calls [30 Tournament chips]
+cantstandcha folds [30 Tournament chips]
+EdBishara folds [30 Tournament chips]
+junior7146 folds [15 Tournament chips]
+Cooperlara checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 9s ] board:[ 2h 9s]
+** Dealing Flop ** [ As ] board:[ 2h 9s As]
+Cooperlara checks
+Dave8143 bets for 30 Tournament chips
+Eclipse64 raises [60 Tournament chips]
+Pokerchip re-raises [345 Tournament chips]
+Cooperlara folds [345 Tournament chips]
+Dave8143 calls [315 Tournament chips]
+Eclipse64 calls [285 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 2h 9s As 6d]
+Dave8143 checks
+Eclipse64 checks
+Pokerchip goes all-in for 1610 Tournament chips
+Dave8143 folds [1295 Tournament chips]
+Eclipse64 calls [1610 Tournament chips]
+Tournament all-in showdown -- players show:
+Eclipse64 shows [ Js Qs ]
+Pokerchip shows [ Ts Ac ]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 2h 9s As 6d Ad]
+        (no action in this round)
+Round 4 is over.
+Eclipse64 shows [ Js Qs ] a pair of aces, queen/jack kickers
+Pokerchip shows [ Ts Ac ] three aces, ten/nine kickers
+Pokerchip wins main pot 4390 Tournament chips with three aces, ten/nine kickers.
+Seat 0: junior7146 (4345 Tournament chips) 
+Seat 1: Cooperlara (1520 Tournament chips) 
+Seat 2: QwertySpark (1600 Tournament chips) 
+Seat 3: Dave8143 (1295 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4390 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+Game #23980366-8 ends
+Game #23980366-9 starts
+Seat 0: junior7146 (4345 Tournament chips) 
+Seat 1: Cooperlara (1520 Tournament chips) 
+Seat 2: QwertySpark (1600 Tournament chips) 
+Seat 3: Dave8143 (1295 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4390 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Cooperlara posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+junior7146, at seat 0, is in this hand (absent) with 4345 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1505 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1570 Tournament chips.
+Dave8143, at seat 3, is in this hand with 1295 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 5050 Tournament chips.
+Pokerchip, at seat 5, is in this hand with 4390 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1970 Tournament chips.
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ Ts 6d ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+Dave8143 calls [30 Tournament chips]
+Eclipse64 folds [30 Tournament chips]
+Pokerchip folds [30 Tournament chips]
+cantstandcha folds [30 Tournament chips]
+EdBishara folds [30 Tournament chips]
+junior7146 folds [30 Tournament chips]
+Cooperlara raises [45 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Dave8143 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 7d ] board:[ 4h 7d]
+** Dealing Flop ** [ 8d ] board:[ 4h 7d 8d]
+Cooperlara bets for 60 Tournament chips
+QwertySpark raises [360 Tournament chips]
+Dave8143 calls [360 Tournament chips]
+Cooperlara folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 4h 7d 8d Ah]
+QwertySpark bets for 960 Tournament chips
+Dave8143 calls all-in [875 Tournament chips]
+QwertySpark is returned 85 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ts 6d ]
+Dave8143 shows [ 4d Ad ]
+(junior7146 has entered the table, is no longer absent.)
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 4h 7d 8d Ah Th]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ts 6d ] a pair of tens, ace/eight kickers
+Dave8143 shows [ 4d Ad ] two pair, aces and fours, ten kicker
+Dave8143 wins main pot 2710 Tournament chips with two pair, aces and fours, ten kicker.
+Seat 0: junior7146 (4345 Tournament chips) 
+Seat 1: Cooperlara (1400 Tournament chips) 
+Seat 2: QwertySpark (305 Tournament chips) 
+Seat 3: Dave8143 (2710 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4390 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+Game #23980366-9 ends
+Game #23980366-10 starts
+Seat 0: junior7146 (4345 Tournament chips) 
+Seat 1: Cooperlara (1400 Tournament chips) 
+Seat 2: QwertySpark (305 Tournament chips) 
+Seat 3: Dave8143 (2710 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4390 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+Dave8143 posts the big blind [30 Tournament chips]
+junior7146, at seat 0, is in this hand with 4345 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1400 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 290 Tournament chips.
+Dave8143, at seat 3, is in this hand with 2680 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 5050 Tournament chips.
+Pokerchip, at seat 5, is in this hand with 4390 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1970 Tournament chips.
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ 5h Td ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+Eclipse64 folds [30 Tournament chips]
+Pokerchip calls [30 Tournament chips]
+cantstandcha folds [30 Tournament chips]
+EdBishara folds [30 Tournament chips]
+junior7146 calls [30 Tournament chips]
+Cooperlara folds [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+Dave8143 checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 7d ] board:[ Ac 7d]
+** Dealing Flop ** [ Qc ] board:[ Ac 7d Qc]
+QwertySpark checks
+Dave8143 checks
+Pokerchip bets for 120 Tournament chips
+junior7146 folds [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Dave8143 calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Ac 7d Qc 5c]
+Dave8143 bets for 360 Tournament chips
+Pokerchip folds, showing As 4c [360 Tournament chips]
+Dave8143 is returned 360 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Dave8143 (7h 5s Ac 7d 5c: two pair, sevens and fives)
+Dave8143 wins main pot 360 Tournament chips.
+Seat 0: junior7146 (4315 Tournament chips) 
+Seat 1: Cooperlara (1400 Tournament chips) 
+Seat 2: QwertySpark (275 Tournament chips) 
+Seat 3: Dave8143 (2920 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4240 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+Game #23980366-10 ends
+Game #23980366-11 starts
+Seat 0: junior7146 (4315 Tournament chips) 
+Seat 1: Cooperlara (1400 Tournament chips) 
+Seat 2: QwertySpark (275 Tournament chips) 
+Seat 3: Dave8143 (2920 Tournament chips) 
+Seat 4: Eclipse64 (5050 Tournament chips) 
+Seat 5: Pokerchip (4240 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Dave8143 posts the small blind [15 Tournament chips]
+Eclipse64 posts the big blind [30 Tournament chips]
+junior7146, at seat 0, is in this hand with 4315 Tournament chips.
+Cooperlara, at seat 1, is in this hand with 1400 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 275 Tournament chips.
+Dave8143, at seat 3, is in this hand with 2905 Tournament chips.
+Eclipse64, at seat 4, is in this hand with 5020 Tournament chips.
+Pokerchip, at seat 5, is in this hand with 4240 Tournament chips.
+cantstandcha, at seat 7, is in this hand with 1830 Tournament chips.
+EdBishara, at seat 8, is in this hand (absent) with 1970 Tournament chips.
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dave8143 is dealt: **
+Eclipse64 is dealt: **
+Pokerchip is dealt: **
+cantstandcha is dealt: **
+EdBishara is dealt: **
+junior7146 is dealt: **
+Cooperlara is dealt: **
+
+Dealt to junior7146 [ **** ]
+Dealt to Cooperlara [ **** ]
+Dealt to QwertySpark [ 9s Jh ]
+Dealt to Dave8143 [ **** ]
+Dealt to Eclipse64 [ **** ]
+Dealt to Pokerchip [ **** ]
+Dealt to cantstandcha [ **** ]
+Dealt to EdBishara [ **** ]
+Pokerchip folds [30 Tournament chips]
+cantstandcha folds [30 Tournament chips]
+EdBishara folds [30 Tournament chips]
+junior7146 calls [30 Tournament chips]
+Cooperlara calls [30 Tournament chips]
+QwertySpark raises all-in [275 Tournament chips]
+Dave8143 folds [260 Tournament chips]
+Eclipse64 calls [245 Tournament chips]
+junior7146 calls [245 Tournament chips]
+Cooperlara folds [245 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Td ] board:[ 2d Td]
+** Dealing Flop ** [ Kh ] board:[ 2d Td Kh]
+Eclipse64 bets for 30 Tournament chips
+junior7146 folds [30 Tournament chips]
+Eclipse64 is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9s Jh ]
+Eclipse64 shows [ Kc 8h ]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 2d Td Kh 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 2d Td Kh 5s 6d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 9s Jh ] king/jack/ten high
+Eclipse64 shows [ Kc 8h ] a pair of kings, ten/eight kickers
+Eclipse64 wins main pot 870 Tournament chips with a pair of kings, ten/eight kickers.
+Seat 0: junior7146 (4040 Tournament chips) 
+Seat 1: Cooperlara (1370 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: Dave8143 (2905 Tournament chips) 
+Seat 4: Eclipse64 (5645 Tournament chips) 
+Seat 5: Pokerchip (4240 Tournament chips) 
+Seat 7: cantstandcha (1830 Tournament chips) 
+Seat 8: EdBishara (1970 Tournament chips) 
+Game #23980366-11 ends
+Player QwertySpark leaves the table with 0 Tournament chips

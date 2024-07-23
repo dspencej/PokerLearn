@@ -1,0 +1,189 @@
+Game#: 23828004
+QwertySpark is dealt: 2d
+MMP3730 is dealt: **
+Quiet Brian is dealt: **
+tavaily is dealt: **
+Bullwrinkle is dealt: **
+JayMauler is dealt: **
+hardingj2 is dealt: **
+Pjohnson67 is dealt: **
+MajaRoger is dealt: **
+The button is moved to seat 3.
+Game #23828004-1 starts
+Seat 0: QwertySpark (1500 Tournament chips) 
+Seat 1: MMP3730 (1500 Tournament chips) 
+Seat 2: Quiet Brian (1500 Tournament chips) 
+Seat 3: tavaily (1500 Tournament chips) 
+Seat 4: Bullwrinkle (1500 Tournament chips) 
+Seat 5: JayMauler (1500 Tournament chips) 
+Seat 6: hardingj2 (1500 Tournament chips) 
+Seat 7: Pjohnson67 (1500 Tournament chips) 
+Seat 8: MajaRoger (1500 Tournament chips) 
+The button is at seat 3
+Bullwrinkle posts the small blind [5 Tournament chips]
+JayMauler posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1500 Tournament chips.
+MMP3730, at seat 1, is in this hand with 1500 Tournament chips.
+Quiet Brian, at seat 2, is in this hand with 1500 Tournament chips.
+tavaily, at seat 3, is in this hand with 1500 Tournament chips.
+Bullwrinkle, at seat 4, is in this hand with 1495 Tournament chips.
+JayMauler, at seat 5, is in this hand with 1490 Tournament chips.
+hardingj2, at seat 6, is in this hand with 1500 Tournament chips.
+Pjohnson67, at seat 7, is in this hand with 1500 Tournament chips.
+MajaRoger, at seat 8, is in this hand with 1500 Tournament chips.
+Bullwrinkle is dealt: **
+JayMauler is dealt: **
+hardingj2 is dealt: **
+Pjohnson67 is dealt: **
+MajaRoger is dealt: **
+
+MMP3730 is dealt: **
+Quiet Brian is dealt: **
+tavaily is dealt: **
+Bullwrinkle is dealt: **
+JayMauler is dealt: **
+hardingj2 is dealt: **
+Pjohnson67 is dealt: **
+MajaRoger is dealt: **
+
+MMP3730 is dealt: **
+Quiet Brian is dealt: **
+tavaily is dealt: **
+Dealt to QwertySpark [ 7c 6c ]
+Dealt to MMP3730 [ **** ]
+Dealt to Quiet Brian [ **** ]
+Dealt to tavaily [ **** ]
+Dealt to Bullwrinkle [ **** ]
+Dealt to JayMauler [ **** ]
+Dealt to hardingj2 [ **** ]
+Dealt to Pjohnson67 [ **** ]
+Dealt to MajaRoger [ **** ]
+hardingj2 calls [10 Tournament chips]
+Pjohnson67 folds [10 Tournament chips]
+MajaRoger folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+MMP3730 calls [10 Tournament chips]
+Quiet Brian folds [10 Tournament chips]
+tavaily folds [10 Tournament chips]
+Bullwrinkle calls [5 Tournament chips]
+JayMauler raises [50 Tournament chips]
+hardingj2 folds [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+MMP3730 calls [50 Tournament chips]
+Bullwrinkle calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 8d ] board:[ 8s 8d]
+** Dealing Flop ** [ Ac ] board:[ 8s 8d Ac]
+Bullwrinkle checks
+JayMauler bets for 250 Tournament chips
+QwertySpark folds [250 Tournament chips]
+MMP3730 folds [250 Tournament chips]
+Bullwrinkle folds [250 Tournament chips]
+JayMauler is returned 250 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for JayMauler (Qc Ks 8s 8d Ac: a pair of eights)
+JayMauler wins main pot 250 Tournament chips.
+Seat 0: QwertySpark (1440 Tournament chips) 
+Seat 1: MMP3730 (1440 Tournament chips) 
+Seat 2: Quiet Brian (1500 Tournament chips) 
+Seat 3: tavaily (1500 Tournament chips) 
+Seat 4: Bullwrinkle (1440 Tournament chips) 
+Seat 5: JayMauler (1690 Tournament chips) 
+Seat 6: hardingj2 (1490 Tournament chips) 
+Seat 7: Pjohnson67 (1500 Tournament chips) 
+Seat 8: MajaRoger (1500 Tournament chips) 
+Game #23828004-1 ends
+Game #23828004-2 starts
+Seat 0: QwertySpark (1440 Tournament chips) 
+Seat 1: MMP3730 (1440 Tournament chips) 
+Seat 2: Quiet Brian (1500 Tournament chips) 
+Seat 3: tavaily (1500 Tournament chips) 
+Seat 4: Bullwrinkle (1440 Tournament chips) 
+Seat 5: JayMauler (1690 Tournament chips) 
+Seat 6: hardingj2 (1490 Tournament chips) 
+Seat 7: Pjohnson67 (1500 Tournament chips) 
+Seat 8: MajaRoger (1500 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+JayMauler posts the small blind [5 Tournament chips]
+hardingj2 posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1440 Tournament chips.
+MMP3730, at seat 1, is in this hand with 1440 Tournament chips.
+Quiet Brian, at seat 2, is in this hand (absent) with 1500 Tournament chips.
+tavaily, at seat 3, is in this hand with 1500 Tournament chips.
+Bullwrinkle, at seat 4, is in this hand with 1440 Tournament chips.
+JayMauler, at seat 5, is in this hand with 1685 Tournament chips.
+hardingj2, at seat 6, is in this hand with 1480 Tournament chips.
+Pjohnson67, at seat 7, is in this hand with 1500 Tournament chips.
+MajaRoger, at seat 8, is in this hand with 1500 Tournament chips.
+JayMauler is dealt: **
+hardingj2 is dealt: **
+Pjohnson67 is dealt: **
+MajaRoger is dealt: **
+
+MMP3730 is dealt: **
+Quiet Brian is dealt: **
+tavaily is dealt: **
+Bullwrinkle is dealt: **
+JayMauler is dealt: **
+hardingj2 is dealt: **
+Pjohnson67 is dealt: **
+MajaRoger is dealt: **
+
+MMP3730 is dealt: **
+Quiet Brian is dealt: **
+tavaily is dealt: **
+Bullwrinkle is dealt: **
+Dealt to QwertySpark [ Ts As ]
+Dealt to MMP3730 [ **** ]
+Dealt to Quiet Brian [ **** ]
+Dealt to tavaily [ **** ]
+Dealt to Bullwrinkle [ **** ]
+Dealt to JayMauler [ **** ]
+Dealt to hardingj2 [ **** ]
+Dealt to Pjohnson67 [ **** ]
+Dealt to MajaRoger [ **** ]
+Pjohnson67 folds [10 Tournament chips]
+MajaRoger folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+MMP3730 re-raises [135 Tournament chips]
+Quiet Brian folds [135 Tournament chips]
+tavaily folds [135 Tournament chips]
+Bullwrinkle folds [135 Tournament chips]
+JayMauler calls [130 Tournament chips]
+hardingj2 folds [125 Tournament chips]
+QwertySpark calls [95 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 7s ] board:[ 6c 7s]
+** Dealing Flop ** [ 3s ] board:[ 6c 7s 3s]
+JayMauler checks
+QwertySpark bets for 385 Tournament chips
+MMP3730 raises all-in [1305 Tournament chips]
+JayMauler folds [1305 Tournament chips]
+QwertySpark calls all-in [920 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ts As ]
+MMP3730 shows [ 8s 8c ]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 6c 7s 3s 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ 6c 7s 3s 2c 6d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ts As ] a pair of sixes, ace/ten kickers
+MMP3730 shows [ 8s 8c ] two pair, eights and sixes, seven kicker
+MMP3730 wins main pot 3025 Tournament chips with two pair, eights and sixes, seven kicker.
+Seat 0: QwertySpark (0 Tournament chips) 
+Seat 1: MMP3730 (3025 Tournament chips) 
+Seat 2: Quiet Brian (1500 Tournament chips) 
+Seat 3: tavaily (1500 Tournament chips) 
+Seat 4: Bullwrinkle (1440 Tournament chips) 
+Seat 5: JayMauler (1555 Tournament chips) 
+Seat 6: hardingj2 (1480 Tournament chips) 
+Seat 7: Pjohnson67 (1500 Tournament chips) 
+Seat 8: MajaRoger (1500 Tournament chips) 
+Game #23828004-2 ends
+Player QwertySpark leaves the table with 0 Tournament chips

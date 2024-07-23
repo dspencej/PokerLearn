@@ -1,0 +1,2847 @@
+Game#: 23914943
+MAGIC JOHN folds [150 Tournament chips]
+Josepheric folds [150 Tournament chips]
+magidh raises [450 Tournament chips]
+Darkhorsedude folds [375 Tournament chips]
+Molyonny2 folds [300 Tournament chips]
+magidh is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for magidh (Kh Qs: king high)
+magidh wins main pot 375 Tournament chips.
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (7999 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (820 Tournament chips) 
+Seat 7: strokerace71 (462 Tournament chips) 
+Seat 8: MAGIC JOHN (2450 Tournament chips) 
+Game #23914943-41 ends
+Game #23914943-42 starts
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (7999 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (820 Tournament chips) 
+Seat 7: strokerace71 (462 Tournament chips) 
+Seat 8: MAGIC JOHN (2450 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Molyonny2 posts the small blind [75 Tournament chips]
+strokerace71 posts the big blind [150 Tournament chips]
+Josepheric, at seat 0, is in this hand with 10264 Tournament chips.
+magidh, at seat 1, is in this hand with 7999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5955 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 312 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2450 Tournament chips.
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [150 Tournament chips]
+Josepheric folds [150 Tournament chips]
+magidh folds [150 Tournament chips]
+Darkhorsedude folds [150 Tournament chips]
+Molyonny2 folds [75 Tournament chips]
+strokerace71 is returned 75 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for strokerace71 (Kd Js: king high)
+strokerace71 wins main pot 150 Tournament chips.
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (7999 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (537 Tournament chips) 
+Seat 8: MAGIC JOHN (2450 Tournament chips) 
+Game #23914943-42 ends
+Game #23914943-43 starts
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (7999 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (537 Tournament chips) 
+Seat 8: MAGIC JOHN (2450 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+strokerace71 posts the small blind [75 Tournament chips]
+MAGIC JOHN posts the big blind [150 Tournament chips]
+Josepheric, at seat 0, is in this hand with 10264 Tournament chips.
+magidh, at seat 1, is in this hand with 7999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5955 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2648 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 462 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2300 Tournament chips.
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 3c 8h ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Josepheric folds [150 Tournament chips]
+magidh calls [150 Tournament chips]
+Darkhorsedude folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Molyonny2 folds [150 Tournament chips]
+strokerace71 calls [75 Tournament chips]
+MAGIC JOHN has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 7c ] board:[ Ac 7c]
+** Dealing Flop ** [ Th ] board:[ Ac 7c Th]
+strokerace71 checks
+MAGIC JOHN checks
+magidh bets for 300 Tournament chips
+strokerace71 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+magidh is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for magidh (Kc Qd Ac 7c Th: ace high)
+magidh wins main pot 450 Tournament chips.
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (8299 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (387 Tournament chips) 
+Seat 8: MAGIC JOHN (2300 Tournament chips) 
+Game #23914943-43 ends
+Game #23914943-44 starts
+Seat 0: Josepheric (10264 Tournament chips) 
+Seat 1: magidh (8299 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2648 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (387 Tournament chips) 
+Seat 8: MAGIC JOHN (2300 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+MAGIC JOHN posts the small blind [100 Tournament chips]
+Josepheric posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 10064 Tournament chips.
+magidh, at seat 1, is in this hand with 8299 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5955 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2648 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 387 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2200 Tournament chips.
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 2h 2d ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+magidh folds [200 Tournament chips]
+Darkhorsedude folds [200 Tournament chips]
+QwertySpark raises [1000 Tournament chips]
+Molyonny2 folds [745 Tournament chips]
+strokerace71 folds [387 Tournament chips]
+MAGIC JOHN folds [900 Tournament chips]
+Josepheric folds [800 Tournament chips]
+QwertySpark is returned 800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (2h 2d: a pair of deuces)
+QwertySpark wins main pot 500 Tournament chips.
+Seat 0: Josepheric (10064 Tournament chips) 
+Seat 1: magidh (8299 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2948 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (387 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+Game #23914943-44 ends
+Game #23914943-45 starts
+Seat 0: Josepheric (10064 Tournament chips) 
+Seat 1: magidh (8299 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2948 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (387 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Josepheric posts the small blind [100 Tournament chips]
+magidh posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9964 Tournament chips.
+magidh, at seat 1, is in this hand with 8099 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5955 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2948 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 387 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2200 Tournament chips.
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ad 8h ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [200 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Molyonny2 folds [745 Tournament chips]
+strokerace71 calls all-in [387 Tournament chips]
+MAGIC JOHN folds [800 Tournament chips]
+Josepheric folds [700 Tournament chips]
+magidh folds [600 Tournament chips]
+QwertySpark is returned 413 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 8h ]
+strokerace71 shows [ Jd Kh ]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Qc ] board:[ 2h Qc]
+** Dealing Flop ** [ 2s ] board:[ 2h Qc 2s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 2h Qc 2s Kd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 2h Qc 2s Kd Qd]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 8h ] two pair, queens and deuces, ace kicker
+strokerace71 shows [ Jd Kh ] two pair, kings and queens, jack kicker
+strokerace71 wins main pot 1074 Tournament chips with two pair, kings and queens, jack kicker.
+Seat 0: Josepheric (9964 Tournament chips) 
+Seat 1: magidh (8099 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2561 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+Game #23914943-45 ends
+Game #23914943-46 starts
+Seat 0: Josepheric (9964 Tournament chips) 
+Seat 1: magidh (8099 Tournament chips) 
+Seat 3: Darkhorsedude (5955 Tournament chips) 
+Seat 4: QwertySpark (2561 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+magidh posts the small blind [100 Tournament chips]
+Darkhorsedude posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9964 Tournament chips.
+magidh, at seat 1, is in this hand with 7999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5755 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2561 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 1074 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2200 Tournament chips.
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ac Kh ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark raises [1200 Tournament chips]
+Molyonny2 folds [745 Tournament chips]
+strokerace71 folds [1074 Tournament chips]
+MAGIC JOHN folds [1200 Tournament chips]
+Josepheric folds [1200 Tournament chips]
+magidh calls [1100 Tournament chips]
+Darkhorsedude folds [1000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 8h ] board:[ 2d 8h]
+** Dealing Flop ** [ Jc ] board:[ 2d 8h Jc]
+magidh checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 2d 8h Jc 5d]
+magidh bets for 400 Tournament chips
+QwertySpark raises all-in [1361 Tournament chips]
+magidh calls [961 Tournament chips]
+Tournament all-in showdown -- players show:
+magidh shows [ Kd Ad ]
+QwertySpark shows [ Ac Kh ]
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 2d 8h Jc 5d 4h]
+        (no action in this round)
+Round 4 is over.
+magidh shows [ Kd Ad ] ace/king/jack high
+QwertySpark shows [ Ac Kh ] ace/king/jack high
+magidh wins main pot 2661 Tournament chips of a 5322 Tournament chips pot with ace/king/jack high.
+QwertySpark wins main pot 2661 Tournament chips of a 5322 Tournament chips pot with ace/king/jack high.
+Seat 0: Josepheric (9964 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5755 Tournament chips) 
+Seat 4: QwertySpark (2661 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+Game #23914943-46 ends
+Game #23914943-47 starts
+Seat 0: Josepheric (9964 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5755 Tournament chips) 
+Seat 4: QwertySpark (2661 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2200 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Darkhorsedude posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9964 Tournament chips.
+magidh, at seat 1, is in this hand with 8199 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2461 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 745 Tournament chips.
+strokerace71, at seat 7, is in this hand with 1074 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2200 Tournament chips.
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 6h 5s ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Molyonny2 folds [200 Tournament chips]
+strokerace71 folds [200 Tournament chips]
+MAGIC JOHN calls [200 Tournament chips]
+Josepheric calls [200 Tournament chips]
+magidh folds [200 Tournament chips]
+Darkhorsedude folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Ah ] board:[ As Ah]
+** Dealing Flop ** [ 8s ] board:[ As Ah 8s]
+QwertySpark bets for 700 Tournament chips
+MAGIC JOHN folds [700 Tournament chips]
+Josepheric folds [700 Tournament chips]
+QwertySpark is returned 700 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (6h 5s As Ah 8s: a pair of aces)
+QwertySpark wins main pot 700 Tournament chips.
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3161 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+Game #23914943-47 ends
+Game #23914943-48 starts
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3161 Tournament chips) 
+Seat 6: Molyonny2 (745 Tournament chips) 
+Seat 7: strokerace71 (1074 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+QwertySpark posts the small blind [100 Tournament chips]
+Molyonny2 posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9764 Tournament chips.
+magidh, at seat 1, is in this hand with 8199 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3061 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 545 Tournament chips.
+strokerace71, at seat 7, is in this hand with 1074 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2000 Tournament chips.
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ As Qs ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+strokerace71 raises all-in [1074 Tournament chips]
+MAGIC JOHN folds [1074 Tournament chips]
+Josepheric folds [1074 Tournament chips]
+magidh folds [1074 Tournament chips]
+Darkhorsedude folds [1074 Tournament chips]
+QwertySpark calls [974 Tournament chips]
+Molyonny2 folds [545 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ As Qs ]
+strokerace71 shows [ Qd Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Qh ] board:[ 5h Qh]
+** Dealing Flop ** [ 8s ] board:[ 5h Qh 8s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 5h Qh 8s Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 5h Qh 8s Js 4d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ As Qs ] a pair of queens, ace/jack kickers
+strokerace71 shows [ Qd Ad ] a pair of queens, ace/jack kickers
+QwertySpark wins main pot 1174 Tournament chips of a 2348 Tournament chips pot with a pair of queens, ace/jack kickers.
+strokerace71 wins main pot 1174 Tournament chips of a 2348 Tournament chips pot with a pair of queens, ace/jack kickers.
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3261 Tournament chips) 
+Seat 6: Molyonny2 (545 Tournament chips) 
+Seat 7: strokerace71 (1174 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+Game #23914943-48 ends
+Game #23914943-49 starts
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3261 Tournament chips) 
+Seat 6: Molyonny2 (545 Tournament chips) 
+Seat 7: strokerace71 (1174 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Molyonny2 posts the small blind [100 Tournament chips]
+strokerace71 posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9764 Tournament chips.
+magidh, at seat 1, is in this hand with 8199 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3261 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+strokerace71, at seat 7, is in this hand with 974 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 2000 Tournament chips.
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 5h Th ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [200 Tournament chips]
+Josepheric folds [200 Tournament chips]
+magidh folds [200 Tournament chips]
+Darkhorsedude folds [200 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+Molyonny2 folds [445 Tournament chips]
+strokerace71 folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (5h Th: ten high)
+QwertySpark wins main pot 500 Tournament chips.
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3561 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 7: strokerace71 (974 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+Game #23914943-49 ends
+Game #23914943-50 starts
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (3561 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 7: strokerace71 (974 Tournament chips) 
+Seat 8: MAGIC JOHN (2000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+strokerace71 posts the small blind [100 Tournament chips]
+MAGIC JOHN posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9764 Tournament chips.
+magidh, at seat 1, is in this hand with 8199 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 3561 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+strokerace71, at seat 7, is in this hand with 874 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 1800 Tournament chips.
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+strokerace71 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Jh Js ]
+Dealt to Molyonny2 [ **** ]
+Dealt to strokerace71 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Josepheric folds [200 Tournament chips]
+magidh folds [200 Tournament chips]
+Darkhorsedude folds [200 Tournament chips]
+QwertySpark raises [1400 Tournament chips]
+Molyonny2 folds [445 Tournament chips]
+strokerace71 calls all-in [874 Tournament chips]
+MAGIC JOHN folds [1200 Tournament chips]
+QwertySpark is returned 426 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jh Js ]
+strokerace71 shows [ Ac 6h ]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Qs ] board:[ 5c Qs]
+** Dealing Flop ** [ 8d ] board:[ 5c Qs 8d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 5c Qs 8d 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 5c Qs 8d 6d 7d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jh Js ] a pair of jacks, queen/eight kickers
+strokerace71 shows [ Ac 6h ] a pair of sixes, ace/queen kickers
+QwertySpark wins main pot 2148 Tournament chips with a pair of jacks, queen/eight kickers.
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (4735 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 7: strokerace71 (0 Tournament chips) 
+Seat 8: MAGIC JOHN (1800 Tournament chips) 
+Game #23914943-50 ends
+Player strokerace71 leaves the table with 0 Tournament chips
+Game #23914943-51 starts
+Seat 0: Josepheric (9764 Tournament chips) 
+Seat 1: magidh (8199 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (4735 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (1800 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+MAGIC JOHN posts the small blind [100 Tournament chips]
+Josepheric posts the big blind [200 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9564 Tournament chips.
+magidh, at seat 1, is in this hand with 8199 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 4735 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 1700 Tournament chips.
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Molyonny2 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Kc 6c ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+magidh raises [400 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark re-raises [800 Tournament chips]
+Molyonny2 folds [445 Tournament chips]
+MAGIC JOHN calls [700 Tournament chips]
+Josepheric calls [600 Tournament chips]
+magidh calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Kh ] board:[ Tc Kh]
+** Dealing Flop ** [ 8d ] board:[ Tc Kh 8d]
+MAGIC JOHN checks
+Josepheric checks
+magidh checks
+QwertySpark bets for 400 Tournament chips
+MAGIC JOHN calls [400 Tournament chips]
+Josepheric calls [400 Tournament chips]
+magidh calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ Tc Kh 8d Ad]
+MAGIC JOHN goes all-in for 600 Tournament chips
+Josepheric calls [600 Tournament chips]
+magidh calls [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Tc Kh 8d Ad 7s]
+Josepheric checks
+magidh checks
+QwertySpark checks
+Round 4 is over.
+Josepheric shows [ 8h Ah ] two pair, aces and eights
+Hand evaluation for Josepheric (8h Ah Kh 8d Ad: two pair, aces and eights)
+magidh shows [ As Qs ] a pair of aces
+Hand evaluation for magidh (As Qs Tc Kh Ad: a pair of aces)
+QwertySpark shows [ Kc 6c ] a pair of kings
+Hand evaluation for QwertySpark (Kc Tc Kh 8d Ad: a pair of kings)
+MAGIC JOHN shows [ Jc Qh ] straight, ace high
+Hand evaluation for MAGIC JOHN (Jc Qh Tc Kh Ad: straight, ace high)
+MAGIC JOHN wins main pot 7200 Tournament chips with straight, ace high.
+Seat 0: Josepheric (7964 Tournament chips) 
+Seat 1: magidh (6399 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-51 ends
+Game #23914943-52 starts
+Seat 0: Josepheric (7964 Tournament chips) 
+Seat 1: magidh (6399 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Josepheric posts the small blind [150 Tournament chips]
+magidh posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 7814 Tournament chips.
+magidh, at seat 1, is in this hand with 6099 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5655 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 2935 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 2050 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7200 Tournament chips.
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Jd Ah ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 folds [300 Tournament chips]
+Molyonny2 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric calls [150 Tournament chips]
+magidh checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 6h ] board:[ 5d 6h]
+** Dealing Flop ** [ 3d ] board:[ 5d 6h 3d]
+Josepheric checks
+magidh bets for 1200 Tournament chips
+Josepheric folds [1200 Tournament chips]
+magidh is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for magidh (5s 6c 5d 6h 3d: two pair, sixes and fives)
+magidh wins main pot 600 Tournament chips.
+Seat 0: Josepheric (7664 Tournament chips) 
+Seat 1: magidh (6699 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-52 ends
+Game #23914943-53 starts
+Seat 0: Josepheric (7664 Tournament chips) 
+Seat 1: magidh (6699 Tournament chips) 
+Seat 3: Darkhorsedude (5655 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+magidh posts the small blind [150 Tournament chips]
+Darkhorsedude posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 7664 Tournament chips.
+magidh, at seat 1, is in this hand with 6549 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5355 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2935 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 2050 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7200 Tournament chips.
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 8c Ac ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 folds [300 Tournament chips]
+Molyonny2 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh calls [150 Tournament chips]
+Darkhorsedude folds
+round 1 is over.
+Hand evaluation for magidh (Ks 5s: king high)
+magidh wins main pot 600 Tournament chips.
+Seat 0: Josepheric (7664 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5355 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-53 ends
+Game #23914943-54 starts
+Seat 0: Josepheric (7664 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5355 Tournament chips) 
+Seat 4: QwertySpark (2935 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Darkhorsedude posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 7664 Tournament chips.
+magidh, at seat 1, is in this hand with 6999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2635 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 2050 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7200 Tournament chips.
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Qc 9c ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+rvtarheelman1 folds [300 Tournament chips]
+Molyonny2 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric calls [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Darkhorsedude folds [150 Tournament chips]
+QwertySpark folds
+round 1 is over.
+Hand evaluation for Josepheric (Th Kc: king high)
+Josepheric wins main pot 750 Tournament chips.
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2635 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-54 ends
+Game #23914943-55 starts
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2635 Tournament chips) 
+Seat 5: rvtarheelman1 (2050 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+rvtarheelman1 posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8114 Tournament chips.
+magidh, at seat 1, is in this hand with 6999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 1750 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 445 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7200 Tournament chips.
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Qs Ad ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Molyonny2 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+rvtarheelman1 is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for rvtarheelman1 (5c Js: jack high)
+rvtarheelman1 wins main pot 300 Tournament chips.
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (2200 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-55 ends
+Game #23914943-56 starts
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (2200 Tournament chips) 
+Seat 6: Molyonny2 (445 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rvtarheelman1 posts the small blind [150 Tournament chips]
+Molyonny2 posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8114 Tournament chips.
+magidh, at seat 1, is in this hand with 6999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 2050 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 145 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 7200 Tournament chips.
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ah 6d ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 calls [150 Tournament chips]
+Molyonny2 folds
+round 1 is over.
+Hand evaluation for rvtarheelman1 (Kc 7s: king high)
+rvtarheelman1 wins main pot 600 Tournament chips.
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (2500 Tournament chips) 
+Seat 6: Molyonny2 (145 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-56 ends
+Game #23914943-57 starts
+Seat 0: Josepheric (8114 Tournament chips) 
+Seat 1: magidh (6999 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (2500 Tournament chips) 
+Seat 6: Molyonny2 (145 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+Molyonny2 posts the small blind [145 Tournament chips], goes all-in
+MAGIC JOHN posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8114 Tournament chips.
+magidh, at seat 1, is in this hand with 6999 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 2500 Tournament chips.
+Molyonny2, at seat 6, is in this hand (absent) with 0 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 6900 Tournament chips.
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Molyonny2 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ah 5d ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to Molyonny2 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Josepheric calls [300 Tournament chips]
+magidh calls [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 calls [300 Tournament chips]
+MAGIC JOHN folds
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Qh ] board:[ Tc Qh]
+** Dealing Flop ** [ 5c ] board:[ Tc Qh 5c]
+Josepheric bets for 1345 Tournament chips
+magidh calls [1345 Tournament chips]
+rvtarheelman1 calls [1345 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ Tc Qh 5c Ks]
+Josepheric bets for 300 Tournament chips
+magidh calls [300 Tournament chips]
+rvtarheelman1 calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Tc Qh 5c Ks 6d]
+Josepheric checks
+magidh checks
+rvtarheelman1 checks
+Round 4 is over.
+Josepheric shows [ 9s Qd ] a pair of queens
+Hand evaluation for Josepheric (9s Qd Tc Qh Ks: a pair of queens)
+magidh shows [ Jd Qc ] a pair of queens
+Hand evaluation for magidh (Jd Qc Tc Qh Ks: a pair of queens)
+rvtarheelman1 shows [ Ts Jh ] a pair of tens
+Hand evaluation for rvtarheelman1 (Ts Jh Tc Qh Ks: a pair of tens)
+Molyonny2 shows [ 3h 4d ] king high
+Hand evaluation for Molyonny2 (Tc Qh 5c Ks 6d: king high)
+magidh wins main pot 725 Tournament chips with a pair of queens, king/jack kickers.
+magidh wins side pot #1 5555 Tournament chips with a pair of queens, king/jack kickers.
+Seat 0: Josepheric (6169 Tournament chips) 
+Seat 1: magidh (11334 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 6: Molyonny2 (0 Tournament chips) 
+Seat 8: MAGIC JOHN (6900 Tournament chips) 
+Game #23914943-57 ends
+Player Molyonny2 leaves the table with 0 Tournament chips
+Game #23914943-58 starts
+Seat 0: Josepheric (6169 Tournament chips) 
+Seat 1: magidh (11334 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 8: MAGIC JOHN (6900 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+MAGIC JOHN posts the small blind [150 Tournament chips]
+Josepheric posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 5869 Tournament chips.
+magidh, at seat 1, is in this hand with 11334 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 555 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 6750 Tournament chips.
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 9d Ts ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+magidh folds [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 folds [300 Tournament chips]
+MAGIC JOHN folds [150 Tournament chips]
+Josepheric is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Josepheric (7d 2d: seven high)
+Josepheric wins main pot 300 Tournament chips.
+Seat 0: Josepheric (6319 Tournament chips) 
+Seat 1: magidh (11334 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+Game #23914943-58 ends
+Game #23914943-59 starts
+Seat 0: Josepheric (6319 Tournament chips) 
+Seat 1: magidh (11334 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 8.
+Josepheric posts the small blind [150 Tournament chips]
+magidh posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 6169 Tournament chips.
+magidh, at seat 1, is in this hand with 11034 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 555 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 6750 Tournament chips.
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 2s Kc ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric calls [150 Tournament chips]
+magidh checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ Qh ] board:[ Qs Qh]
+** Dealing Flop ** [ 6s ] board:[ Qs Qh 6s]
+Josepheric bets for 600 Tournament chips
+magidh folds [600 Tournament chips]
+Josepheric is returned 600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Josepheric (5h As Qs Qh 6s: a pair of queens)
+Josepheric wins main pot 600 Tournament chips.
+Seat 0: Josepheric (6619 Tournament chips) 
+Seat 1: magidh (11034 Tournament chips) 
+Seat 2: Rexrocks (6700 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+Game #23914943-59 ends
+Game #23914943-60 starts
+Seat 0: Josepheric (6619 Tournament chips) 
+Seat 1: magidh (11034 Tournament chips) 
+Seat 2: Rexrocks (6700 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (555 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+magidh posts the small blind [150 Tournament chips]
+Rexrocks posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 6619 Tournament chips.
+magidh, at seat 1, is in this hand with 10884 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 6400 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 5205 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+rvtarheelman1, at seat 5, is in this hand with 555 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 6750 Tournament chips.
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+rvtarheelman1 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 5d 3d ]
+Dealt to rvtarheelman1 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+rvtarheelman1 raises all-in [555 Tournament chips]
+MAGIC JOHN folds [555 Tournament chips]
+Josepheric calls [555 Tournament chips]
+magidh calls [405 Tournament chips]
+Rexrocks calls [255 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Tc ] board:[ 7c Tc]
+** Dealing Flop ** [ 8h ] board:[ 7c Tc 8h]
+magidh checks
+Rexrocks checks
+Josepheric checks
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 7c Tc 8h Ks]
+magidh bets for 300 Tournament chips
+Rexrocks folds [300 Tournament chips]
+Josepheric calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 7c Tc 8h Ks 9d]
+magidh checks
+Josepheric bets for 2820 Tournament chips
+magidh folds [2820 Tournament chips]
+Josepheric is returned 2820 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Josepheric shows [ 6h Kh ]
+rvtarheelman1 shows [ 5c Ah ]
+Round 4 is over.
+Josepheric shows [ 6h Kh ] straight, ten high
+rvtarheelman1 shows [ 5c Ah ] ace/king/ten high
+Josepheric wins main pot 2220 Tournament chips with straight, ten high.
+Josepheric wins side pot #1 600 Tournament chips with straight, ten high.
+Seat 0: Josepheric (8584 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (6145 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 5: rvtarheelman1 (0 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+Game #23914943-60 ends
+Player rvtarheelman1 leaves the table with 0 Tournament chips
+Game #23914943-61 starts
+Seat 0: Josepheric (8584 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (6145 Tournament chips) 
+Seat 3: Darkhorsedude (5205 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Rexrocks posts the small blind [150 Tournament chips]
+Darkhorsedude posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8584 Tournament chips.
+magidh, at seat 1, is in this hand with 10179 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 5995 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4905 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2485 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 6750 Tournament chips.
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 8d 2s ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric calls [300 Tournament chips]
+(MAGIC JOHN has entered the table, is no longer absent.)
+magidh folds [300 Tournament chips]
+Rexrocks calls [150 Tournament chips]
+Darkhorsedude folds
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Tc ] board:[ 7h Tc]
+** Dealing Flop ** [ Th ] board:[ 7h Tc Th]
+Rexrocks checks
+Josepheric checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 7h Tc Th 8c]
+Rexrocks checks
+Josepheric checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 7h Tc Th 8c 3d]
+Rexrocks checks
+Josepheric checks
+Round 4 is over.
+Rexrocks shows [ 4d 5s ] a pair of tens
+Hand evaluation for Rexrocks (5s 7h Tc Th 8c: a pair of tens)
+Josepheric shows [ Qc Jc ] a pair of tens
+Hand evaluation for Josepheric (Qc Jc Tc Th 8c: a pair of tens)
+Josepheric wins main pot 900 Tournament chips with a pair of tens, queen/jack kickers.
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (5845 Tournament chips) 
+Seat 3: Darkhorsedude (4905 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+Game #23914943-61 ends
+Game #23914943-62 starts
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (5845 Tournament chips) 
+Seat 3: Darkhorsedude (4905 Tournament chips) 
+Seat 4: QwertySpark (2485 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Darkhorsedude posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9184 Tournament chips.
+magidh, at seat 1, is in this hand with 10179 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 5845 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4755 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2185 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6750 Tournament chips.
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Qh Kh ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Rexrocks raises [600 Tournament chips]
+Darkhorsedude folds [450 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Rexrocks is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (Ad 6s: ace high)
+Rexrocks wins main pot 750 Tournament chips.
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (6295 Tournament chips) 
+Seat 3: Darkhorsedude (4755 Tournament chips) 
+Seat 4: QwertySpark (2185 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+Game #23914943-62 ends
+Game #23914943-63 starts
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (10179 Tournament chips) 
+Seat 2: Rexrocks (6295 Tournament chips) 
+Seat 3: Darkhorsedude (4755 Tournament chips) 
+Seat 4: QwertySpark (2185 Tournament chips) 
+Seat 8: MAGIC JOHN (6750 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+MAGIC JOHN posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 9184 Tournament chips.
+magidh, at seat 1, is in this hand with 10179 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 6295 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4755 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2035 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6450 Tournament chips.
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Tc 5h ]
+Dealt to MAGIC JOHN [ **** ]
+Josepheric folds [300 Tournament chips]
+magidh calls [300 Tournament chips]
+Rexrocks folds [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+MAGIC JOHN checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 3c ] board:[ Ks 3c]
+** Dealing Flop ** [ 2h ] board:[ Ks 3c 2h]
+MAGIC JOHN checks
+magidh checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Ks 3c 2h 5c]
+MAGIC JOHN has timed out - the hand is checked
+magidh checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Ks 3c 2h 5c 7c]
+MAGIC JOHN checks
+magidh checks
+Round 4 is over.
+MAGIC JOHN shows [ As 9d ] ace high
+Hand evaluation for MAGIC JOHN (As 9d Ks 5c 7c: ace high)
+magidh doesn't show [ Qd Js ]
+(magidh has Qd Js.)
+MAGIC JOHN wins main pot 750 Tournament chips with ace/king/nine high.
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (9879 Tournament chips) 
+Seat 2: Rexrocks (6295 Tournament chips) 
+Seat 3: Darkhorsedude (4755 Tournament chips) 
+Seat 4: QwertySpark (2035 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+Game #23914943-63 ends
+Game #23914943-64 starts
+Seat 0: Josepheric (9184 Tournament chips) 
+Seat 1: magidh (9879 Tournament chips) 
+Seat 2: Rexrocks (6295 Tournament chips) 
+Seat 3: Darkhorsedude (4755 Tournament chips) 
+Seat 4: QwertySpark (2035 Tournament chips) 
+Seat 8: MAGIC JOHN (7200 Tournament chips) 
+The button is at seat 3
+Josepheric posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+The button is moved to seat 4.
+MAGIC JOHN posts the small blind [150 Tournament chips]
+Josepheric posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8859 Tournament chips.
+magidh, at seat 1, is in this hand with 9854 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 6270 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4730 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 2010 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7025 Tournament chips.
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 2c Kc ]
+Dealt to MAGIC JOHN [ **** ]
+magidh folds [300 Tournament chips]
+Rexrocks raises [1200 Tournament chips]
+Darkhorsedude folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+MAGIC JOHN folds [1050 Tournament chips]
+Josepheric folds [900 Tournament chips]
+Rexrocks is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (Ac Th: ace high)
+Rexrocks wins main pot 900 Tournament chips.
+Seat 0: Josepheric (8859 Tournament chips) 
+Seat 1: magidh (9854 Tournament chips) 
+Seat 2: Rexrocks (6870 Tournament chips) 
+Seat 3: Darkhorsedude (4730 Tournament chips) 
+Seat 4: QwertySpark (2010 Tournament chips) 
+Seat 8: MAGIC JOHN (7025 Tournament chips) 
+Game #23914943-64 ends
+Game #23914943-65 starts
+Seat 0: Josepheric (8859 Tournament chips) 
+Seat 1: magidh (9854 Tournament chips) 
+Seat 2: Rexrocks (6870 Tournament chips) 
+Seat 3: Darkhorsedude (4730 Tournament chips) 
+Seat 4: QwertySpark (2010 Tournament chips) 
+Seat 8: MAGIC JOHN (7025 Tournament chips) 
+The button is at seat 4
+Josepheric posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 8.
+Josepheric posts the small blind [150 Tournament chips]
+magidh posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8684 Tournament chips.
+magidh, at seat 1, is in this hand with 9529 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 6845 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4705 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1985 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 7000 Tournament chips.
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+MAGIC JOHN is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Th 5h ]
+Dealt to MAGIC JOHN [ **** ]
+Rexrocks calls [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [150 Tournament chips]
+magidh checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 9c ] board:[ Ad 9c]
+** Dealing Flop ** [ 2d ] board:[ Ad 9c 2d]
+magidh checks
+Rexrocks bets for 1500 Tournament chips
+magidh folds [1500 Tournament chips]
+Rexrocks is returned 1500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Rexrocks (As 9s Ad 9c 2d: two pair, aces and nines)
+Rexrocks wins main pot 900 Tournament chips.
+Seat 0: Josepheric (8684 Tournament chips) 
+Seat 1: magidh (9529 Tournament chips) 
+Seat 2: Rexrocks (7445 Tournament chips) 
+Seat 3: Darkhorsedude (4705 Tournament chips) 
+Seat 4: QwertySpark (1985 Tournament chips) 
+Seat 6: snakehunter14 (2949 Tournament chips) 
+Seat 8: MAGIC JOHN (7000 Tournament chips) 
+Game #23914943-65 ends
+Game #23914943-66 starts
+Seat 0: Josepheric (8684 Tournament chips) 
+Seat 1: magidh (9529 Tournament chips) 
+Seat 2: Rexrocks (7445 Tournament chips) 
+Seat 3: Darkhorsedude (4705 Tournament chips) 
+Seat 4: QwertySpark (1985 Tournament chips) 
+Seat 6: snakehunter14 (2949 Tournament chips) 
+Seat 8: MAGIC JOHN (7000 Tournament chips) 
+The button is at seat 8
+Josepheric posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+snakehunter14 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+The button is moved to seat 0.
+magidh posts the small blind [150 Tournament chips]
+Rexrocks posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8659 Tournament chips.
+magidh, at seat 1, is in this hand with 9354 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 7120 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4680 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1960 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2924 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6975 Tournament chips.
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 4c 7h ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+snakehunter14 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [150 Tournament chips]
+Rexrocks is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (5s Qc: queen high)
+Rexrocks wins main pot 475 Tournament chips.
+Seat 0: Josepheric (8659 Tournament chips) 
+Seat 1: magidh (9354 Tournament chips) 
+Seat 2: Rexrocks (7745 Tournament chips) 
+Seat 3: Darkhorsedude (4680 Tournament chips) 
+Seat 4: QwertySpark (1960 Tournament chips) 
+Seat 6: snakehunter14 (2924 Tournament chips) 
+Seat 8: MAGIC JOHN (6975 Tournament chips) 
+Game #23914943-66 ends
+Game #23914943-67 starts
+Seat 0: Josepheric (8659 Tournament chips) 
+Seat 1: magidh (9354 Tournament chips) 
+Seat 2: Rexrocks (7745 Tournament chips) 
+Seat 3: Darkhorsedude (4680 Tournament chips) 
+Seat 4: QwertySpark (1960 Tournament chips) 
+Seat 6: snakehunter14 (2924 Tournament chips) 
+Seat 8: MAGIC JOHN (6975 Tournament chips) 
+The button is at seat 0
+Josepheric posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+snakehunter14 posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+The button is moved to seat 1.
+Rexrocks posts the small blind [150 Tournament chips]
+Darkhorsedude posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8634 Tournament chips.
+magidh, at seat 1, is in this hand with 9329 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 7570 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4355 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1935 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2899 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6950 Tournament chips.
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 9c 6c ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark folds [300 Tournament chips]
+snakehunter14 folds [300 Tournament chips]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Rexrocks raises [450 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+Rexrocks is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (2h 9d: nine high)
+Rexrocks wins main pot 775 Tournament chips.
+Seat 0: Josepheric (8634 Tournament chips) 
+Seat 1: magidh (9329 Tournament chips) 
+Seat 2: Rexrocks (8195 Tournament chips) 
+Seat 3: Darkhorsedude (4355 Tournament chips) 
+Seat 4: QwertySpark (1935 Tournament chips) 
+Seat 6: snakehunter14 (2899 Tournament chips) 
+Seat 8: MAGIC JOHN (6950 Tournament chips) 
+Game #23914943-67 ends
+Game #23914943-68 starts
+Seat 0: Josepheric (8634 Tournament chips) 
+Seat 1: magidh (9329 Tournament chips) 
+Seat 2: Rexrocks (8195 Tournament chips) 
+Seat 3: Darkhorsedude (4355 Tournament chips) 
+Seat 4: QwertySpark (1935 Tournament chips) 
+Seat 6: snakehunter14 (2899 Tournament chips) 
+Seat 8: MAGIC JOHN (6950 Tournament chips) 
+The button is at seat 1
+Josepheric posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+snakehunter14 posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+The button is moved to seat 2.
+Darkhorsedude posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8609 Tournament chips.
+magidh, at seat 1, is in this hand with 9304 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 8170 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4180 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1610 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2874 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6925 Tournament chips.
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ts 7h ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+snakehunter14 folds [300 Tournament chips]
+MAGIC JOHN calls [300 Tournament chips]
+Josepheric calls [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Rexrocks calls [300 Tournament chips]
+Darkhorsedude folds [150 Tournament chips]
+QwertySpark folds
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 5h ] board:[ 3c 5h]
+** Dealing Flop ** [ As ] board:[ 3c 5h As]
+MAGIC JOHN checks
+Josepheric checks
+Rexrocks checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 3c 5h As 6h]
+MAGIC JOHN has timed out - the hand is checked
+Josepheric checks
+Rexrocks checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 3c 5h As 6h 3d]
+MAGIC JOHN checks
+Josepheric checks
+Rexrocks checks
+Round 4 is over.
+MAGIC JOHN shows [ Jd Qd ] a pair of threes
+Hand evaluation for MAGIC JOHN (Jd Qd 3c As 3d: a pair of threes)
+Josepheric doesn't show [ Qs 9s ]
+(Josepheric has Qs 9s.)
+Rexrocks shows [ Kh Tc ] a pair of threes
+Hand evaluation for Rexrocks (Kh Tc 3c As 3d: a pair of threes)
+Rexrocks wins main pot 1525 Tournament chips with a pair of threes, ace/king kickers.
+Seat 0: Josepheric (8309 Tournament chips) 
+Seat 1: magidh (9304 Tournament chips) 
+Seat 2: Rexrocks (9395 Tournament chips) 
+Seat 3: Darkhorsedude (4180 Tournament chips) 
+Seat 4: QwertySpark (1610 Tournament chips) 
+Seat 6: snakehunter14 (2874 Tournament chips) 
+Seat 8: MAGIC JOHN (6625 Tournament chips) 
+Game #23914943-68 ends
+Game #23914943-69 starts
+Seat 0: Josepheric (8309 Tournament chips) 
+Seat 1: magidh (9304 Tournament chips) 
+Seat 2: Rexrocks (9395 Tournament chips) 
+Seat 3: Darkhorsedude (4180 Tournament chips) 
+Seat 4: QwertySpark (1610 Tournament chips) 
+Seat 6: snakehunter14 (2874 Tournament chips) 
+Seat 8: MAGIC JOHN (6625 Tournament chips) 
+The button is at seat 2
+magidh posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+Josepheric posted ante of 25 Tournament chips
+snakehunter14 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+The button is moved to seat 3.
+QwertySpark posts the small blind [150 Tournament chips]
+snakehunter14 posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8284 Tournament chips.
+magidh, at seat 1, is in this hand with 9279 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 9370 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4155 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1435 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2549 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6600 Tournament chips.
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 4h Jd ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [300 Tournament chips]
+Josepheric folds [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Rexrocks calls [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+snakehunter14 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 5c ] board:[ 9c 5c]
+** Dealing Flop ** [ 9d ] board:[ 9c 5c 9d]
+snakehunter14 checks
+Rexrocks bets for 300 Tournament chips
+snakehunter14 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 9c 5c 9d Ks]
+snakehunter14 checks
+Rexrocks checks
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 9c 5c 9d Ks 6h]
+snakehunter14 checks
+Rexrocks checks
+Round 4 is over.
+snakehunter14 shows [ Ac Jh ] a pair of nines
+Hand evaluation for snakehunter14 (Ac Jh 9c 9d Ks: a pair of nines)
+Rexrocks doesn't show [ 7d Th ]
+(Rexrocks has 7d Th.)
+snakehunter14 wins main pot 1525 Tournament chips with a pair of nines, ace/king kickers.
+Seat 0: Josepheric (8284 Tournament chips) 
+Seat 1: magidh (9279 Tournament chips) 
+Seat 2: Rexrocks (8770 Tournament chips) 
+Seat 3: Darkhorsedude (4155 Tournament chips) 
+Seat 4: QwertySpark (1435 Tournament chips) 
+Seat 6: snakehunter14 (3774 Tournament chips) 
+Seat 8: MAGIC JOHN (6600 Tournament chips) 
+Game #23914943-69 ends
+Game #23914943-70 starts
+Seat 0: Josepheric (8284 Tournament chips) 
+Seat 1: magidh (9279 Tournament chips) 
+Seat 2: Rexrocks (8770 Tournament chips) 
+Seat 3: Darkhorsedude (4155 Tournament chips) 
+Seat 4: QwertySpark (1435 Tournament chips) 
+Seat 6: snakehunter14 (3774 Tournament chips) 
+Seat 8: MAGIC JOHN (6600 Tournament chips) 
+The button is at seat 3
+Josepheric posted ante of 25 Tournament chips
+magidh posted ante of 25 Tournament chips
+Rexrocks posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Darkhorsedude posted ante of 25 Tournament chips
+MAGIC JOHN posted ante of 25 Tournament chips
+snakehunter14 posted ante of 25 Tournament chips
+The button is moved to seat 4.
+snakehunter14 posts the small blind [150 Tournament chips]
+MAGIC JOHN posts the big blind [300 Tournament chips]
+Josepheric, at seat 0, is in this hand with 8259 Tournament chips.
+magidh, at seat 1, is in this hand with 9254 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 8745 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4130 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1410 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3599 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 6275 Tournament chips.
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 8d As ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Josepheric calls [300 Tournament chips]
+magidh folds [300 Tournament chips]
+Rexrocks calls [300 Tournament chips]
+Darkhorsedude folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+snakehunter14 folds [150 Tournament chips]
+MAGIC JOHN checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ Th ] board:[ 9s Th]
+** Dealing Flop ** [ 9c ] board:[ 9s Th 9c]
+MAGIC JOHN checks
+Josepheric checks
+Rexrocks checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 9s Th 9c 3s]
+MAGIC JOHN bets for 600 Tournament chips
+Josepheric calls [600 Tournament chips]
+Rexrocks folds [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 9s Th 9c 3s 4c]
+MAGIC JOHN bets for 900 Tournament chips
+Josepheric calls [900 Tournament chips]
+Round 4 is over.
+MAGIC JOHN shows [ 9d Tc ] full house, nines full of tens
+Hand evaluation for MAGIC JOHN (9d Tc 9s Th 9c: full house, nines full of tens)
+Josepheric doesn't show [ Ac Ad ]
+(Josepheric has Ac Ad.)
+MAGIC JOHN wins main pot 4225 Tournament chips with full house, nines full of tens.
+Seat 0: Josepheric (6459 Tournament chips) 
+Seat 1: magidh (9254 Tournament chips) 
+Seat 2: Rexrocks (8445 Tournament chips) 
+Seat 3: Darkhorsedude (4130 Tournament chips) 
+Seat 4: QwertySpark (1410 Tournament chips) 
+Seat 6: snakehunter14 (3599 Tournament chips) 
+Seat 8: MAGIC JOHN (9000 Tournament chips) 
+Game #23914943-70 ends
+Game #23914943-71 starts
+Seat 0: Josepheric (6459 Tournament chips) 
+Seat 1: magidh (9254 Tournament chips) 
+Seat 2: Rexrocks (8445 Tournament chips) 
+Seat 3: Darkhorsedude (4130 Tournament chips) 
+Seat 4: QwertySpark (1410 Tournament chips) 
+Seat 6: snakehunter14 (3599 Tournament chips) 
+Seat 8: MAGIC JOHN (9000 Tournament chips) 
+The button is at seat 4
+Josepheric posted ante of 50 Tournament chips
+magidh posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+The button is moved to seat 6.
+MAGIC JOHN posts the small blind [200 Tournament chips]
+Josepheric posts the big blind [400 Tournament chips]
+Josepheric, at seat 0, is in this hand with 6009 Tournament chips.
+magidh, at seat 1, is in this hand with 9204 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 8395 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4080 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1360 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3549 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 8750 Tournament chips.
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 3h 5c ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+magidh folds [400 Tournament chips]
+Rexrocks folds [400 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+snakehunter14 folds [400 Tournament chips]
+MAGIC JOHN calls [200 Tournament chips]
+Josepheric checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 6d ] board:[ 7c 6d]
+** Dealing Flop ** [ Qh ] board:[ 7c 6d Qh]
+MAGIC JOHN goes all-in for 8550 Tournament chips
+Josepheric folds [6009 Tournament chips]
+MAGIC JOHN is returned 8550 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for MAGIC JOHN (As Qc 7c 6d Qh: a pair of queens)
+MAGIC JOHN wins main pot 1150 Tournament chips.
+Seat 0: Josepheric (6009 Tournament chips) 
+Seat 1: magidh (9204 Tournament chips) 
+Seat 2: Rexrocks (8395 Tournament chips) 
+Seat 3: Darkhorsedude (4080 Tournament chips) 
+Seat 4: QwertySpark (1360 Tournament chips) 
+Seat 6: snakehunter14 (3549 Tournament chips) 
+Seat 8: MAGIC JOHN (9700 Tournament chips) 
+Game #23914943-71 ends
+Game #23914943-72 starts
+Seat 0: Josepheric (6009 Tournament chips) 
+Seat 1: magidh (9204 Tournament chips) 
+Seat 2: Rexrocks (8395 Tournament chips) 
+Seat 3: Darkhorsedude (4080 Tournament chips) 
+Seat 4: QwertySpark (1360 Tournament chips) 
+Seat 6: snakehunter14 (3549 Tournament chips) 
+Seat 8: MAGIC JOHN (9700 Tournament chips) 
+The button is at seat 6
+Josepheric posted ante of 50 Tournament chips
+magidh posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+The button is moved to seat 8.
+Josepheric posts the small blind [200 Tournament chips]
+magidh posts the big blind [400 Tournament chips]
+Josepheric, at seat 0, is in this hand with 5759 Tournament chips.
+magidh, at seat 1, is in this hand with 8754 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 8345 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 4030 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1310 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3499 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 9650 Tournament chips.
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Josepheric is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to Josepheric [ **** ]
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 7h Tc ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Rexrocks calls [400 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+snakehunter14 folds [400 Tournament chips]
+MAGIC JOHN raises all-in [9650 Tournament chips]
+Josepheric calls all-in [5759 Tournament chips]
+magidh folds [8754 Tournament chips]
+Rexrocks folds [7945 Tournament chips]
+MAGIC JOHN is returned 3691 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Josepheric shows [ 9d Qc ]
+MAGIC JOHN shows [ 8d 8h ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 8c ] board:[ 2s 8c]
+** Dealing Flop ** [ Jh ] board:[ 2s 8c Jh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 2s 8c Jh 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 2s 8c Jh 4c 6c]
+        (no action in this round)
+Round 4 is over.
+Josepheric shows [ 9d Qc ] queen/jack/nine high
+MAGIC JOHN shows [ 8d 8h ] three eights, jack/six kickers
+MAGIC JOHN wins main pot 13068 Tournament chips with three eights, jack/six kickers.
+Seat 0: Josepheric (0 Tournament chips) 
+Seat 1: magidh (8754 Tournament chips) 
+Seat 2: Rexrocks (7945 Tournament chips) 
+Seat 3: Darkhorsedude (4030 Tournament chips) 
+Seat 4: QwertySpark (1310 Tournament chips) 
+Seat 6: snakehunter14 (3499 Tournament chips) 
+Seat 8: MAGIC JOHN (16759 Tournament chips) 
+Game #23914943-72 ends
+Player Josepheric leaves the table with 0 Tournament chips
+Game #23914943-73 starts
+Seat 1: magidh (8754 Tournament chips) 
+Seat 2: Rexrocks (7945 Tournament chips) 
+Seat 3: Darkhorsedude (4030 Tournament chips) 
+Seat 4: QwertySpark (1310 Tournament chips) 
+Seat 6: snakehunter14 (3499 Tournament chips) 
+Seat 8: MAGIC JOHN (16759 Tournament chips) 
+The button is at seat 8
+magidh posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+The button is moved to seat 0.
+magidh posts the small blind [200 Tournament chips]
+Rexrocks posts the big blind [400 Tournament chips]
+magidh, at seat 1, is in this hand with 8504 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 7495 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3980 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1260 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3449 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 16709 Tournament chips.
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 4c 3s ]
+Dealt to snakehunter14 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Rexrocks: and John Guiles riggs another hand atmark twain
+snakehunter14 folds [400 Tournament chips]
+MAGIC JOHN calls [400 Tournament chips]
+magidh folds [200 Tournament chips]
+Rexrocks checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 5s ] board:[ Kd 5s]
+** Dealing Flop ** [ 3c ] board:[ Kd 5s 3c]
+Rexrocks checks
+MAGIC JOHN has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Kd 5s 3c 8s]
+Rexrocks bets for 400 Tournament chips
+MAGIC JOHN calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Kd 5s 3c 8s Ad]
+Rexrocks bets for 2100 Tournament chips
+MAGIC JOHN calls [2100 Tournament chips]
+Round 4 is over.
+Rexrocks shows [ Jc As ] a pair of aces
+Hand evaluation for Rexrocks (Jc As Kd 8s Ad: a pair of aces)
+MAGIC JOHN doesn't show [ Qs Ks ]
+(MAGIC JOHN has Qs Ks.)
+Rexrocks wins main pot 6300 Tournament chips with a pair of aces, king/jack kickers.
+Seat 1: magidh (8504 Tournament chips) 
+Seat 2: Rexrocks (11295 Tournament chips) 
+Seat 3: Darkhorsedude (3980 Tournament chips) 
+Seat 4: QwertySpark (1260 Tournament chips) 
+Seat 6: snakehunter14 (3449 Tournament chips) 
+Seat 7: wheeldraw3 (2970 Tournament chips) 
+Seat 8: MAGIC JOHN (13809 Tournament chips) 
+Game #23914943-73 ends
+Game #23914943-74 starts
+Seat 1: magidh (8504 Tournament chips) 
+Seat 2: Rexrocks (11295 Tournament chips) 
+Seat 3: Darkhorsedude (3980 Tournament chips) 
+Seat 4: QwertySpark (1260 Tournament chips) 
+Seat 6: snakehunter14 (3449 Tournament chips) 
+Seat 7: wheeldraw3 (2970 Tournament chips) 
+Seat 8: MAGIC JOHN (13809 Tournament chips) 
+The button is at seat 0
+magidh posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+wheeldraw3 posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+The button is moved to seat 1.
+Rexrocks posts the small blind [200 Tournament chips]
+Darkhorsedude posts the big blind [400 Tournament chips]
+magidh, at seat 1, is in this hand with 8454 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 11045 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3530 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 1210 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3399 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2920 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 13759 Tournament chips.
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Ts Kd ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark folds [400 Tournament chips]
+snakehunter14 folds [400 Tournament chips]
+wheeldraw3 folds [400 Tournament chips]
+MAGIC JOHN folds [400 Tournament chips]
+magidh raises [800 Tournament chips]
+Rexrocks folds [600 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+magidh is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for magidh (Ad Ac: a pair of aces)
+magidh wins main pot 1350 Tournament chips.
+Seat 1: magidh (9404 Tournament chips) 
+Seat 2: Rexrocks (11045 Tournament chips) 
+Seat 3: Darkhorsedude (3530 Tournament chips) 
+Seat 4: QwertySpark (1210 Tournament chips) 
+Seat 6: snakehunter14 (3399 Tournament chips) 
+Seat 7: wheeldraw3 (2920 Tournament chips) 
+Seat 8: MAGIC JOHN (13759 Tournament chips) 
+Game #23914943-74 ends
+Game #23914943-75 starts
+Seat 1: magidh (9404 Tournament chips) 
+Seat 2: Rexrocks (11045 Tournament chips) 
+Seat 3: Darkhorsedude (3530 Tournament chips) 
+Seat 4: QwertySpark (1210 Tournament chips) 
+Seat 6: snakehunter14 (3399 Tournament chips) 
+Seat 7: wheeldraw3 (2920 Tournament chips) 
+Seat 8: MAGIC JOHN (13759 Tournament chips) 
+The button is at seat 1
+Rexrocks posted ante of 50 Tournament chips
+magidh posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+wheeldraw3 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 2.
+Darkhorsedude posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+magidh, at seat 1, is in this hand with 9354 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 10995 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3280 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 760 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 3349 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2870 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 13709 Tournament chips.
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Jh As ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+snakehunter14 folds [400 Tournament chips]
+wheeldraw3 folds [400 Tournament chips]
+MAGIC JOHN folds [400 Tournament chips]
+magidh folds [400 Tournament chips]
+Rexrocks raises [800 Tournament chips]
+Darkhorsedude folds [600 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Rexrocks is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (Ad 7d: ace high)
+Rexrocks wins main pot 1350 Tournament chips.
+Seat 1: magidh (9354 Tournament chips) 
+Seat 2: Rexrocks (11945 Tournament chips) 
+Seat 3: Darkhorsedude (3280 Tournament chips) 
+Seat 4: QwertySpark (760 Tournament chips) 
+Seat 6: snakehunter14 (3349 Tournament chips) 
+Seat 7: wheeldraw3 (2870 Tournament chips) 
+Seat 8: MAGIC JOHN (13709 Tournament chips) 
+Game #23914943-75 ends
+Game #23914943-76 starts
+Seat 1: magidh (9354 Tournament chips) 
+Seat 2: Rexrocks (11945 Tournament chips) 
+Seat 3: Darkhorsedude (3280 Tournament chips) 
+Seat 4: QwertySpark (760 Tournament chips) 
+Seat 6: snakehunter14 (3349 Tournament chips) 
+Seat 7: wheeldraw3 (2870 Tournament chips) 
+Seat 8: MAGIC JOHN (13709 Tournament chips) 
+The button is at seat 2
+magidh posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+wheeldraw3 posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+The button is moved to seat 3.
+QwertySpark posts the small blind [200 Tournament chips]
+snakehunter14 posts the big blind [400 Tournament chips]
+magidh, at seat 1, is in this hand with 9304 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 11895 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3230 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 510 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2899 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2820 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 13659 Tournament chips.
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 2s Qd ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+wheeldraw3 folds [400 Tournament chips]
+MAGIC JOHN folds [400 Tournament chips]
+magidh folds [400 Tournament chips]
+Rexrocks calls [400 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+snakehunter14 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 5h ] board:[ 9c 5h]
+** Dealing Flop ** [ Th ] board:[ 9c 5h Th]
+snakehunter14 checks
+Rexrocks bets for 800 Tournament chips
+snakehunter14 folds [800 Tournament chips]
+Rexrocks is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Rexrocks (Kd 9d 9c 5h Th: a pair of nines)
+Rexrocks wins main pot 1350 Tournament chips.
+Seat 1: magidh (9304 Tournament chips) 
+Seat 2: Rexrocks (12845 Tournament chips) 
+Seat 3: Darkhorsedude (3230 Tournament chips) 
+Seat 4: QwertySpark (510 Tournament chips) 
+Seat 6: snakehunter14 (2899 Tournament chips) 
+Seat 7: wheeldraw3 (2820 Tournament chips) 
+Seat 8: MAGIC JOHN (13659 Tournament chips) 
+Game #23914943-76 ends
+Game #23914943-77 starts
+Seat 1: magidh (9304 Tournament chips) 
+Seat 2: Rexrocks (12845 Tournament chips) 
+Seat 3: Darkhorsedude (3230 Tournament chips) 
+Seat 4: QwertySpark (510 Tournament chips) 
+Seat 6: snakehunter14 (2899 Tournament chips) 
+Seat 7: wheeldraw3 (2820 Tournament chips) 
+Seat 8: MAGIC JOHN (13659 Tournament chips) 
+The button is at seat 3
+magidh posted ante of 50 Tournament chips
+Rexrocks posted ante of 50 Tournament chips
+MAGIC JOHN posted ante of 50 Tournament chips
+Darkhorsedude posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+snakehunter14 posted ante of 50 Tournament chips
+wheeldraw3 posted ante of 50 Tournament chips
+The button is moved to seat 4.
+snakehunter14 posts the small blind [200 Tournament chips]
+wheeldraw3 posts the big blind [400 Tournament chips]
+magidh, at seat 1, is in this hand with 9254 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 12795 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3180 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 460 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2649 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2370 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 13609 Tournament chips.
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 4d 2s ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+MAGIC JOHN folds [400 Tournament chips]
+magidh folds [400 Tournament chips]
+Rexrocks folds [400 Tournament chips]
+Darkhorsedude folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+snakehunter14 folds [200 Tournament chips]
+wheeldraw3 is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for wheeldraw3 (2d 6d: six high)
+wheeldraw3 wins main pot 750 Tournament chips.
+Seat 1: magidh (9254 Tournament chips) 
+Seat 2: Rexrocks (12795 Tournament chips) 
+Seat 3: Darkhorsedude (3180 Tournament chips) 
+Seat 4: QwertySpark (460 Tournament chips) 
+Seat 6: snakehunter14 (2649 Tournament chips) 
+Seat 7: wheeldraw3 (3320 Tournament chips) 
+Seat 8: MAGIC JOHN (13609 Tournament chips) 
+Game #23914943-77 ends
+Game #23914943-78 starts
+Seat 1: magidh (9254 Tournament chips) 
+Seat 2: Rexrocks (12795 Tournament chips) 
+Seat 3: Darkhorsedude (3180 Tournament chips) 
+Seat 4: QwertySpark (460 Tournament chips) 
+Seat 6: snakehunter14 (2649 Tournament chips) 
+Seat 7: wheeldraw3 (3320 Tournament chips) 
+Seat 8: MAGIC JOHN (13609 Tournament chips) 
+The button is at seat 4
+magidh posted ante of 75 Tournament chips
+Rexrocks posted ante of 75 Tournament chips
+Darkhorsedude posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+snakehunter14 posted ante of 75 Tournament chips
+wheeldraw3 posted ante of 75 Tournament chips
+MAGIC JOHN posted ante of 75 Tournament chips
+The button is moved to seat 6.
+wheeldraw3 posts the small blind [300 Tournament chips]
+MAGIC JOHN posts the big blind [600 Tournament chips]
+magidh, at seat 1, is in this hand with 9179 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 12720 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3105 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 385 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2574 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2945 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 12934 Tournament chips.
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 2h 5c ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+magidh folds [600 Tournament chips]
+Rexrocks calls [600 Tournament chips]
+Darkhorsedude folds [600 Tournament chips]
+QwertySpark folds [385 Tournament chips]
+snakehunter14 folds [600 Tournament chips]
+wheeldraw3 folds [300 Tournament chips]
+MAGIC JOHN folds
+round 1 is over.
+Hand evaluation for Rexrocks (As Tc: ace high)
+Rexrocks wins main pot 2025 Tournament chips.
+Seat 1: magidh (9179 Tournament chips) 
+Seat 2: Rexrocks (14145 Tournament chips) 
+Seat 3: Darkhorsedude (3105 Tournament chips) 
+Seat 4: QwertySpark (385 Tournament chips) 
+Seat 6: snakehunter14 (2574 Tournament chips) 
+Seat 7: wheeldraw3 (2945 Tournament chips) 
+Seat 8: MAGIC JOHN (12934 Tournament chips) 
+Game #23914943-78 ends
+Game #23914943-79 starts
+Seat 1: magidh (9179 Tournament chips) 
+Seat 2: Rexrocks (14145 Tournament chips) 
+Seat 3: Darkhorsedude (3105 Tournament chips) 
+Seat 4: QwertySpark (385 Tournament chips) 
+Seat 6: snakehunter14 (2574 Tournament chips) 
+Seat 7: wheeldraw3 (2945 Tournament chips) 
+Seat 8: MAGIC JOHN (12934 Tournament chips) 
+The button is at seat 6
+magidh posted ante of 75 Tournament chips
+Rexrocks posted ante of 75 Tournament chips
+Darkhorsedude posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+snakehunter14 posted ante of 75 Tournament chips
+wheeldraw3 posted ante of 75 Tournament chips
+MAGIC JOHN posted ante of 75 Tournament chips
+The button is moved to seat 7.
+MAGIC JOHN posts the small blind [300 Tournament chips]
+magidh posts the big blind [600 Tournament chips]
+magidh, at seat 1, is in this hand with 8504 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 14070 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 3030 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 310 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2499 Tournament chips.
+wheeldraw3, at seat 7, is in this hand (absent) with 2870 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand (absent) with 12559 Tournament chips.
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 7d 3c ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+(wheeldraw3 has entered the table, is no longer absent.)
+Rexrocks folds [600 Tournament chips]
+Darkhorsedude folds [600 Tournament chips]
+QwertySpark folds [310 Tournament chips]
+(MAGIC JOHN has entered the table, is no longer absent.)
+snakehunter14 folds [600 Tournament chips]
+wheeldraw3 folds [600 Tournament chips]
+MAGIC JOHN calls [300 Tournament chips]
+magidh checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 6h ] board:[ Ac 6h]
+** Dealing Flop ** [ 5s ] board:[ Ac 6h 5s]
+MAGIC JOHN checks
+magidh goes all-in for 8504 Tournament chips
+MAGIC JOHN folds [8504 Tournament chips]
+magidh is returned 8504 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for magidh (6s 2d Ac 6h 5s: a pair of sixes)
+magidh wins main pot 1725 Tournament chips.
+(MAGIC JOHN has entered the table, is no longer absent.)
+Seat 1: magidh (10229 Tournament chips) 
+Seat 2: Rexrocks (14070 Tournament chips) 
+Seat 3: Darkhorsedude (3030 Tournament chips) 
+Seat 4: QwertySpark (310 Tournament chips) 
+Seat 6: snakehunter14 (2499 Tournament chips) 
+Seat 7: wheeldraw3 (2870 Tournament chips) 
+Seat 8: MAGIC JOHN (12259 Tournament chips) 
+Game #23914943-79 ends
+Game #23914943-80 starts
+Seat 1: magidh (10229 Tournament chips) 
+Seat 2: Rexrocks (14070 Tournament chips) 
+Seat 3: Darkhorsedude (3030 Tournament chips) 
+Seat 4: QwertySpark (310 Tournament chips) 
+Seat 6: snakehunter14 (2499 Tournament chips) 
+Seat 7: wheeldraw3 (2870 Tournament chips) 
+Seat 8: MAGIC JOHN (12259 Tournament chips) 
+The button is at seat 7
+magidh posted ante of 75 Tournament chips
+Darkhorsedude posted ante of 75 Tournament chips
+Rexrocks posted ante of 75 Tournament chips
+snakehunter14 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+wheeldraw3 posted ante of 75 Tournament chips
+MAGIC JOHN posted ante of 75 Tournament chips
+The button is moved to seat 8.
+magidh posts the small blind [300 Tournament chips]
+Rexrocks posts the big blind [600 Tournament chips]
+magidh, at seat 1, is in this hand with 9854 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 13395 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 2955 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 235 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2424 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2795 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 12184 Tournament chips.
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ Qh 9c ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+Darkhorsedude folds [600 Tournament chips]
+QwertySpark folds [235 Tournament chips]
+snakehunter14 folds [600 Tournament chips]
+wheeldraw3 folds [600 Tournament chips]
+MAGIC JOHN folds [600 Tournament chips]
+magidh calls [300 Tournament chips]
+Rexrocks checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 7d ] board:[ Ah 7d]
+** Dealing Flop ** [ 8h ] board:[ Ah 7d 8h]
+magidh bets for 600 Tournament chips
+Rexrocks calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Ah 7d 8h 9d]
+magidh bets for 600 Tournament chips
+Rexrocks calls [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ Ah 7d 8h 9d Kc]
+magidh checks
+Rexrocks checks
+Round 4 is over.
+magidh shows [ Jh 3h ] ace high
+Hand evaluation for magidh (Jh Ah 8h 9d Kc: ace high)
+Rexrocks shows [ 9h Jc ] a pair of nines
+Hand evaluation for Rexrocks (9h Jc Ah 9d Kc: a pair of nines)
+Rexrocks wins main pot 4125 Tournament chips with a pair of nines, ace/king kickers.
+Seat 1: magidh (8354 Tournament chips) 
+Seat 2: Rexrocks (16320 Tournament chips) 
+Seat 3: Darkhorsedude (2955 Tournament chips) 
+Seat 4: QwertySpark (235 Tournament chips) 
+Seat 6: snakehunter14 (2424 Tournament chips) 
+Seat 7: wheeldraw3 (2795 Tournament chips) 
+Seat 8: MAGIC JOHN (12184 Tournament chips) 
+Game #23914943-80 ends
+Game #23914943-81 starts
+Seat 1: magidh (8354 Tournament chips) 
+Seat 2: Rexrocks (16320 Tournament chips) 
+Seat 3: Darkhorsedude (2955 Tournament chips) 
+Seat 4: QwertySpark (235 Tournament chips) 
+Seat 6: snakehunter14 (2424 Tournament chips) 
+Seat 7: wheeldraw3 (2795 Tournament chips) 
+Seat 8: MAGIC JOHN (12184 Tournament chips) 
+The button is at seat 8
+magidh posted ante of 75 Tournament chips
+Rexrocks posted ante of 75 Tournament chips
+Darkhorsedude posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+snakehunter14 posted ante of 75 Tournament chips
+wheeldraw3 posted ante of 75 Tournament chips
+MAGIC JOHN posted ante of 75 Tournament chips
+The button is moved to seat 1.
+Rexrocks posts the small blind [300 Tournament chips]
+Darkhorsedude posts the big blind [600 Tournament chips]
+magidh, at seat 1, is in this hand with 8279 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 15945 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 2280 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 160 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2349 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2720 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 12109 Tournament chips.
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 3h Jc ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+QwertySpark folds [160 Tournament chips]
+snakehunter14 folds [600 Tournament chips]
+wheeldraw3 folds [600 Tournament chips]
+MAGIC JOHN folds [600 Tournament chips]
+magidh folds [600 Tournament chips]
+Rexrocks raises [900 Tournament chips]
+Darkhorsedude folds [600 Tournament chips]
+Rexrocks is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Rexrocks (As Td: ace high)
+Rexrocks wins main pot 1725 Tournament chips.
+Seat 1: magidh (8279 Tournament chips) 
+Seat 2: Rexrocks (17370 Tournament chips) 
+Seat 3: Darkhorsedude (2280 Tournament chips) 
+Seat 4: QwertySpark (160 Tournament chips) 
+Seat 6: snakehunter14 (2349 Tournament chips) 
+Seat 7: wheeldraw3 (2720 Tournament chips) 
+Seat 8: MAGIC JOHN (12109 Tournament chips) 
+Game #23914943-81 ends
+Game #23914943-82 starts
+Seat 1: magidh (8279 Tournament chips) 
+Seat 2: Rexrocks (17370 Tournament chips) 
+Seat 3: Darkhorsedude (2280 Tournament chips) 
+Seat 4: QwertySpark (160 Tournament chips) 
+Seat 6: snakehunter14 (2349 Tournament chips) 
+Seat 7: wheeldraw3 (2720 Tournament chips) 
+Seat 8: MAGIC JOHN (12109 Tournament chips) 
+The button is at seat 1
+magidh posted ante of 75 Tournament chips
+Rexrocks posted ante of 75 Tournament chips
+Darkhorsedude posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+snakehunter14 posted ante of 75 Tournament chips
+wheeldraw3 posted ante of 75 Tournament chips
+MAGIC JOHN posted ante of 75 Tournament chips
+The button is moved to seat 2.
+Darkhorsedude posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [85 Tournament chips], goes all-in
+magidh, at seat 1, is in this hand with 8204 Tournament chips.
+Rexrocks, at seat 2, is in this hand with 17295 Tournament chips.
+Darkhorsedude, at seat 3, is in this hand (absent) with 1905 Tournament chips.
+QwertySpark, at seat 4, is in this hand (absent) with 0 Tournament chips.
+snakehunter14, at seat 6, is in this hand with 2274 Tournament chips.
+wheeldraw3, at seat 7, is in this hand with 2645 Tournament chips.
+MAGIC JOHN, at seat 8, is in this hand with 12034 Tournament chips.
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Darkhorsedude is dealt: **
+
+snakehunter14 is dealt: **
+wheeldraw3 is dealt: **
+MAGIC JOHN is dealt: **
+magidh is dealt: **
+Rexrocks is dealt: **
+Dealt to magidh [ **** ]
+Dealt to Rexrocks [ **** ]
+Dealt to Darkhorsedude [ **** ]
+Dealt to QwertySpark [ 5c 9s ]
+Dealt to snakehunter14 [ **** ]
+Dealt to wheeldraw3 [ **** ]
+Dealt to MAGIC JOHN [ **** ]
+snakehunter14 folds [600 Tournament chips]
+wheeldraw3 folds [600 Tournament chips]
+MAGIC JOHN folds [600 Tournament chips]
+magidh folds [600 Tournament chips]
+Rexrocks raises [1200 Tournament chips]
+Darkhorsedude folds [900 Tournament chips]
+Rexrocks is returned 900 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Rexrocks shows [ 7h 2c ]
+QwertySpark shows [ 5c 9s ]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 8s ] board:[ 3h 8s]
+** Dealing Flop ** [ Ah ] board:[ 3h 8s Ah]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 3h 8s Ah 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 3h 8s Ah 2d As]
+        (no action in this round)
+Round 4 is over.
+Rexrocks shows [ 7h 2c ] two pair, aces and deuces, eight kicker
+Rexrocks wins main pot 780 Tournament chips with two pair, aces and deuces, eight kicker.
+Rexrocks wins side pot #1 430 Tournament chips with two pair, aces and deuces, eight kicker.
+Seat 1: magidh (8204 Tournament chips) 
+Seat 2: Rexrocks (18205 Tournament chips) 
+Seat 3: Darkhorsedude (1905 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 6: snakehunter14 (2274 Tournament chips) 
+Seat 7: wheeldraw3 (2645 Tournament chips) 
+Seat 8: MAGIC JOHN (12034 Tournament chips) 
+Game #23914943-82 ends
+Player QwertySpark leaves the table with 0 Tournament chips

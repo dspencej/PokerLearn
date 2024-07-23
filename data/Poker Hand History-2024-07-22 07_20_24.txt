@@ -1,0 +1,226 @@
+Game#: 23939671
+QwertySpark is dealt: As
+BWHIT36 is dealt: **
+The button is moved to seat 0.
+Game #23939671-1 starts
+Seat 0: QwertySpark (2000 Tournament chips) 
+Seat 1: BWHIT36 (2000 Tournament chips) 
+The button is at seat 0
+QwertySpark posts the small blind [10 Tournament chips]
+BWHIT36 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1990 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 1980 Tournament chips.
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+
+Dealt to QwertySpark [ 9h 3d ]
+Dealt to BWHIT36 [ **** ]
+QwertySpark raises [50 Tournament chips]
+BWHIT36 raises all-in [1980 Tournament chips]
+QwertySpark folds [1940 Tournament chips]
+BWHIT36 is returned 1940 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (9s Qc: queen high)
+BWHIT36 wins main pot 120 Tournament chips.
+Seat 0: QwertySpark (1940 Tournament chips) 
+Seat 1: BWHIT36 (2060 Tournament chips) 
+Game #23939671-1 ends
+Game #23939671-2 starts
+Seat 0: QwertySpark (1940 Tournament chips) 
+Seat 1: BWHIT36 (2060 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+BWHIT36 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1920 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 2050 Tournament chips.
+
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+Dealt to QwertySpark [ Js 4s ]
+Dealt to BWHIT36 [ **** ]
+BWHIT36 raises all-in [2050 Tournament chips]
+QwertySpark folds [1920 Tournament chips]
+BWHIT36 is returned 2040 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (5d 3h: five high)
+BWHIT36 wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: BWHIT36 (2080 Tournament chips) 
+Game #23939671-2 ends
+Game #23939671-3 starts
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: BWHIT36 (2080 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+BWHIT36 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1910 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 2060 Tournament chips.
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+
+Dealt to QwertySpark [ 2d Td ]
+Dealt to BWHIT36 [ **** ]
+QwertySpark calls [10 Tournament chips]
+BWHIT36 raises all-in [2060 Tournament chips]
+QwertySpark folds [1900 Tournament chips]
+BWHIT36 is returned 2060 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (7d Jh: jack high)
+BWHIT36 wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (1900 Tournament chips) 
+Seat 1: BWHIT36 (2100 Tournament chips) 
+Game #23939671-3 ends
+Game #23939671-4 starts
+Seat 0: QwertySpark (1900 Tournament chips) 
+Seat 1: BWHIT36 (2100 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+BWHIT36 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1880 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 2090 Tournament chips.
+
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+Dealt to QwertySpark [ 8h 5d ]
+Dealt to BWHIT36 [ **** ]
+BWHIT36 raises all-in [2090 Tournament chips]
+QwertySpark folds [1880 Tournament chips]
+BWHIT36 is returned 2080 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (Ac Th: ace high)
+BWHIT36 wins main pot 40 Tournament chips.
+Seat 0: QwertySpark (1880 Tournament chips) 
+Seat 1: BWHIT36 (2120 Tournament chips) 
+Game #23939671-4 ends
+Game #23939671-5 starts
+Seat 0: QwertySpark (1880 Tournament chips) 
+Seat 1: BWHIT36 (2120 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+BWHIT36 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1870 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 2100 Tournament chips.
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+
+Dealt to QwertySpark [ 7s Jc ]
+Dealt to BWHIT36 [ **** ]
+QwertySpark folds [10 Tournament chips]
+BWHIT36 is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (2h 7h: seven high)
+BWHIT36 wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (1870 Tournament chips) 
+Seat 1: BWHIT36 (2130 Tournament chips) 
+Game #23939671-5 ends
+Game #23939671-6 starts
+Seat 0: QwertySpark (1870 Tournament chips) 
+Seat 1: BWHIT36 (2130 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+BWHIT36 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1850 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 2120 Tournament chips.
+
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+Dealt to QwertySpark [ Ah Js ]
+Dealt to BWHIT36 [ **** ]
+BWHIT36 raises all-in [2120 Tournament chips]
+QwertySpark calls all-in [1850 Tournament chips]
+BWHIT36 is returned 260 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ah Js ]
+BWHIT36 shows [ Qc 5d ]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2d ] board:[ 4h 2d]
+** Dealing Flop ** [ 4s ] board:[ 4h 2d 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 4h 2d 4s 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 4h 2d 4s 6s 6h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ah Js ] two pair, sixes and fours, ace kicker
+BWHIT36 shows [ Qc 5d ] two pair, sixes and fours, queen kicker
+QwertySpark wins main pot 3740 Tournament chips with two pair, sixes and fours, ace kicker.
+Seat 0: QwertySpark (3740 Tournament chips) 
+Seat 1: BWHIT36 (260 Tournament chips) 
+Game #23939671-6 ends
+Game #23939671-7 starts
+Seat 0: QwertySpark (3740 Tournament chips) 
+Seat 1: BWHIT36 (260 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+BWHIT36 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3730 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 240 Tournament chips.
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+
+Dealt to QwertySpark [ 5c 4d ]
+Dealt to BWHIT36 [ **** ]
+QwertySpark folds [10 Tournament chips]
+BWHIT36 is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for BWHIT36 (2d 9s: nine high)
+BWHIT36 wins main pot 20 Tournament chips.
+Seat 0: QwertySpark (3730 Tournament chips) 
+Seat 1: BWHIT36 (270 Tournament chips) 
+Game #23939671-7 ends
+Game #23939671-8 starts
+Seat 0: QwertySpark (3730 Tournament chips) 
+Seat 1: BWHIT36 (270 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+BWHIT36 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 3710 Tournament chips.
+BWHIT36, at seat 1, is in this hand with 260 Tournament chips.
+
+BWHIT36 is dealt: **
+
+BWHIT36 is dealt: **
+Dealt to QwertySpark [ Qh Qd ]
+Dealt to BWHIT36 [ **** ]
+BWHIT36 raises all-in [260 Tournament chips]
+QwertySpark calls [250 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qh Qd ]
+BWHIT36 shows [ 4d Td ]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ Jh ] board:[ 3s Jh]
+** Dealing Flop ** [ 4s ] board:[ 3s Jh 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 3s Jh 4s Kd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 3s Jh 4s Kd 9h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qh Qd ] a pair of queens, king/jack kickers
+BWHIT36 shows [ 4d Td ] a pair of fours, king/jack kickers
+QwertySpark wins main pot 540 Tournament chips with a pair of queens, king/jack kickers.
+Seat 0: QwertySpark (4000 Tournament chips) 
+Seat 1: BWHIT36 (0 Tournament chips) 
+Game #23939671-8 ends
+Player BWHIT36 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4000 Tournament chips

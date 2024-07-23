@@ -1,0 +1,294 @@
+Game#: 23878407
+BigSlickATX is dealt: **
+QwertySpark is dealt: Qc
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+The button is moved to seat 1.
+Game #23878407-1 starts
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (1500 Tournament chips) 
+Seat 2: 33cowboy99 (1500 Tournament chips) 
+Seat 3: JustOldBob (1500 Tournament chips) 
+Seat 4: jaysusrox (1500 Tournament chips) 
+Seat 5: Jeffstreetz (1500 Tournament chips) 
+Seat 6: Patrickmccoy (1500 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (1500 Tournament chips) 
+The button is at seat 1
+33cowboy99 posts the small blind [5 Tournament chips]
+JustOldBob posts the big blind [10 Tournament chips]
+BigSlickATX, at seat 0, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1500 Tournament chips.
+33cowboy99, at seat 2, is in this hand with 1495 Tournament chips.
+JustOldBob, at seat 3, is in this hand with 1490 Tournament chips.
+jaysusrox, at seat 4, is in this hand with 1500 Tournament chips.
+Jeffstreetz, at seat 5, is in this hand (absent) with 1500 Tournament chips.
+Patrickmccoy, at seat 6, is in this hand (absent) with 1500 Tournament chips.
+Kmulkins65, at seat 7, is in this hand (absent) with 1500 Tournament chips.
+sleepersssh, at seat 8, is in this hand with 1500 Tournament chips.
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+Dealt to BigSlickATX [ **** ]
+Dealt to QwertySpark [ 9c Qh ]
+Dealt to 33cowboy99 [ **** ]
+Dealt to JustOldBob [ **** ]
+Dealt to jaysusrox [ **** ]
+Dealt to Jeffstreetz [ **** ]
+Dealt to Patrickmccoy [ **** ]
+Dealt to Kmulkins65 [ **** ]
+Dealt to sleepersssh [ **** ]
+jaysusrox folds [10 Tournament chips]
+Jeffstreetz folds [10 Tournament chips]
+Patrickmccoy folds [10 Tournament chips]
+Kmulkins65 folds [10 Tournament chips]
+sleepersssh folds [10 Tournament chips]
+BigSlickATX folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+33cowboy99 calls [5 Tournament chips]
+JustOldBob raises [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+33cowboy99 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 7h ] board:[ Kd 7h]
+** Dealing Flop ** [ 6c ] board:[ Kd 7h 6c]
+33cowboy99 bets for 60 Tournament chips
+JustOldBob raises [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+33cowboy99 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Kd 7h 6c Kc]
+33cowboy99 checks
+JustOldBob bets for 10 Tournament chips
+33cowboy99 calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Kd 7h 6c Kc Jh]
+33cowboy99 bets for 190 Tournament chips
+JustOldBob calls [190 Tournament chips]
+Round 4 is over.
+33cowboy99 shows [ Tc 7s ] two pair, kings and sevens
+Hand evaluation for 33cowboy99 (7s Kd 7h Kc Jh: two pair, kings and sevens)
+JustOldBob shows [ Ah Ad ] two pair, aces and kings
+Hand evaluation for JustOldBob (Ah Ad Kd Kc Jh: two pair, aces and kings)
+JustOldBob wins main pot 760 Tournament chips with two pair, aces and kings, jack kicker.
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (1460 Tournament chips) 
+Seat 2: 33cowboy99 (1140 Tournament chips) 
+Seat 3: JustOldBob (1900 Tournament chips) 
+Seat 4: jaysusrox (1500 Tournament chips) 
+Seat 5: Jeffstreetz (1500 Tournament chips) 
+Seat 6: Patrickmccoy (1500 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (1500 Tournament chips) 
+Game #23878407-1 ends
+Game #23878407-2 starts
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (1460 Tournament chips) 
+Seat 2: 33cowboy99 (1140 Tournament chips) 
+Seat 3: JustOldBob (1900 Tournament chips) 
+Seat 4: jaysusrox (1500 Tournament chips) 
+Seat 5: Jeffstreetz (1500 Tournament chips) 
+Seat 6: Patrickmccoy (1500 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (1500 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+JustOldBob posts the small blind [5 Tournament chips]
+jaysusrox posts the big blind [10 Tournament chips]
+BigSlickATX, at seat 0, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1460 Tournament chips.
+33cowboy99, at seat 2, is in this hand with 1140 Tournament chips.
+JustOldBob, at seat 3, is in this hand with 1895 Tournament chips.
+jaysusrox, at seat 4, is in this hand with 1490 Tournament chips.
+Jeffstreetz, at seat 5, is in this hand with 1500 Tournament chips.
+Patrickmccoy, at seat 6, is in this hand with 1500 Tournament chips.
+Kmulkins65, at seat 7, is in this hand (absent) with 1500 Tournament chips.
+sleepersssh, at seat 8, is in this hand with 1500 Tournament chips.
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+33cowboy99 is dealt: **
+Dealt to BigSlickATX [ **** ]
+Dealt to QwertySpark [ 8d 3s ]
+Dealt to 33cowboy99 [ **** ]
+Dealt to JustOldBob [ **** ]
+Dealt to jaysusrox [ **** ]
+Dealt to Jeffstreetz [ **** ]
+Dealt to Patrickmccoy [ **** ]
+Dealt to Kmulkins65 [ **** ]
+Dealt to sleepersssh [ **** ]
+Jeffstreetz folds [10 Tournament chips]
+Patrickmccoy calls [10 Tournament chips]
+Kmulkins65 folds [10 Tournament chips]
+sleepersssh calls [10 Tournament chips]
+BigSlickATX folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+33cowboy99 calls [10 Tournament chips]
+JustOldBob calls [5 Tournament chips]
+jaysusrox checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 2h ] board:[ As 2h]
+** Dealing Flop ** [ 3h ] board:[ As 2h 3h]
+JustOldBob checks
+jaysusrox checks
+Patrickmccoy checks
+sleepersssh checks
+33cowboy99 checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ As 2h 3h Js]
+JustOldBob bets for 220 Tournament chips
+jaysusrox folds [220 Tournament chips]
+Patrickmccoy folds [220 Tournament chips]
+sleepersssh calls [220 Tournament chips]
+33cowboy99 folds [220 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ As 2h 3h Js 5h]
+JustOldBob bets for 490 Tournament chips
+sleepersssh calls [490 Tournament chips]
+Round 4 is over.
+JustOldBob shows [ Ah 9s ] a pair of aces
+Hand evaluation for JustOldBob (Ah 9s As Js 5h: a pair of aces)
+sleepersssh shows [ Ac 7d ] a pair of aces
+Hand evaluation for sleepersssh (Ac 7d As Js 5h: a pair of aces)
+JustOldBob wins main pot 1470 Tournament chips with a pair of aces, jack/nine kickers.
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (1460 Tournament chips) 
+Seat 2: 33cowboy99 (1130 Tournament chips) 
+Seat 3: JustOldBob (2650 Tournament chips) 
+Seat 4: jaysusrox (1490 Tournament chips) 
+Seat 5: Jeffstreetz (1500 Tournament chips) 
+Seat 6: Patrickmccoy (1490 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (780 Tournament chips) 
+Game #23878407-2 ends
+Game #23878407-3 starts
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (1460 Tournament chips) 
+Seat 2: 33cowboy99 (1130 Tournament chips) 
+Seat 3: JustOldBob (2650 Tournament chips) 
+Seat 4: jaysusrox (1490 Tournament chips) 
+Seat 5: Jeffstreetz (1500 Tournament chips) 
+Seat 6: Patrickmccoy (1490 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (780 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+jaysusrox posts the small blind [5 Tournament chips]
+Jeffstreetz posts the big blind [10 Tournament chips]
+BigSlickATX, at seat 0, is in this hand with 1500 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1460 Tournament chips.
+33cowboy99, at seat 2, is in this hand with 1130 Tournament chips.
+JustOldBob, at seat 3, is in this hand with 2650 Tournament chips.
+jaysusrox, at seat 4, is in this hand with 1485 Tournament chips.
+Jeffstreetz, at seat 5, is in this hand with 1490 Tournament chips.
+Patrickmccoy, at seat 6, is in this hand with 1490 Tournament chips.
+Kmulkins65, at seat 7, is in this hand (absent) with 1500 Tournament chips.
+sleepersssh, at seat 8, is in this hand with 780 Tournament chips.
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+jaysusrox is dealt: **
+Jeffstreetz is dealt: **
+Patrickmccoy is dealt: **
+Kmulkins65 is dealt: **
+sleepersssh is dealt: **
+BigSlickATX is dealt: **
+
+33cowboy99 is dealt: **
+JustOldBob is dealt: **
+Dealt to BigSlickATX [ **** ]
+Dealt to QwertySpark [ 6s Th ]
+Dealt to 33cowboy99 [ **** ]
+Dealt to JustOldBob [ **** ]
+Dealt to jaysusrox [ **** ]
+Dealt to Jeffstreetz [ **** ]
+Dealt to Patrickmccoy [ **** ]
+Dealt to Kmulkins65 [ **** ]
+Dealt to sleepersssh [ **** ]
+Patrickmccoy folds [10 Tournament chips]
+Kmulkins65 folds [10 Tournament chips]
+sleepersssh folds [10 Tournament chips]
+BigSlickATX folds [10 Tournament chips]
+QwertySpark raises [50 Tournament chips]
+33cowboy99 calls [50 Tournament chips]
+JustOldBob calls [50 Tournament chips]
+jaysusrox folds [45 Tournament chips]
+Jeffstreetz folds [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Js ] board:[ Ks Js]
+** Dealing Flop ** [ Qc ] board:[ Ks Js Qc]
+QwertySpark bets for 165 Tournament chips
+33cowboy99 calls [165 Tournament chips]
+JustOldBob calls [165 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ Ks Js Qc 2s]
+QwertySpark checks
+33cowboy99 checks
+JustOldBob bets for 660 Tournament chips
+QwertySpark calls [660 Tournament chips]
+33cowboy99 folds [660 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ Ks Js Qc 2s 7d]
+QwertySpark goes all-in for 585 Tournament chips
+JustOldBob calls [585 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6s Th ]
+JustOldBob shows [ 3s Kd ]
+Round 4 is over.
+QwertySpark shows [ 6s Th ] king/queen/jack high
+JustOldBob shows [ 3s Kd ] a pair of kings, queen/jack kickers
+JustOldBob wins main pot 3150 Tournament chips with a pair of kings, queen/jack kickers.
+Seat 0: BigSlickATX (1500 Tournament chips) 
+Seat 1: QwertySpark (0 Tournament chips) 
+Seat 2: 33cowboy99 (915 Tournament chips) 
+Seat 3: JustOldBob (4340 Tournament chips) 
+Seat 4: jaysusrox (1485 Tournament chips) 
+Seat 5: Jeffstreetz (1490 Tournament chips) 
+Seat 6: Patrickmccoy (1490 Tournament chips) 
+Seat 7: Kmulkins65 (1500 Tournament chips) 
+Seat 8: sleepersssh (780 Tournament chips) 
+Game #23878407-3 ends
+Player QwertySpark leaves the table with 0 Tournament chips

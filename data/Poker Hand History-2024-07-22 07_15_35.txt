@@ -1,0 +1,3770 @@
+Game#: 23980553
+ReekDog99D is dealt: **
+Haydubb is dealt: **
+allinAce10 is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+zeeker50 is dealt: **
+QwertySpark is dealt: 2s
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+The button is moved to seat 4.
+Game #23980553-1 starts
+Seat 0: ReekDog99D (1000 Tournament chips) 
+Seat 1: Haydubb (1000 Tournament chips) 
+Seat 2: allinAce10 (1000 Tournament chips) 
+Seat 3: takeurchips49 (1000 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: zeeker50 (1000 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: Sledge1955 (1000 Tournament chips) 
+Seat 8: PVBeerMan (1000 Tournament chips) 
+The button is at seat 4
+zeeker50 posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+ReekDog99D, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1000 Tournament chips.
+allinAce10, at seat 2, is in this hand with 1000 Tournament chips.
+takeurchips49, at seat 3, is in this hand with 1000 Tournament chips.
+ash16324, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+zeeker50, at seat 5, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 990 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 1000 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1000 Tournament chips.
+zeeker50 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+ReekDog99D is dealt: **
+Haydubb is dealt: **
+allinAce10 is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+zeeker50 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+ReekDog99D is dealt: **
+Haydubb is dealt: **
+allinAce10 is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+Dealt to ReekDog99D [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to allinAce10 [ **** ]
+Dealt to takeurchips49 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to zeeker50 [ **** ]
+Dealt to QwertySpark [ 7s Qs ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Sledge1955 calls [10 Tournament chips]
+PVBeerMan calls [10 Tournament chips]
+ReekDog99D folds [10 Tournament chips]
+Haydubb calls [10 Tournament chips]
+allinAce10 raises all-in [1000 Tournament chips]
+takeurchips49 folds [1000 Tournament chips]
+ash16324 folds [1000 Tournament chips]
+zeeker50 folds [995 Tournament chips]
+QwertySpark folds [990 Tournament chips]
+Sledge1955 folds [990 Tournament chips]
+PVBeerMan calls all-in [990 Tournament chips]
+Haydubb folds [990 Tournament chips]
+Tournament all-in showdown -- players show:
+allinAce10 shows [ 2c Kc ]
+PVBeerMan shows [ 4s 4h ]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Jd ] board:[ 9d Jd]
+** Dealing Flop ** [ 6d ] board:[ 9d Jd 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 9d Jd 6d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 9d Jd 6d 3h 6c]
+        (no action in this round)
+Round 4 is over.
+allinAce10 shows [ 2c Kc ] a pair of sixes, king/jack kickers
+PVBeerMan shows [ 4s 4h ] two pair, sixes and fours, jack kicker
+PVBeerMan wins main pot 2035 Tournament chips with two pair, sixes and fours, jack kicker.
+Seat 0: ReekDog99D (1000 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: allinAce10 (0 Tournament chips) 
+Seat 3: takeurchips49 (1000 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: zeeker50 (995 Tournament chips) 
+Seat 6: QwertySpark (990 Tournament chips) 
+Seat 7: Sledge1955 (990 Tournament chips) 
+Seat 8: PVBeerMan (2035 Tournament chips) 
+Game #23980553-1 ends
+Player allinAce10 leaves the table with 0 Tournament chips
+Game #23980553-2 starts
+Seat 0: ReekDog99D (1000 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 3: takeurchips49 (1000 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: zeeker50 (995 Tournament chips) 
+Seat 6: QwertySpark (990 Tournament chips) 
+Seat 7: Sledge1955 (990 Tournament chips) 
+Seat 8: PVBeerMan (2035 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [5 Tournament chips]
+Sledge1955 posts the big blind [10 Tournament chips]
+ReekDog99D, at seat 0, is in this hand with 1000 Tournament chips.
+Haydubb, at seat 1, is in this hand with 990 Tournament chips.
+takeurchips49, at seat 3, is in this hand with 1000 Tournament chips.
+ash16324, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+zeeker50, at seat 5, is in this hand with 995 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 985 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 980 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2035 Tournament chips.
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+ReekDog99D is dealt: **
+Haydubb is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+zeeker50 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+ReekDog99D is dealt: **
+Haydubb is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+zeeker50 is dealt: **
+Dealt to ReekDog99D [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to takeurchips49 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to zeeker50 [ **** ]
+Dealt to QwertySpark [ 6h 6d ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+PVBeerMan folds [10 Tournament chips]
+ReekDog99D raises all-in [1000 Tournament chips]
+Haydubb folds [990 Tournament chips]
+takeurchips49 calls all-in [1000 Tournament chips]
+ash16324 folds [1000 Tournament chips]
+zeeker50 calls all-in [995 Tournament chips]
+QwertySpark calls all-in [985 Tournament chips]
+Sledge1955 folds [980 Tournament chips]
+Tournament all-in showdown -- players show:
+ReekDog99D shows [ Qc Kh ]
+takeurchips49 shows [ Th Ah ]
+zeeker50 shows [ Kc 5h ]
+QwertySpark shows [ 6h 6d ]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 6s ] board:[ Jd 6s]
+** Dealing Flop ** [ Jc ] board:[ Jd 6s Jc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ Jd 6s Jc 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Jd 6s Jc 5d Td]
+        (no action in this round)
+Round 4 is over.
+ReekDog99D shows [ Qc Kh ] a pair of jacks, king/queen kickers
+takeurchips49 shows [ Th Ah ] two pair, jacks and tens, ace kicker
+zeeker50 shows [ Kc 5h ] two pair, jacks and fives, king kicker
+QwertySpark shows [ 6h 6d ] full house, sixes full of jacks
+QwertySpark wins main pot 3970 Tournament chips with full house, sixes full of jacks.
+takeurchips49 wins side pot #1 15 Tournament chips with two pair, jacks and tens, ace kicker.
+takeurchips49 wins side pot #2 10 Tournament chips with two pair, jacks and tens, ace kicker.
+Seat 0: ReekDog99D (0 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (1000 Tournament chips) 
+Seat 3: takeurchips49 (25 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: zeeker50 (0 Tournament chips) 
+Seat 6: QwertySpark (3970 Tournament chips) 
+Seat 7: Sledge1955 (980 Tournament chips) 
+Seat 8: PVBeerMan (2035 Tournament chips) 
+Game #23980553-2 ends
+Player zeeker50 leaves the table with 0 Tournament chips
+Player ReekDog99D leaves the table with 0 Tournament chips
+Game #23980553-3 starts
+Seat 0: hrlyrdking (1000 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (1000 Tournament chips) 
+Seat 3: takeurchips49 (25 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: 1eyejack44 (1000 Tournament chips) 
+Seat 6: QwertySpark (3970 Tournament chips) 
+Seat 7: Sledge1955 (980 Tournament chips) 
+Seat 8: PVBeerMan (2035 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Sledge1955 posts the small blind [5 Tournament chips]
+PVBeerMan posts the big blind [10 Tournament chips]
+hrlyrdking, at seat 0, is in this hand (absent) with 1000 Tournament chips.
+Haydubb, at seat 1, is in this hand with 990 Tournament chips.
+pjb665, at seat 2, is in this hand with 1000 Tournament chips.
+takeurchips49, at seat 3, is in this hand with 25 Tournament chips.
+ash16324, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+1eyejack44, at seat 5, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 3970 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 975 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2025 Tournament chips.
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+hrlyrdking is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+1eyejack44 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+hrlyrdking is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+takeurchips49 is dealt: **
+ash16324 is dealt: **
+1eyejack44 is dealt: **
+
+Dealt to hrlyrdking [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to pjb665 [ **** ]
+Dealt to takeurchips49 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to 1eyejack44 [ **** ]
+Dealt to QwertySpark [ Kc Td ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+hrlyrdking folds [10 Tournament chips]
+Haydubb folds [10 Tournament chips]
+pjb665 calls [10 Tournament chips]
+takeurchips49 raises all-in [25 Tournament chips]
+ash16324 folds [25 Tournament chips]
+1eyejack44 folds [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+Sledge1955 folds [20 Tournament chips]
+PVBeerMan folds [15 Tournament chips]
+pjb665 calls [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 9d ] board:[ 4s 9d]
+** Dealing Flop ** [ 7h ] board:[ 4s 9d 7h]
+pjb665 bets for 10 Tournament chips
+QwertySpark raises [120 Tournament chips]
+pjb665 calls [110 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 4s 9d 7h 6d]
+pjb665 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 4s 9d 7h 6d Th]
+pjb665 checks
+QwertySpark bets for 165 Tournament chips
+pjb665 folds [165 Tournament chips]
+QwertySpark is returned 165 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+takeurchips49 shows [ 3c Qd ]
+QwertySpark shows [ Kc Td ]
+Round 4 is over.
+takeurchips49 shows [ 3c Qd ] queen/ten/nine high
+QwertySpark shows [ Kc Td ] a pair of tens, king/nine kickers
+QwertySpark wins main pot 90 Tournament chips with a pair of tens, king/nine kickers.
+QwertySpark wins side pot #1 240 Tournament chips with a pair of tens, king/nine kickers.
+Seat 0: hrlyrdking (1000 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (855 Tournament chips) 
+Seat 3: takeurchips49 (0 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: 1eyejack44 (1000 Tournament chips) 
+Seat 6: QwertySpark (4155 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2025 Tournament chips) 
+Game #23980553-3 ends
+Player takeurchips49 leaves the table with 0 Tournament chips
+Game #23980553-4 starts
+Seat 0: hrlyrdking (1000 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (855 Tournament chips) 
+Seat 4: ash16324 (1000 Tournament chips) 
+Seat 5: 1eyejack44 (1000 Tournament chips) 
+Seat 6: QwertySpark (4155 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2025 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+PVBeerMan posts the small blind [10 Tournament chips]
+hrlyrdking posts the big blind [20 Tournament chips]
+hrlyrdking, at seat 0, is in this hand with 980 Tournament chips.
+Haydubb, at seat 1, is in this hand with 990 Tournament chips.
+pjb665, at seat 2, is in this hand with 855 Tournament chips.
+ash16324, at seat 4, is in this hand with 1000 Tournament chips.
+1eyejack44, at seat 5, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 4155 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 975 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+PVBeerMan is dealt: **
+hrlyrdking is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+ash16324 is dealt: **
+1eyejack44 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+hrlyrdking is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+ash16324 is dealt: **
+1eyejack44 is dealt: **
+
+Sledge1955 is dealt: **
+Dealt to hrlyrdking [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to pjb665 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to 1eyejack44 [ **** ]
+Dealt to QwertySpark [ 8c Jc ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Haydubb folds [20 Tournament chips]
+pjb665 calls [20 Tournament chips]
+ash16324 calls [20 Tournament chips]
+1eyejack44 raises [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Sledge1955 folds [100 Tournament chips]
+PVBeerMan folds [90 Tournament chips]
+hrlyrdking re-raises [280 Tournament chips]
+pjb665 calls [280 Tournament chips]
+ash16324 calls [280 Tournament chips]
+1eyejack44 calls [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 5c ] board:[ 8d 5c]
+** Dealing Flop ** [ 2c ] board:[ 8d 5c 2c]
+hrlyrdking bets for 140 Tournament chips
+pjb665 calls [140 Tournament chips]
+ash16324 calls [140 Tournament chips]
+1eyejack44 raises all-in [700 Tournament chips]
+QwertySpark calls [700 Tournament chips]
+hrlyrdking calls all-in [560 Tournament chips]
+pjb665 folds [415 Tournament chips]
+ash16324 folds [560 Tournament chips]
+Tournament all-in showdown -- players show:
+hrlyrdking shows [ Qd Kh ]
+1eyejack44 shows [ 4s 5s ]
+QwertySpark shows [ 8c Jc ]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 8d 5c 2c 7d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 8d 5c 2c 7d Jd]
+        (no action in this round)
+Round 4 is over.
+hrlyrdking shows [ Qd Kh ] king/queen/jack high
+1eyejack44 shows [ 4s 5s ] a pair of fives, jack/eight kickers
+QwertySpark shows [ 8c Jc ] two pair, jacks and eights, seven kicker
+QwertySpark wins main pot 3890 Tournament chips with two pair, jacks and eights, seven kicker.
+Seat 0: hrlyrdking (0 Tournament chips) 
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (415 Tournament chips) 
+Seat 3: Lennydog1234 (1000 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 5: 1eyejack44 (0 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-4 ends
+Player hrlyrdking leaves the table with 0 Tournament chips
+Player 1eyejack44 leaves the table with 0 Tournament chips
+Game #23980553-5 starts
+Seat 1: Haydubb (990 Tournament chips) 
+Seat 2: pjb665 (415 Tournament chips) 
+Seat 3: Lennydog1234 (1000 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+Haydubb posts the big blind [30 Tournament chips]
+Haydubb, at seat 1, is in this hand with 960 Tournament chips.
+pjb665, at seat 2, is in this hand with 415 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1000 Tournament chips.
+ash16324, at seat 4, is in this hand with 560 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7045 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 975 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+Haydubb is dealt: **
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+Dealt to Haydubb [ **** ]
+Dealt to pjb665 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to QwertySpark [ 5d Jc ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+pjb665 calls [30 Tournament chips]
+Lennydog1234 folds [30 Tournament chips]
+ash16324 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Sledge1955 folds [30 Tournament chips]
+PVBeerMan folds [30 Tournament chips]
+Haydubb checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Qs ] board:[ 7s Qs]
+** Dealing Flop ** [ 4h ] board:[ 7s Qs 4h]
+Haydubb checks
+pjb665 checks
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 7s Qs 4h 7h]
+Haydubb bets for 30 Tournament chips
+pjb665 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 7s Qs 4h 7h Jh]
+Haydubb checks
+pjb665 checks
+Round 4 is over.
+Haydubb shows [ 9h 8s ] a pair of sevens
+Hand evaluation for Haydubb (9h 7s Qs 7h Jh: a pair of sevens)
+pjb665 doesn't show [ 8h 6d ]
+(pjb665 has 8h 6d.)
+Haydubb wins main pot 120 Tournament chips with a pair of sevens, queen/jack kickers.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1050 Tournament chips) 
+Seat 2: pjb665 (355 Tournament chips) 
+Seat 3: Lennydog1234 (1000 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 5: whosalosa (950 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-5 ends
+Game #23980553-6 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1050 Tournament chips) 
+Seat 2: pjb665 (355 Tournament chips) 
+Seat 3: Lennydog1234 (1000 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 5: whosalosa (950 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 8
+Haydubb posts the small blind [20 Tournament chips]
+pjb665 posts the big blind [40 Tournament chips]
+Haydubb, at seat 1, is in this hand with 1030 Tournament chips.
+pjb665, at seat 2, is in this hand with 315 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1000 Tournament chips.
+ash16324, at seat 4, is in this hand with 560 Tournament chips.
+whosalosa, at seat 5, is in this hand with 950 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7045 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 975 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+Haydubb is dealt: **
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+Dealt to Haydubb [ **** ]
+Dealt to pjb665 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ Ts 3d ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Lennydog1234 calls [40 Tournament chips]
+ash16324 folds [40 Tournament chips]
+whosalosa calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Sledge1955 folds [40 Tournament chips]
+PVBeerMan folds [40 Tournament chips]
+Haydubb raises [60 Tournament chips]
+pjb665 calls [40 Tournament chips]
+Lennydog1234 calls [40 Tournament chips]
+whosalosa calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 2d ] board:[ Qs 2d]
+** Dealing Flop ** [ 3c ] board:[ Qs 2d 3c]
+Haydubb bets for 120 Tournament chips
+pjb665 folds [120 Tournament chips]
+Lennydog1234 folds [120 Tournament chips]
+whosalosa folds [120 Tournament chips]
+Haydubb is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Haydubb (Qd Qh Qs 2d 3c: three queens)
+Haydubb wins main pot 320 Tournament chips.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 2: pjb665 (275 Tournament chips) 
+Seat 3: Lennydog1234 (920 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 5: whosalosa (870 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-6 ends
+Game #23980553-7 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 2: pjb665 (275 Tournament chips) 
+Seat 3: Lennydog1234 (920 Tournament chips) 
+Seat 4: ash16324 (560 Tournament chips) 
+Seat 5: whosalosa (870 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (975 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+pjb665 posts the small blind [20 Tournament chips]
+Lennydog1234 posts the big blind [40 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 960 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+pjb665, at seat 2, is in this hand with 255 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 880 Tournament chips.
+ash16324, at seat 4, is in this hand with 560 Tournament chips.
+whosalosa, at seat 5, is in this hand with 870 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7045 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 975 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+pjb665 is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to pjb665 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ 6s 8h ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+ash16324 calls [40 Tournament chips]
+whosalosa raises [180 Tournament chips]
+QwertySpark folds [180 Tournament chips]
+Sledge1955 calls [180 Tournament chips]
+PVBeerMan folds [180 Tournament chips]
+KrazyTrain folds [180 Tournament chips]
+Haydubb folds [180 Tournament chips]
+pjb665 calls [160 Tournament chips]
+Lennydog1234 folds [140 Tournament chips]
+ash16324 calls [140 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 8d ] board:[ 4c 8d]
+** Dealing Flop ** [ Ah ] board:[ 4c 8d Ah]
+pjb665 checks
+ash16324 checks
+whosalosa goes all-in for 690 Tournament chips
+Sledge1955 folds [690 Tournament chips]
+pjb665 calls all-in [95 Tournament chips]
+ash16324 folds [380 Tournament chips]
+whosalosa is returned 595 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+pjb665 shows [ 4d Jd ]
+whosalosa shows [ Th 9h ]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 4c 8d Ah 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 4c 8d Ah 5h 6h]
+        (no action in this round)
+Round 4 is over.
+pjb665 shows [ 4d Jd ] a pair of fours, ace/jack kickers
+whosalosa shows [ Th 9h ] flush, ace/ten/nine high
+whosalosa wins main pot 950 Tournament chips with flush, ace/ten/nine high.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 2: pjb665 (0 Tournament chips) 
+Seat 3: Lennydog1234 (880 Tournament chips) 
+Seat 4: ash16324 (380 Tournament chips) 
+Seat 5: whosalosa (1545 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (795 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-7 ends
+Player pjb665 leaves the table with 0 Tournament chips
+Game #23980553-8 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (880 Tournament chips) 
+Seat 4: ash16324 (380 Tournament chips) 
+Seat 5: whosalosa (1545 Tournament chips) 
+Seat 6: QwertySpark (7045 Tournament chips) 
+Seat 7: Sledge1955 (795 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Lennydog1234 posts the small blind [30 Tournament chips]
+ash16324 posts the big blind [60 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 960 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 850 Tournament chips.
+ash16324, at seat 4, is in this hand with 320 Tournament chips.
+whosalosa, at seat 5, is in this hand with 1545 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7045 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 795 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+ash16324 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to ash16324 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ 5h Ah ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+whosalosa calls [60 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+Sledge1955 folds [300 Tournament chips]
+PVBeerMan folds [300 Tournament chips]
+KrazyTrain folds [300 Tournament chips]
+Haydubb folds [300 Tournament chips]
+Lennydog1234 folds [270 Tournament chips]
+ash16324 raises all-in [320 Tournament chips]
+whosalosa calls [320 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3h ] board:[ Qd 3h]
+** Dealing Flop ** [ 4c ] board:[ Qd 3h 4c]
+whosalosa checks
+QwertySpark bets for 585 Tournament chips
+whosalosa folds [585 Tournament chips]
+QwertySpark is returned 585 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ash16324 shows [ Td 5d ]
+QwertySpark shows [ 5h Ah ]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Qd 3h 4c Qh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Qd 3h 4c Qh 9d]
+        (no action in this round)
+Round 4 is over.
+ash16324 shows [ Td 5d ] a pair of queens, ten/nine kickers
+QwertySpark shows [ 5h Ah ] a pair of queens, ace/nine kickers
+QwertySpark wins main pot 1170 Tournament chips with a pair of queens, ace/nine kickers.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (850 Tournament chips) 
+Seat 4: ash16324 (0 Tournament chips) 
+Seat 5: whosalosa (1165 Tournament chips) 
+Seat 6: QwertySpark (7835 Tournament chips) 
+Seat 7: Sledge1955 (795 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-8 ends
+Player ash16324 leaves the table with 0 Tournament chips
+Game #23980553-9 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (850 Tournament chips) 
+Seat 5: whosalosa (1165 Tournament chips) 
+Seat 6: QwertySpark (7835 Tournament chips) 
+Seat 7: Sledge1955 (795 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+whosalosa posts the big blind [60 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 960 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 850 Tournament chips.
+whosalosa, at seat 5, is in this hand with 1105 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7835 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 795 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ 6c 2c ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+QwertySpark folds [60 Tournament chips]
+Sledge1955 calls [60 Tournament chips]
+PVBeerMan folds [60 Tournament chips]
+KrazyTrain folds [60 Tournament chips]
+Haydubb folds [60 Tournament chips]
+Lennydog1234 folds [60 Tournament chips]
+whosalosa checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 7s ] board:[ 9h 7s]
+** Dealing Flop ** [ 5d ] board:[ 9h 7s 5d]
+whosalosa checks
+Sledge1955 bets for 60 Tournament chips
+whosalosa folds [60 Tournament chips]
+Sledge1955 is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Sledge1955 (As 9c 9h 7s 5d: a pair of nines)
+Sledge1955 wins main pot 120 Tournament chips.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (850 Tournament chips) 
+Seat 5: whosalosa (1105 Tournament chips) 
+Seat 6: QwertySpark (7835 Tournament chips) 
+Seat 7: Sledge1955 (855 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-9 ends
+Game #23980553-10 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (850 Tournament chips) 
+Seat 5: whosalosa (1105 Tournament chips) 
+Seat 6: QwertySpark (7835 Tournament chips) 
+Seat 7: Sledge1955 (855 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 3
+whosalosa posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 960 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 850 Tournament chips.
+whosalosa, at seat 5, is in this hand with 1075 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7775 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 855 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ 3s 8c ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Sledge1955 folds [60 Tournament chips]
+PVBeerMan folds [60 Tournament chips]
+KrazyTrain folds [60 Tournament chips]
+Haydubb folds [60 Tournament chips]
+Lennydog1234 raises [120 Tournament chips]
+whosalosa calls [90 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6d ] board:[ 6s 6d]
+** Dealing Flop ** [ 5d ] board:[ 6s 6d 5d]
+whosalosa bets for 300 Tournament chips
+Lennydog1234 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 6s 6d 5d 9h]
+whosalosa goes all-in for 685 Tournament chips
+Lennydog1234 calls all-in [430 Tournament chips]
+whosalosa is returned 255 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Lennydog1234 shows [ 8h 7h ]
+whosalosa shows [ 8d 3h ]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 6s 6d 5d 9h 5c]
+        (no action in this round)
+Round 4 is over.
+Lennydog1234 shows [ 8h 7h ] straight, nine high
+whosalosa shows [ 8d 3h ] two pair, sixes and fives, nine kicker
+Lennydog1234 wins main pot 1760 Tournament chips with straight, nine high.
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 5: whosalosa (255 Tournament chips) 
+Seat 6: QwertySpark (7775 Tournament chips) 
+Seat 7: Sledge1955 (855 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-10 ends
+Game #23980553-11 starts
+Seat 0: KrazyTrain (960 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 5: whosalosa (255 Tournament chips) 
+Seat 6: QwertySpark (7775 Tournament chips) 
+Seat 7: Sledge1955 (855 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+QwertySpark posts the small blind [50 Tournament chips]
+Sledge1955 posts the big blind [100 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 960 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1760 Tournament chips.
+whosalosa, at seat 5, is in this hand with 255 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7725 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 755 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 2015 Tournament chips.
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+whosalosa is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+whosalosa is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to whosalosa [ **** ]
+Dealt to QwertySpark [ 7h 3s ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+PVBeerMan folds [100 Tournament chips]
+KrazyTrain calls [100 Tournament chips]
+Haydubb folds [100 Tournament chips]
+Lennydog1234 folds [100 Tournament chips]
+whosalosa raises all-in [255 Tournament chips]
+QwertySpark folds [205 Tournament chips]
+Sledge1955 calls [155 Tournament chips]
+KrazyTrain calls [155 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 4d ] board:[ 6d 4d]
+** Dealing Flop ** [ Ad ] board:[ 6d 4d Ad]
+Sledge1955 checks
+KrazyTrain bets for 407 Tournament chips
+Sledge1955 folds [407 Tournament chips]
+KrazyTrain is returned 407 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ Td 7d ]
+whosalosa shows [ 7c 8h ]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 6d 4d Ad 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 6d 4d Ad 3h 6h]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ Td 7d ] flush, ace/ten/seven high
+whosalosa shows [ 7c 8h ] a pair of sixes, ace/eight kickers
+KrazyTrain wins main pot 815 Tournament chips with flush, ace/ten/seven high.
+Seat 0: KrazyTrain (1520 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 5: whosalosa (0 Tournament chips) 
+Seat 6: QwertySpark (7725 Tournament chips) 
+Seat 7: Sledge1955 (600 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+Game #23980553-11 ends
+Player whosalosa leaves the table with 0 Tournament chips
+Game #23980553-12 starts
+Seat 0: KrazyTrain (1520 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (7725 Tournament chips) 
+Seat 7: Sledge1955 (600 Tournament chips) 
+Seat 8: PVBeerMan (2015 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Sledge1955 posts the small blind [50 Tournament chips]
+PVBeerMan posts the big blind [100 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1520 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1760 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2345 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7725 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 550 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1915 Tournament chips.
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Kc 3s ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+KrazyTrain folds [100 Tournament chips]
+Haydubb raises [200 Tournament chips]
+Lennydog1234 folds [200 Tournament chips]
+hisknibs folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Sledge1955 folds [150 Tournament chips]
+PVBeerMan folds [100 Tournament chips]
+Haydubb is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Haydubb (Qc Ad: ace high)
+Haydubb wins main pot 250 Tournament chips.
+Seat 0: KrazyTrain (1520 Tournament chips) 
+Seat 1: Haydubb (1440 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (7725 Tournament chips) 
+Seat 7: Sledge1955 (550 Tournament chips) 
+Seat 8: PVBeerMan (1915 Tournament chips) 
+Game #23980553-12 ends
+Game #23980553-13 starts
+Seat 0: KrazyTrain (1520 Tournament chips) 
+Seat 1: Haydubb (1440 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (7725 Tournament chips) 
+Seat 7: Sledge1955 (550 Tournament chips) 
+Seat 8: PVBeerMan (1915 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+PVBeerMan posts the small blind [75 Tournament chips]
+KrazyTrain posts the big blind [150 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1370 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1440 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1760 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2345 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7725 Tournament chips.
+Sledge1955, at seat 7, is in this hand with 550 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1840 Tournament chips.
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+Sledge1955 is dealt: **
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+Sledge1955 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Ad 7c ]
+Dealt to Sledge1955 [ **** ]
+Dealt to PVBeerMan [ **** ]
+Haydubb folds [150 Tournament chips]
+Lennydog1234 folds [150 Tournament chips]
+hisknibs folds [150 Tournament chips]
+QwertySpark raises [450 Tournament chips]
+Sledge1955 raises all-in [550 Tournament chips]
+PVBeerMan folds [475 Tournament chips]
+KrazyTrain folds [400 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 7c ]
+Sledge1955 shows [ 4h Kh ]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Js ] board:[ Qh Js]
+** Dealing Flop ** [ 2s ] board:[ Qh Js 2s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ Qh Js 2s Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6d ] board:[ Qh Js 2s Qs 6d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 7c ] a pair of queens, ace/jack kickers
+Sledge1955 shows [ 4h Kh ] a pair of queens, king/jack kickers
+QwertySpark wins main pot 1325 Tournament chips with a pair of queens, ace/jack kickers.
+Seat 0: KrazyTrain (1370 Tournament chips) 
+Seat 1: Haydubb (1440 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8500 Tournament chips) 
+Seat 7: Sledge1955 (0 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+Game #23980553-13 ends
+Player Sledge1955 leaves the table with 0 Tournament chips
+Game #23980553-14 starts
+Seat 0: KrazyTrain (1370 Tournament chips) 
+Seat 1: Haydubb (1440 Tournament chips) 
+Seat 3: Lennydog1234 (1760 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8500 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+KrazyTrain posts the small blind [75 Tournament chips]
+Haydubb posts the big blind [150 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1295 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1290 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1760 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2345 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8500 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1840 Tournament chips.
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Th 5s ]
+Dealt to PVBeerMan [ **** ]
+Lennydog1234 calls [150 Tournament chips]
+hisknibs folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+PVBeerMan folds [150 Tournament chips]
+KrazyTrain raises all-in [1295 Tournament chips]
+Haydubb folds [1220 Tournament chips]
+Lennydog1234 folds [1220 Tournament chips]
+KrazyTrain is returned 1220 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KrazyTrain (Kd 4d: king high)
+KrazyTrain wins main pot 450 Tournament chips.
+Seat 0: KrazyTrain (1670 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1610 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8500 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+Game #23980553-14 ends
+Game #23980553-15 starts
+Seat 0: KrazyTrain (1670 Tournament chips) 
+Seat 1: Haydubb (1290 Tournament chips) 
+Seat 3: Lennydog1234 (1610 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8500 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Haydubb posts the small blind [75 Tournament chips]
+Lennydog1234 posts the big blind [150 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1670 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1215 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1460 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2345 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8500 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1840 Tournament chips.
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Qs 6s ]
+Dealt to PVBeerMan [ **** ]
+hisknibs folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+PVBeerMan folds [150 Tournament chips]
+KrazyTrain folds [150 Tournament chips]
+Haydubb calls [75 Tournament chips]
+Lennydog1234 checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4c ] board:[ Ad 4c]
+** Dealing Flop ** [ 6c ] board:[ Ad 4c 6c]
+Haydubb checks
+Lennydog1234 checks
+QwertySpark bets for 300 Tournament chips
+Haydubb calls [300 Tournament chips]
+Lennydog1234 folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Ad 4c 6c 7c]
+Haydubb checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Ad 4c 6c 7c 4s]
+Haydubb bets for 525 Tournament chips
+QwertySpark folds [525 Tournament chips]
+Haydubb is returned 525 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Haydubb (9d Ah Ad 4c 4s: two pair, aces and fours)
+Haydubb wins main pot 1050 Tournament chips.
+Seat 0: KrazyTrain (1670 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 3: Lennydog1234 (1460 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8050 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+Game #23980553-15 ends
+Game #23980553-16 starts
+Seat 0: KrazyTrain (1670 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 3: Lennydog1234 (1460 Tournament chips) 
+Seat 4: hisknibs (2345 Tournament chips) 
+Seat 6: QwertySpark (8050 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Lennydog1234 posts the small blind [100 Tournament chips]
+hisknibs posts the big blind [200 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1670 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1890 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1360 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2145 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8050 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1840 Tournament chips.
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Jd 4c ]
+Dealt to PVBeerMan [ **** ]
+QwertySpark folds [200 Tournament chips]
+PVBeerMan folds [200 Tournament chips]
+KrazyTrain raises [1000 Tournament chips]
+Haydubb folds [1000 Tournament chips]
+Lennydog1234 folds [900 Tournament chips]
+hisknibs folds [800 Tournament chips]
+KrazyTrain is returned 800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KrazyTrain (Qh Ad: ace high)
+KrazyTrain wins main pot 500 Tournament chips.
+Seat 0: KrazyTrain (1970 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2145 Tournament chips) 
+Seat 6: QwertySpark (8050 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+Game #23980553-16 ends
+Game #23980553-17 starts
+Seat 0: KrazyTrain (1970 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2145 Tournament chips) 
+Seat 6: QwertySpark (8050 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 3.
+hisknibs posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1970 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1890 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1360 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2045 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7850 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1840 Tournament chips.
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Lennydog1234 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ 9d 7d ]
+Dealt to PVBeerMan [ **** ]
+PVBeerMan folds [200 Tournament chips]
+KrazyTrain raises [1000 Tournament chips]
+Haydubb folds [1000 Tournament chips]
+Lennydog1234 folds [1000 Tournament chips]
+hisknibs folds [900 Tournament chips]
+QwertySpark re-raises [1800 Tournament chips]
+KrazyTrain calls all-in [970 Tournament chips]
+QwertySpark is returned 30 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ Ad Td ]
+QwertySpark shows [ 9d 7d ]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 9c ] board:[ 4d 9c]
+** Dealing Flop ** [ 6d ] board:[ 4d 9c 6d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 4d 9c 6d Jd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 4d 9c 6d Jd 6s]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ Ad Td ] flush, ace/jack/ten high
+QwertySpark shows [ 9d 7d ] flush, jack/nine/seven high
+KrazyTrain wins main pot 4040 Tournament chips with flush, ace/jack/ten high.
+Seat 0: KrazyTrain (4040 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (6080 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+Game #23980553-17 ends
+Game #23980553-18 starts
+Seat 0: KrazyTrain (4040 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (6080 Tournament chips) 
+Seat 8: PVBeerMan (1840 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [150 Tournament chips]
+PVBeerMan posts the big blind [300 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 4040 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1890 Tournament chips.
+Winchester999, at seat 2, is in this hand with 3005 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1360 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2045 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5930 Tournament chips.
+PVBeerMan, at seat 8, is in this hand with 1540 Tournament chips.
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+
+PVBeerMan is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to QwertySpark [ Qs Qd ]
+Dealt to PVBeerMan [ **** ]
+KrazyTrain folds [300 Tournament chips]
+Haydubb folds [300 Tournament chips]
+Winchester999 folds [300 Tournament chips]
+Lennydog1234 folds [300 Tournament chips]
+hisknibs folds [300 Tournament chips]
+QwertySpark raises [1050 Tournament chips]
+PVBeerMan raises all-in [1540 Tournament chips]
+QwertySpark calls [640 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qs Qd ]
+PVBeerMan shows [ Qc 8h ]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 5h ] board:[ 9c 5h]
+** Dealing Flop ** [ Td ] board:[ 9c 5h Td]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ 9c 5h Td 7h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 9c 5h Td 7h 9s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qs Qd ] two pair, queens and nines, ten kicker
+PVBeerMan shows [ Qc 8h ] a pair of nines, queen/ten kickers
+QwertySpark wins main pot 3680 Tournament chips with two pair, queens and nines, ten kicker.
+Seat 0: KrazyTrain (4040 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (7920 Tournament chips) 
+Seat 8: PVBeerMan (0 Tournament chips) 
+Game #23980553-18 ends
+Player PVBeerMan leaves the table with 0 Tournament chips
+Game #23980553-19 starts
+Seat 0: KrazyTrain (4040 Tournament chips) 
+Seat 1: Haydubb (1890 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (1360 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (7920 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+KrazyTrain posts the big blind [300 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 3740 Tournament chips.
+Haydubb, at seat 1, is in this hand with 1890 Tournament chips.
+Winchester999, at seat 2, is in this hand with 3005 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1360 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2045 Tournament chips.
+ctwish, at seat 5, is in this hand with 592 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7920 Tournament chips.
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ Kc 6s ]
+Haydubb calls [300 Tournament chips]
+Winchester999 folds [300 Tournament chips]
+Lennydog1234 raises [600 Tournament chips]
+hisknibs folds [600 Tournament chips]
+ctwish folds [592 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+KrazyTrain calls [300 Tournament chips]
+Haydubb calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 4h ] board:[ Th 4h]
+** Dealing Flop ** [ 4c ] board:[ Th 4h 4c]
+KrazyTrain checks
+Haydubb goes all-in for 1290 Tournament chips
+Lennydog1234 calls all-in [760 Tournament chips]
+KrazyTrain folds [1290 Tournament chips]
+Haydubb is returned 530 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Haydubb shows [ Ah 6h ]
+Lennydog1234 shows [ Ac Td ]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Th 4h 4c Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Th 4h 4c Qc 4d]
+        (no action in this round)
+Round 4 is over.
+Haydubb shows [ Ah 6h ] three fours, ace/queen kickers
+Lennydog1234 shows [ Ac Td ] full house, fours full of tens
+Lennydog1234 wins main pot 3320 Tournament chips with full house, fours full of tens.
+Seat 0: KrazyTrain (3440 Tournament chips) 
+Seat 1: Haydubb (530 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (3320 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (7920 Tournament chips) 
+Seat 7: Erubame (9455 Tournament chips) 
+Seat 8: KERRYJACK (3720 Tournament chips) 
+Game #23980553-19 ends
+Game #23980553-20 starts
+Seat 0: KrazyTrain (3440 Tournament chips) 
+Seat 1: Haydubb (530 Tournament chips) 
+Seat 2: Winchester999 (3005 Tournament chips) 
+Seat 3: Lennydog1234 (3320 Tournament chips) 
+Seat 4: hisknibs (2045 Tournament chips) 
+Seat 5: ctwish (592 Tournament chips) 
+Seat 6: QwertySpark (7920 Tournament chips) 
+Seat 7: Erubame (9455 Tournament chips) 
+Seat 8: KERRYJACK (3720 Tournament chips) 
+The button is at seat 6
+KrazyTrain posted ante of 25 Tournament chips
+Haydubb posted ante of 25 Tournament chips
+Winchester999 posted ante of 25 Tournament chips
+Lennydog1234 posted ante of 25 Tournament chips
+hisknibs posted ante of 25 Tournament chips
+ctwish posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+KrazyTrain posts the small blind [150 Tournament chips]
+Haydubb posts the big blind [300 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 3265 Tournament chips.
+Haydubb, at seat 1, is in this hand with 205 Tournament chips.
+Winchester999, at seat 2, is in this hand with 2980 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3295 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2020 Tournament chips.
+ctwish, at seat 5, is in this hand with 567 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7895 Tournament chips.
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ 6h Qh ]
+Winchester999 calls [300 Tournament chips]
+Lennydog1234 raises [600 Tournament chips]
+hisknibs folds [600 Tournament chips]
+ctwish folds [567 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+KrazyTrain folds [450 Tournament chips]
+Haydubb folds [205 Tournament chips]
+Winchester999 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 5d ] board:[ 4h 5d]
+** Dealing Flop ** [ 3c ] board:[ 4h 5d 3c]
+Winchester999 checks
+Lennydog1234 bets for 900 Tournament chips
+QwertySpark raises [2100 Tournament chips]
+Winchester999 folds [2100 Tournament chips]
+Lennydog1234 raises all-in [1795 Tournament chips]
+QwertySpark calls [595 Tournament chips]
+Tournament all-in showdown -- players show:
+Lennydog1234 shows [ Kd Kc ]
+QwertySpark shows [ 6h Qh ]
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 4h 5d 3c Jd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 4h 5d 3c Jd Js]
+        (no action in this round)
+Round 4 is over.
+Lennydog1234 shows [ Kd Kc ] two pair, kings and jacks, five kicker
+QwertySpark shows [ 6h Qh ] a pair of jacks, queen/six kickers
+Lennydog1234 wins main pot 7815 Tournament chips with two pair, kings and jacks, five kicker.
+Seat 0: KrazyTrain (3265 Tournament chips) 
+Seat 1: Haydubb (205 Tournament chips) 
+Seat 2: Winchester999 (2380 Tournament chips) 
+Seat 3: Lennydog1234 (7815 Tournament chips) 
+Seat 4: hisknibs (2020 Tournament chips) 
+Seat 5: ctwish (567 Tournament chips) 
+Seat 6: QwertySpark (4600 Tournament chips) 
+Seat 7: Erubame (9455 Tournament chips) 
+Seat 8: KERRYJACK (3720 Tournament chips) 
+Game #23980553-20 ends
+Game #23980553-21 starts
+Seat 0: KrazyTrain (3265 Tournament chips) 
+Seat 1: Haydubb (205 Tournament chips) 
+Seat 2: Winchester999 (2380 Tournament chips) 
+Seat 3: Lennydog1234 (7815 Tournament chips) 
+Seat 4: hisknibs (2020 Tournament chips) 
+Seat 5: ctwish (567 Tournament chips) 
+Seat 6: QwertySpark (4600 Tournament chips) 
+Seat 7: Erubame (9455 Tournament chips) 
+Seat 8: KERRYJACK (3720 Tournament chips) 
+The button is at seat 6
+Haydubb posted ante of 25 Tournament chips
+hisknibs posted ante of 25 Tournament chips
+Winchester999 posted ante of 25 Tournament chips
+Lennydog1234 posted ante of 25 Tournament chips
+ctwish posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Erubame posted ante of 25 Tournament chips
+KERRYJACK posted ante of 25 Tournament chips
+KrazyTrain posted ante of 25 Tournament chips
+The button is moved to seat 0.
+(ctwish has entered the table, is no longer absent.)
+Haydubb posts the small blind [150 Tournament chips]
+Winchester999 posts the big blind [300 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 3240 Tournament chips.
+Haydubb, at seat 1, is in this hand with 30 Tournament chips.
+Winchester999, at seat 2, is in this hand with 2055 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 7790 Tournament chips.
+hisknibs, at seat 4, is in this hand with 1995 Tournament chips.
+ctwish, at seat 5, is in this hand with 542 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 4575 Tournament chips.
+Erubame, at seat 7, is in this hand with 9430 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3695 Tournament chips.
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ Ad 8d ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+Lennydog1234 folds [300 Tournament chips]
+hisknibs folds [300 Tournament chips]
+ctwish folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+Erubame calls [1200 Tournament chips]
+KERRYJACK folds [1200 Tournament chips]
+KrazyTrain folds [1200 Tournament chips]
+Haydubb folds [30 Tournament chips]
+Winchester999 folds [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 3c ] board:[ Kh 3c]
+** Dealing Flop ** [ 2d ] board:[ Kh 3c 2d]
+QwertySpark bets for 1500 Tournament chips
+Erubame folds [1500 Tournament chips]
+QwertySpark is returned 1500 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ad 8d Kh 3c 2d: ace high)
+QwertySpark wins main pot 3075 Tournament chips.
+Seat 0: KrazyTrain (3240 Tournament chips) 
+Seat 1: Haydubb (30 Tournament chips) 
+Seat 2: Winchester999 (2055 Tournament chips) 
+Seat 3: Lennydog1234 (7790 Tournament chips) 
+Seat 4: hisknibs (1995 Tournament chips) 
+Seat 5: ctwish (542 Tournament chips) 
+Seat 6: QwertySpark (6450 Tournament chips) 
+Seat 7: Erubame (8230 Tournament chips) 
+Seat 8: KERRYJACK (3695 Tournament chips) 
+Game #23980553-21 ends
+Game #23980553-22 starts
+Seat 0: KrazyTrain (3240 Tournament chips) 
+Seat 1: Haydubb (30 Tournament chips) 
+Seat 2: Winchester999 (2055 Tournament chips) 
+Seat 3: Lennydog1234 (7790 Tournament chips) 
+Seat 4: hisknibs (1995 Tournament chips) 
+Seat 5: ctwish (542 Tournament chips) 
+Seat 6: QwertySpark (6450 Tournament chips) 
+Seat 7: Erubame (8230 Tournament chips) 
+Seat 8: KERRYJACK (3695 Tournament chips) 
+The button is at seat 0
+Winchester999 posted ante of 25 Tournament chips
+KrazyTrain posted ante of 25 Tournament chips
+hisknibs posted ante of 25 Tournament chips
+ctwish posted ante of 25 Tournament chips
+Lennydog1234 posted ante of 25 Tournament chips
+Haydubb posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+KERRYJACK posted ante of 25 Tournament chips
+Erubame posted ante of 25 Tournament chips
+The button is moved to seat 1.
+Winchester999 posts the small blind [150 Tournament chips]
+Lennydog1234 posts the big blind [300 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 3215 Tournament chips.
+Haydubb, at seat 1, is in this hand with 5 Tournament chips.
+Winchester999, at seat 2, is in this hand with 1880 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 7465 Tournament chips.
+hisknibs, at seat 4, is in this hand with 1970 Tournament chips.
+ctwish, at seat 5, is in this hand with 517 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 6425 Tournament chips.
+Erubame, at seat 7, is in this hand with 8205 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3670 Tournament chips.
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ Qd 9c ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+hisknibs folds [300 Tournament chips]
+ctwish folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Erubame calls [300 Tournament chips]
+KERRYJACK folds [300 Tournament chips]
+KrazyTrain calls [300 Tournament chips]
+Haydubb calls all-in [5 Tournament chips]
+Winchester999 calls [150 Tournament chips]
+Lennydog1234 checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Jd ] board:[ Kc Jd]
+** Dealing Flop ** [ Jh ] board:[ Kc Jd Jh]
+Winchester999 checks
+Lennydog1234 bets for 300 Tournament chips
+QwertySpark calls [300 Tournament chips]
+Erubame folds [300 Tournament chips]
+KrazyTrain calls [300 Tournament chips]
+Winchester999 folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Kc Jd Jh 4d]
+Lennydog1234 checks
+QwertySpark checks
+KrazyTrain bets for 1200 Tournament chips
+Lennydog1234 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+KrazyTrain is returned 1200 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ Qh Ts ]
+Haydubb shows [ Kh 8s ]
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Kc Jd Jh 4d 4h]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ Qh Ts ] two pair, jacks and fours, king kicker
+Haydubb shows [ Kh 8s ] two pair, kings and jacks, eight kicker
+Haydubb wins main pot 255 Tournament chips with two pair, kings and jacks, eight kicker.
+KrazyTrain wins side pot #1 2375 Tournament chips with two pair, jacks and fours, king kicker.
+Seat 0: KrazyTrain (4990 Tournament chips) 
+Seat 1: Haydubb (255 Tournament chips) 
+Seat 2: Winchester999 (1730 Tournament chips) 
+Seat 3: Lennydog1234 (7165 Tournament chips) 
+Seat 4: hisknibs (1970 Tournament chips) 
+Seat 5: ctwish (517 Tournament chips) 
+Seat 6: QwertySpark (5825 Tournament chips) 
+Seat 7: Erubame (7905 Tournament chips) 
+Seat 8: KERRYJACK (3670 Tournament chips) 
+Game #23980553-22 ends
+Game #23980553-23 starts
+Seat 0: KrazyTrain (4990 Tournament chips) 
+Seat 1: Haydubb (255 Tournament chips) 
+Seat 2: Winchester999 (1730 Tournament chips) 
+Seat 3: Lennydog1234 (7165 Tournament chips) 
+Seat 4: hisknibs (1970 Tournament chips) 
+Seat 5: ctwish (517 Tournament chips) 
+Seat 6: QwertySpark (5825 Tournament chips) 
+Seat 7: Erubame (7905 Tournament chips) 
+Seat 8: KERRYJACK (3670 Tournament chips) 
+The button is at seat 1
+KrazyTrain posted ante of 50 Tournament chips
+Haydubb posted ante of 50 Tournament chips
+Winchester999 posted ante of 50 Tournament chips
+hisknibs posted ante of 50 Tournament chips
+Lennydog1234 posted ante of 50 Tournament chips
+ctwish posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Erubame posted ante of 50 Tournament chips
+KERRYJACK posted ante of 50 Tournament chips
+The button is moved to seat 2.
+Lennydog1234 posts the small blind [200 Tournament chips]
+hisknibs posts the big blind [400 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 4940 Tournament chips.
+Haydubb, at seat 1, is in this hand with 205 Tournament chips.
+Winchester999, at seat 2, is in this hand with 1680 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 6915 Tournament chips.
+hisknibs, at seat 4, is in this hand with 1520 Tournament chips.
+ctwish, at seat 5, is in this hand with 467 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5775 Tournament chips.
+Erubame, at seat 7, is in this hand with 7855 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3620 Tournament chips.
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Haydubb is dealt: **
+Winchester999 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Haydubb [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ 7c Th ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+ctwish folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Erubame folds [400 Tournament chips]
+KERRYJACK folds [400 Tournament chips]
+KrazyTrain folds [400 Tournament chips]
+Haydubb folds [205 Tournament chips]
+Winchester999 folds [400 Tournament chips]
+Lennydog1234 raises [600 Tournament chips]
+hisknibs calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 9s ] board:[ 3h 9s]
+** Dealing Flop ** [ Jh ] board:[ 3h 9s Jh]
+Lennydog1234 bets for 1200 Tournament chips
+hisknibs calls all-in [1120 Tournament chips]
+Lennydog1234 is returned 80 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Lennydog1234 shows [ Ah Qs ]
+hisknibs shows [ 3s 5s ]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 3h 9s Jh 9d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3h 9s Jh 9d Tc]
+        (no action in this round)
+Round 4 is over.
+Lennydog1234 shows [ Ah Qs ] a pair of nines, ace/queen kickers
+hisknibs shows [ 3s 5s ] two pair, nines and threes, jack kicker
+hisknibs wins main pot 4290 Tournament chips with two pair, nines and threes, jack kicker.
+Seat 0: KrazyTrain (4940 Tournament chips) 
+Seat 1: Haydubb (205 Tournament chips) 
+Seat 2: Winchester999 (1680 Tournament chips) 
+Seat 3: Lennydog1234 (5195 Tournament chips) 
+Seat 4: hisknibs (4290 Tournament chips) 
+Seat 5: ctwish (467 Tournament chips) 
+Seat 6: QwertySpark (5775 Tournament chips) 
+Seat 7: Erubame (7855 Tournament chips) 
+Seat 8: KERRYJACK (3620 Tournament chips) 
+Game #23980553-23 ends
+Player Haydubb leaves the table with 205 Tournament chips
+Game #23980553-24 starts
+Seat 0: KrazyTrain (4940 Tournament chips) 
+Seat 2: Winchester999 (1680 Tournament chips) 
+Seat 3: Lennydog1234 (5195 Tournament chips) 
+Seat 4: hisknibs (4290 Tournament chips) 
+Seat 5: ctwish (467 Tournament chips) 
+Seat 6: QwertySpark (5775 Tournament chips) 
+Seat 7: Erubame (7855 Tournament chips) 
+Seat 8: KERRYJACK (3620 Tournament chips) 
+The button is at seat 2
+KrazyTrain posted ante of 75 Tournament chips
+Winchester999 posted ante of 75 Tournament chips
+Lennydog1234 posted ante of 75 Tournament chips
+hisknibs posted ante of 75 Tournament chips
+ctwish posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+Erubame posted ante of 75 Tournament chips
+KERRYJACK posted ante of 75 Tournament chips
+The button is moved to seat 3.
+hisknibs posts the small blind [300 Tournament chips]
+ctwish posts the big blind [392 Tournament chips], goes all-in
+KrazyTrain, at seat 0, is in this hand with 4865 Tournament chips.
+Winchester999, at seat 2, is in this hand with 1605 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 5120 Tournament chips.
+hisknibs, at seat 4, is in this hand with 3915 Tournament chips.
+ctwish, at seat 5, is in this hand with 0 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 5700 Tournament chips.
+Erubame, at seat 7, is in this hand with 7780 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3545 Tournament chips.
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+ctwish is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+Winchester999 is dealt: **
+Lennydog1234 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to Winchester999 [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to ctwish [ **** ]
+Dealt to QwertySpark [ Jc Ks ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+QwertySpark calls [600 Tournament chips]
+Erubame folds [600 Tournament chips]
+KERRYJACK folds [600 Tournament chips]
+KrazyTrain folds [600 Tournament chips]
+Winchester999 calls [600 Tournament chips]
+Lennydog1234 calls [600 Tournament chips]
+hisknibs folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ 4c ] board:[ Jh 4c]
+** Dealing Flop ** [ 9c ] board:[ Jh 4c 9c]
+QwertySpark bets for 1546 Tournament chips
+Winchester999 calls all-in [1005 Tournament chips]
+Lennydog1234 folds [1546 Tournament chips]
+QwertySpark is returned 541 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Winchester999 shows [ Th Jd ]
+ctwish shows [ Js Qc ]
+QwertySpark shows [ Jc Ks ]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Jh 4c 9c Ah]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ Jh 4c 9c Ah 8h]
+        (no action in this round)
+Round 4 is over.
+Winchester999 shows [ Th Jd ] a pair of jacks, ace/ten kickers
+ctwish shows [ Js Qc ] a pair of jacks, ace/queen kickers
+QwertySpark shows [ Jc Ks ] a pair of jacks, ace/king kickers
+QwertySpark wins main pot 2468 Tournament chips with a pair of jacks, ace/king kickers.
+QwertySpark wins side pot #1 2634 Tournament chips with a pair of jacks, ace/king kickers.
+Seat 0: KrazyTrain (4865 Tournament chips) 
+Seat 2: Winchester999 (0 Tournament chips) 
+Seat 3: Lennydog1234 (4520 Tournament chips) 
+Seat 4: hisknibs (3915 Tournament chips) 
+Seat 5: ctwish (0 Tournament chips) 
+Seat 6: QwertySpark (9197 Tournament chips) 
+Seat 7: Erubame (7780 Tournament chips) 
+Seat 8: KERRYJACK (3545 Tournament chips) 
+Game #23980553-24 ends
+Player ctwish leaves the table with 0 Tournament chips
+Player Winchester999 leaves the table with 0 Tournament chips
+Game #23980553-25 starts
+Seat 0: KrazyTrain (4865 Tournament chips) 
+Seat 2: liisaamarie (10440 Tournament chips) 
+Seat 3: Lennydog1234 (4520 Tournament chips) 
+Seat 4: hisknibs (3915 Tournament chips) 
+Seat 5: Rajuncajun101 (6286 Tournament chips) 
+Seat 6: QwertySpark (9197 Tournament chips) 
+Seat 7: Erubame (7780 Tournament chips) 
+Seat 8: KERRYJACK (3545 Tournament chips) 
+The button is at seat 3
+KrazyTrain posted ante of 100 Tournament chips
+Lennydog1234 posted ante of 100 Tournament chips
+liisaamarie posted ante of 100 Tournament chips
+hisknibs posted ante of 100 Tournament chips
+Rajuncajun101 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Erubame posted ante of 100 Tournament chips
+KERRYJACK posted ante of 100 Tournament chips
+The button is moved to seat 4.
+Rajuncajun101 posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 4765 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 10340 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 4420 Tournament chips.
+hisknibs, at seat 4, is in this hand with 3815 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand with 5786 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8297 Tournament chips.
+Erubame, at seat 7, is in this hand with 7680 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3445 Tournament chips.
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 3c 5s ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+Erubame folds [800 Tournament chips]
+KERRYJACK folds [800 Tournament chips]
+KrazyTrain raises [2400 Tournament chips]
+liisaamarie folds [2400 Tournament chips]
+Lennydog1234 folds [2400 Tournament chips]
+hisknibs calls [2400 Tournament chips]
+Rajuncajun101 folds [2000 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 2c ] board:[ As 2c]
+** Dealing Flop ** [ Qh ] board:[ As 2c Qh]
+KrazyTrain checks
+hisknibs checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ As 2c Qh Ts]
+KrazyTrain goes all-in for 2365 Tournament chips
+hisknibs calls all-in [1415 Tournament chips]
+KrazyTrain is returned 950 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ 9c 9d ]
+hisknibs shows [ Kh Kd ]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ As 2c Qh Ts 4d]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ 9c 9d ] a pair of nines, ace/queen kickers
+hisknibs shows [ Kh Kd ] a pair of kings, ace/queen kickers
+hisknibs wins main pot 9630 Tournament chips with a pair of kings, ace/queen kickers.
+Seat 0: KrazyTrain (950 Tournament chips) 
+Seat 2: liisaamarie (10340 Tournament chips) 
+Seat 3: Lennydog1234 (4420 Tournament chips) 
+Seat 4: hisknibs (9630 Tournament chips) 
+Seat 5: Rajuncajun101 (5786 Tournament chips) 
+Seat 6: QwertySpark (8297 Tournament chips) 
+Seat 7: Erubame (7680 Tournament chips) 
+Seat 8: KERRYJACK (3445 Tournament chips) 
+Game #23980553-25 ends
+Game #23980553-26 starts
+Seat 0: KrazyTrain (950 Tournament chips) 
+Seat 2: liisaamarie (10340 Tournament chips) 
+Seat 3: Lennydog1234 (4420 Tournament chips) 
+Seat 4: hisknibs (9630 Tournament chips) 
+Seat 5: Rajuncajun101 (5786 Tournament chips) 
+Seat 6: QwertySpark (8297 Tournament chips) 
+Seat 7: Erubame (7680 Tournament chips) 
+Seat 8: KERRYJACK (3445 Tournament chips) 
+The button is at seat 4
+liisaamarie posted ante of 100 Tournament chips
+KrazyTrain posted ante of 100 Tournament chips
+Lennydog1234 posted ante of 100 Tournament chips
+hisknibs posted ante of 100 Tournament chips
+Rajuncajun101 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Erubame posted ante of 100 Tournament chips
+KERRYJACK posted ante of 100 Tournament chips
+The button is moved to seat 5.
+QwertySpark posts the small blind [400 Tournament chips]
+Erubame posts the big blind [800 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 850 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 10240 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 4320 Tournament chips.
+hisknibs, at seat 4, is in this hand with 9530 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand with 5686 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7797 Tournament chips.
+Erubame, at seat 7, is in this hand (absent) with 6780 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 3345 Tournament chips.
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 5s Ad ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+KERRYJACK folds [800 Tournament chips]
+KrazyTrain raises all-in [850 Tournament chips]
+liisaamarie folds [850 Tournament chips]
+Lennydog1234 calls [850 Tournament chips]
+hisknibs folds [850 Tournament chips]
+Rajuncajun101 folds [850 Tournament chips]
+QwertySpark calls [450 Tournament chips]
+Erubame folds [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Ks ] board:[ 6s Ks]
+** Dealing Flop ** [ 9s ] board:[ 6s Ks 9s]
+QwertySpark checks
+Lennydog1234 checks
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 6s Ks 9s Ac]
+QwertySpark checks
+Lennydog1234 checks
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 6s Ks 9s Ac Kd]
+QwertySpark bets for 1275 Tournament chips
+Lennydog1234 folds [1275 Tournament chips]
+QwertySpark is returned 1275 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ 8d As ]
+QwertySpark shows [ 5s Ad ]
+Round 4 is over.
+KrazyTrain shows [ 8d As ] two pair, aces and kings, nine kicker
+QwertySpark shows [ 5s Ad ] two pair, aces and kings, nine kicker
+QwertySpark wins main pot 2075 Tournament chips of a 4150 Tournament chips pot with two pair, aces and kings, nine kicker.
+KrazyTrain wins main pot 2075 Tournament chips of a 4150 Tournament chips pot with two pair, aces and kings, nine kicker.
+Seat 0: KrazyTrain (2075 Tournament chips) 
+Seat 1: 0123456789 (5937 Tournament chips) 
+Seat 2: liisaamarie (10240 Tournament chips) 
+Seat 3: Lennydog1234 (3470 Tournament chips) 
+Seat 4: hisknibs (9530 Tournament chips) 
+Seat 5: Rajuncajun101 (5686 Tournament chips) 
+Seat 6: QwertySpark (9422 Tournament chips) 
+Seat 7: Erubame (6780 Tournament chips) 
+Seat 8: KERRYJACK (3345 Tournament chips) 
+Game #23980553-26 ends
+Game #23980553-27 starts
+Seat 0: KrazyTrain (2075 Tournament chips) 
+Seat 1: 0123456789 (5937 Tournament chips) 
+Seat 2: liisaamarie (10240 Tournament chips) 
+Seat 3: Lennydog1234 (3470 Tournament chips) 
+Seat 4: hisknibs (9530 Tournament chips) 
+Seat 5: Rajuncajun101 (5686 Tournament chips) 
+Seat 6: QwertySpark (9422 Tournament chips) 
+Seat 7: Erubame (6780 Tournament chips) 
+Seat 8: KERRYJACK (3345 Tournament chips) 
+The button is at seat 5
+KrazyTrain posted ante of 125 Tournament chips
+0123456789 posted ante of 125 Tournament chips
+liisaamarie posted ante of 125 Tournament chips
+Lennydog1234 posted ante of 125 Tournament chips
+hisknibs posted ante of 125 Tournament chips
+Rajuncajun101 posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+Erubame posted ante of 125 Tournament chips
+KERRYJACK posted ante of 125 Tournament chips
+The button is moved to seat 6.
+Erubame posts the small blind [600 Tournament chips]
+KERRYJACK posts the big blind [1200 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 1950 Tournament chips.
+0123456789, at seat 1, is in this hand with 5812 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 10115 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3345 Tournament chips.
+hisknibs, at seat 4, is in this hand with 9405 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand with 5561 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9297 Tournament chips.
+Erubame, at seat 7, is in this hand (absent) with 6055 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 2020 Tournament chips.
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 4s Qc ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+KrazyTrain folds [1200 Tournament chips]
+0123456789 folds [1200 Tournament chips]
+liisaamarie calls [1200 Tournament chips]
+Lennydog1234 folds [1200 Tournament chips]
+hisknibs folds [1200 Tournament chips]
+Rajuncajun101 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Erubame folds [600 Tournament chips]
+KERRYJACK checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 6d ] board:[ Jc 6d]
+** Dealing Flop ** [ 9c ] board:[ Jc 6d 9c]
+KERRYJACK has timed out - the hand is checked
+liisaamarie bets for 1200 Tournament chips
+KERRYJACK folds [1200 Tournament chips]
+liisaamarie is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for liisaamarie (Tc Ac Jc 6d 9c: ace high)
+liisaamarie shows [ Tc Ac ] ace high
+Hand evaluation for liisaamarie (Tc Ac Jc 6d 9c: ace high)
+liisaamarie wins main pot 4125 Tournament chips.
+Seat 0: KrazyTrain (1950 Tournament chips) 
+Seat 1: 0123456789 (5812 Tournament chips) 
+Seat 2: liisaamarie (13040 Tournament chips) 
+Seat 3: Lennydog1234 (3345 Tournament chips) 
+Seat 4: hisknibs (9405 Tournament chips) 
+Seat 5: Rajuncajun101 (5561 Tournament chips) 
+Seat 6: QwertySpark (9297 Tournament chips) 
+Seat 7: Erubame (6055 Tournament chips) 
+Seat 8: KERRYJACK (2020 Tournament chips) 
+Game #23980553-27 ends
+Game #23980553-28 starts
+Seat 0: KrazyTrain (1950 Tournament chips) 
+Seat 1: 0123456789 (5812 Tournament chips) 
+Seat 2: liisaamarie (13040 Tournament chips) 
+Seat 3: Lennydog1234 (3345 Tournament chips) 
+Seat 4: hisknibs (9405 Tournament chips) 
+Seat 5: Rajuncajun101 (5561 Tournament chips) 
+Seat 6: QwertySpark (9297 Tournament chips) 
+Seat 7: Erubame (6055 Tournament chips) 
+Seat 8: KERRYJACK (2020 Tournament chips) 
+The button is at seat 6
+KrazyTrain posted ante of 125 Tournament chips
+0123456789 posted ante of 125 Tournament chips
+Lennydog1234 posted ante of 125 Tournament chips
+liisaamarie posted ante of 125 Tournament chips
+hisknibs posted ante of 125 Tournament chips
+Rajuncajun101 posted ante of 125 Tournament chips
+Erubame posted ante of 125 Tournament chips
+KERRYJACK posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+The button is moved to seat 7.
+KERRYJACK posts the small blind [600 Tournament chips]
+KrazyTrain posts the big blind [1200 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 625 Tournament chips.
+0123456789, at seat 1, is in this hand with 5687 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 12915 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3220 Tournament chips.
+hisknibs, at seat 4, is in this hand with 9280 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 5436 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9172 Tournament chips.
+Erubame, at seat 7, is in this hand (absent) with 5930 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 1295 Tournament chips.
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 7h Qc ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+0123456789 folds [1200 Tournament chips]
+liisaamarie calls [1200 Tournament chips]
+Lennydog1234 folds [1200 Tournament chips]
+hisknibs calls [1200 Tournament chips]
+Rajuncajun101 folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Erubame folds [1200 Tournament chips]
+KERRYJACK folds [600 Tournament chips]
+KrazyTrain raises all-in [625 Tournament chips]
+liisaamarie calls [625 Tournament chips]
+hisknibs calls [625 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 5h ] board:[ 6d 5h]
+** Dealing Flop ** [ Qs ] board:[ 6d 5h Qs]
+liisaamarie checks
+hisknibs checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 6d 5h Qs 5c]
+liisaamarie checks
+hisknibs checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 6d 5h Qs 5c Js]
+liisaamarie checks
+hisknibs checks
+Round 4 is over.
+liisaamarie shows [ Ah 3d ] a pair of fives
+Hand evaluation for liisaamarie (Ah 5h Qs 5c Js: a pair of fives)
+hisknibs shows [ 9s Ac ] a pair of fives
+Hand evaluation for hisknibs (Ac 5h Qs 5c Js: a pair of fives)
+KrazyTrain shows [ 5d As ] three fives
+Hand evaluation for KrazyTrain (5d As 5h Qs 5c: three fives)
+KrazyTrain wins main pot 7200 Tournament chips with three fives, ace/queen kickers.
+Seat 0: KrazyTrain (7200 Tournament chips) 
+Seat 1: 0123456789 (5687 Tournament chips) 
+Seat 2: liisaamarie (11090 Tournament chips) 
+Seat 3: Lennydog1234 (3220 Tournament chips) 
+Seat 4: hisknibs (7455 Tournament chips) 
+Seat 5: Rajuncajun101 (5436 Tournament chips) 
+Seat 6: QwertySpark (9172 Tournament chips) 
+Seat 7: Erubame (5930 Tournament chips) 
+Seat 8: KERRYJACK (1295 Tournament chips) 
+Game #23980553-28 ends
+Game #23980553-29 starts
+Seat 0: KrazyTrain (7200 Tournament chips) 
+Seat 1: 0123456789 (5687 Tournament chips) 
+Seat 2: liisaamarie (11090 Tournament chips) 
+Seat 3: Lennydog1234 (3220 Tournament chips) 
+Seat 4: hisknibs (7455 Tournament chips) 
+Seat 5: Rajuncajun101 (5436 Tournament chips) 
+Seat 6: QwertySpark (9172 Tournament chips) 
+Seat 7: Erubame (5930 Tournament chips) 
+Seat 8: KERRYJACK (1295 Tournament chips) 
+The button is at seat 7
+0123456789 posted ante of 150 Tournament chips
+KrazyTrain posted ante of 150 Tournament chips
+Lennydog1234 posted ante of 150 Tournament chips
+hisknibs posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+Erubame posted ante of 150 Tournament chips
+Rajuncajun101 posted ante of 150 Tournament chips
+liisaamarie posted ante of 150 Tournament chips
+KERRYJACK posted ante of 150 Tournament chips
+The button is moved to seat 8.
+KrazyTrain posts the small blind [800 Tournament chips]
+0123456789 posts the big blind [1600 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 6250 Tournament chips.
+0123456789, at seat 1, is in this hand with 3937 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 10940 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3070 Tournament chips.
+hisknibs, at seat 4, is in this hand with 7305 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 5286 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9022 Tournament chips.
+Erubame, at seat 7, is in this hand (absent) with 5780 Tournament chips.
+KERRYJACK, at seat 8, is in this hand with 1145 Tournament chips.
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+Erubame is dealt: **
+KERRYJACK is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ Td 6h ]
+Dealt to Erubame [ **** ]
+Dealt to KERRYJACK [ **** ]
+liisaamarie calls [1600 Tournament chips]
+Lennydog1234 folds [1600 Tournament chips]
+hisknibs folds [1600 Tournament chips]
+Rajuncajun101 folds [1600 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+Erubame folds [1600 Tournament chips]
+KERRYJACK folds [1145 Tournament chips]
+KrazyTrain calls [800 Tournament chips]
+0123456789 checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 2c ] board:[ Kd 2c]
+** Dealing Flop ** [ 8h ] board:[ Kd 2c 8h]
+KrazyTrain checks
+0123456789 checks
+liisaamarie checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Kd 2c 8h 5c]
+KrazyTrain checks
+0123456789 goes all-in for 3937 Tournament chips
+liisaamarie folds [3937 Tournament chips]
+KrazyTrain folds [3937 Tournament chips]
+0123456789 is returned 3937 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for 0123456789 (5h 3h Kd 8h 5c: a pair of fives)
+0123456789 wins main pot 6150 Tournament chips.
+Seat 0: KrazyTrain (5450 Tournament chips) 
+Seat 1: 0123456789 (10087 Tournament chips) 
+Seat 2: liisaamarie (9340 Tournament chips) 
+Seat 3: Lennydog1234 (3070 Tournament chips) 
+Seat 4: hisknibs (7305 Tournament chips) 
+Seat 5: Rajuncajun101 (5286 Tournament chips) 
+Seat 6: QwertySpark (9022 Tournament chips) 
+Seat 7: Erubame (5780 Tournament chips) 
+Seat 8: KERRYJACK (1145 Tournament chips) 
+Game #23980553-29 ends
+Player KERRYJACK leaves the table with 1145 Tournament chips
+Player Erubame leaves the table with 5780 Tournament chips
+Game #23980553-30 starts
+Seat 0: KrazyTrain (5450 Tournament chips) 
+Seat 1: 0123456789 (10087 Tournament chips) 
+Seat 2: liisaamarie (9340 Tournament chips) 
+Seat 3: Lennydog1234 (3070 Tournament chips) 
+Seat 4: hisknibs (7305 Tournament chips) 
+Seat 5: Rajuncajun101 (5286 Tournament chips) 
+Seat 6: QwertySpark (9022 Tournament chips) 
+The button is at seat 8
+0123456789 posted ante of 150 Tournament chips
+KrazyTrain posted ante of 150 Tournament chips
+liisaamarie posted ante of 150 Tournament chips
+Lennydog1234 posted ante of 150 Tournament chips
+hisknibs posted ante of 150 Tournament chips
+Rajuncajun101 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+The button is moved to seat 0.
+0123456789 posts the small blind [800 Tournament chips]
+liisaamarie posts the big blind [1600 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 5300 Tournament chips.
+0123456789, at seat 1, is in this hand with 9137 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 7590 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 2920 Tournament chips.
+hisknibs, at seat 4, is in this hand with 7155 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 5136 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 8872 Tournament chips.
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+KrazyTrain is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ Kd Js ]
+Lennydog1234 folds [1600 Tournament chips]
+hisknibs folds [1600 Tournament chips]
+Rajuncajun101 folds [1600 Tournament chips]
+QwertySpark raises [4800 Tournament chips]
+KrazyTrain folds [4800 Tournament chips]
+0123456789 folds [4000 Tournament chips]
+liisaamarie folds [3200 Tournament chips]
+QwertySpark is returned 3200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Kd Js: king high)
+QwertySpark wins main pot 5050 Tournament chips.
+Seat 0: KrazyTrain (5300 Tournament chips) 
+Seat 1: 0123456789 (9137 Tournament chips) 
+Seat 2: liisaamarie (7590 Tournament chips) 
+Seat 3: Lennydog1234 (2920 Tournament chips) 
+Seat 4: hisknibs (7155 Tournament chips) 
+Seat 5: Rajuncajun101 (5136 Tournament chips) 
+Seat 6: QwertySpark (12322 Tournament chips) 
+Game #23980553-30 ends
+Game #23980553-31 starts
+Seat 0: KrazyTrain (5300 Tournament chips) 
+Seat 1: 0123456789 (9137 Tournament chips) 
+Seat 2: liisaamarie (7590 Tournament chips) 
+Seat 3: Lennydog1234 (2920 Tournament chips) 
+Seat 4: hisknibs (7155 Tournament chips) 
+Seat 5: Rajuncajun101 (5136 Tournament chips) 
+Seat 6: QwertySpark (12322 Tournament chips) 
+The button is at seat 0
+KrazyTrain posted ante of 150 Tournament chips
+liisaamarie posted ante of 150 Tournament chips
+0123456789 posted ante of 150 Tournament chips
+Lennydog1234 posted ante of 150 Tournament chips
+hisknibs posted ante of 150 Tournament chips
+Rajuncajun101 posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+The button is moved to seat 1.
+liisaamarie posts the small blind [800 Tournament chips]
+Lennydog1234 posts the big blind [1600 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 5150 Tournament chips.
+0123456789, at seat 1, is in this hand with 8987 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 6640 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 1170 Tournament chips.
+hisknibs, at seat 4, is in this hand with 7005 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 4986 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 12172 Tournament chips.
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 2d 5h ]
+hisknibs folds [1600 Tournament chips]
+Rajuncajun101 folds [1600 Tournament chips]
+QwertySpark folds [1600 Tournament chips]
+KrazyTrain folds [1600 Tournament chips]
+0123456789 folds [1600 Tournament chips]
+liisaamarie calls [800 Tournament chips]
+Lennydog1234 raises all-in [1170 Tournament chips]
+liisaamarie calls [1170 Tournament chips]
+Tournament all-in showdown -- players show:
+liisaamarie shows [ Th Qc ]
+Lennydog1234 shows [ Kh Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 4c ] board:[ 7s 4c]
+** Dealing Flop ** [ 9h ] board:[ 7s 4c 9h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 7s 4c 9h 3s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 7s 4c 9h 3s 7h]
+        (no action in this round)
+Round 4 is over.
+liisaamarie shows [ Th Qc ] a pair of sevens, queen/ten kickers
+Lennydog1234 shows [ Kh Ad ] a pair of sevens, ace/king kickers
+Lennydog1234 wins main pot 6590 Tournament chips with a pair of sevens, ace/king kickers.
+Seat 0: KrazyTrain (5150 Tournament chips) 
+Seat 1: 0123456789 (8987 Tournament chips) 
+Seat 2: liisaamarie (4670 Tournament chips) 
+Seat 3: Lennydog1234 (6590 Tournament chips) 
+Seat 4: hisknibs (7005 Tournament chips) 
+Seat 5: Rajuncajun101 (4986 Tournament chips) 
+Seat 6: QwertySpark (12172 Tournament chips) 
+Seat 7: viper281 (25841 Tournament chips) 
+Seat 8: Cashhdavinci (8087 Tournament chips) 
+Game #23980553-31 ends
+Game #23980553-32 starts
+Seat 0: KrazyTrain (5150 Tournament chips) 
+Seat 1: 0123456789 (8987 Tournament chips) 
+Seat 2: liisaamarie (4670 Tournament chips) 
+Seat 3: Lennydog1234 (6590 Tournament chips) 
+Seat 4: hisknibs (7005 Tournament chips) 
+Seat 5: Rajuncajun101 (4986 Tournament chips) 
+Seat 6: QwertySpark (12172 Tournament chips) 
+Seat 7: viper281 (25841 Tournament chips) 
+Seat 8: Cashhdavinci (8087 Tournament chips) 
+The button is at seat 1
+KrazyTrain posted ante of 200 Tournament chips
+0123456789 posted ante of 200 Tournament chips
+Lennydog1234 posted ante of 200 Tournament chips
+hisknibs posted ante of 200 Tournament chips
+Rajuncajun101 posted ante of 200 Tournament chips
+liisaamarie posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+viper281 posted ante of 200 Tournament chips
+Cashhdavinci posted ante of 200 Tournament chips
+The button is moved to seat 2.
+Lennydog1234 posts the small blind [1000 Tournament chips]
+hisknibs posts the big blind [2000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 4950 Tournament chips.
+0123456789, at seat 1, is in this hand with 8787 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 4470 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 5390 Tournament chips.
+hisknibs, at seat 4, is in this hand with 4805 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 4786 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 11972 Tournament chips.
+viper281, at seat 7, is in this hand with 25641 Tournament chips.
+Cashhdavinci, at seat 8, is in this hand with 7887 Tournament chips.
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ Ad 3d ]
+Dealt to viper281 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Rajuncajun101 folds [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+viper281 folds [2000 Tournament chips]
+Cashhdavinci calls [2000 Tournament chips]
+KrazyTrain folds [2000 Tournament chips]
+0123456789 folds [2000 Tournament chips]
+liisaamarie folds [2000 Tournament chips]
+Lennydog1234 calls [1000 Tournament chips]
+hisknibs checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 8s ] board:[ Qd 8s]
+** Dealing Flop ** [ 7c ] board:[ Qd 8s 7c]
+Lennydog1234 checks
+hisknibs checks
+Cashhdavinci goes all-in for 5887 Tournament chips
+Lennydog1234 folds [4390 Tournament chips]
+hisknibs folds [4805 Tournament chips]
+Cashhdavinci is returned 5887 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Cashhdavinci (2s 3s Qd 8s 7c: queen high)
+Cashhdavinci wins main pot 7800 Tournament chips.
+Seat 0: KrazyTrain (4950 Tournament chips) 
+Seat 1: 0123456789 (8787 Tournament chips) 
+Seat 2: liisaamarie (4470 Tournament chips) 
+Seat 3: Lennydog1234 (4390 Tournament chips) 
+Seat 4: hisknibs (4805 Tournament chips) 
+Seat 5: Rajuncajun101 (4786 Tournament chips) 
+Seat 6: QwertySpark (11972 Tournament chips) 
+Seat 7: viper281 (25641 Tournament chips) 
+Seat 8: Cashhdavinci (13687 Tournament chips) 
+Game #23980553-32 ends
+Game #23980553-33 starts
+Seat 0: KrazyTrain (4950 Tournament chips) 
+Seat 1: 0123456789 (8787 Tournament chips) 
+Seat 2: liisaamarie (4470 Tournament chips) 
+Seat 3: Lennydog1234 (4390 Tournament chips) 
+Seat 4: hisknibs (4805 Tournament chips) 
+Seat 5: Rajuncajun101 (4786 Tournament chips) 
+Seat 6: QwertySpark (11972 Tournament chips) 
+Seat 7: viper281 (25641 Tournament chips) 
+Seat 8: Cashhdavinci (13687 Tournament chips) 
+The button is at seat 2
+liisaamarie posted ante of 200 Tournament chips
+KrazyTrain posted ante of 200 Tournament chips
+0123456789 posted ante of 200 Tournament chips
+Lennydog1234 posted ante of 200 Tournament chips
+hisknibs posted ante of 200 Tournament chips
+Rajuncajun101 posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+viper281 posted ante of 200 Tournament chips
+Cashhdavinci posted ante of 200 Tournament chips
+The button is moved to seat 3.
+hisknibs posts the small blind [1200 Tournament chips]
+Rajuncajun101 posts the big blind [2400 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 4750 Tournament chips.
+0123456789, at seat 1, is in this hand with 8587 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 4270 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 4190 Tournament chips.
+hisknibs, at seat 4, is in this hand with 3405 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 2186 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 11772 Tournament chips.
+viper281, at seat 7, is in this hand with 25441 Tournament chips.
+Cashhdavinci, at seat 8, is in this hand with 13487 Tournament chips.
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 5c Jd ]
+Dealt to viper281 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+QwertySpark folds [2400 Tournament chips]
+viper281 folds [2400 Tournament chips]
+Cashhdavinci folds [2400 Tournament chips]
+KrazyTrain raises all-in [4750 Tournament chips]
+0123456789 folds [4750 Tournament chips]
+liisaamarie folds [4270 Tournament chips]
+Lennydog1234 folds [4190 Tournament chips]
+hisknibs folds [3405 Tournament chips]
+Rajuncajun101 folds [2186 Tournament chips]
+KrazyTrain is returned 2350 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KrazyTrain (Qc Ks: king high)
+KrazyTrain wins main pot 7800 Tournament chips.
+Seat 0: KrazyTrain (10150 Tournament chips) 
+Seat 1: 0123456789 (8587 Tournament chips) 
+Seat 2: liisaamarie (4270 Tournament chips) 
+Seat 3: Lennydog1234 (4190 Tournament chips) 
+Seat 4: hisknibs (3405 Tournament chips) 
+Seat 5: Rajuncajun101 (2186 Tournament chips) 
+Seat 6: QwertySpark (11772 Tournament chips) 
+Seat 7: viper281 (25441 Tournament chips) 
+Seat 8: Cashhdavinci (13487 Tournament chips) 
+Game #23980553-33 ends
+Game #23980553-34 starts
+Seat 0: KrazyTrain (10150 Tournament chips) 
+Seat 1: 0123456789 (8587 Tournament chips) 
+Seat 2: liisaamarie (4270 Tournament chips) 
+Seat 3: Lennydog1234 (4190 Tournament chips) 
+Seat 4: hisknibs (3405 Tournament chips) 
+Seat 5: Rajuncajun101 (2186 Tournament chips) 
+Seat 6: QwertySpark (11772 Tournament chips) 
+Seat 7: viper281 (25441 Tournament chips) 
+Seat 8: Cashhdavinci (13487 Tournament chips) 
+The button is at seat 3
+0123456789 posted ante of 200 Tournament chips
+KrazyTrain posted ante of 200 Tournament chips
+hisknibs posted ante of 200 Tournament chips
+viper281 posted ante of 200 Tournament chips
+liisaamarie posted ante of 200 Tournament chips
+Lennydog1234 posted ante of 200 Tournament chips
+Rajuncajun101 posted ante of 200 Tournament chips
+Cashhdavinci posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+The button is moved to seat 4.
+Rajuncajun101 posts the small blind [1200 Tournament chips]
+QwertySpark posts the big blind [2400 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 9950 Tournament chips.
+0123456789, at seat 1, is in this hand with 8387 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 4070 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3990 Tournament chips.
+hisknibs, at seat 4, is in this hand with 3205 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 786 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 9172 Tournament chips.
+viper281, at seat 7, is in this hand with 25241 Tournament chips.
+Cashhdavinci, at seat 8, is in this hand with 13287 Tournament chips.
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 3c 2s ]
+Dealt to viper281 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+viper281 folds [2400 Tournament chips]
+Cashhdavinci calls [2400 Tournament chips]
+KrazyTrain folds [2400 Tournament chips]
+0123456789 raises all-in [8387 Tournament chips]
+liisaamarie folds [4070 Tournament chips]
+Lennydog1234 folds [3990 Tournament chips]
+hisknibs folds [3205 Tournament chips]
+Rajuncajun101 folds [786 Tournament chips]
+QwertySpark folds [5987 Tournament chips]
+Cashhdavinci calls [5987 Tournament chips]
+Tournament all-in showdown -- players show:
+0123456789 shows [ As Kc ]
+Cashhdavinci shows [ Qh Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 7s ] board:[ 5h 7s]
+** Dealing Flop ** [ 5s ] board:[ 5h 7s 5s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 5h 7s 5s Td]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 5h 7s 5s Td 3h]
+        (no action in this round)
+Round 4 is over.
+0123456789 shows [ As Kc ] a pair of fives, ace/king kickers
+Cashhdavinci shows [ Qh Ad ] a pair of fives, ace/queen kickers
+0123456789 wins main pot 22174 Tournament chips with a pair of fives, ace/king kickers.
+Seat 0: KrazyTrain (9950 Tournament chips) 
+Seat 1: 0123456789 (22174 Tournament chips) 
+Seat 2: liisaamarie (4070 Tournament chips) 
+Seat 3: Lennydog1234 (3990 Tournament chips) 
+Seat 4: hisknibs (3205 Tournament chips) 
+Seat 5: Rajuncajun101 (786 Tournament chips) 
+Seat 6: QwertySpark (9172 Tournament chips) 
+Seat 7: viper281 (25241 Tournament chips) 
+Seat 8: Cashhdavinci (4900 Tournament chips) 
+Game #23980553-34 ends
+Game #23980553-35 starts
+Seat 0: KrazyTrain (9950 Tournament chips) 
+Seat 1: 0123456789 (22174 Tournament chips) 
+Seat 2: liisaamarie (4070 Tournament chips) 
+Seat 3: Lennydog1234 (3990 Tournament chips) 
+Seat 4: hisknibs (3205 Tournament chips) 
+Seat 5: Rajuncajun101 (786 Tournament chips) 
+Seat 6: QwertySpark (9172 Tournament chips) 
+Seat 7: viper281 (25241 Tournament chips) 
+Seat 8: Cashhdavinci (4900 Tournament chips) 
+The button is at seat 4
+KrazyTrain posted ante of 300 Tournament chips
+0123456789 posted ante of 300 Tournament chips
+liisaamarie posted ante of 300 Tournament chips
+Lennydog1234 posted ante of 300 Tournament chips
+hisknibs posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+Cashhdavinci posted ante of 300 Tournament chips
+Rajuncajun101 posted ante of 300 Tournament chips
+viper281 posted ante of 300 Tournament chips
+The button is moved to seat 5.
+QwertySpark posts the small blind [1500 Tournament chips]
+viper281 posts the big blind [3000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 9650 Tournament chips.
+0123456789, at seat 1, is in this hand with 21874 Tournament chips.
+liisaamarie, at seat 2, is in this hand with 3770 Tournament chips.
+Lennydog1234, at seat 3, is in this hand with 3690 Tournament chips.
+hisknibs, at seat 4, is in this hand with 2905 Tournament chips.
+Rajuncajun101, at seat 5, is in this hand (absent) with 486 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 7372 Tournament chips.
+viper281, at seat 7, is in this hand with 21941 Tournament chips.
+Cashhdavinci, at seat 8, is in this hand with 4600 Tournament chips.
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+
+viper281 is dealt: **
+Cashhdavinci is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+liisaamarie is dealt: **
+Lennydog1234 is dealt: **
+hisknibs is dealt: **
+Rajuncajun101 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to Lennydog1234 [ **** ]
+Dealt to hisknibs [ **** ]
+Dealt to Rajuncajun101 [ **** ]
+Dealt to QwertySpark [ 8h 3c ]
+Dealt to viper281 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Cashhdavinci folds [3000 Tournament chips]
+KrazyTrain folds [3000 Tournament chips]
+0123456789 folds [3000 Tournament chips]
+liisaamarie calls [3000 Tournament chips]
+Lennydog1234 folds [3000 Tournament chips]
+hisknibs calls all-in [2905 Tournament chips]
+Rajuncajun101 folds [486 Tournament chips]
+QwertySpark calls [1500 Tournament chips]
+viper281 checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Qd ] board:[ 8s Qd]
+** Dealing Flop ** [ 2d ] board:[ 8s Qd 2d]
+QwertySpark bets for 3000 Tournament chips
+viper281 folds [3000 Tournament chips]
+liisaamarie calls all-in [770 Tournament chips]
+QwertySpark is returned 2230 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+liisaamarie shows [ Jc Qs ]
+hisknibs shows [ Td 9s ]
+QwertySpark shows [ 8h 3c ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 8s Qd 2d 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 8s Qd 2d 6h 8c]
+        (no action in this round)
+Round 4 is over.
+liisaamarie shows [ Jc Qs ] two pair, queens and eights, jack kicker
+hisknibs shows [ Td 9s ] a pair of eights, queen/ten kickers
+QwertySpark shows [ 8h 3c ] three eights, queen/six kickers
+QwertySpark wins main pot 14320 Tournament chips with three eights, queen/six kickers.
+QwertySpark wins side pot #1 1825 Tournament chips with three eights, queen/six kickers.
+Seat 0: KrazyTrain (9650 Tournament chips) 
+Seat 1: 0123456789 (21874 Tournament chips) 
+Seat 2: liisaamarie (0 Tournament chips) 
+Seat 3: Lennydog1234 (3690 Tournament chips) 
+Seat 4: hisknibs (0 Tournament chips) 
+Seat 5: Rajuncajun101 (486 Tournament chips) 
+Seat 6: QwertySpark (21247 Tournament chips) 
+Seat 7: viper281 (21941 Tournament chips) 
+Seat 8: Cashhdavinci (4600 Tournament chips) 
+Game #23980553-35 ends
+Player Cashhdavinci leaves the table with 4600 Tournament chips
+Player Lennydog1234 leaves the table with 3690 Tournament chips
+Player Rajuncajun101 leaves the table with 486 Tournament chips
+Player hisknibs leaves the table with 0 Tournament chips
+Player liisaamarie leaves the table with 0 Tournament chips
+Game #23980553-36 starts
+Seat 0: KrazyTrain (9650 Tournament chips) 
+Seat 1: 0123456789 (21874 Tournament chips) 
+Seat 6: QwertySpark (21247 Tournament chips) 
+Seat 7: viper281 (21941 Tournament chips) 
+The button is at seat 5
+KrazyTrain posted ante of 300 Tournament chips
+0123456789 posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+viper281 posted ante of 300 Tournament chips
+The button is moved to seat 6.
+viper281 posts the small blind [1500 Tournament chips]
+KrazyTrain posts the big blind [3000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 6350 Tournament chips.
+0123456789, at seat 1, is in this hand with 21574 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 20947 Tournament chips.
+viper281, at seat 7, is in this hand with 20141 Tournament chips.
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to QwertySpark [ 3c 3h ]
+Dealt to viper281 [ **** ]
+0123456789 folds [3000 Tournament chips]
+QwertySpark raises [9000 Tournament chips]
+viper281 folds [7500 Tournament chips]
+KrazyTrain calls [6000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Ks ] board:[ Jc Ks]
+** Dealing Flop ** [ 4d ] board:[ Jc Ks 4d]
+KrazyTrain goes all-in for 350 Tournament chips
+QwertySpark calls [350 Tournament chips]
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ Kh 4h ]
+QwertySpark shows [ 3c 3h ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Jc Ks 4d 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Jc Ks 4d 6h 2c]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ Kh 4h ] two pair, kings and fours, jack kicker
+QwertySpark shows [ 3c 3h ] a pair of threes, king/jack kickers
+KrazyTrain wins main pot 21400 Tournament chips with two pair, kings and fours, jack kicker.
+Seat 0: KrazyTrain (21400 Tournament chips) 
+Seat 1: 0123456789 (21574 Tournament chips) 
+Seat 5: Cashhdavinci (4600 Tournament chips) 
+Seat 6: QwertySpark (11597 Tournament chips) 
+Seat 7: viper281 (20141 Tournament chips) 
+Game #23980553-36 ends
+Game #23980553-37 starts
+Seat 0: KrazyTrain (21400 Tournament chips) 
+Seat 1: 0123456789 (21574 Tournament chips) 
+Seat 5: Cashhdavinci (4600 Tournament chips) 
+Seat 6: QwertySpark (11597 Tournament chips) 
+Seat 7: viper281 (20141 Tournament chips) 
+The button is at seat 6
+KrazyTrain posted ante of 400 Tournament chips
+0123456789 posted ante of 400 Tournament chips
+Cashhdavinci posted ante of 400 Tournament chips
+QwertySpark posted ante of 400 Tournament chips
+viper281 posted ante of 400 Tournament chips
+The button is moved to seat 7.
+KrazyTrain posts the small blind [2000 Tournament chips]
+0123456789 posts the big blind [4000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 19000 Tournament chips.
+0123456789, at seat 1, is in this hand with 17174 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 4200 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 11197 Tournament chips.
+viper281, at seat 7, is in this hand with 19741 Tournament chips.
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ Kh 5s ]
+Dealt to viper281 [ **** ]
+Cashhdavinci folds [4000 Tournament chips]
+QwertySpark folds [4000 Tournament chips]
+viper281 calls [4000 Tournament chips]
+KrazyTrain folds [2000 Tournament chips]
+0123456789 checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 6c ] board:[ Ac 6c]
+** Dealing Flop ** [ 6h ] board:[ Ac 6c 6h]
+0123456789 goes all-in for 17174 Tournament chips
+viper281 calls all-in [15741 Tournament chips]
+0123456789 is returned 1433 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+0123456789 shows [ 9c As ]
+viper281 shows [ 5d Ah ]
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Ac 6c 6h Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Ac 6c 6h Qd Td]
+        (no action in this round)
+Round 4 is over.
+0123456789 shows [ 9c As ] two pair, aces and sixes, queen kicker
+viper281 shows [ 5d Ah ] two pair, aces and sixes, queen kicker
+viper281 wins main pot 21741 Tournament chips of a 43482 Tournament chips pot with two pair, aces and sixes, queen kicker.
+0123456789 wins main pot 21741 Tournament chips of a 43482 Tournament chips pot with two pair, aces and sixes, queen kicker.
+Seat 0: KrazyTrain (19000 Tournament chips) 
+Seat 1: 0123456789 (23174 Tournament chips) 
+Seat 5: Cashhdavinci (4200 Tournament chips) 
+Seat 6: QwertySpark (11197 Tournament chips) 
+Seat 7: viper281 (21741 Tournament chips) 
+Game #23980553-37 ends
+Game #23980553-38 starts
+Seat 0: KrazyTrain (19000 Tournament chips) 
+Seat 1: 0123456789 (23174 Tournament chips) 
+Seat 5: Cashhdavinci (4200 Tournament chips) 
+Seat 6: QwertySpark (11197 Tournament chips) 
+Seat 7: viper281 (21741 Tournament chips) 
+The button is at seat 7
+KrazyTrain posted ante of 400 Tournament chips
+0123456789 posted ante of 400 Tournament chips
+Cashhdavinci posted ante of 400 Tournament chips
+QwertySpark posted ante of 400 Tournament chips
+viper281 posted ante of 400 Tournament chips
+The button is moved to seat 0.
+0123456789 posts the small blind [2000 Tournament chips]
+Cashhdavinci posts the big blind [3800 Tournament chips], goes all-in
+KrazyTrain, at seat 0, is in this hand with 18600 Tournament chips.
+0123456789, at seat 1, is in this hand with 20774 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 0 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 10797 Tournament chips.
+viper281, at seat 7, is in this hand with 21341 Tournament chips.
+0123456789 is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ 6s Qc ]
+Dealt to viper281 [ **** ]
+QwertySpark folds [4000 Tournament chips]
+viper281 folds [4000 Tournament chips]
+KrazyTrain calls [4000 Tournament chips]
+0123456789 folds [2000 Tournament chips]
+KrazyTrain is returned 200 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ 9c Ks ]
+Cashhdavinci shows [ 8c Tc ]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 3h ] board:[ Qh 3h]
+** Dealing Flop ** [ 8s ] board:[ Qh 3h 8s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Qh 3h 8s 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Qh 3h 8s 8h Js]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ 9c Ks ] a pair of eights, king/queen kickers
+Cashhdavinci shows [ 8c Tc ] three eights, queen/jack kickers
+Cashhdavinci wins main pot 11600 Tournament chips with three eights, queen/jack kickers.
+Seat 0: KrazyTrain (14800 Tournament chips) 
+Seat 1: 0123456789 (20774 Tournament chips) 
+Seat 5: Cashhdavinci (11600 Tournament chips) 
+Seat 6: QwertySpark (10797 Tournament chips) 
+Seat 7: viper281 (21341 Tournament chips) 
+Game #23980553-38 ends
+Game #23980553-39 starts
+Seat 0: KrazyTrain (14800 Tournament chips) 
+Seat 1: 0123456789 (20774 Tournament chips) 
+Seat 5: Cashhdavinci (11600 Tournament chips) 
+Seat 6: QwertySpark (10797 Tournament chips) 
+Seat 7: viper281 (21341 Tournament chips) 
+The button is at seat 0
+KrazyTrain posted ante of 400 Tournament chips
+0123456789 posted ante of 400 Tournament chips
+Cashhdavinci posted ante of 400 Tournament chips
+QwertySpark posted ante of 400 Tournament chips
+viper281 posted ante of 400 Tournament chips
+The button is moved to seat 1.
+Cashhdavinci posts the small blind [2000 Tournament chips]
+QwertySpark posts the big blind [4000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 14400 Tournament chips.
+0123456789, at seat 1, is in this hand with 20374 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 9200 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 6397 Tournament chips.
+viper281, at seat 7, is in this hand with 20941 Tournament chips.
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ Qh Qc ]
+Dealt to viper281 [ **** ]
+viper281 folds [4000 Tournament chips]
+KrazyTrain folds [4000 Tournament chips]
+0123456789 folds [4000 Tournament chips]
+Cashhdavinci folds [2000 Tournament chips]
+QwertySpark is returned 2000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh Qc: a pair of queens)
+QwertySpark wins main pot 6000 Tournament chips.
+Seat 0: KrazyTrain (14400 Tournament chips) 
+Seat 1: 0123456789 (20374 Tournament chips) 
+Seat 2: NADCPP14 (22114 Tournament chips) 
+Seat 4: jajosu (32474 Tournament chips) 
+Seat 5: Cashhdavinci (9200 Tournament chips) 
+Seat 6: QwertySpark (14397 Tournament chips) 
+Seat 7: viper281 (20941 Tournament chips) 
+Seat 8: kingfishpass (4355 Tournament chips) 
+Game #23980553-39 ends
+Game #23980553-40 starts
+Seat 0: KrazyTrain (14400 Tournament chips) 
+Seat 1: 0123456789 (20374 Tournament chips) 
+Seat 2: NADCPP14 (22114 Tournament chips) 
+Seat 4: jajosu (32474 Tournament chips) 
+Seat 5: Cashhdavinci (9200 Tournament chips) 
+Seat 6: QwertySpark (14397 Tournament chips) 
+Seat 7: viper281 (20941 Tournament chips) 
+Seat 8: kingfishpass (4355 Tournament chips) 
+The button is at seat 1
+0123456789 posted ante of 500 Tournament chips
+jajosu posted ante of 500 Tournament chips
+KrazyTrain posted ante of 500 Tournament chips
+Cashhdavinci posted ante of 500 Tournament chips
+QwertySpark posted ante of 500 Tournament chips
+viper281 posted ante of 500 Tournament chips
+kingfishpass posted ante of 500 Tournament chips
+NADCPP14 posted ante of 500 Tournament chips
+The button is moved to seat 5.
+QwertySpark posts the small blind [2500 Tournament chips]
+viper281 posts the big blind [5000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 13900 Tournament chips.
+0123456789, at seat 1, is in this hand with 19874 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 21614 Tournament chips.
+jajosu, at seat 4, is in this hand with 31974 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand (absent) with 8700 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 11397 Tournament chips.
+viper281, at seat 7, is in this hand with 15441 Tournament chips.
+kingfishpass, at seat 8, is in this hand with 3855 Tournament chips.
+
+viper281 is dealt: **
+kingfishpass is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+kingfishpass is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ Ad Jc ]
+Dealt to viper281 [ **** ]
+Dealt to kingfishpass [ **** ]
+kingfishpass folds [3855 Tournament chips]
+KrazyTrain folds [5000 Tournament chips]
+0123456789 folds [5000 Tournament chips]
+NADCPP14 folds [5000 Tournament chips]
+jajosu raises [10000 Tournament chips]
+Cashhdavinci folds [8700 Tournament chips]
+QwertySpark raises all-in [11397 Tournament chips]
+viper281 folds [8897 Tournament chips]
+jajosu calls [3897 Tournament chips]
+Tournament all-in showdown -- players show:
+jajosu shows [ 3s Js ]
+QwertySpark shows [ Ad Jc ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 4d ] board:[ Ks 4d]
+** Dealing Flop ** [ Qc ] board:[ Ks 4d Qc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Ks 4d Qc 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Ks 4d Qc 5s 4c]
+        (no action in this round)
+Round 4 is over.
+jajosu shows [ 3s Js ] a pair of fours, king/queen kickers
+QwertySpark shows [ Ad Jc ] a pair of fours, ace/king kickers
+QwertySpark wins main pot 36794 Tournament chips with a pair of fours, ace/king kickers.
+Seat 0: KrazyTrain (13900 Tournament chips) 
+Seat 1: 0123456789 (19874 Tournament chips) 
+Seat 2: NADCPP14 (21614 Tournament chips) 
+Seat 4: jajosu (18077 Tournament chips) 
+Seat 5: Cashhdavinci (8700 Tournament chips) 
+Seat 6: QwertySpark (36794 Tournament chips) 
+Seat 7: viper281 (15441 Tournament chips) 
+Seat 8: kingfishpass (3855 Tournament chips) 
+Game #23980553-40 ends
+Game #23980553-41 starts
+Seat 0: KrazyTrain (13900 Tournament chips) 
+Seat 1: 0123456789 (19874 Tournament chips) 
+Seat 2: NADCPP14 (21614 Tournament chips) 
+Seat 4: jajosu (18077 Tournament chips) 
+Seat 5: Cashhdavinci (8700 Tournament chips) 
+Seat 6: QwertySpark (36794 Tournament chips) 
+Seat 7: viper281 (15441 Tournament chips) 
+Seat 8: kingfishpass (3855 Tournament chips) 
+The button is at seat 5
+KrazyTrain posted ante of 500 Tournament chips
+0123456789 posted ante of 500 Tournament chips
+jajosu posted ante of 500 Tournament chips
+NADCPP14 posted ante of 500 Tournament chips
+Cashhdavinci posted ante of 500 Tournament chips
+QwertySpark posted ante of 500 Tournament chips
+viper281 posted ante of 500 Tournament chips
+kingfishpass posted ante of 500 Tournament chips
+The button is moved to seat 6.
+viper281 posts the small blind [2500 Tournament chips]
+kingfishpass posts the big blind [3355 Tournament chips], goes all-in
+KrazyTrain, at seat 0, is in this hand with 13400 Tournament chips.
+0123456789, at seat 1, is in this hand with 19374 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 21114 Tournament chips.
+jajosu, at seat 4, is in this hand with 17577 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 8200 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 36294 Tournament chips.
+viper281, at seat 7, is in this hand with 12441 Tournament chips.
+kingfishpass, at seat 8, is in this hand with 0 Tournament chips.
+viper281 is dealt: **
+kingfishpass is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+kingfishpass is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ 5h Td ]
+Dealt to viper281 [ **** ]
+Dealt to kingfishpass [ **** ]
+KrazyTrain folds [5000 Tournament chips]
+0123456789 folds [5000 Tournament chips]
+NADCPP14 folds [5000 Tournament chips]
+jajosu folds [5000 Tournament chips]
+Cashhdavinci folds [5000 Tournament chips]
+QwertySpark folds [5000 Tournament chips]
+viper281 calls [2500 Tournament chips]
+viper281 is returned 1645 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+viper281 shows [ 8s 7h ]
+kingfishpass shows [ Th 8d ]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 9s ] board:[ 6d 9s]
+** Dealing Flop ** [ 4d ] board:[ 6d 9s 4d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ 6d 9s 4d Tc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 6d 9s 4d Tc 9c]
+        (no action in this round)
+Round 4 is over.
+viper281 shows [ 8s 7h ] straight, ten high
+kingfishpass shows [ Th 8d ] two pair, tens and nines, eight kicker
+viper281 wins main pot 10710 Tournament chips with straight, ten high.
+Seat 0: KrazyTrain (13400 Tournament chips) 
+Seat 1: 0123456789 (19374 Tournament chips) 
+Seat 2: NADCPP14 (21114 Tournament chips) 
+Seat 4: jajosu (17577 Tournament chips) 
+Seat 5: Cashhdavinci (8200 Tournament chips) 
+Seat 6: QwertySpark (36294 Tournament chips) 
+Seat 7: viper281 (22296 Tournament chips) 
+Seat 8: kingfishpass (0 Tournament chips) 
+Game #23980553-41 ends
+Player kingfishpass leaves the table with 0 Tournament chips
+Game #23980553-42 starts
+Seat 0: KrazyTrain (13400 Tournament chips) 
+Seat 1: 0123456789 (19374 Tournament chips) 
+Seat 2: NADCPP14 (21114 Tournament chips) 
+Seat 4: jajosu (17577 Tournament chips) 
+Seat 5: Cashhdavinci (8200 Tournament chips) 
+Seat 6: QwertySpark (36294 Tournament chips) 
+Seat 7: viper281 (22296 Tournament chips) 
+The button is at seat 6
+KrazyTrain posted ante of 600 Tournament chips
+0123456789 posted ante of 600 Tournament chips
+NADCPP14 posted ante of 600 Tournament chips
+jajosu posted ante of 600 Tournament chips
+Cashhdavinci posted ante of 600 Tournament chips
+QwertySpark posted ante of 600 Tournament chips
+viper281 posted ante of 600 Tournament chips
+The button is moved to seat 7.
+KrazyTrain posts the big blind [6000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 6800 Tournament chips.
+0123456789, at seat 1, is in this hand with 18774 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 20514 Tournament chips.
+jajosu, at seat 4, is in this hand with 16977 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 7600 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 35694 Tournament chips.
+viper281, at seat 7, is in this hand with 21696 Tournament chips.
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ Ts 3c ]
+Dealt to viper281 [ **** ]
+0123456789 folds [6000 Tournament chips]
+NADCPP14 folds [6000 Tournament chips]
+jajosu folds [6000 Tournament chips]
+Cashhdavinci folds [6000 Tournament chips]
+QwertySpark folds [6000 Tournament chips]
+viper281 folds [6000 Tournament chips]
+KrazyTrain is returned 6000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KrazyTrain (5h 4d: five high)
+KrazyTrain wins main pot 4200 Tournament chips.
+Seat 0: KrazyTrain (17000 Tournament chips) 
+Seat 1: 0123456789 (18774 Tournament chips) 
+Seat 2: NADCPP14 (20514 Tournament chips) 
+Seat 4: jajosu (16977 Tournament chips) 
+Seat 5: Cashhdavinci (7600 Tournament chips) 
+Seat 6: QwertySpark (35694 Tournament chips) 
+Seat 7: viper281 (21696 Tournament chips) 
+Game #23980553-42 ends
+Game #23980553-43 starts
+Seat 0: KrazyTrain (17000 Tournament chips) 
+Seat 1: 0123456789 (18774 Tournament chips) 
+Seat 2: NADCPP14 (20514 Tournament chips) 
+Seat 4: jajosu (16977 Tournament chips) 
+Seat 5: Cashhdavinci (7600 Tournament chips) 
+Seat 6: QwertySpark (35694 Tournament chips) 
+Seat 7: viper281 (21696 Tournament chips) 
+The button is at seat 7
+0123456789 posted ante of 600 Tournament chips
+KrazyTrain posted ante of 600 Tournament chips
+NADCPP14 posted ante of 600 Tournament chips
+jajosu posted ante of 600 Tournament chips
+Cashhdavinci posted ante of 600 Tournament chips
+QwertySpark posted ante of 600 Tournament chips
+viper281 posted ante of 600 Tournament chips
+KrazyTrain posts the small blind [3000 Tournament chips]
+0123456789 posts the big blind [6000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 13400 Tournament chips.
+0123456789, at seat 1, is in this hand with 12174 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 19914 Tournament chips.
+jajosu, at seat 4, is in this hand with 16377 Tournament chips.
+Cashhdavinci, at seat 5, is in this hand with 7000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 35094 Tournament chips.
+viper281, at seat 7, is in this hand with 21096 Tournament chips.
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+Cashhdavinci is dealt: **
+
+viper281 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to Cashhdavinci [ **** ]
+Dealt to QwertySpark [ Qh 8d ]
+Dealt to viper281 [ **** ]
+NADCPP14 folds [6000 Tournament chips]
+jajosu raises all-in [16377 Tournament chips]
+Cashhdavinci calls all-in [7000 Tournament chips]
+QwertySpark folds [16377 Tournament chips]
+viper281 folds [16377 Tournament chips]
+KrazyTrain folds [13377 Tournament chips]
+0123456789 folds [10377 Tournament chips]
+jajosu is returned 9377 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+jajosu shows [ Ac 6c ]
+Cashhdavinci shows [ 7c Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 2d ] board:[ 2s 2d]
+** Dealing Flop ** [ Ts ] board:[ 2s 2d Ts]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 2s 2d Ts Ah]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 2s 2d Ts Ah Ad]
+        (no action in this round)
+Round 4 is over.
+jajosu shows [ Ac 6c ] full house, aces full of deuces
+Cashhdavinci shows [ 7c Tc ] two pair, aces and tens, seven kicker
+jajosu wins main pot 27200 Tournament chips with full house, aces full of deuces.
+Seat 0: KrazyTrain (13400 Tournament chips) 
+Seat 1: 0123456789 (12174 Tournament chips) 
+Seat 2: NADCPP14 (19914 Tournament chips) 
+Seat 4: jajosu (36577 Tournament chips) 
+Seat 5: Cashhdavinci (0 Tournament chips) 
+Seat 6: QwertySpark (35094 Tournament chips) 
+Seat 7: viper281 (21096 Tournament chips) 
+Game #23980553-43 ends
+Player Cashhdavinci leaves the table with 0 Tournament chips
+Game #23980553-44 starts
+Seat 0: KrazyTrain (13400 Tournament chips) 
+Seat 1: 0123456789 (12174 Tournament chips) 
+Seat 2: NADCPP14 (19914 Tournament chips) 
+Seat 4: jajosu (36577 Tournament chips) 
+Seat 6: QwertySpark (35094 Tournament chips) 
+Seat 7: viper281 (21096 Tournament chips) 
+The button is at seat 7
+KrazyTrain posted ante of 600 Tournament chips
+0123456789 posted ante of 600 Tournament chips
+NADCPP14 posted ante of 600 Tournament chips
+QwertySpark posted ante of 600 Tournament chips
+viper281 posted ante of 600 Tournament chips
+jajosu posted ante of 600 Tournament chips
+The button is moved to seat 0.
+0123456789 posts the small blind [3000 Tournament chips]
+NADCPP14 posts the big blind [6000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 12800 Tournament chips.
+0123456789, at seat 1, is in this hand with 8574 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 13314 Tournament chips.
+jajosu, at seat 4, is in this hand with 35977 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 34494 Tournament chips.
+viper281, at seat 7, is in this hand with 20496 Tournament chips.
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+
+viper281 is dealt: **
+KrazyTrain is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to QwertySpark [ Ad 6h ]
+Dealt to viper281 [ **** ]
+jajosu folds [6000 Tournament chips]
+QwertySpark raises [12000 Tournament chips]
+viper281 calls [12000 Tournament chips]
+KrazyTrain folds [12000 Tournament chips]
+0123456789 calls all-in [8574 Tournament chips]
+NADCPP14 folds [6000 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 2c ] board:[ 8c 2c]
+** Dealing Flop ** [ 8d ] board:[ 8c 2c 8d]
+QwertySpark bets for 6000 Tournament chips
+viper281 raises all-in [8496 Tournament chips]
+QwertySpark calls [2496 Tournament chips]
+Tournament all-in showdown -- players show:
+0123456789 shows [ 5c 5s ]
+QwertySpark shows [ Ad 6h ]
+viper281 shows [ Th Qh ]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 8c 2c 8d 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 8c 2c 8d 2s 7c]
+        (no action in this round)
+Round 4 is over.
+0123456789 shows [ 5c 5s ] two pair, eights and fives, seven kicker
+QwertySpark shows [ Ad 6h ] two pair, eights and deuces, ace kicker
+viper281 shows [ Th Qh ] two pair, eights and deuces, queen kicker
+0123456789 wins main pot 44322 Tournament chips with two pair, eights and fives, seven kicker.
+QwertySpark wins side pot #1 17844 Tournament chips with two pair, eights and deuces, ace kicker.
+Seat 0: KrazyTrain (12800 Tournament chips) 
+Seat 1: 0123456789 (44322 Tournament chips) 
+Seat 2: NADCPP14 (13314 Tournament chips) 
+Seat 4: jajosu (35977 Tournament chips) 
+Seat 6: QwertySpark (31842 Tournament chips) 
+Seat 7: viper281 (0 Tournament chips) 
+Game #23980553-44 ends
+Player viper281 leaves the table with 0 Tournament chips
+Game #23980553-45 starts
+Seat 0: KrazyTrain (12800 Tournament chips) 
+Seat 1: 0123456789 (44322 Tournament chips) 
+Seat 2: NADCPP14 (13314 Tournament chips) 
+Seat 4: jajosu (35977 Tournament chips) 
+Seat 6: QwertySpark (31842 Tournament chips) 
+The button is at seat 0
+KrazyTrain posted ante of 600 Tournament chips
+0123456789 posted ante of 600 Tournament chips
+NADCPP14 posted ante of 600 Tournament chips
+jajosu posted ante of 600 Tournament chips
+QwertySpark posted ante of 600 Tournament chips
+The button is moved to seat 1.
+NADCPP14 posts the small blind [3000 Tournament chips]
+jajosu posts the big blind [6000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 12200 Tournament chips.
+0123456789, at seat 1, is in this hand with 43722 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 9714 Tournament chips.
+jajosu, at seat 4, is in this hand with 29377 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 31242 Tournament chips.
+NADCPP14 is dealt: **
+jajosu is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to QwertySpark [ Ts Qh ]
+QwertySpark folds [6000 Tournament chips]
+KrazyTrain folds [6000 Tournament chips]
+0123456789 folds [6000 Tournament chips]
+NADCPP14 calls [3000 Tournament chips]
+jajosu raises [6000 Tournament chips]
+NADCPP14 folds [6000 Tournament chips]
+jajosu is returned 6000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for jajosu (7c As: ace high)
+jajosu wins main pot 15000 Tournament chips.
+Seat 0: KrazyTrain (12200 Tournament chips) 
+Seat 1: 0123456789 (43722 Tournament chips) 
+Seat 2: NADCPP14 (6714 Tournament chips) 
+Seat 4: jajosu (44377 Tournament chips) 
+Seat 6: QwertySpark (31242 Tournament chips) 
+Game #23980553-45 ends
+Game #23980553-46 starts
+Seat 0: KrazyTrain (12200 Tournament chips) 
+Seat 1: 0123456789 (43722 Tournament chips) 
+Seat 2: NADCPP14 (6714 Tournament chips) 
+Seat 4: jajosu (44377 Tournament chips) 
+Seat 6: QwertySpark (31242 Tournament chips) 
+The button is at seat 1
+KrazyTrain posted ante of 800 Tournament chips
+0123456789 posted ante of 800 Tournament chips
+NADCPP14 posted ante of 800 Tournament chips
+jajosu posted ante of 800 Tournament chips
+QwertySpark posted ante of 800 Tournament chips
+The button is moved to seat 2.
+jajosu posts the small blind [4000 Tournament chips]
+QwertySpark posts the big blind [8000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 11400 Tournament chips.
+0123456789, at seat 1, is in this hand with 42922 Tournament chips.
+NADCPP14, at seat 2, is in this hand with 5914 Tournament chips.
+jajosu, at seat 4, is in this hand with 39577 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 22442 Tournament chips.
+jajosu is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+jajosu is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+NADCPP14 is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to NADCPP14 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to QwertySpark [ 5d 4h ]
+KrazyTrain raises all-in [11400 Tournament chips]
+0123456789 folds [11400 Tournament chips]
+NADCPP14 calls all-in [5914 Tournament chips]
+jajosu calls [7400 Tournament chips]
+QwertySpark folds [3400 Tournament chips]
+Tournament all-in showdown -- players show:
+KrazyTrain shows [ Jd Ad ]
+NADCPP14 shows [ Qd 8h ]
+jajosu shows [ 9s 4s ]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 7d ] board:[ 6c 7d]
+** Dealing Flop ** [ 2h ] board:[ 6c 7d 2h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ 6c 7d 2h Tc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 6c 7d 2h Tc Js]
+        (no action in this round)
+Round 4 is over.
+KrazyTrain shows [ Jd Ad ] a pair of jacks, ace/ten kickers
+NADCPP14 shows [ Qd 8h ] queen/jack/ten high
+jajosu shows [ 9s 4s ] jack/ten/nine high
+KrazyTrain wins main pot 27656 Tournament chips with a pair of jacks, ace/ten kickers.
+KrazyTrain wins side pot #1 13058 Tournament chips with a pair of jacks, ace/ten kickers.
+Seat 0: KrazyTrain (40714 Tournament chips) 
+Seat 1: 0123456789 (42922 Tournament chips) 
+Seat 2: NADCPP14 (0 Tournament chips) 
+Seat 4: jajosu (32177 Tournament chips) 
+Seat 6: QwertySpark (22442 Tournament chips) 
+Game #23980553-46 ends
+Player NADCPP14 leaves the table with 0 Tournament chips
+Game #23980553-47 starts
+Seat 0: KrazyTrain (40714 Tournament chips) 
+Seat 1: 0123456789 (42922 Tournament chips) 
+Seat 4: jajosu (32177 Tournament chips) 
+Seat 6: QwertySpark (22442 Tournament chips) 
+The button is at seat 2
+KrazyTrain posted ante of 800 Tournament chips
+0123456789 posted ante of 800 Tournament chips
+jajosu posted ante of 800 Tournament chips
+QwertySpark posted ante of 800 Tournament chips
+The button is moved to seat 4.
+QwertySpark posts the small blind [4000 Tournament chips]
+KrazyTrain posts the big blind [8000 Tournament chips]
+KrazyTrain, at seat 0, is in this hand with 31914 Tournament chips.
+0123456789, at seat 1, is in this hand with 42122 Tournament chips.
+jajosu, at seat 4, is in this hand with 31377 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 17642 Tournament chips.
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+jajosu is dealt: **
+
+KrazyTrain is dealt: **
+0123456789 is dealt: **
+jajosu is dealt: **
+Dealt to KrazyTrain [ **** ]
+Dealt to 0123456789 [ **** ]
+Dealt to jajosu [ **** ]
+Dealt to QwertySpark [ Ad 5h ]
+0123456789 folds [8000 Tournament chips]
+jajosu calls [8000 Tournament chips]
+QwertySpark calls [4000 Tournament chips]
+KrazyTrain checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ Ks ] board:[ Ac Ks]
+** Dealing Flop ** [ 8h ] board:[ Ac Ks 8h]
+QwertySpark bets for 8000 Tournament chips
+KrazyTrain folds [8000 Tournament chips]
+jajosu calls [8000 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Ac Ks 8h Th]
+QwertySpark goes all-in for 5642 Tournament chips
+jajosu calls [5642 Tournament chips]
+Tournament all-in showdown -- players show:
+jajosu shows [ Jh Td ]
+QwertySpark shows [ Ad 5h ]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Ac Ks 8h Th Qd]
+        (no action in this round)
+Round 4 is over.
+jajosu shows [ Jh Td ] straight, ace high
+QwertySpark shows [ Ad 5h ] a pair of aces, king/queen kickers
+jajosu wins main pot 54484 Tournament chips with straight, ace high.
+Seat 0: KrazyTrain (31914 Tournament chips) 
+Seat 1: 0123456789 (42122 Tournament chips) 
+Seat 4: jajosu (64219 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Game #23980553-47 ends
+Player QwertySpark leaves the table with 0 Tournament chips

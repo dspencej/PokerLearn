@@ -1,0 +1,207 @@
+Game#: 23823927
+JEN3 calls [80 Tournament chips]
+Debutaunt folds [70 Tournament chips]
+nana8888 calls [70 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 2d ] board:[ 7d 2d]
+** Dealing Flop ** [ 8s ] board:[ 7d 2d 8s]
+JEN3 goes all-in for 905 Tournament chips
+nana8888 folds [765 Tournament chips]
+Driverfluffy folds [905 Tournament chips]
+josh8909 calls [905 Tournament chips]
+Tournament all-in showdown -- players show:
+JEN3 shows [ Qc Ac ]
+josh8909 shows [ 2c Kd ]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 7d 2d 8s 8c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 7d 2d 8s 8c 8d]
+        (no action in this round)
+Round 4 is over.
+JEN3 shows [ Qc Ac ] three eights, ace/queen kickers
+josh8909 shows [ 2c Kd ] full house, eights full of deuces
+josh8909 wins main pot 2190 Tournament chips with full house, eights full of deuces.
+Seat 0: JEN3 (0 Tournament chips) 
+Seat 1: Hillbillys7 (1000 Tournament chips) 
+Seat 2: Debutaunt (3110 Tournament chips) 
+Seat 3: buenpoke (1000 Tournament chips) 
+Seat 4: nana8888 (765 Tournament chips) 
+Seat 5: Driverfluffy (4800 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: josh8909 (2315 Tournament chips) 
+Seat 8: notaxman (1000 Tournament chips) 
+Game #23823927-7 ends
+Player JEN3 leaves the table with 0 Tournament chips
+Game #23823927-8 starts
+Seat 1: Hillbillys7 (1000 Tournament chips) 
+Seat 2: Debutaunt (3110 Tournament chips) 
+Seat 3: buenpoke (1000 Tournament chips) 
+Seat 4: nana8888 (765 Tournament chips) 
+Seat 5: Driverfluffy (4800 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: josh8909 (2315 Tournament chips) 
+Seat 8: notaxman (1000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+Debutaunt posts the small blind [15 Tournament chips]
+buenpoke posts the big blind [30 Tournament chips]
+Debutaunt, at seat 2, is in this hand with 3095 Tournament chips.
+buenpoke, at seat 3, is in this hand with 970 Tournament chips.
+nana8888, at seat 4, is in this hand with 765 Tournament chips.
+Driverfluffy, at seat 5, is in this hand with 4800 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1000 Tournament chips.
+josh8909, at seat 7, is in this hand with 2315 Tournament chips.
+notaxman, at seat 8, is in this hand with 1000 Tournament chips.
+Debutaunt is dealt: **
+buenpoke is dealt: **
+nana8888 is dealt: **
+Driverfluffy is dealt: **
+
+josh8909 is dealt: **
+notaxman is dealt: **
+Debutaunt is dealt: **
+buenpoke is dealt: **
+nana8888 is dealt: **
+Driverfluffy is dealt: **
+
+josh8909 is dealt: **
+notaxman is dealt: **
+Dealt to Debutaunt [ **** ]
+Dealt to buenpoke [ **** ]
+Dealt to nana8888 [ **** ]
+Dealt to Driverfluffy [ **** ]
+Dealt to QwertySpark [ 4s 7s ]
+Dealt to josh8909 [ **** ]
+Dealt to notaxman [ **** ]
+nana8888 folds [30 Tournament chips]
+Driverfluffy calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+josh8909 calls [30 Tournament chips]
+notaxman calls [30 Tournament chips]
+Debutaunt folds [15 Tournament chips]
+buenpoke checks
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Th ] board:[ 4c Th]
+** Dealing Flop ** [ 8h ] board:[ 4c Th 8h]
+buenpoke bets for 90 Tournament chips
+Driverfluffy folds [90 Tournament chips]
+josh8909 calls [90 Tournament chips]
+notaxman calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 4c Th 8h Jd]
+buenpoke bets for 150 Tournament chips
+josh8909 calls [150 Tournament chips]
+notaxman folds [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 4c Th 8h Jd 9h]
+buenpoke bets for 150 Tournament chips
+josh8909 raises all-in [2045 Tournament chips]
+buenpoke calls all-in [580 Tournament chips]
+josh8909 is returned 1315 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+buenpoke shows [ Ts Jh ]
+josh8909 shows [ 5h 7h ]
+Round 4 is over.
+buenpoke shows [ Ts Jh ] two pair, jacks and tens, nine kicker
+josh8909 shows [ 5h 7h ] flush, ten/nine/eight high
+josh8909 wins main pot 2165 Tournament chips with flush, ten/nine/eight high.
+Seat 1: Hillbillys7 (1000 Tournament chips) 
+Seat 2: Debutaunt (3095 Tournament chips) 
+Seat 3: buenpoke (0 Tournament chips) 
+Seat 4: nana8888 (765 Tournament chips) 
+Seat 5: Driverfluffy (4770 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: josh8909 (3480 Tournament chips) 
+Seat 8: notaxman (880 Tournament chips) 
+Game #23823927-8 ends
+Player buenpoke leaves the table with 0 Tournament chips
+Game #23823927-9 starts
+Seat 1: Hillbillys7 (1000 Tournament chips) 
+Seat 2: Debutaunt (3095 Tournament chips) 
+Seat 4: nana8888 (765 Tournament chips) 
+Seat 5: Driverfluffy (4770 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: josh8909 (3480 Tournament chips) 
+Seat 8: notaxman (880 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+nana8888 posts the big blind [30 Tournament chips]
+Hillbillys7, at seat 1, is in this hand with 1000 Tournament chips.
+Debutaunt, at seat 2, is in this hand (absent) with 3095 Tournament chips.
+nana8888, at seat 4, is in this hand with 735 Tournament chips.
+Driverfluffy, at seat 5, is in this hand with 4770 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1000 Tournament chips.
+josh8909, at seat 7, is in this hand with 3480 Tournament chips.
+notaxman, at seat 8, is in this hand with 880 Tournament chips.
+nana8888 is dealt: **
+Driverfluffy is dealt: **
+
+josh8909 is dealt: **
+notaxman is dealt: **
+Hillbillys7 is dealt: **
+Debutaunt is dealt: **
+nana8888 is dealt: **
+Driverfluffy is dealt: **
+
+josh8909 is dealt: **
+notaxman is dealt: **
+Hillbillys7 is dealt: **
+Debutaunt is dealt: **
+Dealt to Hillbillys7 [ **** ]
+Dealt to Debutaunt [ **** ]
+Dealt to nana8888 [ **** ]
+Dealt to Driverfluffy [ **** ]
+Dealt to QwertySpark [ Ts Kh ]
+Dealt to josh8909 [ **** ]
+Dealt to notaxman [ **** ]
+Driverfluffy folds [30 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+(Debutaunt has entered the table, is no longer absent.)
+josh8909 calls [120 Tournament chips]
+notaxman folds [120 Tournament chips]
+Hillbillys7 calls [120 Tournament chips]
+Debutaunt calls [120 Tournament chips]
+nana8888 calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 9c ] board:[ 4h 9c]
+** Dealing Flop ** [ 2c ] board:[ 4h 9c 2c]
+nana8888 checks
+QwertySpark goes all-in for 880 Tournament chips
+josh8909 folds [880 Tournament chips]
+Hillbillys7 calls all-in [880 Tournament chips]
+Debutaunt calls [880 Tournament chips]
+nana8888 calls all-in [645 Tournament chips]
+Tournament all-in showdown -- players show:
+Hillbillys7 shows [ 9h 2h ]
+Debutaunt shows [ 6d 5c ]
+nana8888 shows [ 4s Js ]
+QwertySpark shows [ Ts Kh ]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 4h 9c 2c 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 4h 9c 2c 2s 6s]
+        (no action in this round)
+Round 4 is over.
+Hillbillys7 shows [ 9h 2h ] full house, deuces full of nines
+Debutaunt shows [ 6d 5c ] two pair, sixes and deuces, nine kicker
+nana8888 shows [ 4s Js ] two pair, fours and deuces, jack kicker
+QwertySpark shows [ Ts Kh ] a pair of deuces, king/ten kickers
+Hillbillys7 wins main pot 3180 Tournament chips with full house, deuces full of nines.
+Hillbillys7 wins side pot #1 705 Tournament chips with full house, deuces full of nines.
+Seat 0: jwo74 (4540 Tournament chips) 
+Seat 1: Hillbillys7 (3885 Tournament chips) 
+Seat 2: Debutaunt (2095 Tournament chips) 
+Seat 3: Saintsfan72 (3650 Tournament chips) 
+Seat 4: nana8888 (0 Tournament chips) 
+Seat 5: Driverfluffy (4770 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Seat 7: josh8909 (3360 Tournament chips) 
+Seat 8: notaxman (880 Tournament chips) 
+Game #23823927-9 ends
+Player nana8888 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

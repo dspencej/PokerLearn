@@ -1,0 +1,38 @@
+Game#: 23936601
+Natasha3 folds [190 Tournament chips]
+Lela88 raises all-in [1395 Tournament chips]
+TalentQ calls all-in [1300 Tournament chips]
+charlie000 calls all-in [1300 Tournament chips]
+Tournament all-in showdown -- players show:
+Lela88 shows [ Ah 9h ]
+TalentQ shows [ Ts Kh ]
+charlie000 shows [ Ad Kc ]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 5c ] board:[ 9d 5c]
+** Dealing Flop ** [ 7h ] board:[ 9d 5c 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 9d 5c 7h 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 9d 5c 7h 3h Kd]
+        (no action in this round)
+Round 4 is over.
+Lela88 shows [ Ah 9h ] a pair of nines, ace/king kickers
+TalentQ shows [ Ts Kh ] a pair of kings, ten/nine kickers
+charlie000 shows [ Ad Kc ] a pair of kings, ace/nine kickers
+charlie000 wins main pot 4525 Tournament chips with a pair of kings, ace/nine kickers.
+Seat 0: chiorboy (1490 Tournament chips) 
+Seat 1: racer2k (1500 Tournament chips) 
+Seat 2: Natasha3 (1490 Tournament chips) 
+Seat 3: 33cowboy99 (1500 Tournament chips) 
+Seat 4: Lela88 (0 Tournament chips) 
+Seat 5: TalentQ (0 Tournament chips) 
+Seat 6: charlie000 (4525 Tournament chips) 
+Seat 7: QwertySpark (1500 Tournament chips) 
+Seat 8: Al DiSanti (1495 Tournament chips) 
+Game #23936601-1 ends
+Player QwertySpark leaves the table with 1500 Tournament chips
+Player TalentQ leaves the table with 0 Tournament chips
+Player Lela88 leaves the table with 0 Tournament chips

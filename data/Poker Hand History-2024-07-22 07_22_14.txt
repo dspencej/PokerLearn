@@ -1,0 +1,798 @@
+Game#: 23889789
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz calls [1000 Tournament chips]
+byu15xyz is returned 2000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+byu15xyz shows [ Ac 2d ]
+AcedPokeRmoM shows [ 3h Jc ]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 8s ] board:[ 7c 8s]
+** Dealing Flop ** [ 9h ] board:[ 7c 8s 9h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 7c 8s 9h 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 7c 8s 9h 8h Kh]
+        (no action in this round)
+Round 4 is over.
+byu15xyz shows [ Ac 2d ] a pair of eights, ace/king kickers
+byu15xyz wins main pot 882 Tournament chips with a pair of eights, ace/king kickers.
+byu15xyz wins side pot #1 265 Tournament chips with a pair of eights, ace/king kickers.
+Seat 0: Vecdu (22815 Tournament chips) 
+Seat 1: awprob (11782 Tournament chips) 
+Seat 2: Razmazter (6349 Tournament chips) 
+Seat 3: QwertySpark (16614 Tournament chips) 
+Seat 4: nhra6teen (4422 Tournament chips) 
+Seat 5: Call Me Dave (12898 Tournament chips) 
+Seat 6: byu15xyz (8387 Tournament chips) 
+Seat 7: AcedPokeRmoM (0 Tournament chips) 
+Game #23889789-63 ends
+Player AcedPokeRmoM leaves the table with 0 Tournament chips
+Game #23889789-64 starts
+Seat 0: Vecdu (22815 Tournament chips) 
+Seat 1: awprob (11782 Tournament chips) 
+Seat 2: Razmazter (6349 Tournament chips) 
+Seat 3: QwertySpark (16614 Tournament chips) 
+Seat 4: nhra6teen (4422 Tournament chips) 
+Seat 5: Call Me Dave (12898 Tournament chips) 
+Seat 6: byu15xyz (8387 Tournament chips) 
+The button is at seat 5
+Vecdu posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+The button is moved to seat 6.
+Vecdu posts the big blind [2000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 20615 Tournament chips.
+awprob, at seat 1, is in this hand with 11582 Tournament chips.
+Razmazter, at seat 2, is in this hand with 6149 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 16414 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 4222 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 12698 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 8187 Tournament chips.
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 5h 9d ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+awprob folds [2000 Tournament chips]
+Razmazter folds [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+nhra6teen folds [2000 Tournament chips]
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz folds [2000 Tournament chips]
+Vecdu is returned 2000 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Vecdu (Qc Ac: ace high)
+Vecdu wins main pot 1400 Tournament chips.
+Seat 0: Vecdu (24015 Tournament chips) 
+Seat 1: awprob (11582 Tournament chips) 
+Seat 2: Razmazter (6149 Tournament chips) 
+Seat 3: QwertySpark (16414 Tournament chips) 
+Seat 4: nhra6teen (4222 Tournament chips) 
+Seat 5: Call Me Dave (12698 Tournament chips) 
+Seat 6: byu15xyz (8187 Tournament chips) 
+Seat 8: Poneck (49449 Tournament chips) 
+Game #23889789-64 ends
+Game #23889789-65 starts
+Seat 0: Vecdu (24015 Tournament chips) 
+Seat 1: awprob (11582 Tournament chips) 
+Seat 2: Razmazter (6149 Tournament chips) 
+Seat 3: QwertySpark (16414 Tournament chips) 
+Seat 4: nhra6teen (4222 Tournament chips) 
+Seat 5: Call Me Dave (12698 Tournament chips) 
+Seat 6: byu15xyz (8187 Tournament chips) 
+Seat 8: Poneck (49449 Tournament chips) 
+The button is at seat 6
+Razmazter posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Vecdu posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Vecdu posts the small blind [1000 Tournament chips]
+awprob posts the big blind [2000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 22815 Tournament chips.
+awprob, at seat 1, is in this hand with 9382 Tournament chips.
+Razmazter, at seat 2, is in this hand with 5949 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 16214 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 4022 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 12498 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 7987 Tournament chips.
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 7h Jd ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Razmazter folds [2000 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+nhra6teen folds [2000 Tournament chips]
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz folds [2000 Tournament chips]
+Vecdu calls [1000 Tournament chips]
+awprob checks
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 5h ] board:[ Ad 5h]
+** Dealing Flop ** [ Tc ] board:[ Ad 5h Tc]
+Vecdu bets for 2000 Tournament chips
+awprob folds [2000 Tournament chips]
+Vecdu is returned 2000 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Vecdu (7s Ac Ad 5h Tc: a pair of aces)
+Vecdu wins main pot 5400 Tournament chips.
+Seat 0: Vecdu (27215 Tournament chips) 
+Seat 1: awprob (9382 Tournament chips) 
+Seat 2: Razmazter (5949 Tournament chips) 
+Seat 3: QwertySpark (16214 Tournament chips) 
+Seat 4: nhra6teen (4022 Tournament chips) 
+Seat 5: Call Me Dave (12498 Tournament chips) 
+Seat 6: byu15xyz (7987 Tournament chips) 
+Seat 8: Poneck (49449 Tournament chips) 
+Game #23889789-65 ends
+Game #23889789-66 starts
+Seat 0: Vecdu (27215 Tournament chips) 
+Seat 1: awprob (9382 Tournament chips) 
+Seat 2: Razmazter (5949 Tournament chips) 
+Seat 3: QwertySpark (16214 Tournament chips) 
+Seat 4: nhra6teen (4022 Tournament chips) 
+Seat 5: Call Me Dave (12498 Tournament chips) 
+Seat 6: byu15xyz (7987 Tournament chips) 
+Seat 8: Poneck (49449 Tournament chips) 
+The button is at seat 6
+Vecdu posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 0.
+awprob posts the small blind [1000 Tournament chips]
+Razmazter posts the big blind [2000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 27015 Tournament chips.
+awprob, at seat 1, is in this hand with 8182 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 3749 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 16014 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 3822 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 12298 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 7787 Tournament chips.
+Poneck, at seat 8, is in this hand with 49249 Tournament chips.
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 4d 3s ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+QwertySpark folds [2000 Tournament chips]
+nhra6teen folds [2000 Tournament chips]
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz folds [2000 Tournament chips]
+Poneck folds [2000 Tournament chips]
+Vecdu folds [2000 Tournament chips]
+awprob calls [1000 Tournament chips]
+Razmazter folds
+round 1 is over.
+Hand evaluation for awprob (Kd Ah: ace high)
+awprob wins main pot 5600 Tournament chips.
+Seat 0: Vecdu (27015 Tournament chips) 
+Seat 1: awprob (12782 Tournament chips) 
+Seat 2: Razmazter (3749 Tournament chips) 
+Seat 3: QwertySpark (16014 Tournament chips) 
+Seat 4: nhra6teen (3822 Tournament chips) 
+Seat 5: Call Me Dave (12298 Tournament chips) 
+Seat 6: byu15xyz (7787 Tournament chips) 
+Seat 8: Poneck (49249 Tournament chips) 
+Game #23889789-66 ends
+Game #23889789-67 starts
+Seat 0: Vecdu (27015 Tournament chips) 
+Seat 1: awprob (12782 Tournament chips) 
+Seat 2: Razmazter (3749 Tournament chips) 
+Seat 3: QwertySpark (16014 Tournament chips) 
+Seat 4: nhra6teen (3822 Tournament chips) 
+Seat 5: Call Me Dave (12298 Tournament chips) 
+Seat 6: byu15xyz (7787 Tournament chips) 
+Seat 8: Poneck (49249 Tournament chips) 
+The button is at seat 0
+awprob posted ante of 200 Tournament chips
+Vecdu posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 1.
+Razmazter posts the small blind [1000 Tournament chips]
+QwertySpark posts the big blind [2000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 26815 Tournament chips.
+awprob, at seat 1, is in this hand with 12582 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 2549 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 13814 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 3622 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 12098 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 7587 Tournament chips.
+Poneck, at seat 8, is in this hand with 49049 Tournament chips.
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 5h Ac ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+nhra6teen folds [2000 Tournament chips]
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz folds [2000 Tournament chips]
+Poneck folds [2000 Tournament chips]
+Vecdu raises all-in [26815 Tournament chips]
+awprob folds [12582 Tournament chips]
+Razmazter folds [2549 Tournament chips]
+QwertySpark folds [13814 Tournament chips]
+Vecdu is returned 24815 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Vecdu (Ah Ks: ace high)
+Vecdu wins main pot 6600 Tournament chips.
+Seat 0: Vecdu (31415 Tournament chips) 
+Seat 1: awprob (12582 Tournament chips) 
+Seat 2: Razmazter (2549 Tournament chips) 
+Seat 3: QwertySpark (13814 Tournament chips) 
+Seat 4: nhra6teen (3622 Tournament chips) 
+Seat 5: Call Me Dave (12098 Tournament chips) 
+Seat 6: byu15xyz (7587 Tournament chips) 
+Seat 8: Poneck (49049 Tournament chips) 
+Game #23889789-67 ends
+Game #23889789-68 starts
+Seat 0: Vecdu (31415 Tournament chips) 
+Seat 1: awprob (12582 Tournament chips) 
+Seat 2: Razmazter (2549 Tournament chips) 
+Seat 3: QwertySpark (13814 Tournament chips) 
+Seat 4: nhra6teen (3622 Tournament chips) 
+Seat 5: Call Me Dave (12098 Tournament chips) 
+Seat 6: byu15xyz (7587 Tournament chips) 
+Seat 8: Poneck (49049 Tournament chips) 
+The button is at seat 1
+Vecdu posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 2.
+QwertySpark posts the small blind [1000 Tournament chips]
+nhra6teen posts the big blind [2000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 31215 Tournament chips.
+awprob, at seat 1, is in this hand with 12382 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 2349 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 12614 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 1422 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 11898 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 7387 Tournament chips.
+Poneck, at seat 8, is in this hand with 48849 Tournament chips.
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 7d Kc ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+Call Me Dave folds [2000 Tournament chips]
+byu15xyz folds [2000 Tournament chips]
+Poneck folds [2000 Tournament chips]
+Vecdu raises [4000 Tournament chips]
+awprob folds [4000 Tournament chips]
+Razmazter folds [2349 Tournament chips]
+QwertySpark calls [3000 Tournament chips]
+nhra6teen calls all-in [1422 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 4d ] board:[ 5d 4d]
+** Dealing Flop ** [ Kh ] board:[ 5d 4d Kh]
+QwertySpark checks
+Vecdu checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 5d 4d Kh Js]
+QwertySpark checks
+Vecdu checks
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 5d 4d Kh Js Jh]
+QwertySpark bets for 4000 Tournament chips
+Vecdu folds [4000 Tournament chips]
+QwertySpark is returned 4000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7d Kc ]
+nhra6teen shows [ Ad Ks ]
+Round 4 is over.
+QwertySpark shows [ 7d Kc ] two pair, kings and jacks, seven kicker
+nhra6teen shows [ Ad Ks ] two pair, kings and jacks, ace kicker
+nhra6teen wins main pot 11866 Tournament chips with two pair, kings and jacks, ace kicker.
+QwertySpark wins side pot #1 1156 Tournament chips with two pair, kings and jacks, seven kicker.
+Seat 0: Vecdu (27215 Tournament chips) 
+Seat 1: awprob (12382 Tournament chips) 
+Seat 2: Razmazter (2349 Tournament chips) 
+Seat 3: QwertySpark (10770 Tournament chips) 
+Seat 4: nhra6teen (11866 Tournament chips) 
+Seat 5: Call Me Dave (11898 Tournament chips) 
+Seat 6: byu15xyz (7387 Tournament chips) 
+Seat 8: Poneck (48849 Tournament chips) 
+Game #23889789-68 ends
+Game #23889789-69 starts
+Seat 0: Vecdu (27215 Tournament chips) 
+Seat 1: awprob (12382 Tournament chips) 
+Seat 2: Razmazter (2349 Tournament chips) 
+Seat 3: QwertySpark (10770 Tournament chips) 
+Seat 4: nhra6teen (11866 Tournament chips) 
+Seat 5: Call Me Dave (11898 Tournament chips) 
+Seat 6: byu15xyz (7387 Tournament chips) 
+Seat 8: Poneck (48849 Tournament chips) 
+The button is at seat 2
+Vecdu posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 3.
+nhra6teen posts the small blind [1200 Tournament chips]
+Call Me Dave posts the big blind [2400 Tournament chips]
+Vecdu, at seat 0, is in this hand with 27015 Tournament chips.
+awprob, at seat 1, is in this hand with 12182 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 2149 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 10570 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 10466 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 9298 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 7187 Tournament chips.
+Poneck, at seat 8, is in this hand with 48649 Tournament chips.
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ Jc 4c ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+byu15xyz folds [2400 Tournament chips]
+Poneck folds [2400 Tournament chips]
+Vecdu folds [2400 Tournament chips]
+awprob folds [2400 Tournament chips]
+Razmazter folds [2149 Tournament chips]
+QwertySpark calls [2400 Tournament chips]
+nhra6teen folds [1200 Tournament chips]
+Call Me Dave checks
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Ks ] board:[ As Ks]
+** Dealing Flop ** [ 7s ] board:[ As Ks 7s]
+Call Me Dave checks
+QwertySpark bets for 7600 Tournament chips
+Call Me Dave folds [7600 Tournament chips]
+QwertySpark is returned 7600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jc 4c As Ks 7s: ace high)
+QwertySpark wins main pot 7600 Tournament chips.
+Seat 0: Vecdu (27015 Tournament chips) 
+Seat 1: awprob (12182 Tournament chips) 
+Seat 2: Razmazter (2149 Tournament chips) 
+Seat 3: QwertySpark (15770 Tournament chips) 
+Seat 4: nhra6teen (10466 Tournament chips) 
+Seat 5: Call Me Dave (9298 Tournament chips) 
+Seat 6: byu15xyz (7187 Tournament chips) 
+Seat 8: Poneck (48649 Tournament chips) 
+Game #23889789-69 ends
+Game #23889789-70 starts
+Seat 0: Vecdu (27015 Tournament chips) 
+Seat 1: awprob (12182 Tournament chips) 
+Seat 2: Razmazter (2149 Tournament chips) 
+Seat 3: QwertySpark (15770 Tournament chips) 
+Seat 4: nhra6teen (10466 Tournament chips) 
+Seat 5: Call Me Dave (9298 Tournament chips) 
+Seat 6: byu15xyz (7187 Tournament chips) 
+Seat 8: Poneck (48649 Tournament chips) 
+The button is at seat 3
+Vecdu posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 4.
+Call Me Dave posts the small blind [1200 Tournament chips]
+byu15xyz posts the big blind [2400 Tournament chips]
+Vecdu, at seat 0, is in this hand with 26815 Tournament chips.
+awprob, at seat 1, is in this hand with 11982 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 1949 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 15570 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 10266 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 7898 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 4587 Tournament chips.
+Poneck, at seat 8, is in this hand with 48449 Tournament chips.
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 3h Ac ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+Poneck folds [2400 Tournament chips]
+Vecdu calls [2400 Tournament chips]
+awprob folds [2400 Tournament chips]
+Razmazter folds [1949 Tournament chips]
+QwertySpark calls [2400 Tournament chips]
+nhra6teen folds [2400 Tournament chips]
+Call Me Dave folds [1200 Tournament chips]
+byu15xyz checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 2c ] board:[ 9h 2c]
+** Dealing Flop ** [ 2s ] board:[ 9h 2c 2s]
+byu15xyz checks
+Vecdu bets for 2400 Tournament chips
+QwertySpark folds [2400 Tournament chips]
+byu15xyz folds [2400 Tournament chips]
+Vecdu is returned 2400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Vecdu (Kd 9d 9h 2c 2s: two pair, nines and deuces)
+Vecdu wins main pot 10000 Tournament chips.
+Seat 0: Vecdu (34415 Tournament chips) 
+Seat 1: awprob (11982 Tournament chips) 
+Seat 2: Razmazter (1949 Tournament chips) 
+Seat 3: QwertySpark (13170 Tournament chips) 
+Seat 4: nhra6teen (10266 Tournament chips) 
+Seat 5: Call Me Dave (7898 Tournament chips) 
+Seat 6: byu15xyz (4587 Tournament chips) 
+Seat 8: Poneck (48449 Tournament chips) 
+Game #23889789-70 ends
+Game #23889789-71 starts
+Seat 0: Vecdu (34415 Tournament chips) 
+Seat 1: awprob (11982 Tournament chips) 
+Seat 2: Razmazter (1949 Tournament chips) 
+Seat 3: QwertySpark (13170 Tournament chips) 
+Seat 4: nhra6teen (10266 Tournament chips) 
+Seat 5: Call Me Dave (7898 Tournament chips) 
+Seat 6: byu15xyz (4587 Tournament chips) 
+Seat 8: Poneck (48449 Tournament chips) 
+The button is at seat 4
+Vecdu posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Razmazter posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+The button is moved to seat 5.
+byu15xyz posts the small blind [1200 Tournament chips]
+Poneck posts the big blind [2400 Tournament chips]
+Vecdu, at seat 0, is in this hand with 34215 Tournament chips.
+awprob, at seat 1, is in this hand with 11782 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 1749 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 12970 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 10066 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 7698 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 3187 Tournament chips.
+Poneck, at seat 8, is in this hand with 45849 Tournament chips.
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ 6s Kc ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+Vecdu folds [2400 Tournament chips]
+awprob folds [2400 Tournament chips]
+Razmazter folds [1749 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+nhra6teen folds [2400 Tournament chips]
+Call Me Dave folds [2400 Tournament chips]
+byu15xyz folds [1200 Tournament chips]
+Poneck is returned 1200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Poneck (Qc 2c: queen high)
+Poneck wins main pot 4000 Tournament chips.
+Seat 0: Vecdu (34215 Tournament chips) 
+Seat 1: awprob (11782 Tournament chips) 
+Seat 2: Razmazter (1749 Tournament chips) 
+Seat 3: QwertySpark (12970 Tournament chips) 
+Seat 4: nhra6teen (10066 Tournament chips) 
+Seat 5: Call Me Dave (7698 Tournament chips) 
+Seat 6: byu15xyz (3187 Tournament chips) 
+Seat 8: Poneck (51049 Tournament chips) 
+Game #23889789-71 ends
+Game #23889789-72 starts
+Seat 0: Vecdu (34215 Tournament chips) 
+Seat 1: awprob (11782 Tournament chips) 
+Seat 2: Razmazter (1749 Tournament chips) 
+Seat 3: QwertySpark (12970 Tournament chips) 
+Seat 4: nhra6teen (10066 Tournament chips) 
+Seat 5: Call Me Dave (7698 Tournament chips) 
+Seat 6: byu15xyz (3187 Tournament chips) 
+Seat 8: Poneck (51049 Tournament chips) 
+The button is at seat 5
+Razmazter posted ante of 200 Tournament chips
+QwertySpark posted ante of 200 Tournament chips
+awprob posted ante of 200 Tournament chips
+Vecdu posted ante of 200 Tournament chips
+nhra6teen posted ante of 200 Tournament chips
+Call Me Dave posted ante of 200 Tournament chips
+byu15xyz posted ante of 200 Tournament chips
+Poneck posted ante of 200 Tournament chips
+The button is moved to seat 6.
+Poneck posts the small blind [1200 Tournament chips]
+Vecdu posts the big blind [2400 Tournament chips]
+Vecdu, at seat 0, is in this hand with 31615 Tournament chips.
+awprob, at seat 1, is in this hand with 11582 Tournament chips.
+Razmazter, at seat 2, is in this hand (absent) with 1549 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 12770 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 9866 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 7498 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 2987 Tournament chips.
+Poneck, at seat 8, is in this hand with 49649 Tournament chips.
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ As Ad ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+awprob folds [2400 Tournament chips]
+Razmazter folds [1549 Tournament chips]
+QwertySpark raises [4800 Tournament chips]
+nhra6teen folds [4800 Tournament chips]
+Call Me Dave folds [4800 Tournament chips]
+byu15xyz folds [2987 Tournament chips]
+Poneck re-raises [8400 Tournament chips]
+Vecdu folds [7200 Tournament chips]
+QwertySpark raises all-in [7970 Tournament chips]
+Poneck calls [3170 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ As Ad ]
+Poneck shows [ 6c 8d ]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Qh ] board:[ 4c Qh]
+** Dealing Flop ** [ Qd ] board:[ 4c Qh Qd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 4c Qh Qd 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 4c Qh Qd 4h Tc]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ As Ad ] two pair, aces and queens, ten kicker
+Poneck shows [ 6c 8d ] two pair, queens and fours, ten kicker
+QwertySpark wins main pot 29540 Tournament chips with two pair, aces and queens, ten kicker.
+Seat 0: Vecdu (31615 Tournament chips) 
+Seat 1: awprob (11582 Tournament chips) 
+Seat 2: Razmazter (1549 Tournament chips) 
+Seat 3: QwertySpark (29540 Tournament chips) 
+Seat 4: nhra6teen (9866 Tournament chips) 
+Seat 5: Call Me Dave (7498 Tournament chips) 
+Seat 6: byu15xyz (2987 Tournament chips) 
+Seat 8: Poneck (38079 Tournament chips) 
+Game #23889789-72 ends
+Game #23889789-73 starts
+Seat 0: Vecdu (31615 Tournament chips) 
+Seat 1: awprob (11582 Tournament chips) 
+Seat 2: Razmazter (1549 Tournament chips) 
+Seat 3: QwertySpark (29540 Tournament chips) 
+Seat 4: nhra6teen (9866 Tournament chips) 
+Seat 5: Call Me Dave (7498 Tournament chips) 
+Seat 6: byu15xyz (2987 Tournament chips) 
+Seat 8: Poneck (38079 Tournament chips) 
+The button is at seat 6
+Vecdu posted ante of 300 Tournament chips
+Razmazter posted ante of 300 Tournament chips
+awprob posted ante of 300 Tournament chips
+QwertySpark posted ante of 300 Tournament chips
+nhra6teen posted ante of 300 Tournament chips
+byu15xyz posted ante of 300 Tournament chips
+Call Me Dave posted ante of 300 Tournament chips
+Poneck posted ante of 300 Tournament chips
+The button is moved to seat 8.
+Vecdu posts the small blind [1500 Tournament chips]
+awprob posts the big blind [3000 Tournament chips]
+Vecdu, at seat 0, is in this hand with 29815 Tournament chips.
+awprob, at seat 1, is in this hand with 8282 Tournament chips.
+Razmazter, at seat 2, is in this hand with 1249 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 29240 Tournament chips.
+nhra6teen, at seat 4, is in this hand with 9566 Tournament chips.
+Call Me Dave, at seat 5, is in this hand with 7198 Tournament chips.
+byu15xyz, at seat 6, is in this hand with 2687 Tournament chips.
+Poneck, at seat 8, is in this hand with 37779 Tournament chips.
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Vecdu is dealt: **
+awprob is dealt: **
+Razmazter is dealt: **
+
+nhra6teen is dealt: **
+Call Me Dave is dealt: **
+byu15xyz is dealt: **
+Poneck is dealt: **
+Dealt to Vecdu [ **** ]
+Dealt to awprob [ **** ]
+Dealt to Razmazter [ **** ]
+Dealt to QwertySpark [ Js 2h ]
+Dealt to nhra6teen [ **** ]
+Dealt to Call Me Dave [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Poneck [ **** ]
+Poneck: even a blind rat can find cheese
+Player Razmazter leaves the table with 1249 Tournament chips
+Player byu15xyz leaves the table with 2687 Tournament chips
+Player Call Me Dave leaves the table with 7198 Tournament chips
+Player nhra6teen leaves the table with 9566 Tournament chips
+Player awprob leaves the table with 8282 Tournament chips
+Player QwertySpark leaves the table with 29240 Tournament chips
+Player Vecdu leaves the table with 29815 Tournament chips
+Player Poneck leaves the table with 37779 Tournament chips

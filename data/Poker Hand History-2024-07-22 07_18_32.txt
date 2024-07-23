@@ -1,0 +1,134 @@
+Game#: 23949622
+SpeBanks raises [60 Tournament chips]
+Hooliganz88 re-raises [160 Tournament chips]
+QwertySpark calls [160 Tournament chips]
+wpmccaughtry folds [160 Tournament chips]
+MufasaMommy calls [150 Tournament chips]
+Moneysworth23 folds [140 Tournament chips]
+WCSGorilla calls [140 Tournament chips]
+SpeBanks calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Ad ] board:[ 8s Ad]
+** Dealing Flop ** [ 7c ] board:[ 8s Ad 7c]
+MufasaMommy checks
+WCSGorilla checks
+SpeBanks bets for 60 Tournament chips
+Hooliganz88 raises [120 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+MufasaMommy calls [120 Tournament chips]
+WCSGorilla folds [120 Tournament chips]
+SpeBanks raises all-in [780 Tournament chips]
+Hooliganz88 calls all-in [720 Tournament chips]
+QwertySpark folds [720 Tournament chips]
+MufasaMommy calls all-in [720 Tournament chips]
+Tournament all-in showdown -- players show:
+Hooliganz88 shows [ 9s 9c ]
+MufasaMommy shows [ Jc 5d ]
+SpeBanks shows [ Ah Js ]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 8s Ad 7c 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 8s Ad 7c 4d Ac]
+        (no action in this round)
+Round 4 is over.
+Hooliganz88 shows [ 9s 9c ] two pair, aces and nines, eight kicker
+MufasaMommy shows [ Jc 5d ] a pair of aces, jack/eight kickers
+SpeBanks shows [ Ah Js ] three aces, jack/eight kickers
+SpeBanks wins main pot 3460 Tournament chips with three aces, jack/eight kickers.
+Seat 0: Hooliganz88 (0 Tournament chips) 
+Seat 1: QwertySpark (720 Tournament chips) 
+Seat 2: wpmccaughtry (1000 Tournament chips) 
+Seat 3: MufasaMommy (0 Tournament chips) 
+Seat 4: Moneysworth23 (980 Tournament chips) 
+Seat 5: SU1C1D3K1NG (1000 Tournament chips) 
+Seat 6: WCSGorilla (840 Tournament chips) 
+Seat 7: SpeBanks (3460 Tournament chips) 
+Seat 8: Lilred724u (1000 Tournament chips) 
+Game #23949622-1 ends
+Player Moneysworth23 leaves the table with 980 Tournament chips
+Player Hooliganz88 leaves the table with 0 Tournament chips
+Player MufasaMommy leaves the table with 0 Tournament chips
+Game #23949622-2 starts
+Seat 1: QwertySpark (720 Tournament chips) 
+Seat 2: wpmccaughtry (1000 Tournament chips) 
+Seat 5: SU1C1D3K1NG (1000 Tournament chips) 
+Seat 6: WCSGorilla (840 Tournament chips) 
+Seat 7: SpeBanks (3460 Tournament chips) 
+Seat 8: Lilred724u (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+SU1C1D3K1NG posts the big blind [30 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 720 Tournament chips.
+wpmccaughtry, at seat 2, is in this hand with 1000 Tournament chips.
+SU1C1D3K1NG, at seat 5, is in this hand with 970 Tournament chips.
+WCSGorilla, at seat 6, is in this hand with 840 Tournament chips.
+SpeBanks, at seat 7, is in this hand with 3460 Tournament chips.
+Lilred724u, at seat 8, is in this hand with 1000 Tournament chips.
+SU1C1D3K1NG is dealt: **
+WCSGorilla is dealt: **
+SpeBanks is dealt: **
+Lilred724u is dealt: **
+
+wpmccaughtry is dealt: **
+SU1C1D3K1NG is dealt: **
+WCSGorilla is dealt: **
+SpeBanks is dealt: **
+Lilred724u is dealt: **
+
+wpmccaughtry is dealt: **
+Dealt to QwertySpark [ Kc Ts ]
+Dealt to wpmccaughtry [ **** ]
+Dealt to SU1C1D3K1NG [ **** ]
+Dealt to WCSGorilla [ **** ]
+Dealt to SpeBanks [ **** ]
+Dealt to Lilred724u [ **** ]
+WCSGorilla calls [30 Tournament chips]
+SpeBanks calls [30 Tournament chips]
+Lilred724u folds [30 Tournament chips]
+QwertySpark raises [210 Tournament chips]
+wpmccaughtry folds [210 Tournament chips]
+SU1C1D3K1NG calls [180 Tournament chips]
+WCSGorilla calls [180 Tournament chips]
+SpeBanks calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 5d ] board:[ Jc 5d]
+** Dealing Flop ** [ 3d ] board:[ Jc 5d 3d]
+SU1C1D3K1NG checks
+WCSGorilla checks
+SpeBanks checks
+QwertySpark goes all-in for 510 Tournament chips
+SU1C1D3K1NG raises all-in [790 Tournament chips]
+WCSGorilla folds [630 Tournament chips]
+SpeBanks calls [790 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kc Ts ]
+SU1C1D3K1NG shows [ 7d Ad ]
+SpeBanks shows [ 6d Td ]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ Jc 5d 3d 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Jc 5d 3d 3c 5s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kc Ts ] two pair, fives and threes, king kicker
+SU1C1D3K1NG shows [ 7d Ad ] two pair, fives and threes, ace kicker
+SpeBanks shows [ 6d Td ] two pair, fives and threes, jack kicker
+SU1C1D3K1NG wins main pot 2370 Tournament chips with two pair, fives and threes, ace kicker.
+SU1C1D3K1NG wins side pot #1 560 Tournament chips with two pair, fives and threes, ace kicker.
+Seat 1: QwertySpark (0 Tournament chips) 
+Seat 2: wpmccaughtry (1000 Tournament chips) 
+Seat 5: SU1C1D3K1NG (2930 Tournament chips) 
+Seat 6: WCSGorilla (630 Tournament chips) 
+Seat 7: SpeBanks (2460 Tournament chips) 
+Seat 8: Lilred724u (1000 Tournament chips) 
+Game #23949622-2 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player WCSGorilla leaves the table with 630 Tournament chips
+Player Lilred724u leaves the table with 1000 Tournament chips
+Player SU1C1D3K1NG leaves the table with 2930 Tournament chips
+Player SpeBanks leaves the table with 2460 Tournament chips
+Player wpmccaughtry leaves the table with 1000 Tournament chips

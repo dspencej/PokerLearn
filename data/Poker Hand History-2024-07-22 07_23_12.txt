@@ -1,0 +1,3355 @@
+Game#: 23828094
+HYSTYLE is dealt: **
+QwertySpark is dealt: 9s
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+The button is moved to seat 8.
+Game #23828094-1 starts
+Seat 0: HYSTYLE (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: bobkatluke (2000 Tournament chips) 
+Seat 3: HouseboatMan (2000 Tournament chips) 
+Seat 4: dale59111 (2000 Tournament chips) 
+Seat 5: EPICJJ (2000 Tournament chips) 
+Seat 6: RUFstr (2000 Tournament chips) 
+Seat 7: liisaamarie (2000 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+The button is at seat 8
+HYSTYLE posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1990 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2000 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2000 Tournament chips.
+dale59111, at seat 4, is in this hand with 2000 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 2000 Tournament chips.
+RUFstr, at seat 6, is in this hand with 2000 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2000 Tournament chips.
+DaWiz5150, at seat 8, is in this hand with 2000 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 5h 8s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to DaWiz5150 [ **** ]
+bobkatluke calls [10 Tournament chips]
+HouseboatMan folds [10 Tournament chips]
+dale59111 raises [129 Tournament chips]
+EPICJJ folds [129 Tournament chips]
+RUFstr calls [129 Tournament chips]
+liisaamarie folds [129 Tournament chips]
+DaWiz5150 folds [129 Tournament chips]
+HYSTYLE folds [124 Tournament chips]
+QwertySpark folds [119 Tournament chips]
+bobkatluke calls [119 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8c ] board:[ Qs 8c]
+** Dealing Flop ** [ Ks ] board:[ Qs 8c Ks]
+bobkatluke checks
+dale59111 bets for 276 Tournament chips
+RUFstr folds [276 Tournament chips]
+bobkatluke folds [276 Tournament chips]
+dale59111 is returned 276 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for dale59111 (Kc Qc Qs 8c Ks: two pair, kings and queens)
+dale59111 wins main pot 402 Tournament chips.
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1990 Tournament chips) 
+Seat 2: bobkatluke (1871 Tournament chips) 
+Seat 3: HouseboatMan (2000 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (2000 Tournament chips) 
+Seat 6: RUFstr (1871 Tournament chips) 
+Seat 7: liisaamarie (2000 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+Game #23828094-1 ends
+Game #23828094-2 starts
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1990 Tournament chips) 
+Seat 2: bobkatluke (1871 Tournament chips) 
+Seat 3: HouseboatMan (2000 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (2000 Tournament chips) 
+Seat 6: RUFstr (1871 Tournament chips) 
+Seat 7: liisaamarie (2000 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [5 Tournament chips]
+bobkatluke posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1985 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1861 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2000 Tournament chips.
+dale59111, at seat 4, is in this hand with 2273 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 2000 Tournament chips.
+RUFstr, at seat 6, is in this hand with 1871 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2000 Tournament chips.
+DaWiz5150, at seat 8, is in this hand with 2000 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 4d Qs ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to DaWiz5150 [ **** ]
+HouseboatMan calls [10 Tournament chips]
+dale59111 folds [10 Tournament chips]
+EPICJJ calls [10 Tournament chips]
+RUFstr raises [20 Tournament chips]
+liisaamarie folds [20 Tournament chips]
+DaWiz5150 folds [20 Tournament chips]
+HYSTYLE folds [20 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+bobkatluke calls [10 Tournament chips]
+HouseboatMan calls [10 Tournament chips]
+EPICJJ calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Ad ] board:[ 4s Ad]
+** Dealing Flop ** [ 3h ] board:[ 4s Ad 3h]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ checks
+RUFstr checks
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 4s Ad 3h As]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ checks
+RUFstr checks
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 4s Ad 3h As 6s]
+bobkatluke bets for 515 Tournament chips
+HouseboatMan folds [515 Tournament chips]
+EPICJJ folds [515 Tournament chips]
+RUFstr folds [515 Tournament chips]
+bobkatluke is returned 515 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for bobkatluke (4h 6d Ad As 6s: two pair, aces and sixes)
+bobkatluke wins main pot 85 Tournament chips.
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1985 Tournament chips) 
+Seat 2: bobkatluke (1936 Tournament chips) 
+Seat 3: HouseboatMan (1980 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (1980 Tournament chips) 
+Seat 6: RUFstr (1851 Tournament chips) 
+Seat 7: liisaamarie (2000 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+Game #23828094-2 ends
+Game #23828094-3 starts
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1985 Tournament chips) 
+Seat 2: bobkatluke (1936 Tournament chips) 
+Seat 3: HouseboatMan (1980 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (1980 Tournament chips) 
+Seat 6: RUFstr (1851 Tournament chips) 
+Seat 7: liisaamarie (2000 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [5 Tournament chips]
+HouseboatMan posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1985 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1931 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1970 Tournament chips.
+dale59111, at seat 4, is in this hand with 2273 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 1980 Tournament chips.
+RUFstr, at seat 6, is in this hand with 1851 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2000 Tournament chips.
+DaWiz5150, at seat 8, is in this hand with 2000 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 8s Ad ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to DaWiz5150 [ **** ]
+dale59111 folds [10 Tournament chips]
+EPICJJ calls [10 Tournament chips]
+RUFstr calls [10 Tournament chips]
+liisaamarie calls [10 Tournament chips]
+DaWiz5150 folds [10 Tournament chips]
+HYSTYLE folds [10 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+bobkatluke calls [55 Tournament chips]
+HouseboatMan calls [50 Tournament chips]
+EPICJJ calls [50 Tournament chips]
+RUFstr calls [50 Tournament chips]
+liisaamarie calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Kd ] board:[ 6c Kd]
+** Dealing Flop ** [ 3s ] board:[ 6c Kd 3s]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ checks
+RUFstr checks
+liisaamarie bets for 10 Tournament chips
+QwertySpark calls [10 Tournament chips]
+bobkatluke calls [10 Tournament chips]
+HouseboatMan calls [10 Tournament chips]
+EPICJJ folds [10 Tournament chips]
+RUFstr calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 6c Kd 3s 6s]
+bobkatluke checks
+HouseboatMan checks
+RUFstr checks
+liisaamarie checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 6c Kd 3s 6s Qd]
+bobkatluke checks
+HouseboatMan checks
+RUFstr checks
+liisaamarie checks
+QwertySpark checks
+Round 4 is over.
+bobkatluke shows [ 3c 4c ] two pair, sixes and threes
+Hand evaluation for bobkatluke (3c 6c Kd 3s 6s: two pair, sixes and threes)
+HouseboatMan doesn't show [ Ac 5h ]
+(HouseboatMan has Ac 5h.)
+RUFstr doesn't show [ 2c Ah ]
+(RUFstr has 2c Ah.)
+liisaamarie shows [ 8h 8d ] two pair, eights and sixes
+Hand evaluation for liisaamarie (8h 8d 6c Kd 6s: two pair, eights and sixes)
+QwertySpark doesn't show [ 8s Ad ]
+(QwertySpark has 8s Ad.)
+liisaamarie wins main pot 410 Tournament chips with two pair, eights and sixes, king kicker.
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1866 Tournament chips) 
+Seat 3: HouseboatMan (1910 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (1920 Tournament chips) 
+Seat 6: RUFstr (1781 Tournament chips) 
+Seat 7: liisaamarie (2340 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+Game #23828094-3 ends
+Game #23828094-4 starts
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1866 Tournament chips) 
+Seat 3: HouseboatMan (1910 Tournament chips) 
+Seat 4: dale59111 (2273 Tournament chips) 
+Seat 5: EPICJJ (1920 Tournament chips) 
+Seat 6: RUFstr (1781 Tournament chips) 
+Seat 7: liisaamarie (2340 Tournament chips) 
+Seat 8: DaWiz5150 (2000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [5 Tournament chips]
+dale59111 posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1915 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1866 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1905 Tournament chips.
+dale59111, at seat 4, is in this hand with 2263 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 1920 Tournament chips.
+RUFstr, at seat 6, is in this hand with 1781 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2340 Tournament chips.
+DaWiz5150, at seat 8, is in this hand with 2000 Tournament chips.
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 6h 3c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to DaWiz5150 [ **** ]
+EPICJJ calls [10 Tournament chips]
+RUFstr folds [10 Tournament chips]
+liisaamarie calls [10 Tournament chips]
+DaWiz5150 calls [10 Tournament chips]
+HYSTYLE folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+bobkatluke calls [10 Tournament chips]
+HouseboatMan calls [5 Tournament chips]
+dale59111 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 2d ] board:[ Qs 2d]
+** Dealing Flop ** [ Ac ] board:[ Qs 2d Ac]
+HouseboatMan bets for 30 Tournament chips
+dale59111 folds [30 Tournament chips]
+EPICJJ folds [30 Tournament chips]
+liisaamarie calls [30 Tournament chips]
+DaWiz5150 calls [30 Tournament chips]
+bobkatluke calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Qs 2d Ac 4h]
+HouseboatMan bets for 80 Tournament chips
+liisaamarie calls [80 Tournament chips]
+DaWiz5150 calls [80 Tournament chips]
+bobkatluke calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Qs 2d Ac 4h 3s]
+HouseboatMan bets for 140 Tournament chips
+liisaamarie folds [140 Tournament chips]
+DaWiz5150 calls [140 Tournament chips]
+bobkatluke folds [140 Tournament chips]
+Round 4 is over.
+HouseboatMan shows [ Ad 4d ] two pair, aces and fours
+Hand evaluation for HouseboatMan (Ad 4d Qs Ac 4h: two pair, aces and fours)
+DaWiz5150 doesn't show [ 3d Ah ]
+(DaWiz5150 has 3d Ah.)
+HouseboatMan wins main pot 780 Tournament chips with two pair, aces and fours, queen kicker.
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1746 Tournament chips) 
+Seat 3: HouseboatMan (2430 Tournament chips) 
+Seat 4: dale59111 (2263 Tournament chips) 
+Seat 5: EPICJJ (1910 Tournament chips) 
+Seat 6: RUFstr (1781 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+Seat 8: DaWiz5150 (1740 Tournament chips) 
+Game #23828094-4 ends
+Game #23828094-5 starts
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1746 Tournament chips) 
+Seat 3: HouseboatMan (2430 Tournament chips) 
+Seat 4: dale59111 (2263 Tournament chips) 
+Seat 5: EPICJJ (1910 Tournament chips) 
+Seat 6: RUFstr (1781 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+Seat 8: DaWiz5150 (1740 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+dale59111 posts the small blind [5 Tournament chips]
+EPICJJ posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1915 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1746 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2430 Tournament chips.
+dale59111, at seat 4, is in this hand with 2258 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 1900 Tournament chips.
+RUFstr, at seat 6, is in this hand with 1781 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2220 Tournament chips.
+DaWiz5150, at seat 8, is in this hand with 1740 Tournament chips.
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+DaWiz5150 is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 7d 6c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+Dealt to DaWiz5150 [ **** ]
+RUFstr raises [100 Tournament chips]
+liisaamarie folds [100 Tournament chips]
+DaWiz5150 calls [100 Tournament chips]
+HYSTYLE folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+bobkatluke calls [100 Tournament chips]
+HouseboatMan calls [100 Tournament chips]
+dale59111 calls [95 Tournament chips]
+EPICJJ calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 5d ] board:[ Jc 5d]
+** Dealing Flop ** [ 9h ] board:[ Jc 5d 9h]
+dale59111 checks
+EPICJJ checks
+RUFstr goes all-in for 1681 Tournament chips
+DaWiz5150 calls all-in [1640 Tournament chips]
+bobkatluke folds [1646 Tournament chips]
+HouseboatMan folds [1681 Tournament chips]
+dale59111 raises all-in [2163 Tournament chips]
+EPICJJ folds [1810 Tournament chips]
+dale59111 is returned 482 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+dale59111 shows [ Jh Th ]
+RUFstr shows [ Ks Kh ]
+DaWiz5150 shows [ Td Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ Jc 5d 9h 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ Jc 5d 9h 4c 2c]
+        (no action in this round)
+Round 4 is over.
+dale59111 shows [ Jh Th ] a pair of jacks, ten/nine kickers
+RUFstr shows [ Ks Kh ] a pair of kings, jack/nine kickers
+DaWiz5150 shows [ Td Jd ] a pair of jacks, ten/nine kickers
+RUFstr wins main pot 5520 Tournament chips with a pair of kings, jack/nine kickers.
+RUFstr wins side pot #1 82 Tournament chips with a pair of kings, jack/nine kickers.
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1646 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 4: dale59111 (482 Tournament chips) 
+Seat 5: EPICJJ (1810 Tournament chips) 
+Seat 6: RUFstr (5602 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+Seat 8: DaWiz5150 (0 Tournament chips) 
+Game #23828094-5 ends
+Player DaWiz5150 leaves the table with 0 Tournament chips
+Game #23828094-6 starts
+Seat 0: HYSTYLE (1995 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1646 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 4: dale59111 (482 Tournament chips) 
+Seat 5: EPICJJ (1810 Tournament chips) 
+Seat 6: RUFstr (5602 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+EPICJJ posts the small blind [5 Tournament chips]
+RUFstr posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1915 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1646 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2330 Tournament chips.
+dale59111, at seat 4, is in this hand with 482 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 1805 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5592 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2220 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Qh 2s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+liisaamarie folds [10 Tournament chips]
+HYSTYLE raises [35 Tournament chips]
+QwertySpark folds [35 Tournament chips]
+bobkatluke calls [35 Tournament chips]
+HouseboatMan folds [35 Tournament chips]
+dale59111 raises all-in [482 Tournament chips]
+EPICJJ folds [477 Tournament chips]
+RUFstr folds [472 Tournament chips]
+HYSTYLE calls [447 Tournament chips]
+bobkatluke folds [447 Tournament chips]
+Tournament all-in showdown -- players show:
+HYSTYLE shows [ Ts Tc ]
+dale59111 shows [ Jh Kh ]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 9d ] board:[ Kc 9d]
+** Dealing Flop ** [ 4c ] board:[ Kc 9d 4c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Kc 9d 4c 3d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Kc 9d 4c 3d 8s]
+        (no action in this round)
+Round 4 is over.
+HYSTYLE shows [ Ts Tc ] a pair of tens, king/nine kickers
+dale59111 shows [ Jh Kh ] a pair of kings, jack/nine kickers
+dale59111 wins main pot 1014 Tournament chips with a pair of kings, jack/nine kickers.
+Seat 0: HYSTYLE (1513 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1611 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 4: dale59111 (1014 Tournament chips) 
+Seat 5: EPICJJ (1805 Tournament chips) 
+Seat 6: RUFstr (5592 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+Game #23828094-6 ends
+Game #23828094-7 starts
+Seat 0: HYSTYLE (1513 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1611 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 4: dale59111 (1014 Tournament chips) 
+Seat 5: EPICJJ (1805 Tournament chips) 
+Seat 6: RUFstr (5592 Tournament chips) 
+Seat 7: liisaamarie (2220 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+RUFstr posts the small blind [5 Tournament chips]
+liisaamarie posts the big blind [10 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1513 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1915 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1611 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2330 Tournament chips.
+dale59111, at seat 4, is in this hand with 1014 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 1805 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5587 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2210 Tournament chips.
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+dale59111 is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 2d 9s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to dale59111 [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HYSTYLE raises [35 Tournament chips]
+QwertySpark folds [35 Tournament chips]
+bobkatluke calls [35 Tournament chips]
+HouseboatMan folds [35 Tournament chips]
+dale59111 calls [35 Tournament chips]
+EPICJJ calls [35 Tournament chips]
+RUFstr folds [30 Tournament chips]
+liisaamarie calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Jd ] board:[ Qh Jd]
+** Dealing Flop ** [ 4h ] board:[ Qh Jd 4h]
+liisaamarie checks
+HYSTYLE checks
+bobkatluke checks
+dale59111 checks
+EPICJJ bets for 180 Tournament chips
+liisaamarie calls [180 Tournament chips]
+HYSTYLE calls [180 Tournament chips]
+bobkatluke calls [180 Tournament chips]
+dale59111 calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Qh Jd 4h 9d]
+liisaamarie checks
+HYSTYLE checks
+bobkatluke checks
+dale59111 goes all-in for 799 Tournament chips
+EPICJJ raises all-in [1590 Tournament chips]
+liisaamarie folds [1590 Tournament chips]
+HYSTYLE folds [1298 Tournament chips]
+bobkatluke folds [1396 Tournament chips]
+EPICJJ is returned 791 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+dale59111 shows [ Td Ad ]
+EPICJJ shows [ 9c Qd ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Qh Jd 4h 9d 5s]
+        (no action in this round)
+Round 4 is over.
+dale59111 shows [ Td Ad ] ace/queen/jack high
+EPICJJ shows [ 9c Qd ] two pair, queens and nines, jack kicker
+EPICJJ wins main pot 2678 Tournament chips with two pair, queens and nines, jack kicker.
+Seat 0: HYSTYLE (1298 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1396 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 4: dale59111 (0 Tournament chips) 
+Seat 5: EPICJJ (3469 Tournament chips) 
+Seat 6: RUFstr (5587 Tournament chips) 
+Seat 7: liisaamarie (2005 Tournament chips) 
+Game #23828094-7 ends
+Player dale59111 leaves the table with 0 Tournament chips
+Game #23828094-8 starts
+Seat 0: HYSTYLE (1298 Tournament chips) 
+Seat 1: QwertySpark (1915 Tournament chips) 
+Seat 2: bobkatluke (1396 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3469 Tournament chips) 
+Seat 6: RUFstr (5587 Tournament chips) 
+Seat 7: liisaamarie (2005 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+liisaamarie posts the small blind [10 Tournament chips]
+HYSTYLE posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1278 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1915 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1396 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2330 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3469 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5587 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1995 Tournament chips.
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 6h 6c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+QwertySpark raises [80 Tournament chips]
+bobkatluke calls [80 Tournament chips]
+HouseboatMan folds [80 Tournament chips]
+EPICJJ calls [80 Tournament chips]
+RUFstr folds [80 Tournament chips]
+liisaamarie calls [70 Tournament chips]
+HYSTYLE calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ Ts ] board:[ 9s Ts]
+** Dealing Flop ** [ 8c ] board:[ 9s Ts 8c]
+liisaamarie bets for 20 Tournament chips
+HYSTYLE folds [20 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+bobkatluke calls [100 Tournament chips]
+EPICJJ calls [100 Tournament chips]
+liisaamarie calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 9s Ts 8c 2d]
+liisaamarie bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+bobkatluke calls [20 Tournament chips]
+EPICJJ calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 9s Ts 8c 2d Jh]
+liisaamarie bets for 880 Tournament chips
+QwertySpark folds [880 Tournament chips]
+bobkatluke folds [880 Tournament chips]
+EPICJJ folds [880 Tournament chips]
+liisaamarie is returned 880 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for liisaamarie (Qh 9s Ts 8c Jh: straight, queen high)
+liisaamarie wins main pot 880 Tournament chips.
+Seat 0: HYSTYLE (1218 Tournament chips) 
+Seat 1: QwertySpark (1715 Tournament chips) 
+Seat 2: bobkatluke (1196 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5587 Tournament chips) 
+Seat 7: liisaamarie (2685 Tournament chips) 
+Game #23828094-8 ends
+Game #23828094-9 starts
+Seat 0: HYSTYLE (1218 Tournament chips) 
+Seat 1: QwertySpark (1715 Tournament chips) 
+Seat 2: bobkatluke (1196 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5587 Tournament chips) 
+Seat 7: liisaamarie (2685 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+HYSTYLE posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1208 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1695 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1196 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2330 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3269 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5587 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2685 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Kd Ts ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+bobkatluke calls [20 Tournament chips]
+HouseboatMan folds [20 Tournament chips]
+EPICJJ folds [20 Tournament chips]
+RUFstr calls [20 Tournament chips]
+liisaamarie calls [20 Tournament chips]
+HYSTYLE calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Js ] board:[ Td Js]
+** Dealing Flop ** [ Qh ] board:[ Td Js Qh]
+HYSTYLE checks
+QwertySpark bets for 80 Tournament chips
+bobkatluke calls [80 Tournament chips]
+RUFstr calls [80 Tournament chips]
+liisaamarie calls [80 Tournament chips]
+HYSTYLE folds [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Td Js Qh 5c]
+QwertySpark bets for 210 Tournament chips
+bobkatluke calls [210 Tournament chips]
+RUFstr calls [210 Tournament chips]
+liisaamarie calls [210 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Td Js Qh 5c Tc]
+QwertySpark bets for 1260 Tournament chips
+bobkatluke folds [886 Tournament chips]
+RUFstr folds [1260 Tournament chips]
+liisaamarie folds [1260 Tournament chips]
+QwertySpark is returned 1260 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Kd Ts Td Qh Tc: three tens)
+QwertySpark wins main pot 1260 Tournament chips.
+Seat 0: HYSTYLE (1198 Tournament chips) 
+Seat 1: QwertySpark (2665 Tournament chips) 
+Seat 2: bobkatluke (886 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2375 Tournament chips) 
+Game #23828094-9 ends
+Game #23828094-10 starts
+Seat 0: HYSTYLE (1198 Tournament chips) 
+Seat 1: QwertySpark (2665 Tournament chips) 
+Seat 2: bobkatluke (886 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2375 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+bobkatluke posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1198 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2655 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 866 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2330 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3269 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5277 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2375 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 4d 6d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HouseboatMan folds [20 Tournament chips]
+EPICJJ folds [20 Tournament chips]
+RUFstr folds [20 Tournament chips]
+liisaamarie calls [20 Tournament chips]
+HYSTYLE calls [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+bobkatluke checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Th ] board:[ Js Th]
+** Dealing Flop ** [ 5d ] board:[ Js Th 5d]
+QwertySpark checks
+bobkatluke checks
+liisaamarie bets for 20 Tournament chips
+HYSTYLE folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+liisaamarie is returned 20 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for liisaamarie (Td 8c Js Th 5d: a pair of tens)
+liisaamarie wins main pot 80 Tournament chips.
+Seat 0: HYSTYLE (1178 Tournament chips) 
+Seat 1: QwertySpark (2645 Tournament chips) 
+Seat 2: bobkatluke (866 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2435 Tournament chips) 
+Game #23828094-10 ends
+Game #23828094-11 starts
+Seat 0: HYSTYLE (1178 Tournament chips) 
+Seat 1: QwertySpark (2645 Tournament chips) 
+Seat 2: bobkatluke (866 Tournament chips) 
+Seat 3: HouseboatMan (2330 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2435 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [10 Tournament chips]
+HouseboatMan posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1178 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2645 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 856 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2310 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3269 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5277 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2435 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 5s Ac ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+EPICJJ folds [20 Tournament chips]
+RUFstr folds [20 Tournament chips]
+liisaamarie folds [20 Tournament chips]
+HYSTYLE folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+bobkatluke calls [70 Tournament chips]
+HouseboatMan calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 7h ] board:[ Jc 7h]
+** Dealing Flop ** [ 4d ] board:[ Jc 7h 4d]
+bobkatluke has timed out - the hand is checked
+HouseboatMan checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Jc 7h 4d 9s]
+bobkatluke goes all-in for 786 Tournament chips
+HouseboatMan folds [786 Tournament chips]
+QwertySpark folds [786 Tournament chips]
+bobkatluke is returned 786 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bobkatluke (Jd 4h Jc 4d 9s: two pair, jacks and fours)
+bobkatluke wins main pot 240 Tournament chips.
+Seat 0: HYSTYLE (1178 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (1026 Tournament chips) 
+Seat 3: HouseboatMan (2250 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2435 Tournament chips) 
+Game #23828094-11 ends
+Game #23828094-12 starts
+Seat 0: HYSTYLE (1178 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (1026 Tournament chips) 
+Seat 3: HouseboatMan (2250 Tournament chips) 
+Seat 5: EPICJJ (3269 Tournament chips) 
+Seat 6: RUFstr (5277 Tournament chips) 
+Seat 7: liisaamarie (2435 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [10 Tournament chips]
+EPICJJ posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1178 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2565 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1026 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2240 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3249 Tournament chips.
+RUFstr, at seat 6, is in this hand with 5277 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2435 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Js 6c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+RUFstr calls [20 Tournament chips]
+liisaamarie raises [40 Tournament chips]
+HYSTYLE calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+bobkatluke folds [40 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ calls [20 Tournament chips]
+RUFstr calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 5s ] board:[ 7d 5s]
+** Dealing Flop ** [ Qh ] board:[ 7d 5s Qh]
+HouseboatMan checks
+EPICJJ checks
+RUFstr bets for 200 Tournament chips
+liisaamarie calls [200 Tournament chips]
+HYSTYLE raises all-in [1138 Tournament chips]
+HouseboatMan folds [1138 Tournament chips]
+EPICJJ folds [1138 Tournament chips]
+RUFstr calls [938 Tournament chips]
+liisaamarie folds [938 Tournament chips]
+Tournament all-in showdown -- players show:
+HYSTYLE shows [ Ts Qc ]
+RUFstr shows [ Qs 9d ]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 7d 5s Qh 6s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 7d 5s Qh 6s 7s]
+        (no action in this round)
+Round 4 is over.
+HYSTYLE shows [ Ts Qc ] two pair, queens and sevens, ten kicker
+RUFstr shows [ Qs 9d ] two pair, queens and sevens, nine kicker
+HYSTYLE wins main pot 2676 Tournament chips with two pair, queens and sevens, ten kicker.
+Seat 0: HYSTYLE (2676 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (1026 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (3229 Tournament chips) 
+Seat 6: RUFstr (4099 Tournament chips) 
+Seat 7: liisaamarie (2195 Tournament chips) 
+Game #23828094-12 ends
+Game #23828094-13 starts
+Seat 0: HYSTYLE (2676 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (1026 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (3229 Tournament chips) 
+Seat 6: RUFstr (4099 Tournament chips) 
+Seat 7: liisaamarie (2195 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+EPICJJ posts the small blind [10 Tournament chips]
+RUFstr posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2676 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2565 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1026 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2210 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3219 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4079 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2195 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 9s 6s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+liisaamarie raises [40 Tournament chips]
+HYSTYLE calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ calls [30 Tournament chips]
+RUFstr calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 8h ] board:[ 5s 8h]
+** Dealing Flop ** [ Ac ] board:[ 5s 8h Ac]
+EPICJJ checks
+RUFstr checks
+liisaamarie checks
+HYSTYLE checks
+bobkatluke checks
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 5s 8h Ac As]
+EPICJJ bets for 20 Tournament chips
+RUFstr folds [20 Tournament chips]
+liisaamarie folds [20 Tournament chips]
+HYSTYLE folds [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+EPICJJ is returned 20 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for EPICJJ (Qd 5d 5s Ac As: two pair, aces and fives)
+EPICJJ wins main pot 200 Tournament chips.
+Seat 0: HYSTYLE (2636 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (3389 Tournament chips) 
+Seat 6: RUFstr (4059 Tournament chips) 
+Seat 7: liisaamarie (2155 Tournament chips) 
+Game #23828094-13 ends
+Game #23828094-14 starts
+Seat 0: HYSTYLE (2636 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (3389 Tournament chips) 
+Seat 6: RUFstr (4059 Tournament chips) 
+Seat 7: liisaamarie (2155 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+RUFstr posts the small blind [10 Tournament chips]
+liisaamarie posts the big blind [20 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2636 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2565 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 986 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2210 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3389 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4049 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 2135 Tournament chips.
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 6d Kd ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HYSTYLE folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+bobkatluke folds [20 Tournament chips]
+HouseboatMan folds [20 Tournament chips]
+EPICJJ calls [20 Tournament chips]
+RUFstr calls [10 Tournament chips]
+liisaamarie checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 3h ] board:[ 5c 3h]
+** Dealing Flop ** [ 8d ] board:[ 5c 3h 8d]
+RUFstr checks
+liisaamarie bets for 20 Tournament chips
+EPICJJ calls [20 Tournament chips]
+RUFstr calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 5c 3h 8d Ks]
+RUFstr bets for 120 Tournament chips
+liisaamarie calls [120 Tournament chips]
+EPICJJ calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 5c 3h 8d Ks 2d]
+RUFstr bets for 480 Tournament chips
+liisaamarie folds [480 Tournament chips]
+EPICJJ calls [480 Tournament chips]
+Round 4 is over.
+RUFstr shows [ 7d Kh ] a pair of kings
+Hand evaluation for RUFstr (7d Kh 5c 8d Ks: a pair of kings)
+EPICJJ shows [ 5d 3d ] two pair, fives and threes
+Hand evaluation for EPICJJ (5d 3d 5c 3h Ks: two pair, fives and threes)
+EPICJJ wins main pot 1440 Tournament chips with two pair, fives and threes, king kicker.
+Seat 0: HYSTYLE (2636 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (4189 Tournament chips) 
+Seat 6: RUFstr (3419 Tournament chips) 
+Seat 7: liisaamarie (1995 Tournament chips) 
+Game #23828094-14 ends
+Game #23828094-15 starts
+Seat 0: HYSTYLE (2636 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2210 Tournament chips) 
+Seat 5: EPICJJ (4189 Tournament chips) 
+Seat 6: RUFstr (3419 Tournament chips) 
+Seat 7: liisaamarie (1995 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+liisaamarie posts the small blind [15 Tournament chips]
+HYSTYLE posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2606 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2565 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 986 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2210 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4189 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3419 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1980 Tournament chips.
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 8h 6s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+QwertySpark folds [30 Tournament chips]
+bobkatluke folds [30 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ calls [30 Tournament chips]
+RUFstr folds [30 Tournament chips]
+liisaamarie calls [15 Tournament chips]
+HYSTYLE raises [120 Tournament chips]
+HouseboatMan calls [120 Tournament chips]
+EPICJJ folds [120 Tournament chips]
+liisaamarie calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Kc ] board:[ 4h Kc]
+** Dealing Flop ** [ 5d ] board:[ 4h Kc 5d]
+liisaamarie bets for 30 Tournament chips
+HYSTYLE raises [570 Tournament chips]
+HouseboatMan raises all-in [2060 Tournament chips]
+liisaamarie folds [1815 Tournament chips]
+HYSTYLE folds [1490 Tournament chips]
+HouseboatMan is returned 1490 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for HouseboatMan (Kd 8c 4h Kc 5d: a pair of kings)
+HouseboatMan wins main pot 1650 Tournament chips.
+Seat 0: HYSTYLE (1916 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (3140 Tournament chips) 
+Seat 5: EPICJJ (4159 Tournament chips) 
+Seat 6: RUFstr (3419 Tournament chips) 
+Seat 7: liisaamarie (1815 Tournament chips) 
+Game #23828094-15 ends
+Game #23828094-16 starts
+Seat 0: HYSTYLE (1916 Tournament chips) 
+Seat 1: QwertySpark (2565 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (3140 Tournament chips) 
+Seat 5: EPICJJ (4159 Tournament chips) 
+Seat 6: RUFstr (3419 Tournament chips) 
+Seat 7: liisaamarie (1815 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+HYSTYLE posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1901 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2535 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 986 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 3140 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4159 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3419 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1815 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Ah 4d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+bobkatluke folds [30 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ folds [30 Tournament chips]
+RUFstr calls [30 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+liisaamarie calls [30 Tournament chips]
+HYSTYLE calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 4c ] board:[ Jd 4c]
+** Dealing Flop ** [ 3d ] board:[ Jd 4c 3d]
+HYSTYLE checks
+QwertySpark bets for 60 Tournament chips
+HouseboatMan calls [60 Tournament chips]
+RUFstr calls [60 Tournament chips]
+liisaamarie calls [60 Tournament chips]
+HYSTYLE calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ Jd 4c 3d 2d]
+HYSTYLE checks
+QwertySpark bets for 120 Tournament chips
+HouseboatMan calls [120 Tournament chips]
+RUFstr calls [120 Tournament chips]
+liisaamarie folds [120 Tournament chips]
+HYSTYLE calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Jd 4c 3d 2d 6s]
+HYSTYLE checks
+QwertySpark checks
+HouseboatMan bets for 150 Tournament chips
+RUFstr calls [150 Tournament chips]
+HYSTYLE folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Round 4 is over.
+HouseboatMan shows [ 2c Ad ] a pair of deuces
+Hand evaluation for HouseboatMan (2c Ad Jd 2d 6s: a pair of deuces)
+RUFstr shows [ 8s 8c ] a pair of eights
+Hand evaluation for RUFstr (8s 8c Jd 4c 6s: a pair of eights)
+RUFstr wins main pot 1230 Tournament chips with a pair of eights, jack/six kickers.
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2355 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2780 Tournament chips) 
+Seat 5: EPICJJ (4159 Tournament chips) 
+Seat 6: RUFstr (4289 Tournament chips) 
+Seat 7: liisaamarie (1725 Tournament chips) 
+Game #23828094-16 ends
+Game #23828094-17 starts
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2355 Tournament chips) 
+Seat 2: bobkatluke (986 Tournament chips) 
+Seat 3: HouseboatMan (2780 Tournament chips) 
+Seat 5: EPICJJ (4159 Tournament chips) 
+Seat 6: RUFstr (4289 Tournament chips) 
+Seat 7: liisaamarie (1725 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+bobkatluke posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1706 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2340 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 956 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2780 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4159 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4289 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1725 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 9s Th ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ calls [30 Tournament chips]
+RUFstr calls [30 Tournament chips]
+liisaamarie calls [30 Tournament chips]
+HYSTYLE folds [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+bobkatluke checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ 6s ] board:[ 7s 6s]
+** Dealing Flop ** [ 3c ] board:[ 7s 6s 3c]
+QwertySpark checks
+bobkatluke goes all-in for 956 Tournament chips
+HouseboatMan folds [956 Tournament chips]
+EPICJJ folds [956 Tournament chips]
+RUFstr folds [956 Tournament chips]
+liisaamarie calls [956 Tournament chips]
+QwertySpark folds [956 Tournament chips]
+Tournament all-in showdown -- players show:
+bobkatluke shows [ 4s 5c ]
+liisaamarie shows [ Ks Kc ]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 7s 6s 3c Ac]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 7s 6s 3c Ac 2c]
+        (no action in this round)
+Round 4 is over.
+bobkatluke shows [ 4s 5c ] straight, seven high
+liisaamarie shows [ Ks Kc ] a pair of kings, ace/seven kickers
+bobkatluke wins main pot 2092 Tournament chips with straight, seven high.
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (2092 Tournament chips) 
+Seat 3: HouseboatMan (2750 Tournament chips) 
+Seat 5: EPICJJ (4129 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (739 Tournament chips) 
+Game #23828094-17 ends
+Game #23828094-18 starts
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (2092 Tournament chips) 
+Seat 3: HouseboatMan (2750 Tournament chips) 
+Seat 5: EPICJJ (4129 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (739 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [15 Tournament chips]
+HouseboatMan posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1706 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2325 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2077 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2720 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4129 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4259 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 739 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 2s Qh ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+EPICJJ calls [30 Tournament chips]
+RUFstr folds [30 Tournament chips]
+liisaamarie calls [30 Tournament chips]
+HYSTYLE folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+bobkatluke calls [15 Tournament chips]
+HouseboatMan checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 5h ] board:[ 5s 5h]
+** Dealing Flop ** [ 6s ] board:[ 5s 5h 6s]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ checks
+liisaamarie bets for 30 Tournament chips
+bobkatluke calls [30 Tournament chips]
+HouseboatMan raises [90 Tournament chips]
+EPICJJ folds [90 Tournament chips]
+liisaamarie calls [60 Tournament chips]
+bobkatluke folds [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 5s 5h 6s 3h]
+HouseboatMan bets for 210 Tournament chips
+liisaamarie calls [210 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 5s 5h 6s 3h Ah]
+HouseboatMan bets for 630 Tournament chips
+liisaamarie calls all-in [409 Tournament chips]
+HouseboatMan is returned 221 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+HouseboatMan shows [ 5c Jc ]
+liisaamarie shows [ As Ad ]
+Round 4 is over.
+HouseboatMan shows [ 5c Jc ] three fives, ace/jack kickers
+liisaamarie shows [ As Ad ] full house, aces full of fives
+liisaamarie wins main pot 1568 Tournament chips with full house, aces full of fives.
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (2032 Tournament chips) 
+Seat 3: HouseboatMan (2011 Tournament chips) 
+Seat 5: EPICJJ (4099 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (1568 Tournament chips) 
+Game #23828094-18 ends
+Game #23828094-19 starts
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (2032 Tournament chips) 
+Seat 3: HouseboatMan (2011 Tournament chips) 
+Seat 5: EPICJJ (4099 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (1568 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [15 Tournament chips]
+EPICJJ posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1706 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2325 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2032 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1996 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4069 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4259 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1568 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 9c Ad ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+RUFstr calls [30 Tournament chips]
+liisaamarie calls [30 Tournament chips]
+HYSTYLE folds [30 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+bobkatluke calls [120 Tournament chips]
+HouseboatMan calls [105 Tournament chips]
+EPICJJ calls [90 Tournament chips]
+RUFstr calls [90 Tournament chips]
+liisaamarie calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 8h ] board:[ 7c 8h]
+** Dealing Flop ** [ 6c ] board:[ 7c 8h 6c]
+HouseboatMan bets for 60 Tournament chips
+EPICJJ calls [60 Tournament chips]
+RUFstr calls [60 Tournament chips]
+liisaamarie calls [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+bobkatluke calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 7c 8h 6c 7s]
+HouseboatMan checks
+EPICJJ checks
+RUFstr checks
+liisaamarie bets for 360 Tournament chips
+QwertySpark folds [360 Tournament chips]
+bobkatluke calls [360 Tournament chips]
+HouseboatMan calls [360 Tournament chips]
+EPICJJ folds [360 Tournament chips]
+RUFstr folds [360 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 7c 8h 6c 7s 4d]
+HouseboatMan checks
+liisaamarie checks
+bobkatluke checks
+Round 4 is over.
+HouseboatMan shows [ Ts Ac ] a pair of sevens
+Hand evaluation for HouseboatMan (Ts Ac 7c 8h 7s: a pair of sevens)
+liisaamarie shows [ 8d Jc ] two pair, eights and sevens
+Hand evaluation for liisaamarie (8d Jc 7c 8h 7s: two pair, eights and sevens)
+bobkatluke shows [ 8s Ks ] two pair, eights and sevens
+Hand evaluation for bobkatluke (8s Ks 7c 8h 7s: two pair, eights and sevens)
+bobkatluke wins main pot 2160 Tournament chips with two pair, eights and sevens, king kicker.
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1471 Tournament chips) 
+Seat 5: EPICJJ (3919 Tournament chips) 
+Seat 6: RUFstr (4079 Tournament chips) 
+Seat 7: liisaamarie (1028 Tournament chips) 
+Game #23828094-19 ends
+Game #23828094-20 starts
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1471 Tournament chips) 
+Seat 5: EPICJJ (3919 Tournament chips) 
+Seat 6: RUFstr (4079 Tournament chips) 
+Seat 7: liisaamarie (1028 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+EPICJJ posts the small blind [15 Tournament chips]
+RUFstr posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1706 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2145 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3652 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1471 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3904 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4049 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 1028 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 2d 8s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+liisaamarie folds [30 Tournament chips]
+HYSTYLE folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+bobkatluke folds [30 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ calls [15 Tournament chips]
+RUFstr checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Td ] board:[ Th Td]
+** Dealing Flop ** [ 7d ] board:[ Th Td 7d]
+EPICJJ checks
+RUFstr checks
+HouseboatMan bets for 60 Tournament chips
+EPICJJ folds [60 Tournament chips]
+RUFstr folds [60 Tournament chips]
+HouseboatMan is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for HouseboatMan (9c 9d Th Td 7d: two pair, tens and nines)
+HouseboatMan wins main pot 90 Tournament chips.
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3889 Tournament chips) 
+Seat 6: RUFstr (4049 Tournament chips) 
+Seat 7: liisaamarie (1028 Tournament chips) 
+Game #23828094-20 ends
+Game #23828094-21 starts
+Seat 0: HYSTYLE (1706 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3889 Tournament chips) 
+Seat 6: RUFstr (4049 Tournament chips) 
+Seat 7: liisaamarie (1028 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+RUFstr posts the small blind [15 Tournament chips]
+liisaamarie posts the big blind [30 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1706 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2145 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3652 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1531 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3889 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4034 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 998 Tournament chips.
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 4c Ad ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HYSTYLE calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+bobkatluke folds [30 Tournament chips]
+HouseboatMan folds [30 Tournament chips]
+EPICJJ calls [30 Tournament chips]
+RUFstr calls [15 Tournament chips]
+liisaamarie checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 9c ] board:[ 2s 9c]
+** Dealing Flop ** [ 4d ] board:[ 2s 9c 4d]
+RUFstr checks
+liisaamarie checks
+HYSTYLE checks
+EPICJJ checks
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 2s 9c 4d 7c]
+RUFstr checks
+liisaamarie checks
+HYSTYLE bets for 120 Tournament chips
+EPICJJ folds [120 Tournament chips]
+RUFstr folds [120 Tournament chips]
+liisaamarie calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 2s 9c 4d 7c 5s]
+liisaamarie checks
+HYSTYLE bets for 360 Tournament chips
+liisaamarie calls [360 Tournament chips]
+Round 4 is over.
+HYSTYLE shows [ As 7s ] a pair of sevens
+Hand evaluation for HYSTYLE (As 7s 9c 7c 5s: a pair of sevens)
+liisaamarie doesn't show [ 7h 3c ]
+(liisaamarie has 7h 3c.)
+HYSTYLE wins main pot 1080 Tournament chips with a pair of sevens, ace/nine kickers.
+Seat 0: HYSTYLE (2276 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3859 Tournament chips) 
+Seat 6: RUFstr (4019 Tournament chips) 
+Seat 7: liisaamarie (518 Tournament chips) 
+Game #23828094-21 ends
+Game #23828094-22 starts
+Seat 0: HYSTYLE (2276 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3652 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3859 Tournament chips) 
+Seat 6: RUFstr (4019 Tournament chips) 
+Seat 7: liisaamarie (518 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+liisaamarie posts the small blind [20 Tournament chips]
+HYSTYLE posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2236 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2145 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3652 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1531 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3859 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4019 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 498 Tournament chips.
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Kc 3d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+QwertySpark folds [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ folds [40 Tournament chips]
+RUFstr calls [40 Tournament chips]
+liisaamarie calls [20 Tournament chips]
+HYSTYLE checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9h ] board:[ Qh 9h]
+** Dealing Flop ** [ As ] board:[ Qh 9h As]
+liisaamarie checks
+HYSTYLE checks
+bobkatluke checks
+RUFstr bets for 80 Tournament chips
+liisaamarie calls [80 Tournament chips]
+HYSTYLE folds [80 Tournament chips]
+bobkatluke calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Qh 9h As 5c]
+liisaamarie checks
+bobkatluke checks
+RUFstr bets for 400 Tournament chips
+liisaamarie folds [398 Tournament chips]
+bobkatluke folds [400 Tournament chips]
+RUFstr is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for RUFstr (Kd Ah Qh 9h As: a pair of aces)
+RUFstr wins main pot 400 Tournament chips.
+Seat 0: HYSTYLE (2236 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3532 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3859 Tournament chips) 
+Seat 6: RUFstr (4299 Tournament chips) 
+Seat 7: liisaamarie (398 Tournament chips) 
+Game #23828094-22 ends
+Game #23828094-23 starts
+Seat 0: HYSTYLE (2236 Tournament chips) 
+Seat 1: QwertySpark (2145 Tournament chips) 
+Seat 2: bobkatluke (3532 Tournament chips) 
+Seat 3: HouseboatMan (1531 Tournament chips) 
+Seat 5: EPICJJ (3859 Tournament chips) 
+Seat 6: RUFstr (4299 Tournament chips) 
+Seat 7: liisaamarie (398 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+HYSTYLE posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2216 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2105 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3532 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1531 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3859 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4299 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 398 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 5c Td ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan calls [40 Tournament chips]
+EPICJJ calls [40 Tournament chips]
+RUFstr folds [40 Tournament chips]
+liisaamarie calls [40 Tournament chips]
+HYSTYLE folds [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9c ] board:[ Qh 9c]
+** Dealing Flop ** [ 3d ] board:[ Qh 9c 3d]
+QwertySpark checks
+bobkatluke checks
+HouseboatMan checks
+EPICJJ checks
+liisaamarie bets for 40 Tournament chips
+QwertySpark folds [40 Tournament chips]
+bobkatluke folds [40 Tournament chips]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ folds [40 Tournament chips]
+liisaamarie is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for liisaamarie (Jc Kh Qh 9c 3d: king high)
+liisaamarie wins main pot 220 Tournament chips.
+Seat 0: HYSTYLE (2216 Tournament chips) 
+Seat 1: QwertySpark (2105 Tournament chips) 
+Seat 2: bobkatluke (3492 Tournament chips) 
+Seat 3: HouseboatMan (1491 Tournament chips) 
+Seat 5: EPICJJ (3819 Tournament chips) 
+Seat 6: RUFstr (4299 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+Game #23828094-23 ends
+Game #23828094-24 starts
+Seat 0: HYSTYLE (2216 Tournament chips) 
+Seat 1: QwertySpark (2105 Tournament chips) 
+Seat 2: bobkatluke (3492 Tournament chips) 
+Seat 3: HouseboatMan (1491 Tournament chips) 
+Seat 5: EPICJJ (3819 Tournament chips) 
+Seat 6: RUFstr (4299 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [20 Tournament chips]
+bobkatluke posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2216 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2085 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3452 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1491 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 3819 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4299 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 578 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Ad 2c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ calls [40 Tournament chips]
+RUFstr calls [40 Tournament chips]
+liisaamarie folds [40 Tournament chips]
+HYSTYLE calls [40 Tournament chips]
+QwertySpark raises [140 Tournament chips]
+bobkatluke calls [120 Tournament chips]
+EPICJJ calls [120 Tournament chips]
+RUFstr folds [120 Tournament chips]
+HYSTYLE calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 6s ] board:[ 5s 6s]
+** Dealing Flop ** [ 9s ] board:[ 5s 6s 9s]
+QwertySpark checks
+bobkatluke checks
+EPICJJ checks
+HYSTYLE checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 5s 6s 9s Js]
+QwertySpark checks
+bobkatluke checks
+EPICJJ bets for 680 Tournament chips
+HYSTYLE folds [680 Tournament chips]
+QwertySpark folds [680 Tournament chips]
+bobkatluke folds [680 Tournament chips]
+EPICJJ is returned 680 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for EPICJJ (Ks 5s 6s 9s Js: flush, king high)
+EPICJJ wins main pot 680 Tournament chips.
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (1945 Tournament chips) 
+Seat 2: bobkatluke (3332 Tournament chips) 
+Seat 3: HouseboatMan (1491 Tournament chips) 
+Seat 5: EPICJJ (4339 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+Game #23828094-24 ends
+Game #23828094-25 starts
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (1945 Tournament chips) 
+Seat 2: bobkatluke (3332 Tournament chips) 
+Seat 3: HouseboatMan (1491 Tournament chips) 
+Seat 5: EPICJJ (4339 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [20 Tournament chips]
+HouseboatMan posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2056 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1945 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3312 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1451 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4339 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4259 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 578 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 4d 4c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+EPICJJ calls [40 Tournament chips]
+RUFstr folds [40 Tournament chips]
+liisaamarie folds [40 Tournament chips]
+HYSTYLE folds [40 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+bobkatluke calls [180 Tournament chips]
+HouseboatMan folds [160 Tournament chips]
+EPICJJ calls [160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 8s ] board:[ Ks 8s]
+** Dealing Flop ** [ 5h ] board:[ Ks 8s 5h]
+bobkatluke checks
+EPICJJ checks
+QwertySpark bets for 320 Tournament chips
+bobkatluke folds [320 Tournament chips]
+EPICJJ folds [320 Tournament chips]
+QwertySpark is returned 320 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (4d 4c Ks 8s 5h: a pair of fours)
+QwertySpark wins main pot 640 Tournament chips.
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2385 Tournament chips) 
+Seat 2: bobkatluke (3132 Tournament chips) 
+Seat 3: HouseboatMan (1451 Tournament chips) 
+Seat 5: EPICJJ (4139 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+Game #23828094-25 ends
+Game #23828094-26 starts
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2385 Tournament chips) 
+Seat 2: bobkatluke (3132 Tournament chips) 
+Seat 3: HouseboatMan (1451 Tournament chips) 
+Seat 5: EPICJJ (4139 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (578 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+(bobkatluke has entered the table, is no longer absent.)
+HouseboatMan posts the small blind [20 Tournament chips]
+EPICJJ posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2056 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2385 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 3132 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1431 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4099 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4259 Tournament chips.
+liisaamarie, at seat 7, is in this hand with 578 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+liisaamarie is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Kd 9h ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+Dealt to liisaamarie [ **** ]
+RUFstr folds [40 Tournament chips]
+liisaamarie calls [40 Tournament chips]
+HYSTYLE folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan calls [20 Tournament chips]
+EPICJJ checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 5h ] board:[ 4h 5h]
+** Dealing Flop ** [ 2c ] board:[ 4h 5h 2c]
+HouseboatMan checks
+EPICJJ checks
+liisaamarie bets for 200 Tournament chips
+QwertySpark folds [200 Tournament chips]
+bobkatluke calls [200 Tournament chips]
+HouseboatMan raises [532 Tournament chips]
+EPICJJ folds [532 Tournament chips]
+liisaamarie calls [332 Tournament chips]
+bobkatluke calls [332 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 4h 5h 2c Qs]
+HouseboatMan bets for 400 Tournament chips
+liisaamarie calls all-in [6 Tournament chips]
+bobkatluke folds [400 Tournament chips]
+HouseboatMan is returned 394 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+HouseboatMan shows [ 4d 2d ]
+liisaamarie shows [ 5d 6d ]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 4h 5h 2c Qs 4c]
+        (no action in this round)
+Round 4 is over.
+HouseboatMan shows [ 4d 2d ] full house, fours full of deuces
+liisaamarie shows [ 5d 6d ] two pair, fives and fours, queen kicker
+HouseboatMan wins main pot 1808 Tournament chips with full house, fours full of deuces.
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (4099 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+Seat 7: liisaamarie (0 Tournament chips) 
+Game #23828094-26 ends
+Player liisaamarie leaves the table with 0 Tournament chips
+Game #23828094-27 starts
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (4099 Tournament chips) 
+Seat 6: RUFstr (4259 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+EPICJJ posts the small blind [20 Tournament chips]
+RUFstr posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2056 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2345 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2560 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2681 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4079 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4219 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 7h 8d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HYSTYLE folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ calls [20 Tournament chips]
+RUFstr checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 2s ] board:[ 5d 2s]
+** Dealing Flop ** [ 9d ] board:[ 5d 2s 9d]
+EPICJJ checks
+RUFstr checks
+bobkatluke bets for 40 Tournament chips
+EPICJJ folds [40 Tournament chips]
+RUFstr calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 5d 2s 9d Th]
+RUFstr checks
+bobkatluke checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 5d 2s 9d Th 2d]
+RUFstr checks
+bobkatluke checks
+Round 4 is over.
+RUFstr shows [ 6d As ] a pair of deuces
+Hand evaluation for RUFstr (As 2s 9d Th 2d: a pair of deuces)
+bobkatluke shows [ 9c Jc ] two pair, nines and deuces
+Hand evaluation for bobkatluke (9c Jc 2s 9d 2d: two pair, nines and deuces)
+bobkatluke wins main pot 200 Tournament chips with two pair, nines and deuces, jack kicker.
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2680 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (4059 Tournament chips) 
+Seat 6: RUFstr (4179 Tournament chips) 
+Game #23828094-27 ends
+Game #23828094-28 starts
+Seat 0: HYSTYLE (2056 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2680 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (4059 Tournament chips) 
+Seat 6: RUFstr (4179 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+RUFstr posts the small blind [20 Tournament chips]
+HYSTYLE posts the big blind [40 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 2016 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2345 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2680 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2681 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4059 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 5s Jc ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+QwertySpark folds [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan calls [40 Tournament chips]
+EPICJJ calls [40 Tournament chips]
+RUFstr folds [20 Tournament chips]
+HYSTYLE checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 8h ] board:[ 8d 8h]
+** Dealing Flop ** [ 8s ] board:[ 8d 8h 8s]
+HYSTYLE checks
+bobkatluke checks
+HouseboatMan checks
+EPICJJ bets for 40 Tournament chips
+HYSTYLE folds [40 Tournament chips]
+bobkatluke calls [40 Tournament chips]
+HouseboatMan calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 8d 8h 8s 9s]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ bets for 40 Tournament chips
+bobkatluke calls [40 Tournament chips]
+HouseboatMan calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 8d 8h 8s 9s 3s]
+bobkatluke checks
+HouseboatMan checks
+EPICJJ bets for 40 Tournament chips
+bobkatluke folds [40 Tournament chips]
+HouseboatMan folds [40 Tournament chips]
+EPICJJ is returned 40 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for EPICJJ (9d 8d 8h 8s 9s: full house, eights full of nines)
+EPICJJ wins main pot 420 Tournament chips.
+Seat 0: HYSTYLE (2016 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2561 Tournament chips) 
+Seat 5: EPICJJ (4359 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+Game #23828094-28 ends
+Game #23828094-29 starts
+Seat 0: HYSTYLE (2016 Tournament chips) 
+Seat 1: QwertySpark (2345 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2561 Tournament chips) 
+Seat 5: EPICJJ (4359 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+HYSTYLE posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2285 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2560 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2561 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4359 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 4h Tc ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+bobkatluke folds [60 Tournament chips]
+HouseboatMan calls [60 Tournament chips]
+EPICJJ raises [270 Tournament chips]
+RUFstr folds [270 Tournament chips]
+HYSTYLE folds [240 Tournament chips]
+QwertySpark folds [210 Tournament chips]
+HouseboatMan folds [210 Tournament chips]
+EPICJJ is returned 210 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for EPICJJ (Kc Ks: a pair of kings)
+EPICJJ wins main pot 210 Tournament chips.
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2285 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2501 Tournament chips) 
+Seat 5: EPICJJ (4509 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+Game #23828094-29 ends
+Game #23828094-30 starts
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2285 Tournament chips) 
+Seat 2: bobkatluke (2560 Tournament chips) 
+Seat 3: HouseboatMan (2501 Tournament chips) 
+Seat 5: EPICJJ (4509 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+QwertySpark posts the small blind [30 Tournament chips]
+bobkatluke posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2255 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2500 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2501 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4509 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 3h Ts ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HouseboatMan folds [60 Tournament chips]
+EPICJJ folds [60 Tournament chips]
+RUFstr folds [60 Tournament chips]
+HYSTYLE folds [60 Tournament chips]
+QwertySpark raises [150 Tournament chips]
+bobkatluke calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Jd ] board:[ 6c Jd]
+** Dealing Flop ** [ 5c ] board:[ 6c Jd 5c]
+QwertySpark checks
+bobkatluke checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 6c Jd 5c Jc]
+QwertySpark bets for 300 Tournament chips
+bobkatluke folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ts 6c Jd 5c Jc: a pair of jacks)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (2380 Tournament chips) 
+Seat 3: HouseboatMan (2501 Tournament chips) 
+Seat 5: EPICJJ (4509 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+Game #23828094-30 ends
+Game #23828094-31 starts
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (2380 Tournament chips) 
+Seat 3: HouseboatMan (2501 Tournament chips) 
+Seat 5: EPICJJ (4509 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [30 Tournament chips]
+HouseboatMan posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2465 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 2350 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2441 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 4509 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Qc Ad ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+EPICJJ calls [60 Tournament chips]
+RUFstr folds [60 Tournament chips]
+HYSTYLE folds [60 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+bobkatluke calls [270 Tournament chips]
+HouseboatMan folds [240 Tournament chips]
+EPICJJ calls [240 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Ks ] board:[ 7s Ks]
+** Dealing Flop ** [ Jd ] board:[ 7s Ks Jd]
+bobkatluke checks
+EPICJJ checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 7s Ks Jd 4d]
+bobkatluke checks
+EPICJJ bets for 60 Tournament chips
+QwertySpark raises [150 Tournament chips]
+bobkatluke calls [150 Tournament chips]
+EPICJJ re-raises [180 Tournament chips]
+QwertySpark calls [90 Tournament chips]
+bobkatluke calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 7s Ks Jd 4d 4c]
+bobkatluke checks
+EPICJJ bets for 840 Tournament chips
+QwertySpark folds [840 Tournament chips]
+bobkatluke folds [840 Tournament chips]
+EPICJJ is returned 840 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for EPICJJ (Qs Ks Jd 4d 4c: a pair of fours)
+EPICJJ wins main pot 1680 Tournament chips.
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (1925 Tournament chips) 
+Seat 2: bobkatluke (1840 Tournament chips) 
+Seat 3: HouseboatMan (2441 Tournament chips) 
+Seat 5: EPICJJ (5649 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+Game #23828094-31 ends
+Game #23828094-32 starts
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (1925 Tournament chips) 
+Seat 2: bobkatluke (1840 Tournament chips) 
+Seat 3: HouseboatMan (2441 Tournament chips) 
+Seat 5: EPICJJ (5649 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [30 Tournament chips]
+EPICJJ posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1925 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1840 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2411 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 5589 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 6s 9c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+RUFstr folds [60 Tournament chips]
+HYSTYLE folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+bobkatluke calls [60 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 2h ] board:[ 4h 2h]
+** Dealing Flop ** [ 4s ] board:[ 4h 2h 4s]
+HouseboatMan checks
+EPICJJ checks
+bobkatluke checks
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 4h 2h 4s Ah]
+HouseboatMan bets for 120 Tournament chips
+EPICJJ folds [120 Tournament chips]
+bobkatluke calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 4h 2h 4s Ah 8s]
+HouseboatMan bets for 180 Tournament chips
+bobkatluke folds [180 Tournament chips]
+HouseboatMan is returned 180 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for HouseboatMan (Kd Kh 4h 4s Ah: two pair, kings and fours)
+HouseboatMan wins main pot 420 Tournament chips.
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (1925 Tournament chips) 
+Seat 2: bobkatluke (1660 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5589 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+Game #23828094-32 ends
+Game #23828094-33 starts
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (1925 Tournament chips) 
+Seat 2: bobkatluke (1660 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5589 Tournament chips) 
+Seat 6: RUFstr (4159 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+EPICJJ posts the small blind [30 Tournament chips]
+RUFstr posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1925 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1660 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2681 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 5559 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4099 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Kd Qh ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HYSTYLE calls [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+bobkatluke calls [60 Tournament chips]
+HouseboatMan folds [60 Tournament chips]
+EPICJJ calls [30 Tournament chips]
+RUFstr checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Kc ] board:[ Jc Kc]
+** Dealing Flop ** [ 4s ] board:[ Jc Kc 4s]
+EPICJJ checks
+RUFstr checks
+HYSTYLE checks
+QwertySpark bets for 300 Tournament chips
+bobkatluke calls [300 Tournament chips]
+EPICJJ folds [300 Tournament chips]
+RUFstr folds [300 Tournament chips]
+HYSTYLE folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Jc Kc 4s Qc]
+QwertySpark checks
+bobkatluke checks
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Jc Kc 4s Qc 9s]
+QwertySpark bets for 60 Tournament chips
+bobkatluke folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Kd Qh Jc Kc Qc: two pair, kings and queens)
+QwertySpark wins main pot 900 Tournament chips.
+Seat 0: HYSTYLE (1926 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (1300 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4099 Tournament chips) 
+Game #23828094-33 ends
+Game #23828094-34 starts
+Seat 0: HYSTYLE (1926 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (1300 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4099 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+RUFstr posts the small blind [30 Tournament chips]
+HYSTYLE posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1866 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2465 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1300 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2681 Tournament chips.
+EPICJJ, at seat 5, is in this hand with 5529 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4069 Tournament chips.
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 3h As ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+QwertySpark folds [60 Tournament chips]
+bobkatluke calls [60 Tournament chips]
+HouseboatMan folds [60 Tournament chips]
+EPICJJ folds [60 Tournament chips]
+RUFstr folds [30 Tournament chips]
+HYSTYLE checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 8s ] board:[ Tc 8s]
+** Dealing Flop ** [ Kh ] board:[ Tc 8s Kh]
+HYSTYLE checks
+bobkatluke checks
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ Tc 8s Kh 6s]
+HYSTYLE checks
+bobkatluke checks
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Tc 8s Kh 6s 7h]
+HYSTYLE checks
+bobkatluke checks
+Round 4 is over.
+HYSTYLE shows [ 8h 7s ] two pair, eights and sevens
+Hand evaluation for HYSTYLE (8h 7s 8s Kh 7h: two pair, eights and sevens)
+bobkatluke doesn't show [ Jd Qh ]
+(bobkatluke has Jd Qh.)
+HYSTYLE wins main pot 150 Tournament chips with two pair, eights and sevens, king kicker.
+Seat 0: HYSTYLE (2016 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (1240 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4069 Tournament chips) 
+Game #23828094-34 ends
+Game #23828094-35 starts
+Seat 0: HYSTYLE (2016 Tournament chips) 
+Seat 1: QwertySpark (2465 Tournament chips) 
+Seat 2: bobkatluke (1240 Tournament chips) 
+Seat 3: HouseboatMan (2681 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4069 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+HYSTYLE posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2405 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1240 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2681 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5529 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4069 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 5s Qs ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+bobkatluke folds [60 Tournament chips]
+HouseboatMan calls [60 Tournament chips]
+EPICJJ folds [60 Tournament chips]
+RUFstr folds [60 Tournament chips]
+HYSTYLE folds [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Qc ] board:[ 6s Qc]
+** Dealing Flop ** [ 7h ] board:[ 6s Qc 7h]
+QwertySpark bets for 240 Tournament chips
+HouseboatMan folds [240 Tournament chips]
+QwertySpark is returned 240 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (5s Qs 6s Qc 7h: a pair of queens)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2555 Tournament chips) 
+Seat 2: bobkatluke (1240 Tournament chips) 
+Seat 3: HouseboatMan (2621 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4069 Tournament chips) 
+Game #23828094-35 ends
+Game #23828094-36 starts
+Seat 0: HYSTYLE (1986 Tournament chips) 
+Seat 1: QwertySpark (2555 Tournament chips) 
+Seat 2: bobkatluke (1240 Tournament chips) 
+Seat 3: HouseboatMan (2621 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4069 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+QwertySpark posts the small blind [30 Tournament chips]
+bobkatluke posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1986 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2525 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1180 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2621 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5529 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4069 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 2s Qh ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HouseboatMan folds [60 Tournament chips]
+EPICJJ folds [60 Tournament chips]
+RUFstr calls [60 Tournament chips]
+HYSTYLE calls [60 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+bobkatluke checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Jd ] board:[ 7h Jd]
+** Dealing Flop ** [ 8c ] board:[ 7h Jd 8c]
+bobkatluke checks
+RUFstr bets for 210 Tournament chips
+HYSTYLE folds [210 Tournament chips]
+bobkatluke folds [210 Tournament chips]
+RUFstr is returned 210 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for RUFstr (Jc Th 7h Jd 8c: a pair of jacks)
+RUFstr wins main pot 210 Tournament chips.
+Seat 0: HYSTYLE (1926 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (1180 Tournament chips) 
+Seat 3: HouseboatMan (2621 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+Game #23828094-36 ends
+Game #23828094-37 starts
+Seat 0: HYSTYLE (1926 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (1180 Tournament chips) 
+Seat 3: HouseboatMan (2621 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [30 Tournament chips]
+HouseboatMan posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 1926 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2525 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1150 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 2561 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5529 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4219 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 9h 6d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+EPICJJ folds [60 Tournament chips]
+RUFstr folds [60 Tournament chips]
+HYSTYLE raises [210 Tournament chips]
+QwertySpark folds [210 Tournament chips]
+bobkatluke calls [180 Tournament chips]
+HouseboatMan re-raises [300 Tournament chips]
+HYSTYLE calls [150 Tournament chips]
+bobkatluke calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Qs ] board:[ 4s Qs]
+** Dealing Flop ** [ Jh ] board:[ 4s Qs Jh]
+bobkatluke checks
+HouseboatMan checks
+HYSTYLE bets for 1080 Tournament chips
+bobkatluke folds [820 Tournament chips]
+HouseboatMan calls [1080 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 4s Qs Jh Ah]
+HouseboatMan goes all-in for 1181 Tournament chips
+HYSTYLE calls all-in [486 Tournament chips]
+HouseboatMan is returned 695 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+HYSTYLE shows [ Qd Qh ]
+HouseboatMan shows [ Ac Kd ]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 4s Qs Jh Ah 5h]
+        (no action in this round)
+Round 4 is over.
+HYSTYLE shows [ Qd Qh ] three queens, ace/jack kickers
+HouseboatMan shows [ Ac Kd ] a pair of aces, king/queen kickers
+HYSTYLE wins main pot 4212 Tournament chips with three queens, ace/jack kickers.
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+Game #23828094-37 ends
+Game #23828094-38 starts
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5529 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [30 Tournament chips]
+EPICJJ posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4212 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2525 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 820 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 665 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5469 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4219 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 3d 7c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+RUFstr folds [60 Tournament chips]
+HYSTYLE folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+bobkatluke folds [60 Tournament chips]
+HouseboatMan calls [30 Tournament chips]
+EPICJJ folds
+round 1 is over.
+Hand evaluation for HouseboatMan (7d 4c: seven high)
+HouseboatMan wins main pot 120 Tournament chips.
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (755 Tournament chips) 
+Seat 5: EPICJJ (5469 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+Game #23828094-38 ends
+Game #23828094-39 starts
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (755 Tournament chips) 
+Seat 5: EPICJJ (5469 Tournament chips) 
+Seat 6: RUFstr (4219 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+EPICJJ posts the small blind [30 Tournament chips]
+RUFstr posts the big blind [60 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4212 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2525 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 820 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 755 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5439 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4159 Tournament chips.
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Qc 8d ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HYSTYLE folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+bobkatluke folds [60 Tournament chips]
+HouseboatMan calls [60 Tournament chips]
+EPICJJ folds [30 Tournament chips]
+RUFstr checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 5c ] board:[ 4h 5c]
+** Dealing Flop ** [ 4c ] board:[ 4h 5c 4c]
+RUFstr checks
+HouseboatMan checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 4h 5c 4c 8c]
+RUFstr checks
+HouseboatMan has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 4h 5c 4c 8c Qs]
+RUFstr checks
+HouseboatMan checks
+Round 4 is over.
+RUFstr shows [ Kd 8h ] two pair, eights and fours
+Hand evaluation for RUFstr (Kd 8h 4h 4c 8c: two pair, eights and fours)
+HouseboatMan doesn't show [ Th 9h ]
+(HouseboatMan has Th 9h.)
+RUFstr wins main pot 150 Tournament chips with two pair, eights and fours, king kicker.
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (4309 Tournament chips) 
+Game #23828094-39 ends
+Game #23828094-40 starts
+Seat 0: HYSTYLE (4212 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (820 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (4309 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+RUFstr posts the small blind [50 Tournament chips]
+HYSTYLE posts the big blind [100 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4112 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2525 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 820 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 695 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5439 Tournament chips.
+RUFstr, at seat 6, is in this hand with 4259 Tournament chips.
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 7d 3c ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+QwertySpark folds [100 Tournament chips]
+bobkatluke calls [100 Tournament chips]
+HouseboatMan folds [100 Tournament chips]
+EPICJJ folds [100 Tournament chips]
+RUFstr calls [50 Tournament chips]
+HYSTYLE checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Jc ] board:[ 4d Jc]
+** Dealing Flop ** [ Qh ] board:[ 4d Jc Qh]
+RUFstr bets for 300 Tournament chips
+HYSTYLE folds [300 Tournament chips]
+bobkatluke calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 4d Jc Qh Ac]
+RUFstr checks
+bobkatluke checks
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 4d Jc Qh Ac Td]
+RUFstr checks
+bobkatluke goes all-in for 420 Tournament chips
+RUFstr folds [420 Tournament chips]
+bobkatluke is returned 420 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for bobkatluke (Kc Jd Qh Ac Td: straight, ace high)
+bobkatluke wins main pot 900 Tournament chips.
+Seat 0: HYSTYLE (4112 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (1320 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3909 Tournament chips) 
+Game #23828094-40 ends
+Game #23828094-41 starts
+Seat 0: HYSTYLE (4112 Tournament chips) 
+Seat 1: QwertySpark (2525 Tournament chips) 
+Seat 2: bobkatluke (1320 Tournament chips) 
+Seat 3: HouseboatMan (695 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3909 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+HYSTYLE posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4062 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2425 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1320 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 695 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5439 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3909 Tournament chips.
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 3c 6s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+bobkatluke calls [100 Tournament chips]
+HouseboatMan calls [100 Tournament chips]
+EPICJJ folds [100 Tournament chips]
+RUFstr calls [100 Tournament chips]
+HYSTYLE calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Jc ] board:[ Td Jc]
+** Dealing Flop ** [ 5c ] board:[ Td Jc 5c]
+HYSTYLE checks
+QwertySpark checks
+bobkatluke checks
+HouseboatMan goes all-in for 595 Tournament chips
+RUFstr calls [595 Tournament chips]
+HYSTYLE folds [595 Tournament chips]
+QwertySpark folds [595 Tournament chips]
+bobkatluke folds [595 Tournament chips]
+Tournament all-in showdown -- players show:
+HouseboatMan shows [ Kd 5h ]
+RUFstr shows [ Th 4h ]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Td Jc 5c 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Td Jc 5c 6h Ks]
+        (no action in this round)
+Round 4 is over.
+HouseboatMan shows [ Kd 5h ] two pair, kings and fives, jack kicker
+RUFstr shows [ Th 4h ] a pair of tens, king/jack kickers
+HouseboatMan wins main pot 1690 Tournament chips with two pair, kings and fives, jack kicker.
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2425 Tournament chips) 
+Seat 2: bobkatluke (1220 Tournament chips) 
+Seat 3: HouseboatMan (1690 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3214 Tournament chips) 
+Game #23828094-41 ends
+Game #23828094-42 starts
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2425 Tournament chips) 
+Seat 2: bobkatluke (1220 Tournament chips) 
+Seat 3: HouseboatMan (1690 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3214 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 0.
+QwertySpark posts the small blind [50 Tournament chips]
+bobkatluke posts the big blind [100 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4012 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2375 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1120 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1690 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5439 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3214 Tournament chips.
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ 2d Ks ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+HouseboatMan folds [100 Tournament chips]
+EPICJJ folds [100 Tournament chips]
+RUFstr calls [100 Tournament chips]
+HYSTYLE folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+bobkatluke checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 7c ] board:[ 5h 7c]
+** Dealing Flop ** [ Td ] board:[ 5h 7c Td]
+QwertySpark checks
+bobkatluke checks
+RUFstr checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 5h 7c Td 8c]
+QwertySpark checks
+bobkatluke checks
+RUFstr bets for 100 Tournament chips
+QwertySpark folds [100 Tournament chips]
+bobkatluke calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 5h 7c Td 8c 8s]
+bobkatluke checks
+RUFstr checks
+Round 4 is over.
+bobkatluke shows [ 6d As ] a pair of eights
+Hand evaluation for bobkatluke (As 7c Td 8c 8s: a pair of eights)
+RUFstr shows [ 2c Ac ] a pair of eights
+Hand evaluation for RUFstr (Ac 7c Td 8c 8s: a pair of eights)
+bobkatluke wins main pot 250 Tournament chips of a 500 Tournament chips pot with a pair of eights, ace/ten kickers.
+RUFstr wins main pot 250 Tournament chips of a 500 Tournament chips pot with a pair of eights, ace/ten kickers.
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (1270 Tournament chips) 
+Seat 3: HouseboatMan (1690 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3264 Tournament chips) 
+Game #23828094-42 ends
+Game #23828094-43 starts
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2325 Tournament chips) 
+Seat 2: bobkatluke (1270 Tournament chips) 
+Seat 3: HouseboatMan (1690 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3264 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+bobkatluke posts the small blind [50 Tournament chips]
+HouseboatMan posts the big blind [100 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4012 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2325 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1220 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1590 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5439 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3264 Tournament chips.
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Th Qd ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+EPICJJ folds [100 Tournament chips]
+RUFstr folds [100 Tournament chips]
+HYSTYLE folds [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+bobkatluke folds [350 Tournament chips]
+HouseboatMan folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Th Qd: queen high)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2475 Tournament chips) 
+Seat 2: bobkatluke (1220 Tournament chips) 
+Seat 3: HouseboatMan (1590 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3264 Tournament chips) 
+Game #23828094-43 ends
+Game #23828094-44 starts
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (2475 Tournament chips) 
+Seat 2: bobkatluke (1220 Tournament chips) 
+Seat 3: HouseboatMan (1590 Tournament chips) 
+Seat 5: EPICJJ (5439 Tournament chips) 
+Seat 6: RUFstr (3264 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+HouseboatMan posts the small blind [50 Tournament chips]
+EPICJJ posts the big blind [100 Tournament chips]
+HYSTYLE, at seat 0, is in this hand with 4012 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2475 Tournament chips.
+bobkatluke, at seat 2, is in this hand with 1220 Tournament chips.
+HouseboatMan, at seat 3, is in this hand with 1540 Tournament chips.
+EPICJJ, at seat 5, is in this hand (absent) with 5339 Tournament chips.
+RUFstr, at seat 6, is in this hand with 3264 Tournament chips.
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+HouseboatMan is dealt: **
+EPICJJ is dealt: **
+RUFstr is dealt: **
+HYSTYLE is dealt: **
+
+bobkatluke is dealt: **
+Dealt to HYSTYLE [ **** ]
+Dealt to QwertySpark [ Ac 7s ]
+Dealt to bobkatluke [ **** ]
+Dealt to HouseboatMan [ **** ]
+Dealt to EPICJJ [ **** ]
+Dealt to RUFstr [ **** ]
+RUFstr calls [100 Tournament chips]
+HYSTYLE folds [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+bobkatluke calls [100 Tournament chips]
+HouseboatMan calls [50 Tournament chips]
+EPICJJ folds
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Td ] board:[ Ah Td]
+** Dealing Flop ** [ 2c ] board:[ Ah Td 2c]
+HouseboatMan checks
+RUFstr checks
+QwertySpark checks
+bobkatluke checks
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Ah Td 2c Qc]
+HouseboatMan checks
+RUFstr bets for 500 Tournament chips
+QwertySpark raises all-in [2375 Tournament chips]
+bobkatluke folds [1120 Tournament chips]
+HouseboatMan folds [1490 Tournament chips]
+RUFstr calls [1875 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ac 7s ]
+RUFstr shows [ Qs 2s ]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Ah Td 2c Qc 9h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ac 7s ] a pair of aces, queen/ten kickers
+RUFstr shows [ Qs 2s ] two pair, queens and deuces, ace kicker
+RUFstr wins main pot 5250 Tournament chips with two pair, queens and deuces, ace kicker.
+Seat 0: HYSTYLE (4012 Tournament chips) 
+Seat 1: QwertySpark (0 Tournament chips) 
+Seat 2: bobkatluke (1120 Tournament chips) 
+Seat 3: HouseboatMan (1490 Tournament chips) 
+Seat 5: EPICJJ (5339 Tournament chips) 
+Seat 6: RUFstr (6039 Tournament chips) 
+Game #23828094-44 ends
+Player QwertySpark leaves the table with 0 Tournament chips

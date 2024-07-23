@@ -1,0 +1,749 @@
+Game#: 23983555
+TrashplayerAz is dealt: **
+Crixus73 is dealt: **
+mkie is dealt: **
+rmascarena is dealt: **
+Pleiades Stars is dealt: **
+QwertySpark is dealt: Qs
+Victorr55 is dealt: **
+damien924 is dealt: **
+The button is moved to seat 6.
+Game #23983555-1 starts
+Seat 0: TrashplayerAz (1000 Tournament chips) 
+Seat 1: Crixus73 (1000 Tournament chips) 
+Seat 3: mkie (1000 Tournament chips) 
+Seat 4: rmascarena (1000 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: Victorr55 (1000 Tournament chips) 
+Seat 8: damien924 (1000 Tournament chips) 
+The button is at seat 6
+Victorr55 posts the small blind [5 Tournament chips]
+damien924 posts the big blind [10 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 1000 Tournament chips.
+Crixus73, at seat 1, is in this hand with 1000 Tournament chips.
+mkie, at seat 3, is in this hand with 1000 Tournament chips.
+rmascarena, at seat 4, is in this hand with 1000 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1000 Tournament chips.
+Victorr55, at seat 7, is in this hand (absent) with 995 Tournament chips.
+damien924, at seat 8, is in this hand with 990 Tournament chips.
+Victorr55 is dealt: **
+damien924 is dealt: **
+TrashplayerAz is dealt: **
+Crixus73 is dealt: **
+mkie is dealt: **
+rmascarena is dealt: **
+Pleiades Stars is dealt: **
+
+Victorr55 is dealt: **
+damien924 is dealt: **
+TrashplayerAz is dealt: **
+Crixus73 is dealt: **
+mkie is dealt: **
+rmascarena is dealt: **
+Pleiades Stars is dealt: **
+
+Dealt to TrashplayerAz [ **** ]
+Dealt to Crixus73 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to rmascarena [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ 2h 3c ]
+Dealt to Victorr55 [ **** ]
+Dealt to damien924 [ **** ]
+TrashplayerAz raises all-in [1000 Tournament chips]
+Crixus73 calls all-in [1000 Tournament chips]
+mkie folds [1000 Tournament chips]
+rmascarena calls all-in [1000 Tournament chips]
+Pleiades Stars folds [1000 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+Victorr55 folds [995 Tournament chips]
+damien924 folds [990 Tournament chips]
+Tournament all-in showdown -- players show:
+TrashplayerAz shows [ 9s Tc ]
+Crixus73 shows [ 4s 4c ]
+rmascarena shows [ 9d 9c ]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 9h ] board:[ Ks 9h]
+** Dealing Flop ** [ Qh ] board:[ Ks 9h Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Ks 9h Qh 7h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ Ks 9h Qh 7h Jc]
+        (no action in this round)
+Round 4 is over.
+TrashplayerAz shows [ 9s Tc ] straight, king high
+Crixus73 shows [ 4s 4c ] a pair of fours, king/queen kickers
+rmascarena shows [ 9d 9c ] three nines, king/queen kickers
+TrashplayerAz wins main pot 3015 Tournament chips with straight, king high.
+Seat 0: TrashplayerAz (3015 Tournament chips) 
+Seat 1: Crixus73 (0 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (1000 Tournament chips) 
+Seat 4: rmascarena (0 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: Victorr55 (995 Tournament chips) 
+Seat 8: damien924 (990 Tournament chips) 
+Game #23983555-1 ends
+Player Victorr55 leaves the table with 995 Tournament chips
+Player Crixus73 leaves the table with 0 Tournament chips
+Player rmascarena leaves the table with 0 Tournament chips
+Game #23983555-2 starts
+Seat 0: TrashplayerAz (3015 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (1000 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1000 Tournament chips) 
+Seat 7: bobster304 (1000 Tournament chips) 
+Seat 8: damien924 (990 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+damien924 posts the small blind [5 Tournament chips]
+TrashplayerAz posts the big blind [10 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 3005 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+mkie, at seat 3, is in this hand with 1000 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1000 Tournament chips.
+bobster304, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+damien924, at seat 8, is in this hand (absent) with 985 Tournament chips.
+damien924 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+damien924 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ 3c 2c ]
+Dealt to bobster304 [ **** ]
+Dealt to damien924 [ **** ]
+PIGMAN36 folds [10 Tournament chips]
+mkie calls [10 Tournament chips]
+Pleiades Stars folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+bobster304 folds [10 Tournament chips]
+damien924 folds [5 Tournament chips]
+(damien924 has entered the table, is no longer absent.)
+TrashplayerAz has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 2d ] board:[ Ad 2d]
+** Dealing Flop ** [ 8s ] board:[ Ad 2d 8s]
+TrashplayerAz has timed out - the hand is checked
+mkie checks
+QwertySpark bets for 45 Tournament chips
+TrashplayerAz folds [45 Tournament chips]
+mkie folds [45 Tournament chips]
+QwertySpark is returned 45 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (3c 2c Ad 2d 8s: a pair of deuces)
+QwertySpark wins main pot 35 Tournament chips.
+Seat 0: TrashplayerAz (3005 Tournament chips) 
+Seat 1: jefedelmar (1000 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1000 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (1000 Tournament chips) 
+Seat 8: damien924 (985 Tournament chips) 
+Game #23983555-2 ends
+Game #23983555-3 starts
+Seat 0: TrashplayerAz (3005 Tournament chips) 
+Seat 1: jefedelmar (1000 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1000 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (1000 Tournament chips) 
+Seat 8: damien924 (985 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+TrashplayerAz posts the small blind [5 Tournament chips]
+jefedelmar posts the big blind [10 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand (absent) with 3000 Tournament chips.
+jefedelmar, at seat 1, is in this hand with 990 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+mkie, at seat 3, is in this hand with 990 Tournament chips.
+wawn, at seat 4, is in this hand with 1000 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1025 Tournament chips.
+bobster304, at seat 7, is in this hand with 1000 Tournament chips.
+damien924, at seat 8, is in this hand with 985 Tournament chips.
+TrashplayerAz is dealt: **
+jefedelmar is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+damien924 is dealt: **
+TrashplayerAz is dealt: **
+jefedelmar is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+damien924 is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to jefedelmar [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ Th 3s ]
+Dealt to bobster304 [ **** ]
+Dealt to damien924 [ **** ]
+PIGMAN36 folds [10 Tournament chips]
+mkie folds [10 Tournament chips]
+wawn calls [10 Tournament chips]
+Pleiades Stars folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+bobster304 raises [130 Tournament chips]
+damien924 calls [130 Tournament chips]
+TrashplayerAz folds [125 Tournament chips]
+jefedelmar folds [120 Tournament chips]
+wawn calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Ad ] board:[ 6h Ad]
+** Dealing Flop ** [ 5s ] board:[ 6h Ad 5s]
+wawn checks
+bobster304 checks
+damien924 checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 6h Ad 5s 8h]
+wawn bets for 10 Tournament chips
+bobster304 folds [10 Tournament chips]
+damien924 calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 6h Ad 5s 8h Qh]
+wawn bets for 20 Tournament chips
+damien924 calls [20 Tournament chips]
+Round 4 is over.
+wawn shows [ Ac 9h ] a pair of aces
+Hand evaluation for wawn (Ac 9h Ad 8h Qh: a pair of aces)
+damien924 doesn't show [ Qd 9d ]
+(damien924 has Qd 9d.)
+wawn wins main pot 465 Tournament chips with a pair of aces, queen/nine kickers.
+Seat 0: TrashplayerAz (3000 Tournament chips) 
+Seat 1: jefedelmar (990 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1305 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+Seat 8: damien924 (825 Tournament chips) 
+Game #23983555-3 ends
+Player damien924 leaves the table with 825 Tournament chips
+Game #23983555-4 starts
+Seat 0: TrashplayerAz (3000 Tournament chips) 
+Seat 1: jefedelmar (990 Tournament chips) 
+Seat 2: PIGMAN36 (1000 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1305 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+jefedelmar posts the small blind [10 Tournament chips]
+PIGMAN36 posts the big blind [20 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand (absent) with 3000 Tournament chips.
+jefedelmar, at seat 1, is in this hand with 980 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 980 Tournament chips.
+mkie, at seat 3, is in this hand with 990 Tournament chips.
+wawn, at seat 4, is in this hand with 1305 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1025 Tournament chips.
+bobster304, at seat 7, is in this hand with 870 Tournament chips.
+jefedelmar is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+TrashplayerAz is dealt: **
+jefedelmar is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+TrashplayerAz is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to jefedelmar [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ Jh 6d ]
+Dealt to bobster304 [ **** ]
+mkie folds [20 Tournament chips]
+wawn calls [20 Tournament chips]
+Pleiades Stars folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+bobster304 folds [20 Tournament chips]
+TrashplayerAz folds [20 Tournament chips]
+jefedelmar calls [10 Tournament chips]
+PIGMAN36 folds
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 5h ] board:[ 8s 5h]
+** Dealing Flop ** [ 2d ] board:[ 8s 5h 2d]
+jefedelmar checks
+wawn has timed out - the hand is checked
+Round 2 is over.
+(Pleiades Stars has entered the table, is no longer absent.)
+** Dealing Turn ** [ Ac ] board:[ 8s 5h 2d Ac]
+jefedelmar bets for 60 Tournament chips
+wawn folds [60 Tournament chips]
+jefedelmar is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for jefedelmar (3s Qd 8s 5h Ac: ace high)
+jefedelmar wins main pot 60 Tournament chips.
+Seat 0: TrashplayerAz (3000 Tournament chips) 
+Seat 1: jefedelmar (1030 Tournament chips) 
+Seat 2: PIGMAN36 (980 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1285 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+Game #23983555-4 ends
+Game #23983555-5 starts
+Seat 0: TrashplayerAz (3000 Tournament chips) 
+Seat 1: jefedelmar (1030 Tournament chips) 
+Seat 2: PIGMAN36 (980 Tournament chips) 
+Seat 3: mkie (990 Tournament chips) 
+Seat 4: wawn (1285 Tournament chips) 
+Seat 5: Pleiades Stars (1000 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+PIGMAN36 posts the small blind [10 Tournament chips]
+mkie posts the big blind [20 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 3000 Tournament chips.
+jefedelmar, at seat 1, is in this hand with 1030 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 970 Tournament chips.
+mkie, at seat 3, is in this hand with 970 Tournament chips.
+wawn, at seat 4, is in this hand with 1285 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1025 Tournament chips.
+bobster304, at seat 7, is in this hand with 870 Tournament chips.
+Ksm77, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+jefedelmar is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+jefedelmar is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to jefedelmar [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ 4c Ts ]
+Dealt to bobster304 [ **** ]
+Dealt to Ksm77 [ **** ]
+wawn calls [20 Tournament chips]
+Pleiades Stars calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+bobster304 folds [20 Tournament chips]
+Ksm77 folds [20 Tournament chips]
+TrashplayerAz raises all-in [3000 Tournament chips]
+jefedelmar folds [1030 Tournament chips]
+PIGMAN36 folds [970 Tournament chips]
+mkie calls all-in [970 Tournament chips]
+wawn folds [1265 Tournament chips]
+Pleiades Stars calls all-in [980 Tournament chips]
+TrashplayerAz is returned 2000 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TrashplayerAz shows [ 8s 8c ]
+mkie shows [ 6s 6d ]
+Pleiades Stars shows [ Js Kh ]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 6c ] board:[ Jd 6c]
+** Dealing Flop ** [ Qs ] board:[ Jd 6c Qs]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Jd 6c Qs 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Jd 6c Qs 2h Tc]
+        (no action in this round)
+Round 4 is over.
+TrashplayerAz shows [ 8s 8c ] a pair of eights, queen/jack kickers
+mkie shows [ 6s 6d ] three sixes, queen/jack kickers
+Pleiades Stars shows [ Js Kh ] a pair of jacks, king/queen kickers
+mkie wins main pot 3000 Tournament chips with three sixes, queen/jack kickers.
+Pleiades Stars wins side pot #1 20 Tournament chips with a pair of jacks, king/queen kickers.
+Seat 0: TrashplayerAz (2000 Tournament chips) 
+Seat 1: jefedelmar (1030 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (3000 Tournament chips) 
+Seat 4: wawn (1265 Tournament chips) 
+Seat 5: Pleiades Stars (20 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+Game #23983555-5 ends
+Player jefedelmar leaves the table with 1030 Tournament chips
+Game #23983555-6 starts
+Seat 0: TrashplayerAz (2000 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (3000 Tournament chips) 
+Seat 4: wawn (1265 Tournament chips) 
+Seat 5: Pleiades Stars (20 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (870 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+mkie posts the small blind [10 Tournament chips]
+wawn posts the big blind [20 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 2000 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 970 Tournament chips.
+mkie, at seat 3, is in this hand with 2990 Tournament chips.
+wawn, at seat 4, is in this hand with 1245 Tournament chips.
+Pleiades Stars, at seat 5, is in this hand with 20 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 1025 Tournament chips.
+bobster304, at seat 7, is in this hand with 870 Tournament chips.
+Ksm77, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Pleiades Stars is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to Pleiades Stars [ **** ]
+Dealt to QwertySpark [ Ts 5d ]
+Dealt to bobster304 [ **** ]
+Dealt to Ksm77 [ **** ]
+Pleiades Stars calls all-in [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+bobster304 calls [20 Tournament chips]
+Ksm77 folds [20 Tournament chips]
+TrashplayerAz folds [20 Tournament chips]
+PIGMAN36 folds [20 Tournament chips]
+mkie calls [10 Tournament chips]
+wawn checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 7h ] board:[ 4d 7h]
+** Dealing Flop ** [ 2s ] board:[ 4d 7h 2s]
+mkie bets for 20 Tournament chips
+wawn folds [20 Tournament chips]
+bobster304 raises all-in [850 Tournament chips]
+mkie folds [830 Tournament chips]
+bobster304 is returned 830 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Pleiades Stars shows [ Tc Ac ]
+bobster304 shows [ 7s Js ]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 4d 7h 2s 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 4d 7h 2s 2d 6s]
+        (no action in this round)
+Round 4 is over.
+Pleiades Stars shows [ Tc Ac ] a pair of deuces, ace/ten kickers
+bobster304 shows [ 7s Js ] two pair, sevens and deuces, jack kicker
+bobster304 wins main pot 80 Tournament chips with two pair, sevens and deuces, jack kicker.
+bobster304 wins side pot #1 40 Tournament chips with two pair, sevens and deuces, jack kicker.
+Seat 0: TrashplayerAz (2000 Tournament chips) 
+Seat 1: ndtpete (1000 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1245 Tournament chips) 
+Seat 5: Pleiades Stars (0 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (950 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+Game #23983555-6 ends
+Player Pleiades Stars leaves the table with 0 Tournament chips
+Game #23983555-7 starts
+Seat 0: TrashplayerAz (2000 Tournament chips) 
+Seat 1: ndtpete (1000 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1245 Tournament chips) 
+Seat 6: QwertySpark (1025 Tournament chips) 
+Seat 7: bobster304 (950 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+wawn posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 2000 Tournament chips.
+ndtpete, at seat 1, is in this hand with 1000 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 970 Tournament chips.
+mkie, at seat 3, is in this hand with 2960 Tournament chips.
+wawn, at seat 4, is in this hand with 1230 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 995 Tournament chips.
+bobster304, at seat 7, is in this hand with 950 Tournament chips.
+Ksm77, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+wawn is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+ndtpete is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+ndtpete is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to ndtpete [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to QwertySpark [ 2c 6c ]
+Dealt to bobster304 [ **** ]
+Dealt to Ksm77 [ **** ]
+bobster304 calls [30 Tournament chips]
+Ksm77 folds [30 Tournament chips]
+TrashplayerAz raises all-in [2000 Tournament chips]
+ndtpete folds [1000 Tournament chips]
+PIGMAN36 folds [970 Tournament chips]
+mkie folds [2000 Tournament chips]
+wawn folds [1230 Tournament chips]
+QwertySpark folds [995 Tournament chips]
+bobster304 folds [920 Tournament chips]
+TrashplayerAz is returned 1970 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for TrashplayerAz (Tc 7s: ten high)
+TrashplayerAz wins main pot 105 Tournament chips.
+Seat 0: TrashplayerAz (2075 Tournament chips) 
+Seat 1: ndtpete (1000 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1230 Tournament chips) 
+Seat 6: QwertySpark (995 Tournament chips) 
+Seat 7: bobster304 (920 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+Game #23983555-7 ends
+Game #23983555-8 starts
+Seat 0: TrashplayerAz (2075 Tournament chips) 
+Seat 1: ndtpete (1000 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1230 Tournament chips) 
+Seat 6: QwertySpark (995 Tournament chips) 
+Seat 7: bobster304 (920 Tournament chips) 
+Seat 8: Ksm77 (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [15 Tournament chips]
+bobster304 posts the big blind [30 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 2075 Tournament chips.
+ndtpete, at seat 1, is in this hand with 1000 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 970 Tournament chips.
+mkie, at seat 3, is in this hand with 2960 Tournament chips.
+wawn, at seat 4, is in this hand with 1230 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 980 Tournament chips.
+bobster304, at seat 7, is in this hand with 890 Tournament chips.
+Ksm77, at seat 8, is in this hand with 1000 Tournament chips.
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+ndtpete is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+
+bobster304 is dealt: **
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+ndtpete is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+Dealt to TrashplayerAz [ **** ]
+Dealt to ndtpete [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to QwertySpark [ 2h Jc ]
+Dealt to bobster304 [ **** ]
+Dealt to Ksm77 [ **** ]
+Ksm77 calls [30 Tournament chips]
+TrashplayerAz raises all-in [2075 Tournament chips]
+ndtpete calls all-in [1000 Tournament chips]
+PIGMAN36 folds [970 Tournament chips]
+mkie folds [2075 Tournament chips]
+wawn folds [1230 Tournament chips]
+QwertySpark folds [980 Tournament chips]
+bobster304 calls all-in [890 Tournament chips]
+Ksm77 calls all-in [970 Tournament chips]
+TrashplayerAz is returned 1075 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TrashplayerAz shows [ 3h 6d ]
+ndtpete shows [ Th Td ]
+bobster304 shows [ 4s Ac ]
+Ksm77 shows [ Kc 7d ]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 7s ] board:[ Qd 7s]
+** Dealing Flop ** [ Kd ] board:[ Qd 7s Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Qd 7s Kd 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ Qd 7s Kd 7c 9d]
+        (no action in this round)
+Round 4 is over.
+TrashplayerAz shows [ 3h 6d ] a pair of sevens, king/queen kickers
+ndtpete shows [ Th Td ] two pair, tens and sevens, king kicker
+bobster304 shows [ 4s Ac ] a pair of sevens, ace/king kickers
+Ksm77 shows [ Kc 7d ] full house, sevens full of kings
+Ksm77 wins main pot 3695 Tournament chips with full house, sevens full of kings.
+Ksm77 wins side pot #1 240 Tournament chips with full house, sevens full of kings.
+Seat 0: TrashplayerAz (1075 Tournament chips) 
+Seat 1: ndtpete (0 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1230 Tournament chips) 
+Seat 6: QwertySpark (980 Tournament chips) 
+Seat 7: bobster304 (0 Tournament chips) 
+Seat 8: Ksm77 (3935 Tournament chips) 
+Game #23983555-8 ends
+Player bobster304 leaves the table with 0 Tournament chips
+Player ndtpete leaves the table with 0 Tournament chips
+Game #23983555-9 starts
+Seat 0: TrashplayerAz (1075 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1230 Tournament chips) 
+Seat 6: QwertySpark (980 Tournament chips) 
+Seat 8: Ksm77 (3935 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+Ksm77 posts the big blind [30 Tournament chips]
+TrashplayerAz, at seat 0, is in this hand with 1075 Tournament chips.
+PIGMAN36, at seat 2, is in this hand (absent) with 970 Tournament chips.
+mkie, at seat 3, is in this hand with 2960 Tournament chips.
+wawn, at seat 4, is in this hand with 1230 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 980 Tournament chips.
+Ksm77, at seat 8, is in this hand with 3905 Tournament chips.
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+
+Ksm77 is dealt: **
+TrashplayerAz is dealt: **
+PIGMAN36 is dealt: **
+mkie is dealt: **
+wawn is dealt: **
+
+Dealt to TrashplayerAz [ **** ]
+Dealt to PIGMAN36 [ **** ]
+Dealt to mkie [ **** ]
+Dealt to wawn [ **** ]
+Dealt to QwertySpark [ 8s Ac ]
+Dealt to Ksm77 [ **** ]
+wawn: fn lol pot buyers dont last trash never learn idiot
+TrashplayerAz raises all-in [1075 Tournament chips]
+PIGMAN36 folds [970 Tournament chips]
+mkie folds [1075 Tournament chips]
+wawn folds [1075 Tournament chips]
+QwertySpark calls all-in [980 Tournament chips]
+Ksm77 folds [1045 Tournament chips]
+TrashplayerAz is returned 95 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+TrashplayerAz shows [ 8h 4h ]
+QwertySpark shows [ 8s Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 4s ] board:[ Td 4s]
+** Dealing Flop ** [ Th ] board:[ Td 4s Th]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ Td 4s Th 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Td 4s Th 2s 6h]
+        (no action in this round)
+Round 4 is over.
+TrashplayerAz shows [ 8h 4h ] two pair, tens and fours, eight kicker
+QwertySpark shows [ 8s Ac ] a pair of tens, ace/eight kickers
+TrashplayerAz wins main pot 1990 Tournament chips with two pair, tens and fours, eight kicker.
+(wawn has entered the table, is no longer absent.)
+Seat 0: TrashplayerAz (2085 Tournament chips) 
+Seat 2: PIGMAN36 (970 Tournament chips) 
+Seat 3: mkie (2960 Tournament chips) 
+Seat 4: wawn (1230 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Seat 8: Ksm77 (3905 Tournament chips) 
+Game #23983555-9 ends
+Player QwertySpark leaves the table with 0 Tournament chips
+Player wawn leaves the table with 1230 Tournament chips
+Player PIGMAN36 leaves the table with 970 Tournament chips
+Player mkie leaves the table with 2960 Tournament chips
+Player TrashplayerAz leaves the table with 2085 Tournament chips
+Player Ksm77 leaves the table with 3905 Tournament chips
+Game 23983555 is now shutting down

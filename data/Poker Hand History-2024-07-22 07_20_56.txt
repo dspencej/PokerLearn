@@ -1,0 +1,3235 @@
+Game#: 23936967
+Str8FaceJr raises [800 Tournament chips]
+Dog33022 folds [700 Tournament chips]
+hvacsale calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 5s ] board:[ 5d 5s]
+** Dealing Flop ** [ Qc ] board:[ 5d 5s Qc]
+hvacsale bets for 200 Tournament chips
+Str8FaceJr raises [2475 Tournament chips]
+hvacsale folds [2275 Tournament chips]
+Str8FaceJr is returned 2275 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Str8FaceJr (Ah As 5d 5s Qc: two pair, aces and fives)
+Str8FaceJr wins main pot 2275 Tournament chips.
+Seat 0: QwertySpark (35697 Tournament chips) 
+Seat 1: Dog33022 (8725 Tournament chips) 
+Seat 2: hvacsale (16750 Tournament chips) 
+Seat 3: TommyK5 (9025 Tournament chips) 
+Seat 4: 55lucky55 (29189 Tournament chips) 
+Seat 5: THE_U (6467 Tournament chips) 
+Seat 7: ParminderK (20021 Tournament chips) 
+Seat 8: Str8FaceJr (7598 Tournament chips) 
+Game #23936967-26 ends
+Game #23936967-27 starts
+Seat 0: QwertySpark (35697 Tournament chips) 
+Seat 1: Dog33022 (8725 Tournament chips) 
+Seat 2: hvacsale (16750 Tournament chips) 
+Seat 3: TommyK5 (9025 Tournament chips) 
+Seat 4: 55lucky55 (29189 Tournament chips) 
+Seat 5: THE_U (6467 Tournament chips) 
+Seat 7: ParminderK (20021 Tournament chips) 
+Seat 8: Str8FaceJr (7598 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+THE_U posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [100 Tournament chips]
+TommyK5 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35672 Tournament chips.
+Dog33022, at seat 1, is in this hand with 8700 Tournament chips.
+hvacsale, at seat 2, is in this hand with 16625 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8800 Tournament chips.
+55lucky55, at seat 4, is in this hand with 29164 Tournament chips.
+THE_U, at seat 5, is in this hand with 6442 Tournament chips.
+ParminderK, at seat 7, is in this hand with 19996 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 7573 Tournament chips.
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ 3s Js ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to THE_U [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 folds [200 Tournament chips]
+THE_U folds [200 Tournament chips]
+ParminderK folds [200 Tournament chips]
+Str8FaceJr raises [900 Tournament chips]
+QwertySpark folds [900 Tournament chips]
+Dog33022 folds [900 Tournament chips]
+hvacsale calls [800 Tournament chips]
+TommyK5 folds [700 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 9h ] board:[ Qs 9h]
+** Dealing Flop ** [ 5h ] board:[ Qs 9h 5h]
+hvacsale checks
+Str8FaceJr bets for 600 Tournament chips
+hvacsale calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Qs 9h 5h Ac]
+hvacsale bets for 200 Tournament chips
+Str8FaceJr raises [3800 Tournament chips]
+hvacsale folds [3600 Tournament chips]
+Str8FaceJr is returned 3600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Str8FaceJr (Ah Qd Qs 9h Ac: two pair, aces and queens)
+Str8FaceJr wins main pot 3800 Tournament chips.
+Seat 0: QwertySpark (35672 Tournament chips) 
+Seat 1: Dog33022 (8700 Tournament chips) 
+Seat 2: hvacsale (15025 Tournament chips) 
+Seat 3: TommyK5 (8800 Tournament chips) 
+Seat 4: 55lucky55 (29164 Tournament chips) 
+Seat 5: THE_U (6442 Tournament chips) 
+Seat 7: ParminderK (19996 Tournament chips) 
+Seat 8: Str8FaceJr (9673 Tournament chips) 
+Game #23936967-27 ends
+Game #23936967-28 starts
+Seat 0: QwertySpark (35672 Tournament chips) 
+Seat 1: Dog33022 (8700 Tournament chips) 
+Seat 2: hvacsale (15025 Tournament chips) 
+Seat 3: TommyK5 (8800 Tournament chips) 
+Seat 4: 55lucky55 (29164 Tournament chips) 
+Seat 5: THE_U (6442 Tournament chips) 
+Seat 7: ParminderK (19996 Tournament chips) 
+Seat 8: Str8FaceJr (9673 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+THE_U posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+The button is moved to seat 2.
+TommyK5 posts the small blind [150 Tournament chips]
+55lucky55 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35647 Tournament chips.
+Dog33022, at seat 1, is in this hand with 8675 Tournament chips.
+hvacsale, at seat 2, is in this hand with 15000 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8625 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28839 Tournament chips.
+THE_U, at seat 5, is in this hand with 6417 Tournament chips.
+ParminderK, at seat 7, is in this hand with 19971 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 9648 Tournament chips.
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ 4c 5d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to THE_U [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+THE_U folds [300 Tournament chips]
+ParminderK calls [300 Tournament chips]
+Str8FaceJr folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Dog33022 folds [300 Tournament chips]
+hvacsale folds [300 Tournament chips]
+TommyK5 calls [150 Tournament chips]
+55lucky55 checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Qd ] board:[ Qc Qd]
+** Dealing Flop ** [ Qh ] board:[ Qc Qd Qh]
+TommyK5 checks
+55lucky55 checks
+ParminderK bets for 300 Tournament chips
+TommyK5 folds [300 Tournament chips]
+55lucky55 folds [300 Tournament chips]
+ParminderK is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for ParminderK (Ah 6c Qc Qd Qh: three queens)
+ParminderK wins main pot 1100 Tournament chips.
+Seat 0: QwertySpark (35647 Tournament chips) 
+Seat 1: Dog33022 (8675 Tournament chips) 
+Seat 2: hvacsale (15000 Tournament chips) 
+Seat 3: TommyK5 (8475 Tournament chips) 
+Seat 4: 55lucky55 (28839 Tournament chips) 
+Seat 5: THE_U (6417 Tournament chips) 
+Seat 7: ParminderK (20771 Tournament chips) 
+Seat 8: Str8FaceJr (9648 Tournament chips) 
+Game #23936967-28 ends
+Game #23936967-29 starts
+Seat 0: QwertySpark (35647 Tournament chips) 
+Seat 1: Dog33022 (8675 Tournament chips) 
+Seat 2: hvacsale (15000 Tournament chips) 
+Seat 3: TommyK5 (8475 Tournament chips) 
+Seat 4: 55lucky55 (28839 Tournament chips) 
+Seat 5: THE_U (6417 Tournament chips) 
+Seat 7: ParminderK (20771 Tournament chips) 
+Seat 8: Str8FaceJr (9648 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+THE_U posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+The button is moved to seat 3.
+55lucky55 posts the small blind [150 Tournament chips]
+THE_U posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35622 Tournament chips.
+Dog33022, at seat 1, is in this hand with 8650 Tournament chips.
+hvacsale, at seat 2, is in this hand with 14975 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8450 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28664 Tournament chips.
+THE_U, at seat 5, is in this hand with 6092 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20746 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 9623 Tournament chips.
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+Dealt to QwertySpark [ 3d 8c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to THE_U [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+ParminderK folds [300 Tournament chips]
+Str8FaceJr folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Dog33022 calls [300 Tournament chips]
+hvacsale folds [300 Tournament chips]
+TommyK5 folds [300 Tournament chips]
+55lucky55 calls [150 Tournament chips]
+THE_U has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Jc ] board:[ Kh Jc]
+** Dealing Flop ** [ Kc ] board:[ Kh Jc Kc]
+55lucky55 checks
+THE_U checks
+Dog33022 checks
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Kh Jc Kc 5s]
+55lucky55 bets for 550 Tournament chips
+THE_U folds [550 Tournament chips]
+Dog33022 calls [550 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ Kh Jc Kc 5s Th]
+55lucky55 bets for 900 Tournament chips
+Dog33022 raises [4900 Tournament chips]
+55lucky55: aq and you hit a miracle ten?
+55lucky55 folds [4000 Tournament chips]
+Dog33022 is returned 4000 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Dog33022 (Js Jh Kh Jc Kc: full house, jacks full of kings)
+Dog33022: 1love it
+Dog33022 wins main pot 4000 Tournament chips.
+Seat 0: QwertySpark (35622 Tournament chips) 
+Seat 1: Dog33022 (10900 Tournament chips) 
+Seat 2: hvacsale (14975 Tournament chips) 
+Seat 3: TommyK5 (8450 Tournament chips) 
+Seat 4: 55lucky55 (27064 Tournament chips) 
+Seat 5: THE_U (6092 Tournament chips) 
+Seat 7: ParminderK (20746 Tournament chips) 
+Seat 8: Str8FaceJr (9623 Tournament chips) 
+Game #23936967-29 ends
+Game #23936967-30 starts
+Seat 0: QwertySpark (35622 Tournament chips) 
+Seat 1: Dog33022 (10900 Tournament chips) 
+Seat 2: hvacsale (14975 Tournament chips) 
+Seat 3: TommyK5 (8450 Tournament chips) 
+Seat 4: 55lucky55 (27064 Tournament chips) 
+Seat 5: THE_U (6092 Tournament chips) 
+Seat 7: ParminderK (20746 Tournament chips) 
+Seat 8: Str8FaceJr (9623 Tournament chips) 
+The button is at seat 3
+hvacsale posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+THE_U posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+The button is moved to seat 4.
+THE_U posts the small blind [150 Tournament chips]
+ParminderK posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35597 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10875 Tournament chips.
+hvacsale, at seat 2, is in this hand with 14950 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8425 Tournament chips.
+55lucky55, at seat 4, is in this hand with 27039 Tournament chips.
+THE_U, at seat 5, is in this hand with 5917 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20421 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 9598 Tournament chips.
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ 7h Jh ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to THE_U [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022: just Ks
+Str8FaceJr folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Dog33022 folds [300 Tournament chips]
+hvacsale calls [300 Tournament chips]
+TommyK5 folds [300 Tournament chips]
+55lucky55: nh
+55lucky55 calls [300 Tournament chips]
+THE_U calls [150 Tournament chips]
+ParminderK checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6d ] board:[ 6s 6d]
+** Dealing Flop ** [ Ts ] board:[ 6s 6d Ts]
+THE_U checks
+ParminderK checks
+hvacsale bets for 300 Tournament chips
+55lucky55 calls [300 Tournament chips]
+THE_U folds [300 Tournament chips]
+ParminderK folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 6s 6d Ts 5d]
+hvacsale checks
+55lucky55 bets for 900 Tournament chips
+hvacsale folds [900 Tournament chips]
+55lucky55 is returned 900 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for 55lucky55 (3c 3d 6s 6d Ts: two pair, sixes and threes)
+55lucky55 wins main pot 2000 Tournament chips.
+Seat 0: QwertySpark (35597 Tournament chips) 
+Seat 1: Dog33022 (10875 Tournament chips) 
+Seat 2: hvacsale (14350 Tournament chips) 
+Seat 3: TommyK5 (8425 Tournament chips) 
+Seat 4: 55lucky55 (28439 Tournament chips) 
+Seat 5: THE_U (5767 Tournament chips) 
+Seat 7: ParminderK (20421 Tournament chips) 
+Seat 8: Str8FaceJr (9598 Tournament chips) 
+Game #23936967-30 ends
+Game #23936967-31 starts
+Seat 0: QwertySpark (35597 Tournament chips) 
+Seat 1: Dog33022 (10875 Tournament chips) 
+Seat 2: hvacsale (14350 Tournament chips) 
+Seat 3: TommyK5 (8425 Tournament chips) 
+Seat 4: 55lucky55 (28439 Tournament chips) 
+Seat 5: THE_U (5767 Tournament chips) 
+Seat 7: ParminderK (20421 Tournament chips) 
+Seat 8: Str8FaceJr (9598 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+THE_U posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+The button is moved to seat 5.
+ParminderK posts the small blind [150 Tournament chips]
+Str8FaceJr posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35572 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10850 Tournament chips.
+hvacsale, at seat 2, is in this hand with 14325 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8400 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28414 Tournament chips.
+THE_U, at seat 5, is in this hand with 5742 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20246 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 9273 Tournament chips.
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+THE_U is dealt: **
+Dealt to QwertySpark [ 2c Qs ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to THE_U [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark folds [300 Tournament chips]
+Dog33022 raises [900 Tournament chips]
+hvacsale folds [900 Tournament chips]
+TommyK5 folds [900 Tournament chips]
+55lucky55 folds [900 Tournament chips]
+THE_U calls [900 Tournament chips]
+ParminderK folds [750 Tournament chips]
+Str8FaceJr calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 7h ] board:[ 8c 7h]
+** Dealing Flop ** [ Kc ] board:[ 8c 7h Kc]
+Str8FaceJr checks
+Dog33022 bets for 900 Tournament chips
+THE_U raises all-in [4842 Tournament chips]
+Str8FaceJr folds [4842 Tournament chips]
+Dog33022 calls [3942 Tournament chips]
+Tournament all-in showdown -- players show:
+Dog33022 shows [ Ad Ac ]
+THE_U shows [ Qc Jc ]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 8c 7h Kc 2d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 8c 7h Kc 2d Kh]
+        (no action in this round)
+Round 4 is over.
+Dog33022 shows [ Ad Ac ] two pair, aces and kings, eight kicker
+THE_U shows [ Qc Jc ] a pair of kings, queen/jack kickers
+Dog33022 wins main pot 12734 Tournament chips with two pair, aces and kings, eight kicker.
+Seat 0: QwertySpark (35572 Tournament chips) 
+Seat 1: Dog33022 (17842 Tournament chips) 
+Seat 2: hvacsale (14325 Tournament chips) 
+Seat 3: TommyK5 (8400 Tournament chips) 
+Seat 4: 55lucky55 (28414 Tournament chips) 
+Seat 5: THE_U (0 Tournament chips) 
+Seat 7: ParminderK (20246 Tournament chips) 
+Seat 8: Str8FaceJr (8673 Tournament chips) 
+Game #23936967-31 ends
+Player THE_U leaves the table with 0 Tournament chips
+Game #23936967-32 starts
+Seat 0: QwertySpark (35572 Tournament chips) 
+Seat 1: Dog33022 (17842 Tournament chips) 
+Seat 2: hvacsale (14325 Tournament chips) 
+Seat 3: TommyK5 (8400 Tournament chips) 
+Seat 4: 55lucky55 (28414 Tournament chips) 
+Seat 7: ParminderK (20246 Tournament chips) 
+Seat 8: Str8FaceJr (8673 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+The button is moved to seat 7.
+Str8FaceJr posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35247 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17817 Tournament chips.
+hvacsale, at seat 2, is in this hand with 14300 Tournament chips.
+TommyK5, at seat 3, is in this hand with 8375 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28389 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20221 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 8498 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Dealt to QwertySpark [ 6c 5d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 folds [300 Tournament chips]
+hvacsale folds [300 Tournament chips]
+TommyK5 calls [300 Tournament chips]
+55lucky55 folds [300 Tournament chips]
+ParminderK raises [1825 Tournament chips]
+Str8FaceJr folds [1675 Tournament chips]
+QwertySpark folds [1525 Tournament chips]
+TommyK5 calls [1525 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Ah ] board:[ Kc Ah]
+** Dealing Flop ** [ 6s ] board:[ Kc Ah 6s]
+TommyK5 checks
+ParminderK bets for 2137 Tournament chips
+TommyK5 folds [2137 Tournament chips]
+ParminderK is returned 2137 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for ParminderK (Ad Qh Kc Ah 6s: a pair of aces)
+ParminderK wins main pot 4275 Tournament chips.
+Seat 0: QwertySpark (35247 Tournament chips) 
+Seat 1: Dog33022 (17817 Tournament chips) 
+Seat 2: hvacsale (14300 Tournament chips) 
+Seat 3: TommyK5 (6550 Tournament chips) 
+Seat 4: 55lucky55 (28389 Tournament chips) 
+Seat 7: ParminderK (22671 Tournament chips) 
+Seat 8: Str8FaceJr (8498 Tournament chips) 
+Game #23936967-32 ends
+Game #23936967-33 starts
+Seat 0: QwertySpark (35247 Tournament chips) 
+Seat 1: Dog33022 (17817 Tournament chips) 
+Seat 2: hvacsale (14300 Tournament chips) 
+Seat 3: TommyK5 (6550 Tournament chips) 
+Seat 4: 55lucky55 (28389 Tournament chips) 
+Seat 7: ParminderK (22671 Tournament chips) 
+Seat 8: Str8FaceJr (8498 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 25 Tournament chips
+hvacsale posted ante of 25 Tournament chips
+Dog33022 posted ante of 25 Tournament chips
+TommyK5 posted ante of 25 Tournament chips
+55lucky55 posted ante of 25 Tournament chips
+ParminderK posted ante of 25 Tournament chips
+Str8FaceJr posted ante of 25 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [150 Tournament chips]
+Dog33022 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 35072 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17492 Tournament chips.
+hvacsale, at seat 2, is in this hand with 14275 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6525 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28364 Tournament chips.
+ParminderK, at seat 7, is in this hand with 22646 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 8473 Tournament chips.
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+Dealt to QwertySpark [ Jh Qc ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+hvacsale folds [300 Tournament chips]
+TommyK5 folds [300 Tournament chips]
+55lucky55 folds [300 Tournament chips]
+ParminderK calls [300 Tournament chips]
+Str8FaceJr calls [300 Tournament chips]
+QwertySpark raises [1350 Tournament chips]
+Dog33022 folds [1200 Tournament chips]
+ParminderK folds [1200 Tournament chips]
+Str8FaceJr calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 6c ] board:[ 9c 6c]
+** Dealing Flop ** [ 4h ] board:[ 9c 6c 4h]
+QwertySpark bets for 2100 Tournament chips
+Str8FaceJr calls [2100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 9c 6c 4h As]
+QwertySpark checks
+Str8FaceJr goes all-in for 4873 Tournament chips
+QwertySpark folds [4873 Tournament chips]
+Str8FaceJr is returned 4873 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Str8FaceJr (Tc 8c 9c 6c As: ace high)
+Str8FaceJr wins main pot 7975 Tournament chips.
+Seat 0: QwertySpark (31622 Tournament chips) 
+Seat 1: Dog33022 (17492 Tournament chips) 
+Seat 2: hvacsale (14275 Tournament chips) 
+Seat 3: TommyK5 (6525 Tournament chips) 
+Seat 4: 55lucky55 (28364 Tournament chips) 
+Seat 7: ParminderK (22346 Tournament chips) 
+Seat 8: Str8FaceJr (12848 Tournament chips) 
+Game #23936967-33 ends
+Game #23936967-34 starts
+Seat 0: QwertySpark (31622 Tournament chips) 
+Seat 1: Dog33022 (17492 Tournament chips) 
+Seat 2: hvacsale (14275 Tournament chips) 
+Seat 3: TommyK5 (6525 Tournament chips) 
+Seat 4: 55lucky55 (28364 Tournament chips) 
+Seat 7: ParminderK (22346 Tournament chips) 
+Seat 8: Str8FaceJr (12848 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+The button is moved to seat 0.
+Dog33022 posts the small blind [200 Tournament chips]
+hvacsale posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 31572 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17242 Tournament chips.
+hvacsale, at seat 2, is in this hand with 13825 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6475 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28314 Tournament chips.
+ParminderK, at seat 7, is in this hand with 22296 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 12798 Tournament chips.
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dealt to QwertySpark [ 7h 7c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+TommyK5 folds [400 Tournament chips]
+55lucky55 folds [400 Tournament chips]
+ParminderK raises [800 Tournament chips]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark re-raises [3200 Tournament chips]
+Dog33022 folds [3000 Tournament chips]
+hvacsale folds [2800 Tournament chips]
+ParminderK folds [2400 Tournament chips]
+QwertySpark is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (7h 7c: a pair of sevens)
+QwertySpark wins main pot 2550 Tournament chips.
+Seat 0: QwertySpark (33322 Tournament chips) 
+Seat 1: Dog33022 (17242 Tournament chips) 
+Seat 2: hvacsale (13825 Tournament chips) 
+Seat 3: TommyK5 (6475 Tournament chips) 
+Seat 4: 55lucky55 (28314 Tournament chips) 
+Seat 7: ParminderK (21496 Tournament chips) 
+Seat 8: Str8FaceJr (12798 Tournament chips) 
+Game #23936967-34 ends
+Game #23936967-35 starts
+Seat 0: QwertySpark (33322 Tournament chips) 
+Seat 1: Dog33022 (17242 Tournament chips) 
+Seat 2: hvacsale (13825 Tournament chips) 
+Seat 3: TommyK5 (6475 Tournament chips) 
+Seat 4: 55lucky55 (28314 Tournament chips) 
+Seat 7: ParminderK (21496 Tournament chips) 
+Seat 8: Str8FaceJr (12798 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [200 Tournament chips]
+TommyK5 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 33272 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17192 Tournament chips.
+hvacsale, at seat 2, is in this hand with 13575 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6025 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28264 Tournament chips.
+ParminderK, at seat 7, is in this hand with 21446 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 12748 Tournament chips.
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ 9c Kd ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 raises [800 Tournament chips]
+ParminderK folds [800 Tournament chips]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Dog33022 folds [800 Tournament chips]
+hvacsale folds [600 Tournament chips]
+TommyK5 folds [400 Tournament chips]
+55lucky55 is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 55lucky55 (Ts Qs: queen high)
+55lucky55 wins main pot 1350 Tournament chips.
+Seat 0: QwertySpark (33272 Tournament chips) 
+Seat 1: Dog33022 (17192 Tournament chips) 
+Seat 2: hvacsale (13575 Tournament chips) 
+Seat 3: TommyK5 (6025 Tournament chips) 
+Seat 4: 55lucky55 (29214 Tournament chips) 
+Seat 7: ParminderK (21446 Tournament chips) 
+Seat 8: Str8FaceJr (12748 Tournament chips) 
+Game #23936967-35 ends
+Game #23936967-36 starts
+Seat 0: QwertySpark (33272 Tournament chips) 
+Seat 1: Dog33022 (17192 Tournament chips) 
+Seat 2: hvacsale (13575 Tournament chips) 
+Seat 3: TommyK5 (6025 Tournament chips) 
+Seat 4: 55lucky55 (29214 Tournament chips) 
+Seat 7: ParminderK (21446 Tournament chips) 
+Seat 8: Str8FaceJr (12748 Tournament chips) 
+The button is at seat 1
+Dog33022 posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+The button is moved to seat 2.
+TommyK5 posts the small blind [200 Tournament chips]
+55lucky55 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 33222 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17142 Tournament chips.
+hvacsale, at seat 2, is in this hand with 13525 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5775 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28764 Tournament chips.
+ParminderK, at seat 7, is in this hand with 21396 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 12698 Tournament chips.
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ 2d Tc ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+ParminderK folds [400 Tournament chips]
+Str8FaceJr calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Dog33022 folds [400 Tournament chips]
+hvacsale folds [400 Tournament chips]
+TommyK5 calls [200 Tournament chips]
+55lucky55 checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 6h ] board:[ Jc 6h]
+** Dealing Flop ** [ 4d ] board:[ Jc 6h 4d]
+TommyK5 checks
+55lucky55 checks
+Str8FaceJr bets for 1550 Tournament chips
+TommyK5 folds [1550 Tournament chips]
+55lucky55 folds [1550 Tournament chips]
+Str8FaceJr is returned 1550 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Str8FaceJr (2h 5h Jc 6h 4d: jack high)
+Str8FaceJr wins main pot 1550 Tournament chips.
+Seat 0: QwertySpark (33222 Tournament chips) 
+Seat 1: Dog33022 (17142 Tournament chips) 
+Seat 2: hvacsale (13525 Tournament chips) 
+Seat 3: TommyK5 (5575 Tournament chips) 
+Seat 4: 55lucky55 (28764 Tournament chips) 
+Seat 7: ParminderK (21396 Tournament chips) 
+Seat 8: Str8FaceJr (13848 Tournament chips) 
+Game #23936967-36 ends
+Game #23936967-37 starts
+Seat 0: QwertySpark (33222 Tournament chips) 
+Seat 1: Dog33022 (17142 Tournament chips) 
+Seat 2: hvacsale (13525 Tournament chips) 
+Seat 3: TommyK5 (5575 Tournament chips) 
+Seat 4: 55lucky55 (28764 Tournament chips) 
+Seat 7: ParminderK (21396 Tournament chips) 
+Seat 8: Str8FaceJr (13848 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+The button is moved to seat 3.
+55lucky55 posts the small blind [200 Tournament chips]
+ParminderK posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 33172 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17092 Tournament chips.
+hvacsale, at seat 2, is in this hand with 13475 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5525 Tournament chips.
+55lucky55, at seat 4, is in this hand with 28514 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20946 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 13798 Tournament chips.
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+Dealt to QwertySpark [ 9d Js ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Str8FaceJr folds [400 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Dog33022 folds [400 Tournament chips]
+hvacsale folds [400 Tournament chips]
+TommyK5 folds [400 Tournament chips]
+55lucky55 raises [1750 Tournament chips]
+ParminderK folds [1550 Tournament chips]
+QwertySpark calls [1550 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ Kc ] board:[ Kh Kc]
+** Dealing Flop ** [ 3h ] board:[ Kh Kc 3h]
+55lucky55 bets for 400 Tournament chips
+QwertySpark folds [400 Tournament chips]
+55lucky55 is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 55lucky55 (Qh Qs Kh Kc 3h: two pair, kings and queens)
+55lucky55 shows [ Qh Qs ] two pair, kings and queens
+Hand evaluation for 55lucky55 (Qh Qs Kh Kc 3h: two pair, kings and queens)
+55lucky55 wins main pot 4650 Tournament chips.
+Seat 0: QwertySpark (31222 Tournament chips) 
+Seat 1: Dog33022 (17092 Tournament chips) 
+Seat 2: hvacsale (13475 Tournament chips) 
+Seat 3: TommyK5 (5525 Tournament chips) 
+Seat 4: 55lucky55 (31414 Tournament chips) 
+Seat 5: tava54 (33433 Tournament chips) 
+Seat 7: ParminderK (20946 Tournament chips) 
+Seat 8: Str8FaceJr (13798 Tournament chips) 
+Game #23936967-37 ends
+Game #23936967-38 starts
+Seat 0: QwertySpark (31222 Tournament chips) 
+Seat 1: Dog33022 (17092 Tournament chips) 
+Seat 2: hvacsale (13475 Tournament chips) 
+Seat 3: TommyK5 (5525 Tournament chips) 
+Seat 4: 55lucky55 (31414 Tournament chips) 
+Seat 5: tava54 (33433 Tournament chips) 
+Seat 7: ParminderK (20946 Tournament chips) 
+Seat 8: Str8FaceJr (13798 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+The button is moved to seat 4.
+ParminderK posts the small blind [200 Tournament chips]
+Str8FaceJr posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 31172 Tournament chips.
+Dog33022, at seat 1, is in this hand with 17042 Tournament chips.
+hvacsale, at seat 2, is in this hand with 13425 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5475 Tournament chips.
+55lucky55, at seat 4, is in this hand with 31364 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20696 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 13348 Tournament chips.
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ 4d Qd ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark folds [400 Tournament chips]
+Dog33022 folds [400 Tournament chips]
+hvacsale raises [1750 Tournament chips]
+TommyK5 folds [1750 Tournament chips]
+55lucky55 folds [1750 Tournament chips]
+ParminderK folds [1550 Tournament chips]
+Str8FaceJr calls [1350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 8h ] board:[ 6d 8h]
+** Dealing Flop ** [ 2s ] board:[ 6d 8h 2s]
+Str8FaceJr checks
+hvacsale goes all-in for 11675 Tournament chips
+Str8FaceJr folds [11675 Tournament chips]
+hvacsale is returned 11675 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for hvacsale (Js Jh 6d 8h 2s: a pair of jacks)
+hvacsale wins main pot 4050 Tournament chips.
+Seat 0: QwertySpark (31172 Tournament chips) 
+Seat 1: Dog33022 (17042 Tournament chips) 
+Seat 2: hvacsale (15725 Tournament chips) 
+Seat 3: TommyK5 (5475 Tournament chips) 
+Seat 4: 55lucky55 (31364 Tournament chips) 
+Seat 5: tava54 (33433 Tournament chips) 
+Seat 7: ParminderK (20696 Tournament chips) 
+Seat 8: Str8FaceJr (11998 Tournament chips) 
+Game #23936967-38 ends
+Game #23936967-39 starts
+Seat 0: QwertySpark (31172 Tournament chips) 
+Seat 1: Dog33022 (17042 Tournament chips) 
+Seat 2: hvacsale (15725 Tournament chips) 
+Seat 3: TommyK5 (5475 Tournament chips) 
+Seat 4: 55lucky55 (31364 Tournament chips) 
+Seat 5: tava54 (33433 Tournament chips) 
+Seat 7: ParminderK (20696 Tournament chips) 
+Seat 8: Str8FaceJr (11998 Tournament chips) 
+The button is at seat 4
+Dog33022 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+tava54 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+The button is moved to seat 7.
+Str8FaceJr posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 30722 Tournament chips.
+Dog33022, at seat 1, is in this hand with 16992 Tournament chips.
+hvacsale, at seat 2, is in this hand with 15675 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5425 Tournament chips.
+55lucky55, at seat 4, is in this hand with 31314 Tournament chips.
+tava54, at seat 5, is in this hand with 33383 Tournament chips.
+ParminderK, at seat 7, is in this hand with 20646 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 11748 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Dealt to QwertySpark [ 2c Qd ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 calls [400 Tournament chips]
+hvacsale folds [400 Tournament chips]
+TommyK5 calls [400 Tournament chips]
+55lucky55 folds [400 Tournament chips]
+tava54 folds [400 Tournament chips]
+ParminderK calls [400 Tournament chips]
+Str8FaceJr calls [200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 7s ] board:[ 4h 7s]
+** Dealing Flop ** [ 6h ] board:[ 4h 7s 6h]
+Str8FaceJr checks
+QwertySpark checks
+Dog33022 checks
+TommyK5 checks
+ParminderK bets for 2400 Tournament chips
+Str8FaceJr calls [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+Dog33022 folds [2400 Tournament chips]
+TommyK5 folds [2400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 4h 7s 6h 8h]
+Str8FaceJr goes all-in for 9148 Tournament chips
+ParminderK calls [9148 Tournament chips]
+Tournament all-in showdown -- players show:
+ParminderK shows [ 7h 8d ]
+Str8FaceJr shows [ 5c Js ]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 4h 7s 6h 8h Ts]
+        (no action in this round)
+Round 4 is over.
+ParminderK shows [ 7h 8d ] two pair, eights and sevens, ten kicker
+Str8FaceJr shows [ 5c Js ] straight, eight high
+Str8FaceJr wins main pot 25496 Tournament chips with straight, eight high.
+Seat 0: QwertySpark (30722 Tournament chips) 
+Seat 1: Dog33022 (16592 Tournament chips) 
+Seat 2: hvacsale (15675 Tournament chips) 
+Seat 3: TommyK5 (5025 Tournament chips) 
+Seat 4: 55lucky55 (31314 Tournament chips) 
+Seat 5: tava54 (33383 Tournament chips) 
+Seat 7: ParminderK (8698 Tournament chips) 
+Seat 8: Str8FaceJr (25496 Tournament chips) 
+Game #23936967-39 ends
+Game #23936967-40 starts
+Seat 0: QwertySpark (30722 Tournament chips) 
+Seat 1: Dog33022 (16592 Tournament chips) 
+Seat 2: hvacsale (15675 Tournament chips) 
+Seat 3: TommyK5 (5025 Tournament chips) 
+Seat 4: 55lucky55 (31314 Tournament chips) 
+Seat 5: tava54 (33383 Tournament chips) 
+Seat 7: ParminderK (8698 Tournament chips) 
+Seat 8: Str8FaceJr (25496 Tournament chips) 
+The button is at seat 7
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+tava54 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [200 Tournament chips]
+Dog33022 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand (absent) with 30472 Tournament chips.
+Dog33022, at seat 1, is in this hand with 16142 Tournament chips.
+hvacsale, at seat 2, is in this hand with 15625 Tournament chips.
+TommyK5, at seat 3, is in this hand with 4975 Tournament chips.
+55lucky55, at seat 4, is in this hand with 31264 Tournament chips.
+tava54, at seat 5, is in this hand with 33333 Tournament chips.
+ParminderK, at seat 7, is in this hand with 8648 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 25446 Tournament chips.
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+Dealt to QwertySpark [ Kh Qd ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+hvacsale folds [400 Tournament chips]
+TommyK5 folds [400 Tournament chips]
+55lucky55 calls [400 Tournament chips]
+tava54 raises [1200 Tournament chips]
+ParminderK calls [1200 Tournament chips]
+Str8FaceJr folds [1200 Tournament chips]
+QwertySpark folds [1000 Tournament chips]
+Dog33022 folds [800 Tournament chips]
+55lucky55 calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Ad ] board:[ Kd Ad]
+** Dealing Flop ** [ 8d ] board:[ Kd Ad 8d]
+55lucky55 bets for 4600 Tournament chips
+tava54 folds [4600 Tournament chips]
+ParminderK folds [4600 Tournament chips]
+55lucky55 is returned 4600 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 55lucky55 (7d 6d Kd Ad 8d: flush, ace high)
+55lucky55 wins main pot 4600 Tournament chips.
+Seat 0: QwertySpark (30472 Tournament chips) 
+Seat 1: Dog33022 (16142 Tournament chips) 
+Seat 2: hvacsale (15625 Tournament chips) 
+Seat 3: TommyK5 (4975 Tournament chips) 
+Seat 4: 55lucky55 (34664 Tournament chips) 
+Seat 5: tava54 (32133 Tournament chips) 
+Seat 7: ParminderK (7448 Tournament chips) 
+Seat 8: Str8FaceJr (25446 Tournament chips) 
+Game #23936967-40 ends
+Game #23936967-41 starts
+Seat 0: QwertySpark (30472 Tournament chips) 
+Seat 1: Dog33022 (16142 Tournament chips) 
+Seat 2: hvacsale (15625 Tournament chips) 
+Seat 3: TommyK5 (4975 Tournament chips) 
+Seat 4: 55lucky55 (34664 Tournament chips) 
+Seat 5: tava54 (32133 Tournament chips) 
+Seat 7: ParminderK (7448 Tournament chips) 
+Seat 8: Str8FaceJr (25446 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+Dog33022 posted ante of 50 Tournament chips
+hvacsale posted ante of 50 Tournament chips
+TommyK5 posted ante of 50 Tournament chips
+55lucky55 posted ante of 50 Tournament chips
+tava54 posted ante of 50 Tournament chips
+ParminderK posted ante of 50 Tournament chips
+Str8FaceJr posted ante of 50 Tournament chips
+The button is moved to seat 0.
+Dog33022 posts the small blind [200 Tournament chips]
+hvacsale posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand (absent) with 30422 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15892 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 15175 Tournament chips.
+TommyK5, at seat 3, is in this hand with 4925 Tournament chips.
+55lucky55, at seat 4, is in this hand with 34614 Tournament chips.
+tava54, at seat 5, is in this hand with 32083 Tournament chips.
+ParminderK, at seat 7, is in this hand with 7398 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 25396 Tournament chips.
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dealt to QwertySpark [ 4c 8h ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+TommyK5 folds [400 Tournament chips]
+55lucky55 calls [400 Tournament chips]
+tava54 raises [1200 Tournament chips]
+ParminderK folds [1200 Tournament chips]
+Str8FaceJr folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Dog33022 folds [1000 Tournament chips]
+hvacsale folds [800 Tournament chips]
+55lucky55 calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Ad ] board:[ 6h Ad]
+** Dealing Flop ** [ 9c ] board:[ 6h Ad 9c]
+55lucky55 checks
+tava54 checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 6h Ad 9c Ts]
+(QwertySpark has entered the table, is no longer absent.)
+55lucky55 checks
+tava54 checks
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 6h Ad 9c Ts Qs]
+55lucky55 checks
+tava54 checks
+Round 4 is over.
+55lucky55 shows [ 5s 4s ] ace high
+Hand evaluation for 55lucky55 (6h Ad 9c Ts Qs: ace high)
+tava54 shows [ Td Js ] a pair of tens
+Hand evaluation for tava54 (Td Js Ad Ts Qs: a pair of tens)
+tava54 wins main pot 3400 Tournament chips with a pair of tens, ace/queen kickers.
+Seat 0: QwertySpark (30422 Tournament chips) 
+Seat 1: Dog33022 (15892 Tournament chips) 
+Seat 2: hvacsale (15175 Tournament chips) 
+Seat 3: TommyK5 (4925 Tournament chips) 
+Seat 4: 55lucky55 (33414 Tournament chips) 
+Seat 5: tava54 (34283 Tournament chips) 
+Seat 7: ParminderK (7398 Tournament chips) 
+Seat 8: Str8FaceJr (25396 Tournament chips) 
+Game #23936967-41 ends
+Game #23936967-42 starts
+Seat 0: QwertySpark (30422 Tournament chips) 
+Seat 1: Dog33022 (15892 Tournament chips) 
+Seat 2: hvacsale (15175 Tournament chips) 
+Seat 3: TommyK5 (4925 Tournament chips) 
+Seat 4: 55lucky55 (33414 Tournament chips) 
+Seat 5: tava54 (34283 Tournament chips) 
+Seat 7: ParminderK (7398 Tournament chips) 
+Seat 8: Str8FaceJr (25396 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+ParminderK posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [300 Tournament chips]
+TommyK5 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 30347 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15817 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14800 Tournament chips.
+TommyK5, at seat 3, is in this hand with 4250 Tournament chips.
+55lucky55, at seat 4, is in this hand with 33339 Tournament chips.
+tava54, at seat 5, is in this hand with 34208 Tournament chips.
+ParminderK, at seat 7, is in this hand with 7323 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 25321 Tournament chips.
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ 7d 4d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 folds [600 Tournament chips]
+tava54 folds [600 Tournament chips]
+ParminderK folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Dog33022 calls [600 Tournament chips]
+hvacsale folds [300 Tournament chips]
+TommyK5 checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 5s ] board:[ 8d 5s]
+** Dealing Flop ** [ Qs ] board:[ 8d 5s Qs]
+TommyK5 checks
+Dog33022 bets for 600 Tournament chips
+TommyK5 calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 8d 5s Qs Jh]
+TommyK5 checks
+Dog33022 bets for 600 Tournament chips
+TommyK5 calls [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 8d 5s Qs Jh 3d]
+TommyK5 checks
+Dog33022 bets for 1200 Tournament chips
+TommyK5 folds [1200 Tournament chips]
+Dog33022 is returned 1200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Dog33022 (Ac 5c 5s Qs Jh: a pair of fives)
+Dog33022 wins main pot 4500 Tournament chips.
+Seat 0: QwertySpark (30347 Tournament chips) 
+Seat 1: Dog33022 (18517 Tournament chips) 
+Seat 2: hvacsale (14800 Tournament chips) 
+Seat 3: TommyK5 (3050 Tournament chips) 
+Seat 4: 55lucky55 (33339 Tournament chips) 
+Seat 5: tava54 (34208 Tournament chips) 
+Seat 7: ParminderK (7323 Tournament chips) 
+Seat 8: Str8FaceJr (25321 Tournament chips) 
+Game #23936967-42 ends
+Game #23936967-43 starts
+Seat 0: QwertySpark (30347 Tournament chips) 
+Seat 1: Dog33022 (18517 Tournament chips) 
+Seat 2: hvacsale (14800 Tournament chips) 
+Seat 3: TommyK5 (3050 Tournament chips) 
+Seat 4: 55lucky55 (33339 Tournament chips) 
+Seat 5: tava54 (34208 Tournament chips) 
+Seat 7: ParminderK (7323 Tournament chips) 
+Seat 8: Str8FaceJr (25321 Tournament chips) 
+The button is at seat 1
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+ParminderK posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 2.
+TommyK5 posts the small blind [300 Tournament chips]
+55lucky55 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 30272 Tournament chips.
+Dog33022, at seat 1, is in this hand with 18442 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14725 Tournament chips.
+TommyK5, at seat 3, is in this hand with 2675 Tournament chips.
+55lucky55, at seat 4, is in this hand with 32664 Tournament chips.
+tava54, at seat 5, is in this hand with 34133 Tournament chips.
+ParminderK, at seat 7, is in this hand with 7248 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 25246 Tournament chips.
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ 2c Kh ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+tava54 folds [600 Tournament chips]
+ParminderK folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+Dog33022 folds [2400 Tournament chips]
+hvacsale folds [2400 Tournament chips]
+TommyK5 raises all-in [2675 Tournament chips]
+55lucky55 calls [2375 Tournament chips]
+QwertySpark calls [575 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Js ] board:[ Ah Js]
+** Dealing Flop ** [ 8d ] board:[ Ah Js 8d]
+55lucky55 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ Ah Js 8d 3d]
+55lucky55 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ Ah Js 8d 3d 7h]
+55lucky55 checks
+QwertySpark checks
+Round 4 is over.
+55lucky55 shows [ 5d 6d ] ace high
+Hand evaluation for 55lucky55 (6d Ah Js 8d 7h: ace high)
+QwertySpark shows [ 2c Kh ] ace high
+Hand evaluation for QwertySpark (Kh Ah Js 8d 7h: ace high)
+TommyK5 shows [ Kd Qd ] ace high
+Hand evaluation for TommyK5 (Kd Qd Ah Js 8d: ace high)
+TommyK5 wins main pot 9525 Tournament chips with ace/king/queen high.
+Seat 0: QwertySpark (27297 Tournament chips) 
+Seat 1: Dog33022 (18442 Tournament chips) 
+Seat 2: hvacsale (14725 Tournament chips) 
+Seat 3: TommyK5 (9525 Tournament chips) 
+Seat 4: 55lucky55 (30289 Tournament chips) 
+Seat 5: tava54 (34133 Tournament chips) 
+Seat 7: ParminderK (7248 Tournament chips) 
+Seat 8: Str8FaceJr (25246 Tournament chips) 
+Game #23936967-43 ends
+Game #23936967-44 starts
+Seat 0: QwertySpark (27297 Tournament chips) 
+Seat 1: Dog33022 (18442 Tournament chips) 
+Seat 2: hvacsale (14725 Tournament chips) 
+Seat 3: TommyK5 (9525 Tournament chips) 
+Seat 4: 55lucky55 (30289 Tournament chips) 
+Seat 5: tava54 (34133 Tournament chips) 
+Seat 7: ParminderK (7248 Tournament chips) 
+Seat 8: Str8FaceJr (25246 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+ParminderK posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+The button is moved to seat 3.
+55lucky55 posts the small blind [300 Tournament chips]
+tava54 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 27222 Tournament chips.
+Dog33022, at seat 1, is in this hand with 18367 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14650 Tournament chips.
+TommyK5, at seat 3, is in this hand with 9450 Tournament chips.
+55lucky55, at seat 4, is in this hand with 29914 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 33458 Tournament chips.
+ParminderK, at seat 7, is in this hand with 7173 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 25171 Tournament chips.
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+Dealt to QwertySpark [ As 7c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+ParminderK folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Dog33022 folds [600 Tournament chips]
+hvacsale folds [600 Tournament chips]
+TommyK5 folds [600 Tournament chips]
+55lucky55 raises [2700 Tournament chips]
+tava54 folds [2400 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+55lucky55 is returned 2400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 55lucky55 (Ks Kd: a pair of kings)
+55lucky55 shows [ Ks Kd ] a pair of kings
+Hand evaluation for 55lucky55 (Ks Kd: a pair of kings)
+55lucky55 wins main pot 2400 Tournament chips.
+(ParminderK has entered the table, is no longer absent.)
+Seat 0: QwertySpark (26622 Tournament chips) 
+Seat 1: Dog33022 (18367 Tournament chips) 
+Seat 2: hvacsale (14650 Tournament chips) 
+Seat 3: TommyK5 (9450 Tournament chips) 
+Seat 4: 55lucky55 (32014 Tournament chips) 
+Seat 5: tava54 (33458 Tournament chips) 
+Seat 7: ParminderK (7173 Tournament chips) 
+Seat 8: Str8FaceJr (25171 Tournament chips) 
+Game #23936967-44 ends
+Game #23936967-45 starts
+Seat 0: QwertySpark (26622 Tournament chips) 
+Seat 1: Dog33022 (18367 Tournament chips) 
+Seat 2: hvacsale (14650 Tournament chips) 
+Seat 3: TommyK5 (9450 Tournament chips) 
+Seat 4: 55lucky55 (32014 Tournament chips) 
+Seat 5: tava54 (33458 Tournament chips) 
+Seat 7: ParminderK (7173 Tournament chips) 
+Seat 8: Str8FaceJr (25171 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+ParminderK posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+The button is moved to seat 4.
+tava54 posts the small blind [300 Tournament chips]
+ParminderK posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 26547 Tournament chips.
+Dog33022, at seat 1, is in this hand with 18292 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14575 Tournament chips.
+TommyK5, at seat 3, is in this hand with 9375 Tournament chips.
+55lucky55, at seat 4, is in this hand with 31939 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 33083 Tournament chips.
+ParminderK, at seat 7, is in this hand with 6498 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 25096 Tournament chips.
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+ParminderK is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ Qh 7d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to ParminderK [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Dog33022 folds [600 Tournament chips]
+hvacsale folds [600 Tournament chips]
+TommyK5 folds [600 Tournament chips]
+55lucky55 raises [2400 Tournament chips]
+tava54 folds [2100 Tournament chips]
+ParminderK raises all-in [6498 Tournament chips]
+55lucky55 calls [4698 Tournament chips]
+Tournament all-in showdown -- players show:
+55lucky55 shows [ Qd Ks ]
+ParminderK shows [ 6h 6s ]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Js ] board:[ 8s Js]
+** Dealing Flop ** [ Kd ] board:[ 8s Js Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 8s Js Kd 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 8s Js Kd 2h 5s]
+        (no action in this round)
+Round 4 is over.
+55lucky55 shows [ Qd Ks ] a pair of kings, queen/jack kickers
+ParminderK shows [ 6h 6s ] a pair of sixes, king/jack kickers
+55lucky55 wins main pot 15096 Tournament chips with a pair of kings, queen/jack kickers.
+Seat 0: QwertySpark (26547 Tournament chips) 
+Seat 1: Dog33022 (18292 Tournament chips) 
+Seat 2: hvacsale (14575 Tournament chips) 
+Seat 3: TommyK5 (9375 Tournament chips) 
+Seat 4: 55lucky55 (39937 Tournament chips) 
+Seat 5: tava54 (33083 Tournament chips) 
+Seat 7: ParminderK (0 Tournament chips) 
+Seat 8: Str8FaceJr (25096 Tournament chips) 
+Game #23936967-45 ends
+Player ParminderK leaves the table with 0 Tournament chips
+Game #23936967-46 starts
+Seat 0: QwertySpark (26547 Tournament chips) 
+Seat 1: Dog33022 (18292 Tournament chips) 
+Seat 2: hvacsale (14575 Tournament chips) 
+Seat 3: TommyK5 (9375 Tournament chips) 
+Seat 4: 55lucky55 (39937 Tournament chips) 
+Seat 5: tava54 (33083 Tournament chips) 
+Seat 8: Str8FaceJr (25096 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 5.
+Str8FaceJr posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 26472 Tournament chips.
+Dog33022, at seat 1, is in this hand with 18217 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14500 Tournament chips.
+TommyK5, at seat 3, is in this hand with 9300 Tournament chips.
+55lucky55, at seat 4, is in this hand with 39862 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 33008 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 24421 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Dealt to QwertySpark [ Kc 3c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark raises [1200 Tournament chips]
+Dog33022 folds [1200 Tournament chips]
+hvacsale folds [1200 Tournament chips]
+TommyK5 calls [1200 Tournament chips]
+55lucky55 calls [1200 Tournament chips]
+tava54 folds [1200 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 4d ] board:[ Js 4d]
+** Dealing Flop ** [ 8h ] board:[ Js 4d 8h]
+QwertySpark bets for 1200 Tournament chips
+TommyK5 calls [1200 Tournament chips]
+55lucky55 calls [1200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ Js 4d 8h 3s]
+QwertySpark bets for 5400 Tournament chips
+TommyK5 folds [5400 Tournament chips]
+55lucky55 calls [5400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Js 4d 8h 3s 9h]
+QwertySpark bets for 9562 Tournament chips
+55lucky55 calls [9562 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Kc 3c ] a pair of threes
+Hand evaluation for QwertySpark (Kc 3c Js 3s 9h: a pair of threes)
+55lucky55 shows [ 9d Th ] a pair of nines
+Hand evaluation for 55lucky55 (9d Th Js 8h 9h: a pair of nines)
+55lucky55 wins main pot 38249 Tournament chips with a pair of nines, jack/ten kickers.
+Seat 0: QwertySpark (9110 Tournament chips) 
+Seat 1: Dog33022 (18217 Tournament chips) 
+Seat 2: hvacsale (14500 Tournament chips) 
+Seat 3: TommyK5 (6900 Tournament chips) 
+Seat 4: 55lucky55 (60749 Tournament chips) 
+Seat 5: tava54 (33008 Tournament chips) 
+Seat 8: Str8FaceJr (24421 Tournament chips) 
+Game #23936967-46 ends
+Game #23936967-47 starts
+Seat 0: QwertySpark (9110 Tournament chips) 
+Seat 1: Dog33022 (18217 Tournament chips) 
+Seat 2: hvacsale (14500 Tournament chips) 
+Seat 3: TommyK5 (6900 Tournament chips) 
+Seat 4: 55lucky55 (60749 Tournament chips) 
+Seat 5: tava54 (33008 Tournament chips) 
+Seat 8: Str8FaceJr (24421 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+Str8FaceJr posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8435 Tournament chips.
+Dog33022, at seat 1, is in this hand with 18142 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14425 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6825 Tournament chips.
+55lucky55, at seat 4, is in this hand with 60674 Tournament chips.
+tava54, at seat 5, is in this hand with 32933 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 24046 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Dealt to QwertySpark [ Jh 2s ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 calls [600 Tournament chips]
+hvacsale folds [600 Tournament chips]
+TommyK5 folds [600 Tournament chips]
+55lucky55 calls [600 Tournament chips]
+tava54 folds [600 Tournament chips]
+Str8FaceJr folds [300 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 6d ] board:[ 4s 6d]
+** Dealing Flop ** [ 9c ] board:[ 4s 6d 9c]
+QwertySpark checks
+Dog33022 bets for 600 Tournament chips
+55lucky55 calls [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 4s 6d 9c 5s]
+Dog33022 bets for 600 Tournament chips
+55lucky55 raises [6225 Tournament chips]
+Dog33022 folds [5625 Tournament chips]
+55lucky55 is returned 5625 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for 55lucky55 (4d 5d 4s 9c 5s: two pair, fives and fours)
+55lucky55 shows [ 4d 5d ] two pair, fives and fours
+Hand evaluation for 55lucky55 (4d 5d 4s 9c 5s: two pair, fives and fours)
+55lucky55 wins main pot 5025 Tournament chips.
+Seat 0: QwertySpark (8435 Tournament chips) 
+Seat 1: Dog33022 (16342 Tournament chips) 
+Seat 2: hvacsale (14425 Tournament chips) 
+Seat 3: TommyK5 (6825 Tournament chips) 
+Seat 4: 55lucky55 (63899 Tournament chips) 
+Seat 5: tava54 (32933 Tournament chips) 
+Seat 8: Str8FaceJr (24046 Tournament chips) 
+Game #23936967-47 ends
+Game #23936967-48 starts
+Seat 0: QwertySpark (8435 Tournament chips) 
+Seat 1: Dog33022 (16342 Tournament chips) 
+Seat 2: hvacsale (14425 Tournament chips) 
+Seat 3: TommyK5 (6825 Tournament chips) 
+Seat 4: 55lucky55 (63899 Tournament chips) 
+Seat 5: tava54 (32933 Tournament chips) 
+Seat 8: Str8FaceJr (24046 Tournament chips) 
+The button is at seat 5
+TommyK5 posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [300 Tournament chips]
+Dog33022 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8060 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15667 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 14350 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6750 Tournament chips.
+55lucky55, at seat 4, is in this hand with 63824 Tournament chips.
+tava54, at seat 5, is in this hand with 32858 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 23971 Tournament chips.
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+Dealt to QwertySpark [ Th 7h ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+hvacsale folds [600 Tournament chips]
+TommyK5 folds [600 Tournament chips]
+55lucky55 folds [600 Tournament chips]
+tava54 folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Dog33022 checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 3d ] board:[ Js 3d]
+** Dealing Flop ** [ 2h ] board:[ Js 3d 2h]
+QwertySpark checks
+Dog33022 checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Js 3d 2h 4d]
+QwertySpark bets for 1200 Tournament chips
+Dog33022 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Th 7h Js 3d 4d: jack high)
+QwertySpark wins main pot 1725 Tournament chips.
+Seat 0: QwertySpark (9485 Tournament chips) 
+Seat 1: Dog33022 (15667 Tournament chips) 
+Seat 2: hvacsale (14350 Tournament chips) 
+Seat 3: TommyK5 (6750 Tournament chips) 
+Seat 4: 55lucky55 (63824 Tournament chips) 
+Seat 5: tava54 (32858 Tournament chips) 
+Seat 8: Str8FaceJr (23971 Tournament chips) 
+Game #23936967-48 ends
+Game #23936967-49 starts
+Seat 0: QwertySpark (9485 Tournament chips) 
+Seat 1: Dog33022 (15667 Tournament chips) 
+Seat 2: hvacsale (14350 Tournament chips) 
+Seat 3: TommyK5 (6750 Tournament chips) 
+Seat 4: 55lucky55 (63824 Tournament chips) 
+Seat 5: tava54 (32858 Tournament chips) 
+Seat 8: Str8FaceJr (23971 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 0.
+Dog33022 posts the small blind [300 Tournament chips]
+hvacsale posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9410 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15292 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 13675 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6675 Tournament chips.
+55lucky55, at seat 4, is in this hand with 63749 Tournament chips.
+tava54, at seat 5, is in this hand with 32783 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 23896 Tournament chips.
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dealt to QwertySpark [ Ad 5d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+TommyK5 folds [600 Tournament chips]
+55lucky55 folds [600 Tournament chips]
+tava54 folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+Dog33022 folds [2100 Tournament chips]
+hvacsale folds [1800 Tournament chips]
+QwertySpark is returned 1800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ad 5d: ace high)
+QwertySpark wins main pot 2025 Tournament chips.
+Seat 0: QwertySpark (10835 Tournament chips) 
+Seat 1: Dog33022 (15292 Tournament chips) 
+Seat 2: hvacsale (13675 Tournament chips) 
+Seat 3: TommyK5 (6675 Tournament chips) 
+Seat 4: 55lucky55 (63749 Tournament chips) 
+Seat 5: tava54 (32783 Tournament chips) 
+Seat 8: Str8FaceJr (23896 Tournament chips) 
+Game #23936967-49 ends
+Game #23936967-50 starts
+Seat 0: QwertySpark (10835 Tournament chips) 
+Seat 1: Dog33022 (15292 Tournament chips) 
+Seat 2: hvacsale (13675 Tournament chips) 
+Seat 3: TommyK5 (6675 Tournament chips) 
+Seat 4: 55lucky55 (63749 Tournament chips) 
+Seat 5: tava54 (32783 Tournament chips) 
+Seat 8: Str8FaceJr (23896 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [300 Tournament chips]
+TommyK5 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10760 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15217 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 13300 Tournament chips.
+TommyK5, at seat 3, is in this hand with 6000 Tournament chips.
+55lucky55, at seat 4, is in this hand with 63674 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 32708 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 23821 Tournament chips.
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ 6d Ah ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 folds [600 Tournament chips]
+tava54 folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Dog33022 folds [600 Tournament chips]
+hvacsale folds [300 Tournament chips]
+TommyK5 checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 8s ] board:[ 3c 8s]
+** Dealing Flop ** [ 7d ] board:[ 3c 8s 7d]
+TommyK5 bets for 1200 Tournament chips
+QwertySpark folds [1200 Tournament chips]
+TommyK5 is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for TommyK5 (7s 4c 3c 8s 7d: a pair of sevens)
+TommyK5 wins main pot 2025 Tournament chips.
+Seat 0: QwertySpark (10160 Tournament chips) 
+Seat 1: Dog33022 (15217 Tournament chips) 
+Seat 2: hvacsale (13300 Tournament chips) 
+Seat 3: TommyK5 (8025 Tournament chips) 
+Seat 4: 55lucky55 (63674 Tournament chips) 
+Seat 5: tava54 (32708 Tournament chips) 
+Seat 8: Str8FaceJr (23821 Tournament chips) 
+Game #23936967-50 ends
+Game #23936967-51 starts
+Seat 0: QwertySpark (10160 Tournament chips) 
+Seat 1: Dog33022 (15217 Tournament chips) 
+Seat 2: hvacsale (13300 Tournament chips) 
+Seat 3: TommyK5 (8025 Tournament chips) 
+Seat 4: 55lucky55 (63674 Tournament chips) 
+Seat 5: tava54 (32708 Tournament chips) 
+Seat 8: Str8FaceJr (23821 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 75 Tournament chips
+Dog33022 posted ante of 75 Tournament chips
+hvacsale posted ante of 75 Tournament chips
+TommyK5 posted ante of 75 Tournament chips
+55lucky55 posted ante of 75 Tournament chips
+tava54 posted ante of 75 Tournament chips
+Str8FaceJr posted ante of 75 Tournament chips
+The button is moved to seat 2.
+TommyK5 posts the small blind [300 Tournament chips]
+55lucky55 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 10085 Tournament chips.
+Dog33022, at seat 1, is in this hand with 15142 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 13225 Tournament chips.
+TommyK5, at seat 3, is in this hand with 7650 Tournament chips.
+55lucky55, at seat 4, is in this hand with 62999 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 32633 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 23746 Tournament chips.
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ Td 5s ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+tava54 folds [600 Tournament chips]
+Str8FaceJr folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Dog33022 calls [600 Tournament chips]
+hvacsale folds [600 Tournament chips]
+TommyK5 calls [300 Tournament chips]
+55lucky55 checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 3h ] board:[ Ts 3h]
+** Dealing Flop ** [ 9d ] board:[ Ts 3h 9d]
+TommyK5 checks
+55lucky55 has timed out - the hand is checked
+Dog33022 checks
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ Ts 3h 9d Jd]
+TommyK5 bets for 1200 Tournament chips
+55lucky55 folds [1200 Tournament chips]
+Dog33022 calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Ts 3h 9d Jd 6s]
+TommyK5 bets for 1200 Tournament chips
+Dog33022 folds [1200 Tournament chips]
+TommyK5 is returned 1200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for TommyK5 (Jc Ts 9d Jd 6s: a pair of jacks)
+TommyK5 wins main pot 4725 Tournament chips.
+Seat 0: QwertySpark (10085 Tournament chips) 
+Seat 1: Dog33022 (13342 Tournament chips) 
+Seat 2: hvacsale (13225 Tournament chips) 
+Seat 3: TommyK5 (10875 Tournament chips) 
+Seat 4: 55lucky55 (62999 Tournament chips) 
+Seat 5: tava54 (32633 Tournament chips) 
+Seat 8: Str8FaceJr (23746 Tournament chips) 
+Game #23936967-51 ends
+Game #23936967-52 starts
+Seat 0: QwertySpark (10085 Tournament chips) 
+Seat 1: Dog33022 (13342 Tournament chips) 
+Seat 2: hvacsale (13225 Tournament chips) 
+Seat 3: TommyK5 (10875 Tournament chips) 
+Seat 4: 55lucky55 (62999 Tournament chips) 
+Seat 5: tava54 (32633 Tournament chips) 
+Seat 8: Str8FaceJr (23746 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 3.
+55lucky55 posts the small blind [400 Tournament chips]
+tava54 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9985 Tournament chips.
+Dog33022, at seat 1, is in this hand with 13242 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 13125 Tournament chips.
+TommyK5, at seat 3, is in this hand with 10775 Tournament chips.
+55lucky55, at seat 4, is in this hand with 62499 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 31733 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 23646 Tournament chips.
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+Dealt to QwertySpark [ 9d Jh ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Dog33022 folds [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 folds [800 Tournament chips]
+55lucky55 calls [400 Tournament chips]
+tava54 folds
+round 1 is over.
+Hand evaluation for 55lucky55 (4d 6h: six high)
+55lucky55 wins main pot 2300 Tournament chips.
+Seat 0: QwertySpark (9985 Tournament chips) 
+Seat 1: Dog33022 (13242 Tournament chips) 
+Seat 2: hvacsale (13125 Tournament chips) 
+Seat 3: TommyK5 (10775 Tournament chips) 
+Seat 4: 55lucky55 (64399 Tournament chips) 
+Seat 5: tava54 (31733 Tournament chips) 
+Seat 8: Str8FaceJr (23646 Tournament chips) 
+Game #23936967-52 ends
+Game #23936967-53 starts
+Seat 0: QwertySpark (9985 Tournament chips) 
+Seat 1: Dog33022 (13242 Tournament chips) 
+Seat 2: hvacsale (13125 Tournament chips) 
+Seat 3: TommyK5 (10775 Tournament chips) 
+Seat 4: 55lucky55 (64399 Tournament chips) 
+Seat 5: tava54 (31733 Tournament chips) 
+Seat 8: Str8FaceJr (23646 Tournament chips) 
+The button is at seat 3
+Str8FaceJr posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+The button is moved to seat 4.
+tava54 posts the small blind [400 Tournament chips]
+Str8FaceJr posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 9885 Tournament chips.
+Dog33022, at seat 1, is in this hand with 13142 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 13025 Tournament chips.
+TommyK5, at seat 3, is in this hand with 10675 Tournament chips.
+55lucky55, at seat 4, is in this hand with 64299 Tournament chips.
+tava54, at seat 5, is in this hand (absent) with 31233 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 22746 Tournament chips.
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ 3d Qc ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark folds [800 Tournament chips]
+Dog33022 calls [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 folds [800 Tournament chips]
+55lucky55 calls [800 Tournament chips]
+tava54 calls [400 Tournament chips]
+Str8FaceJr folds
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Td ] board:[ Kc Td]
+** Dealing Flop ** [ Ah ] board:[ Kc Td Ah]
+tava54 checks
+Dog33022 checks
+55lucky55 bets for 1950 Tournament chips
+tava54 folds [1950 Tournament chips]
+Dog33022 folds [1950 Tournament chips]
+55lucky55 is returned 1950 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for 55lucky55 (6h 7c Kc Td Ah: ace high)
+55lucky55 wins main pot 3900 Tournament chips.
+Seat 0: QwertySpark (9885 Tournament chips) 
+Seat 1: Dog33022 (12342 Tournament chips) 
+Seat 2: hvacsale (13025 Tournament chips) 
+Seat 3: TommyK5 (10675 Tournament chips) 
+Seat 4: 55lucky55 (67399 Tournament chips) 
+Seat 5: tava54 (30833 Tournament chips) 
+Seat 8: Str8FaceJr (22746 Tournament chips) 
+Game #23936967-53 ends
+Game #23936967-54 starts
+Seat 0: QwertySpark (9885 Tournament chips) 
+Seat 1: Dog33022 (12342 Tournament chips) 
+Seat 2: hvacsale (13025 Tournament chips) 
+Seat 3: TommyK5 (10675 Tournament chips) 
+Seat 4: 55lucky55 (67399 Tournament chips) 
+Seat 5: tava54 (30833 Tournament chips) 
+Seat 8: Str8FaceJr (22746 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+The button is moved to seat 5.
+Str8FaceJr posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8985 Tournament chips.
+Dog33022, at seat 1, is in this hand with 12242 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 12925 Tournament chips.
+TommyK5, at seat 3, is in this hand with 10575 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67299 Tournament chips.
+tava54, at seat 5, is in this hand with 30733 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 22246 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Dealt to QwertySpark [ Kd Qh ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 folds [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 calls [800 Tournament chips]
+55lucky55 raises [4300 Tournament chips]
+tava54 folds [4300 Tournament chips]
+Str8FaceJr folds [3900 Tournament chips]
+QwertySpark folds [3500 Tournament chips]
+TommyK5 folds [3500 Tournament chips]
+55lucky55 is returned 3500 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 55lucky55 (As Ac: a pair of aces)
+55lucky55 shows [ As Ac ] a pair of aces
+Hand evaluation for 55lucky55 (As Ac: a pair of aces)
+55lucky55 wins main pot 3500 Tournament chips.
+Seat 0: QwertySpark (8985 Tournament chips) 
+Seat 1: Dog33022 (12242 Tournament chips) 
+Seat 2: hvacsale (12925 Tournament chips) 
+Seat 3: TommyK5 (9775 Tournament chips) 
+Seat 4: 55lucky55 (69999 Tournament chips) 
+Seat 5: tava54 (30733 Tournament chips) 
+Seat 8: Str8FaceJr (22246 Tournament chips) 
+Game #23936967-54 ends
+Game #23936967-55 starts
+Seat 0: QwertySpark (8985 Tournament chips) 
+Seat 1: Dog33022 (12242 Tournament chips) 
+Seat 2: hvacsale (12925 Tournament chips) 
+Seat 3: TommyK5 (9775 Tournament chips) 
+Seat 4: 55lucky55 (69999 Tournament chips) 
+Seat 5: tava54 (30733 Tournament chips) 
+Seat 8: Str8FaceJr (22246 Tournament chips) 
+The button is at seat 5
+Dog33022 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [400 Tournament chips]
+Dog33022 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8485 Tournament chips.
+Dog33022, at seat 1, is in this hand with 11342 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 12825 Tournament chips.
+TommyK5, at seat 3, is in this hand with 9675 Tournament chips.
+55lucky55, at seat 4, is in this hand with 69899 Tournament chips.
+tava54, at seat 5, is in this hand with 30633 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 22146 Tournament chips.
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+Dealt to QwertySpark [ 4c As ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+hvacsale folds [800 Tournament chips]
+TommyK5 folds [800 Tournament chips]
+55lucky55 folds [800 Tournament chips]
+tava54 raises [2400 Tournament chips]
+Str8FaceJr folds [2400 Tournament chips]
+QwertySpark folds [2000 Tournament chips]
+Dog33022 folds [1600 Tournament chips]
+tava54 is returned 1600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for tava54 (Js Ks: king high)
+tava54 wins main pot 2700 Tournament chips.
+Seat 0: QwertySpark (8485 Tournament chips) 
+Seat 1: Dog33022 (11342 Tournament chips) 
+Seat 2: hvacsale (12825 Tournament chips) 
+Seat 3: TommyK5 (9675 Tournament chips) 
+Seat 4: 55lucky55 (69899 Tournament chips) 
+Seat 5: tava54 (32533 Tournament chips) 
+Seat 8: Str8FaceJr (22146 Tournament chips) 
+Game #23936967-55 ends
+Game #23936967-56 starts
+Seat 0: QwertySpark (8485 Tournament chips) 
+Seat 1: Dog33022 (11342 Tournament chips) 
+Seat 2: hvacsale (12825 Tournament chips) 
+Seat 3: TommyK5 (9675 Tournament chips) 
+Seat 4: 55lucky55 (69899 Tournament chips) 
+Seat 5: tava54 (32533 Tournament chips) 
+Seat 8: Str8FaceJr (22146 Tournament chips) 
+The button is at seat 8
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+The button is moved to seat 0.
+Dog33022 posts the small blind [400 Tournament chips]
+hvacsale posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8385 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10842 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11925 Tournament chips.
+TommyK5, at seat 3, is in this hand with 9575 Tournament chips.
+55lucky55, at seat 4, is in this hand with 69799 Tournament chips.
+tava54, at seat 5, is in this hand with 32433 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 22046 Tournament chips.
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dealt to QwertySpark [ Jh 3s ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+TommyK5 calls [800 Tournament chips]
+55lucky55 folds [800 Tournament chips]
+tava54 raises [4300 Tournament chips]
+Str8FaceJr folds [4300 Tournament chips]
+QwertySpark folds [4300 Tournament chips]
+Dog33022 folds [3900 Tournament chips]
+hvacsale folds [3500 Tournament chips]
+TommyK5 calls [3500 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ Kc ] board:[ Ks Kc]
+** Dealing Flop ** [ 6d ] board:[ Ks Kc 6d]
+TommyK5 checks
+tava54 checks
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ Ks Kc 6d Kd]
+TommyK5 bets for 1600 Tournament chips
+tava54 calls [1600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Ks Kc 6d Kd Ac]
+TommyK5 bets for 800 Tournament chips
+tava54 raises [1829 Tournament chips]
+TommyK5 calls [1029 Tournament chips]
+Round 4 is over.
+tava54 shows [ Kh As ] four kings
+Hand evaluation for tava54 (Kh As Ks Kc Kd: four kings)
+TommyK5 doesn't show [ Ah 6h ]
+(TommyK5 has Ah 6h.)
+tava54 wins main pot 17358 Tournament chips with four kings, ace kicker.
+Seat 0: QwertySpark (8385 Tournament chips) 
+Seat 1: Dog33022 (10842 Tournament chips) 
+Seat 2: hvacsale (11925 Tournament chips) 
+Seat 3: TommyK5 (1846 Tournament chips) 
+Seat 4: 55lucky55 (69799 Tournament chips) 
+Seat 5: tava54 (42062 Tournament chips) 
+Seat 8: Str8FaceJr (22046 Tournament chips) 
+Game #23936967-56 ends
+Game #23936967-57 starts
+Seat 0: QwertySpark (8385 Tournament chips) 
+Seat 1: Dog33022 (10842 Tournament chips) 
+Seat 2: hvacsale (11925 Tournament chips) 
+Seat 3: TommyK5 (1846 Tournament chips) 
+Seat 4: 55lucky55 (69799 Tournament chips) 
+Seat 5: tava54 (42062 Tournament chips) 
+Seat 8: Str8FaceJr (22046 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [400 Tournament chips]
+TommyK5 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 8285 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10742 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11425 Tournament chips.
+TommyK5, at seat 3, is in this hand with 946 Tournament chips.
+55lucky55, at seat 4, is in this hand with 69699 Tournament chips.
+tava54, at seat 5, is in this hand with 41962 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 21946 Tournament chips.
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ Tc 9c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 folds [800 Tournament chips]
+tava54 folds [800 Tournament chips]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark raises [3200 Tournament chips]
+Dog33022 folds [3200 Tournament chips]
+hvacsale folds [2800 Tournament chips]
+TommyK5 calls all-in [946 Tournament chips]
+QwertySpark is returned 1454 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Tc 9c ]
+TommyK5 shows [ 2s Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Ks ] board:[ Jh Ks]
+** Dealing Flop ** [ 6h ] board:[ Jh Ks 6h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Jh Ks 6h 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Jh Ks 6h 7c 2h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Tc 9c ] king/jack/ten high
+TommyK5 shows [ 2s Ac ] a pair of deuces, ace/king kickers
+TommyK5 wins main pot 4592 Tournament chips with a pair of deuces, ace/king kickers.
+Seat 0: QwertySpark (6539 Tournament chips) 
+Seat 1: Dog33022 (10742 Tournament chips) 
+Seat 2: hvacsale (11425 Tournament chips) 
+Seat 3: TommyK5 (4592 Tournament chips) 
+Seat 4: 55lucky55 (69699 Tournament chips) 
+Seat 5: tava54 (41962 Tournament chips) 
+Seat 8: Str8FaceJr (21946 Tournament chips) 
+Game #23936967-57 ends
+Game #23936967-58 starts
+Seat 0: QwertySpark (6539 Tournament chips) 
+Seat 1: Dog33022 (10742 Tournament chips) 
+Seat 2: hvacsale (11425 Tournament chips) 
+Seat 3: TommyK5 (4592 Tournament chips) 
+Seat 4: 55lucky55 (69699 Tournament chips) 
+Seat 5: tava54 (41962 Tournament chips) 
+Seat 8: Str8FaceJr (21946 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 2.
+TommyK5 posts the small blind [400 Tournament chips]
+55lucky55 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6439 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10642 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11325 Tournament chips.
+TommyK5, at seat 3, is in this hand with 4092 Tournament chips.
+55lucky55, at seat 4, is in this hand with 68799 Tournament chips.
+tava54, at seat 5, is in this hand with 41862 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 21846 Tournament chips.
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ 8s 5c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+tava54 folds [800 Tournament chips]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Dog33022 calls [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 calls [400 Tournament chips]
+55lucky55 checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Qc ] board:[ 2s Qc]
+** Dealing Flop ** [ 3s ] board:[ 2s Qc 3s]
+TommyK5 checks
+55lucky55 checks
+Dog33022 checks
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 2s Qc 3s Jd]
+TommyK5 checks
+55lucky55 checks
+Dog33022 checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 2s Qc 3s Jd 3d]
+TommyK5 has timed out - the hand is checked
+55lucky55 checks
+Dog33022 checks
+Round 4 is over.
+TommyK5 shows [ 6d 9c ] a pair of threes
+Hand evaluation for TommyK5 (9c Qc 3s Jd 3d: a pair of threes)
+55lucky55 shows [ Kh 5d ] a pair of threes
+Hand evaluation for 55lucky55 (Kh Qc 3s Jd 3d: a pair of threes)
+Dog33022 shows [ Td Ah ] a pair of threes
+Hand evaluation for Dog33022 (Ah Qc 3s Jd 3d: a pair of threes)
+Dog33022 wins main pot 3100 Tournament chips with a pair of threes, ace/queen kickers.
+Seat 0: QwertySpark (6439 Tournament chips) 
+Seat 1: Dog33022 (12942 Tournament chips) 
+Seat 2: hvacsale (11325 Tournament chips) 
+Seat 3: TommyK5 (3692 Tournament chips) 
+Seat 4: 55lucky55 (68799 Tournament chips) 
+Seat 5: tava54 (41862 Tournament chips) 
+Seat 8: Str8FaceJr (21846 Tournament chips) 
+Game #23936967-58 ends
+Game #23936967-59 starts
+Seat 0: QwertySpark (6439 Tournament chips) 
+Seat 1: Dog33022 (12942 Tournament chips) 
+Seat 2: hvacsale (11325 Tournament chips) 
+Seat 3: TommyK5 (3692 Tournament chips) 
+Seat 4: 55lucky55 (68799 Tournament chips) 
+Seat 5: tava54 (41862 Tournament chips) 
+Seat 8: Str8FaceJr (21846 Tournament chips) 
+The button is at seat 2
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+The button is moved to seat 3.
+55lucky55 posts the small blind [400 Tournament chips]
+tava54 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6339 Tournament chips.
+Dog33022, at seat 1, is in this hand with 12842 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11225 Tournament chips.
+TommyK5, at seat 3, is in this hand with 3592 Tournament chips.
+55lucky55, at seat 4, is in this hand with 68299 Tournament chips.
+tava54, at seat 5, is in this hand with 40962 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 21746 Tournament chips.
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+Dealt to QwertySpark [ 6d 2h ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Str8FaceJr folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Dog33022 folds [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 calls [800 Tournament chips]
+55lucky55 calls [400 Tournament chips]
+tava54 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 5h ] board:[ 5s 5h]
+** Dealing Flop ** [ Jc ] board:[ 5s 5h Jc]
+55lucky55 checks
+tava54 checks
+TommyK5 goes all-in for 2792 Tournament chips
+55lucky55 folds [2792 Tournament chips]
+tava54 folds [2792 Tournament chips]
+TommyK5 is returned 2792 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for TommyK5 (Kd Td 5s 5h Jc: a pair of fives)
+TommyK5 wins main pot 3100 Tournament chips.
+Seat 0: QwertySpark (6339 Tournament chips) 
+Seat 1: Dog33022 (12842 Tournament chips) 
+Seat 2: hvacsale (11225 Tournament chips) 
+Seat 3: TommyK5 (5892 Tournament chips) 
+Seat 4: 55lucky55 (67899 Tournament chips) 
+Seat 5: tava54 (40962 Tournament chips) 
+Seat 8: Str8FaceJr (21746 Tournament chips) 
+Game #23936967-59 ends
+Game #23936967-60 starts
+Seat 0: QwertySpark (6339 Tournament chips) 
+Seat 1: Dog33022 (12842 Tournament chips) 
+Seat 2: hvacsale (11225 Tournament chips) 
+Seat 3: TommyK5 (5892 Tournament chips) 
+Seat 4: 55lucky55 (67899 Tournament chips) 
+Seat 5: tava54 (40962 Tournament chips) 
+Seat 8: Str8FaceJr (21746 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 4.
+tava54 posts the small blind [400 Tournament chips]
+Str8FaceJr posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6239 Tournament chips.
+Dog33022, at seat 1, is in this hand with 12742 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11125 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5792 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67799 Tournament chips.
+tava54, at seat 5, is in this hand with 40462 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 20846 Tournament chips.
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ Ks 8s ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark raises all-in [6239 Tournament chips]
+Dog33022 folds [6239 Tournament chips]
+hvacsale folds [6239 Tournament chips]
+TommyK5 folds [5792 Tournament chips]
+55lucky55 folds [6239 Tournament chips]
+tava54 folds [5839 Tournament chips]
+Str8FaceJr folds [5439 Tournament chips]
+QwertySpark is returned 5439 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ks 8s: king high)
+QwertySpark wins main pot 2700 Tournament chips.
+Seat 0: QwertySpark (8139 Tournament chips) 
+Seat 1: Dog33022 (12742 Tournament chips) 
+Seat 2: hvacsale (11125 Tournament chips) 
+Seat 3: TommyK5 (5792 Tournament chips) 
+Seat 4: 55lucky55 (67799 Tournament chips) 
+Seat 5: tava54 (40462 Tournament chips) 
+Seat 8: Str8FaceJr (20846 Tournament chips) 
+Game #23936967-60 ends
+Game #23936967-61 starts
+Seat 0: QwertySpark (8139 Tournament chips) 
+Seat 1: Dog33022 (12742 Tournament chips) 
+Seat 2: hvacsale (11125 Tournament chips) 
+Seat 3: TommyK5 (5792 Tournament chips) 
+Seat 4: 55lucky55 (67799 Tournament chips) 
+Seat 5: tava54 (40462 Tournament chips) 
+Seat 8: Str8FaceJr (20846 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 5.
+Str8FaceJr posts the small blind [400 Tournament chips]
+QwertySpark posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7239 Tournament chips.
+Dog33022, at seat 1, is in this hand with 12642 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 11025 Tournament chips.
+TommyK5, at seat 3, is in this hand with 5692 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67699 Tournament chips.
+tava54, at seat 5, is in this hand with 40362 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 20346 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Dealt to QwertySpark [ Jc 5d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 folds [800 Tournament chips]
+hvacsale folds [800 Tournament chips]
+TommyK5 calls [800 Tournament chips]
+55lucky55 folds [800 Tournament chips]
+tava54 raises [3200 Tournament chips]
+Str8FaceJr folds [2800 Tournament chips]
+QwertySpark folds [2400 Tournament chips]
+TommyK5 calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 3s ] board:[ 5h 3s]
+** Dealing Flop ** [ Ac ] board:[ 5h 3s Ac]
+TommyK5 checks
+tava54 bets for 4150 Tournament chips
+TommyK5 folds [2492 Tournament chips]
+tava54 is returned 4150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for tava54 (4h 4s 5h 3s Ac: a pair of fours)
+tava54 wins main pot 8300 Tournament chips.
+Seat 0: QwertySpark (7239 Tournament chips) 
+Seat 1: Dog33022 (12642 Tournament chips) 
+Seat 2: hvacsale (11025 Tournament chips) 
+Seat 3: TommyK5 (2492 Tournament chips) 
+Seat 4: 55lucky55 (67699 Tournament chips) 
+Seat 5: tava54 (45462 Tournament chips) 
+Seat 8: Str8FaceJr (20346 Tournament chips) 
+Game #23936967-61 ends
+Game #23936967-62 starts
+Seat 0: QwertySpark (7239 Tournament chips) 
+Seat 1: Dog33022 (12642 Tournament chips) 
+Seat 2: hvacsale (11025 Tournament chips) 
+Seat 3: TommyK5 (2492 Tournament chips) 
+Seat 4: 55lucky55 (67699 Tournament chips) 
+Seat 5: tava54 (45462 Tournament chips) 
+Seat 8: Str8FaceJr (20346 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 100 Tournament chips
+Dog33022 posted ante of 100 Tournament chips
+hvacsale posted ante of 100 Tournament chips
+TommyK5 posted ante of 100 Tournament chips
+55lucky55 posted ante of 100 Tournament chips
+tava54 posted ante of 100 Tournament chips
+Str8FaceJr posted ante of 100 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [400 Tournament chips]
+Dog33022 posts the big blind [800 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6739 Tournament chips.
+Dog33022, at seat 1, is in this hand with 11742 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 10925 Tournament chips.
+TommyK5, at seat 3, is in this hand with 2392 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67599 Tournament chips.
+tava54, at seat 5, is in this hand with 45362 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 20246 Tournament chips.
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+TommyK5 is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+Dealt to QwertySpark [ 4h Tc ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to TommyK5 [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+hvacsale folds [800 Tournament chips]
+TommyK5 raises all-in [2392 Tournament chips]
+55lucky55 folds [2392 Tournament chips]
+tava54 calls [2392 Tournament chips]
+Str8FaceJr folds [2392 Tournament chips]
+QwertySpark folds [1992 Tournament chips]
+Dog33022 folds [1592 Tournament chips]
+Tournament all-in showdown -- players show:
+TommyK5 shows [ 5h 5d ]
+tava54 shows [ 9d 8s ]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 3s ] board:[ 3d 3s]
+** Dealing Flop ** [ 8d ] board:[ 3d 3s 8d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 3d 3s 8d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ 3d 3s 8d 3h 6s]
+        (no action in this round)
+Round 4 is over.
+TommyK5 shows [ 5h 5d ] full house, threes full of fives
+tava54 shows [ 9d 8s ] full house, threes full of eights
+tava54 wins main pot 6684 Tournament chips with full house, threes full of eights.
+Seat 0: QwertySpark (6739 Tournament chips) 
+Seat 1: Dog33022 (11742 Tournament chips) 
+Seat 2: hvacsale (10925 Tournament chips) 
+Seat 3: TommyK5 (0 Tournament chips) 
+Seat 4: 55lucky55 (67599 Tournament chips) 
+Seat 5: tava54 (49654 Tournament chips) 
+Seat 8: Str8FaceJr (20246 Tournament chips) 
+Game #23936967-62 ends
+Player TommyK5 leaves the table with 0 Tournament chips
+Game #23936967-63 starts
+Seat 0: QwertySpark (6739 Tournament chips) 
+Seat 1: Dog33022 (11742 Tournament chips) 
+Seat 2: hvacsale (10925 Tournament chips) 
+Seat 4: 55lucky55 (67599 Tournament chips) 
+Seat 5: tava54 (49654 Tournament chips) 
+Seat 8: Str8FaceJr (20246 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 150 Tournament chips
+Dog33022 posted ante of 150 Tournament chips
+hvacsale posted ante of 150 Tournament chips
+55lucky55 posted ante of 150 Tournament chips
+tava54 posted ante of 150 Tournament chips
+Str8FaceJr posted ante of 150 Tournament chips
+The button is moved to seat 0.
+Dog33022 posts the small blind [600 Tournament chips]
+hvacsale posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6589 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10992 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 9575 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67449 Tournament chips.
+tava54, at seat 5, is in this hand with 49504 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand (absent) with 20096 Tournament chips.
+Dog33022 is dealt: **
+hvacsale is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dealt to QwertySpark [ 8c 2s ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+55lucky55 raises [5100 Tournament chips]
+tava54 folds [5100 Tournament chips]
+Str8FaceJr folds [5100 Tournament chips]
+QwertySpark folds [5100 Tournament chips]
+Dog33022 folds [4500 Tournament chips]
+hvacsale folds [3900 Tournament chips]
+55lucky55 is returned 3900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 55lucky55 (7s 7d: a pair of sevens)
+55lucky55 shows [ 7s 7d ] a pair of sevens
+Hand evaluation for 55lucky55 (7s 7d: a pair of sevens)
+55lucky55 wins main pot 3900 Tournament chips.
+Seat 0: QwertySpark (6589 Tournament chips) 
+Seat 1: Dog33022 (10992 Tournament chips) 
+Seat 2: hvacsale (9575 Tournament chips) 
+Seat 4: 55lucky55 (70149 Tournament chips) 
+Seat 5: tava54 (49504 Tournament chips) 
+Seat 8: Str8FaceJr (20096 Tournament chips) 
+Game #23936967-63 ends
+Game #23936967-64 starts
+Seat 0: QwertySpark (6589 Tournament chips) 
+Seat 1: Dog33022 (10992 Tournament chips) 
+Seat 2: hvacsale (9575 Tournament chips) 
+Seat 4: 55lucky55 (70149 Tournament chips) 
+Seat 5: tava54 (49504 Tournament chips) 
+Seat 8: Str8FaceJr (20096 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 150 Tournament chips
+Dog33022 posted ante of 150 Tournament chips
+hvacsale posted ante of 150 Tournament chips
+55lucky55 posted ante of 150 Tournament chips
+tava54 posted ante of 150 Tournament chips
+Str8FaceJr posted ante of 150 Tournament chips
+The button is moved to seat 1.
+hvacsale posts the small blind [600 Tournament chips]
+55lucky55 posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6439 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10842 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 8825 Tournament chips.
+55lucky55, at seat 4, is in this hand with 68799 Tournament chips.
+tava54, at seat 5, is in this hand with 49354 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 19946 Tournament chips.
+hvacsale is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+Dealt to QwertySpark [ Tc 8h ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+tava54 raises [5100 Tournament chips]
+Str8FaceJr folds [5100 Tournament chips]
+QwertySpark folds [5100 Tournament chips]
+Dog33022 folds [5100 Tournament chips]
+hvacsale folds [4500 Tournament chips]
+55lucky55 folds [3900 Tournament chips]
+tava54 is returned 3900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for tava54 (As Qh: ace high)
+tava54 wins main pot 3900 Tournament chips.
+Seat 0: QwertySpark (6439 Tournament chips) 
+Seat 1: Dog33022 (10842 Tournament chips) 
+Seat 2: hvacsale (8825 Tournament chips) 
+Seat 3: Plumbnator (112122 Tournament chips) 
+Seat 4: 55lucky55 (68799 Tournament chips) 
+Seat 5: tava54 (52054 Tournament chips) 
+Seat 8: Str8FaceJr (19946 Tournament chips) 
+Game #23936967-64 ends
+Game #23936967-65 starts
+Seat 0: QwertySpark (6439 Tournament chips) 
+Seat 1: Dog33022 (10842 Tournament chips) 
+Seat 2: hvacsale (8825 Tournament chips) 
+Seat 3: Plumbnator (112122 Tournament chips) 
+Seat 4: 55lucky55 (68799 Tournament chips) 
+Seat 5: tava54 (52054 Tournament chips) 
+Seat 8: Str8FaceJr (19946 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 150 Tournament chips
+55lucky55 posted ante of 150 Tournament chips
+tava54 posted ante of 150 Tournament chips
+Dog33022 posted ante of 150 Tournament chips
+hvacsale posted ante of 150 Tournament chips
+Str8FaceJr posted ante of 150 Tournament chips
+The button is moved to seat 2.
+55lucky55 posts the small blind [600 Tournament chips]
+tava54 posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6289 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10692 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 8675 Tournament chips.
+55lucky55, at seat 4, is in this hand with 68049 Tournament chips.
+tava54, at seat 5, is in this hand with 50704 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 19796 Tournament chips.
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Dealt to QwertySpark [ 7s 5c ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Str8FaceJr folds [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+Dog33022 folds [1200 Tournament chips]
+hvacsale folds [1200 Tournament chips]
+55lucky55 folds, showing 9h 3c [600 Tournament chips]
+tava54 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for tava54 (2d As: ace high)
+tava54 wins main pot 2100 Tournament chips.
+Seat 0: QwertySpark (6289 Tournament chips) 
+Seat 1: Dog33022 (10692 Tournament chips) 
+Seat 2: hvacsale (8675 Tournament chips) 
+Seat 3: Plumbnator (112122 Tournament chips) 
+Seat 4: 55lucky55 (68049 Tournament chips) 
+Seat 5: tava54 (53404 Tournament chips) 
+Seat 8: Str8FaceJr (19796 Tournament chips) 
+Game #23936967-65 ends
+Game #23936967-66 starts
+Seat 0: QwertySpark (6289 Tournament chips) 
+Seat 1: Dog33022 (10692 Tournament chips) 
+Seat 2: hvacsale (8675 Tournament chips) 
+Seat 3: Plumbnator (112122 Tournament chips) 
+Seat 4: 55lucky55 (68049 Tournament chips) 
+Seat 5: tava54 (53404 Tournament chips) 
+Seat 8: Str8FaceJr (19796 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 150 Tournament chips
+Dog33022 posted ante of 150 Tournament chips
+hvacsale posted ante of 150 Tournament chips
+Plumbnator posted ante of 150 Tournament chips
+55lucky55 posted ante of 150 Tournament chips
+tava54 posted ante of 150 Tournament chips
+Str8FaceJr posted ante of 150 Tournament chips
+The button is moved to seat 4.
+tava54 posts the small blind [600 Tournament chips]
+Str8FaceJr posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 6139 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10542 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 8525 Tournament chips.
+Plumbnator, at seat 3, is in this hand with 111972 Tournament chips.
+55lucky55, at seat 4, is in this hand with 67899 Tournament chips.
+tava54, at seat 5, is in this hand with 52654 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 18446 Tournament chips.
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Plumbnator is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Plumbnator is dealt: **
+55lucky55 is dealt: **
+Dealt to QwertySpark [ Qc 7h ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+QwertySpark folds [1200 Tournament chips]
+Dog33022 folds [1200 Tournament chips]
+hvacsale folds [1200 Tournament chips]
+Plumbnator folds [1200 Tournament chips]
+55lucky55 raises [3600 Tournament chips]
+tava54 calls [3000 Tournament chips]
+Str8FaceJr calls [2400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 2h ] board:[ 9c 2h]
+** Dealing Flop ** [ 5h ] board:[ 9c 2h 5h]
+tava54 checks
+Str8FaceJr checks
+55lucky55 bets for 4725 Tournament chips
+tava54 calls [4725 Tournament chips]
+Str8FaceJr folds [4725 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 9c 2h 5h Ts]
+tava54 checks
+55lucky55 checks
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 9c 2h 5h Ts 9h]
+tava54 bets for 10650 Tournament chips
+55lucky55 calls [10650 Tournament chips]
+Round 4 is over.
+tava54 shows [ Qh Kh ] flush, king high
+Hand evaluation for tava54 (Qh Kh 2h 5h 9h: flush, king high)
+55lucky55 doesn't show [ 2d Qd ]
+(55lucky55 has 2d Qd.)
+tava54 wins main pot 42600 Tournament chips with flush, king/queen/nine high.
+Seat 0: QwertySpark (6139 Tournament chips) 
+Seat 1: Dog33022 (10542 Tournament chips) 
+Seat 2: hvacsale (8525 Tournament chips) 
+Seat 3: Plumbnator (111972 Tournament chips) 
+Seat 4: 55lucky55 (48924 Tournament chips) 
+Seat 5: tava54 (76879 Tournament chips) 
+Seat 8: Str8FaceJr (16046 Tournament chips) 
+Game #23936967-66 ends
+Game #23936967-67 starts
+Seat 0: QwertySpark (6139 Tournament chips) 
+Seat 1: Dog33022 (10542 Tournament chips) 
+Seat 2: hvacsale (8525 Tournament chips) 
+Seat 3: Plumbnator (111972 Tournament chips) 
+Seat 4: 55lucky55 (48924 Tournament chips) 
+Seat 5: tava54 (76879 Tournament chips) 
+Seat 8: Str8FaceJr (16046 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 150 Tournament chips
+Dog33022 posted ante of 150 Tournament chips
+hvacsale posted ante of 150 Tournament chips
+Plumbnator posted ante of 150 Tournament chips
+55lucky55 posted ante of 150 Tournament chips
+tava54 posted ante of 150 Tournament chips
+Str8FaceJr posted ante of 150 Tournament chips
+The button is moved to seat 5.
+Str8FaceJr posts the small blind [600 Tournament chips]
+QwertySpark posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 4789 Tournament chips.
+Dog33022, at seat 1, is in this hand with 10392 Tournament chips.
+hvacsale, at seat 2, is in this hand (absent) with 8375 Tournament chips.
+Plumbnator, at seat 3, is in this hand with 111822 Tournament chips.
+55lucky55, at seat 4, is in this hand with 48774 Tournament chips.
+tava54, at seat 5, is in this hand with 76729 Tournament chips.
+Str8FaceJr, at seat 8, is in this hand with 15296 Tournament chips.
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Plumbnator is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Str8FaceJr is dealt: **
+
+Dog33022 is dealt: **
+hvacsale is dealt: **
+Plumbnator is dealt: **
+55lucky55 is dealt: **
+tava54 is dealt: **
+Dealt to QwertySpark [ 7d 9d ]
+Dealt to Dog33022 [ **** ]
+Dealt to hvacsale [ **** ]
+Dealt to Plumbnator [ **** ]
+Dealt to 55lucky55 [ **** ]
+Dealt to tava54 [ **** ]
+Dealt to Str8FaceJr [ **** ]
+Dog33022 folds [1200 Tournament chips]
+hvacsale folds [1200 Tournament chips]
+Plumbnator folds [1200 Tournament chips]
+55lucky55 raises [2400 Tournament chips]
+tava54 calls [2400 Tournament chips]
+Str8FaceJr calls [1800 Tournament chips]
+QwertySpark calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 7s ] board:[ 3s 7s]
+** Dealing Flop ** [ Jc ] board:[ 3s 7s Jc]
+Str8FaceJr checks
+QwertySpark goes all-in for 3589 Tournament chips
+55lucky55 folds [3589 Tournament chips]
+tava54 folds [3589 Tournament chips]
+Str8FaceJr calls [3589 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7d 9d ]
+Str8FaceJr shows [ 9h 8s ]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 3s 7s Jc Qs]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 3s 7s Jc Qs 4s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7d 9d ] a pair of sevens, queen/jack kickers
+Str8FaceJr shows [ 9h 8s ] flush, queen/eight/seven high
+Str8FaceJr wins main pot 17828 Tournament chips with flush, queen/eight/seven high.
+Seat 0: QwertySpark (0 Tournament chips) 
+Seat 1: Dog33022 (10392 Tournament chips) 
+Seat 2: hvacsale (8375 Tournament chips) 
+Seat 3: Plumbnator (111822 Tournament chips) 
+Seat 4: 55lucky55 (46374 Tournament chips) 
+Seat 5: tava54 (74329 Tournament chips) 
+Seat 8: Str8FaceJr (27735 Tournament chips) 
+Game #23936967-67 ends
+Player QwertySpark leaves the table with 0 Tournament chips

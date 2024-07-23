@@ -1,0 +1,1287 @@
+Game#: 23938324
+chocolat777 bets for 200 Tournament chips
+AcesUp329 raises all-in [825 Tournament chips]
+chocolat777 calls [625 Tournament chips]
+Tournament all-in showdown -- players show:
+chocolat777 shows [ Qd 4s ]
+AcesUp329 shows [ Ts Th ]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 3d 8d 2d Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 3d 8d 2d Kh 4d]
+        (no action in this round)
+Round 4 is over.
+chocolat777 shows [ Qd 4s ] flush, queen/eight/four high
+AcesUp329 shows [ Ts Th ] a pair of tens, king/eight kickers
+chocolat777 wins main pot 2450 Tournament chips with flush, queen/eight/four high.
+Seat 0: chocolat777 (7695 Tournament chips) 
+Seat 1: luckykarma (2650 Tournament chips) 
+Seat 2: tonygill (6290 Tournament chips) 
+Seat 3: Tx_River_Rat (1400 Tournament chips) 
+Seat 4: AcesUp329 (0 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 8: QwertySpark (5275 Tournament chips) 
+Game #23938324-27 ends
+Player AcesUp329 leaves the table with 0 Tournament chips
+Game #23938324-28 starts
+Seat 0: chocolat777 (7695 Tournament chips) 
+Seat 1: luckykarma (2650 Tournament chips) 
+Seat 2: tonygill (6290 Tournament chips) 
+Seat 3: Tx_River_Rat (1400 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 8: QwertySpark (5275 Tournament chips) 
+The button is at seat 5
+chocolat777 posts the small blind [100 Tournament chips]
+luckykarma posts the big blind [200 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7595 Tournament chips.
+luckykarma, at seat 1, is in this hand with 2450 Tournament chips.
+tonygill, at seat 2, is in this hand with 6290 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 1400 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1965 Tournament chips.
+chocolat777 is dealt: **
+luckykarma is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+chocolat777 is dealt: **
+luckykarma is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+tonygill calls [200 Tournament chips]
+Tx_River_Rat folds [200 Tournament chips]
+DarthWayner folds [200 Tournament chips]
+chocolat777 calls [100 Tournament chips]
+luckykarma checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 7d ] board:[ 5h 7d]
+** Dealing Flop ** [ Qs ] board:[ 5h 7d Qs]
+chocolat777 checks
+luckykarma checks
+tonygill checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 5h 7d Qs 8c]
+chocolat777 checks
+luckykarma checks
+tonygill checks
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 5h 7d Qs 8c Jd]
+chocolat777 checks
+luckykarma checks
+tonygill checks
+Round 4 is over.
+chocolat777 shows [ Ac 3d ] ace high
+Hand evaluation for chocolat777 (Ac 7d Qs 8c Jd: ace high)
+luckykarma doesn't show [ 9d 2d ]
+(luckykarma has 9d 2d.)
+tonygill shows [ 8h Kh ] a pair of eights
+Hand evaluation for tonygill (8h Kh Qs 8c Jd: a pair of eights)
+tonygill wins main pot 600 Tournament chips with a pair of eights, king/queen kickers.
+Seat 0: chocolat777 (7495 Tournament chips) 
+Seat 1: luckykarma (2450 Tournament chips) 
+Seat 2: tonygill (6690 Tournament chips) 
+Seat 3: Tx_River_Rat (1400 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 8: QwertySpark (5275 Tournament chips) 
+Game #23938324-28 ends
+Game #23938324-29 starts
+Seat 0: chocolat777 (7495 Tournament chips) 
+Seat 1: luckykarma (2450 Tournament chips) 
+Seat 2: tonygill (6690 Tournament chips) 
+Seat 3: Tx_River_Rat (1400 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 8: QwertySpark (5275 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+luckykarma posts the small blind [100 Tournament chips]
+tonygill posts the big blind [200 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7495 Tournament chips.
+luckykarma, at seat 1, is in this hand with 2350 Tournament chips.
+tonygill, at seat 2, is in this hand with 6490 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 1400 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1965 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5275 Tournament chips.
+luckykarma is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+
+chocolat777 is dealt: **
+luckykarma is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+
+chocolat777 is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to luckykarma [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to QwertySpark [ As 2d ]
+Tx_River_Rat calls [200 Tournament chips]
+DarthWayner folds [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+chocolat777 calls [200 Tournament chips]
+luckykarma raises [700 Tournament chips]
+tonygill folds [600 Tournament chips]
+Tx_River_Rat raises all-in [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+chocolat777 calls [1200 Tournament chips]
+luckykarma raises all-in [1650 Tournament chips]
+chocolat777 calls [1050 Tournament chips]
+Tournament all-in showdown -- players show:
+chocolat777 shows [ Qs Jh ]
+luckykarma shows [ Kd Ks ]
+Tx_River_Rat shows [ 5s 5h ]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 6d ] board:[ Qc 6d]
+** Dealing Flop ** [ Ac ] board:[ Qc 6d Ac]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Qc 6d Ac 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Qc 6d Ac 5c Js]
+        (no action in this round)
+Round 4 is over.
+chocolat777 shows [ Qs Jh ] two pair, queens and jacks, ace kicker
+luckykarma shows [ Kd Ks ] a pair of kings, ace/queen kickers
+Tx_River_Rat shows [ 5s 5h ] three fives, ace/queen kickers
+Tx_River_Rat wins main pot 4600 Tournament chips with three fives, ace/queen kickers.
+chocolat777 wins side pot #1 2100 Tournament chips with two pair, queens and jacks, ace kicker.
+Seat 0: chocolat777 (7145 Tournament chips) 
+Seat 1: luckykarma (0 Tournament chips) 
+Seat 2: tonygill (6490 Tournament chips) 
+Seat 3: Tx_River_Rat (4600 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+Game #23938324-29 ends
+Player luckykarma leaves the table with 0 Tournament chips
+Game #23938324-30 starts
+Seat 0: chocolat777 (7145 Tournament chips) 
+Seat 2: tonygill (6490 Tournament chips) 
+Seat 3: Tx_River_Rat (4600 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+tonygill posts the small blind [150 Tournament chips]
+Tx_River_Rat posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7145 Tournament chips.
+tonygill, at seat 2, is in this hand with 6340 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4300 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1965 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1425 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5075 Tournament chips.
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 6s 3c ]
+DarthWayner folds [300 Tournament chips]
+tstpeter folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+chocolat777 calls [300 Tournament chips]
+tonygill calls [150 Tournament chips]
+Tx_River_Rat checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Td ] board:[ 8c Td]
+** Dealing Flop ** [ 5d ] board:[ 8c Td 5d]
+tonygill checks
+Tx_River_Rat checks
+chocolat777 bets for 300 Tournament chips
+tonygill folds [300 Tournament chips]
+Tx_River_Rat folds [300 Tournament chips]
+chocolat777 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for chocolat777 (5s Kc 8c Td 5d: a pair of fives)
+chocolat777 wins main pot 900 Tournament chips.
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (4300 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+Game #23938324-30 ends
+Game #23938324-31 starts
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (4300 Tournament chips) 
+Seat 5: DarthWayner (1965 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Tx_River_Rat posts the small blind [150 Tournament chips]
+DarthWayner posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7745 Tournament chips.
+tonygill, at seat 2, is in this hand with 6190 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4150 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1665 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1425 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5075 Tournament chips.
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 2c Ks ]
+tstpeter raises all-in [1425 Tournament chips]
+QwertySpark folds [1425 Tournament chips]
+chocolat777 folds [1425 Tournament chips]
+tonygill folds [1425 Tournament chips]
+Tx_River_Rat folds [1275 Tournament chips]
+DarthWayner folds [1125 Tournament chips]
+tstpeter is returned 1125 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for tstpeter (9s Ac: ace high)
+tstpeter wins main pot 750 Tournament chips.
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (4150 Tournament chips) 
+Seat 5: DarthWayner (1665 Tournament chips) 
+Seat 6: hucklepucker (510 Tournament chips) 
+Seat 7: tstpeter (1875 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+Game #23938324-31 ends
+Game #23938324-32 starts
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (4150 Tournament chips) 
+Seat 5: DarthWayner (1665 Tournament chips) 
+Seat 6: hucklepucker (510 Tournament chips) 
+Seat 7: tstpeter (1875 Tournament chips) 
+Seat 8: QwertySpark (5075 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+DarthWayner posts the small blind [150 Tournament chips]
+hucklepucker posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7745 Tournament chips.
+tonygill, at seat 2, is in this hand with 6190 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4150 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1515 Tournament chips.
+hucklepucker, at seat 6, is in this hand with 210 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1875 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5075 Tournament chips.
+DarthWayner is dealt: **
+hucklepucker is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+hucklepucker is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to hucklepucker [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ Ks 3s ]
+tstpeter folds [300 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+chocolat777 folds [600 Tournament chips]
+tonygill folds [600 Tournament chips]
+Tx_River_Rat calls [600 Tournament chips]
+DarthWayner folds [450 Tournament chips]
+hucklepucker calls all-in [210 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 6h ] board:[ 9h 6h]
+** Dealing Flop ** [ 5c ] board:[ 9h 6h 5c]
+QwertySpark checks
+Tx_River_Rat goes all-in for 3550 Tournament chips
+QwertySpark folds [3550 Tournament chips]
+Tx_River_Rat is returned 3550 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Tx_River_Rat shows [ 7h Ah ]
+hucklepucker shows [ 3h Jh ]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 9h 6h 5c 9c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 9h 6h 5c 9c Jd]
+        (no action in this round)
+Round 4 is over.
+Tx_River_Rat shows [ 7h Ah ] a pair of nines, ace/jack kickers
+hucklepucker shows [ 3h Jh ] two pair, jacks and nines, six kicker
+hucklepucker wins main pot 1680 Tournament chips with two pair, jacks and nines, six kicker.
+Tx_River_Rat wins side pot #1 180 Tournament chips with a pair of nines, ace/jack kickers.
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (3730 Tournament chips) 
+Seat 5: DarthWayner (1515 Tournament chips) 
+Seat 6: hucklepucker (1680 Tournament chips) 
+Seat 7: tstpeter (1875 Tournament chips) 
+Seat 8: QwertySpark (4475 Tournament chips) 
+Game #23938324-32 ends
+Game #23938324-33 starts
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (6190 Tournament chips) 
+Seat 3: Tx_River_Rat (3730 Tournament chips) 
+Seat 5: DarthWayner (1515 Tournament chips) 
+Seat 6: hucklepucker (1680 Tournament chips) 
+Seat 7: tstpeter (1875 Tournament chips) 
+Seat 8: QwertySpark (4475 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+hucklepucker posts the small blind [150 Tournament chips]
+tstpeter posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7745 Tournament chips.
+tonygill, at seat 2, is in this hand with 6190 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 3730 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 1515 Tournament chips.
+hucklepucker, at seat 6, is in this hand with 1530 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1575 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4475 Tournament chips.
+hucklepucker is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+hucklepucker is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to hucklepucker [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 4h 2s ]
+QwertySpark folds [300 Tournament chips]
+chocolat777 folds [300 Tournament chips]
+tonygill calls [300 Tournament chips]
+Tx_River_Rat calls [300 Tournament chips]
+DarthWayner raises all-in [1515 Tournament chips]
+hucklepucker folds [1365 Tournament chips]
+tstpeter folds [1215 Tournament chips]
+tonygill folds [1215 Tournament chips]
+Tx_River_Rat calls [1215 Tournament chips]
+Tournament all-in showdown -- players show:
+Tx_River_Rat shows [ Qh Jh ]
+DarthWayner shows [ Ad Ks ]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Kd ] board:[ As Kd]
+** Dealing Flop ** [ 4s ] board:[ As Kd 4s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ As Kd 4s 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ As Kd 4s 8s 8c]
+        (no action in this round)
+Round 4 is over.
+Tx_River_Rat shows [ Qh Jh ] a pair of eights, ace/king kickers
+DarthWayner shows [ Ad Ks ] two pair, aces and kings, eight kicker
+DarthWayner wins main pot 3780 Tournament chips with two pair, aces and kings, eight kicker.
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (2215 Tournament chips) 
+Seat 5: DarthWayner (3780 Tournament chips) 
+Seat 6: hucklepucker (1530 Tournament chips) 
+Seat 7: tstpeter (1575 Tournament chips) 
+Seat 8: QwertySpark (4475 Tournament chips) 
+Game #23938324-33 ends
+Game #23938324-34 starts
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (2215 Tournament chips) 
+Seat 5: DarthWayner (3780 Tournament chips) 
+Seat 6: hucklepucker (1530 Tournament chips) 
+Seat 7: tstpeter (1575 Tournament chips) 
+Seat 8: QwertySpark (4475 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+tstpeter posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7745 Tournament chips.
+tonygill, at seat 2, is in this hand with 5890 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 2215 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 3780 Tournament chips.
+hucklepucker, at seat 6, is in this hand with 1530 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1425 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4175 Tournament chips.
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+hucklepucker is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+hucklepucker is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to hucklepucker [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 4d 4s ]
+chocolat777 folds [300 Tournament chips]
+tonygill folds [300 Tournament chips]
+Tx_River_Rat folds [300 Tournament chips]
+DarthWayner raises all-in [3780 Tournament chips]
+hucklepucker calls all-in [1530 Tournament chips]
+tstpeter folds [1425 Tournament chips]
+QwertySpark folds [3480 Tournament chips]
+DarthWayner is returned 2250 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+DarthWayner shows [ Kd Ah ]
+hucklepucker shows [ Jc As ]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Kh ] board:[ 5d Kh]
+** Dealing Flop ** [ Ts ] board:[ 5d Kh Ts]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 5d Kh Ts 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 5d Kh Ts 5h 2d]
+        (no action in this round)
+Round 4 is over.
+DarthWayner shows [ Kd Ah ] two pair, kings and fives, ace kicker
+hucklepucker shows [ Jc As ] a pair of fives, ace/king kickers
+DarthWayner wins main pot 3510 Tournament chips with two pair, kings and fives, ace kicker.
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (2215 Tournament chips) 
+Seat 5: DarthWayner (5760 Tournament chips) 
+Seat 6: hucklepucker (0 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (4175 Tournament chips) 
+Game #23938324-34 ends
+Player hucklepucker leaves the table with 0 Tournament chips
+Game #23938324-35 starts
+Seat 0: chocolat777 (7745 Tournament chips) 
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (2215 Tournament chips) 
+Seat 5: DarthWayner (5760 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (4175 Tournament chips) 
+The button is at seat 6
+tonygill posted ante of 25 Tournament chips
+chocolat777 posted ante of 25 Tournament chips
+Tx_River_Rat posted ante of 25 Tournament chips
+DarthWayner posted ante of 25 Tournament chips
+tstpeter posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 7.
+QwertySpark posts the small blind [150 Tournament chips]
+chocolat777 posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 7420 Tournament chips.
+tonygill, at seat 2, is in this hand with 5865 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 2190 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 5735 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1400 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4000 Tournament chips.
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 3d Qh ]
+tonygill folds [300 Tournament chips]
+Tx_River_Rat raises all-in [2190 Tournament chips]
+DarthWayner folds [2190 Tournament chips]
+tstpeter folds [1400 Tournament chips]
+QwertySpark folds [2040 Tournament chips]
+chocolat777 calls [1890 Tournament chips]
+Tournament all-in showdown -- players show:
+chocolat777 shows [ Ac Ts ]
+Tx_River_Rat shows [ Js Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 7h ] board:[ 6d 7h]
+** Dealing Flop ** [ Th ] board:[ 6d 7h Th]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 6d 7h Th 5h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 6d 7h Th 5h 4d]
+        (no action in this round)
+Round 4 is over.
+chocolat777 shows [ Ac Ts ] a pair of tens, ace/seven kickers
+Tx_River_Rat shows [ Js Jh ] a pair of jacks, ten/seven kickers
+Tx_River_Rat wins main pot 4680 Tournament chips with a pair of jacks, ten/seven kickers.
+Seat 0: chocolat777 (5530 Tournament chips) 
+Seat 2: tonygill (5865 Tournament chips) 
+Seat 3: Tx_River_Rat (4680 Tournament chips) 
+Seat 5: DarthWayner (5735 Tournament chips) 
+Seat 7: tstpeter (1400 Tournament chips) 
+Seat 8: QwertySpark (4000 Tournament chips) 
+Game #23938324-35 ends
+Game #23938324-36 starts
+Seat 0: chocolat777 (5530 Tournament chips) 
+Seat 2: tonygill (5865 Tournament chips) 
+Seat 3: Tx_River_Rat (4680 Tournament chips) 
+Seat 5: DarthWayner (5735 Tournament chips) 
+Seat 7: tstpeter (1400 Tournament chips) 
+Seat 8: QwertySpark (4000 Tournament chips) 
+The button is at seat 7
+chocolat777 posted ante of 25 Tournament chips
+tonygill posted ante of 25 Tournament chips
+Tx_River_Rat posted ante of 25 Tournament chips
+DarthWayner posted ante of 25 Tournament chips
+tstpeter posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 8.
+chocolat777 posts the small blind [150 Tournament chips]
+tonygill posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 5355 Tournament chips.
+tonygill, at seat 2, is in this hand with 5540 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4655 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 5710 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3975 Tournament chips.
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 5d Jc ]
+Tx_River_Rat folds [300 Tournament chips]
+DarthWayner calls [300 Tournament chips]
+tstpeter folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+chocolat777 calls [150 Tournament chips]
+tonygill checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Jd ] board:[ 7h Jd]
+** Dealing Flop ** [ Tc ] board:[ 7h Jd Tc]
+chocolat777 checks
+tonygill bets for 300 Tournament chips
+DarthWayner raises [1950 Tournament chips]
+chocolat777 folds [1950 Tournament chips]
+tonygill calls [1650 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 7h Jd Tc 7c]
+tonygill checks
+DarthWayner goes all-in for 3460 Tournament chips
+tonygill folds [3460 Tournament chips]
+DarthWayner is returned 3460 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for DarthWayner (Js Kd 7h Jd 7c: two pair, jacks and sevens)
+DarthWayner wins main pot 4950 Tournament chips.
+Seat 0: chocolat777 (5205 Tournament chips) 
+Seat 2: tonygill (3590 Tournament chips) 
+Seat 3: Tx_River_Rat (4655 Tournament chips) 
+Seat 4: RRunner11 (3035 Tournament chips) 
+Seat 5: DarthWayner (8410 Tournament chips) 
+Seat 7: tstpeter (1375 Tournament chips) 
+Seat 8: QwertySpark (3975 Tournament chips) 
+Game #23938324-36 ends
+Game #23938324-37 starts
+Seat 0: chocolat777 (5205 Tournament chips) 
+Seat 2: tonygill (3590 Tournament chips) 
+Seat 3: Tx_River_Rat (4655 Tournament chips) 
+Seat 4: RRunner11 (3035 Tournament chips) 
+Seat 5: DarthWayner (8410 Tournament chips) 
+Seat 7: tstpeter (1375 Tournament chips) 
+Seat 8: QwertySpark (3975 Tournament chips) 
+The button is at seat 8
+chocolat777 posted ante of 25 Tournament chips
+Tx_River_Rat posted ante of 25 Tournament chips
+tonygill posted ante of 25 Tournament chips
+RRunner11 posted ante of 25 Tournament chips
+DarthWayner posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+tstpeter posted ante of 25 Tournament chips
+The button is moved to seat 0.
+tonygill posts the small blind [150 Tournament chips]
+Tx_River_Rat posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 5180 Tournament chips.
+tonygill, at seat 2, is in this hand with 3415 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4330 Tournament chips.
+RRunner11, at seat 4, is in this hand with 3010 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 8385 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1350 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 3950 Tournament chips.
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ Qc 4c ]
+RRunner11 folds [300 Tournament chips]
+DarthWayner calls [300 Tournament chips]
+tstpeter folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+chocolat777 folds [300 Tournament chips]
+tonygill raises [1525 Tournament chips]
+Tx_River_Rat folds [1375 Tournament chips]
+DarthWayner folds [1375 Tournament chips]
+QwertySpark calls [1375 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ Jc ] board:[ 6d Jc]
+** Dealing Flop ** [ 5h ] board:[ 6d Jc 5h]
+tonygill checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 6d Jc 5h 6h]
+tonygill checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 6d Jc 5h 6h 5d]
+tonygill checks
+QwertySpark checks
+Round 4 is over.
+tonygill shows [ As Ks ] two pair, sixes and fives
+Hand evaluation for tonygill (As 6d 5h 6h 5d: two pair, sixes and fives)
+QwertySpark doesn't show [ Qc 4c ]
+(QwertySpark has Qc 4c.)
+tonygill wins main pot 4125 Tournament chips with two pair, sixes and fives, ace kicker.
+Seat 0: chocolat777 (5180 Tournament chips) 
+Seat 2: tonygill (6015 Tournament chips) 
+Seat 3: Tx_River_Rat (4330 Tournament chips) 
+Seat 4: RRunner11 (3010 Tournament chips) 
+Seat 5: DarthWayner (8085 Tournament chips) 
+Seat 7: tstpeter (1350 Tournament chips) 
+Seat 8: QwertySpark (2275 Tournament chips) 
+Game #23938324-37 ends
+Game #23938324-38 starts
+Seat 0: chocolat777 (5180 Tournament chips) 
+Seat 2: tonygill (6015 Tournament chips) 
+Seat 3: Tx_River_Rat (4330 Tournament chips) 
+Seat 4: RRunner11 (3010 Tournament chips) 
+Seat 5: DarthWayner (8085 Tournament chips) 
+Seat 7: tstpeter (1350 Tournament chips) 
+Seat 8: QwertySpark (2275 Tournament chips) 
+The button is at seat 0
+chocolat777 posted ante of 25 Tournament chips
+tonygill posted ante of 25 Tournament chips
+RRunner11 posted ante of 25 Tournament chips
+Tx_River_Rat posted ante of 25 Tournament chips
+DarthWayner posted ante of 25 Tournament chips
+tstpeter posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 2.
+Tx_River_Rat posts the small blind [150 Tournament chips]
+RRunner11 posts the big blind [300 Tournament chips]
+chocolat777, at seat 0, is in this hand with 5155 Tournament chips.
+tonygill, at seat 2, is in this hand with 5990 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4155 Tournament chips.
+RRunner11, at seat 4, is in this hand with 2685 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 8060 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1325 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 2250 Tournament chips.
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 7d Ac ]
+DarthWayner calls [300 Tournament chips]
+tstpeter folds [300 Tournament chips]
+QwertySpark raises all-in [2250 Tournament chips]
+chocolat777 calls [2250 Tournament chips]
+tonygill folds [2250 Tournament chips]
+Tx_River_Rat folds [2100 Tournament chips]
+RRunner11 folds [1950 Tournament chips]
+DarthWayner folds [1950 Tournament chips]
+Tournament all-in showdown -- players show:
+chocolat777 shows [ Tc Qc ]
+QwertySpark shows [ 7d Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 6d ] board:[ Js 6d]
+** Dealing Flop ** [ 8d ] board:[ Js 6d 8d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Js 6d 8d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ Js 6d 8d 3h 8c]
+        (no action in this round)
+Round 4 is over.
+chocolat777 shows [ Tc Qc ] a pair of eights, queen/jack kickers
+QwertySpark shows [ 7d Ac ] a pair of eights, ace/jack kickers
+QwertySpark wins main pot 5425 Tournament chips with a pair of eights, ace/jack kickers.
+Seat 0: chocolat777 (2905 Tournament chips) 
+Seat 2: tonygill (5990 Tournament chips) 
+Seat 3: Tx_River_Rat (4155 Tournament chips) 
+Seat 4: RRunner11 (2685 Tournament chips) 
+Seat 5: DarthWayner (7760 Tournament chips) 
+Seat 7: tstpeter (1325 Tournament chips) 
+Seat 8: QwertySpark (5425 Tournament chips) 
+Game #23938324-38 ends
+Game #23938324-39 starts
+Seat 0: chocolat777 (2905 Tournament chips) 
+Seat 2: tonygill (5990 Tournament chips) 
+Seat 3: Tx_River_Rat (4155 Tournament chips) 
+Seat 4: RRunner11 (2685 Tournament chips) 
+Seat 5: DarthWayner (7760 Tournament chips) 
+Seat 7: tstpeter (1325 Tournament chips) 
+Seat 8: QwertySpark (5425 Tournament chips) 
+The button is at seat 2
+Tx_River_Rat posted ante of 50 Tournament chips
+RRunner11 posted ante of 50 Tournament chips
+DarthWayner posted ante of 50 Tournament chips
+chocolat777 posted ante of 50 Tournament chips
+tonygill posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+tstpeter posted ante of 50 Tournament chips
+The button is moved to seat 3.
+RRunner11 posts the small blind [200 Tournament chips]
+DarthWayner posts the big blind [400 Tournament chips]
+chocolat777, at seat 0, is in this hand with 2855 Tournament chips.
+tonygill, at seat 2, is in this hand with 5940 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 4105 Tournament chips.
+RRunner11, at seat 4, is in this hand with 2435 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 7310 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1275 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5375 Tournament chips.
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+chocolat777 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+Dealt to chocolat777 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 2c 7s ]
+tstpeter folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+chocolat777 raises [800 Tournament chips]
+tonygill folds [800 Tournament chips]
+Tx_River_Rat calls [800 Tournament chips]
+RRunner11 folds [600 Tournament chips]
+DarthWayner calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 5s ] board:[ 9c 5s]
+** Dealing Flop ** [ Ts ] board:[ 9c 5s Ts]
+DarthWayner checks
+chocolat777 goes all-in for 2055 Tournament chips
+Tx_River_Rat raises all-in [3305 Tournament chips]
+DarthWayner folds [3305 Tournament chips]
+Tx_River_Rat is returned 1250 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+chocolat777 shows [ 6c 8c ]
+Tx_River_Rat shows [ Th As ]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 9c 5s Ts Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 9c 5s Ts Js 8d]
+        (no action in this round)
+Round 4 is over.
+chocolat777 shows [ 6c 8c ] a pair of eights, jack/ten kickers
+Tx_River_Rat shows [ Th As ] a pair of tens, ace/jack kickers
+Tx_River_Rat wins main pot 7060 Tournament chips with a pair of tens, ace/jack kickers.
+Seat 0: chocolat777 (0 Tournament chips) 
+Seat 2: tonygill (5940 Tournament chips) 
+Seat 3: Tx_River_Rat (8310 Tournament chips) 
+Seat 4: RRunner11 (2435 Tournament chips) 
+Seat 5: DarthWayner (6910 Tournament chips) 
+Seat 7: tstpeter (1275 Tournament chips) 
+Seat 8: QwertySpark (5375 Tournament chips) 
+Game #23938324-39 ends
+Player chocolat777 leaves the table with 0 Tournament chips
+Game #23938324-40 starts
+Seat 2: tonygill (5940 Tournament chips) 
+Seat 3: Tx_River_Rat (8310 Tournament chips) 
+Seat 4: RRunner11 (2435 Tournament chips) 
+Seat 5: DarthWayner (6910 Tournament chips) 
+Seat 7: tstpeter (1275 Tournament chips) 
+Seat 8: QwertySpark (5375 Tournament chips) 
+The button is at seat 3
+tonygill posted ante of 50 Tournament chips
+Tx_River_Rat posted ante of 50 Tournament chips
+DarthWayner posted ante of 50 Tournament chips
+RRunner11 posted ante of 50 Tournament chips
+tstpeter posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 4.
+DarthWayner posts the small blind [200 Tournament chips]
+tstpeter posts the big blind [400 Tournament chips]
+tonygill, at seat 2, is in this hand with 5890 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 8260 Tournament chips.
+RRunner11, at seat 4, is in this hand with 2385 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 6660 Tournament chips.
+tstpeter, at seat 7, is in this hand with 825 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 5325 Tournament chips.
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 4d 6d ]
+QwertySpark folds [400 Tournament chips]
+tonygill folds [400 Tournament chips]
+Tx_River_Rat folds [400 Tournament chips]
+RRunner11 folds [400 Tournament chips]
+DarthWayner calls [200 Tournament chips]
+tstpeter raises all-in [825 Tournament chips]
+DarthWayner folds [825 Tournament chips]
+tstpeter is returned 825 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for tstpeter (Ad Th: ace high)
+tstpeter wins main pot 1100 Tournament chips.
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (8260 Tournament chips) 
+Seat 4: RRunner11 (2385 Tournament chips) 
+Seat 5: DarthWayner (6460 Tournament chips) 
+Seat 6: Callaway1981 (625 Tournament chips) 
+Seat 7: tstpeter (1925 Tournament chips) 
+Seat 8: QwertySpark (5325 Tournament chips) 
+Game #23938324-40 ends
+Game #23938324-41 starts
+Seat 2: tonygill (5890 Tournament chips) 
+Seat 3: Tx_River_Rat (8260 Tournament chips) 
+Seat 4: RRunner11 (2385 Tournament chips) 
+Seat 5: DarthWayner (6460 Tournament chips) 
+Seat 6: Callaway1981 (625 Tournament chips) 
+Seat 7: tstpeter (1925 Tournament chips) 
+Seat 8: QwertySpark (5325 Tournament chips) 
+The button is at seat 4
+Tx_River_Rat posted ante of 50 Tournament chips
+RRunner11 posted ante of 50 Tournament chips
+tstpeter posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+DarthWayner posted ante of 50 Tournament chips
+tonygill posted ante of 50 Tournament chips
+The button is moved to seat 5.
+tstpeter posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+tonygill, at seat 2, is in this hand with 5840 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 8210 Tournament chips.
+RRunner11, at seat 4, is in this hand with 2335 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 6410 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1675 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 4875 Tournament chips.
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 6h Tc ]
+tonygill calls [400 Tournament chips]
+Tx_River_Rat folds [400 Tournament chips]
+tstpeter: Thx rrunner
+RRunner11 folds [400 Tournament chips]
+DarthWayner folds [400 Tournament chips]
+tstpeter calls [200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 5c ] board:[ 2d 5c]
+** Dealing Flop ** [ 4d ] board:[ 2d 5c 4d]
+tstpeter checks
+QwertySpark bets for 800 Tournament chips
+tonygill folds [800 Tournament chips]
+tstpeter folds [800 Tournament chips]
+QwertySpark is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (6h Tc 2d 5c 4d: ten high)
+QwertySpark wins main pot 1500 Tournament chips.
+Seat 2: tonygill (5440 Tournament chips) 
+Seat 3: Tx_River_Rat (8210 Tournament chips) 
+Seat 4: RRunner11 (2335 Tournament chips) 
+Seat 5: DarthWayner (6410 Tournament chips) 
+Seat 6: Callaway1981 (625 Tournament chips) 
+Seat 7: tstpeter (1475 Tournament chips) 
+Seat 8: QwertySpark (6375 Tournament chips) 
+Game #23938324-41 ends
+Game #23938324-42 starts
+Seat 2: tonygill (5440 Tournament chips) 
+Seat 3: Tx_River_Rat (8210 Tournament chips) 
+Seat 4: RRunner11 (2335 Tournament chips) 
+Seat 5: DarthWayner (6410 Tournament chips) 
+Seat 6: Callaway1981 (625 Tournament chips) 
+Seat 7: tstpeter (1475 Tournament chips) 
+Seat 8: QwertySpark (6375 Tournament chips) 
+The button is at seat 5
+Tx_River_Rat posted ante of 50 Tournament chips
+RRunner11 posted ante of 50 Tournament chips
+DarthWayner posted ante of 50 Tournament chips
+Callaway1981 posted ante of 50 Tournament chips
+tstpeter posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+tonygill posted ante of 50 Tournament chips
+The button is moved to seat 7.
+QwertySpark posts the small blind [200 Tournament chips]
+tonygill posts the big blind [400 Tournament chips]
+tonygill, at seat 2, is in this hand with 4990 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 8160 Tournament chips.
+RRunner11, at seat 4, is in this hand with 2285 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 6360 Tournament chips.
+Callaway1981, at seat 6, is in this hand with 575 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1425 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 6125 Tournament chips.
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+RRunner11 is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to RRunner11 [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to Callaway1981 [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ Jd Js ]
+Tx_River_Rat folds [400 Tournament chips]
+RRunner11 raises [1750 Tournament chips]
+DarthWayner folds [1750 Tournament chips]
+Callaway1981 folds [575 Tournament chips]
+tstpeter folds [1425 Tournament chips]
+QwertySpark raises all-in [6125 Tournament chips]
+tonygill folds [4990 Tournament chips]
+RRunner11 calls all-in [535 Tournament chips]
+QwertySpark is returned 4040 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+RRunner11 shows [ Kd Ks ]
+QwertySpark shows [ Jd Js ]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ Ad ] board:[ Jc Ad]
+** Dealing Flop ** [ Ac ] board:[ Jc Ad Ac]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Jc Ad Ac Qd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Jc Ad Ac Qd 9h]
+        (no action in this round)
+Round 4 is over.
+RRunner11 shows [ Kd Ks ] two pair, aces and kings, queen kicker
+QwertySpark shows [ Jd Js ] full house, jacks full of aces
+QwertySpark wins main pot 5320 Tournament chips with full house, jacks full of aces.
+Seat 2: tonygill (4990 Tournament chips) 
+Seat 3: Tx_River_Rat (8160 Tournament chips) 
+Seat 4: RRunner11 (0 Tournament chips) 
+Seat 5: DarthWayner (6360 Tournament chips) 
+Seat 6: Callaway1981 (575 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (9360 Tournament chips) 
+Game #23938324-42 ends
+Player RRunner11 leaves the table with 0 Tournament chips
+Game #23938324-43 starts
+Seat 2: tonygill (4990 Tournament chips) 
+Seat 3: Tx_River_Rat (8160 Tournament chips) 
+Seat 5: DarthWayner (6360 Tournament chips) 
+Seat 6: Callaway1981 (575 Tournament chips) 
+Seat 7: tstpeter (1425 Tournament chips) 
+Seat 8: QwertySpark (9360 Tournament chips) 
+The button is at seat 7
+tonygill posted ante of 50 Tournament chips
+Tx_River_Rat posted ante of 50 Tournament chips
+DarthWayner posted ante of 50 Tournament chips
+Callaway1981 posted ante of 50 Tournament chips
+tstpeter posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 8.
+tonygill posts the small blind [200 Tournament chips]
+Tx_River_Rat posts the big blind [400 Tournament chips]
+tonygill, at seat 2, is in this hand with 4740 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 7710 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 6310 Tournament chips.
+Callaway1981, at seat 6, is in this hand with 525 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1375 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9310 Tournament chips.
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to Callaway1981 [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ 6c 2s ]
+DarthWayner calls [400 Tournament chips]
+Callaway1981 folds [400 Tournament chips]
+tstpeter folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+tonygill calls [200 Tournament chips]
+Tx_River_Rat checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Ac ] board:[ 6s Ac]
+** Dealing Flop ** [ Ts ] board:[ 6s Ac Ts]
+tonygill checks
+Tx_River_Rat checks
+DarthWayner bets for 750 Tournament chips
+tonygill folds [750 Tournament chips]
+Tx_River_Rat folds [750 Tournament chips]
+DarthWayner is returned 750 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for DarthWayner (Ad Kc 6s Ac Ts: a pair of aces)
+DarthWayner wins main pot 1500 Tournament chips.
+Seat 1: Simpson30 (6295 Tournament chips) 
+Seat 2: tonygill (4540 Tournament chips) 
+Seat 3: Tx_River_Rat (7710 Tournament chips) 
+Seat 5: DarthWayner (7410 Tournament chips) 
+Seat 6: Callaway1981 (525 Tournament chips) 
+Seat 7: tstpeter (1375 Tournament chips) 
+Seat 8: QwertySpark (9310 Tournament chips) 
+Game #23938324-43 ends
+Game #23938324-44 starts
+Seat 1: Simpson30 (6295 Tournament chips) 
+Seat 2: tonygill (4540 Tournament chips) 
+Seat 3: Tx_River_Rat (7710 Tournament chips) 
+Seat 5: DarthWayner (7410 Tournament chips) 
+Seat 6: Callaway1981 (525 Tournament chips) 
+Seat 7: tstpeter (1375 Tournament chips) 
+Seat 8: QwertySpark (9310 Tournament chips) 
+The button is at seat 8
+tonygill posted ante of 75 Tournament chips
+Tx_River_Rat posted ante of 75 Tournament chips
+DarthWayner posted ante of 75 Tournament chips
+Simpson30 posted ante of 75 Tournament chips
+Callaway1981 posted ante of 75 Tournament chips
+tstpeter posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+The button is moved to seat 2.
+Tx_River_Rat posts the small blind [300 Tournament chips]
+DarthWayner posts the big blind [600 Tournament chips]
+Simpson30, at seat 1, is in this hand with 6220 Tournament chips.
+tonygill, at seat 2, is in this hand with 4465 Tournament chips.
+Tx_River_Rat, at seat 3, is in this hand with 7335 Tournament chips.
+DarthWayner, at seat 5, is in this hand with 6735 Tournament chips.
+Callaway1981, at seat 6, is in this hand with 450 Tournament chips.
+tstpeter, at seat 7, is in this hand with 1300 Tournament chips.
+QwertySpark, at seat 8, is in this hand with 9235 Tournament chips.
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+
+Simpson30 is dealt: **
+tonygill is dealt: **
+Tx_River_Rat is dealt: **
+DarthWayner is dealt: **
+Callaway1981 is dealt: **
+tstpeter is dealt: **
+
+Simpson30 is dealt: **
+tonygill is dealt: **
+Dealt to Simpson30 [ **** ]
+Dealt to tonygill [ **** ]
+Dealt to Tx_River_Rat [ **** ]
+Dealt to DarthWayner [ **** ]
+Dealt to Callaway1981 [ **** ]
+Dealt to tstpeter [ **** ]
+Dealt to QwertySpark [ Qd 5s ]
+Callaway1981 calls all-in [450 Tournament chips]
+tstpeter folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Simpson30 calls [600 Tournament chips]
+tonygill calls [600 Tournament chips]
+Tx_River_Rat calls [300 Tournament chips]
+DarthWayner checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 6s ] board:[ 3s 6s]
+** Dealing Flop ** [ As ] board:[ 3s 6s As]
+Tx_River_Rat checks
+DarthWayner checks
+Simpson30 checks
+tonygill checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 3s 6s As 3c]
+Tx_River_Rat checks
+DarthWayner checks
+Simpson30 checks
+tonygill checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 3s 6s As 3c 2d]
+Tx_River_Rat checks
+DarthWayner checks
+Simpson30 goes all-in for 5620 Tournament chips
+tonygill calls all-in [3865 Tournament chips]
+Tx_River_Rat folds [5620 Tournament chips]
+DarthWayner folds [5620 Tournament chips]
+Simpson30 is returned 1755 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Simpson30 shows [ 6c 6d ]
+tonygill shows [ 7s Ac ]
+Callaway1981 shows [ Js Qc ]
+Round 4 is over.
+Simpson30 shows [ 6c 6d ] full house, sixes full of threes
+tonygill shows [ 7s Ac ] two pair, aces and threes, seven kicker
+Callaway1981 shows [ Js Qc ] a pair of threes, ace/queen kickers
+Simpson30 wins main pot 2775 Tournament chips with full house, sixes full of threes.
+Simpson30 wins side pot #1 8330 Tournament chips with full house, sixes full of threes.
+Seat 1: Simpson30 (12860 Tournament chips) 
+Seat 2: tonygill (0 Tournament chips) 
+Seat 3: Tx_River_Rat (7035 Tournament chips) 
+Seat 5: DarthWayner (6735 Tournament chips) 
+Seat 6: Callaway1981 (0 Tournament chips) 
+Seat 7: tstpeter (1300 Tournament chips) 
+Seat 8: QwertySpark (9235 Tournament chips) 
+Game #23938324-44 ends
+Player Callaway1981 leaves the table with 0 Tournament chips
+Player tonygill leaves the table with 0 Tournament chips
+Player DarthWayner leaves the table with 6735 Tournament chips
+Player tstpeter leaves the table with 1300 Tournament chips
+Player QwertySpark leaves the table with 9235 Tournament chips
+Player Tx_River_Rat leaves the table with 7035 Tournament chips
+Player Simpson30 leaves the table with 12860 Tournament chips

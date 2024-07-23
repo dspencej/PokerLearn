@@ -1,0 +1,1047 @@
+Game#: 23827989
+LadyM8990 is dealt: **
+QwertySpark is dealt: Td
+The button is moved to seat 1.
+Game #23827989-1 starts
+Seat 0: LadyM8990 (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+The button is at seat 1
+QwertySpark posts the small blind [10 Tournament chips]
+LadyM8990 posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1980 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1990 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Qd Ad ]
+QwertySpark raises [70 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Ac ] board:[ 5c Ac]
+** Dealing Flop ** [ Qs ] board:[ 5c Ac Qs]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 5c Ac Qs 3s]
+LadyM8990 checks
+QwertySpark bets for 40 Tournament chips
+LadyM8990 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 5c Ac Qs 3s 6h]
+LadyM8990 checks
+QwertySpark bets for 360 Tournament chips
+LadyM8990 folds [360 Tournament chips]
+QwertySpark is returned 360 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Qd Ad Ac Qs 6h: two pair, aces and queens)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: LadyM8990 (1880 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Game #23827989-1 ends
+Game #23827989-2 starts
+Seat 0: LadyM8990 (1880 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1870 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2100 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 6s 2d ]
+LadyM8990 raises [230 Tournament chips]
+QwertySpark folds [220 Tournament chips]
+LadyM8990 is returned 220 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for LadyM8990 (Ah Ac: a pair of aces)
+LadyM8990 wins main pot 40 Tournament chips.
+Seat 0: LadyM8990 (1900 Tournament chips) 
+Seat 1: QwertySpark (2100 Tournament chips) 
+Game #23827989-2 ends
+Game #23827989-3 starts
+Seat 0: LadyM8990 (1900 Tournament chips) 
+Seat 1: QwertySpark (2100 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+LadyM8990 posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1880 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2090 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Kd 6d ]
+QwertySpark raises [50 Tournament chips]
+LadyM8990 re-raises [80 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 3h ] board:[ As 3h]
+** Dealing Flop ** [ 4d ] board:[ As 3h 4d]
+LadyM8990 bets for 200 Tournament chips
+QwertySpark folds [200 Tournament chips]
+LadyM8990 is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for LadyM8990 (Th Ah As 3h 4d: a pair of aces)
+LadyM8990 wins main pot 200 Tournament chips.
+Seat 0: LadyM8990 (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Game #23827989-3 ends
+Game #23827989-4 starts
+Seat 0: LadyM8990 (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1990 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1980 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Ah Jc ]
+LadyM8990 calls [10 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ Ks ] board:[ 3h Ks]
+** Dealing Flop ** [ 2d ] board:[ 3h Ks 2d]
+QwertySpark bets for 80 Tournament chips
+LadyM8990 calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 3h Ks 2d Kd]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 3h Ks 2d Kd 3d]
+QwertySpark bets for 100 Tournament chips
+LadyM8990 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ah 3h Ks Kd 3d: two pair, kings and threes)
+QwertySpark wins main pot 320 Tournament chips.
+Seat 0: LadyM8990 (1840 Tournament chips) 
+Seat 1: QwertySpark (2160 Tournament chips) 
+Game #23827989-4 ends
+Game #23827989-5 starts
+Seat 0: LadyM8990 (1840 Tournament chips) 
+Seat 1: QwertySpark (2160 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+LadyM8990 posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1820 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2150 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 5d 6h ]
+QwertySpark calls [10 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Ts ] board:[ Td Ts]
+** Dealing Flop ** [ Qs ] board:[ Td Ts Qs]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Td Ts Qs 8c]
+LadyM8990 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Td Ts Qs 8c Js]
+LadyM8990 bets for 20 Tournament chips
+QwertySpark folds [20 Tournament chips]
+LadyM8990 is returned 20 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for LadyM8990 (Td Ts Qs 8c Js: a pair of tens)
+LadyM8990 wins main pot 40 Tournament chips.
+Seat 0: LadyM8990 (1860 Tournament chips) 
+Seat 1: QwertySpark (2140 Tournament chips) 
+Game #23827989-5 ends
+Game #23827989-6 starts
+Seat 0: LadyM8990 (1860 Tournament chips) 
+Seat 1: QwertySpark (2140 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1850 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2120 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Ts 4d ]
+LadyM8990 raises [30 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 9c ] board:[ 3d 9c]
+** Dealing Flop ** [ 9d ] board:[ 3d 9c 9d]
+QwertySpark checks
+LadyM8990 bets for 80 Tournament chips
+QwertySpark folds [80 Tournament chips]
+LadyM8990 is returned 80 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for LadyM8990 (9h Qc 3d 9c 9d: three nines)
+LadyM8990 wins main pot 80 Tournament chips.
+Seat 0: LadyM8990 (1900 Tournament chips) 
+Seat 1: QwertySpark (2100 Tournament chips) 
+Game #23827989-6 ends
+Game #23827989-7 starts
+Seat 0: LadyM8990 (1900 Tournament chips) 
+Seat 1: QwertySpark (2100 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [10 Tournament chips]
+LadyM8990 posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1880 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2090 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 7h 8c ]
+QwertySpark calls [10 Tournament chips]
+LadyM8990 raises [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Jc ] board:[ 3c Jc]
+** Dealing Flop ** [ 8d ] board:[ 3c Jc 8d]
+LadyM8990 checks
+QwertySpark bets for 40 Tournament chips
+LadyM8990 folds [40 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7h 8c 3c Jc 8d: a pair of eights)
+QwertySpark wins main pot 80 Tournament chips.
+(LadyM8990 has entered the table, is no longer absent.)
+Seat 0: LadyM8990 (1860 Tournament chips) 
+Seat 1: QwertySpark (2140 Tournament chips) 
+Game #23827989-7 ends
+Game #23827989-8 starts
+Seat 0: LadyM8990 (1860 Tournament chips) 
+Seat 1: QwertySpark (2140 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1850 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2120 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 2h Qs ]
+LadyM8990 calls [10 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Ts ] board:[ 5h Ts]
+** Dealing Flop ** [ 3h ] board:[ 5h Ts 3h]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 5h Ts 3h Jh]
+QwertySpark bets for 60 Tournament chips
+LadyM8990 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ 5h Ts 3h Jh Qc]
+QwertySpark bets for 100 Tournament chips
+LadyM8990 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Qs 5h Ts Jh Qc: a pair of queens)
+QwertySpark wins main pot 280 Tournament chips.
+Seat 0: LadyM8990 (1720 Tournament chips) 
+Seat 1: QwertySpark (2280 Tournament chips) 
+Game #23827989-8 ends
+Game #23827989-9 starts
+Seat 0: LadyM8990 (1720 Tournament chips) 
+Seat 1: QwertySpark (2280 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+LadyM8990 posts the big blind [30 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1690 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2265 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Ks Jh ]
+QwertySpark raises [75 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 5c ] board:[ 2h 5c]
+** Dealing Flop ** [ 7c ] board:[ 2h 5c 7c]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 2h 5c 7c Js]
+LadyM8990 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 2h 5c 7c Js Ts]
+LadyM8990 bets for 180 Tournament chips
+QwertySpark raises [360 Tournament chips]
+LadyM8990 calls [180 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Ks Jh ] a pair of jacks
+Hand evaluation for QwertySpark (Ks Jh 7c Js Ts: a pair of jacks)
+LadyM8990 doesn't show [ Td 9s ]
+(LadyM8990 has Td 9s.)
+QwertySpark wins main pot 900 Tournament chips with a pair of jacks, king/ten kickers.
+Seat 0: LadyM8990 (1270 Tournament chips) 
+Seat 1: QwertySpark (2730 Tournament chips) 
+Game #23827989-9 ends
+Game #23827989-10 starts
+Seat 0: LadyM8990 (1270 Tournament chips) 
+Seat 1: QwertySpark (2730 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1255 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2700 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 3h 7c ]
+LadyM8990 calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 2h ] board:[ 8d 2h]
+** Dealing Flop ** [ Ah ] board:[ 8d 2h Ah]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 8d 2h Ah 4d]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 8d 2h Ah 4d 3d]
+QwertySpark checks
+LadyM8990 bets for 360 Tournament chips
+QwertySpark folds [360 Tournament chips]
+LadyM8990 is returned 360 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for LadyM8990 (7d 6d 8d 4d 3d: flush, eight high)
+LadyM8990 wins main pot 60 Tournament chips.
+Seat 0: LadyM8990 (1300 Tournament chips) 
+Seat 1: QwertySpark (2700 Tournament chips) 
+Game #23827989-10 ends
+Game #23827989-11 starts
+Seat 0: LadyM8990 (1300 Tournament chips) 
+Seat 1: QwertySpark (2700 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [15 Tournament chips]
+LadyM8990 posts the big blind [30 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1270 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2685 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 8c Kd ]
+QwertySpark calls [15 Tournament chips]
+LadyM8990 raises [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Ts ] board:[ Jh Ts]
+** Dealing Flop ** [ Jc ] board:[ Jh Ts Jc]
+LadyM8990 bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+LadyM8990 is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for LadyM8990 (7h 7c Jh Ts Jc: two pair, jacks and sevens)
+LadyM8990 wins main pot 120 Tournament chips.
+Seat 0: LadyM8990 (1360 Tournament chips) 
+Seat 1: QwertySpark (2640 Tournament chips) 
+Game #23827989-11 ends
+Game #23827989-12 starts
+Seat 0: LadyM8990 (1360 Tournament chips) 
+Seat 1: QwertySpark (2640 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1345 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2610 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 5c 3d ]
+LadyM8990 calls [15 Tournament chips]
+QwertySpark raises [90 Tournament chips]
+LadyM8990 folds [90 Tournament chips]
+QwertySpark is returned 90 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (5c 3d: five high)
+QwertySpark wins main pot 60 Tournament chips.
+Seat 0: LadyM8990 (1330 Tournament chips) 
+Seat 1: QwertySpark (2670 Tournament chips) 
+Game #23827989-12 ends
+(LadyM8990 has entered the table, is no longer absent.)
+Game #23827989-13 starts
+Seat 0: LadyM8990 (1330 Tournament chips) 
+Seat 1: QwertySpark (2670 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+LadyM8990 posts the big blind [40 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1290 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2650 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 8s 7c ]
+QwertySpark calls [20 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 7s ] board:[ Kh 7s]
+** Dealing Flop ** [ 3c ] board:[ Kh 7s 3c]
+LadyM8990 has timed out - the hand is checked
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ Kh 7s 3c 9h]
+LadyM8990 checks
+QwertySpark bets for 80 Tournament chips
+LadyM8990 calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Kh 7s 3c 9h Qd]
+LadyM8990 checks
+QwertySpark checks
+Round 4 is over.
+LadyM8990 shows [ 7h 4s ] a pair of sevens
+Hand evaluation for LadyM8990 (7h Kh 7s 9h Qd: a pair of sevens)
+QwertySpark shows [ 8s 7c ] a pair of sevens
+Hand evaluation for QwertySpark (7c Kh 7s 9h Qd: a pair of sevens)
+LadyM8990 wins main pot 120 Tournament chips of a 240 Tournament chips pot with a pair of sevens, king/queen kickers.
+QwertySpark wins main pot 120 Tournament chips of a 240 Tournament chips pot with a pair of sevens, king/queen kickers.
+Seat 0: LadyM8990 (1330 Tournament chips) 
+Seat 1: QwertySpark (2670 Tournament chips) 
+Game #23827989-13 ends
+Game #23827989-14 starts
+Seat 0: LadyM8990 (1330 Tournament chips) 
+Seat 1: QwertySpark (2670 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1310 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2630 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 7s 2s ]
+LadyM8990 calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 8d ] board:[ Ts 8d]
+** Dealing Flop ** [ Tc ] board:[ Ts 8d Tc]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Ts 8d Tc 9c]
+QwertySpark bets for 80 Tournament chips
+LadyM8990 raises [320 Tournament chips]
+QwertySpark folds [240 Tournament chips]
+LadyM8990 is returned 240 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for LadyM8990 (Qd Jc Ts 8d 9c: straight, queen high)
+LadyM8990 wins main pot 240 Tournament chips.
+Seat 0: LadyM8990 (1450 Tournament chips) 
+Seat 1: QwertySpark (2550 Tournament chips) 
+Game #23827989-14 ends
+Game #23827989-15 starts
+Seat 0: LadyM8990 (1450 Tournament chips) 
+Seat 1: QwertySpark (2550 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+LadyM8990 posts the big blind [40 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 1410 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2530 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Td 7h ]
+QwertySpark calls [20 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 7c ] board:[ Qs 7c]
+** Dealing Flop ** [ 2d ] board:[ Qs 7c 2d]
+LadyM8990 bets for 80 Tournament chips
+QwertySpark calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Qs 7c 2d Th]
+LadyM8990 bets for 120 Tournament chips
+QwertySpark raises [300 Tournament chips]
+LadyM8990 calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Qs 7c 2d Th As]
+LadyM8990 checks
+QwertySpark bets for 320 Tournament chips
+LadyM8990 calls [320 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Td 7h ] two pair, tens and sevens
+Hand evaluation for QwertySpark (Td 7h 7c Th As: two pair, tens and sevens)
+LadyM8990 doesn't show [ Qh 8h ]
+(LadyM8990 has Qh 8h.)
+QwertySpark wins main pot 1480 Tournament chips with two pair, tens and sevens, ace kicker.
+Seat 0: LadyM8990 (710 Tournament chips) 
+Seat 1: QwertySpark (3290 Tournament chips) 
+Game #23827989-15 ends
+Game #23827989-16 starts
+Seat 0: LadyM8990 (710 Tournament chips) 
+Seat 1: QwertySpark (3290 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 690 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3250 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 4s 8h ]
+LadyM8990 calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 8d ] board:[ Th 8d]
+** Dealing Flop ** [ Qs ] board:[ Th 8d Qs]
+QwertySpark bets for 80 Tournament chips
+LadyM8990 calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ Th 8d Qs Kd]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Th 8d Qs Kd Ac]
+QwertySpark checks
+LadyM8990 bets for 240 Tournament chips
+QwertySpark folds [240 Tournament chips]
+LadyM8990 is returned 240 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for LadyM8990 (Ad Th Qs Kd Ac: a pair of aces)
+LadyM8990 wins main pot 240 Tournament chips.
+Seat 0: LadyM8990 (830 Tournament chips) 
+Seat 1: QwertySpark (3170 Tournament chips) 
+Game #23827989-16 ends
+Game #23827989-17 starts
+Seat 0: LadyM8990 (830 Tournament chips) 
+Seat 1: QwertySpark (3170 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [20 Tournament chips]
+LadyM8990 posts the big blind [40 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 790 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3150 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Jd 2s ]
+QwertySpark calls [20 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Ah ] board:[ 4c Ah]
+** Dealing Flop ** [ 4h ] board:[ 4c Ah 4h]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 4c Ah 4h Ad]
+LadyM8990 checks
+QwertySpark bets for 120 Tournament chips
+LadyM8990 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 4c Ah 4h Ad 6c]
+LadyM8990 checks
+QwertySpark checks
+Round 4 is over.
+LadyM8990 shows [ Js 7s ] two pair, aces and fours
+Hand evaluation for LadyM8990 (Js 4c Ah 4h Ad: two pair, aces and fours)
+QwertySpark shows [ Jd 2s ] two pair, aces and fours
+Hand evaluation for QwertySpark (Jd 4c Ah 4h Ad: two pair, aces and fours)
+LadyM8990 wins main pot 160 Tournament chips of a 320 Tournament chips pot with two pair, aces and fours, jack kicker.
+QwertySpark wins main pot 160 Tournament chips of a 320 Tournament chips pot with two pair, aces and fours, jack kicker.
+Seat 0: LadyM8990 (830 Tournament chips) 
+Seat 1: QwertySpark (3170 Tournament chips) 
+Game #23827989-17 ends
+Game #23827989-18 starts
+Seat 0: LadyM8990 (830 Tournament chips) 
+Seat 1: QwertySpark (3170 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 800 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3110 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Jd 2c ]
+LadyM8990 calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Kd ] board:[ 2h Kd]
+** Dealing Flop ** [ 3h ] board:[ 2h Kd 3h]
+QwertySpark bets for 60 Tournament chips
+LadyM8990 folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jd 2c 2h Kd 3h: a pair of deuces)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 0: LadyM8990 (770 Tournament chips) 
+Seat 1: QwertySpark (3230 Tournament chips) 
+Game #23827989-18 ends
+Game #23827989-19 starts
+Seat 0: LadyM8990 (770 Tournament chips) 
+Seat 1: QwertySpark (3230 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+LadyM8990 posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 710 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3200 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Qc 9c ]
+QwertySpark raises [90 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ Ts ] board:[ As Ts]
+** Dealing Flop ** [ 3c ] board:[ As Ts 3c]
+LadyM8990 goes all-in for 650 Tournament chips
+QwertySpark folds [650 Tournament chips]
+LadyM8990 is returned 650 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for LadyM8990 (Ac 8c As Ts 3c: a pair of aces)
+LadyM8990 wins main pot 240 Tournament chips.
+Seat 0: LadyM8990 (890 Tournament chips) 
+Seat 1: QwertySpark (3110 Tournament chips) 
+Game #23827989-19 ends
+Game #23827989-20 starts
+Seat 0: LadyM8990 (890 Tournament chips) 
+Seat 1: QwertySpark (3110 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 860 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3050 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Qh 6h ]
+LadyM8990 calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Kd ] board:[ 8s Kd]
+** Dealing Flop ** [ 4h ] board:[ 8s Kd 4h]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 8s Kd 4h 3c]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 8s Kd 4h 3c 4c]
+QwertySpark checks
+LadyM8990 checks
+Round 4 is over.
+QwertySpark shows [ Qh 6h ] a pair of fours
+Hand evaluation for QwertySpark (Qh 8s Kd 4h 4c: a pair of fours)
+LadyM8990 shows [ 5s Qd ] a pair of fours
+Hand evaluation for LadyM8990 (Qd 8s Kd 4h 4c: a pair of fours)
+LadyM8990 wins main pot 60 Tournament chips of a 120 Tournament chips pot with a pair of fours, king/queen kickers.
+QwertySpark wins main pot 60 Tournament chips of a 120 Tournament chips pot with a pair of fours, king/queen kickers.
+Seat 0: LadyM8990 (890 Tournament chips) 
+Seat 1: QwertySpark (3110 Tournament chips) 
+Game #23827989-20 ends
+Game #23827989-21 starts
+Seat 0: LadyM8990 (890 Tournament chips) 
+Seat 1: QwertySpark (3110 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+LadyM8990 posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 830 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3080 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 4h 2c ]
+QwertySpark folds [30 Tournament chips]
+LadyM8990 is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for LadyM8990 (Jc Ac: ace high)
+LadyM8990 wins main pot 60 Tournament chips.
+Seat 0: LadyM8990 (920 Tournament chips) 
+Seat 1: QwertySpark (3080 Tournament chips) 
+Game #23827989-21 ends
+Game #23827989-22 starts
+Seat 0: LadyM8990 (920 Tournament chips) 
+Seat 1: QwertySpark (3080 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 890 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3020 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Qh Ah ]
+LadyM8990 raises [90 Tournament chips]
+QwertySpark re-raises [120 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 2d ] board:[ 8s 2d]
+** Dealing Flop ** [ 2s ] board:[ 8s 2d 2s]
+QwertySpark bets for 300 Tournament chips
+LadyM8990 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qh Ah 8s 2d 2s: a pair of deuces)
+QwertySpark wins main pot 360 Tournament chips.
+Seat 0: LadyM8990 (740 Tournament chips) 
+Seat 1: QwertySpark (3260 Tournament chips) 
+Game #23827989-22 ends
+Game #23827989-23 starts
+Seat 0: LadyM8990 (740 Tournament chips) 
+Seat 1: QwertySpark (3260 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+LadyM8990 posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 680 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3230 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 2c Qh ]
+QwertySpark calls [30 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6d ] board:[ 6s 6d]
+** Dealing Flop ** [ 7c ] board:[ 6s 6d 7c]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 6s 6d 7c 8d]
+LadyM8990 checks
+QwertySpark bets for 120 Tournament chips
+LadyM8990 calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 6s 6d 7c 8d 3s]
+LadyM8990 checks
+QwertySpark checks
+Round 4 is over.
+LadyM8990 shows [ Kd 2d ] a pair of sixes
+Hand evaluation for LadyM8990 (Kd 6s 6d 7c 8d: a pair of sixes)
+QwertySpark doesn't show [ 2c Qh ]
+(QwertySpark has 2c Qh.)
+LadyM8990 wins main pot 360 Tournament chips with a pair of sixes, king/eight kickers.
+Seat 0: LadyM8990 (920 Tournament chips) 
+Seat 1: QwertySpark (3080 Tournament chips) 
+Game #23827989-23 ends
+Game #23827989-24 starts
+Seat 0: LadyM8990 (920 Tournament chips) 
+Seat 1: QwertySpark (3080 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 890 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3020 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Jd Ad ]
+LadyM8990 calls [30 Tournament chips]
+QwertySpark raises [180 Tournament chips]
+LadyM8990 calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 7h ] board:[ 8s 7h]
+** Dealing Flop ** [ 2d ] board:[ 8s 7h 2d]
+QwertySpark goes all-in for 2840 Tournament chips
+LadyM8990 folds [680 Tournament chips]
+QwertySpark is returned 2840 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jd Ad 8s 7h 2d: ace high)
+QwertySpark wins main pot 480 Tournament chips.
+Seat 0: LadyM8990 (680 Tournament chips) 
+Seat 1: QwertySpark (3320 Tournament chips) 
+Game #23827989-24 ends
+Game #23827989-25 starts
+Seat 0: LadyM8990 (680 Tournament chips) 
+Seat 1: QwertySpark (3320 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [30 Tournament chips]
+LadyM8990 posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 620 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3290 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 2c Kc ]
+QwertySpark raises [90 Tournament chips]
+LadyM8990 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ Ad ] board:[ 3h Ad]
+** Dealing Flop ** [ Ah ] board:[ 3h Ad Ah]
+LadyM8990 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 3h Ad Ah Qh]
+LadyM8990 bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+LadyM8990 is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for LadyM8990 (3s 3h Ad Ah Qh: two pair, aces and threes)
+LadyM8990 wins main pot 240 Tournament chips.
+Seat 0: LadyM8990 (800 Tournament chips) 
+Seat 1: QwertySpark (3200 Tournament chips) 
+Game #23827989-25 ends
+Game #23827989-26 starts
+Seat 0: LadyM8990 (800 Tournament chips) 
+Seat 1: QwertySpark (3200 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 770 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3140 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 6c Qs ]
+LadyM8990 calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 3c ] board:[ Kh 3c]
+** Dealing Flop ** [ 4d ] board:[ Kh 3c 4d]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ Kh 3c 4d Ts]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Kh 3c 4d Ts As]
+QwertySpark bets for 180 Tournament chips
+LadyM8990 folds [180 Tournament chips]
+QwertySpark is returned 180 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (6c Qs Kh Ts As: ace high)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 0: LadyM8990 (740 Tournament chips) 
+Seat 1: QwertySpark (3260 Tournament chips) 
+Game #23827989-26 ends
+Game #23827989-27 starts
+Seat 0: LadyM8990 (740 Tournament chips) 
+Seat 1: QwertySpark (3260 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+LadyM8990 posts the big blind [100 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 640 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3210 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Th 9c ]
+QwertySpark calls [50 Tournament chips]
+LadyM8990 checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Kh ] board:[ 2s Kh]
+** Dealing Flop ** [ Qs ] board:[ 2s Kh Qs]
+LadyM8990 checks
+QwertySpark bets for 100 Tournament chips
+LadyM8990 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Th 9c 2s Kh Qs: king high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 0: LadyM8990 (640 Tournament chips) 
+Seat 1: QwertySpark (3360 Tournament chips) 
+Game #23827989-27 ends
+Game #23827989-28 starts
+Seat 0: LadyM8990 (640 Tournament chips) 
+Seat 1: QwertySpark (3360 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 590 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3260 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ Ad Jh ]
+LadyM8990 calls [50 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+LadyM8990 calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Ks ] board:[ Qh Ks]
+** Dealing Flop ** [ 8s ] board:[ Qh Ks 8s]
+QwertySpark checks
+LadyM8990 checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Qh Ks 8s 8h]
+QwertySpark checks
+LadyM8990 checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Qh Ks 8s 8h Js]
+QwertySpark bets for 100 Tournament chips
+LadyM8990 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ad Jh 8s 8h Js: two pair, jacks and eights)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 0: LadyM8990 (440 Tournament chips) 
+Seat 1: QwertySpark (3560 Tournament chips) 
+Game #23827989-28 ends
+Game #23827989-29 starts
+Seat 0: LadyM8990 (440 Tournament chips) 
+Seat 1: QwertySpark (3560 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+LadyM8990 posts the big blind [100 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 340 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3510 Tournament chips.
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 6s Th ]
+QwertySpark folds [50 Tournament chips]
+LadyM8990 is returned 50 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for LadyM8990 (Qc 6c: queen high)
+LadyM8990 wins main pot 100 Tournament chips.
+Seat 0: LadyM8990 (490 Tournament chips) 
+Seat 1: QwertySpark (3510 Tournament chips) 
+Game #23827989-29 ends
+Game #23827989-30 starts
+Seat 0: LadyM8990 (490 Tournament chips) 
+Seat 1: QwertySpark (3510 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 0.
+LadyM8990 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+LadyM8990, at seat 0, is in this hand with 440 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3410 Tournament chips.
+
+LadyM8990 is dealt: **
+
+LadyM8990 is dealt: **
+Dealt to LadyM8990 [ **** ]
+Dealt to QwertySpark [ 2c As ]
+LadyM8990 raises all-in [440 Tournament chips]
+QwertySpark calls [390 Tournament chips]
+Tournament all-in showdown -- players show:
+LadyM8990 shows [ 6d Qh ]
+QwertySpark shows [ 2c As ]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Th ] board:[ 5d Th]
+** Dealing Flop ** [ 7c ] board:[ 5d Th 7c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ 5d Th 7c Ad]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 5d Th 7c Ad 7s]
+        (no action in this round)
+Round 4 is over.
+LadyM8990 shows [ 6d Qh ] a pair of sevens, ace/queen kickers
+QwertySpark shows [ 2c As ] two pair, aces and sevens, ten kicker
+QwertySpark wins main pot 980 Tournament chips with two pair, aces and sevens, ten kicker.
+Seat 0: LadyM8990 (0 Tournament chips) 
+Seat 1: QwertySpark (4000 Tournament chips) 
+Game #23827989-30 ends
+Player LadyM8990 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 4000 Tournament chips

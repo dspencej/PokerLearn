@@ -1,0 +1,859 @@
+Game#: 23983300
+billr2 calls [10 Tournament chips]
+Mominator1 folds [10 Tournament chips]
+lvharris calls [10 Tournament chips]
+Chai90 raises all-in [35 Tournament chips]
+zorro55 folds [35 Tournament chips]
+QwertySpark calls [35 Tournament chips]
+Sondance calls [35 Tournament chips]
+shrmanapt folds [30 Tournament chips]
+4eyed Jack calls [25 Tournament chips]
+billr2 calls [25 Tournament chips]
+lvharris calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 4s ] board:[ 5d 4s]
+** Dealing Flop ** [ 2c ] board:[ 5d 4s 2c]
+4eyed Jack checks
+billr2 bets for 10 Tournament chips
+lvharris folds [10 Tournament chips]
+QwertySpark raises [132 Tournament chips]
+Sondance calls [132 Tournament chips]
+4eyed Jack folds [132 Tournament chips]
+billr2 folds [122 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 5d 4s 2c 9h]
+QwertySpark bets for 264 Tournament chips
+Sondance calls [264 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 5d 4s 2c 9h 3d]
+QwertySpark checks
+Sondance bets for 10 Tournament chips
+QwertySpark calls [10 Tournament chips]
+Round 4 is over.
+Sondance shows [ 7c As ] straight, five high
+Hand evaluation for Sondance (As 5d 4s 2c 3d: straight, five high)
+Chai90 shows [ 8d Ts ] ten high
+Hand evaluation for Chai90 (8d Ts 5d 4s 9h: ten high)
+QwertySpark shows [ Kd 4h ] a pair of fours
+Hand evaluation for QwertySpark (Kd 4h 5d 4s 9h: a pair of fours)
+Sondance wins main pot 215 Tournament chips with straight, five high.
+Sondance wins side pot #1 822 Tournament chips with straight, five high.
+Seat 0: 4eyed Jack (2445 Tournament chips) 
+Seat 1: billr2 (2445 Tournament chips) 
+Seat 2: Mominator1 (2500 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 4: Chai90 (0 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5616 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+Game #23983300-3 ends
+Player Chai90 leaves the table with 0 Tournament chips
+Game #23983300-4 starts
+Seat 0: 4eyed Jack (2445 Tournament chips) 
+Seat 1: billr2 (2445 Tournament chips) 
+Seat 2: Mominator1 (2500 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5616 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+4eyed Jack posts the small blind [5 Tournament chips]
+billr2 posts the big blind [10 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2440 Tournament chips.
+billr2, at seat 1, is in this hand with 2435 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2500 Tournament chips.
+lvharris, at seat 3, is in this hand with 2465 Tournament chips.
+zorro55, at seat 5, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2059 Tournament chips.
+Sondance, at seat 7, is in this hand with 5616 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2485 Tournament chips.
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ 3d 6d ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+Mominator1 calls [10 Tournament chips]
+lvharris folds [10 Tournament chips]
+zorro55 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Sondance raises [20 Tournament chips]
+shrmanapt folds [20 Tournament chips]
+4eyed Jack calls [15 Tournament chips]
+billr2 calls [10 Tournament chips]
+Mominator1 calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 7h ] board:[ 4c 7h]
+** Dealing Flop ** [ Qh ] board:[ 4c 7h Qh]
+4eyed Jack checks
+billr2 bets for 80 Tournament chips
+Mominator1 folds [80 Tournament chips]
+Sondance raises [160 Tournament chips]
+4eyed Jack folds [160 Tournament chips]
+billr2 calls [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 4c 7h Qh 7d]
+billr2 bets for 10 Tournament chips
+Sondance raises [20 Tournament chips]
+billr2 calls [10 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 4c 7h Qh 7d 8d]
+billr2 bets for 10 Tournament chips
+Sondance calls [10 Tournament chips]
+Round 4 is over.
+billr2 shows [ 6s Qs ] two pair, queens and sevens
+Hand evaluation for billr2 (Qs 7h Qh 7d 8d: two pair, queens and sevens)
+Sondance doesn't show [ Kh 9h ]
+(Sondance has Kh 9h.)
+billr2 wins main pot 460 Tournament chips with two pair, queens and sevens, eight kicker.
+Seat 0: 4eyed Jack (2425 Tournament chips) 
+Seat 1: billr2 (2695 Tournament chips) 
+Seat 2: Mominator1 (2480 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5406 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+Game #23983300-4 ends
+Game #23983300-5 starts
+Seat 0: 4eyed Jack (2425 Tournament chips) 
+Seat 1: billr2 (2695 Tournament chips) 
+Seat 2: Mominator1 (2480 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5406 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+billr2 posts the small blind [5 Tournament chips]
+Mominator1 posts the big blind [10 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2425 Tournament chips.
+billr2, at seat 1, is in this hand with 2690 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2470 Tournament chips.
+lvharris, at seat 3, is in this hand with 2465 Tournament chips.
+mapman123, at seat 4, is in this hand (absent) with 2500 Tournament chips.
+zorro55, at seat 5, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2059 Tournament chips.
+Sondance, at seat 7, is in this hand with 5406 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2485 Tournament chips.
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ 4s 3d ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+lvharris folds [10 Tournament chips]
+mapman123 folds [10 Tournament chips]
+zorro55 folds [10 Tournament chips]
+QwertySpark folds [10 Tournament chips]
+Sondance raises [20 Tournament chips]
+shrmanapt folds [20 Tournament chips]
+4eyed Jack calls [20 Tournament chips]
+billr2 calls [15 Tournament chips]
+Mominator1 calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 2s ] board:[ Qd 2s]
+** Dealing Flop ** [ 2c ] board:[ Qd 2s 2c]
+billr2 checks
+Mominator1 checks
+Sondance checks
+4eyed Jack checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ Qd 2s 2c Kh]
+billr2 bets for 80 Tournament chips
+Mominator1 folds [80 Tournament chips]
+Sondance calls [80 Tournament chips]
+4eyed Jack calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Qd 2s 2c Kh Tc]
+billr2 bets for 160 Tournament chips
+Sondance calls [160 Tournament chips]
+4eyed Jack calls [160 Tournament chips]
+Round 4 is over.
+billr2 shows [ 3c Ks ] two pair, kings and deuces
+Hand evaluation for billr2 (Ks Qd 2s 2c Kh: two pair, kings and deuces)
+Sondance doesn't show [ Td As ]
+(Sondance has Td As.)
+4eyed Jack shows [ Js 9s ] straight, king high
+Hand evaluation for 4eyed Jack (Js 9s Qd Kh Tc: straight, king high)
+4eyed Jack wins main pot 800 Tournament chips with straight, king high.
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2435 Tournament chips) 
+Seat 2: Mominator1 (2460 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5146 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+Game #23983300-5 ends
+Game #23983300-6 starts
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2435 Tournament chips) 
+Seat 2: Mominator1 (2460 Tournament chips) 
+Seat 3: lvharris (2465 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5146 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Mominator1 posts the small blind [10 Tournament chips]
+lvharris posts the big blind [20 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2965 Tournament chips.
+billr2, at seat 1, is in this hand with 2435 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2450 Tournament chips.
+lvharris, at seat 3, is in this hand with 2445 Tournament chips.
+mapman123, at seat 4, is in this hand (absent) with 2500 Tournament chips.
+zorro55, at seat 5, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2059 Tournament chips.
+Sondance, at seat 7, is in this hand with 5146 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2485 Tournament chips.
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ 2h 9h ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+(mapman123 has entered the table, is no longer absent.)
+mapman123 folds [20 Tournament chips]
+zorro55 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Sondance raises [40 Tournament chips]
+shrmanapt folds [40 Tournament chips]
+4eyed Jack folds [40 Tournament chips]
+billr2 calls [40 Tournament chips]
+Mominator1 calls [30 Tournament chips]
+lvharris calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ Jh ] board:[ Jd Jh]
+** Dealing Flop ** [ 9s ] board:[ Jd Jh 9s]
+Mominator1 bets for 40 Tournament chips
+lvharris folds [40 Tournament chips]
+Sondance folds [40 Tournament chips]
+billr2 calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd Jh 9s 6d]
+Mominator1 bets for 40 Tournament chips
+billr2 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Jd Jh 9s 6d Ah]
+Mominator1 checks
+billr2 checks
+Round 4 is over.
+Mominator1 shows [ Td Tc ] two pair, jacks and tens
+Hand evaluation for Mominator1 (Td Tc Jd Jh Ah: two pair, jacks and tens)
+billr2 shows [ Qs Qc ] two pair, queens and jacks
+Hand evaluation for billr2 (Qs Qc Jd Jh Ah: two pair, queens and jacks)
+billr2 wins main pot 320 Tournament chips with two pair, queens and jacks, ace kicker.
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2635 Tournament chips) 
+Seat 2: Mominator1 (2340 Tournament chips) 
+Seat 3: lvharris (2425 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5106 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+Game #23983300-6 ends
+Game #23983300-7 starts
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2635 Tournament chips) 
+Seat 2: Mominator1 (2340 Tournament chips) 
+Seat 3: lvharris (2425 Tournament chips) 
+Seat 4: mapman123 (2500 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2059 Tournament chips) 
+Seat 7: Sondance (5106 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+lvharris posts the small blind [10 Tournament chips]
+mapman123 posts the big blind [20 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2965 Tournament chips.
+billr2, at seat 1, is in this hand with 2635 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2340 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2480 Tournament chips.
+zorro55, at seat 5, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2059 Tournament chips.
+Sondance, at seat 7, is in this hand with 5106 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2485 Tournament chips.
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Td Qd ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+zorro55 folds [20 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+Sondance folds [60 Tournament chips]
+shrmanapt folds [60 Tournament chips]
+4eyed Jack folds [60 Tournament chips]
+billr2 folds [60 Tournament chips]
+Mominator1 folds [60 Tournament chips]
+lvharris folds [50 Tournament chips]
+mapman123 folds [40 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Td Qd: queen high)
+QwertySpark wins main pot 50 Tournament chips.
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2635 Tournament chips) 
+Seat 2: Mominator1 (2340 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2480 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2089 Tournament chips) 
+Seat 7: Sondance (5106 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+Game #23983300-7 ends
+Game #23983300-8 starts
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2635 Tournament chips) 
+Seat 2: Mominator1 (2340 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2480 Tournament chips) 
+Seat 5: zorro55 (2500 Tournament chips) 
+Seat 6: QwertySpark (2089 Tournament chips) 
+Seat 7: Sondance (5106 Tournament chips) 
+Seat 8: shrmanapt (2485 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+mapman123 posts the small blind [10 Tournament chips]
+zorro55 posts the big blind [20 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2965 Tournament chips.
+billr2, at seat 1, is in this hand with 2635 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2340 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2470 Tournament chips.
+zorro55, at seat 5, is in this hand with 2480 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2089 Tournament chips.
+Sondance, at seat 7, is in this hand with 5106 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2485 Tournament chips.
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Ts 2s ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+QwertySpark folds [20 Tournament chips]
+Sondance calls [20 Tournament chips]
+shrmanapt calls [20 Tournament chips]
+4eyed Jack folds [20 Tournament chips]
+billr2 calls [20 Tournament chips]
+Mominator1 calls [20 Tournament chips]
+lvharris folds [20 Tournament chips]
+mapman123 calls [10 Tournament chips]
+zorro55 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Ad ] board:[ 3d Ad]
+** Dealing Flop ** [ 9h ] board:[ 3d Ad 9h]
+mapman123 checks
+zorro55 has timed out - the hand is checked
+Sondance checks
+shrmanapt bets for 120 Tournament chips
+billr2 folds [120 Tournament chips]
+Mominator1 folds [120 Tournament chips]
+mapman123 folds [120 Tournament chips]
+zorro55 folds [120 Tournament chips]
+Sondance folds [120 Tournament chips]
+shrmanapt is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for shrmanapt (As Jc 3d Ad 9h: a pair of aces)
+shrmanapt wins main pot 120 Tournament chips.
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2615 Tournament chips) 
+Seat 2: Mominator1 (2320 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2460 Tournament chips) 
+Seat 5: zorro55 (2480 Tournament chips) 
+Seat 6: QwertySpark (2089 Tournament chips) 
+Seat 7: Sondance (5086 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+Game #23983300-8 ends
+Game #23983300-9 starts
+Seat 0: 4eyed Jack (2965 Tournament chips) 
+Seat 1: billr2 (2615 Tournament chips) 
+Seat 2: Mominator1 (2320 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2460 Tournament chips) 
+Seat 5: zorro55 (2480 Tournament chips) 
+Seat 6: QwertySpark (2089 Tournament chips) 
+Seat 7: Sondance (5086 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+zorro55 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2965 Tournament chips.
+billr2, at seat 1, is in this hand with 2615 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2320 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2460 Tournament chips.
+zorro55, at seat 5, is in this hand with 2470 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2069 Tournament chips.
+Sondance, at seat 7, is in this hand with 5086 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2585 Tournament chips.
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Qd 6c ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+Sondance calls [20 Tournament chips]
+shrmanapt folds [20 Tournament chips]
+4eyed Jack calls [20 Tournament chips]
+billr2 folds [20 Tournament chips]
+Mominator1 folds [20 Tournament chips]
+lvharris folds [20 Tournament chips]
+mapman123 folds [20 Tournament chips]
+zorro55 calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 8c ] board:[ Td 8c]
+** Dealing Flop ** [ Ac ] board:[ Td 8c Ac]
+zorro55 checks
+QwertySpark checks
+Sondance checks
+4eyed Jack checks
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Td 8c Ac Tc]
+zorro55 checks
+QwertySpark checks
+Sondance has timed out - the hand is checked
+4eyed Jack checks
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ Td 8c Ac Tc 3d]
+zorro55 checks
+QwertySpark checks
+Sondance checks
+4eyed Jack checks
+Round 4 is over.
+zorro55 shows [ 2d 2h ] two pair, tens and deuces
+Hand evaluation for zorro55 (2d 2h Td Ac Tc: two pair, tens and deuces)
+QwertySpark doesn't show [ Qd 6c ]
+(QwertySpark has Qd 6c.)
+Sondance doesn't show [ 2s Kh ]
+(Sondance has 2s Kh.)
+4eyed Jack doesn't show [ 6d 4d ]
+(4eyed Jack has 6d 4d.)
+zorro55 wins main pot 80 Tournament chips with two pair, tens and deuces, ace kicker.
+Seat 0: 4eyed Jack (2945 Tournament chips) 
+Seat 1: billr2 (2615 Tournament chips) 
+Seat 2: Mominator1 (2320 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2460 Tournament chips) 
+Seat 5: zorro55 (2540 Tournament chips) 
+Seat 6: QwertySpark (2069 Tournament chips) 
+Seat 7: Sondance (5066 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+Game #23983300-9 ends
+Game #23983300-10 starts
+Seat 0: 4eyed Jack (2945 Tournament chips) 
+Seat 1: billr2 (2615 Tournament chips) 
+Seat 2: Mominator1 (2320 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2460 Tournament chips) 
+Seat 5: zorro55 (2540 Tournament chips) 
+Seat 6: QwertySpark (2069 Tournament chips) 
+Seat 7: Sondance (5066 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+QwertySpark posts the small blind [15 Tournament chips]
+Sondance posts the big blind [30 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2945 Tournament chips.
+billr2, at seat 1, is in this hand with 2615 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2320 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2460 Tournament chips.
+zorro55, at seat 5, is in this hand with 2540 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2054 Tournament chips.
+Sondance, at seat 7, is in this hand with 5036 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2585 Tournament chips.
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Th 9d ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+shrmanapt folds [30 Tournament chips]
+4eyed Jack calls [30 Tournament chips]
+billr2 calls [30 Tournament chips]
+Mominator1 calls [30 Tournament chips]
+lvharris folds [30 Tournament chips]
+mapman123 calls [30 Tournament chips]
+zorro55 calls [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+Sondance checks
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ 4c ] board:[ 3c 4c]
+** Dealing Flop ** [ Qs ] board:[ 3c 4c Qs]
+QwertySpark checks
+Sondance bets for 30 Tournament chips
+4eyed Jack calls [30 Tournament chips]
+billr2 calls [30 Tournament chips]
+Mominator1 folds [30 Tournament chips]
+mapman123 folds [30 Tournament chips]
+zorro55 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 3c 4c Qs 3d]
+Sondance goes all-in for 5006 Tournament chips
+4eyed Jack folds [2885 Tournament chips]
+billr2 folds [2555 Tournament chips]
+Sondance is returned 5006 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Sondance (3h Kc 3c Qs 3d: three threes)
+Sondance wins main pot 300 Tournament chips.
+billr2: all in for 300 lol
+Seat 0: 4eyed Jack (2885 Tournament chips) 
+Seat 1: billr2 (2555 Tournament chips) 
+Seat 2: Mominator1 (2290 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2430 Tournament chips) 
+Seat 5: zorro55 (2510 Tournament chips) 
+Seat 6: QwertySpark (2039 Tournament chips) 
+Seat 7: Sondance (5306 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+Game #23983300-10 ends
+Game #23983300-11 starts
+Seat 0: 4eyed Jack (2885 Tournament chips) 
+Seat 1: billr2 (2555 Tournament chips) 
+Seat 2: Mominator1 (2290 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2430 Tournament chips) 
+Seat 5: zorro55 (2510 Tournament chips) 
+Seat 6: QwertySpark (2039 Tournament chips) 
+Seat 7: Sondance (5306 Tournament chips) 
+Seat 8: shrmanapt (2585 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Sondance posts the small blind [15 Tournament chips]
+shrmanapt posts the big blind [30 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2885 Tournament chips.
+billr2, at seat 1, is in this hand with 2555 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2290 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2430 Tournament chips.
+zorro55, at seat 5, is in this hand with 2510 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2039 Tournament chips.
+Sondance, at seat 7, is in this hand with 5291 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2555 Tournament chips.
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Kc 8h ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+4eyed Jack calls [30 Tournament chips]
+billr2 folds [30 Tournament chips]
+Mominator1 folds [30 Tournament chips]
+lvharris folds [30 Tournament chips]
+mapman123 folds [30 Tournament chips]
+zorro55 folds [30 Tournament chips]
+QwertySpark raises [90 Tournament chips]
+Sondance folds [75 Tournament chips]
+shrmanapt folds [60 Tournament chips]
+4eyed Jack calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 3h ] board:[ Tc 3h]
+** Dealing Flop ** [ 9s ] board:[ Tc 3h 9s]
+4eyed Jack checks
+QwertySpark bets for 142 Tournament chips
+4eyed Jack folds [142 Tournament chips]
+QwertySpark is returned 142 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kc 8h Tc 3h 9s: king high)
+QwertySpark wins main pot 225 Tournament chips.
+Seat 0: 4eyed Jack (2795 Tournament chips) 
+Seat 1: billr2 (2555 Tournament chips) 
+Seat 2: Mominator1 (2290 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2430 Tournament chips) 
+Seat 5: zorro55 (2510 Tournament chips) 
+Seat 6: QwertySpark (2174 Tournament chips) 
+Seat 7: Sondance (5291 Tournament chips) 
+Seat 8: shrmanapt (2555 Tournament chips) 
+Game #23983300-11 ends
+Game #23983300-12 starts
+Seat 0: 4eyed Jack (2795 Tournament chips) 
+Seat 1: billr2 (2555 Tournament chips) 
+Seat 2: Mominator1 (2290 Tournament chips) 
+Seat 3: lvharris (2415 Tournament chips) 
+Seat 4: mapman123 (2430 Tournament chips) 
+Seat 5: zorro55 (2510 Tournament chips) 
+Seat 6: QwertySpark (2174 Tournament chips) 
+Seat 7: Sondance (5291 Tournament chips) 
+Seat 8: shrmanapt (2555 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+shrmanapt posts the small blind [15 Tournament chips]
+4eyed Jack posts the big blind [30 Tournament chips]
+4eyed Jack, at seat 0, is in this hand with 2765 Tournament chips.
+billr2, at seat 1, is in this hand with 2555 Tournament chips.
+Mominator1, at seat 2, is in this hand with 2290 Tournament chips.
+lvharris, at seat 3, is in this hand with 2415 Tournament chips.
+mapman123, at seat 4, is in this hand with 2430 Tournament chips.
+zorro55, at seat 5, is in this hand with 2510 Tournament chips.
+QwertySpark, at seat 6, is in this hand with 2174 Tournament chips.
+Sondance, at seat 7, is in this hand with 5291 Tournament chips.
+shrmanapt, at seat 8, is in this hand with 2540 Tournament chips.
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+shrmanapt is dealt: **
+4eyed Jack is dealt: **
+billr2 is dealt: **
+Mominator1 is dealt: **
+lvharris is dealt: **
+mapman123 is dealt: **
+zorro55 is dealt: **
+
+Sondance is dealt: **
+Dealt to 4eyed Jack [ **** ]
+Dealt to billr2 [ **** ]
+Dealt to Mominator1 [ **** ]
+Dealt to lvharris [ **** ]
+Dealt to mapman123 [ **** ]
+Dealt to zorro55 [ **** ]
+Dealt to QwertySpark [ Th 9d ]
+Dealt to Sondance [ **** ]
+Dealt to shrmanapt [ **** ]
+billr2 calls [30 Tournament chips]
+Mominator1 folds [30 Tournament chips]
+lvharris calls [30 Tournament chips]
+mapman123 calls [30 Tournament chips]
+zorro55 folds [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Sondance calls [30 Tournament chips]
+shrmanapt calls [15 Tournament chips]
+4eyed Jack checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5d ] board:[ Ts 5d]
+** Dealing Flop ** [ 2h ] board:[ Ts 5d 2h]
+shrmanapt checks
+4eyed Jack checks
+billr2 checks
+lvharris bets for 210 Tournament chips
+mapman123 folds [210 Tournament chips]
+QwertySpark raises [840 Tournament chips]
+Sondance folds [840 Tournament chips]
+shrmanapt folds [840 Tournament chips]
+4eyed Jack folds [840 Tournament chips]
+billr2 folds [840 Tournament chips]
+lvharris raises all-in [2175 Tournament chips]
+QwertySpark calls all-in [1304 Tournament chips]
+lvharris is returned 241 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+lvharris shows [ 5h 5c ]
+QwertySpark shows [ Th 9d ]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Ts 5d 2h Kc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Ts 5d 2h Kc 4c]
+        (no action in this round)
+Round 4 is over.
+lvharris shows [ 5h 5c ] three fives, king/ten kickers
+QwertySpark shows [ Th 9d ] a pair of tens, king/nine kickers
+lvharris wins main pot 4498 Tournament chips with three fives, king/ten kickers.
+Seat 0: 4eyed Jack (2765 Tournament chips) 
+Seat 1: billr2 (2525 Tournament chips) 
+Seat 2: Mominator1 (2290 Tournament chips) 
+Seat 3: lvharris (4739 Tournament chips) 
+Seat 4: mapman123 (2400 Tournament chips) 
+Seat 5: zorro55 (2510 Tournament chips) 
+Seat 6: QwertySpark (0 Tournament chips) 
+Seat 7: Sondance (5261 Tournament chips) 
+Seat 8: shrmanapt (2525 Tournament chips) 
+Game #23983300-12 ends
+Player QwertySpark leaves the table with 0 Tournament chips

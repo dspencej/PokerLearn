@@ -1,0 +1,531 @@
+Game#: 23960127
+Bobthemailman is dealt: **
+Uate1TOO is dealt: **
+QwertySpark is dealt: Ac
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+locomotiveman is dealt: **
+The button is moved to seat 4.
+Game #23960127-1 starts
+Seat 0: Bobthemailman (990 Tournament chips) 
+Seat 3: Uate1TOO (1000 Tournament chips) 
+Seat 4: QwertySpark (1000 Tournament chips) 
+Seat 6: Davlonge (1000 Tournament chips) 
+Seat 7: HavinFunCO (1000 Tournament chips) 
+Seat 8: locomotiveman (1000 Tournament chips) 
+The button is at seat 4
+Davlonge posts the small blind [10 Tournament chips]
+HavinFunCO posts the big blind [20 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 990 Tournament chips.
+Uate1TOO, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1000 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand with 980 Tournament chips.
+locomotiveman, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+locomotiveman is dealt: **
+Bobthemailman is dealt: **
+Uate1TOO is dealt: **
+
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+locomotiveman is dealt: **
+Bobthemailman is dealt: **
+Uate1TOO is dealt: **
+
+Dealt to Bobthemailman [ **** ]
+Dealt to Uate1TOO [ **** ]
+Dealt to QwertySpark [ 3d 3s ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+Dealt to locomotiveman [ **** ]
+locomotiveman folds [20 Tournament chips]
+Bobthemailman folds [20 Tournament chips]
+Uate1TOO calls [20 Tournament chips]
+QwertySpark raises [200 Tournament chips]
+Davlonge folds [190 Tournament chips]
+HavinFunCO folds [180 Tournament chips]
+Uate1TOO calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Ks ] board:[ 2h Ks]
+** Dealing Flop ** [ Jd ] board:[ 2h Ks Jd]
+Uate1TOO bets for 20 Tournament chips
+QwertySpark raises [245 Tournament chips]
+Uate1TOO calls [225 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 2h Ks Jd 5s]
+Uate1TOO bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 2h Ks Jd 5s 8c]
+Uate1TOO checks
+QwertySpark goes all-in for 535 Tournament chips
+Uate1TOO folds [535 Tournament chips]
+QwertySpark is returned 535 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (3d 3s Ks Jd 8c: a pair of threes)
+QwertySpark wins main pot 960 Tournament chips.
+Seat 0: Bobthemailman (990 Tournament chips) 
+Seat 1: bear7665PD (1000 Tournament chips) 
+Seat 2: Taz1909 (1860 Tournament chips) 
+Seat 3: Uate1TOO (535 Tournament chips) 
+Seat 4: QwertySpark (1495 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (980 Tournament chips) 
+Seat 8: locomotiveman (1000 Tournament chips) 
+Game #23960127-1 ends
+Player locomotiveman leaves the table with 1000 Tournament chips
+Game #23960127-2 starts
+Seat 0: Bobthemailman (990 Tournament chips) 
+Seat 1: bear7665PD (1000 Tournament chips) 
+Seat 2: Taz1909 (1860 Tournament chips) 
+Seat 3: Uate1TOO (535 Tournament chips) 
+Seat 4: QwertySpark (1495 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (980 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+HavinFunCO posts the small blind [15 Tournament chips]
+Bobthemailman posts the big blind [30 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 960 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 1000 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1860 Tournament chips.
+Uate1TOO, at seat 3, is in this hand with 535 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1495 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 620 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+Uate1TOO is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+Uate1TOO is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to Uate1TOO [ **** ]
+Dealt to QwertySpark [ Qd 9h ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+bear7665PD calls [30 Tournament chips]
+Taz1909 calls [30 Tournament chips]
+Uate1TOO raises [180 Tournament chips]
+QwertySpark folds [180 Tournament chips]
+TaylorRoca folds [180 Tournament chips]
+Davlonge folds [180 Tournament chips]
+HavinFunCO folds [165 Tournament chips]
+Bobthemailman folds [150 Tournament chips]
+bear7665PD re-raises [300 Tournament chips]
+Taz1909 folds [300 Tournament chips]
+Uate1TOO raises all-in [355 Tournament chips]
+bear7665PD calls [205 Tournament chips]
+Tournament all-in showdown -- players show:
+bear7665PD shows [ As Qc ]
+Uate1TOO shows [ 7h Ac ]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Qs ] board:[ Ts Qs]
+** Dealing Flop ** [ 4c ] board:[ Ts Qs 4c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ Ts Qs 4c Jh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Ts Qs 4c Jh 6s]
+        (no action in this round)
+Round 4 is over.
+bear7665PD shows [ As Qc ] a pair of queens, ace/jack kickers
+Uate1TOO shows [ 7h Ac ] ace/queen/jack high
+bear7665PD wins main pot 1145 Tournament chips with a pair of queens, ace/jack kickers.
+Seat 0: Bobthemailman (960 Tournament chips) 
+Seat 1: bear7665PD (1610 Tournament chips) 
+Seat 2: Taz1909 (1830 Tournament chips) 
+Seat 3: Uate1TOO (0 Tournament chips) 
+Seat 4: QwertySpark (1495 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-2 ends
+Player Uate1TOO leaves the table with 0 Tournament chips
+Game #23960127-3 starts
+Seat 0: Bobthemailman (960 Tournament chips) 
+Seat 1: bear7665PD (1610 Tournament chips) 
+Seat 2: Taz1909 (1830 Tournament chips) 
+Seat 4: QwertySpark (1495 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Bobthemailman posts the small blind [15 Tournament chips]
+bear7665PD posts the big blind [30 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 945 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 1580 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1830 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 1495 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 620 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to QwertySpark [ 3h Ah ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+Taz1909 folds [30 Tournament chips]
+QwertySpark raises [60 Tournament chips]
+TaylorRoca folds [60 Tournament chips]
+Davlonge folds [60 Tournament chips]
+HavinFunCO folds [60 Tournament chips]
+Bobthemailman calls [45 Tournament chips]
+bear7665PD calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Jc ] board:[ 2d Jc]
+** Dealing Flop ** [ 3d ] board:[ 2d Jc 3d]
+Bobthemailman checks
+bear7665PD bets for 180 Tournament chips
+QwertySpark calls [180 Tournament chips]
+Bobthemailman folds [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 2d Jc 3d Ks]
+bear7665PD checks
+QwertySpark bets for 540 Tournament chips
+bear7665PD calls [540 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 2d Jc 3d Ks 5h]
+bear7665PD checks
+QwertySpark bets for 450 Tournament chips
+bear7665PD calls [450 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ 3h Ah ] a pair of threes
+Hand evaluation for QwertySpark (3h Ah Jc 3d Ks: a pair of threes)
+bear7665PD shows [ Qd Jh ] a pair of jacks
+Hand evaluation for bear7665PD (Qd Jh Jc Ks 5h: a pair of jacks)
+bear7665PD wins main pot 2520 Tournament chips with a pair of jacks, king/queen kickers.
+Seat 0: Bobthemailman (900 Tournament chips) 
+Seat 1: bear7665PD (2900 Tournament chips) 
+Seat 2: Taz1909 (1830 Tournament chips) 
+Seat 4: QwertySpark (265 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-3 ends
+Game #23960127-4 starts
+Seat 0: Bobthemailman (900 Tournament chips) 
+Seat 1: bear7665PD (2900 Tournament chips) 
+Seat 2: Taz1909 (1830 Tournament chips) 
+Seat 4: QwertySpark (265 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+bear7665PD posts the small blind [20 Tournament chips]
+Taz1909 posts the big blind [40 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 900 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 2880 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1790 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 265 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 620 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to QwertySpark [ Kh 3c ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+QwertySpark folds [40 Tournament chips]
+TaylorRoca folds [40 Tournament chips]
+Davlonge folds [40 Tournament chips]
+HavinFunCO folds [40 Tournament chips]
+Bobthemailman folds [40 Tournament chips]
+bear7665PD calls [20 Tournament chips]
+Taz1909 checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ Kd ] board:[ Tc Kd]
+** Dealing Flop ** [ 5h ] board:[ Tc Kd 5h]
+bear7665PD bets for 40 Tournament chips
+Taz1909 folds [40 Tournament chips]
+bear7665PD is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for bear7665PD (7h Ks Tc Kd 5h: a pair of kings)
+bear7665PD wins main pot 80 Tournament chips.
+Seat 0: Bobthemailman (900 Tournament chips) 
+Seat 1: bear7665PD (2940 Tournament chips) 
+Seat 2: Taz1909 (1790 Tournament chips) 
+Seat 4: QwertySpark (265 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-4 ends
+Game #23960127-5 starts
+Seat 0: Bobthemailman (900 Tournament chips) 
+Seat 1: bear7665PD (2940 Tournament chips) 
+Seat 2: Taz1909 (1790 Tournament chips) 
+Seat 4: QwertySpark (265 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Taz1909 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 900 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 2940 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1770 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 225 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 620 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to QwertySpark [ Ah 2c ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+TaylorRoca folds [40 Tournament chips]
+Davlonge folds [40 Tournament chips]
+HavinFunCO folds [40 Tournament chips]
+Bobthemailman calls [40 Tournament chips]
+bear7665PD calls [40 Tournament chips]
+Taz1909 calls [20 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Js ] board:[ Qc Js]
+** Dealing Flop ** [ Jd ] board:[ Qc Js Jd]
+Taz1909 checks
+QwertySpark checks
+Bobthemailman bets for 40 Tournament chips
+bear7665PD calls [40 Tournament chips]
+Taz1909 calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ Qc Js Jd Jc]
+Taz1909 checks
+Bobthemailman bets for 40 Tournament chips
+bear7665PD calls [40 Tournament chips]
+Taz1909 calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Qc Js Jd Jc Td]
+Taz1909 checks
+Bobthemailman bets for 120 Tournament chips
+bear7665PD folds [120 Tournament chips]
+Taz1909 folds [120 Tournament chips]
+Bobthemailman is returned 120 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Bobthemailman (Tc Js Jd Jc Td: full house, jacks full of tens)
+Bobthemailman wins main pot 400 Tournament chips.
+Seat 0: Bobthemailman (1180 Tournament chips) 
+Seat 1: bear7665PD (2820 Tournament chips) 
+Seat 2: Taz1909 (1670 Tournament chips) 
+Seat 4: QwertySpark (225 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-5 ends
+Game #23960127-6 starts
+Seat 0: Bobthemailman (1180 Tournament chips) 
+Seat 1: bear7665PD (2820 Tournament chips) 
+Seat 2: Taz1909 (1670 Tournament chips) 
+Seat 4: QwertySpark (225 Tournament chips) 
+Seat 5: TaylorRoca (620 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [30 Tournament chips]
+TaylorRoca posts the big blind [60 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 1180 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 2820 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1670 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 195 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 560 Tournament chips.
+Davlonge, at seat 6, is in this hand with 990 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to QwertySpark [ 6d 2s ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+Davlonge folds [60 Tournament chips]
+HavinFunCO folds [60 Tournament chips]
+Bobthemailman calls [60 Tournament chips]
+bear7665PD calls [60 Tournament chips]
+Taz1909 folds [60 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+TaylorRoca checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Kd ] board:[ 6s Kd]
+** Dealing Flop ** [ 3h ] board:[ 6s Kd 3h]
+TaylorRoca bets for 120 Tournament chips
+Bobthemailman folds [120 Tournament chips]
+bear7665PD folds [120 Tournament chips]
+TaylorRoca is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for TaylorRoca (7d 6c 6s Kd 3h: a pair of sixes)
+TaylorRoca wins main pot 210 Tournament chips.
+Seat 0: Bobthemailman (1120 Tournament chips) 
+Seat 1: bear7665PD (2760 Tournament chips) 
+Seat 2: Taz1909 (1670 Tournament chips) 
+Seat 4: QwertySpark (195 Tournament chips) 
+Seat 5: TaylorRoca (770 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-6 ends
+Game #23960127-7 starts
+Seat 0: Bobthemailman (1120 Tournament chips) 
+Seat 1: bear7665PD (2760 Tournament chips) 
+Seat 2: Taz1909 (1670 Tournament chips) 
+Seat 4: QwertySpark (195 Tournament chips) 
+Seat 5: TaylorRoca (770 Tournament chips) 
+Seat 6: Davlonge (990 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+TaylorRoca posts the small blind [30 Tournament chips]
+Davlonge posts the big blind [60 Tournament chips]
+Bobthemailman, at seat 0, is in this hand with 1120 Tournament chips.
+bear7665PD, at seat 1, is in this hand with 2760 Tournament chips.
+Taz1909, at seat 2, is in this hand with 1670 Tournament chips.
+QwertySpark, at seat 4, is in this hand with 195 Tournament chips.
+TaylorRoca, at seat 5, is in this hand with 740 Tournament chips.
+Davlonge, at seat 6, is in this hand with 930 Tournament chips.
+HavinFunCO, at seat 7, is in this hand (absent) with 965 Tournament chips.
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+TaylorRoca is dealt: **
+Davlonge is dealt: **
+HavinFunCO is dealt: **
+Bobthemailman is dealt: **
+bear7665PD is dealt: **
+Taz1909 is dealt: **
+
+Dealt to Bobthemailman [ **** ]
+Dealt to bear7665PD [ **** ]
+Dealt to Taz1909 [ **** ]
+Dealt to QwertySpark [ 5h Js ]
+Dealt to TaylorRoca [ **** ]
+Dealt to Davlonge [ **** ]
+Dealt to HavinFunCO [ **** ]
+HavinFunCO folds [60 Tournament chips]
+Bobthemailman folds [60 Tournament chips]
+bear7665PD calls [60 Tournament chips]
+Taz1909 folds [60 Tournament chips]
+QwertySpark raises all-in [195 Tournament chips]
+TaylorRoca folds [165 Tournament chips]
+Davlonge calls [135 Tournament chips]
+bear7665PD folds [135 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 5h Js ]
+Davlonge shows [ 2s As ]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 9d ] board:[ 2d 9d]
+** Dealing Flop ** [ 5s ] board:[ 2d 9d 5s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 2d 9d 5s Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ 2d 9d 5s Qc Ah]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 5h Js ] a pair of fives, ace/queen kickers
+Davlonge shows [ 2s As ] two pair, aces and deuces, queen kicker
+Davlonge wins main pot 480 Tournament chips with two pair, aces and deuces, queen kicker.
+Seat 0: Bobthemailman (1120 Tournament chips) 
+Seat 1: bear7665PD (2700 Tournament chips) 
+Seat 2: Taz1909 (1670 Tournament chips) 
+Seat 4: QwertySpark (0 Tournament chips) 
+Seat 5: TaylorRoca (740 Tournament chips) 
+Seat 6: Davlonge (1275 Tournament chips) 
+Seat 7: HavinFunCO (965 Tournament chips) 
+Game #23960127-7 ends
+Player QwertySpark leaves the table with 0 Tournament chips

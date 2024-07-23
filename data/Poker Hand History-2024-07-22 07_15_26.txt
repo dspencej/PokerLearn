@@ -1,0 +1,1848 @@
+Game#: 23981066
+liisaamarie is dealt: **
+slb1106 is dealt: **
+SatoZinn1956 is dealt: **
+Treesnkeys63 is dealt: **
+neverwin6agai is dealt: **
+QwertySpark is dealt: Jh
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+The button is moved to seat 2.
+Game #23981066-1 starts
+Seat 0: liisaamarie (1000 Tournament chips) 
+Seat 1: slb1106 (1000 Tournament chips) 
+Seat 2: SatoZinn1956 (1000 Tournament chips) 
+Seat 3: Treesnkeys63 (1000 Tournament chips) 
+Seat 4: neverwin6agai (1000 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: Lash7 (1000 Tournament chips) 
+Seat 7: terrylabel (1000 Tournament chips) 
+Seat 8: jj2808jj (1000 Tournament chips) 
+The button is at seat 2
+Treesnkeys63 posts the small blind [5 Tournament chips]
+neverwin6agai posts the big blind [10 Tournament chips]
+liisaamarie, at seat 0, is in this hand with 1000 Tournament chips.
+slb1106, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+SatoZinn1956, at seat 2, is in this hand with 1000 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 995 Tournament chips.
+neverwin6agai, at seat 4, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1000 Tournament chips.
+Lash7, at seat 6, is in this hand with 1000 Tournament chips.
+terrylabel, at seat 7, is in this hand with 1000 Tournament chips.
+jj2808jj, at seat 8, is in this hand with 1000 Tournament chips.
+Treesnkeys63 is dealt: **
+neverwin6agai is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+liisaamarie is dealt: **
+slb1106 is dealt: **
+SatoZinn1956 is dealt: **
+Treesnkeys63 is dealt: **
+neverwin6agai is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+liisaamarie is dealt: **
+slb1106 is dealt: **
+SatoZinn1956 is dealt: **
+Dealt to liisaamarie [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to SatoZinn1956 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to neverwin6agai [ **** ]
+Dealt to QwertySpark [ 7s Qd ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to jj2808jj [ **** ]
+QwertySpark folds [10 Tournament chips]
+Lash7 calls [10 Tournament chips]
+terrylabel folds [10 Tournament chips]
+jj2808jj folds [10 Tournament chips]
+liisaamarie folds [10 Tournament chips]
+slb1106 folds [10 Tournament chips]
+SatoZinn1956 raises [135 Tournament chips]
+Treesnkeys63 calls [130 Tournament chips]
+neverwin6agai calls [125 Tournament chips]
+Lash7 calls [125 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 9h ] board:[ 6s 9h]
+** Dealing Flop ** [ Td ] board:[ 6s 9h Td]
+Treesnkeys63 goes all-in for 865 Tournament chips
+neverwin6agai calls all-in [865 Tournament chips]
+Lash7 folds [865 Tournament chips]
+SatoZinn1956 calls all-in [865 Tournament chips]
+Tournament all-in showdown -- players show:
+SatoZinn1956 shows [ 7c Kc ]
+Treesnkeys63 shows [ Js Qc ]
+neverwin6agai shows [ Ah 5d ]
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 6s 9h Td Ks]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 6s 9h Td Ks 6h]
+        (no action in this round)
+Round 4 is over.
+SatoZinn1956 shows [ 7c Kc ] two pair, kings and sixes, ten kicker
+Treesnkeys63 shows [ Js Qc ] straight, king high
+neverwin6agai shows [ Ah 5d ] a pair of sixes, ace/king kickers
+Treesnkeys63 wins main pot 3135 Tournament chips with straight, king high.
+neverwin6agai: SUK OUT MF A HOLE
+Seat 0: liisaamarie (1000 Tournament chips) 
+Seat 1: slb1106 (1000 Tournament chips) 
+Seat 2: SatoZinn1956 (0 Tournament chips) 
+Seat 3: Treesnkeys63 (3135 Tournament chips) 
+Seat 4: neverwin6agai (0 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: Lash7 (865 Tournament chips) 
+Seat 7: terrylabel (1000 Tournament chips) 
+Seat 8: jj2808jj (1000 Tournament chips) 
+Game #23981066-1 ends
+Player SatoZinn1956 leaves the table with 0 Tournament chips
+Player neverwin6agai leaves the table with 0 Tournament chips
+Game #23981066-2 starts
+Seat 0: liisaamarie (1000 Tournament chips) 
+Seat 1: slb1106 (1000 Tournament chips) 
+Seat 2: Reaper1111 (1000 Tournament chips) 
+Seat 3: Treesnkeys63 (3135 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: Lash7 (865 Tournament chips) 
+Seat 7: terrylabel (1000 Tournament chips) 
+Seat 8: jj2808jj (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+QwertySpark posts the big blind [10 Tournament chips]
+liisaamarie, at seat 0, is in this hand with 1000 Tournament chips.
+slb1106, at seat 1, is in this hand with 1000 Tournament chips.
+Reaper1111, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3135 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 990 Tournament chips.
+Lash7, at seat 6, is in this hand with 865 Tournament chips.
+terrylabel, at seat 7, is in this hand with 1000 Tournament chips.
+jj2808jj, at seat 8, is in this hand with 1000 Tournament chips.
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+liisaamarie is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+liisaamarie is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to liisaamarie [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ 6s 4c ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to jj2808jj [ **** ]
+Lash7 raises [20 Tournament chips]
+terrylabel calls [20 Tournament chips]
+jj2808jj calls [20 Tournament chips]
+liisaamarie calls [20 Tournament chips]
+slb1106 calls [20 Tournament chips]
+Reaper1111 folds [20 Tournament chips]
+Treesnkeys63 calls [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 4h ] board:[ 9d 4h]
+** Dealing Flop ** [ 6c ] board:[ 9d 4h 6c]
+QwertySpark bets for 140 Tournament chips
+Lash7 calls [140 Tournament chips]
+terrylabel folds [140 Tournament chips]
+jj2808jj folds [140 Tournament chips]
+liisaamarie calls [140 Tournament chips]
+slb1106 folds [140 Tournament chips]
+Treesnkeys63 folds [140 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 9d 4h 6c 7s]
+QwertySpark goes all-in for 840 Tournament chips
+Lash7 folds [705 Tournament chips]
+liisaamarie calls all-in [840 Tournament chips]
+Tournament all-in showdown -- players show:
+liisaamarie shows [ 7h Kh ]
+QwertySpark shows [ 6s 4c ]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 9d 4h 6c 7s 4s]
+        (no action in this round)
+Round 4 is over.
+liisaamarie shows [ 7h Kh ] two pair, sevens and fours, king kicker
+QwertySpark shows [ 6s 4c ] full house, fours full of sixes
+QwertySpark wins main pot 2240 Tournament chips with full house, fours full of sixes.
+Seat 0: liisaamarie (0 Tournament chips) 
+Seat 1: slb1106 (980 Tournament chips) 
+Seat 2: Reaper1111 (1000 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2240 Tournament chips) 
+Seat 6: Lash7 (705 Tournament chips) 
+Seat 7: terrylabel (980 Tournament chips) 
+Seat 8: jj2808jj (980 Tournament chips) 
+Game #23981066-2 ends
+Player liisaamarie leaves the table with 0 Tournament chips
+Game #23981066-3 starts
+Seat 1: slb1106 (980 Tournament chips) 
+Seat 2: Reaper1111 (1000 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2240 Tournament chips) 
+Seat 6: Lash7 (705 Tournament chips) 
+Seat 7: terrylabel (980 Tournament chips) 
+Seat 8: jj2808jj (980 Tournament chips) 
+The button is at seat 3
+QwertySpark posts the small blind [10 Tournament chips]
+Lash7 posts the big blind [20 Tournament chips]
+slb1106, at seat 1, is in this hand with 980 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 1000 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3115 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2230 Tournament chips.
+Lash7, at seat 6, is in this hand with 685 Tournament chips.
+terrylabel, at seat 7, is in this hand with 980 Tournament chips.
+jj2808jj, at seat 8, is in this hand with 980 Tournament chips.
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+jj2808jj is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ Ah 8c ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to jj2808jj [ **** ]
+terrylabel folds [20 Tournament chips]
+jj2808jj calls [20 Tournament chips]
+slb1106 calls [20 Tournament chips]
+Reaper1111 raises [40 Tournament chips]
+Treesnkeys63 folds [40 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Lash7 calls [20 Tournament chips]
+jj2808jj calls [20 Tournament chips]
+slb1106 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ Ac ] board:[ 9s Ac]
+** Dealing Flop ** [ Jc ] board:[ 9s Ac Jc]
+Lash7 checks
+jj2808jj bets for 20 Tournament chips
+slb1106 calls [20 Tournament chips]
+Reaper1111 folds [20 Tournament chips]
+Lash7 folds [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 9s Ac Jc 9h]
+jj2808jj goes all-in for 920 Tournament chips
+slb1106 calls all-in [920 Tournament chips]
+Tournament all-in showdown -- players show:
+slb1106 shows [ 8h 9c ]
+jj2808jj shows [ Th 9d ]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 9s Ac Jc 9h 8d]
+        (no action in this round)
+Round 4 is over.
+slb1106 shows [ 8h 9c ] full house, nines full of eights
+jj2808jj shows [ Th 9d ] three nines, ace/jack kickers
+slb1106 wins main pot 2050 Tournament chips with full house, nines full of eights.
+Seat 0: gonecoastalnc (1000 Tournament chips) 
+Seat 1: slb1106 (2050 Tournament chips) 
+Seat 2: Reaper1111 (960 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2230 Tournament chips) 
+Seat 6: Lash7 (665 Tournament chips) 
+Seat 7: terrylabel (980 Tournament chips) 
+Seat 8: jj2808jj (0 Tournament chips) 
+Game #23981066-3 ends
+Player jj2808jj leaves the table with 0 Tournament chips
+Game #23981066-4 starts
+Seat 0: gonecoastalnc (1000 Tournament chips) 
+Seat 1: slb1106 (2050 Tournament chips) 
+Seat 2: Reaper1111 (960 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2230 Tournament chips) 
+Seat 6: Lash7 (665 Tournament chips) 
+Seat 7: terrylabel (980 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+Lash7 posts the small blind [15 Tournament chips]
+terrylabel posts the big blind [30 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 1000 Tournament chips.
+slb1106, at seat 1, is in this hand with 2050 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 960 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand (absent) with 3115 Tournament chips.
+torowpm, at seat 4, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2230 Tournament chips.
+Lash7, at seat 6, is in this hand with 650 Tournament chips.
+terrylabel, at seat 7, is in this hand with 950 Tournament chips.
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 3c 9h ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+gonecoastalnc raises [90 Tournament chips]
+slb1106 folds [90 Tournament chips]
+Reaper1111 calls [90 Tournament chips]
+Treesnkeys63 folds [90 Tournament chips]
+torowpm folds [90 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+Lash7 folds [75 Tournament chips]
+terrylabel folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4d ] board:[ Ad 4d]
+** Dealing Flop ** [ Ks ] board:[ Ad 4d Ks]
+gonecoastalnc checks
+Reaper1111 checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Ad 4d Ks Qh]
+gonecoastalnc bets for 90 Tournament chips
+Reaper1111 calls [90 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Ad 4d Ks Qh 6h]
+gonecoastalnc checks
+Reaper1111 checks
+Round 4 is over.
+gonecoastalnc shows [ 5c 5d ] a pair of fives
+Hand evaluation for gonecoastalnc (5c 5d Ad Ks Qh: a pair of fives)
+Reaper1111 shows [ Qd Js ] a pair of queens
+Hand evaluation for Reaper1111 (Qd Js Ad Ks Qh: a pair of queens)
+Reaper1111 wins main pot 405 Tournament chips with a pair of queens, ace/king kickers.
+Seat 0: gonecoastalnc (820 Tournament chips) 
+Seat 1: slb1106 (2050 Tournament chips) 
+Seat 2: Reaper1111 (1185 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2230 Tournament chips) 
+Seat 6: Lash7 (650 Tournament chips) 
+Seat 7: terrylabel (950 Tournament chips) 
+Game #23981066-4 ends
+Game #23981066-5 starts
+Seat 0: gonecoastalnc (820 Tournament chips) 
+Seat 1: slb1106 (2050 Tournament chips) 
+Seat 2: Reaper1111 (1185 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (1000 Tournament chips) 
+Seat 5: QwertySpark (2230 Tournament chips) 
+Seat 6: Lash7 (650 Tournament chips) 
+Seat 7: terrylabel (950 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+terrylabel posts the small blind [15 Tournament chips]
+gonecoastalnc posts the big blind [30 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 790 Tournament chips.
+slb1106, at seat 1, is in this hand with 2050 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 1185 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand (absent) with 3115 Tournament chips.
+torowpm, at seat 4, is in this hand with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2230 Tournament chips.
+Lash7, at seat 6, is in this hand with 650 Tournament chips.
+terrylabel, at seat 7, is in this hand with 935 Tournament chips.
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 7d 4h ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+slb1106 calls [30 Tournament chips]
+Reaper1111 folds [30 Tournament chips]
+Treesnkeys63 folds [30 Tournament chips]
+torowpm calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Lash7 calls [30 Tournament chips]
+terrylabel calls [15 Tournament chips]
+gonecoastalnc checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Ts ] board:[ Ah Ts]
+** Dealing Flop ** [ 4c ] board:[ Ah Ts 4c]
+terrylabel checks
+gonecoastalnc checks
+slb1106 bets for 180 Tournament chips
+torowpm folds [180 Tournament chips]
+QwertySpark calls [180 Tournament chips]
+Lash7 calls [180 Tournament chips]
+terrylabel folds [180 Tournament chips]
+gonecoastalnc folds [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ Ah Ts 4c 2d]
+slb1106 bets for 720 Tournament chips
+QwertySpark folds [720 Tournament chips]
+Lash7 calls all-in [440 Tournament chips]
+slb1106 is returned 280 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+slb1106 shows [ Kh As ]
+Lash7 shows [ Ac Ks ]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Ah Ts 4c 2d 6c]
+        (no action in this round)
+Round 4 is over.
+slb1106 shows [ Kh As ] a pair of aces, king/ten kickers
+Lash7 shows [ Ac Ks ] a pair of aces, king/ten kickers
+Lash7 wins main pot 800 Tournament chips of a 1600 Tournament chips pot with a pair of aces, king/ten kickers.
+slb1106 wins main pot 800 Tournament chips of a 1600 Tournament chips pot with a pair of aces, king/ten kickers.
+Seat 0: gonecoastalnc (790 Tournament chips) 
+Seat 1: slb1106 (2200 Tournament chips) 
+Seat 2: Reaper1111 (1185 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (970 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (920 Tournament chips) 
+Game #23981066-5 ends
+Game #23981066-6 starts
+Seat 0: gonecoastalnc (790 Tournament chips) 
+Seat 1: slb1106 (2200 Tournament chips) 
+Seat 2: Reaper1111 (1185 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (970 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (920 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+gonecoastalnc posts the small blind [20 Tournament chips]
+slb1106 posts the big blind [40 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 770 Tournament chips.
+slb1106, at seat 1, is in this hand with 2160 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 1185 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand (absent) with 3115 Tournament chips.
+torowpm, at seat 4, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2020 Tournament chips.
+Lash7, at seat 6, is in this hand with 800 Tournament chips.
+terrylabel, at seat 7, is in this hand with 920 Tournament chips.
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 2h 8h ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+Reaper1111 calls [40 Tournament chips]
+Treesnkeys63 folds [40 Tournament chips]
+torowpm folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Lash7 folds [40 Tournament chips]
+terrylabel calls [40 Tournament chips]
+gonecoastalnc calls [20 Tournament chips]
+slb1106 checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 5c ] board:[ Qh 5c]
+** Dealing Flop ** [ Ac ] board:[ Qh 5c Ac]
+gonecoastalnc checks
+slb1106 checks
+(Treesnkeys63 has entered the table, is no longer absent.)
+Reaper1111 checks
+terrylabel checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ Qh 5c Ac Js]
+gonecoastalnc checks
+slb1106 checks
+Reaper1111 checks
+terrylabel checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Qh 5c Ac Js Qd]
+gonecoastalnc has timed out - the hand is checked
+slb1106 checks
+Reaper1111 checks
+terrylabel checks
+Round 4 is over.
+gonecoastalnc shows [ 8d 7h ] a pair of queens
+Hand evaluation for gonecoastalnc (8d Qh Ac Js Qd: a pair of queens)
+slb1106 shows [ 9c 2d ] a pair of queens
+Hand evaluation for slb1106 (9c Qh Ac Js Qd: a pair of queens)
+Reaper1111 doesn't show [ 3d 4d ]
+(Reaper1111 has 3d 4d.)
+terrylabel shows [ 3s 3h ] two pair, queens and threes
+Hand evaluation for terrylabel (3s 3h Qh Ac Qd: two pair, queens and threes)
+terrylabel wins main pot 160 Tournament chips with two pair, queens and threes, ace kicker.
+Seat 0: gonecoastalnc (750 Tournament chips) 
+Seat 1: slb1106 (2160 Tournament chips) 
+Seat 2: Reaper1111 (1145 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (970 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (1040 Tournament chips) 
+Game #23981066-6 ends
+Game #23981066-7 starts
+Seat 0: gonecoastalnc (750 Tournament chips) 
+Seat 1: slb1106 (2160 Tournament chips) 
+Seat 2: Reaper1111 (1145 Tournament chips) 
+Seat 3: Treesnkeys63 (3115 Tournament chips) 
+Seat 4: torowpm (970 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (1040 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+slb1106 posts the small blind [20 Tournament chips]
+Reaper1111 posts the big blind [40 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 750 Tournament chips.
+slb1106, at seat 1, is in this hand with 2140 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 1105 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3115 Tournament chips.
+torowpm, at seat 4, is in this hand with 970 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2020 Tournament chips.
+Lash7, at seat 6, is in this hand with 800 Tournament chips.
+terrylabel, at seat 7, is in this hand with 1040 Tournament chips.
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 3d 2c ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+Treesnkeys63 calls [40 Tournament chips]
+torowpm calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Lash7 folds [40 Tournament chips]
+terrylabel calls [40 Tournament chips]
+gonecoastalnc calls [40 Tournament chips]
+slb1106 calls [20 Tournament chips]
+Reaper1111 checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 8c ] board:[ Tc 8c]
+** Dealing Flop ** [ 6d ] board:[ Tc 8c 6d]
+slb1106 checks
+Reaper1111 bets for 240 Tournament chips
+Treesnkeys63 folds [240 Tournament chips]
+torowpm folds [240 Tournament chips]
+terrylabel raises all-in [1000 Tournament chips]
+gonecoastalnc folds [710 Tournament chips]
+slb1106 folds [1000 Tournament chips]
+Reaper1111 calls [760 Tournament chips]
+Tournament all-in showdown -- players show:
+Reaper1111 shows [ 9c Qc ]
+terrylabel shows [ 8d 6c ]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Tc 8c 6d 8h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Tc 8c 6d 8h 6h]
+        (no action in this round)
+Round 4 is over.
+Reaper1111 shows [ 9c Qc ] two pair, eights and sixes, queen kicker
+terrylabel shows [ 8d 6c ] full house, eights full of sixes
+terrylabel wins main pot 2240 Tournament chips with full house, eights full of sixes.
+Seat 0: gonecoastalnc (710 Tournament chips) 
+Seat 1: slb1106 (2120 Tournament chips) 
+Seat 2: Reaper1111 (105 Tournament chips) 
+Seat 3: Treesnkeys63 (3075 Tournament chips) 
+Seat 4: torowpm (930 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (2240 Tournament chips) 
+Game #23981066-7 ends
+Game #23981066-8 starts
+Seat 0: gonecoastalnc (710 Tournament chips) 
+Seat 1: slb1106 (2120 Tournament chips) 
+Seat 2: Reaper1111 (105 Tournament chips) 
+Seat 3: Treesnkeys63 (3075 Tournament chips) 
+Seat 4: torowpm (930 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (800 Tournament chips) 
+Seat 7: terrylabel (2240 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Reaper1111 posts the small blind [30 Tournament chips]
+Treesnkeys63 posts the big blind [60 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 710 Tournament chips.
+slb1106, at seat 1, is in this hand with 2120 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 75 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3015 Tournament chips.
+torowpm, at seat 4, is in this hand with 930 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2020 Tournament chips.
+Lash7, at seat 6, is in this hand with 800 Tournament chips.
+terrylabel, at seat 7, is in this hand with 2240 Tournament chips.
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 6s 7h ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+torowpm calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Lash7 raises [120 Tournament chips]
+terrylabel calls [120 Tournament chips]
+gonecoastalnc folds [120 Tournament chips]
+slb1106 folds [120 Tournament chips]
+Reaper1111 calls all-in [75 Tournament chips]
+Treesnkeys63 folds [60 Tournament chips]
+torowpm calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 9d ] board:[ 9c 9d]
+** Dealing Flop ** [ Ts ] board:[ 9c 9d Ts]
+torowpm goes all-in for 810 Tournament chips
+Lash7 folds [680 Tournament chips]
+terrylabel folds [810 Tournament chips]
+torowpm is returned 810 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Reaper1111 shows [ 9h Tc ]
+torowpm shows [ Th Kh ]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 9c 9d Ts 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 9c 9d Ts 4s 4c]
+        (no action in this round)
+Round 4 is over.
+Reaper1111 shows [ 9h Tc ] full house, nines full of tens
+torowpm shows [ Th Kh ] two pair, tens and nines, king kicker
+Reaper1111 wins main pot 480 Tournament chips with full house, nines full of tens.
+torowpm wins side pot #1 45 Tournament chips with two pair, tens and nines, king kicker.
+Seat 0: gonecoastalnc (710 Tournament chips) 
+Seat 1: slb1106 (2120 Tournament chips) 
+Seat 2: Reaper1111 (480 Tournament chips) 
+Seat 3: Treesnkeys63 (3015 Tournament chips) 
+Seat 4: torowpm (855 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (680 Tournament chips) 
+Seat 7: terrylabel (2120 Tournament chips) 
+Game #23981066-8 ends
+Game #23981066-9 starts
+Seat 0: gonecoastalnc (710 Tournament chips) 
+Seat 1: slb1106 (2120 Tournament chips) 
+Seat 2: Reaper1111 (480 Tournament chips) 
+Seat 3: Treesnkeys63 (3015 Tournament chips) 
+Seat 4: torowpm (855 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (680 Tournament chips) 
+Seat 7: terrylabel (2120 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Treesnkeys63 posts the small blind [30 Tournament chips]
+torowpm posts the big blind [60 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 710 Tournament chips.
+slb1106, at seat 1, is in this hand with 2120 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 480 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2985 Tournament chips.
+torowpm, at seat 4, is in this hand with 795 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2020 Tournament chips.
+Lash7, at seat 6, is in this hand with 680 Tournament chips.
+terrylabel, at seat 7, is in this hand with 2120 Tournament chips.
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Lash7 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 5h 6c ]
+Dealt to Lash7 [ **** ]
+Dealt to terrylabel [ **** ]
+QwertySpark folds [60 Tournament chips]
+Lash7 calls [60 Tournament chips]
+terrylabel calls [60 Tournament chips]
+gonecoastalnc calls [60 Tournament chips]
+slb1106 calls [60 Tournament chips]
+Reaper1111 raises all-in [480 Tournament chips]
+Treesnkeys63 folds [450 Tournament chips]
+torowpm folds [420 Tournament chips]
+Lash7 calls [420 Tournament chips]
+terrylabel calls [420 Tournament chips]
+gonecoastalnc folds [420 Tournament chips]
+slb1106 calls [420 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 5c ] board:[ Kh 5c]
+** Dealing Flop ** [ Jd ] board:[ Kh 5c Jd]
+Lash7 checks
+terrylabel bets for 60 Tournament chips
+slb1106 calls [60 Tournament chips]
+Lash7 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Kh 5c Jd Td]
+Lash7 checks
+terrylabel checks
+slb1106 bets for 120 Tournament chips
+Lash7 calls [120 Tournament chips]
+terrylabel calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Kh 5c Jd Td 8s]
+Lash7 checks
+terrylabel checks
+slb1106 bets for 60 Tournament chips
+Lash7 calls all-in [20 Tournament chips]
+terrylabel calls [60 Tournament chips]
+Round 4 is over.
+slb1106 shows [ Tc 9c ] a pair of tens
+Hand evaluation for slb1106 (Tc 9c Kh Jd Td: a pair of tens)
+Reaper1111 shows [ Jh Ks ] two pair, kings and jacks
+Hand evaluation for Reaper1111 (Jh Ks Kh Jd Td: two pair, kings and jacks)
+Lash7 shows [ Jc 3c ] a pair of jacks
+Hand evaluation for Lash7 (Jc Kh Jd Td 8s: a pair of jacks)
+terrylabel shows [ Kc Qs ] a pair of kings
+Hand evaluation for terrylabel (Kc Qs Kh Jd Td: a pair of kings)
+Reaper1111 wins main pot 2070 Tournament chips with two pair, kings and jacks, ten kicker.
+terrylabel wins side pot #1 600 Tournament chips with a pair of kings, queen/jack kickers.
+terrylabel wins side pot #2 80 Tournament chips with a pair of kings, queen/jack kickers.
+Seat 0: gonecoastalnc (650 Tournament chips) 
+Seat 1: slb1106 (1400 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2985 Tournament chips) 
+Seat 4: torowpm (795 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: Lash7 (0 Tournament chips) 
+Seat 7: terrylabel (2080 Tournament chips) 
+Seat 8: Fypizzy (625 Tournament chips) 
+Game #23981066-9 ends
+Player Lash7 leaves the table with 0 Tournament chips
+Game #23981066-10 starts
+Seat 0: gonecoastalnc (650 Tournament chips) 
+Seat 1: slb1106 (1400 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2985 Tournament chips) 
+Seat 4: torowpm (795 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 7: terrylabel (2080 Tournament chips) 
+Seat 8: Fypizzy (625 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+torowpm posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 650 Tournament chips.
+slb1106, at seat 1, is in this hand with 1400 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 2070 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2985 Tournament chips.
+torowpm, at seat 4, is in this hand with 745 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1920 Tournament chips.
+terrylabel, at seat 7, is in this hand with 2080 Tournament chips.
+Fypizzy, at seat 8, is in this hand with 625 Tournament chips.
+torowpm is dealt: **
+
+terrylabel is dealt: **
+Fypizzy is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+terrylabel is dealt: **
+Fypizzy is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 8d Jd ]
+Dealt to terrylabel [ **** ]
+Dealt to Fypizzy [ **** ]
+terrylabel folds [100 Tournament chips]
+Fypizzy calls [100 Tournament chips]
+gonecoastalnc folds [100 Tournament chips]
+slb1106 calls [100 Tournament chips]
+Reaper1111 folds [100 Tournament chips]
+Treesnkeys63 folds [100 Tournament chips]
+torowpm calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ Ts ] board:[ Th Ts]
+** Dealing Flop ** [ Td ] board:[ Th Ts Td]
+torowpm checks
+QwertySpark checks
+Fypizzy checks
+slb1106 checks
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ Th Ts Td 8h]
+torowpm checks
+QwertySpark bets for 200 Tournament chips
+Fypizzy folds [200 Tournament chips]
+slb1106 folds [200 Tournament chips]
+torowpm folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (8d Th Ts Td 8h: full house, tens full of eights)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 0: gonecoastalnc (650 Tournament chips) 
+Seat 1: slb1106 (1300 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2985 Tournament chips) 
+Seat 4: torowpm (695 Tournament chips) 
+Seat 5: QwertySpark (2320 Tournament chips) 
+Seat 7: terrylabel (2080 Tournament chips) 
+Seat 8: Fypizzy (525 Tournament chips) 
+Game #23981066-10 ends
+Game #23981066-11 starts
+Seat 0: gonecoastalnc (650 Tournament chips) 
+Seat 1: slb1106 (1300 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2985 Tournament chips) 
+Seat 4: torowpm (695 Tournament chips) 
+Seat 5: QwertySpark (2320 Tournament chips) 
+Seat 7: terrylabel (2080 Tournament chips) 
+Seat 8: Fypizzy (525 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [75 Tournament chips]
+terrylabel posts the big blind [150 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 650 Tournament chips.
+slb1106, at seat 1, is in this hand with 1300 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 2070 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2985 Tournament chips.
+torowpm, at seat 4, is in this hand with 695 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2245 Tournament chips.
+terrylabel, at seat 7, is in this hand with 1930 Tournament chips.
+Fypizzy, at seat 8, is in this hand with 525 Tournament chips.
+
+terrylabel is dealt: **
+Fypizzy is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+terrylabel is dealt: **
+Fypizzy is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 2d 3h ]
+Dealt to terrylabel [ **** ]
+Dealt to Fypizzy [ **** ]
+Fypizzy calls [150 Tournament chips]
+gonecoastalnc calls [150 Tournament chips]
+slb1106 calls [150 Tournament chips]
+Reaper1111 folds [150 Tournament chips]
+Treesnkeys63 calls [150 Tournament chips]
+torowpm folds [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+terrylabel checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 9h ] board:[ 6h 9h]
+** Dealing Flop ** [ 4h ] board:[ 6h 9h 4h]
+QwertySpark checks
+terrylabel bets for 150 Tournament chips
+Fypizzy calls [150 Tournament chips]
+gonecoastalnc folds [150 Tournament chips]
+slb1106 calls [150 Tournament chips]
+Treesnkeys63 folds [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 6h 9h 4h 2s]
+terrylabel bets for 150 Tournament chips
+Fypizzy raises all-in [225 Tournament chips]
+slb1106 calls [225 Tournament chips]
+terrylabel calls [75 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 6h 9h 4h 2s 7d]
+terrylabel checks
+slb1106 checks
+Round 4 is over.
+terrylabel shows [ Kh 9c ] a pair of nines
+Hand evaluation for terrylabel (Kh 9c 6h 9h 7d: a pair of nines)
+Fypizzy shows [ 6c Kd ] a pair of sixes
+Hand evaluation for Fypizzy (6c Kd 6h 9h 7d: a pair of sixes)
+slb1106 shows [ 5c Ah ] ace high
+Hand evaluation for slb1106 (5c Ah 6h 9h 7d: ace high)
+terrylabel wins main pot 2025 Tournament chips with a pair of nines, king/seven kickers.
+Seat 0: gonecoastalnc (500 Tournament chips) 
+Seat 1: slb1106 (775 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (695 Tournament chips) 
+Seat 5: QwertySpark (2170 Tournament chips) 
+Seat 7: terrylabel (3580 Tournament chips) 
+Seat 8: Fypizzy (0 Tournament chips) 
+Game #23981066-11 ends
+Player Fypizzy leaves the table with 0 Tournament chips
+Game #23981066-12 starts
+Seat 0: gonecoastalnc (500 Tournament chips) 
+Seat 1: slb1106 (775 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (695 Tournament chips) 
+Seat 5: QwertySpark (2170 Tournament chips) 
+Seat 7: terrylabel (3580 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+terrylabel posts the small blind [75 Tournament chips]
+gonecoastalnc posts the big blind [150 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 350 Tournament chips.
+slb1106, at seat 1, is in this hand with 775 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 2070 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2835 Tournament chips.
+torowpm, at seat 4, is in this hand with 695 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2170 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3505 Tournament chips.
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 3h 5h ]
+Dealt to terrylabel [ **** ]
+slb1106 calls [150 Tournament chips]
+Reaper1111 folds [150 Tournament chips]
+Treesnkeys63 folds [150 Tournament chips]
+torowpm calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+terrylabel calls [75 Tournament chips]
+gonecoastalnc raises all-in [350 Tournament chips]
+slb1106 calls [350 Tournament chips]
+torowpm calls [350 Tournament chips]
+QwertySpark folds [350 Tournament chips]
+terrylabel calls [350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ Ah ] board:[ 6c Ah]
+** Dealing Flop ** [ 4s ] board:[ 6c Ah 4s]
+terrylabel checks
+slb1106 goes all-in for 275 Tournament chips
+torowpm folds [195 Tournament chips]
+terrylabel folds [275 Tournament chips]
+slb1106 is returned 275 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+gonecoastalnc shows [ Jh Ac ]
+slb1106 shows [ 5d 7d ]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 6c Ah 4s Th]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 6c Ah 4s Th 7s]
+        (no action in this round)
+Round 4 is over.
+gonecoastalnc shows [ Jh Ac ] a pair of aces, jack/ten kickers
+slb1106 shows [ 5d 7d ] a pair of sevens, ace/ten kickers
+gonecoastalnc wins main pot 2150 Tournament chips with a pair of aces, jack/ten kickers.
+Seat 0: gonecoastalnc (2150 Tournament chips) 
+Seat 1: slb1106 (275 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (195 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3530 Tournament chips) 
+Game #23981066-12 ends
+Game #23981066-13 starts
+Seat 0: gonecoastalnc (2150 Tournament chips) 
+Seat 1: slb1106 (275 Tournament chips) 
+Seat 2: Reaper1111 (2070 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (195 Tournament chips) 
+Seat 5: QwertySpark (2020 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3530 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+gonecoastalnc posts the small blind [100 Tournament chips]
+slb1106 posts the big blind [200 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 2050 Tournament chips.
+slb1106, at seat 1, is in this hand with 75 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 2070 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2835 Tournament chips.
+torowpm, at seat 4, is in this hand with 195 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2020 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 815 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3080 Tournament chips.
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+gonecoastalnc is dealt: **
+slb1106 is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to slb1106 [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ As 4s ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Reaper1111 raises [700 Tournament chips]
+Treesnkeys63 folds [700 Tournament chips]
+torowpm folds [195 Tournament chips]
+QwertySpark re-raises [1400 Tournament chips]
+ladymac9 folds [815 Tournament chips]
+terrylabel folds [1400 Tournament chips]
+gonecoastalnc folds [1300 Tournament chips]
+slb1106 calls all-in [75 Tournament chips]
+Reaper1111 raises all-in [1370 Tournament chips]
+QwertySpark calls all-in [620 Tournament chips]
+Reaper1111 is returned 50 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+slb1106 shows [ Td 2d ]
+Reaper1111 shows [ Kh Ac ]
+QwertySpark shows [ As 4s ]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Jd ] board:[ 4d Jd]
+** Dealing Flop ** [ 3c ] board:[ 4d Jd 3c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 4d Jd 3c 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5h ] board:[ 4d Jd 3c 9s 5h]
+        (no action in this round)
+Round 4 is over.
+slb1106 shows [ Td 2d ] jack/ten/nine high
+Reaper1111 shows [ Kh Ac ] ace/king/jack high
+QwertySpark shows [ As 4s ] a pair of fours, ace/jack kickers
+QwertySpark wins main pot 925 Tournament chips with a pair of fours, ace/jack kickers.
+QwertySpark wins side pot #1 3490 Tournament chips with a pair of fours, ace/jack kickers.
+Seat 0: gonecoastalnc (2050 Tournament chips) 
+Seat 1: slb1106 (0 Tournament chips) 
+Seat 2: Reaper1111 (50 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (195 Tournament chips) 
+Seat 5: QwertySpark (4415 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3530 Tournament chips) 
+Game #23981066-13 ends
+Player slb1106 leaves the table with 0 Tournament chips
+Game #23981066-14 starts
+Seat 0: gonecoastalnc (2050 Tournament chips) 
+Seat 2: Reaper1111 (50 Tournament chips) 
+Seat 3: Treesnkeys63 (2835 Tournament chips) 
+Seat 4: torowpm (195 Tournament chips) 
+Seat 5: QwertySpark (4415 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3530 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+Reaper1111 posts the big blind [50 Tournament chips], goes all-in
+gonecoastalnc, at seat 0, is in this hand with 2050 Tournament chips.
+Reaper1111, at seat 2, is in this hand with 0 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 2835 Tournament chips.
+torowpm, at seat 4, is in this hand with 195 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4415 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 815 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3080 Tournament chips.
+ml1701, at seat 8, is in this hand with 3530 Tournament chips.
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gonecoastalnc is dealt: **
+Reaper1111 is dealt: **
+Treesnkeys63 is dealt: **
+torowpm is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gonecoastalnc is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to Reaper1111 [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to torowpm [ **** ]
+Dealt to QwertySpark [ 3d 2d ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+Treesnkeys63 calls [200 Tournament chips]
+torowpm calls all-in [195 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+ladymac9 folds [200 Tournament chips]
+terrylabel folds [200 Tournament chips]
+ml1701 calls [200 Tournament chips]
+gonecoastalnc calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3c ] board:[ 3c]
+** Dealing Flop ** [ Kh ] board:[ 3c Kh]
+** Dealing Flop ** [ 7c ] board:[ 3c Kh 7c]
+Treesnkeys63 checks
+ml1701 checks
+gonecoastalnc checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 3c Kh 7c Jc]
+Treesnkeys63 bets for 845 Tournament chips
+ml1701 folds [845 Tournament chips]
+gonecoastalnc folds [845 Tournament chips]
+Treesnkeys63 is returned 845 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Reaper1111 shows [ Td 5h ]
+Treesnkeys63 shows [ Tc Kd ]
+torowpm shows [ 8h Jh ]
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 3c Kh 7c Jc Qh]
+        (no action in this round)
+Round 4 is over.
+Reaper1111 shows [ Td 5h ] king/queen/jack high
+Treesnkeys63 shows [ Tc Kd ] a pair of kings, queen/jack kickers
+torowpm shows [ 8h Jh ] a pair of jacks, king/queen kickers
+Treesnkeys63 wins main pot 250 Tournament chips with a pair of kings, queen/jack kickers.
+Treesnkeys63 wins side pot #1 580 Tournament chips with a pair of kings, queen/jack kickers.
+Treesnkeys63 wins side pot #2 15 Tournament chips with a pair of kings, queen/jack kickers.
+Seat 0: gonecoastalnc (1850 Tournament chips) 
+Seat 2: Reaper1111 (0 Tournament chips) 
+Seat 3: Treesnkeys63 (3480 Tournament chips) 
+Seat 4: torowpm (0 Tournament chips) 
+Seat 5: QwertySpark (4415 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3330 Tournament chips) 
+Game #23981066-14 ends
+Player Reaper1111 leaves the table with 0 Tournament chips
+Player torowpm leaves the table with 0 Tournament chips
+Game #23981066-15 starts
+Seat 0: gonecoastalnc (1850 Tournament chips) 
+Seat 3: Treesnkeys63 (3480 Tournament chips) 
+Seat 5: QwertySpark (4415 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3330 Tournament chips) 
+The button is at seat 0
+Treesnkeys63 posts the big blind [300 Tournament chips]
+gonecoastalnc, at seat 0, is in this hand with 1850 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3180 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 4415 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 815 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3080 Tournament chips.
+ml1701, at seat 8, is in this hand with 3330 Tournament chips.
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gonecoastalnc is dealt: **
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gonecoastalnc is dealt: **
+Dealt to gonecoastalnc [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ Qs Js ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+QwertySpark raises [1200 Tournament chips]
+ladymac9 folds [815 Tournament chips]
+terrylabel folds [1200 Tournament chips]
+ml1701 folds [1200 Tournament chips]
+gonecoastalnc calls [1200 Tournament chips]
+Treesnkeys63 folds [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 6s ] board:[ 6h 6s]
+** Dealing Flop ** [ Kc ] board:[ 6h 6s Kc]
+QwertySpark checks
+gonecoastalnc checks
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ 6h 6s Kc 5s]
+QwertySpark goes all-in for 3215 Tournament chips
+gonecoastalnc calls all-in [650 Tournament chips]
+QwertySpark is returned 2565 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+gonecoastalnc shows [ 9d As ]
+QwertySpark shows [ Qs Js ]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 6h 6s Kc 5s Ks]
+        (no action in this round)
+Round 4 is over.
+gonecoastalnc shows [ 9d As ] two pair, kings and sixes, ace kicker
+QwertySpark shows [ Qs Js ] flush, king/queen/jack high
+QwertySpark wins main pot 4000 Tournament chips with flush, king/queen/jack high.
+Seat 0: gonecoastalnc (0 Tournament chips) 
+Seat 2: Tasmanian D (9065 Tournament chips) 
+Seat 3: Treesnkeys63 (3180 Tournament chips) 
+Seat 4: RoystonThomas (2055 Tournament chips) 
+Seat 5: QwertySpark (6565 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3330 Tournament chips) 
+Game #23981066-15 ends
+Player gonecoastalnc leaves the table with 0 Tournament chips
+Game #23981066-16 starts
+Seat 2: Tasmanian D (9065 Tournament chips) 
+Seat 3: Treesnkeys63 (3180 Tournament chips) 
+Seat 4: RoystonThomas (2055 Tournament chips) 
+Seat 5: QwertySpark (6565 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (3330 Tournament chips) 
+The button is at seat 0
+Treesnkeys63 posts the small blind [150 Tournament chips]
+RoystonThomas posts the big blind [300 Tournament chips]
+Treesnkeys63, at seat 3, is in this hand with 3030 Tournament chips.
+RoystonThomas, at seat 4, is in this hand with 1755 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 6565 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 815 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3080 Tournament chips.
+ml1701, at seat 8, is in this hand with 3330 Tournament chips.
+Treesnkeys63 is dealt: **
+RoystonThomas is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+Treesnkeys63 is dealt: **
+RoystonThomas is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+Dealt to Treesnkeys63 [ **** ]
+Dealt to RoystonThomas [ **** ]
+Dealt to QwertySpark [ 9h 4c ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+QwertySpark folds [300 Tournament chips]
+ladymac9 folds [300 Tournament chips]
+terrylabel folds [300 Tournament chips]
+ml1701 calls [300 Tournament chips]
+Treesnkeys63 folds [150 Tournament chips]
+RoystonThomas has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 6s ] board:[ 4s 6s]
+** Dealing Flop ** [ Ts ] board:[ 4s 6s Ts]
+RoystonThomas has timed out - the hand is checked
+ml1701 checks
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 4s 6s Ts 5c]
+RoystonThomas has timed out - the hand is checked
+ml1701 checks
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 4s 6s Ts 5c As]
+RoystonThomas has timed out - the hand is checked
+ml1701 bets for 300 Tournament chips
+RoystonThomas calls [300 Tournament chips]
+Round 4 is over.
+ml1701 shows [ Ks 3h ] flush, ace high
+Hand evaluation for ml1701 (Ks 4s 6s Ts As: flush, ace high)
+RoystonThomas doesn't show [ 9s Jd ]
+(RoystonThomas has 9s Jd.)
+ml1701 wins main pot 1350 Tournament chips with flush, ace/king/ten high.
+Seat 0: gooder119 (1630 Tournament chips) 
+Seat 2: Tasmanian D (9065 Tournament chips) 
+Seat 3: Treesnkeys63 (3030 Tournament chips) 
+Seat 4: RoystonThomas (1455 Tournament chips) 
+Seat 5: QwertySpark (6565 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (4080 Tournament chips) 
+Game #23981066-16 ends
+Game #23981066-17 starts
+Seat 0: gooder119 (1630 Tournament chips) 
+Seat 2: Tasmanian D (9065 Tournament chips) 
+Seat 3: Treesnkeys63 (3030 Tournament chips) 
+Seat 4: RoystonThomas (1455 Tournament chips) 
+Seat 5: QwertySpark (6565 Tournament chips) 
+Seat 6: ladymac9 (815 Tournament chips) 
+Seat 7: terrylabel (3080 Tournament chips) 
+Seat 8: ml1701 (4080 Tournament chips) 
+The button is at seat 0
+gooder119 posted ante of 25 Tournament chips
+Tasmanian D posted ante of 25 Tournament chips
+Treesnkeys63 posted ante of 25 Tournament chips
+RoystonThomas posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+ladymac9 posted ante of 25 Tournament chips
+terrylabel posted ante of 25 Tournament chips
+ml1701 posted ante of 25 Tournament chips
+The button is moved to seat 3.
+RoystonThomas posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+gooder119, at seat 0, is in this hand with 1605 Tournament chips.
+Tasmanian D, at seat 2, is in this hand with 9040 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 3005 Tournament chips.
+RoystonThomas, at seat 4, is in this hand with 1280 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 6240 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 790 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3055 Tournament chips.
+ml1701, at seat 8, is in this hand with 4055 Tournament chips.
+RoystonThomas is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+RoystonThomas is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to gooder119 [ **** ]
+Dealt to Tasmanian D [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to RoystonThomas [ **** ]
+Dealt to QwertySpark [ Qc As ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+ladymac9 folds [300 Tournament chips]
+terrylabel folds [300 Tournament chips]
+ml1701 folds [300 Tournament chips]
+gooder119 folds [300 Tournament chips]
+Tasmanian D folds [300 Tournament chips]
+Treesnkeys63 calls [300 Tournament chips]
+RoystonThomas raises all-in [1280 Tournament chips]
+QwertySpark re-raises [2260 Tournament chips]
+Treesnkeys63 raises all-in [2705 Tournament chips]
+QwertySpark calls [445 Tournament chips]
+Tournament all-in showdown -- players show:
+Treesnkeys63 shows [ Js Qd ]
+RoystonThomas shows [ 5d 7h ]
+QwertySpark shows [ Qc As ]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 9h ] board:[ 4s 9h]
+** Dealing Flop ** [ Jc ] board:[ 4s 9h Jc]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 4s 9h Jc 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 4s 9h Jc 4h Jd]
+        (no action in this round)
+Round 4 is over.
+Treesnkeys63 shows [ Js Qd ] full house, jacks full of fours
+RoystonThomas shows [ 5d 7h ] two pair, jacks and fours, nine kicker
+QwertySpark shows [ Qc As ] two pair, jacks and fours, ace kicker
+Treesnkeys63 wins main pot 4490 Tournament chips with full house, jacks full of fours.
+Treesnkeys63 wins side pot #1 3150 Tournament chips with full house, jacks full of fours.
+Seat 0: gooder119 (1605 Tournament chips) 
+Seat 2: Tasmanian D (9040 Tournament chips) 
+Seat 3: Treesnkeys63 (7640 Tournament chips) 
+Seat 4: RoystonThomas (0 Tournament chips) 
+Seat 5: QwertySpark (3535 Tournament chips) 
+Seat 6: ladymac9 (790 Tournament chips) 
+Seat 7: terrylabel (3055 Tournament chips) 
+Seat 8: ml1701 (4055 Tournament chips) 
+Game #23981066-17 ends
+Player RoystonThomas leaves the table with 0 Tournament chips
+Game #23981066-18 starts
+Seat 0: gooder119 (1605 Tournament chips) 
+Seat 2: Tasmanian D (9040 Tournament chips) 
+Seat 3: Treesnkeys63 (7640 Tournament chips) 
+Seat 5: QwertySpark (3535 Tournament chips) 
+Seat 6: ladymac9 (790 Tournament chips) 
+Seat 7: terrylabel (3055 Tournament chips) 
+Seat 8: ml1701 (4055 Tournament chips) 
+The button is at seat 3
+gooder119 posted ante of 50 Tournament chips
+Tasmanian D posted ante of 50 Tournament chips
+ladymac9 posted ante of 50 Tournament chips
+terrylabel posted ante of 50 Tournament chips
+ml1701 posted ante of 50 Tournament chips
+Treesnkeys63 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 4.
+QwertySpark posts the small blind [200 Tournament chips]
+ladymac9 posts the big blind [400 Tournament chips]
+gooder119, at seat 0, is in this hand (absent) with 1555 Tournament chips.
+Tasmanian D, at seat 2, is in this hand with 8990 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 7590 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3285 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 340 Tournament chips.
+terrylabel, at seat 7, is in this hand with 3005 Tournament chips.
+ml1701, at seat 8, is in this hand with 4005 Tournament chips.
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+Dealt to gooder119 [ **** ]
+Dealt to Tasmanian D [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ 7s Tc ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+terrylabel folds [400 Tournament chips]
+ml1701 calls [400 Tournament chips]
+gooder119 folds [400 Tournament chips]
+Tasmanian D folds [400 Tournament chips]
+Treesnkeys63 calls [400 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+ladymac9 folds
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 4d ] board:[ 8d 4d]
+** Dealing Flop ** [ 4s ] board:[ 8d 4d 4s]
+QwertySpark checks
+ml1701 bets for 400 Tournament chips
+Treesnkeys63 calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 8d 4d 4s 8c]
+ml1701 bets for 400 Tournament chips
+Treesnkeys63 calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 8d 4d 4s 8c Ts]
+ml1701 bets for 400 Tournament chips
+Treesnkeys63 calls [400 Tournament chips]
+Round 4 is over.
+ml1701 shows [ Ah 8s ] full house, eights full of fours
+Hand evaluation for ml1701 (8s 8d 4d 4s 8c: full house, eights full of fours)
+Treesnkeys63 doesn't show [ Kd Qh ]
+(Treesnkeys63 has Kd Qh.)
+ml1701 wins main pot 4350 Tournament chips with full house, eights full of fours.
+Seat 0: gooder119 (1555 Tournament chips) 
+Seat 2: Tasmanian D (8990 Tournament chips) 
+Seat 3: Treesnkeys63 (5990 Tournament chips) 
+Seat 5: QwertySpark (3085 Tournament chips) 
+Seat 6: ladymac9 (340 Tournament chips) 
+Seat 7: terrylabel (3005 Tournament chips) 
+Seat 8: ml1701 (6755 Tournament chips) 
+Game #23981066-18 ends
+Game #23981066-19 starts
+Seat 0: gooder119 (1555 Tournament chips) 
+Seat 2: Tasmanian D (8990 Tournament chips) 
+Seat 3: Treesnkeys63 (5990 Tournament chips) 
+Seat 5: QwertySpark (3085 Tournament chips) 
+Seat 6: ladymac9 (340 Tournament chips) 
+Seat 7: terrylabel (3005 Tournament chips) 
+Seat 8: ml1701 (6755 Tournament chips) 
+The button is at seat 4
+gooder119 posted ante of 50 Tournament chips
+Treesnkeys63 posted ante of 50 Tournament chips
+Tasmanian D posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+ladymac9 posted ante of 50 Tournament chips
+terrylabel posted ante of 50 Tournament chips
+ml1701 posted ante of 50 Tournament chips
+The button is moved to seat 5.
+ladymac9 posts the small blind [200 Tournament chips]
+terrylabel posts the big blind [400 Tournament chips]
+gooder119, at seat 0, is in this hand (absent) with 1505 Tournament chips.
+Tasmanian D, at seat 2, is in this hand with 8940 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 5940 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 3035 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 90 Tournament chips.
+terrylabel, at seat 7, is in this hand with 2555 Tournament chips.
+ml1701, at seat 8, is in this hand with 6705 Tournament chips.
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+
+Dealt to gooder119 [ **** ]
+Dealt to Tasmanian D [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ 4s 4h ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+ml1701 folds [400 Tournament chips]
+gooder119 folds [400 Tournament chips]
+Tasmanian D folds [400 Tournament chips]
+Treesnkeys63 folds [400 Tournament chips]
+Treesnkeys63: vnh
+QwertySpark raises [1200 Tournament chips]
+ladymac9 folds [90 Tournament chips]
+terrylabel calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 3h ] board:[ Kd 3h]
+** Dealing Flop ** [ Ks ] board:[ Kd 3h Ks]
+terrylabel checks
+QwertySpark bets for 1475 Tournament chips
+terrylabel calls [1475 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Kd 3h Ks 2c]
+terrylabel goes all-in for 280 Tournament chips
+QwertySpark calls [280 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 4s 4h ]
+terrylabel shows [ 6d Kh ]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ Kd 3h Ks 2c 5d]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 4s 4h ] two pair, kings and fours, five kicker
+terrylabel shows [ 6d Kh ] three kings, six/five kickers
+terrylabel wins main pot 6460 Tournament chips with three kings, six/five kickers.
+Seat 0: gooder119 (1505 Tournament chips) 
+Seat 2: Tasmanian D (8940 Tournament chips) 
+Seat 3: Treesnkeys63 (5940 Tournament chips) 
+Seat 5: QwertySpark (80 Tournament chips) 
+Seat 6: ladymac9 (90 Tournament chips) 
+Seat 7: terrylabel (6460 Tournament chips) 
+Seat 8: ml1701 (6705 Tournament chips) 
+Game #23981066-19 ends
+Game #23981066-20 starts
+Seat 0: gooder119 (1505 Tournament chips) 
+Seat 2: Tasmanian D (8940 Tournament chips) 
+Seat 3: Treesnkeys63 (5940 Tournament chips) 
+Seat 5: QwertySpark (80 Tournament chips) 
+Seat 6: ladymac9 (90 Tournament chips) 
+Seat 7: terrylabel (6460 Tournament chips) 
+Seat 8: ml1701 (6705 Tournament chips) 
+The button is at seat 5
+gooder119 posted ante of 75 Tournament chips
+Tasmanian D posted ante of 75 Tournament chips
+Treesnkeys63 posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+terrylabel posted ante of 75 Tournament chips
+ladymac9 posted ante of 75 Tournament chips
+ml1701 posted ante of 75 Tournament chips
+The button is moved to seat 6.
+terrylabel posts the small blind [300 Tournament chips]
+ml1701 posts the big blind [600 Tournament chips]
+gooder119, at seat 0, is in this hand (absent) with 1430 Tournament chips.
+Tasmanian D, at seat 2, is in this hand with 8865 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 5865 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 5 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 15 Tournament chips.
+terrylabel, at seat 7, is in this hand with 6085 Tournament chips.
+ml1701, at seat 8, is in this hand with 6030 Tournament chips.
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+
+ladymac9 is dealt: **
+Dealt to gooder119 [ **** ]
+Dealt to Tasmanian D [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to QwertySpark [ Ac Kh ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+gooder119 folds [600 Tournament chips]
+Tasmanian D calls [600 Tournament chips]
+Treesnkeys63 calls [600 Tournament chips]
+QwertySpark calls all-in [5 Tournament chips]
+ladymac9 folds [15 Tournament chips]
+terrylabel calls [300 Tournament chips]
+ml1701 checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 4s ] board:[ Kd 4s]
+** Dealing Flop ** [ Ah ] board:[ Kd 4s Ah]
+terrylabel checks
+ml1701 checks
+Tasmanian D bets for 600 Tournament chips
+Treesnkeys63 calls [600 Tournament chips]
+terrylabel folds [600 Tournament chips]
+ml1701 folds [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Kd 4s Ah Td]
+Tasmanian D bets for 1200 Tournament chips
+Treesnkeys63 calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Kd 4s Ah Td Js]
+Tasmanian D bets for 1800 Tournament chips
+Treesnkeys63 calls [1800 Tournament chips]
+Round 4 is over.
+Tasmanian D shows [ 7d As ] a pair of aces
+Hand evaluation for Tasmanian D (As Kd Ah Td Js: a pair of aces)
+Treesnkeys63 shows [ Ad 3c ] a pair of aces
+Hand evaluation for Treesnkeys63 (Ad Kd Ah Td Js: a pair of aces)
+QwertySpark shows [ Ac Kh ] two pair, aces and kings
+Hand evaluation for QwertySpark (Ac Kh Kd Ah Js: two pair, aces and kings)
+QwertySpark wins main pot 550 Tournament chips with two pair, aces and kings, jack kicker.
+Tasmanian D wins side pot #1 4790 Tournament chips of a 9580 Tournament chips pot with a pair of aces, king/jack kickers.
+Treesnkeys63 wins side pot #1 4790 Tournament chips of a 9580 Tournament chips pot with a pair of aces, king/jack kickers.
+Seat 0: gooder119 (1430 Tournament chips) 
+Seat 2: Tasmanian D (9455 Tournament chips) 
+Seat 3: Treesnkeys63 (6455 Tournament chips) 
+Seat 4: Malvaz (4843 Tournament chips) 
+Seat 5: QwertySpark (550 Tournament chips) 
+Seat 6: ladymac9 (15 Tournament chips) 
+Seat 7: terrylabel (5785 Tournament chips) 
+Seat 8: ml1701 (6030 Tournament chips) 
+Game #23981066-20 ends
+Game #23981066-21 starts
+Seat 0: gooder119 (1430 Tournament chips) 
+Seat 1: 4foxlakes (3190 Tournament chips) 
+Seat 2: Tasmanian D (9455 Tournament chips) 
+Seat 3: Treesnkeys63 (6455 Tournament chips) 
+Seat 4: Malvaz (4843 Tournament chips) 
+Seat 5: QwertySpark (550 Tournament chips) 
+Seat 6: ladymac9 (15 Tournament chips) 
+Seat 7: terrylabel (5785 Tournament chips) 
+Seat 8: ml1701 (6030 Tournament chips) 
+The button is at seat 6
+gooder119 posted ante of 100 Tournament chips
+Tasmanian D posted ante of 100 Tournament chips
+Treesnkeys63 posted ante of 100 Tournament chips
+4foxlakes posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+terrylabel posted ante of 100 Tournament chips
+ladymac9 posted ante of 15 Tournament chips
+Malvaz posted ante of 100 Tournament chips
+ml1701 posted ante of 100 Tournament chips
+The button is moved to seat 7.
+ml1701 posts the small blind [400 Tournament chips]
+gooder119 posts the big blind [800 Tournament chips]
+gooder119, at seat 0, is in this hand (absent) with 530 Tournament chips.
+4foxlakes, at seat 1, is in this hand with 3090 Tournament chips.
+Tasmanian D, at seat 2, is in this hand with 9355 Tournament chips.
+Treesnkeys63, at seat 3, is in this hand with 6355 Tournament chips.
+Malvaz, at seat 4, is in this hand with 4743 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 450 Tournament chips.
+ladymac9, at seat 6, is in this hand (absent) with 0 Tournament chips.
+terrylabel, at seat 7, is in this hand with 5685 Tournament chips.
+ml1701, at seat 8, is in this hand with 5530 Tournament chips.
+ml1701 is dealt: **
+gooder119 is dealt: **
+4foxlakes is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+Malvaz is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+ml1701 is dealt: **
+gooder119 is dealt: **
+4foxlakes is dealt: **
+Tasmanian D is dealt: **
+Treesnkeys63 is dealt: **
+Malvaz is dealt: **
+
+ladymac9 is dealt: **
+terrylabel is dealt: **
+Dealt to gooder119 [ **** ]
+Dealt to 4foxlakes [ **** ]
+Dealt to Tasmanian D [ **** ]
+Dealt to Treesnkeys63 [ **** ]
+Dealt to Malvaz [ **** ]
+Dealt to QwertySpark [ Jd 3d ]
+Dealt to ladymac9 [ **** ]
+Dealt to terrylabel [ **** ]
+Dealt to ml1701 [ **** ]
+4foxlakes folds [800 Tournament chips]
+Tasmanian D folds [800 Tournament chips]
+Treesnkeys63 folds [800 Tournament chips]
+Malvaz folds [800 Tournament chips]
+QwertySpark calls all-in [450 Tournament chips]
+terrylabel folds [800 Tournament chips]
+ml1701 calls [400 Tournament chips]
+gooder119 folds
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jd 3d ]
+ladymac9 shows [ Qd 8s ]
+ml1701 shows [ Ad 6c ]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ 7c ] board:[ 4s 7c]
+** Dealing Flop ** [ Ah ] board:[ 4s 7c Ah]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 4s 7c Ah Ts]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 4s 7c Ah Ts 2s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jd 3d ] ace/jack/ten high
+ladymac9 shows [ Qd 8s ] ace/queen/ten high
+ml1701 shows [ Ad 6c ] a pair of aces, ten/seven kickers
+ml1701 wins main pot 135 Tournament chips with a pair of aces, ten/seven kickers.
+ml1701 wins side pot #1 2030 Tournament chips with a pair of aces, ten/seven kickers.
+ml1701 wins side pot #2 700 Tournament chips with a pair of aces, ten/seven kickers.
+Seat 0: gooder119 (530 Tournament chips) 
+Seat 1: 4foxlakes (3090 Tournament chips) 
+Seat 2: Tasmanian D (9355 Tournament chips) 
+Seat 3: Treesnkeys63 (6355 Tournament chips) 
+Seat 4: Malvaz (4743 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Seat 6: ladymac9 (0 Tournament chips) 
+Seat 7: terrylabel (5685 Tournament chips) 
+Seat 8: ml1701 (7995 Tournament chips) 
+Game #23981066-21 ends
+Player ladymac9 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

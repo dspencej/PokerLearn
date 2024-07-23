@@ -1,0 +1,48 @@
+Game#: 23972345
+y2Kplayer folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+hedonist012 folds [80 Tournament chips]
+Kingbaz calls [80 Tournament chips]
+lodge1 folds [80 Tournament chips]
+DrClic69 folds [80 Tournament chips]
+Jojoscreams calls [80 Tournament chips]
+Onefire calls [70 Tournament chips]
+lghtnin calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Kc ] board:[ Td Kc]
+** Dealing Flop ** [ Ah ] board:[ Td Kc Ah]
+Onefire checks
+lghtnin checks
+QwertySpark bets for 420 Tournament chips
+Kingbaz calls [420 Tournament chips]
+Jojoscreams folds [420 Tournament chips]
+Onefire folds [420 Tournament chips]
+lghtnin folds [420 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Td Kc Ah Tc]
+QwertySpark checks
+Kingbaz bets for 1240 Tournament chips
+QwertySpark calls [1240 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Td Kc Ah Tc Qd]
+QwertySpark goes all-in for 760 Tournament chips
+Kingbaz calls [760 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9c Ac ]
+Kingbaz shows [ Js Jc ]
+Round 4 is over.
+QwertySpark shows [ 9c Ac ] two pair, aces and tens, king kicker
+Kingbaz shows [ Js Jc ] straight, ace high
+Kingbaz wins main pot 5240 Tournament chips with straight, ace high.
+Seat 0: QwertySpark (0 Tournament chips) 
+Seat 1: hedonist012 (2485 Tournament chips) 
+Seat 2: Kingbaz (8955 Tournament chips) 
+Seat 3: lodge1 (2410 Tournament chips) 
+Seat 4: DrClic69 (2430 Tournament chips) 
+Seat 5: Jojoscreams (7010 Tournament chips) 
+Seat 6: Onefire (2350 Tournament chips) 
+Seat 7: lghtnin (2245 Tournament chips) 
+Seat 8: y2Kplayer (2115 Tournament chips) 
+Game #23972345-7 ends
+Player QwertySpark leaves the table with 0 Tournament chips

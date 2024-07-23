@@ -1,0 +1,552 @@
+Game#: 23983160
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+dynamic2 is dealt: **
+Yanqui is dealt: **
+QwertySpark is dealt: As
+The button is moved to seat 5.
+Game #23983160-1 starts
+Seat 0: leannecremeen (1000 Tournament chips) 
+Seat 1: moneymom3 (1000 Tournament chips) 
+Seat 2: riverwarrior2 (1000 Tournament chips) 
+Seat 3: dynamic2 (1000 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+The button is at seat 5
+leannecremeen posts the small blind [5 Tournament chips]
+moneymom3 posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 995 Tournament chips.
+moneymom3, at seat 1, is in this hand with 990 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+dynamic2, at seat 3, is in this hand with 1000 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1000 Tournament chips.
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+dynamic2 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+dynamic2 is dealt: **
+Yanqui is dealt: **
+
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to dynamic2 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ 5h Jh ]
+riverwarrior2 folds [10 Tournament chips]
+dynamic2 calls [10 Tournament chips]
+Yanqui folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+leannecremeen folds [5 Tournament chips]
+moneymom3 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 5d ] board:[ 5s 5d]
+** Dealing Flop ** [ 3d ] board:[ 5s 5d 3d]
+moneymom3 checks
+dynamic2 has timed out - the hand is checked
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9h ] board:[ 5s 5d 3d 9h]
+moneymom3 checks
+dynamic2 goes all-in for 990 Tournament chips
+QwertySpark calls all-in [990 Tournament chips]
+moneymom3 folds [990 Tournament chips]
+Tournament all-in showdown -- players show:
+dynamic2 shows [ 9s Th ]
+QwertySpark shows [ 5h Jh ]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 5s 5d 3d 9h Jc]
+        (no action in this round)
+Round 4 is over.
+dynamic2 shows [ 9s Th ] two pair, nines and fives, jack kicker
+QwertySpark shows [ 5h Jh ] full house, fives full of jacks
+QwertySpark wins main pot 2015 Tournament chips with full house, fives full of jacks.
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (990 Tournament chips) 
+Seat 2: riverwarrior2 (1000 Tournament chips) 
+Seat 3: dynamic2 (0 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (2015 Tournament chips) 
+Game #23983160-1 ends
+Player dynamic2 leaves the table with 0 Tournament chips
+Game #23983160-2 starts
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (990 Tournament chips) 
+Seat 2: riverwarrior2 (1000 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (2015 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+moneymom3 posts the small blind [5 Tournament chips]
+riverwarrior2 posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 995 Tournament chips.
+moneymom3, at seat 1, is in this hand with 985 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 990 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2015 Tournament chips.
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ Jc 6d ]
+Yanqui folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+leannecremeen folds [10 Tournament chips]
+moneymom3 folds [5 Tournament chips]
+riverwarrior2 folds
+round 1 is over.
+Hand evaluation for QwertySpark (Jc 6d: jack high)
+QwertySpark wins main pot 25 Tournament chips.
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (990 Tournament chips) 
+Seat 3: brucec13 (1000 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (2030 Tournament chips) 
+Game #23983160-2 ends
+Game #23983160-3 starts
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (990 Tournament chips) 
+Seat 3: brucec13 (1000 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (2030 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+riverwarrior2 posts the small blind [5 Tournament chips]
+brucec13 posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 995 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 985 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 985 Tournament chips.
+brucec13, at seat 3, is in this hand with 990 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2030 Tournament chips.
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ 8s Th ]
+Yanqui folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+leannecremeen folds [40 Tournament chips]
+moneymom3 folds [40 Tournament chips]
+riverwarrior2 folds [35 Tournament chips]
+brucec13 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 6d ] board:[ 9h 6d]
+** Dealing Flop ** [ 4d ] board:[ 9h 6d 4d]
+brucec13 bets for 85 Tournament chips
+QwertySpark raises [180 Tournament chips]
+brucec13 raises all-in [875 Tournament chips]
+QwertySpark folds [780 Tournament chips]
+brucec13 is returned 780 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for brucec13 (7c 8d 9h 6d 4d: nine high)
+brucec13 wins main pot 445 Tournament chips.
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1225 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (1810 Tournament chips) 
+Game #23983160-3 ends
+Game #23983160-4 starts
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1225 Tournament chips) 
+Seat 4: Yanqui (1000 Tournament chips) 
+Seat 5: QwertySpark (1810 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+brucec13 posts the small blind [5 Tournament chips]
+Yanqui posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 995 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 985 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 985 Tournament chips.
+brucec13, at seat 3, is in this hand with 1220 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1810 Tournament chips.
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ Qh 7c ]
+QwertySpark raises [30 Tournament chips]
+leannecremeen folds [30 Tournament chips]
+moneymom3 folds [30 Tournament chips]
+riverwarrior2 folds [30 Tournament chips]
+brucec13 folds [25 Tournament chips]
+Yanqui folds [20 Tournament chips]
+QwertySpark is returned 20 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh 7c: queen high)
+QwertySpark wins main pot 25 Tournament chips.
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (990 Tournament chips) 
+Seat 5: QwertySpark (1825 Tournament chips) 
+Game #23983160-4 ends
+Game #23983160-5 starts
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (990 Tournament chips) 
+Seat 5: QwertySpark (1825 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Yanqui posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 995 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 985 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 985 Tournament chips.
+brucec13, at seat 3, is in this hand with 1220 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 985 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1815 Tournament chips.
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ Qh Jd ]
+leannecremeen folds [10 Tournament chips]
+moneymom3 folds [10 Tournament chips]
+riverwarrior2 folds [10 Tournament chips]
+brucec13 folds [10 Tournament chips]
+Yanqui folds [5 Tournament chips]
+QwertySpark is returned 5 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qh Jd: queen high)
+QwertySpark wins main pot 10 Tournament chips.
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (1830 Tournament chips) 
+Game #23983160-5 ends
+Game #23983160-6 starts
+Seat 0: leannecremeen (995 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (1830 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [5 Tournament chips]
+leannecremeen posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 985 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 985 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 985 Tournament chips.
+brucec13, at seat 3, is in this hand with 1220 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 985 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1825 Tournament chips.
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ 7d 5c ]
+moneymom3 folds [10 Tournament chips]
+riverwarrior2 folds [10 Tournament chips]
+brucec13 folds [10 Tournament chips]
+Yanqui folds [10 Tournament chips]
+QwertySpark calls [5 Tournament chips]
+leannecremeen folds
+round 1 is over.
+Hand evaluation for QwertySpark (7d 5c: seven high)
+QwertySpark wins main pot 20 Tournament chips.
+Seat 0: leannecremeen (985 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (1840 Tournament chips) 
+Game #23983160-6 ends
+Game #23983160-7 starts
+Seat 0: leannecremeen (985 Tournament chips) 
+Seat 1: moneymom3 (985 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (1220 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (1840 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+leannecremeen posts the small blind [5 Tournament chips]
+moneymom3 posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 980 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 975 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 985 Tournament chips.
+brucec13, at seat 3, is in this hand with 1220 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 985 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1840 Tournament chips.
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ 7h 9d ]
+riverwarrior2 folds [10 Tournament chips]
+brucec13 calls [10 Tournament chips]
+Yanqui folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+leannecremeen folds [5 Tournament chips]
+moneymom3 folds
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 3h ] board:[ 9h 3h]
+** Dealing Flop ** [ 6d ] board:[ 9h 3h 6d]
+brucec13 bets for 35 Tournament chips
+QwertySpark raises [140 Tournament chips]
+brucec13 raises all-in [1175 Tournament chips]
+QwertySpark calls [1070 Tournament chips]
+Tournament all-in showdown -- players show:
+brucec13 shows [ 8h 9c ]
+QwertySpark shows [ 7h 9d ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 9h 3h 6d 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 9h 3h 6d 5c 6c]
+        (no action in this round)
+Round 4 is over.
+brucec13 shows [ 8h 9c ] two pair, nines and sixes, eight kicker
+QwertySpark shows [ 7h 9d ] two pair, nines and sixes, seven kicker
+brucec13 wins main pot 2455 Tournament chips with two pair, nines and sixes, eight kicker.
+Seat 0: leannecremeen (980 Tournament chips) 
+Seat 1: moneymom3 (975 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (2455 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (620 Tournament chips) 
+Game #23983160-7 ends
+Game #23983160-8 starts
+Seat 0: leannecremeen (980 Tournament chips) 
+Seat 1: moneymom3 (975 Tournament chips) 
+Seat 2: riverwarrior2 (985 Tournament chips) 
+Seat 3: brucec13 (2455 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (620 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+moneymom3 posts the small blind [5 Tournament chips]
+riverwarrior2 posts the big blind [10 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 980 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 970 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 975 Tournament chips.
+brucec13, at seat 3, is in this hand with 2455 Tournament chips.
+Yanqui, at seat 4, is in this hand (absent) with 985 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 620 Tournament chips.
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ Ac Kd ]
+brucec13 calls [10 Tournament chips]
+Yanqui folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+leannecremeen folds [40 Tournament chips]
+moneymom3 folds [35 Tournament chips]
+riverwarrior2 folds [30 Tournament chips]
+brucec13 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 6h ] board:[ Qd 6h]
+** Dealing Flop ** [ Th ] board:[ Qd 6h Th]
+brucec13 checks
+QwertySpark bets for 10 Tournament chips
+brucec13 calls [10 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ Qd 6h Th Ah]
+brucec13 checks
+QwertySpark bets for 57 Tournament chips
+brucec13 calls [57 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ Qd 6h Th Ah Td]
+brucec13 checks
+QwertySpark checks
+Round 4 is over.
+brucec13 shows [ Js 8h ] a pair of tens
+Hand evaluation for brucec13 (Js Qd Th Ah Td: a pair of tens)
+QwertySpark shows [ Ac Kd ] two pair, aces and tens
+Hand evaluation for QwertySpark (Ac Kd Th Ah Td: two pair, aces and tens)
+QwertySpark wins main pot 229 Tournament chips with two pair, aces and tens, king kicker.
+Seat 0: leannecremeen (980 Tournament chips) 
+Seat 1: moneymom3 (970 Tournament chips) 
+Seat 2: riverwarrior2 (975 Tournament chips) 
+Seat 3: brucec13 (2348 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (742 Tournament chips) 
+Game #23983160-8 ends
+Game #23983160-9 starts
+Seat 0: leannecremeen (980 Tournament chips) 
+Seat 1: moneymom3 (970 Tournament chips) 
+Seat 2: riverwarrior2 (975 Tournament chips) 
+Seat 3: brucec13 (2348 Tournament chips) 
+Seat 4: Yanqui (985 Tournament chips) 
+Seat 5: QwertySpark (742 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+riverwarrior2 posts the small blind [10 Tournament chips]
+brucec13 posts the big blind [20 Tournament chips]
+leannecremeen, at seat 0, is in this hand (absent) with 980 Tournament chips.
+moneymom3, at seat 1, is in this hand (absent) with 970 Tournament chips.
+riverwarrior2, at seat 2, is in this hand (absent) with 965 Tournament chips.
+brucec13, at seat 3, is in this hand with 2328 Tournament chips.
+Yanqui, at seat 4, is in this hand with 985 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 742 Tournament chips.
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+riverwarrior2 is dealt: **
+brucec13 is dealt: **
+Yanqui is dealt: **
+
+leannecremeen is dealt: **
+moneymom3 is dealt: **
+Dealt to leannecremeen [ **** ]
+Dealt to moneymom3 [ **** ]
+Dealt to riverwarrior2 [ **** ]
+Dealt to brucec13 [ **** ]
+Dealt to Yanqui [ **** ]
+Dealt to QwertySpark [ 6c Js ]
+Yanqui calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+leannecremeen folds [20 Tournament chips]
+moneymom3 folds [20 Tournament chips]
+riverwarrior2 folds [10 Tournament chips]
+brucec13 checks
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 6h ] board:[ 6s 6h]
+** Dealing Flop ** [ 7d ] board:[ 6s 6h 7d]
+brucec13 checks
+Yanqui checks
+QwertySpark bets for 35 Tournament chips
+brucec13 calls [35 Tournament chips]
+Yanqui folds [35 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 6s 6h 7d 7s]
+brucec13 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 6s 6h 7d 7s Ac]
+brucec13 goes all-in for 2293 Tournament chips
+QwertySpark calls all-in [687 Tournament chips]
+brucec13 is returned 1606 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+brucec13 shows [ 2h 7h ]
+QwertySpark shows [ 6c Js ]
+Round 4 is over.
+brucec13 shows [ 2h 7h ] full house, sevens full of sixes
+QwertySpark shows [ 6c Js ] full house, sixes full of sevens
+brucec13 wins main pot 1514 Tournament chips with full house, sevens full of sixes.
+Seat 0: leannecremeen (980 Tournament chips) 
+Seat 1: moneymom3 (970 Tournament chips) 
+Seat 2: riverwarrior2 (965 Tournament chips) 
+Seat 3: brucec13 (3120 Tournament chips) 
+Seat 4: Yanqui (965 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Game #23983160-9 ends
+Player QwertySpark leaves the table with 0 Tournament chips

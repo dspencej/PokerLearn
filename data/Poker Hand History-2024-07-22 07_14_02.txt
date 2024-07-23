@@ -1,0 +1,1086 @@
+Game#: 23986009
+maxwellshammer folds [10 Tournament chips]
+Spoonbilleggs calls [10 Tournament chips]
+Emperiono raises [35 Tournament chips]
+QwertySpark calls [35 Tournament chips]
+skvargaa folds [35 Tournament chips]
+windowdave folds [35 Tournament chips]
+pookager calls [30 Tournament chips]
+wizera folds [25 Tournament chips]
+AceFender calls [25 Tournament chips]
+Spoonbilleggs calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 8h ] board:[ 5s 8h]
+** Dealing Flop ** [ 2d ] board:[ 5s 8h 2d]
+pookager checks
+AceFender bets for 10 Tournament chips
+Spoonbilleggs calls [10 Tournament chips]
+Emperiono raises [140 Tournament chips]
+QwertySpark folds [140 Tournament chips]
+pookager folds [140 Tournament chips]
+AceFender calls [130 Tournament chips]
+Spoonbilleggs folds [130 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 5s 8h 2d 3c]
+AceFender checks
+Emperiono bets for 475 Tournament chips
+AceFender calls [475 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 5s 8h 2d 3c Qs]
+AceFender checks
+Emperiono goes all-in for 1850 Tournament chips
+AceFender calls [1850 Tournament chips]
+Tournament all-in showdown -- players show:
+AceFender shows [ 8d Js ]
+Emperiono shows [ Tc Ad ]
+Round 4 is over.
+AceFender shows [ 8d Js ] a pair of eights, queen/jack kickers
+Emperiono shows [ Tc Ad ] ace/queen/ten high
+AceFender wins main pot 5125 Tournament chips with a pair of eights, queen/jack kickers.
+Seat 0: wizera (2490 Tournament chips) 
+Seat 1: AceFender (8385 Tournament chips) 
+Seat 2: maxwellshammer (2500 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: Emperiono (0 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2410 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+Game #23986009-4 ends
+Player Emperiono leaves the table with 0 Tournament chips
+Game #23986009-5 starts
+Seat 0: wizera (2490 Tournament chips) 
+Seat 1: AceFender (8385 Tournament chips) 
+Seat 2: maxwellshammer (2500 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: PPelkey2018 (2500 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2410 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+wizera posts the small blind [10 Tournament chips]
+AceFender posts the big blind [20 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 8365 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2500 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 2215 Tournament chips.
+PPelkey2018, at seat 4, is in this hand (absent) with 2500 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2465 Tournament chips.
+skvargaa, at seat 6, is in this hand with 2410 Tournament chips.
+windowdave, at seat 7, is in this hand with 2500 Tournament chips.
+pookager, at seat 8, is in this hand with 7055 Tournament chips.
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ Qd 6c ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+maxwellshammer folds [20 Tournament chips]
+Spoonbilleggs folds [20 Tournament chips]
+PPelkey2018 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+skvargaa calls [20 Tournament chips]
+windowdave folds [20 Tournament chips]
+pookager folds [20 Tournament chips]
+wizera folds [10 Tournament chips]
+AceFender checks
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 7c ] board:[ 6h 7c]
+** Dealing Flop ** [ 3c ] board:[ 6h 7c 3c]
+AceFender checks
+skvargaa bets for 20 Tournament chips
+AceFender calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 6h 7c 3c 7s]
+AceFender checks
+skvargaa bets for 20 Tournament chips
+AceFender calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 6h 7c 3c 7s 8c]
+AceFender checks
+skvargaa checks
+Round 4 is over.
+AceFender shows [ Ad 5s ] a pair of sevens
+Hand evaluation for AceFender (Ad 6h 7c 7s 8c: a pair of sevens)
+skvargaa doesn't show [ Qs Td ]
+(skvargaa has Qs Td.)
+AceFender wins main pot 130 Tournament chips with a pair of sevens, ace/eight kickers.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8455 Tournament chips) 
+Seat 2: maxwellshammer (2500 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: PPelkey2018 (2500 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2350 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+Game #23986009-5 ends
+Game #23986009-6 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8455 Tournament chips) 
+Seat 2: maxwellshammer (2500 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: PPelkey2018 (2500 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2350 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+AceFender posts the small blind [10 Tournament chips]
+maxwellshammer posts the big blind [20 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 8445 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2480 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 2215 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2500 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2465 Tournament chips.
+skvargaa, at seat 6, is in this hand with 2350 Tournament chips.
+windowdave, at seat 7, is in this hand with 2500 Tournament chips.
+pookager, at seat 8, is in this hand with 7055 Tournament chips.
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ 6s 9c ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+Spoonbilleggs folds [20 Tournament chips]
+PPelkey2018 calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+skvargaa calls [20 Tournament chips]
+windowdave folds [20 Tournament chips]
+pookager folds [20 Tournament chips]
+wizera folds [20 Tournament chips]
+AceFender calls [10 Tournament chips]
+maxwellshammer checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Kd ] board:[ Kc Kd]
+** Dealing Flop ** [ Qd ] board:[ Kc Kd Qd]
+AceFender checks
+maxwellshammer checks
+PPelkey2018 checks
+skvargaa checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ Kc Kd Qd Jh]
+AceFender bets for 20 Tournament chips
+maxwellshammer calls [20 Tournament chips]
+PPelkey2018 calls [20 Tournament chips]
+skvargaa calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Kc Kd Qd Jh 2d]
+AceFender bets for 60 Tournament chips
+maxwellshammer folds [60 Tournament chips]
+PPelkey2018 calls [60 Tournament chips]
+skvargaa folds [60 Tournament chips]
+Round 4 is over.
+AceFender shows [ 5c Td ] a pair of kings
+Hand evaluation for AceFender (Td Kc Kd Qd Jh: a pair of kings)
+PPelkey2018 shows [ 3h Qc ] two pair, kings and queens
+Hand evaluation for PPelkey2018 (Qc Kc Kd Qd Jh: two pair, kings and queens)
+PPelkey2018 wins main pot 280 Tournament chips with two pair, kings and queens, jack kicker.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8355 Tournament chips) 
+Seat 2: maxwellshammer (2460 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: PPelkey2018 (2680 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2310 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+Game #23986009-6 ends
+Game #23986009-7 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8355 Tournament chips) 
+Seat 2: maxwellshammer (2460 Tournament chips) 
+Seat 3: Spoonbilleggs (2215 Tournament chips) 
+Seat 4: PPelkey2018 (2680 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2310 Tournament chips) 
+Seat 7: windowdave (2500 Tournament chips) 
+Seat 8: pookager (7055 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+maxwellshammer posts the small blind [10 Tournament chips]
+Spoonbilleggs posts the big blind [20 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 8355 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2450 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 2195 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2680 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2465 Tournament chips.
+skvargaa, at seat 6, is in this hand with 2310 Tournament chips.
+windowdave, at seat 7, is in this hand with 2500 Tournament chips.
+pookager, at seat 8, is in this hand with 7055 Tournament chips.
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ 7d 9c ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+PPelkey2018 calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+skvargaa calls [20 Tournament chips]
+windowdave calls [20 Tournament chips]
+pookager calls [20 Tournament chips]
+wizera folds [20 Tournament chips]
+AceFender folds [20 Tournament chips]
+maxwellshammer calls [10 Tournament chips]
+Spoonbilleggs checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Qd ] board:[ 7c Qd]
+** Dealing Flop ** [ 7s ] board:[ 7c Qd 7s]
+maxwellshammer checks
+Spoonbilleggs checks
+PPelkey2018 checks
+skvargaa checks
+windowdave checks
+pookager checks
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 7c Qd 7s 2s]
+maxwellshammer checks
+Spoonbilleggs checks
+PPelkey2018 checks
+skvargaa checks
+windowdave checks
+pookager checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 7c Qd 7s 2s 3h]
+maxwellshammer checks
+Spoonbilleggs checks
+PPelkey2018 checks
+skvargaa checks
+windowdave checks
+pookager checks
+Round 4 is over.
+maxwellshammer shows [ 9h 9s ] two pair, nines and sevens
+Hand evaluation for maxwellshammer (9h 9s 7c Qd 7s: two pair, nines and sevens)
+Spoonbilleggs doesn't show [ 8d Js ]
+(Spoonbilleggs has 8d Js.)
+PPelkey2018 doesn't show [ 8h Th ]
+(PPelkey2018 has 8h Th.)
+skvargaa doesn't show [ 4c 5c ]
+(skvargaa has 4c 5c.)
+windowdave doesn't show [ Jc Kc ]
+(windowdave has Jc Kc.)
+pookager shows [ Kh Jd ] a pair of sevens
+Hand evaluation for pookager (Kh Jd 7c Qd 7s: a pair of sevens)
+maxwellshammer wins main pot 120 Tournament chips with two pair, nines and sevens, queen kicker.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8355 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (2195 Tournament chips) 
+Seat 4: PPelkey2018 (2660 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2290 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (7035 Tournament chips) 
+Game #23986009-7 ends
+Game #23986009-8 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (8355 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (2195 Tournament chips) 
+Seat 4: PPelkey2018 (2660 Tournament chips) 
+Seat 5: QwertySpark (2465 Tournament chips) 
+Seat 6: skvargaa (2290 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (7035 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Spoonbilleggs posts the small blind [10 Tournament chips]
+PPelkey2018 posts the big blind [20 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 8355 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2560 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 2185 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2640 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2465 Tournament chips.
+skvargaa, at seat 6, is in this hand with 2290 Tournament chips.
+windowdave, at seat 7, is in this hand with 2480 Tournament chips.
+pookager, at seat 8, is in this hand with 7035 Tournament chips.
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ Jc Ah ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+QwertySpark raises [80 Tournament chips]
+skvargaa folds [80 Tournament chips]
+windowdave folds [80 Tournament chips]
+pookager folds [80 Tournament chips]
+wizera folds [80 Tournament chips]
+AceFender calls [80 Tournament chips]
+maxwellshammer folds [80 Tournament chips]
+Spoonbilleggs calls [70 Tournament chips]
+PPelkey2018 calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 8h ] board:[ Kd 8h]
+** Dealing Flop ** [ 3c ] board:[ Kd 8h 3c]
+Spoonbilleggs checks
+PPelkey2018 bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+AceFender raises [200 Tournament chips]
+Spoonbilleggs re-raises [380 Tournament chips]
+PPelkey2018 folds [360 Tournament chips]
+QwertySpark folds [360 Tournament chips]
+AceFender calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Kd 8h 3c 5c]
+Spoonbilleggs checks
+AceFender checks
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ Kd 8h 3c 5c Qs]
+Spoonbilleggs goes all-in for 1735 Tournament chips
+AceFender calls [1735 Tournament chips]
+Tournament all-in showdown -- players show:
+AceFender shows [ 4s Kc ]
+Spoonbilleggs shows [ Kh Qd ]
+Round 4 is over.
+AceFender shows [ 4s Kc ] a pair of kings, queen/eight kickers
+Spoonbilleggs shows [ Kh Qd ] two pair, kings and queens, eight kicker
+Spoonbilleggs wins main pot 4590 Tournament chips with two pair, kings and queens, eight kicker.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (6160 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4590 Tournament chips) 
+Seat 4: PPelkey2018 (2560 Tournament chips) 
+Seat 5: QwertySpark (2365 Tournament chips) 
+Seat 6: skvargaa (2290 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (7035 Tournament chips) 
+Game #23986009-8 ends
+Game #23986009-9 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (6160 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4590 Tournament chips) 
+Seat 4: PPelkey2018 (2560 Tournament chips) 
+Seat 5: QwertySpark (2365 Tournament chips) 
+Seat 6: skvargaa (2290 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (7035 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+PPelkey2018 posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 6160 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2560 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 4590 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2545 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2335 Tournament chips.
+skvargaa, at seat 6, is in this hand with 2290 Tournament chips.
+windowdave, at seat 7, is in this hand with 2480 Tournament chips.
+pookager, at seat 8, is in this hand with 7035 Tournament chips.
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ Th 6d ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+skvargaa calls [30 Tournament chips]
+windowdave folds [30 Tournament chips]
+pookager raises [90 Tournament chips]
+wizera folds [90 Tournament chips]
+AceFender calls [90 Tournament chips]
+maxwellshammer folds [90 Tournament chips]
+Spoonbilleggs calls [90 Tournament chips]
+PPelkey2018 calls [75 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+skvargaa calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 8c ] board:[ Qs 8c]
+** Dealing Flop ** [ 3h ] board:[ Qs 8c 3h]
+PPelkey2018 checks
+skvargaa checks
+pookager bets for 90 Tournament chips
+AceFender calls [90 Tournament chips]
+Spoonbilleggs folds [90 Tournament chips]
+PPelkey2018 calls [90 Tournament chips]
+skvargaa calls [90 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Qs 8c 3h 4h]
+PPelkey2018 checks
+skvargaa checks
+pookager bets for 180 Tournament chips
+AceFender calls [180 Tournament chips]
+PPelkey2018 calls [180 Tournament chips]
+skvargaa calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Qs 8c 3h 4h As]
+PPelkey2018 checks
+skvargaa checks
+pookager bets for 180 Tournament chips
+AceFender calls [180 Tournament chips]
+PPelkey2018 folds [180 Tournament chips]
+skvargaa folds [180 Tournament chips]
+Round 4 is over.
+pookager shows [ Ac 5c ] a pair of aces
+Hand evaluation for pookager (Ac 5c Qs 8c As: a pair of aces)
+AceFender doesn't show [ Jh Qc ]
+(AceFender has Jh Qc.)
+pookager wins main pot 1920 Tournament chips with a pair of aces, queen/eight kickers.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5620 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4500 Tournament chips) 
+Seat 4: PPelkey2018 (2200 Tournament chips) 
+Seat 5: QwertySpark (2335 Tournament chips) 
+Seat 6: skvargaa (1930 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+Game #23986009-9 ends
+Game #23986009-10 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5620 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4500 Tournament chips) 
+Seat 4: PPelkey2018 (2200 Tournament chips) 
+Seat 5: QwertySpark (2335 Tournament chips) 
+Seat 6: skvargaa (1930 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [15 Tournament chips]
+skvargaa posts the big blind [30 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 5620 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2560 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 4500 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2200 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2320 Tournament chips.
+skvargaa, at seat 6, is in this hand with 1900 Tournament chips.
+windowdave, at seat 7, is in this hand with 2480 Tournament chips.
+pookager, at seat 8, is in this hand with 8415 Tournament chips.
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ 9c Tc ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+windowdave folds [30 Tournament chips]
+pookager folds [30 Tournament chips]
+wizera folds [30 Tournament chips]
+AceFender folds [30 Tournament chips]
+maxwellshammer folds [30 Tournament chips]
+Spoonbilleggs folds [30 Tournament chips]
+PPelkey2018 calls [30 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+skvargaa checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ Jh ] board:[ Ah Jh]
+** Dealing Flop ** [ As ] board:[ Ah Jh As]
+QwertySpark checks
+skvargaa checks
+PPelkey2018 checks
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ Ah Jh As Ks]
+QwertySpark bets for 105 Tournament chips
+skvargaa folds [105 Tournament chips]
+PPelkey2018 folds [105 Tournament chips]
+QwertySpark is returned 105 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Tc Ah Jh As Ks: a pair of aces)
+QwertySpark wins main pot 90 Tournament chips.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5620 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4500 Tournament chips) 
+Seat 4: PPelkey2018 (2170 Tournament chips) 
+Seat 5: QwertySpark (2395 Tournament chips) 
+Seat 6: skvargaa (1900 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+Game #23986009-10 ends
+Game #23986009-11 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5620 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4500 Tournament chips) 
+Seat 4: PPelkey2018 (2170 Tournament chips) 
+Seat 5: QwertySpark (2395 Tournament chips) 
+Seat 6: skvargaa (1900 Tournament chips) 
+Seat 7: windowdave (2480 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+skvargaa posts the small blind [15 Tournament chips]
+windowdave posts the big blind [30 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 5620 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2560 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 4500 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2170 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2395 Tournament chips.
+skvargaa, at seat 6, is in this hand with 1885 Tournament chips.
+windowdave, at seat 7, is in this hand with 2450 Tournament chips.
+pookager, at seat 8, is in this hand with 8415 Tournament chips.
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ 5h 3c ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+pookager folds [30 Tournament chips]
+wizera folds [30 Tournament chips]
+AceFender calls [30 Tournament chips]
+maxwellshammer folds [30 Tournament chips]
+Spoonbilleggs calls [30 Tournament chips]
+PPelkey2018 calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+skvargaa calls [15 Tournament chips]
+windowdave checks
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 8h ] board:[ Kc 8h]
+** Dealing Flop ** [ Js ] board:[ Kc 8h Js]
+skvargaa checks
+windowdave checks
+AceFender checks
+Spoonbilleggs checks
+PPelkey2018 bets for 30 Tournament chips
+skvargaa calls [30 Tournament chips]
+windowdave calls [30 Tournament chips]
+AceFender calls [30 Tournament chips]
+Spoonbilleggs calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Kc 8h Js 6d]
+skvargaa bets for 60 Tournament chips
+windowdave folds [60 Tournament chips]
+AceFender calls [60 Tournament chips]
+Spoonbilleggs calls [60 Tournament chips]
+PPelkey2018 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ Kc 8h Js 6d 2s]
+skvargaa bets for 90 Tournament chips
+AceFender folds [90 Tournament chips]
+Spoonbilleggs folds [90 Tournament chips]
+PPelkey2018 calls [90 Tournament chips]
+Round 4 is over.
+skvargaa shows [ Ac 8s ] a pair of eights
+Hand evaluation for skvargaa (Ac 8s Kc 8h Js: a pair of eights)
+PPelkey2018 shows [ Kh 9h ] a pair of kings
+Hand evaluation for PPelkey2018 (Kh 9h Kc 8h Js: a pair of kings)
+PPelkey2018 wins main pot 720 Tournament chips with a pair of kings, jack/nine kickers.
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5500 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4380 Tournament chips) 
+Seat 4: PPelkey2018 (2680 Tournament chips) 
+Seat 5: QwertySpark (2395 Tournament chips) 
+Seat 6: skvargaa (1690 Tournament chips) 
+Seat 7: windowdave (2420 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+Game #23986009-11 ends
+Game #23986009-12 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5500 Tournament chips) 
+Seat 2: maxwellshammer (2560 Tournament chips) 
+Seat 3: Spoonbilleggs (4380 Tournament chips) 
+Seat 4: PPelkey2018 (2680 Tournament chips) 
+Seat 5: QwertySpark (2395 Tournament chips) 
+Seat 6: skvargaa (1690 Tournament chips) 
+Seat 7: windowdave (2420 Tournament chips) 
+Seat 8: pookager (8415 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+windowdave posts the small blind [15 Tournament chips]
+pookager posts the big blind [30 Tournament chips]
+wizera, at seat 0, is in this hand (absent) with 2480 Tournament chips.
+AceFender, at seat 1, is in this hand with 5500 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2560 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 4380 Tournament chips.
+PPelkey2018, at seat 4, is in this hand with 2680 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2395 Tournament chips.
+skvargaa, at seat 6, is in this hand with 1690 Tournament chips.
+windowdave, at seat 7, is in this hand with 2405 Tournament chips.
+pookager, at seat 8, is in this hand with 8385 Tournament chips.
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+PPelkey2018 is dealt: **
+
+skvargaa is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to PPelkey2018 [ **** ]
+Dealt to QwertySpark [ Kc 2c ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+wizera folds [30 Tournament chips]
+AceFender calls [30 Tournament chips]
+maxwellshammer calls [30 Tournament chips]
+Spoonbilleggs calls [30 Tournament chips]
+PPelkey2018 calls [30 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+skvargaa calls [30 Tournament chips]
+windowdave folds [15 Tournament chips]
+pookager checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Qd ] board:[ 8h Qd]
+** Dealing Flop ** [ 2s ] board:[ 8h Qd 2s]
+pookager checks
+AceFender checks
+maxwellshammer checks
+Spoonbilleggs bets for 112 Tournament chips
+PPelkey2018 calls [112 Tournament chips]
+QwertySpark calls [112 Tournament chips]
+skvargaa folds [112 Tournament chips]
+pookager folds [112 Tournament chips]
+AceFender folds [112 Tournament chips]
+maxwellshammer folds [112 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 8h Qd 2s Th]
+Spoonbilleggs checks
+PPelkey2018 bets for 150 Tournament chips
+QwertySpark folds [150 Tournament chips]
+Spoonbilleggs raises all-in [4238 Tournament chips]
+PPelkey2018 calls all-in [2388 Tournament chips]
+Spoonbilleggs is returned 1700 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Spoonbilleggs shows [ Jc 9d ]
+PPelkey2018 shows [ Qs 3h ]
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 8h Qd 2s Th 7c]
+        (no action in this round)
+Round 4 is over.
+Spoonbilleggs shows [ Jc 9d ] straight, queen high
+PPelkey2018 shows [ Qs 3h ] a pair of queens, ten/eight kickers
+Spoonbilleggs wins main pot 5637 Tournament chips with straight, queen high.
+PPelkey2018: Nice hand
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5470 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7337 Tournament chips) 
+Seat 4: PPelkey2018 (0 Tournament chips) 
+Seat 5: QwertySpark (2253 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (2405 Tournament chips) 
+Seat 8: pookager (8385 Tournament chips) 
+Game #23986009-12 ends
+Player PPelkey2018 leaves the table with 0 Tournament chips
+Game #23986009-13 starts
+Seat 0: wizera (2480 Tournament chips) 
+Seat 1: AceFender (5470 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7337 Tournament chips) 
+Seat 5: QwertySpark (2253 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (2405 Tournament chips) 
+Seat 8: pookager (8385 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+pookager posts the small blind [20 Tournament chips]
+wizera posts the big blind [40 Tournament chips]
+wizera, at seat 0, is in this hand with 2440 Tournament chips.
+AceFender, at seat 1, is in this hand with 5470 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2530 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 7337 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2253 Tournament chips.
+skvargaa, at seat 6, is in this hand (absent) with 1660 Tournament chips.
+windowdave, at seat 7, is in this hand with 2405 Tournament chips.
+pookager, at seat 8, is in this hand with 8365 Tournament chips.
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to QwertySpark [ 9c Ts ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+AceFender calls [40 Tournament chips]
+maxwellshammer folds [40 Tournament chips]
+Spoonbilleggs folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+skvargaa folds [40 Tournament chips]
+windowdave calls [40 Tournament chips]
+pookager calls [20 Tournament chips]
+wizera checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 3c ] board:[ Ks 3c]
+** Dealing Flop ** [ As ] board:[ Ks 3c As]
+pookager checks
+wizera checks
+AceFender bets for 40 Tournament chips
+QwertySpark folds [40 Tournament chips]
+windowdave calls [40 Tournament chips]
+pookager folds [40 Tournament chips]
+wizera folds [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ Ks 3c As 3s]
+AceFender bets for 140 Tournament chips
+windowdave calls [140 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ Ks 3c As 3s Th]
+AceFender bets for 280 Tournament chips
+windowdave calls [280 Tournament chips]
+Round 4 is over.
+AceFender shows [ 9s Qs ] flush, ace high
+Hand evaluation for AceFender (9s Qs Ks As 3s: flush, ace high)
+windowdave doesn't show [ 2h Kh ]
+(windowdave has 2h Kh.)
+AceFender wins main pot 1120 Tournament chips with flush, ace/king/queen high.
+Seat 0: wizera (2440 Tournament chips) 
+Seat 1: AceFender (6090 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7337 Tournament chips) 
+Seat 5: QwertySpark (2213 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (1905 Tournament chips) 
+Seat 8: pookager (8345 Tournament chips) 
+Game #23986009-13 ends
+(skvargaa has entered the table, is no longer absent.)
+Game #23986009-14 starts
+Seat 0: wizera (2440 Tournament chips) 
+Seat 1: AceFender (6090 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7337 Tournament chips) 
+Seat 5: QwertySpark (2213 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (1905 Tournament chips) 
+Seat 8: pookager (8345 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+wizera posts the small blind [20 Tournament chips]
+AceFender posts the big blind [40 Tournament chips]
+wizera, at seat 0, is in this hand with 2420 Tournament chips.
+AceFender, at seat 1, is in this hand with 6050 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2530 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 7337 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2213 Tournament chips.
+skvargaa, at seat 6, is in this hand with 1660 Tournament chips.
+windowdave, at seat 7, is in this hand with 1905 Tournament chips.
+pookager, at seat 8, is in this hand with 8345 Tournament chips.
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to QwertySpark [ 6h Ad ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+maxwellshammer folds [40 Tournament chips]
+Spoonbilleggs raises [140 Tournament chips]
+QwertySpark folds [140 Tournament chips]
+skvargaa folds [140 Tournament chips]
+windowdave folds [140 Tournament chips]
+pookager folds [140 Tournament chips]
+wizera folds [120 Tournament chips]
+AceFender calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 8s ] board:[ Th 8s]
+** Dealing Flop ** [ 6c ] board:[ Th 8s 6c]
+AceFender bets for 40 Tournament chips
+Spoonbilleggs calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Th 8s 6c 9c]
+AceFender bets for 80 Tournament chips
+Spoonbilleggs folds [80 Tournament chips]
+AceFender is returned 80 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for AceFender (Td 6d Th 6c 9c: two pair, tens and sixes)
+AceFender wins main pot 380 Tournament chips.
+Seat 0: wizera (2420 Tournament chips) 
+Seat 1: AceFender (6290 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7157 Tournament chips) 
+Seat 5: QwertySpark (2213 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (1905 Tournament chips) 
+Seat 8: pookager (8345 Tournament chips) 
+Game #23986009-14 ends
+Game #23986009-15 starts
+Seat 0: wizera (2420 Tournament chips) 
+Seat 1: AceFender (6290 Tournament chips) 
+Seat 2: maxwellshammer (2530 Tournament chips) 
+Seat 3: Spoonbilleggs (7157 Tournament chips) 
+Seat 5: QwertySpark (2213 Tournament chips) 
+Seat 6: skvargaa (1660 Tournament chips) 
+Seat 7: windowdave (1905 Tournament chips) 
+Seat 8: pookager (8345 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+AceFender posts the small blind [20 Tournament chips]
+maxwellshammer posts the big blind [40 Tournament chips]
+wizera, at seat 0, is in this hand with 2420 Tournament chips.
+AceFender, at seat 1, is in this hand with 6270 Tournament chips.
+maxwellshammer, at seat 2, is in this hand with 2490 Tournament chips.
+Spoonbilleggs, at seat 3, is in this hand with 7157 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 2213 Tournament chips.
+skvargaa, at seat 6, is in this hand with 1660 Tournament chips.
+windowdave, at seat 7, is in this hand with 1905 Tournament chips.
+pookager, at seat 8, is in this hand with 8345 Tournament chips.
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+AceFender is dealt: **
+maxwellshammer is dealt: **
+Spoonbilleggs is dealt: **
+
+skvargaa is dealt: **
+windowdave is dealt: **
+pookager is dealt: **
+wizera is dealt: **
+Dealt to wizera [ **** ]
+Dealt to AceFender [ **** ]
+Dealt to maxwellshammer [ **** ]
+Dealt to Spoonbilleggs [ **** ]
+Dealt to QwertySpark [ 6d 6s ]
+Dealt to skvargaa [ **** ]
+Dealt to windowdave [ **** ]
+Dealt to pookager [ **** ]
+Spoonbilleggs raises [80 Tournament chips]
+QwertySpark re-raises [480 Tournament chips]
+skvargaa raises all-in [1660 Tournament chips]
+windowdave folds [1660 Tournament chips]
+pookager folds [1660 Tournament chips]
+wizera folds [1660 Tournament chips]
+AceFender folds [1640 Tournament chips]
+maxwellshammer folds [1620 Tournament chips]
+Spoonbilleggs re-raises [2760 Tournament chips]
+QwertySpark calls all-in [1733 Tournament chips]
+Spoonbilleggs is returned 627 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Spoonbilleggs shows [ Ah Ac ]
+QwertySpark shows [ 6d 6s ]
+skvargaa shows [ Ts Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 9s ] board:[ 5h 9s]
+** Dealing Flop ** [ 9c ] board:[ 5h 9s 9c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 5h 9s 9c Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 5h 9s 9c Jc 5d]
+        (no action in this round)
+Round 4 is over.
+Spoonbilleggs shows [ Ah Ac ] two pair, aces and nines, jack kicker
+QwertySpark shows [ 6d 6s ] two pair, nines and sixes, jack kicker
+skvargaa shows [ Ts Tc ] two pair, tens and nines, jack kicker
+Spoonbilleggs wins main pot 5040 Tournament chips with two pair, aces and nines, jack kicker.
+Spoonbilleggs wins side pot #1 1106 Tournament chips with two pair, aces and nines, jack kicker.
+Seat 0: wizera (2420 Tournament chips) 
+Seat 1: AceFender (6270 Tournament chips) 
+Seat 2: maxwellshammer (2490 Tournament chips) 
+Seat 3: Spoonbilleggs (11090 Tournament chips) 
+Seat 5: QwertySpark (0 Tournament chips) 
+Seat 6: skvargaa (0 Tournament chips) 
+Seat 7: windowdave (1905 Tournament chips) 
+Seat 8: pookager (8345 Tournament chips) 
+Game #23986009-15 ends
+Player skvargaa leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

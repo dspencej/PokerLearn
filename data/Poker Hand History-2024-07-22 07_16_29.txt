@@ -1,0 +1,4395 @@
+Game#: 23972777
+QwertySpark is dealt: Kc
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+emaneman is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+The button is moved to seat 2.
+Game #23972777-1 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (7500 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (7500 Tournament chips) 
+Seat 4: emaneman (7500 Tournament chips) 
+Seat 5: rickrak (7500 Tournament chips) 
+Seat 6: kaymae (7500 Tournament chips) 
+Seat 7: swood12033 (7500 Tournament chips) 
+Seat 8: High-Elk RSS (7500 Tournament chips) 
+The button is at seat 2
+pjrnemtp posts the small blind [25 Tournament chips]
+emaneman posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 7500 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 7475 Tournament chips.
+emaneman, at seat 4, is in this hand with 7450 Tournament chips.
+rickrak, at seat 5, is in this hand (absent) with 7500 Tournament chips.
+kaymae, at seat 6, is in this hand with 7500 Tournament chips.
+swood12033, at seat 7, is in this hand with 7500 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7500 Tournament chips.
+pjrnemtp is dealt: **
+emaneman is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+emaneman is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ 5h 3s ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to emaneman [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+rickrak folds [50 Tournament chips]
+kaymae folds [50 Tournament chips]
+swood12033 raises [100 Tournament chips]
+High-Elk RSS folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+DucktapeDonna calls [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp folds [75 Tournament chips]
+emaneman re-raises [575 Tournament chips]
+swood12033 calls [525 Tournament chips]
+DucktapeDonna calls [525 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Qs ] board:[ Js Qs]
+** Dealing Flop ** [ 7d ] board:[ Js Qs 7d]
+emaneman checks
+swood12033 checks
+DucktapeDonna checks
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Js Qs 7d Qc]
+emaneman bets for 950 Tournament chips
+swood12033 folds [950 Tournament chips]
+DucktapeDonna calls [950 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ Js Qs 7d Qc Kc]
+emaneman bets for 1900 Tournament chips
+DucktapeDonna calls [1900 Tournament chips]
+Round 4 is over.
+emaneman shows [ Ac 9h ] a pair of queens
+Hand evaluation for emaneman (Ac Js Qs Qc Kc: a pair of queens)
+DucktapeDonna shows [ 9d 7s ] two pair, queens and sevens
+Hand evaluation for DucktapeDonna (7s Qs 7d Qc Kc: two pair, queens and sevens)
+DucktapeDonna wins main pot 7600 Tournament chips with two pair, queens and sevens, king kicker.
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (11625 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (7475 Tournament chips) 
+Seat 4: emaneman (4025 Tournament chips) 
+Seat 5: rickrak (7500 Tournament chips) 
+Seat 6: kaymae (7500 Tournament chips) 
+Seat 7: swood12033 (6875 Tournament chips) 
+Seat 8: High-Elk RSS (7500 Tournament chips) 
+Game #23972777-1 ends
+Game #23972777-2 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (11625 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (7475 Tournament chips) 
+Seat 4: emaneman (4025 Tournament chips) 
+Seat 5: rickrak (7500 Tournament chips) 
+Seat 6: kaymae (7500 Tournament chips) 
+Seat 7: swood12033 (6875 Tournament chips) 
+Seat 8: High-Elk RSS (7500 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+emaneman posts the small blind [25 Tournament chips]
+rickrak posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 11625 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand (absent) with 7500 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 7475 Tournament chips.
+emaneman, at seat 4, is in this hand with 4000 Tournament chips.
+rickrak, at seat 5, is in this hand (absent) with 7450 Tournament chips.
+kaymae, at seat 6, is in this hand with 7500 Tournament chips.
+swood12033, at seat 7, is in this hand with 6875 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7500 Tournament chips.
+emaneman is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+emaneman is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ 4s 7d ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to emaneman [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae calls [50 Tournament chips]
+swood12033 folds [50 Tournament chips]
+High-Elk RSS calls [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+DucktapeDonna calls [50 Tournament chips]
+doctorDoBee45 folds [50 Tournament chips]
+pjrnemtp folds [50 Tournament chips]
+emaneman raises [625 Tournament chips]
+rickrak calls [600 Tournament chips]
+kaymae folds [600 Tournament chips]
+High-Elk RSS calls [600 Tournament chips]
+DucktapeDonna calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Ac ] board:[ 9h Ac]
+** Dealing Flop ** [ 7c ] board:[ 9h Ac 7c]
+emaneman checks
+rickrak checks
+High-Elk RSS checks
+DucktapeDonna checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 9h Ac 7c 8s]
+emaneman goes all-in for 3375 Tournament chips
+rickrak calls [3375 Tournament chips]
+High-Elk RSS folds [3375 Tournament chips]
+DucktapeDonna folds [3375 Tournament chips]
+Tournament all-in showdown -- players show:
+emaneman shows [ Qh Qs ]
+rickrak shows [ 8c Tc ]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 9h Ac 7c 8s 4c]
+        (no action in this round)
+Round 4 is over.
+emaneman shows [ Qh Qs ] a pair of queens, ace/nine kickers
+rickrak shows [ 8c Tc ] flush, ace/ten/eight high
+rickrak wins main pot 9400 Tournament chips with flush, ace/ten/eight high.
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (10975 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (7475 Tournament chips) 
+Seat 4: emaneman (0 Tournament chips) 
+Seat 5: rickrak (12875 Tournament chips) 
+Seat 6: kaymae (7450 Tournament chips) 
+Seat 7: swood12033 (6875 Tournament chips) 
+Seat 8: High-Elk RSS (6850 Tournament chips) 
+Game #23972777-2 ends
+Player emaneman leaves the table with 0 Tournament chips
+Game #23972777-3 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (10975 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (7475 Tournament chips) 
+Seat 5: rickrak (12875 Tournament chips) 
+Seat 6: kaymae (7450 Tournament chips) 
+Seat 7: swood12033 (6875 Tournament chips) 
+Seat 8: High-Elk RSS (6850 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rickrak posts the small blind [25 Tournament chips]
+kaymae posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 10975 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 7500 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 7475 Tournament chips.
+rickrak, at seat 5, is in this hand with 12850 Tournament chips.
+kaymae, at seat 6, is in this hand with 7400 Tournament chips.
+swood12033, at seat 7, is in this hand with 6875 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6850 Tournament chips.
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ 4c As ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 raises [100 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+DucktapeDonna calls [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp re-raises [575 Tournament chips]
+rickrak calls [550 Tournament chips]
+kaymae folds [525 Tournament chips]
+swood12033 calls [475 Tournament chips]
+High-Elk RSS calls [475 Tournament chips]
+DucktapeDonna calls [475 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Qc ] board:[ 7c Qc]
+** Dealing Flop ** [ 8s ] board:[ 7c Qc 8s]
+rickrak checks
+swood12033 bets for 2925 Tournament chips
+High-Elk RSS folds [2925 Tournament chips]
+DucktapeDonna calls [2925 Tournament chips]
+pjrnemtp folds [2925 Tournament chips]
+rickrak folds [2925 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 7c Qc 8s 3h]
+swood12033 checks
+DucktapeDonna checks
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 7c Qc 8s 3h 7h]
+swood12033 goes all-in for 3375 Tournament chips
+DucktapeDonna calls [3375 Tournament chips]
+Tournament all-in showdown -- players show:
+DucktapeDonna shows [ Ad 9c ]
+swood12033 shows [ Qh Jh ]
+Round 4 is over.
+DucktapeDonna shows [ Ad 9c ] a pair of sevens, ace/queen kickers
+swood12033 shows [ Qh Jh ] two pair, queens and sevens, jack kicker
+swood12033 wins main pot 15525 Tournament chips with two pair, queens and sevens, jack kicker.
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (4100 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (6900 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7400 Tournament chips) 
+Seat 7: swood12033 (15525 Tournament chips) 
+Seat 8: High-Elk RSS (6275 Tournament chips) 
+Game #23972777-3 ends
+Game #23972777-4 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (4100 Tournament chips) 
+Seat 2: doctorDoBee45 (7500 Tournament chips) 
+Seat 3: pjrnemtp (6900 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7400 Tournament chips) 
+Seat 7: swood12033 (15525 Tournament chips) 
+Seat 8: High-Elk RSS (6275 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kaymae posts the small blind [25 Tournament chips]
+swood12033 posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 4100 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 7500 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 6900 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand with 12300 Tournament chips.
+kaymae, at seat 6, is in this hand with 7375 Tournament chips.
+swood12033, at seat 7, is in this hand with 15475 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6275 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+Dealt to QwertySpark [ Jd 6h ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS raises [375 Tournament chips]
+QwertySpark folds [375 Tournament chips]
+DucktapeDonna calls [375 Tournament chips]
+doctorDoBee45 re-raises [700 Tournament chips]
+pjrnemtp re-raises [2925 Tournament chips]
+Patcheye folds [2925 Tournament chips]
+rickrak folds [2925 Tournament chips]
+kaymae folds [2900 Tournament chips]
+swood12033 folds [2875 Tournament chips]
+High-Elk RSS calls [2550 Tournament chips]
+DucktapeDonna folds [2550 Tournament chips]
+doctorDoBee45 calls [2225 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 6s ] board:[ Ac 6s]
+** Dealing Flop ** [ Ks ] board:[ Ac 6s Ks]
+High-Elk RSS checks
+doctorDoBee45 checks
+pjrnemtp checks
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Ac 6s Ks 4d]
+High-Elk RSS checks
+doctorDoBee45 checks
+pjrnemtp checks
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Ac 6s Ks 4d 4h]
+High-Elk RSS checks
+doctorDoBee45 checks
+pjrnemtp checks
+Round 4 is over.
+High-Elk RSS shows [ Qd As ] two pair, aces and fours
+Hand evaluation for High-Elk RSS (As Ac Ks 4d 4h: two pair, aces and fours)
+doctorDoBee45 shows [ Ah Jh ] two pair, aces and fours
+Hand evaluation for doctorDoBee45 (Ah Ac Ks 4d 4h: two pair, aces and fours)
+pjrnemtp doesn't show [ Qh Qs ]
+(pjrnemtp has Qh Qs.)
+High-Elk RSS wins main pot 4613 Tournament chips of a 9225 Tournament chips pot with two pair, aces and fours, king kicker.
+doctorDoBee45 wins main pot 4612 Tournament chips of a 9225 Tournament chips pot with two pair, aces and fours, king kicker.
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (3725 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (15475 Tournament chips) 
+Seat 8: High-Elk RSS (7963 Tournament chips) 
+Game #23972777-4 ends
+Game #23972777-5 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (3725 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (15475 Tournament chips) 
+Seat 8: High-Elk RSS (7963 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+swood12033 posts the small blind [25 Tournament chips]
+High-Elk RSS posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7500 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 3725 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 9187 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3975 Tournament chips.
+Patcheye, at seat 4, is in this hand (absent) with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand (absent) with 12300 Tournament chips.
+kaymae, at seat 6, is in this hand with 7375 Tournament chips.
+swood12033, at seat 7, is in this hand with 15450 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7913 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 7d 3d ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [50 Tournament chips]
+DucktapeDonna raises [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp folds [100 Tournament chips]
+Patcheye folds [100 Tournament chips]
+rickrak folds [100 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 calls [75 Tournament chips]
+High-Elk RSS calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 7c ] board:[ Ts 7c]
+** Dealing Flop ** [ Kh ] board:[ Ts 7c Kh]
+swood12033 checks
+High-Elk RSS has timed out - the hand is checked
+DucktapeDonna bets for 300 Tournament chips
+swood12033 folds [300 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+DucktapeDonna is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for DucktapeDonna (Tc 9h Ts 7c Kh: a pair of tens)
+DucktapeDonna wins main pot 300 Tournament chips.
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (3925 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (15375 Tournament chips) 
+Seat 8: High-Elk RSS (7863 Tournament chips) 
+Game #23972777-5 ends
+Game #23972777-6 starts
+Seat 0: QwertySpark (7500 Tournament chips) 
+Seat 1: DucktapeDonna (3925 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (15375 Tournament chips) 
+Seat 8: High-Elk RSS (7863 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [25 Tournament chips]
+QwertySpark posts the big blind [50 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7450 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 3925 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 9187 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3975 Tournament chips.
+Patcheye, at seat 4, is in this hand (absent) with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand (absent) with 12300 Tournament chips.
+kaymae, at seat 6, is in this hand with 7375 Tournament chips.
+swood12033, at seat 7, is in this hand with 15375 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7838 Tournament chips.
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ Ks 4c ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+DucktapeDonna calls [50 Tournament chips]
+doctorDoBee45 folds [50 Tournament chips]
+pjrnemtp folds [50 Tournament chips]
+Patcheye folds [50 Tournament chips]
+rickrak folds [50 Tournament chips]
+kaymae folds [50 Tournament chips]
+swood12033 raises [100 Tournament chips]
+(rickrak has entered the table, is no longer absent.)
+High-Elk RSS re-raises [125 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+DucktapeDonna calls [100 Tournament chips]
+swood12033 calls [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 3s ] board:[ 2h 3s]
+** Dealing Flop ** [ 6d ] board:[ 2h 3s 6d]
+High-Elk RSS checks
+DucktapeDonna checks
+swood12033 bets for 250 Tournament chips
+High-Elk RSS calls [250 Tournament chips]
+DucktapeDonna calls [250 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ 2h 3s 6d Tc]
+High-Elk RSS bets for 700 Tournament chips
+DucktapeDonna folds [700 Tournament chips]
+swood12033 folds [700 Tournament chips]
+High-Elk RSS is returned 700 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for High-Elk RSS (8c Td 3s 6d Tc: a pair of tens)
+High-Elk RSS wins main pot 1250 Tournament chips.
+Seat 0: QwertySpark (7450 Tournament chips) 
+Seat 1: DucktapeDonna (3525 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (14975 Tournament chips) 
+Seat 8: High-Elk RSS (8713 Tournament chips) 
+Game #23972777-6 ends
+Game #23972777-7 starts
+Seat 0: QwertySpark (7450 Tournament chips) 
+Seat 1: DucktapeDonna (3525 Tournament chips) 
+Seat 2: doctorDoBee45 (9187 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (12300 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (14975 Tournament chips) 
+Seat 8: High-Elk RSS (8713 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [50 Tournament chips]
+DucktapeDonna posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7400 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 3425 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 9187 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3975 Tournament chips.
+Patcheye, at seat 4, is in this hand (absent) with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand with 12300 Tournament chips.
+kaymae, at seat 6, is in this hand with 7375 Tournament chips.
+swood12033, at seat 7, is in this hand with 14975 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8713 Tournament chips.
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ Td Kh ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+doctorDoBee45 raises [300 Tournament chips]
+pjrnemtp folds [300 Tournament chips]
+Patcheye folds [300 Tournament chips]
+rickrak calls [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 calls [300 Tournament chips]
+High-Elk RSS calls [300 Tournament chips]
+QwertySpark folds [250 Tournament chips]
+DucktapeDonna calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 5d ] board:[ 2s 5d]
+** Dealing Flop ** [ Ks ] board:[ 2s 5d Ks]
+DucktapeDonna bets for 100 Tournament chips
+doctorDoBee45 calls [100 Tournament chips]
+rickrak raises [975 Tournament chips]
+swood12033 folds [975 Tournament chips]
+High-Elk RSS calls [975 Tournament chips]
+DucktapeDonna calls [875 Tournament chips]
+doctorDoBee45 calls [875 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3d ] board:[ 2s 5d Ks 3d]
+DucktapeDonna bets for 100 Tournament chips
+doctorDoBee45 calls [100 Tournament chips]
+rickrak raises all-in [11025 Tournament chips]
+High-Elk RSS folds [7438 Tournament chips]
+DucktapeDonna folds [2150 Tournament chips]
+doctorDoBee45 calls all-in [7812 Tournament chips]
+rickrak is returned 3113 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+doctorDoBee45 shows [ As 3s ]
+rickrak shows [ 3h Kd ]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 2s 5d Ks 3d Ac]
+        (no action in this round)
+Round 4 is over.
+doctorDoBee45 shows [ As 3s ] two pair, aces and threes, king kicker
+rickrak shows [ 3h Kd ] two pair, kings and threes, ace kicker
+doctorDoBee45 wins main pot 21374 Tournament chips with two pair, aces and threes, king kicker.
+Seat 0: QwertySpark (7400 Tournament chips) 
+Seat 1: DucktapeDonna (2150 Tournament chips) 
+Seat 2: doctorDoBee45 (21374 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (3113 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (7438 Tournament chips) 
+Game #23972777-7 ends
+Game #23972777-8 starts
+Seat 0: QwertySpark (7400 Tournament chips) 
+Seat 1: DucktapeDonna (2150 Tournament chips) 
+Seat 2: doctorDoBee45 (21374 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (3113 Tournament chips) 
+Seat 6: kaymae (7375 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (7438 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+DucktapeDonna posts the small blind [50 Tournament chips]
+doctorDoBee45 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7400 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 2100 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21274 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3975 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand with 3113 Tournament chips.
+kaymae, at seat 6, is in this hand with 7375 Tournament chips.
+swood12033, at seat 7, is in this hand with 14675 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7438 Tournament chips.
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ 2d 9d ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [100 Tournament chips]
+Patcheye folds [100 Tournament chips]
+rickrak calls [100 Tournament chips]
+kaymae calls [100 Tournament chips]
+swood12033 folds [100 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+DucktapeDonna raises all-in [2100 Tournament chips]
+doctorDoBee45 folds [2050 Tournament chips]
+rickrak calls [2050 Tournament chips]
+kaymae folds [2050 Tournament chips]
+High-Elk RSS folds [2050 Tournament chips]
+QwertySpark folds [2050 Tournament chips]
+Tournament all-in showdown -- players show:
+DucktapeDonna shows [ Qs Ac ]
+rickrak shows [ 9c 7c ]
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Qd ] board:[ 4s Qd]
+** Dealing Flop ** [ Ks ] board:[ 4s Qd Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 4s Qd Ks 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 4s Qd Ks 4h Js]
+        (no action in this round)
+Round 4 is over.
+DucktapeDonna shows [ Qs Ac ] two pair, queens and fours, ace kicker
+rickrak shows [ 9c 7c ] a pair of fours, king/queen kickers
+DucktapeDonna wins main pot 4700 Tournament chips with two pair, queens and fours, ace kicker.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (4700 Tournament chips) 
+Seat 2: doctorDoBee45 (21274 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (7338 Tournament chips) 
+Game #23972777-8 ends
+Game #23972777-9 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (4700 Tournament chips) 
+Seat 2: doctorDoBee45 (21274 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (7338 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+doctorDoBee45 posts the small blind [50 Tournament chips]
+pjrnemtp posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 4700 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3875 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7500 Tournament chips.
+rickrak, at seat 5, is in this hand with 963 Tournament chips.
+kaymae, at seat 6, is in this hand with 7275 Tournament chips.
+swood12033, at seat 7, is in this hand with 14675 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7338 Tournament chips.
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+Dealt to QwertySpark [ Kh 4c ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye folds [100 Tournament chips]
+rickrak folds [100 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 folds [100 Tournament chips]
+High-Elk RSS raises [500 Tournament chips]
+QwertySpark folds [500 Tournament chips]
+DucktapeDonna calls [500 Tournament chips]
+doctorDoBee45 folds [450 Tournament chips]
+pjrnemtp folds [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ Kc ] board:[ 8c Kc]
+** Dealing Flop ** [ 2s ] board:[ 8c Kc 2s]
+High-Elk RSS bets for 600 Tournament chips
+DucktapeDonna calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 8c Kc 2s 2d]
+High-Elk RSS bets for 900 Tournament chips
+DucktapeDonna calls [900 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 8c Kc 2s 2d Js]
+High-Elk RSS bets for 100 Tournament chips
+DucktapeDonna calls [100 Tournament chips]
+Round 4 is over.
+High-Elk RSS shows [ 9s Ks ] two pair, kings and deuces
+Hand evaluation for High-Elk RSS (Ks Kc 2s 2d Js: two pair, kings and deuces)
+DucktapeDonna doesn't show [ 8s Td ]
+(DucktapeDonna has 8s Td.)
+High-Elk RSS wins main pot 4350 Tournament chips with two pair, kings and deuces, jack kicker.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (2600 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3875 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9588 Tournament chips) 
+Game #23972777-9 ends
+Game #23972777-10 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (2600 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3875 Tournament chips) 
+Seat 4: Patcheye (7500 Tournament chips) 
+Seat 5: rickrak (963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9588 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+pjrnemtp posts the small blind [50 Tournament chips]
+Patcheye posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 2600 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7400 Tournament chips.
+rickrak, at seat 5, is in this hand with 963 Tournament chips.
+kaymae, at seat 6, is in this hand with 7275 Tournament chips.
+swood12033, at seat 7, is in this hand with 14675 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9588 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ Qh 8d ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+rickrak calls [100 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 folds [100 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+DucktapeDonna raises all-in [2600 Tournament chips]
+doctorDoBee45 folds [2600 Tournament chips]
+pjrnemtp folds [2550 Tournament chips]
+Patcheye folds [2500 Tournament chips]
+rickrak calls all-in [863 Tournament chips]
+High-Elk RSS folds [2500 Tournament chips]
+DucktapeDonna is returned 1637 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+DucktapeDonna shows [ Kh As ]
+rickrak shows [ 5h 8h ]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 9s ] board:[ Ad 9s]
+** Dealing Flop ** [ 7h ] board:[ Ad 9s 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ Ad 9s 7h 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ Ad 9s 7h 3c 6h]
+        (no action in this round)
+Round 4 is over.
+DucktapeDonna shows [ Kh As ] a pair of aces, king/nine kickers
+rickrak shows [ 5h 8h ] straight, nine high
+rickrak wins main pot 2176 Tournament chips with straight, nine high.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (1637 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7400 Tournament chips) 
+Seat 5: rickrak (2176 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9488 Tournament chips) 
+Game #23972777-10 ends
+Game #23972777-11 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (1637 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7400 Tournament chips) 
+Seat 5: rickrak (2176 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9488 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Patcheye posts the small blind [50 Tournament chips]
+rickrak posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+DucktapeDonna, at seat 1, is in this hand with 1637 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 2076 Tournament chips.
+kaymae, at seat 6, is in this hand with 7275 Tournament chips.
+swood12033, at seat 7, is in this hand with 14675 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9488 Tournament chips.
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+DucktapeDonna is dealt: **
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ 8h Qd ]
+Dealt to DucktapeDonna [ **** ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae folds [100 Tournament chips]
+swood12033 folds [100 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+DucktapeDonna raises all-in [1637 Tournament chips]
+doctorDoBee45 folds [1637 Tournament chips]
+pjrnemtp folds [1637 Tournament chips]
+Patcheye folds [1587 Tournament chips]
+rickrak calls [1537 Tournament chips]
+High-Elk RSS folds [1537 Tournament chips]
+Tournament all-in showdown -- players show:
+DucktapeDonna shows [ 5d 5s ]
+rickrak shows [ 7c Qc ]
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ 3s ] board:[ 7h 3s]
+** Dealing Flop ** [ Ks ] board:[ 7h 3s Ks]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 7h 3s Ks 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ 7h 3s Ks 4c 4h]
+        (no action in this round)
+Round 4 is over.
+DucktapeDonna shows [ 5d 5s ] two pair, fives and fours, king kicker
+rickrak shows [ 7c Qc ] two pair, sevens and fours, king kicker
+rickrak wins main pot 3424 Tournament chips with two pair, sevens and fours, king kicker.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 1: DucktapeDonna (0 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9388 Tournament chips) 
+Game #23972777-11 ends
+Player DucktapeDonna leaves the table with 0 Tournament chips
+Game #23972777-12 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3963 Tournament chips) 
+Seat 6: kaymae (7275 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (9388 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rickrak posts the small blind [50 Tournament chips]
+kaymae posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 3913 Tournament chips.
+kaymae, at seat 6, is in this hand with 7175 Tournament chips.
+swood12033, at seat 7, is in this hand with 14675 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9388 Tournament chips.
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ 9h 6h ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 folds [100 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp folds [100 Tournament chips]
+Patcheye folds [100 Tournament chips]
+rickrak calls [50 Tournament chips]
+kaymae checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 7d ] board:[ 2h 7d]
+** Dealing Flop ** [ 5s ] board:[ 2h 7d 5s]
+rickrak checks
+kaymae bets for 150 Tournament chips
+High-Elk RSS calls [150 Tournament chips]
+rickrak folds [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 2h 7d 5s 6c]
+kaymae bets for 300 Tournament chips
+High-Elk RSS calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 2h 7d 5s 6c 4c]
+kaymae bets for 1200 Tournament chips
+High-Elk RSS folds [1200 Tournament chips]
+kaymae is returned 1200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for kaymae (7h 6s 7d 5s 6c: two pair, sevens and sixes)
+kaymae wins main pot 1200 Tournament chips.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3863 Tournament chips) 
+Seat 6: kaymae (7925 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (8838 Tournament chips) 
+Game #23972777-12 ends
+Game #23972777-13 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3863 Tournament chips) 
+Seat 6: kaymae (7925 Tournament chips) 
+Seat 7: swood12033 (14675 Tournament chips) 
+Seat 8: High-Elk RSS (8838 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kaymae posts the small blind [50 Tournament chips]
+swood12033 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 3863 Tournament chips.
+kaymae, at seat 6, is in this hand with 7875 Tournament chips.
+swood12033, at seat 7, is in this hand with 14575 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8838 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+Dealt to QwertySpark [ 6h 7c ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp folds [100 Tournament chips]
+Patcheye folds [100 Tournament chips]
+rickrak calls [100 Tournament chips]
+kaymae calls [50 Tournament chips]
+swood12033 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 6c ] board:[ 9c 6c]
+** Dealing Flop ** [ Qc ] board:[ 9c 6c Qc]
+kaymae checks
+swood12033 bets for 100 Tournament chips
+rickrak folds [100 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for swood12033 (Qs 2h 9c 6c Qc: a pair of queens)
+swood12033 wins main pot 300 Tournament chips.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (14875 Tournament chips) 
+Seat 8: High-Elk RSS (8838 Tournament chips) 
+Game #23972777-13 ends
+Game #23972777-14 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (14875 Tournament chips) 
+Seat 8: High-Elk RSS (8838 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+swood12033 posts the small blind [50 Tournament chips]
+High-Elk RSS posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7300 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 3763 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 14825 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8738 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 7s 3c ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [100 Tournament chips]
+doctorDoBee45 folds [100 Tournament chips]
+pjrnemtp folds [100 Tournament chips]
+Patcheye folds [100 Tournament chips]
+rickrak folds [100 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 raises [150 Tournament chips]
+High-Elk RSS calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 6s ] board:[ 3d 6s]
+** Dealing Flop ** [ 9s ] board:[ 3d 6s 9s]
+swood12033 bets for 200 Tournament chips
+High-Elk RSS calls [200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 3d 6s 9s 2h]
+swood12033 bets for 400 Tournament chips
+High-Elk RSS calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 3d 6s 9s 2h 5c]
+swood12033 bets for 800 Tournament chips
+High-Elk RSS raises [1800 Tournament chips]
+swood12033 folds [1000 Tournament chips]
+High-Elk RSS is returned 1000 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for High-Elk RSS (7c 8c 6s 9s 5c: straight, nine high)
+High-Elk RSS wins main pot 3200 Tournament chips.
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (10438 Tournament chips) 
+Game #23972777-14 ends
+Game #23972777-15 starts
+Seat 0: QwertySpark (7300 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (10438 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7150 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21224 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 3763 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 13275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 10363 Tournament chips.
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ 6s Qc ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+doctorDoBee45 folds [150 Tournament chips]
+pjrnemtp folds [150 Tournament chips]
+Patcheye folds [150 Tournament chips]
+rickrak folds [150 Tournament chips]
+kaymae folds [150 Tournament chips]
+swood12033 folds [150 Tournament chips]
+High-Elk RSS calls [75 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5c ] board:[ Ts 5c]
+** Dealing Flop ** [ 9s ] board:[ Ts 5c 9s]
+High-Elk RSS checks
+QwertySpark bets for 150 Tournament chips
+High-Elk RSS folds [150 Tournament chips]
+QwertySpark is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (6s Qc Ts 5c 9s: queen high)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 0: QwertySpark (7450 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (10288 Tournament chips) 
+Game #23972777-15 ends
+Game #23972777-16 starts
+Seat 0: QwertySpark (7450 Tournament chips) 
+Seat 2: doctorDoBee45 (21224 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (7350 Tournament chips) 
+Seat 5: rickrak (3763 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (10288 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [75 Tournament chips]
+doctorDoBee45 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21074 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3825 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7350 Tournament chips.
+rickrak, at seat 5, is in this hand with 3763 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 13275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 10288 Tournament chips.
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ 7d Td ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [150 Tournament chips]
+Patcheye calls [150 Tournament chips]
+rickrak calls [150 Tournament chips]
+kaymae folds [150 Tournament chips]
+swood12033 raises [600 Tournament chips]
+High-Elk RSS calls [600 Tournament chips]
+QwertySpark folds [525 Tournament chips]
+doctorDoBee45 folds [450 Tournament chips]
+Patcheye calls [450 Tournament chips]
+rickrak folds [450 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 4d ] board:[ 2h 4d]
+** Dealing Flop ** [ Ah ] board:[ 2h 4d Ah]
+Patcheye checks
+swood12033 bets for 2175 Tournament chips
+High-Elk RSS folds [2175 Tournament chips]
+Patcheye folds [2175 Tournament chips]
+swood12033 is returned 2175 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for swood12033 (Kd As 2h 4d Ah: a pair of aces)
+swood12033 wins main pot 2175 Tournament chips.
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (21074 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (6750 Tournament chips) 
+Seat 5: rickrak (3613 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (14850 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+Game #23972777-16 ends
+Game #23972777-17 starts
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (21074 Tournament chips) 
+Seat 3: pjrnemtp (3825 Tournament chips) 
+Seat 4: Patcheye (6750 Tournament chips) 
+Seat 5: rickrak (3613 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (14850 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+doctorDoBee45 posts the small blind [75 Tournament chips]
+pjrnemtp posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20999 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3675 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6750 Tournament chips.
+rickrak, at seat 5, is in this hand with 3613 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 14850 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9688 Tournament chips.
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ 8c Ts ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye folds [150 Tournament chips]
+rickrak calls [150 Tournament chips]
+kaymae folds [150 Tournament chips]
+swood12033 raises [600 Tournament chips]
+High-Elk RSS folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+doctorDoBee45 folds [525 Tournament chips]
+pjrnemtp calls [450 Tournament chips]
+rickrak calls [450 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 3h ] board:[ Jc 3h]
+** Dealing Flop ** [ 7c ] board:[ Jc 3h 7c]
+pjrnemtp checks
+rickrak bets for 150 Tournament chips
+swood12033 raises [900 Tournament chips]
+pjrnemtp folds [900 Tournament chips]
+rickrak folds [750 Tournament chips]
+swood12033 is returned 750 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for swood12033 (Ad Qh Jc 3h 7c: ace high)
+swood12033 wins main pot 2175 Tournament chips.
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20999 Tournament chips) 
+Seat 3: pjrnemtp (3225 Tournament chips) 
+Seat 4: Patcheye (6750 Tournament chips) 
+Seat 5: rickrak (2863 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (16275 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+Game #23972777-17 ends
+Game #23972777-18 starts
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20999 Tournament chips) 
+Seat 3: pjrnemtp (3225 Tournament chips) 
+Seat 4: Patcheye (6750 Tournament chips) 
+Seat 5: rickrak (2863 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (16275 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+pjrnemtp posts the small blind [75 Tournament chips]
+Patcheye posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20999 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3150 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6600 Tournament chips.
+rickrak, at seat 5, is in this hand with 2863 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 16275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9688 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ Ts 2d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+rickrak raises [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 folds [300 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+doctorDoBee45 folds [300 Tournament chips]
+pjrnemtp calls [225 Tournament chips]
+Patcheye calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kh ] board:[ Kh]
+** Dealing Flop ** [ 2c ] board:[ Kh 2c]
+** Dealing Flop ** [ 4s ] board:[ Kh 2c 4s]
+pjrnemtp checks
+Patcheye checks
+rickrak bets for 900 Tournament chips
+pjrnemtp folds [900 Tournament chips]
+Patcheye folds [900 Tournament chips]
+rickrak is returned 900 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for rickrak (Ks Qd Kh 2c 4s: a pair of kings)
+rickrak wins main pot 900 Tournament chips.
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20999 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6450 Tournament chips) 
+Seat 5: rickrak (3463 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (16275 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+Game #23972777-18 ends
+Game #23972777-19 starts
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20999 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6450 Tournament chips) 
+Seat 5: rickrak (3463 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (16275 Tournament chips) 
+Seat 8: High-Elk RSS (9688 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Patcheye posts the small blind [75 Tournament chips]
+rickrak posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20999 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 2925 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6375 Tournament chips.
+rickrak, at seat 5, is in this hand with 3313 Tournament chips.
+kaymae, at seat 6, is in this hand with 7825 Tournament chips.
+swood12033, at seat 7, is in this hand with 16275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9688 Tournament chips.
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ Jd 6d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae folds [150 Tournament chips]
+swood12033 raises [450 Tournament chips]
+High-Elk RSS calls [450 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+doctorDoBee45 calls [450 Tournament chips]
+pjrnemtp folds [450 Tournament chips]
+Patcheye calls [375 Tournament chips]
+rickrak folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 4c ] board:[ 8d 4c]
+** Dealing Flop ** [ 7c ] board:[ 8d 4c 7c]
+Patcheye checks
+swood12033 checks
+High-Elk RSS bets for 150 Tournament chips
+doctorDoBee45 calls [150 Tournament chips]
+Patcheye folds [150 Tournament chips]
+swood12033 calls [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 8d 4c 7c Kd]
+swood12033 checks
+High-Elk RSS checks
+doctorDoBee45 checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 8d 4c 7c Kd 3h]
+swood12033 bets for 2400 Tournament chips
+High-Elk RSS folds [2400 Tournament chips]
+doctorDoBee45 folds [2400 Tournament chips]
+swood12033 is returned 2400 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for swood12033 (Qh Kh 8d 7c Kd: a pair of kings)
+swood12033 wins main pot 2400 Tournament chips.
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (3313 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (18075 Tournament chips) 
+Seat 8: High-Elk RSS (9088 Tournament chips) 
+Game #23972777-19 ends
+Game #23972777-20 starts
+Seat 0: QwertySpark (7375 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (3313 Tournament chips) 
+Seat 6: kaymae (7825 Tournament chips) 
+Seat 7: swood12033 (18075 Tournament chips) 
+Seat 8: High-Elk RSS (9088 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+rickrak posts the small blind [75 Tournament chips]
+kaymae posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 7375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20399 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 2925 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6000 Tournament chips.
+rickrak, at seat 5, is in this hand with 3238 Tournament chips.
+kaymae, at seat 6, is in this hand with 7675 Tournament chips.
+swood12033, at seat 7, is in this hand with 18075 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9088 Tournament chips.
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ Qd As ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 folds [150 Tournament chips]
+High-Elk RSS calls [150 Tournament chips]
+QwertySpark raises [750 Tournament chips]
+doctorDoBee45 folds [750 Tournament chips]
+pjrnemtp folds [750 Tournament chips]
+Patcheye folds [750 Tournament chips]
+rickrak folds [675 Tournament chips]
+kaymae calls [600 Tournament chips]
+High-Elk RSS calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 8s ] board:[ Jc 8s]
+** Dealing Flop ** [ 3h ] board:[ Jc 8s 3h]
+kaymae checks
+High-Elk RSS checks
+QwertySpark bets for 1312 Tournament chips
+kaymae raises [2624 Tournament chips]
+High-Elk RSS folds [2624 Tournament chips]
+QwertySpark calls [1312 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Jc 8s 3h 9c]
+kaymae checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ Jc 8s 3h 9c Ad]
+kaymae goes all-in for 4451 Tournament chips
+QwertySpark calls all-in [4001 Tournament chips]
+kaymae is returned 450 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qd As ]
+kaymae shows [ Qh Kc ]
+Round 4 is over.
+QwertySpark shows [ Qd As ] a pair of aces, queen/jack kickers
+kaymae shows [ Qh Kc ] ace/king/queen high
+QwertySpark wins main pot 15575 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (3238 Tournament chips) 
+Seat 6: kaymae (450 Tournament chips) 
+Seat 7: swood12033 (18075 Tournament chips) 
+Seat 8: High-Elk RSS (8338 Tournament chips) 
+Game #23972777-20 ends
+Game #23972777-21 starts
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (3238 Tournament chips) 
+Seat 6: kaymae (450 Tournament chips) 
+Seat 7: swood12033 (18075 Tournament chips) 
+Seat 8: High-Elk RSS (8338 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kaymae posts the small blind [75 Tournament chips]
+swood12033 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15575 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20399 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 2925 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6000 Tournament chips.
+rickrak, at seat 5, is in this hand with 3238 Tournament chips.
+kaymae, at seat 6, is in this hand with 375 Tournament chips.
+swood12033, at seat 7, is in this hand with 17925 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8338 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+Dealt to QwertySpark [ 3s Th ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+doctorDoBee45 folds [150 Tournament chips]
+pjrnemtp folds [150 Tournament chips]
+Patcheye folds [150 Tournament chips]
+rickrak calls [150 Tournament chips]
+kaymae raises all-in [375 Tournament chips]
+swood12033 calls [300 Tournament chips]
+High-Elk RSS calls [300 Tournament chips]
+rickrak calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ 4d ] board:[ Ad 4d]
+** Dealing Flop ** [ 8d ] board:[ Ad 4d 8d]
+swood12033 bets for 300 Tournament chips
+High-Elk RSS calls [300 Tournament chips]
+rickrak folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Ad 4d 8d 5s]
+swood12033 checks
+High-Elk RSS bets for 150 Tournament chips
+swood12033 calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ Ad 4d 8d 5s Tc]
+swood12033 checks
+High-Elk RSS checks
+Round 4 is over.
+swood12033 shows [ Qd 9h ] ace high
+Hand evaluation for swood12033 (Qd 9h Ad 8d Tc: ace high)
+High-Elk RSS shows [ 7h 4h ] a pair of fours
+Hand evaluation for High-Elk RSS (4h Ad 4d 8d Tc: a pair of fours)
+kaymae shows [ 6d As ] a pair of aces
+Hand evaluation for kaymae (6d As Ad 8d Tc: a pair of aces)
+kaymae wins main pot 1800 Tournament chips with a pair of aces, ten/eight kickers.
+High-Elk RSS wins side pot #1 900 Tournament chips with a pair of fours, ace/ten kickers.
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (2788 Tournament chips) 
+Seat 6: kaymae (1800 Tournament chips) 
+Seat 7: swood12033 (17175 Tournament chips) 
+Seat 8: High-Elk RSS (8338 Tournament chips) 
+Game #23972777-21 ends
+Game #23972777-22 starts
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (2788 Tournament chips) 
+Seat 6: kaymae (1800 Tournament chips) 
+Seat 7: swood12033 (17175 Tournament chips) 
+Seat 8: High-Elk RSS (8338 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+swood12033 posts the small blind [75 Tournament chips]
+High-Elk RSS posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15575 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20399 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 2925 Tournament chips.
+Patcheye, at seat 4, is in this hand with 6000 Tournament chips.
+rickrak, at seat 5, is in this hand with 2788 Tournament chips.
+kaymae, at seat 6, is in this hand with 1800 Tournament chips.
+swood12033, at seat 7, is in this hand with 17100 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8188 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 2s Kc ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [150 Tournament chips]
+doctorDoBee45 folds [150 Tournament chips]
+pjrnemtp folds [150 Tournament chips]
+Patcheye folds [150 Tournament chips]
+rickrak folds [150 Tournament chips]
+kaymae raises [300 Tournament chips]
+swood12033 calls [225 Tournament chips]
+High-Elk RSS re-raises [900 Tournament chips]
+kaymae calls [750 Tournament chips]
+swood12033 folds [750 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 3d ] board:[ 9c 3d]
+** Dealing Flop ** [ 4s ] board:[ 9c 3d 4s]
+High-Elk RSS bets for 750 Tournament chips
+kaymae calls all-in [750 Tournament chips]
+Tournament all-in showdown -- players show:
+kaymae shows [ 7s 6d ]
+High-Elk RSS shows [ Td Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 9c 3d 4s 7d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5c ] board:[ 9c 3d 4s 7d 5c]
+        (no action in this round)
+Round 4 is over.
+kaymae shows [ 7s 6d ] straight, seven high
+High-Elk RSS shows [ Td Ad ] ace/ten/nine high
+kaymae wins main pot 3900 Tournament chips with straight, seven high.
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (2788 Tournament chips) 
+Seat 6: kaymae (3900 Tournament chips) 
+Seat 7: swood12033 (16875 Tournament chips) 
+Seat 8: High-Elk RSS (6538 Tournament chips) 
+Game #23972777-22 ends
+Game #23972777-23 starts
+Seat 0: QwertySpark (15575 Tournament chips) 
+Seat 2: doctorDoBee45 (20399 Tournament chips) 
+Seat 3: pjrnemtp (2925 Tournament chips) 
+Seat 4: Patcheye (6000 Tournament chips) 
+Seat 5: rickrak (2788 Tournament chips) 
+Seat 6: kaymae (3900 Tournament chips) 
+Seat 7: swood12033 (16875 Tournament chips) 
+Seat 8: High-Elk RSS (6538 Tournament chips) 
+The button is at seat 6
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+rickrak posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15350 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20374 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 2900 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5975 Tournament chips.
+rickrak, at seat 5, is in this hand with 2763 Tournament chips.
+kaymae, at seat 6, is in this hand with 3875 Tournament chips.
+swood12033, at seat 7, is in this hand with 16850 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6413 Tournament chips.
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ 4d 9c ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+doctorDoBee45 folds [200 Tournament chips]
+pjrnemtp raises [900 Tournament chips]
+Patcheye folds [900 Tournament chips]
+rickrak folds [900 Tournament chips]
+kaymae calls [900 Tournament chips]
+swood12033 calls [900 Tournament chips]
+High-Elk RSS calls [800 Tournament chips]
+QwertySpark folds [700 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ Ks ] board:[ Ac Ks]
+** Dealing Flop ** [ Qh ] board:[ Ac Ks Qh]
+High-Elk RSS checks
+pjrnemtp checks
+kaymae checks
+swood12033 bets for 4000 Tournament chips
+High-Elk RSS folds [4000 Tournament chips]
+pjrnemtp folds [2000 Tournament chips]
+kaymae folds [2975 Tournament chips]
+swood12033 is returned 4000 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for swood12033 (As Tc Ac Ks Qh: a pair of aces)
+swood12033 wins main pot 4000 Tournament chips.
+Seat 0: QwertySpark (15350 Tournament chips) 
+Seat 2: doctorDoBee45 (20374 Tournament chips) 
+Seat 3: pjrnemtp (2000 Tournament chips) 
+Seat 4: Patcheye (5975 Tournament chips) 
+Seat 5: rickrak (2763 Tournament chips) 
+Seat 6: kaymae (2975 Tournament chips) 
+Seat 7: swood12033 (19950 Tournament chips) 
+Seat 8: High-Elk RSS (5613 Tournament chips) 
+Game #23972777-23 ends
+Game #23972777-24 starts
+Seat 0: QwertySpark (15350 Tournament chips) 
+Seat 2: doctorDoBee45 (20374 Tournament chips) 
+Seat 3: pjrnemtp (2000 Tournament chips) 
+Seat 4: Patcheye (5975 Tournament chips) 
+Seat 5: rickrak (2763 Tournament chips) 
+Seat 6: kaymae (2975 Tournament chips) 
+Seat 7: swood12033 (19950 Tournament chips) 
+Seat 8: High-Elk RSS (5613 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+rickrak posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [100 Tournament chips]
+doctorDoBee45 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15225 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20149 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 1975 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5950 Tournament chips.
+rickrak, at seat 5, is in this hand with 2738 Tournament chips.
+kaymae, at seat 6, is in this hand with 2950 Tournament chips.
+swood12033, at seat 7, is in this hand with 19925 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5588 Tournament chips.
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ 8c 2h ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [200 Tournament chips]
+Patcheye folds [200 Tournament chips]
+rickrak calls [200 Tournament chips]
+kaymae folds [200 Tournament chips]
+swood12033 folds [200 Tournament chips]
+High-Elk RSS raises all-in [5588 Tournament chips]
+QwertySpark folds [5488 Tournament chips]
+doctorDoBee45 folds [5388 Tournament chips]
+rickrak folds [2538 Tournament chips]
+High-Elk RSS is returned 5388 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for High-Elk RSS (Ah Ac: a pair of aces)
+High-Elk RSS wins main pot 900 Tournament chips.
+Seat 0: QwertySpark (15225 Tournament chips) 
+Seat 2: doctorDoBee45 (20149 Tournament chips) 
+Seat 3: pjrnemtp (1975 Tournament chips) 
+Seat 4: Patcheye (5950 Tournament chips) 
+Seat 5: rickrak (2538 Tournament chips) 
+Seat 6: kaymae (2950 Tournament chips) 
+Seat 7: swood12033 (19925 Tournament chips) 
+Seat 8: High-Elk RSS (6288 Tournament chips) 
+Game #23972777-24 ends
+Game #23972777-25 starts
+Seat 0: QwertySpark (15225 Tournament chips) 
+Seat 2: doctorDoBee45 (20149 Tournament chips) 
+Seat 3: pjrnemtp (1975 Tournament chips) 
+Seat 4: Patcheye (5950 Tournament chips) 
+Seat 5: rickrak (2538 Tournament chips) 
+Seat 6: kaymae (2950 Tournament chips) 
+Seat 7: swood12033 (19925 Tournament chips) 
+Seat 8: High-Elk RSS (6288 Tournament chips) 
+The button is at seat 8
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+rickrak posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+The button is moved to seat 0.
+doctorDoBee45 posts the small blind [100 Tournament chips]
+pjrnemtp posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15200 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 20024 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 1750 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5925 Tournament chips.
+rickrak, at seat 5, is in this hand with 2513 Tournament chips.
+kaymae, at seat 6, is in this hand with 2925 Tournament chips.
+swood12033, at seat 7, is in this hand with 19900 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6263 Tournament chips.
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+rickrak is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ 4h 5d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to rickrak [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye folds [200 Tournament chips]
+rickrak calls [200 Tournament chips]
+kaymae raises [400 Tournament chips]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+doctorDoBee45 folds [300 Tournament chips]
+pjrnemtp folds [200 Tournament chips]
+rickrak calls [200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 7c ] board:[ 8c 7c]
+** Dealing Flop ** [ 9d ] board:[ 8c 7c 9d]
+rickrak goes all-in for 2113 Tournament chips
+kaymae calls [2113 Tournament chips]
+High-Elk RSS folds [2113 Tournament chips]
+Tournament all-in showdown -- players show:
+rickrak shows [ Js Ts ]
+kaymae shows [ 3s 3d ]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 8c 7c 9d 3h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ 8c 7c 9d 3h 9s]
+        (no action in this round)
+Round 4 is over.
+rickrak shows [ Js Ts ] straight, jack high
+kaymae shows [ 3s 3d ] full house, threes full of nines
+kaymae wins main pot 5926 Tournament chips with full house, threes full of nines.
+Seat 0: QwertySpark (15200 Tournament chips) 
+Seat 2: doctorDoBee45 (20024 Tournament chips) 
+Seat 3: pjrnemtp (1750 Tournament chips) 
+Seat 4: Patcheye (5925 Tournament chips) 
+Seat 5: rickrak (0 Tournament chips) 
+Seat 6: kaymae (6338 Tournament chips) 
+Seat 7: swood12033 (19900 Tournament chips) 
+Seat 8: High-Elk RSS (5863 Tournament chips) 
+Game #23972777-25 ends
+Player rickrak leaves the table with 0 Tournament chips
+Game #23972777-26 starts
+Seat 0: QwertySpark (15200 Tournament chips) 
+Seat 2: doctorDoBee45 (20024 Tournament chips) 
+Seat 3: pjrnemtp (1750 Tournament chips) 
+Seat 4: Patcheye (5925 Tournament chips) 
+Seat 6: kaymae (6338 Tournament chips) 
+Seat 7: swood12033 (19900 Tournament chips) 
+Seat 8: High-Elk RSS (5863 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 2.
+pjrnemtp posts the small blind [100 Tournament chips]
+Patcheye posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15175 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19999 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 1625 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5700 Tournament chips.
+kaymae, at seat 6, is in this hand with 6313 Tournament chips.
+swood12033, at seat 7, is in this hand with 19875 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5838 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ 2d 5d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae calls [200 Tournament chips]
+swood12033 folds [200 Tournament chips]
+High-Elk RSS calls [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+doctorDoBee45 folds [200 Tournament chips]
+pjrnemtp folds [100 Tournament chips]
+Patcheye has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 7d ] board:[ Jc 7d]
+** Dealing Flop ** [ 2c ] board:[ Jc 7d 2c]
+Patcheye has timed out - the hand is checked
+kaymae bets for 537 Tournament chips
+High-Elk RSS folds [537 Tournament chips]
+QwertySpark folds [537 Tournament chips]
+Patcheye folds [537 Tournament chips]
+kaymae is returned 537 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for kaymae (Js 9h Jc 7d 2c: a pair of jacks)
+kaymae wins main pot 1075 Tournament chips.
+Seat 0: QwertySpark (14975 Tournament chips) 
+Seat 2: doctorDoBee45 (19999 Tournament chips) 
+Seat 3: pjrnemtp (1625 Tournament chips) 
+Seat 4: Patcheye (5700 Tournament chips) 
+Seat 6: kaymae (7188 Tournament chips) 
+Seat 7: swood12033 (19875 Tournament chips) 
+Seat 8: High-Elk RSS (5638 Tournament chips) 
+Game #23972777-26 ends
+Game #23972777-27 starts
+Seat 0: QwertySpark (14975 Tournament chips) 
+Seat 2: doctorDoBee45 (19999 Tournament chips) 
+Seat 3: pjrnemtp (1625 Tournament chips) 
+Seat 4: Patcheye (5700 Tournament chips) 
+Seat 6: kaymae (7188 Tournament chips) 
+Seat 7: swood12033 (19875 Tournament chips) 
+Seat 8: High-Elk RSS (5638 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 3.
+Patcheye posts the small blind [100 Tournament chips]
+kaymae posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14950 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19974 Tournament chips.
+pjrnemtp, at seat 3, is in this hand (absent) with 1600 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5575 Tournament chips.
+kaymae, at seat 6, is in this hand with 6963 Tournament chips.
+swood12033, at seat 7, is in this hand with 19850 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5613 Tournament chips.
+Patcheye is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ Kh 3d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 folds [200 Tournament chips]
+High-Elk RSS raises all-in [5613 Tournament chips]
+QwertySpark folds [5613 Tournament chips]
+doctorDoBee45 folds [5613 Tournament chips]
+pjrnemtp folds [1600 Tournament chips]
+Patcheye folds [5513 Tournament chips]
+kaymae folds [5413 Tournament chips]
+High-Elk RSS is returned 5413 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for High-Elk RSS (4d 4h: a pair of fours)
+High-Elk RSS wins main pot 675 Tournament chips.
+Seat 0: QwertySpark (14950 Tournament chips) 
+Seat 2: doctorDoBee45 (19974 Tournament chips) 
+Seat 3: pjrnemtp (1600 Tournament chips) 
+Seat 4: Patcheye (5575 Tournament chips) 
+Seat 6: kaymae (6963 Tournament chips) 
+Seat 7: swood12033 (19850 Tournament chips) 
+Seat 8: High-Elk RSS (6088 Tournament chips) 
+Game #23972777-27 ends
+Game #23972777-28 starts
+Seat 0: QwertySpark (14950 Tournament chips) 
+Seat 2: doctorDoBee45 (19974 Tournament chips) 
+Seat 3: pjrnemtp (1600 Tournament chips) 
+Seat 4: Patcheye (5575 Tournament chips) 
+Seat 6: kaymae (6963 Tournament chips) 
+Seat 7: swood12033 (19850 Tournament chips) 
+Seat 8: High-Elk RSS (6088 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 4.
+kaymae posts the small blind [100 Tournament chips]
+swood12033 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14925 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19949 Tournament chips.
+pjrnemtp, at seat 3, is in this hand (absent) with 1575 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5550 Tournament chips.
+kaymae, at seat 6, is in this hand with 6838 Tournament chips.
+swood12033, at seat 7, is in this hand with 19625 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6063 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ Ts 8d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+doctorDoBee45 folds [200 Tournament chips]
+pjrnemtp folds [200 Tournament chips]
+Patcheye folds [200 Tournament chips]
+kaymae folds [100 Tournament chips]
+swood12033 raises [400 Tournament chips]
+High-Elk RSS calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 3c ] board:[ 5d 3c]
+** Dealing Flop ** [ 6h ] board:[ 5d 3c 6h]
+swood12033 checks
+High-Elk RSS has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 5d 3c 6h 2c]
+swood12033 bets for 400 Tournament chips
+High-Elk RSS folds [400 Tournament chips]
+swood12033 is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for swood12033 (Th Ac 5d 3c 6h: ace high)
+swood12033 wins main pot 1475 Tournament chips.
+Seat 0: QwertySpark (14925 Tournament chips) 
+Seat 2: doctorDoBee45 (19949 Tournament chips) 
+Seat 3: pjrnemtp (1575 Tournament chips) 
+Seat 4: Patcheye (5550 Tournament chips) 
+Seat 5: Husker Chips (6875 Tournament chips) 
+Seat 6: kaymae (6838 Tournament chips) 
+Seat 7: swood12033 (20700 Tournament chips) 
+Seat 8: High-Elk RSS (5463 Tournament chips) 
+Game #23972777-28 ends
+Game #23972777-29 starts
+Seat 0: QwertySpark (14925 Tournament chips) 
+Seat 2: doctorDoBee45 (19949 Tournament chips) 
+Seat 3: pjrnemtp (1575 Tournament chips) 
+Seat 4: Patcheye (5550 Tournament chips) 
+Seat 5: Husker Chips (6875 Tournament chips) 
+Seat 6: kaymae (6838 Tournament chips) 
+Seat 7: swood12033 (20700 Tournament chips) 
+Seat 8: High-Elk RSS (5463 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 6.
+swood12033 posts the small blind [100 Tournament chips]
+High-Elk RSS posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14900 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19924 Tournament chips.
+pjrnemtp, at seat 3, is in this hand (absent) with 1550 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5525 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6850 Tournament chips.
+kaymae, at seat 6, is in this hand with 6813 Tournament chips.
+swood12033, at seat 7, is in this hand with 20575 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand (absent) with 5238 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 9d Qs ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [200 Tournament chips]
+doctorDoBee45 folds [200 Tournament chips]
+pjrnemtp folds [200 Tournament chips]
+Patcheye folds [200 Tournament chips]
+Husker Chips folds [200 Tournament chips]
+kaymae folds [200 Tournament chips]
+swood12033 calls [100 Tournament chips]
+High-Elk RSS folds
+round 1 is over.
+Hand evaluation for swood12033 (3c 6s: six high)
+swood12033 wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (14900 Tournament chips) 
+Seat 2: doctorDoBee45 (19924 Tournament chips) 
+Seat 3: pjrnemtp (1550 Tournament chips) 
+Seat 4: Patcheye (5525 Tournament chips) 
+Seat 5: Husker Chips (6850 Tournament chips) 
+Seat 6: kaymae (6813 Tournament chips) 
+Seat 7: swood12033 (21075 Tournament chips) 
+Seat 8: High-Elk RSS (5238 Tournament chips) 
+Game #23972777-29 ends
+Game #23972777-30 starts
+Seat 0: QwertySpark (14900 Tournament chips) 
+Seat 2: doctorDoBee45 (19924 Tournament chips) 
+Seat 3: pjrnemtp (1550 Tournament chips) 
+Seat 4: Patcheye (5525 Tournament chips) 
+Seat 5: Husker Chips (6850 Tournament chips) 
+Seat 6: kaymae (6813 Tournament chips) 
+Seat 7: swood12033 (21075 Tournament chips) 
+Seat 8: High-Elk RSS (5238 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14675 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19899 Tournament chips.
+pjrnemtp, at seat 3, is in this hand (absent) with 1525 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5500 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6825 Tournament chips.
+kaymae, at seat 6, is in this hand with 6788 Tournament chips.
+swood12033, at seat 7, is in this hand with 21050 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand (absent) with 5113 Tournament chips.
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ Tc Ah ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+doctorDoBee45 folds [200 Tournament chips]
+pjrnemtp folds [200 Tournament chips]
+Patcheye calls [200 Tournament chips]
+Husker Chips folds [200 Tournament chips]
+kaymae folds [200 Tournament chips]
+swood12033 folds [200 Tournament chips]
+High-Elk RSS folds [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 2h ] board:[ Jd 2h]
+** Dealing Flop ** [ 4c ] board:[ Jd 2h 4c]
+QwertySpark checks
+Patcheye checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Jd 2h 4c Qd]
+QwertySpark bets for 400 Tournament chips
+Patcheye folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Tc Ah Jd 4c Qd: ace high)
+QwertySpark wins main pot 700 Tournament chips.
+Seat 0: QwertySpark (15375 Tournament chips) 
+Seat 2: doctorDoBee45 (19899 Tournament chips) 
+Seat 3: pjrnemtp (1525 Tournament chips) 
+Seat 4: Patcheye (5300 Tournament chips) 
+Seat 5: Husker Chips (6825 Tournament chips) 
+Seat 6: kaymae (6788 Tournament chips) 
+Seat 7: swood12033 (21050 Tournament chips) 
+Seat 8: High-Elk RSS (5113 Tournament chips) 
+Game #23972777-30 ends
+Game #23972777-31 starts
+Seat 0: QwertySpark (15375 Tournament chips) 
+Seat 2: doctorDoBee45 (19899 Tournament chips) 
+Seat 3: pjrnemtp (1525 Tournament chips) 
+Seat 4: Patcheye (5300 Tournament chips) 
+Seat 5: Husker Chips (6825 Tournament chips) 
+Seat 6: kaymae (6788 Tournament chips) 
+Seat 7: swood12033 (21050 Tournament chips) 
+Seat 8: High-Elk RSS (5113 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [150 Tournament chips]
+doctorDoBee45 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15200 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 19574 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 1500 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5275 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6800 Tournament chips.
+kaymae, at seat 6, is in this hand with 6763 Tournament chips.
+swood12033, at seat 7, is in this hand with 21025 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand (absent) with 5088 Tournament chips.
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ 2s Ac ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [300 Tournament chips]
+Patcheye folds [300 Tournament chips]
+Husker Chips folds [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 raises [600 Tournament chips]
+High-Elk RSS folds [600 Tournament chips]
+QwertySpark calls [450 Tournament chips]
+doctorDoBee45 calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Kd ] board:[ Qd Kd]
+** Dealing Flop ** [ Tc ] board:[ Qd Kd Tc]
+QwertySpark checks
+doctorDoBee45 checks
+swood12033 bets for 1000 Tournament chips
+QwertySpark folds [1000 Tournament chips]
+doctorDoBee45 calls [1000 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ Qd Kd Tc 9c]
+doctorDoBee45 bets for 2000 Tournament chips
+swood12033 raises [4000 Tournament chips]
+doctorDoBee45 calls [2000 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Qd Kd Tc 9c 9h]
+doctorDoBee45 bets for 12000 Tournament chips
+swood12033 folds [12000 Tournament chips]
+doctorDoBee45 is returned 12000 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for doctorDoBee45 (9s Qd Kd 9c 9h: three nines)
+doctorDoBee45 wins main pot 12000 Tournament chips.
+Seat 0: QwertySpark (14750 Tournament chips) 
+Seat 2: doctorDoBee45 (26274 Tournament chips) 
+Seat 3: pjrnemtp (1500 Tournament chips) 
+Seat 4: Patcheye (5275 Tournament chips) 
+Seat 5: Husker Chips (6800 Tournament chips) 
+Seat 6: kaymae (6763 Tournament chips) 
+Seat 7: swood12033 (15425 Tournament chips) 
+Seat 8: High-Elk RSS (5088 Tournament chips) 
+Game #23972777-31 ends
+Game #23972777-32 starts
+Seat 0: QwertySpark (14750 Tournament chips) 
+Seat 2: doctorDoBee45 (26274 Tournament chips) 
+Seat 3: pjrnemtp (1500 Tournament chips) 
+Seat 4: Patcheye (5275 Tournament chips) 
+Seat 5: Husker Chips (6800 Tournament chips) 
+Seat 6: kaymae (6763 Tournament chips) 
+Seat 7: swood12033 (15425 Tournament chips) 
+Seat 8: High-Elk RSS (5088 Tournament chips) 
+The button is at seat 8
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+The button is moved to seat 0.
+doctorDoBee45 posts the small blind [150 Tournament chips]
+pjrnemtp posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14725 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 26099 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 1175 Tournament chips.
+Patcheye, at seat 4, is in this hand with 5250 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6775 Tournament chips.
+kaymae, at seat 6, is in this hand with 6738 Tournament chips.
+swood12033, at seat 7, is in this hand with 15400 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand (absent) with 5063 Tournament chips.
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ Qh Kc ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye calls [300 Tournament chips]
+Husker Chips folds [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 folds [300 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+QwertySpark raises [1200 Tournament chips]
+doctorDoBee45 folds [1050 Tournament chips]
+pjrnemtp folds [900 Tournament chips]
+Patcheye calls [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ Tc ] board:[ 6s Tc]
+** Dealing Flop ** [ 6h ] board:[ 6s Tc 6h]
+Patcheye checks
+QwertySpark bets for 1825 Tournament chips
+Patcheye folds [1825 Tournament chips]
+QwertySpark is returned 1825 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qh Kc 6s Tc 6h: a pair of sixes)
+QwertySpark wins main pot 3050 Tournament chips.
+Seat 0: QwertySpark (16575 Tournament chips) 
+Seat 2: doctorDoBee45 (26099 Tournament chips) 
+Seat 3: pjrnemtp (1175 Tournament chips) 
+Seat 4: Patcheye (4050 Tournament chips) 
+Seat 5: Husker Chips (6775 Tournament chips) 
+Seat 6: kaymae (6738 Tournament chips) 
+Seat 7: swood12033 (15400 Tournament chips) 
+Seat 8: High-Elk RSS (5063 Tournament chips) 
+Game #23972777-32 ends
+Game #23972777-33 starts
+Seat 0: QwertySpark (16575 Tournament chips) 
+Seat 2: doctorDoBee45 (26099 Tournament chips) 
+Seat 3: pjrnemtp (1175 Tournament chips) 
+Seat 4: Patcheye (4050 Tournament chips) 
+Seat 5: Husker Chips (6775 Tournament chips) 
+Seat 6: kaymae (6738 Tournament chips) 
+Seat 7: swood12033 (15400 Tournament chips) 
+Seat 8: High-Elk RSS (5063 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 2.
+pjrnemtp posts the small blind [150 Tournament chips]
+Patcheye posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16550 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 26074 Tournament chips.
+pjrnemtp, at seat 3, is in this hand (absent) with 1000 Tournament chips.
+Patcheye, at seat 4, is in this hand with 3725 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6750 Tournament chips.
+kaymae, at seat 6, is in this hand with 6713 Tournament chips.
+swood12033, at seat 7, is in this hand with 15375 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5038 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ 6h 8c ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Husker Chips folds [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 folds [300 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+doctorDoBee45 raises [900 Tournament chips]
+pjrnemtp folds [750 Tournament chips]
+Patcheye calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ 4h ] board:[ Qc 4h]
+** Dealing Flop ** [ 7s ] board:[ Qc 4h 7s]
+Patcheye checks
+doctorDoBee45 checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Qc 4h 7s 2c]
+Patcheye checks
+doctorDoBee45 checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qc 4h 7s 2c 7c]
+Patcheye has timed out - the hand is checked
+doctorDoBee45 bets for 2150 Tournament chips
+Patcheye folds [2150 Tournament chips]
+doctorDoBee45 is returned 2150 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for doctorDoBee45 (Tc 9c Qc 2c 7c: flush, queen high)
+doctorDoBee45 wins main pot 2150 Tournament chips.
+Seat 0: QwertySpark (16550 Tournament chips) 
+Seat 2: doctorDoBee45 (27324 Tournament chips) 
+Seat 3: pjrnemtp (1000 Tournament chips) 
+Seat 4: Patcheye (3125 Tournament chips) 
+Seat 5: Husker Chips (6750 Tournament chips) 
+Seat 6: kaymae (6713 Tournament chips) 
+Seat 7: swood12033 (15375 Tournament chips) 
+Seat 8: High-Elk RSS (5038 Tournament chips) 
+Game #23972777-33 ends
+Game #23972777-34 starts
+Seat 0: QwertySpark (16550 Tournament chips) 
+Seat 2: doctorDoBee45 (27324 Tournament chips) 
+Seat 3: pjrnemtp (1000 Tournament chips) 
+Seat 4: Patcheye (3125 Tournament chips) 
+Seat 5: Husker Chips (6750 Tournament chips) 
+Seat 6: kaymae (6713 Tournament chips) 
+Seat 7: swood12033 (15375 Tournament chips) 
+Seat 8: High-Elk RSS (5038 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 3.
+Patcheye posts the small blind [150 Tournament chips]
+Husker Chips posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16525 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 27299 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 975 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2950 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6425 Tournament chips.
+kaymae, at seat 6, is in this hand with 6688 Tournament chips.
+swood12033, at seat 7, is in this hand with 15350 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5013 Tournament chips.
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ 3s Ah ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae raises [600 Tournament chips]
+swood12033 folds [600 Tournament chips]
+High-Elk RSS calls [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+doctorDoBee45 re-raises [1200 Tournament chips]
+pjrnemtp calls all-in [975 Tournament chips]
+Patcheye folds [1050 Tournament chips]
+Husker Chips folds [900 Tournament chips]
+kaymae calls [600 Tournament chips]
+High-Elk RSS folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 8c ] board:[ 8s 8c]
+** Dealing Flop ** [ Ac ] board:[ 8s 8c Ac]
+kaymae bets for 2312 Tournament chips
+doctorDoBee45 folds [2312 Tournament chips]
+kaymae is returned 2312 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+pjrnemtp shows [ 6d Ad ]
+kaymae shows [ Td Js ]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 8s 8c Ac 4d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 8s 8c Ac 4d Qs]
+        (no action in this round)
+Round 4 is over.
+pjrnemtp shows [ 6d Ad ] two pair, aces and eights, queen kicker
+kaymae shows [ Td Js ] a pair of eights, ace/queen kickers
+pjrnemtp wins main pot 4175 Tournament chips with two pair, aces and eights, queen kicker.
+kaymae wins side pot #1 450 Tournament chips with a pair of eights, ace/queen kickers.
+Seat 0: QwertySpark (16525 Tournament chips) 
+Seat 2: doctorDoBee45 (26099 Tournament chips) 
+Seat 3: pjrnemtp (4175 Tournament chips) 
+Seat 4: Patcheye (2950 Tournament chips) 
+Seat 5: Husker Chips (6425 Tournament chips) 
+Seat 6: kaymae (5938 Tournament chips) 
+Seat 7: swood12033 (15350 Tournament chips) 
+Seat 8: High-Elk RSS (4413 Tournament chips) 
+Game #23972777-34 ends
+Game #23972777-35 starts
+Seat 0: QwertySpark (16525 Tournament chips) 
+Seat 2: doctorDoBee45 (26099 Tournament chips) 
+Seat 3: pjrnemtp (4175 Tournament chips) 
+Seat 4: Patcheye (2950 Tournament chips) 
+Seat 5: Husker Chips (6425 Tournament chips) 
+Seat 6: kaymae (5938 Tournament chips) 
+Seat 7: swood12033 (15350 Tournament chips) 
+Seat 8: High-Elk RSS (4413 Tournament chips) 
+The button is at seat 3
+doctorDoBee45 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 4.
+Husker Chips posts the small blind [150 Tournament chips]
+kaymae posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16500 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 26074 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4150 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2925 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6250 Tournament chips.
+kaymae, at seat 6, is in this hand with 5613 Tournament chips.
+swood12033, at seat 7, is in this hand with 15325 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand (absent) with 4388 Tournament chips.
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ 7s Jd ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 calls [300 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+doctorDoBee45 folds [300 Tournament chips]
+pjrnemtp folds [300 Tournament chips]
+Patcheye folds [300 Tournament chips]
+Husker Chips folds [150 Tournament chips]
+kaymae checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 4c ] board:[ 8d 4c]
+** Dealing Flop ** [ 9d ] board:[ 8d 4c 9d]
+kaymae bets for 475 Tournament chips
+swood12033 calls [475 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 8d 4c 9d Td]
+kaymae bets for 950 Tournament chips
+swood12033 calls [950 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 8d 4c 9d Td As]
+kaymae bets for 1900 Tournament chips
+swood12033 folds [1900 Tournament chips]
+kaymae is returned 1900 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for kaymae (9c 8d 9d Td As: a pair of nines)
+kaymae wins main pot 3800 Tournament chips.
+Seat 0: QwertySpark (16500 Tournament chips) 
+Seat 2: doctorDoBee45 (26074 Tournament chips) 
+Seat 3: pjrnemtp (4150 Tournament chips) 
+Seat 4: Patcheye (2925 Tournament chips) 
+Seat 5: Husker Chips (6250 Tournament chips) 
+Seat 6: kaymae (7988 Tournament chips) 
+Seat 7: swood12033 (13600 Tournament chips) 
+Seat 8: High-Elk RSS (4388 Tournament chips) 
+Game #23972777-35 ends
+Game #23972777-36 starts
+Seat 0: QwertySpark (16500 Tournament chips) 
+Seat 2: doctorDoBee45 (26074 Tournament chips) 
+Seat 3: pjrnemtp (4150 Tournament chips) 
+Seat 4: Patcheye (2925 Tournament chips) 
+Seat 5: Husker Chips (6250 Tournament chips) 
+Seat 6: kaymae (7988 Tournament chips) 
+Seat 7: swood12033 (13600 Tournament chips) 
+Seat 8: High-Elk RSS (4388 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+doctorDoBee45 posted ante of 25 Tournament chips
+Patcheye posted ante of 25 Tournament chips
+pjrnemtp posted ante of 25 Tournament chips
+Husker Chips posted ante of 25 Tournament chips
+kaymae posted ante of 25 Tournament chips
+swood12033 posted ante of 25 Tournament chips
+High-Elk RSS posted ante of 25 Tournament chips
+The button is moved to seat 5.
+kaymae posts the small blind [150 Tournament chips]
+swood12033 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16475 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 26049 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4125 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2900 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6225 Tournament chips.
+kaymae, at seat 6, is in this hand with 7813 Tournament chips.
+swood12033, at seat 7, is in this hand with 13275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 4363 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+Dealt to QwertySpark [ 4d 2s ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+doctorDoBee45 calls [300 Tournament chips]
+pjrnemtp folds [300 Tournament chips]
+Patcheye folds [300 Tournament chips]
+Husker Chips folds [300 Tournament chips]
+kaymae calls [150 Tournament chips]
+swood12033 checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 4c ] board:[ 2d 4c]
+** Dealing Flop ** [ Qs ] board:[ 2d 4c Qs]
+kaymae checks
+swood12033 checks
+High-Elk RSS bets for 300 Tournament chips
+doctorDoBee45 calls [300 Tournament chips]
+kaymae folds [300 Tournament chips]
+swood12033 folds [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 2d 4c Qs Th]
+High-Elk RSS bets for 900 Tournament chips
+doctorDoBee45 calls [900 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 2d 4c Qs Th 9c]
+High-Elk RSS bets for 1800 Tournament chips
+doctorDoBee45 calls [1800 Tournament chips]
+Round 4 is over.
+High-Elk RSS shows [ Qh 6c ] a pair of queens
+Hand evaluation for High-Elk RSS (Qh 6c Qs Th 9c: a pair of queens)
+doctorDoBee45 doesn't show [ 9d Js ]
+(doctorDoBee45 has 9d Js.)
+High-Elk RSS wins main pot 7400 Tournament chips with a pair of queens, ten/nine kickers.
+Seat 0: QwertySpark (16475 Tournament chips) 
+Seat 2: doctorDoBee45 (22749 Tournament chips) 
+Seat 3: pjrnemtp (4125 Tournament chips) 
+Seat 4: Patcheye (2900 Tournament chips) 
+Seat 5: Husker Chips (6225 Tournament chips) 
+Seat 6: kaymae (7663 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (8463 Tournament chips) 
+Game #23972777-36 ends
+Game #23972777-37 starts
+Seat 0: QwertySpark (16475 Tournament chips) 
+Seat 2: doctorDoBee45 (22749 Tournament chips) 
+Seat 3: pjrnemtp (4125 Tournament chips) 
+Seat 4: Patcheye (2900 Tournament chips) 
+Seat 5: Husker Chips (6225 Tournament chips) 
+Seat 6: kaymae (7663 Tournament chips) 
+Seat 7: swood12033 (13275 Tournament chips) 
+Seat 8: High-Elk RSS (8463 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+The button is moved to seat 6.
+swood12033 posts the small blind [200 Tournament chips]
+High-Elk RSS posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 16425 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 22699 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4075 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2850 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6175 Tournament chips.
+kaymae, at seat 6, is in this hand with 7613 Tournament chips.
+swood12033, at seat 7, is in this hand with 13025 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 8013 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 6c 3d ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [400 Tournament chips]
+doctorDoBee45 folds [400 Tournament chips]
+pjrnemtp folds [400 Tournament chips]
+Patcheye folds [400 Tournament chips]
+Husker Chips folds [400 Tournament chips]
+kaymae raises [1800 Tournament chips]
+swood12033 folds [1600 Tournament chips]
+High-Elk RSS folds [1400 Tournament chips]
+kaymae is returned 1400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for kaymae (Ah Kh: ace high)
+kaymae wins main pot 1400 Tournament chips.
+Seat 0: QwertySpark (16425 Tournament chips) 
+Seat 2: doctorDoBee45 (22699 Tournament chips) 
+Seat 3: pjrnemtp (4075 Tournament chips) 
+Seat 4: Patcheye (2850 Tournament chips) 
+Seat 5: Husker Chips (6175 Tournament chips) 
+Seat 6: kaymae (8613 Tournament chips) 
+Seat 7: swood12033 (13025 Tournament chips) 
+Seat 8: High-Elk RSS (8013 Tournament chips) 
+Game #23972777-37 ends
+Game #23972777-38 starts
+Seat 0: QwertySpark (16425 Tournament chips) 
+Seat 2: doctorDoBee45 (22699 Tournament chips) 
+Seat 3: pjrnemtp (4075 Tournament chips) 
+Seat 4: Patcheye (2850 Tournament chips) 
+Seat 5: Husker Chips (6175 Tournament chips) 
+Seat 6: kaymae (8613 Tournament chips) 
+Seat 7: swood12033 (13025 Tournament chips) 
+Seat 8: High-Elk RSS (8013 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 15975 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand (absent) with 22649 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4025 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2800 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6125 Tournament chips.
+kaymae, at seat 6, is in this hand with 8563 Tournament chips.
+swood12033, at seat 7, is in this hand with 12975 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7763 Tournament chips.
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ Ks 6s ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+doctorDoBee45 folds [400 Tournament chips]
+(doctorDoBee45 has entered the table, is no longer absent.)
+pjrnemtp folds [400 Tournament chips]
+Patcheye folds [400 Tournament chips]
+Husker Chips folds [400 Tournament chips]
+kaymae folds [400 Tournament chips]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS raises [600 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9c ] board:[ Qh 9c]
+** Dealing Flop ** [ 2s ] board:[ Qh 9c 2s]
+High-Elk RSS bets for 400 Tournament chips
+QwertySpark calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ Qh 9c 2s 7d]
+High-Elk RSS bets for 400 Tournament chips
+QwertySpark calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Qh 9c 2s 7d As]
+High-Elk RSS bets for 3600 Tournament chips
+QwertySpark folds [3600 Tournament chips]
+High-Elk RSS is returned 3600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for High-Elk RSS (7c Ac Qh 7d As: two pair, aces and sevens)
+High-Elk RSS wins main pot 3600 Tournament chips.
+Seat 0: QwertySpark (14775 Tournament chips) 
+Seat 2: doctorDoBee45 (22649 Tournament chips) 
+Seat 3: pjrnemtp (4025 Tournament chips) 
+Seat 4: Patcheye (2800 Tournament chips) 
+Seat 5: Husker Chips (6125 Tournament chips) 
+Seat 6: kaymae (8563 Tournament chips) 
+Seat 7: swood12033 (12975 Tournament chips) 
+Seat 8: High-Elk RSS (9963 Tournament chips) 
+Game #23972777-38 ends
+Game #23972777-39 starts
+Seat 0: QwertySpark (14775 Tournament chips) 
+Seat 2: doctorDoBee45 (22649 Tournament chips) 
+Seat 3: pjrnemtp (4025 Tournament chips) 
+Seat 4: Patcheye (2800 Tournament chips) 
+Seat 5: Husker Chips (6125 Tournament chips) 
+Seat 6: kaymae (8563 Tournament chips) 
+Seat 7: swood12033 (12975 Tournament chips) 
+Seat 8: High-Elk RSS (9963 Tournament chips) 
+The button is at seat 7
+doctorDoBee45 posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [200 Tournament chips]
+doctorDoBee45 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 14525 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 22199 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3975 Tournament chips.
+Patcheye, at seat 4, is in this hand with 2750 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6075 Tournament chips.
+kaymae, at seat 6, is in this hand with 8513 Tournament chips.
+swood12033, at seat 7, is in this hand with 12925 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9913 Tournament chips.
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ As Kh ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [400 Tournament chips]
+Patcheye calls [400 Tournament chips]
+Husker Chips folds [400 Tournament chips]
+kaymae folds [400 Tournament chips]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS folds [400 Tournament chips]
+QwertySpark raises [1800 Tournament chips]
+doctorDoBee45 folds [1600 Tournament chips]
+Patcheye calls [1600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 7c ] board:[ Tc 7c]
+** Dealing Flop ** [ 5h ] board:[ Tc 7c 5h]
+QwertySpark bets for 800 Tournament chips
+Patcheye folds [750 Tournament chips]
+QwertySpark is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (As Kh Tc 7c 5h: ace high)
+QwertySpark wins main pot 4800 Tournament chips.
+Seat 0: QwertySpark (17525 Tournament chips) 
+Seat 2: doctorDoBee45 (22199 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (750 Tournament chips) 
+Seat 5: Husker Chips (6075 Tournament chips) 
+Seat 6: kaymae (8513 Tournament chips) 
+Seat 7: swood12033 (12925 Tournament chips) 
+Seat 8: High-Elk RSS (9913 Tournament chips) 
+Game #23972777-39 ends
+Game #23972777-40 starts
+Seat 0: QwertySpark (17525 Tournament chips) 
+Seat 2: doctorDoBee45 (22199 Tournament chips) 
+Seat 3: pjrnemtp (3975 Tournament chips) 
+Seat 4: Patcheye (750 Tournament chips) 
+Seat 5: Husker Chips (6075 Tournament chips) 
+Seat 6: kaymae (8513 Tournament chips) 
+Seat 7: swood12033 (12925 Tournament chips) 
+Seat 8: High-Elk RSS (9913 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+The button is moved to seat 0.
+doctorDoBee45 posts the small blind [200 Tournament chips]
+pjrnemtp posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 17475 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21949 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3525 Tournament chips.
+Patcheye, at seat 4, is in this hand with 700 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 6025 Tournament chips.
+kaymae, at seat 6, is in this hand with 8463 Tournament chips.
+swood12033, at seat 7, is in this hand with 12875 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 9863 Tournament chips.
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ 4c 4s ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye folds [400 Tournament chips]
+Husker Chips folds [400 Tournament chips]
+kaymae folds [400 Tournament chips]
+swood12033 raises [800 Tournament chips]
+High-Elk RSS re-raises [1200 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+doctorDoBee45 folds [1000 Tournament chips]
+pjrnemtp folds [800 Tournament chips]
+swood12033 calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Ad ] board:[ 5s Ad]
+** Dealing Flop ** [ 6s ] board:[ 5s Ad 6s]
+swood12033 checks
+High-Elk RSS checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 5s Ad 6s 7s]
+swood12033 bets for 800 Tournament chips
+High-Elk RSS calls [800 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 5s Ad 6s 7s 8d]
+swood12033 bets for 1600 Tournament chips
+High-Elk RSS folds [1600 Tournament chips]
+swood12033 is returned 1600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for swood12033 (Kd Js Ad 7s 8d: ace high)
+swood12033 wins main pot 5000 Tournament chips.
+Seat 0: QwertySpark (17475 Tournament chips) 
+Seat 2: doctorDoBee45 (21949 Tournament chips) 
+Seat 3: pjrnemtp (3525 Tournament chips) 
+Seat 4: Patcheye (700 Tournament chips) 
+Seat 5: Husker Chips (6025 Tournament chips) 
+Seat 6: kaymae (8463 Tournament chips) 
+Seat 7: swood12033 (15875 Tournament chips) 
+Seat 8: High-Elk RSS (7863 Tournament chips) 
+Game #23972777-40 ends
+Game #23972777-41 starts
+Seat 0: QwertySpark (17475 Tournament chips) 
+Seat 2: doctorDoBee45 (21949 Tournament chips) 
+Seat 3: pjrnemtp (3525 Tournament chips) 
+Seat 4: Patcheye (700 Tournament chips) 
+Seat 5: Husker Chips (6025 Tournament chips) 
+Seat 6: kaymae (8463 Tournament chips) 
+Seat 7: swood12033 (15875 Tournament chips) 
+Seat 8: High-Elk RSS (7863 Tournament chips) 
+The button is at seat 0
+doctorDoBee45 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+The button is moved to seat 2.
+pjrnemtp posts the small blind [200 Tournament chips]
+Patcheye posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 17425 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 21899 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3275 Tournament chips.
+Patcheye, at seat 4, is in this hand with 250 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5975 Tournament chips.
+kaymae, at seat 6, is in this hand with 8413 Tournament chips.
+swood12033, at seat 7, is in this hand with 15825 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7813 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+Dealt to QwertySpark [ 8d 8s ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Husker Chips folds [400 Tournament chips]
+kaymae folds [400 Tournament chips]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS folds [400 Tournament chips]
+QwertySpark raises [1600 Tournament chips]
+doctorDoBee45 calls [1600 Tournament chips]
+pjrnemtp folds [1400 Tournament chips]
+Patcheye folds [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 6s ] board:[ 8c 6s]
+** Dealing Flop ** [ Jh ] board:[ 8c 6s Jh]
+QwertySpark checks
+doctorDoBee45 bets for 1200 Tournament chips
+QwertySpark calls [1200 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8h ] board:[ 8c 6s Jh 8h]
+QwertySpark checks
+doctorDoBee45 bets for 1200 Tournament chips
+QwertySpark calls [1200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 8c 6s Jh 8h Ad]
+QwertySpark bets for 3200 Tournament chips
+doctorDoBee45 folds [3200 Tournament chips]
+QwertySpark is returned 3200 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (8d 8s 8c 8h Ad: four eights)
+QwertySpark wins main pot 9000 Tournament chips.
+Seat 0: QwertySpark (22425 Tournament chips) 
+Seat 2: doctorDoBee45 (17899 Tournament chips) 
+Seat 3: pjrnemtp (3275 Tournament chips) 
+Seat 4: Patcheye (250 Tournament chips) 
+Seat 5: Husker Chips (5975 Tournament chips) 
+Seat 6: kaymae (8413 Tournament chips) 
+Seat 7: swood12033 (15825 Tournament chips) 
+Seat 8: High-Elk RSS (7813 Tournament chips) 
+Game #23972777-41 ends
+Game #23972777-42 starts
+Seat 0: QwertySpark (22425 Tournament chips) 
+Seat 2: doctorDoBee45 (17899 Tournament chips) 
+Seat 3: pjrnemtp (3275 Tournament chips) 
+Seat 4: Patcheye (250 Tournament chips) 
+Seat 5: Husker Chips (5975 Tournament chips) 
+Seat 6: kaymae (8413 Tournament chips) 
+Seat 7: swood12033 (15825 Tournament chips) 
+Seat 8: High-Elk RSS (7813 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+The button is moved to seat 3.
+Patcheye posts the small blind [200 Tournament chips], goes all-in
+Husker Chips posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 22375 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 17849 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 3225 Tournament chips.
+Patcheye, at seat 4, is in this hand with 0 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5525 Tournament chips.
+kaymae, at seat 6, is in this hand with 8363 Tournament chips.
+swood12033, at seat 7, is in this hand with 15775 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7763 Tournament chips.
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ Qd Kc ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+kaymae folds [400 Tournament chips]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS folds [400 Tournament chips]
+QwertySpark raises [1600 Tournament chips]
+doctorDoBee45 folds [1600 Tournament chips]
+pjrnemtp calls [1600 Tournament chips]
+Husker Chips folds [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 3h ] board:[ 9h 3h]
+** Dealing Flop ** [ 8d ] board:[ 9h 3h 8d]
+QwertySpark checks
+pjrnemtp checks
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 9h 3h 8d Td]
+QwertySpark bets for 1600 Tournament chips
+pjrnemtp calls [1600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 9h 3h 8d Td 7c]
+QwertySpark checks
+pjrnemtp checks
+Round 4 is over.
+QwertySpark shows [ Qd Kc ] king high
+Hand evaluation for QwertySpark (Qd Kc 9h 8d Td: king high)
+pjrnemtp shows [ 7h 7d ] three sevens
+Hand evaluation for pjrnemtp (7h 7d 9h Td 7c: three sevens)
+Patcheye shows [ Js 2c ] straight, jack high
+Hand evaluation for Patcheye (Js 9h 8d Td 7c: straight, jack high)
+Patcheye wins main pot 1200 Tournament chips with straight, jack high.
+pjrnemtp wins side pot #1 6200 Tournament chips with three sevens, ten/nine kickers.
+Seat 0: QwertySpark (19175 Tournament chips) 
+Seat 2: doctorDoBee45 (17849 Tournament chips) 
+Seat 3: pjrnemtp (6225 Tournament chips) 
+Seat 4: Patcheye (1200 Tournament chips) 
+Seat 5: Husker Chips (5525 Tournament chips) 
+Seat 6: kaymae (8363 Tournament chips) 
+Seat 7: swood12033 (15775 Tournament chips) 
+Seat 8: High-Elk RSS (7763 Tournament chips) 
+Game #23972777-42 ends
+Game #23972777-43 starts
+Seat 0: QwertySpark (19175 Tournament chips) 
+Seat 2: doctorDoBee45 (17849 Tournament chips) 
+Seat 3: pjrnemtp (6225 Tournament chips) 
+Seat 4: Patcheye (1200 Tournament chips) 
+Seat 5: Husker Chips (5525 Tournament chips) 
+Seat 6: kaymae (8363 Tournament chips) 
+Seat 7: swood12033 (15775 Tournament chips) 
+Seat 8: High-Elk RSS (7763 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+The button is moved to seat 4.
+Husker Chips posts the small blind [200 Tournament chips]
+kaymae posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 19125 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 17799 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 6175 Tournament chips.
+Patcheye, at seat 4, is in this hand with 1150 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5275 Tournament chips.
+kaymae, at seat 6, is in this hand with 7913 Tournament chips.
+swood12033, at seat 7, is in this hand with 15725 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 7713 Tournament chips.
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ 5c Ks ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+swood12033 folds [400 Tournament chips]
+High-Elk RSS raises [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+doctorDoBee45 folds [800 Tournament chips]
+pjrnemtp folds [800 Tournament chips]
+Patcheye folds [800 Tournament chips]
+Husker Chips folds [600 Tournament chips]
+kaymae calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 5d ] board:[ 2h 5d]
+** Dealing Flop ** [ 8s ] board:[ 2h 5d 8s]
+kaymae checks
+High-Elk RSS checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 2h 5d 8s 2c]
+kaymae bets for 400 Tournament chips
+High-Elk RSS calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ 2h 5d 8s 2c 4d]
+kaymae bets for 1500 Tournament chips
+High-Elk RSS folds [1500 Tournament chips]
+kaymae is returned 1500 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for kaymae (9h Tc 2h 8s 2c: a pair of deuces)
+kaymae wins main pot 3000 Tournament chips.
+Seat 0: QwertySpark (19125 Tournament chips) 
+Seat 2: doctorDoBee45 (17799 Tournament chips) 
+Seat 3: pjrnemtp (6175 Tournament chips) 
+Seat 4: Patcheye (1150 Tournament chips) 
+Seat 5: Husker Chips (5275 Tournament chips) 
+Seat 6: kaymae (10113 Tournament chips) 
+Seat 7: swood12033 (15725 Tournament chips) 
+Seat 8: High-Elk RSS (6513 Tournament chips) 
+Game #23972777-43 ends
+Game #23972777-44 starts
+Seat 0: QwertySpark (19125 Tournament chips) 
+Seat 2: doctorDoBee45 (17799 Tournament chips) 
+Seat 3: pjrnemtp (6175 Tournament chips) 
+Seat 4: Patcheye (1150 Tournament chips) 
+Seat 5: Husker Chips (5275 Tournament chips) 
+Seat 6: kaymae (10113 Tournament chips) 
+Seat 7: swood12033 (15725 Tournament chips) 
+Seat 8: High-Elk RSS (6513 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 50 Tournament chips
+doctorDoBee45 posted ante of 50 Tournament chips
+pjrnemtp posted ante of 50 Tournament chips
+Patcheye posted ante of 50 Tournament chips
+Husker Chips posted ante of 50 Tournament chips
+kaymae posted ante of 50 Tournament chips
+swood12033 posted ante of 50 Tournament chips
+High-Elk RSS posted ante of 50 Tournament chips
+The button is moved to seat 5.
+kaymae posts the small blind [200 Tournament chips]
+swood12033 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 19075 Tournament chips.
+doctorDoBee45, at seat 2, is in this hand with 17749 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 6125 Tournament chips.
+Patcheye, at seat 4, is in this hand with 1100 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5225 Tournament chips.
+kaymae, at seat 6, is in this hand with 9863 Tournament chips.
+swood12033, at seat 7, is in this hand with 15275 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 6463 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+doctorDoBee45 is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+Dealt to QwertySpark [ Jc Jd ]
+Dealt to doctorDoBee45 [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+High-Elk RSS calls [400 Tournament chips]
+QwertySpark raises [3200 Tournament chips]
+doctorDoBee45 calls [3200 Tournament chips]
+pjrnemtp folds [3200 Tournament chips]
+Patcheye folds [1100 Tournament chips]
+Husker Chips folds [3200 Tournament chips]
+kaymae folds [3000 Tournament chips]
+swood12033 folds [2800 Tournament chips]
+High-Elk RSS folds [2800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 4h ] board:[ Td 4h]
+** Dealing Flop ** [ 2d ] board:[ Td 4h 2d]
+QwertySpark goes all-in for 15875 Tournament chips
+doctorDoBee45 calls all-in [14549 Tournament chips]
+QwertySpark is returned 1326 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jc Jd ]
+doctorDoBee45 shows [ 5h 5s ]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ Td 4h 2d Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6s ] board:[ Td 4h 2d Qc 6s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jc Jd ] a pair of jacks, queen/ten kickers
+doctorDoBee45 shows [ 5h 5s ] a pair of fives, queen/ten kickers
+QwertySpark wins main pot 36898 Tournament chips with a pair of jacks, queen/ten kickers.
+Seat 0: QwertySpark (38224 Tournament chips) 
+Seat 2: doctorDoBee45 (0 Tournament chips) 
+Seat 3: pjrnemtp (6125 Tournament chips) 
+Seat 4: Patcheye (1100 Tournament chips) 
+Seat 5: Husker Chips (5225 Tournament chips) 
+Seat 6: kaymae (9863 Tournament chips) 
+Seat 7: swood12033 (15275 Tournament chips) 
+Seat 8: High-Elk RSS (6063 Tournament chips) 
+Game #23972777-44 ends
+Player doctorDoBee45 leaves the table with 0 Tournament chips
+Game #23972777-45 starts
+Seat 0: QwertySpark (38224 Tournament chips) 
+Seat 3: pjrnemtp (6125 Tournament chips) 
+Seat 4: Patcheye (1100 Tournament chips) 
+Seat 5: Husker Chips (5225 Tournament chips) 
+Seat 6: kaymae (9863 Tournament chips) 
+Seat 7: swood12033 (15275 Tournament chips) 
+Seat 8: High-Elk RSS (6063 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+High-Elk RSS posted ante of 75 Tournament chips
+The button is moved to seat 6.
+swood12033 posts the small blind [300 Tournament chips]
+High-Elk RSS posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 38149 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 6050 Tournament chips.
+Patcheye, at seat 4, is in this hand with 1025 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5150 Tournament chips.
+kaymae, at seat 6, is in this hand with 9788 Tournament chips.
+swood12033, at seat 7, is in this hand with 14900 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 5388 Tournament chips.
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 2h 9h ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+QwertySpark folds [600 Tournament chips]
+pjrnemtp folds [600 Tournament chips]
+Patcheye raises all-in [1025 Tournament chips]
+Husker Chips folds [1025 Tournament chips]
+kaymae folds [1025 Tournament chips]
+swood12033 calls [725 Tournament chips]
+High-Elk RSS re-raises [600 Tournament chips]
+swood12033 calls [175 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 8c ] board:[ Jd 8c]
+** Dealing Flop ** [ 4c ] board:[ Jd 8c 4c]
+swood12033 checks
+High-Elk RSS bets for 1800 Tournament chips
+swood12033 folds [1800 Tournament chips]
+High-Elk RSS is returned 1800 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Patcheye shows [ 8h Kh ]
+High-Elk RSS shows [ Kc Js ]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Jd 8c 4c 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ Jd 8c 4c 8s 4s]
+        (no action in this round)
+Round 4 is over.
+Patcheye shows [ 8h Kh ] full house, eights full of fours
+High-Elk RSS shows [ Kc Js ] two pair, jacks and eights, king kicker
+Patcheye wins main pot 3600 Tournament chips with full house, eights full of fours.
+High-Elk RSS wins side pot #1 350 Tournament chips with two pair, jacks and eights, king kicker.
+Seat 0: QwertySpark (38149 Tournament chips) 
+Seat 3: pjrnemtp (6050 Tournament chips) 
+Seat 4: Patcheye (3600 Tournament chips) 
+Seat 5: Husker Chips (5150 Tournament chips) 
+Seat 6: kaymae (9788 Tournament chips) 
+Seat 7: swood12033 (14000 Tournament chips) 
+Seat 8: High-Elk RSS (5138 Tournament chips) 
+Game #23972777-45 ends
+Game #23972777-46 starts
+Seat 0: QwertySpark (38149 Tournament chips) 
+Seat 3: pjrnemtp (6050 Tournament chips) 
+Seat 4: Patcheye (3600 Tournament chips) 
+Seat 5: Husker Chips (5150 Tournament chips) 
+Seat 6: kaymae (9788 Tournament chips) 
+Seat 7: swood12033 (14000 Tournament chips) 
+Seat 8: High-Elk RSS (5138 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+High-Elk RSS posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+The button is moved to seat 7.
+High-Elk RSS posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 37474 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 5975 Tournament chips.
+Patcheye, at seat 4, is in this hand with 3525 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5075 Tournament chips.
+kaymae, at seat 6, is in this hand with 9713 Tournament chips.
+swood12033, at seat 7, is in this hand with 13925 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 4763 Tournament chips.
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+Dealt to QwertySpark [ 6s 8c ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+pjrnemtp folds [600 Tournament chips]
+Patcheye folds [600 Tournament chips]
+Husker Chips folds [600 Tournament chips]
+kaymae folds [600 Tournament chips]
+swood12033 folds [600 Tournament chips]
+High-Elk RSS folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (6s 8c: eight high)
+QwertySpark wins main pot 1125 Tournament chips.
+Seat 0: QwertySpark (38899 Tournament chips) 
+Seat 3: pjrnemtp (5975 Tournament chips) 
+Seat 4: Patcheye (3525 Tournament chips) 
+Seat 5: Husker Chips (5075 Tournament chips) 
+Seat 6: kaymae (9713 Tournament chips) 
+Seat 7: swood12033 (13925 Tournament chips) 
+Seat 8: High-Elk RSS (4763 Tournament chips) 
+Game #23972777-46 ends
+Game #23972777-47 starts
+Seat 0: QwertySpark (38899 Tournament chips) 
+Seat 3: pjrnemtp (5975 Tournament chips) 
+Seat 4: Patcheye (3525 Tournament chips) 
+Seat 5: Husker Chips (5075 Tournament chips) 
+Seat 6: kaymae (9713 Tournament chips) 
+Seat 7: swood12033 (13925 Tournament chips) 
+Seat 8: High-Elk RSS (4763 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+High-Elk RSS posted ante of 75 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [300 Tournament chips]
+pjrnemtp posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 38524 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 5300 Tournament chips.
+Patcheye, at seat 4, is in this hand with 3450 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 5000 Tournament chips.
+kaymae, at seat 6, is in this hand (absent) with 9638 Tournament chips.
+swood12033, at seat 7, is in this hand with 13850 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 4688 Tournament chips.
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+Dealt to QwertySpark [ Th 6d ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Patcheye raises all-in [3450 Tournament chips]
+Husker Chips folds [3450 Tournament chips]
+kaymae folds [3450 Tournament chips]
+swood12033 folds [3450 Tournament chips]
+High-Elk RSS raises all-in [4688 Tournament chips]
+QwertySpark folds [4388 Tournament chips]
+pjrnemtp folds [4088 Tournament chips]
+High-Elk RSS is returned 1238 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Patcheye shows [ Qh Ac ]
+High-Elk RSS shows [ Ks Jh ]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 3c ] board:[ 9d 3c]
+** Dealing Flop ** [ Qd ] board:[ 9d 3c Qd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 9d 3c Qd 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 9d 3c Qd 6h 5d]
+        (no action in this round)
+Round 4 is over.
+Patcheye shows [ Qh Ac ] a pair of queens, ace/nine kickers
+High-Elk RSS shows [ Ks Jh ] king/queen/jack high
+Patcheye wins main pot 8325 Tournament chips with a pair of queens, ace/nine kickers.
+Seat 0: QwertySpark (38524 Tournament chips) 
+Seat 3: pjrnemtp (5300 Tournament chips) 
+Seat 4: Patcheye (8325 Tournament chips) 
+Seat 5: Husker Chips (5000 Tournament chips) 
+Seat 6: kaymae (9638 Tournament chips) 
+Seat 7: swood12033 (13850 Tournament chips) 
+Seat 8: High-Elk RSS (1238 Tournament chips) 
+Game #23972777-47 ends
+Game #23972777-48 starts
+Seat 0: QwertySpark (38524 Tournament chips) 
+Seat 3: pjrnemtp (5300 Tournament chips) 
+Seat 4: Patcheye (8325 Tournament chips) 
+Seat 5: Husker Chips (5000 Tournament chips) 
+Seat 6: kaymae (9638 Tournament chips) 
+Seat 7: swood12033 (13850 Tournament chips) 
+Seat 8: High-Elk RSS (1238 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+High-Elk RSS posted ante of 75 Tournament chips
+The button is moved to seat 0.
+pjrnemtp posts the small blind [300 Tournament chips]
+Patcheye posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 38449 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4925 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7650 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 4925 Tournament chips.
+kaymae, at seat 6, is in this hand with 9563 Tournament chips.
+swood12033, at seat 7, is in this hand with 13775 Tournament chips.
+High-Elk RSS, at seat 8, is in this hand with 1163 Tournament chips.
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+High-Elk RSS is dealt: **
+
+Dealt to QwertySpark [ Qd 7d ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+Dealt to High-Elk RSS [ **** ]
+Husker Chips folds [600 Tournament chips]
+kaymae folds [600 Tournament chips]
+swood12033 raises [1200 Tournament chips]
+High-Elk RSS calls all-in [1163 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+pjrnemtp folds [900 Tournament chips]
+Patcheye folds [600 Tournament chips]
+swood12033 is returned 37 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+swood12033 shows [ Td Kd ]
+High-Elk RSS shows [ Ad 5s ]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 8c ] board:[ Jc 8c]
+** Dealing Flop ** [ 2d ] board:[ Jc 8c 2d]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ Jc 8c 2d 2h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ Jc 8c 2d 2h Ts]
+        (no action in this round)
+Round 4 is over.
+swood12033 shows [ Td Kd ] two pair, tens and deuces, king kicker
+High-Elk RSS shows [ Ad 5s ] a pair of deuces, ace/jack kickers
+swood12033 wins main pot 3751 Tournament chips with two pair, tens and deuces, king kicker.
+Seat 0: QwertySpark (38449 Tournament chips) 
+Seat 3: pjrnemtp (4925 Tournament chips) 
+Seat 4: Patcheye (7650 Tournament chips) 
+Seat 5: Husker Chips (4925 Tournament chips) 
+Seat 6: kaymae (9563 Tournament chips) 
+Seat 7: swood12033 (16363 Tournament chips) 
+Seat 8: High-Elk RSS (0 Tournament chips) 
+Game #23972777-48 ends
+Player High-Elk RSS leaves the table with 0 Tournament chips
+Game #23972777-49 starts
+Seat 0: QwertySpark (38449 Tournament chips) 
+Seat 3: pjrnemtp (4925 Tournament chips) 
+Seat 4: Patcheye (7650 Tournament chips) 
+Seat 5: Husker Chips (4925 Tournament chips) 
+Seat 6: kaymae (9563 Tournament chips) 
+Seat 7: swood12033 (16363 Tournament chips) 
+The button is at seat 0
+QwertySpark posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+The button is moved to seat 3.
+Patcheye posts the small blind [300 Tournament chips]
+Husker Chips posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 38374 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4850 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7275 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 4250 Tournament chips.
+kaymae, at seat 6, is in this hand with 9488 Tournament chips.
+swood12033, at seat 7, is in this hand with 16288 Tournament chips.
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+pjrnemtp is dealt: **
+Dealt to QwertySpark [ Ah Kh ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+kaymae folds [600 Tournament chips]
+swood12033 folds [600 Tournament chips]
+QwertySpark raises [2400 Tournament chips]
+pjrnemtp folds [2400 Tournament chips]
+Patcheye folds [2100 Tournament chips]
+Husker Chips folds [1800 Tournament chips]
+QwertySpark is returned 1800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ah Kh: ace high)
+QwertySpark wins main pot 1950 Tournament chips.
+(Patcheye has entered the table, is no longer absent.)
+Seat 0: QwertySpark (39724 Tournament chips) 
+Seat 1: 3-5 Off-Suit (24567 Tournament chips) 
+Seat 3: pjrnemtp (4850 Tournament chips) 
+Seat 4: Patcheye (7275 Tournament chips) 
+Seat 5: Husker Chips (4250 Tournament chips) 
+Seat 6: kaymae (9488 Tournament chips) 
+Seat 7: swood12033 (16288 Tournament chips) 
+Game #23972777-49 ends
+Game #23972777-50 starts
+Seat 0: QwertySpark (39724 Tournament chips) 
+Seat 1: 3-5 Off-Suit (24567 Tournament chips) 
+Seat 3: pjrnemtp (4850 Tournament chips) 
+Seat 4: Patcheye (7275 Tournament chips) 
+Seat 5: Husker Chips (4250 Tournament chips) 
+Seat 6: kaymae (9488 Tournament chips) 
+Seat 7: swood12033 (16288 Tournament chips) 
+The button is at seat 3
+QwertySpark posted ante of 75 Tournament chips
+3-5 Off-Suit posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Patcheye posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+The button is moved to seat 4.
+Husker Chips posts the small blind [300 Tournament chips]
+kaymae posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 39649 Tournament chips.
+3-5 Off-Suit, at seat 1, is in this hand with 24492 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4775 Tournament chips.
+Patcheye, at seat 4, is in this hand with 7200 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 3875 Tournament chips.
+kaymae, at seat 6, is in this hand with 8813 Tournament chips.
+swood12033, at seat 7, is in this hand with 16213 Tournament chips.
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+Patcheye is dealt: **
+Dealt to QwertySpark [ 4s 9d ]
+Dealt to 3-5 Off-Suit [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Patcheye [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+swood12033 raises [1800 Tournament chips]
+QwertySpark folds [1800 Tournament chips]
+3-5 Off-Suit calls [1800 Tournament chips]
+pjrnemtp folds [1800 Tournament chips]
+Patcheye raises all-in [7200 Tournament chips]
+Husker Chips folds [3875 Tournament chips]
+kaymae folds [6600 Tournament chips]
+swood12033 calls [5400 Tournament chips]
+3-5 Off-Suit folds [5400 Tournament chips]
+Tournament all-in showdown -- players show:
+Patcheye shows [ 7s 7c ]
+swood12033 shows [ Kh Ah ]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Td ] board:[ 2c Td]
+** Dealing Flop ** [ 9s ] board:[ 2c Td 9s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 2c Td 9s Jd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 2c Td 9s Jd Kd]
+        (no action in this round)
+Round 4 is over.
+Patcheye shows [ 7s 7c ] a pair of sevens, king/jack kickers
+swood12033 shows [ Kh Ah ] a pair of kings, ace/jack kickers
+swood12033 wins main pot 17625 Tournament chips with a pair of kings, ace/jack kickers.
+Seat 0: QwertySpark (39649 Tournament chips) 
+Seat 1: 3-5 Off-Suit (22692 Tournament chips) 
+Seat 3: pjrnemtp (4775 Tournament chips) 
+Seat 4: Patcheye (0 Tournament chips) 
+Seat 5: Husker Chips (3875 Tournament chips) 
+Seat 6: kaymae (8813 Tournament chips) 
+Seat 7: swood12033 (26638 Tournament chips) 
+Game #23972777-50 ends
+Player Patcheye leaves the table with 0 Tournament chips
+Game #23972777-51 starts
+Seat 0: QwertySpark (39649 Tournament chips) 
+Seat 1: 3-5 Off-Suit (22692 Tournament chips) 
+Seat 3: pjrnemtp (4775 Tournament chips) 
+Seat 5: Husker Chips (3875 Tournament chips) 
+Seat 6: kaymae (8813 Tournament chips) 
+Seat 7: swood12033 (26638 Tournament chips) 
+The button is at seat 4
+3-5 Off-Suit posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+The button is moved to seat 5.
+kaymae posts the small blind [300 Tournament chips]
+swood12033 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 39574 Tournament chips.
+3-5 Off-Suit, at seat 1, is in this hand with 22617 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 4700 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 3800 Tournament chips.
+kaymae, at seat 6, is in this hand with 8438 Tournament chips.
+swood12033, at seat 7, is in this hand with 25963 Tournament chips.
+kaymae is dealt: **
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+Husker Chips is dealt: **
+Dealt to QwertySpark [ Ts 4d ]
+Dealt to 3-5 Off-Suit [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+QwertySpark folds [600 Tournament chips]
+3-5 Off-Suit folds [600 Tournament chips]
+pjrnemtp calls [600 Tournament chips]
+Husker Chips folds [600 Tournament chips]
+kaymae calls [300 Tournament chips]
+swood12033 checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 2c ] board:[ 8s 2c]
+** Dealing Flop ** [ Ah ] board:[ 8s 2c Ah]
+kaymae checks
+swood12033 checks
+pjrnemtp checks
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 8s 2c Ah 5d]
+kaymae checks
+swood12033 bets for 1200 Tournament chips
+pjrnemtp raises all-in [4100 Tournament chips]
+kaymae folds [4100 Tournament chips]
+swood12033 calls [2900 Tournament chips]
+Tournament all-in showdown -- players show:
+pjrnemtp shows [ 8c Ad ]
+swood12033 shows [ Th 5s ]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 8s 2c Ah 5d 3h]
+        (no action in this round)
+Round 4 is over.
+pjrnemtp shows [ 8c Ad ] two pair, aces and eights, five kicker
+swood12033 shows [ Th 5s ] a pair of fives, ace/ten kickers
+pjrnemtp wins main pot 10450 Tournament chips with two pair, aces and eights, five kicker.
+Seat 0: QwertySpark (39574 Tournament chips) 
+Seat 1: 3-5 Off-Suit (22617 Tournament chips) 
+Seat 3: pjrnemtp (10450 Tournament chips) 
+Seat 4: need some luck (15374 Tournament chips) 
+Seat 5: Husker Chips (3800 Tournament chips) 
+Seat 6: kaymae (8138 Tournament chips) 
+Seat 7: swood12033 (21863 Tournament chips) 
+Game #23972777-51 ends
+Game #23972777-52 starts
+Seat 0: QwertySpark (39574 Tournament chips) 
+Seat 1: 3-5 Off-Suit (22617 Tournament chips) 
+Seat 3: pjrnemtp (10450 Tournament chips) 
+Seat 4: need some luck (15374 Tournament chips) 
+Seat 5: Husker Chips (3800 Tournament chips) 
+Seat 6: kaymae (8138 Tournament chips) 
+Seat 7: swood12033 (21863 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 75 Tournament chips
+3-5 Off-Suit posted ante of 75 Tournament chips
+pjrnemtp posted ante of 75 Tournament chips
+need some luck posted ante of 75 Tournament chips
+Husker Chips posted ante of 75 Tournament chips
+kaymae posted ante of 75 Tournament chips
+swood12033 posted ante of 75 Tournament chips
+The button is moved to seat 6.
+swood12033 posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 38899 Tournament chips.
+3-5 Off-Suit, at seat 1, is in this hand with 22542 Tournament chips.
+pjrnemtp, at seat 3, is in this hand with 10375 Tournament chips.
+need some luck, at seat 4, is in this hand with 15299 Tournament chips.
+Husker Chips, at seat 5, is in this hand (absent) with 3725 Tournament chips.
+kaymae, at seat 6, is in this hand with 8063 Tournament chips.
+swood12033, at seat 7, is in this hand with 21488 Tournament chips.
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+need some luck is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+swood12033 is dealt: **
+
+3-5 Off-Suit is dealt: **
+pjrnemtp is dealt: **
+need some luck is dealt: **
+Husker Chips is dealt: **
+kaymae is dealt: **
+Dealt to QwertySpark [ 7s Jd ]
+Dealt to 3-5 Off-Suit [ **** ]
+Dealt to pjrnemtp [ **** ]
+Dealt to need some luck [ **** ]
+Dealt to Husker Chips [ **** ]
+Dealt to kaymae [ **** ]
+Dealt to swood12033 [ **** ]
+3-5 Off-Suit raises [1800 Tournament chips]
+pjrnemtp folds [1800 Tournament chips]
+need some luck calls [1800 Tournament chips]
+Husker Chips folds [1800 Tournament chips]
+kaymae calls [1800 Tournament chips]
+swood12033 folds [1500 Tournament chips]
+QwertySpark calls [1200 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Jc ] board:[ 7d Jc]
+** Dealing Flop ** [ 9c ] board:[ 7d Jc 9c]
+QwertySpark bets for 8025 Tournament chips
+3-5 Off-Suit raises [16050 Tournament chips]
+need some luck calls all-in [13499 Tournament chips]
+kaymae folds [6263 Tournament chips]
+QwertySpark re-raises [16650 Tournament chips]
+3-5 Off-Suit calls all-in [4692 Tournament chips]
+QwertySpark is returned 3933 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7s Jd ]
+3-5 Off-Suit shows [ Kd Jh ]
+need some luck shows [ Ah Js ]
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 7d Jc 9c 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 7d Jc 9c 2c 6c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7s Jd ] two pair, jacks and sevens, nine kicker
+3-5 Off-Suit shows [ Kd Jh ] a pair of jacks, king/nine kickers
+need some luck shows [ Ah Js ] a pair of jacks, ace/nine kickers
+QwertySpark wins main pot 48522 Tournament chips with two pair, jacks and sevens, nine kicker.
+QwertySpark wins side pot #1 14486 Tournament chips with two pair, jacks and sevens, nine kicker.
+Seat 0: QwertySpark (79965 Tournament chips) 
+Seat 1: 3-5 Off-Suit (0 Tournament chips) 
+Seat 3: pjrnemtp (10375 Tournament chips) 
+Seat 4: need some luck (0 Tournament chips) 
+Seat 5: Husker Chips (3725 Tournament chips) 
+Seat 6: kaymae (6263 Tournament chips) 
+Seat 7: swood12033 (21488 Tournament chips) 
+Game #23972777-52 ends
+Player need some luck leaves the table with 0 Tournament chips
+Player 3-5 Off-Suit leaves the table with 0 Tournament chips
+Player Husker Chips leaves the table with 3725 Tournament chips
+Player QwertySpark leaves the table with 79965 Tournament chips
+Player swood12033 leaves the table with 21488 Tournament chips
+Player pjrnemtp leaves the table with 10375 Tournament chips
+Player kaymae leaves the table with 6263 Tournament chips

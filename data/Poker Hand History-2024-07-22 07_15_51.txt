@@ -1,0 +1,699 @@
+Game#: 23980076
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Jc Tc 4h 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Jc Tc 4h 2c Js]
+        (no action in this round)
+Round 4 is over.
+lowroller65 shows [ 5d 7d ] a pair of jacks, ten/seven kickers
+MurdochXIV shows [ 9h Th ] two pair, jacks and tens, nine kicker
+MurdochXIV wins main pot 480 Tournament chips with two pair, jacks and tens, nine kicker.
+Seat 0: Kbarnettxo (1085 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 2: lowroller65 (0 Tournament chips) 
+Seat 3: James215 (765 Tournament chips) 
+Seat 4: JRB21 (14274 Tournament chips) 
+Seat 5: 4realestate2 (4245 Tournament chips) 
+Seat 6: Burchell (1659 Tournament chips) 
+Seat 8: MurdochXIV (13725 Tournament chips) 
+Game #23980076-23 ends
+Player lowroller65 leaves the table with 0 Tournament chips
+Game #23980076-24 starts
+Seat 0: Kbarnettxo (1085 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 3: James215 (765 Tournament chips) 
+Seat 4: JRB21 (14274 Tournament chips) 
+Seat 5: 4realestate2 (4245 Tournament chips) 
+Seat 6: Burchell (1659 Tournament chips) 
+Seat 8: MurdochXIV (13725 Tournament chips) 
+The button is at seat 0
+James215 posted ante of 75 Tournament chips
+Kbarnettxo posted ante of 75 Tournament chips
+4realestate2 posted ante of 75 Tournament chips
+JRB21 posted ante of 75 Tournament chips
+Burchell posted ante of 75 Tournament chips
+MurdochXIV posted ante of 75 Tournament chips
+James215 posts the big blind [600 Tournament chips]
+Kbarnettxo, at seat 0, is in this hand (absent) with 1010 Tournament chips.
+James215, at seat 3, is in this hand (absent) with 90 Tournament chips.
+JRB21, at seat 4, is in this hand with 14199 Tournament chips.
+4realestate2, at seat 5, is in this hand with 4170 Tournament chips.
+Burchell, at seat 6, is in this hand with 1584 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 13650 Tournament chips.
+James215 is dealt: **
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+James215 is dealt: **
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to James215 [ **** ]
+Dealt to JRB21 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+JRB21 folds [600 Tournament chips]
+4realestate2 folds [600 Tournament chips]
+Burchell folds [600 Tournament chips]
+MurdochXIV folds [600 Tournament chips]
+Kbarnettxo folds [600 Tournament chips]
+James215 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for James215 (Kh 4h: king high)
+James215 shows [ Kh 4h ] king high
+Hand evaluation for James215 (Kh 4h: king high)
+James215 wins main pot 450 Tournament chips.
+Seat 0: Kbarnettxo (1010 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 3: James215 (1140 Tournament chips) 
+Seat 4: JRB21 (14199 Tournament chips) 
+Seat 5: 4realestate2 (4170 Tournament chips) 
+Seat 6: Burchell (1584 Tournament chips) 
+Seat 8: MurdochXIV (13650 Tournament chips) 
+Game #23980076-24 ends
+Game #23980076-25 starts
+Seat 0: Kbarnettxo (1010 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 3: James215 (1140 Tournament chips) 
+Seat 4: JRB21 (14199 Tournament chips) 
+Seat 5: 4realestate2 (4170 Tournament chips) 
+Seat 6: Burchell (1584 Tournament chips) 
+Seat 8: MurdochXIV (13650 Tournament chips) 
+The button is at seat 0
+Kbarnettxo posted ante of 75 Tournament chips
+James215 posted ante of 75 Tournament chips
+JRB21 posted ante of 75 Tournament chips
+4realestate2 posted ante of 75 Tournament chips
+Burchell posted ante of 75 Tournament chips
+MurdochXIV posted ante of 75 Tournament chips
+James215 posts the small blind [300 Tournament chips]
+JRB21 posts the big blind [600 Tournament chips]
+Kbarnettxo, at seat 0, is in this hand (absent) with 935 Tournament chips.
+James215, at seat 3, is in this hand (absent) with 765 Tournament chips.
+JRB21, at seat 4, is in this hand with 13524 Tournament chips.
+4realestate2, at seat 5, is in this hand with 4095 Tournament chips.
+Burchell, at seat 6, is in this hand with 1509 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 13575 Tournament chips.
+James215 is dealt: **
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+James215 is dealt: **
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to James215 [ **** ]
+Dealt to JRB21 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+4realestate2 folds [600 Tournament chips]
+Burchell folds [600 Tournament chips]
+MurdochXIV calls [600 Tournament chips]
+Kbarnettxo folds [600 Tournament chips]
+James215 folds [300 Tournament chips]
+JRB21 checks
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ 4h ] board:[ Ac 4h]
+** Dealing Flop ** [ 6c ] board:[ Ac 4h 6c]
+JRB21 checks
+MurdochXIV bets for 1950 Tournament chips
+JRB21 folds [1950 Tournament chips]
+MurdochXIV is returned 1950 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for MurdochXIV (4d Jd Ac 4h 6c: a pair of fours)
+MurdochXIV wins main pot 1950 Tournament chips.
+Seat 0: Kbarnettxo (935 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 3: James215 (765 Tournament chips) 
+Seat 4: JRB21 (13524 Tournament chips) 
+Seat 5: 4realestate2 (4095 Tournament chips) 
+Seat 6: Burchell (1509 Tournament chips) 
+Seat 8: MurdochXIV (14925 Tournament chips) 
+Game #23980076-25 ends
+(James215 has entered the table, is no longer absent.)
+Game #23980076-26 starts
+Seat 0: Kbarnettxo (935 Tournament chips) 
+Seat 1: QwertySpark (4970 Tournament chips) 
+Seat 3: James215 (765 Tournament chips) 
+Seat 4: JRB21 (13524 Tournament chips) 
+Seat 5: 4realestate2 (4095 Tournament chips) 
+Seat 6: Burchell (1509 Tournament chips) 
+Seat 8: MurdochXIV (14925 Tournament chips) 
+The button is at seat 0
+Kbarnettxo posted ante of 100 Tournament chips
+James215 posted ante of 100 Tournament chips
+JRB21 posted ante of 100 Tournament chips
+QwertySpark posted ante of 100 Tournament chips
+4realestate2 posted ante of 100 Tournament chips
+Burchell posted ante of 100 Tournament chips
+MurdochXIV posted ante of 100 Tournament chips
+The button is moved to seat 3.
+JRB21 posts the small blind [400 Tournament chips]
+4realestate2 posts the big blind [800 Tournament chips]
+Kbarnettxo, at seat 0, is in this hand (absent) with 835 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4870 Tournament chips.
+James215, at seat 3, is in this hand with 665 Tournament chips.
+JRB21, at seat 4, is in this hand with 13024 Tournament chips.
+4realestate2, at seat 5, is in this hand with 3195 Tournament chips.
+Burchell, at seat 6, is in this hand with 1409 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 14825 Tournament chips.
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+JRB21 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to QwertySpark [ Th 6d ]
+Dealt to James215 [ **** ]
+Dealt to JRB21 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+Burchell folds [800 Tournament chips]
+MurdochXIV calls [800 Tournament chips]
+Kbarnettxo folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+James215 folds [665 Tournament chips]
+JRB21 calls [400 Tournament chips]
+4realestate2 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Ac ] board:[ 5h Ac]
+** Dealing Flop ** [ As ] board:[ 5h Ac As]
+JRB21 checks
+4realestate2 has timed out - the hand is checked
+MurdochXIV checks
+Round 2 is over.
+** Dealing Turn ** [ Ks ] board:[ 5h Ac As Ks]
+JRB21 bets for 800 Tournament chips
+4realestate2 folds [800 Tournament chips]
+MurdochXIV raises [5500 Tournament chips]
+JRB21 calls [4700 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2c ] board:[ 5h Ac As Ks 2c]
+JRB21 goes all-in for 7124 Tournament chips
+MurdochXIV calls [7124 Tournament chips]
+Tournament all-in showdown -- players show:
+JRB21 shows [ Js Qs ]
+MurdochXIV shows [ Kd Tc ]
+Round 4 is over.
+JRB21 shows [ Js Qs ] a pair of aces, king/queen kickers
+MurdochXIV shows [ Kd Tc ] two pair, aces and kings, ten kicker
+MurdochXIV wins main pot 28348 Tournament chips with two pair, aces and kings, ten kicker.
+Seat 0: Kbarnettxo (835 Tournament chips) 
+Seat 1: QwertySpark (4870 Tournament chips) 
+Seat 3: James215 (665 Tournament chips) 
+Seat 4: JRB21 (0 Tournament chips) 
+Seat 5: 4realestate2 (3195 Tournament chips) 
+Seat 6: Burchell (1409 Tournament chips) 
+Seat 8: MurdochXIV (29749 Tournament chips) 
+Game #23980076-26 ends
+Player JRB21 leaves the table with 0 Tournament chips
+Game #23980076-27 starts
+Seat 0: Kbarnettxo (835 Tournament chips) 
+Seat 1: QwertySpark (4870 Tournament chips) 
+Seat 3: James215 (665 Tournament chips) 
+Seat 5: 4realestate2 (3195 Tournament chips) 
+Seat 6: Burchell (1409 Tournament chips) 
+Seat 8: MurdochXIV (29749 Tournament chips) 
+The button is at seat 3
+Kbarnettxo posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+James215 posted ante of 125 Tournament chips
+4realestate2 posted ante of 125 Tournament chips
+Burchell posted ante of 125 Tournament chips
+MurdochXIV posted ante of 125 Tournament chips
+The button is moved to seat 4.
+4realestate2 posts the small blind [600 Tournament chips]
+Burchell posts the big blind [1200 Tournament chips]
+Kbarnettxo, at seat 0, is in this hand (absent) with 710 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4745 Tournament chips.
+James215, at seat 3, is in this hand with 540 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 2470 Tournament chips.
+Burchell, at seat 6, is in this hand with 84 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 29624 Tournament chips.
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to QwertySpark [ 2s Js ]
+Dealt to James215 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+MurdochXIV calls [1200 Tournament chips]
+Kbarnettxo folds [710 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+James215 folds [540 Tournament chips]
+4realestate2 folds [600 Tournament chips]
+Burchell checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 2d ] board:[ Qd 2d]
+** Dealing Flop ** [ 6d ] board:[ Qd 2d 6d]
+Burchell goes all-in for 84 Tournament chips
+MurdochXIV calls [84 Tournament chips]
+Tournament all-in showdown -- players show:
+Burchell shows [ Kc 6s ]
+MurdochXIV shows [ Ts 9s ]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Qd 2d 6d 5s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ Qd 2d 6d 5s Qc]
+        (no action in this round)
+Round 4 is over.
+Burchell shows [ Kc 6s ] two pair, queens and sixes, king kicker
+MurdochXIV shows [ Ts 9s ] a pair of queens, ten/nine kickers
+Burchell wins main pot 3918 Tournament chips with two pair, queens and sixes, king kicker.
+Seat 0: Kbarnettxo (710 Tournament chips) 
+Seat 1: QwertySpark (4745 Tournament chips) 
+Seat 3: James215 (540 Tournament chips) 
+Seat 5: 4realestate2 (2470 Tournament chips) 
+Seat 6: Burchell (3918 Tournament chips) 
+Seat 8: MurdochXIV (28340 Tournament chips) 
+Game #23980076-27 ends
+Game #23980076-28 starts
+Seat 0: Kbarnettxo (710 Tournament chips) 
+Seat 1: QwertySpark (4745 Tournament chips) 
+Seat 3: James215 (540 Tournament chips) 
+Seat 5: 4realestate2 (2470 Tournament chips) 
+Seat 6: Burchell (3918 Tournament chips) 
+Seat 8: MurdochXIV (28340 Tournament chips) 
+The button is at seat 4
+Kbarnettxo posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+James215 posted ante of 125 Tournament chips
+4realestate2 posted ante of 125 Tournament chips
+Burchell posted ante of 125 Tournament chips
+MurdochXIV posted ante of 125 Tournament chips
+The button is moved to seat 5.
+Burchell posts the small blind [600 Tournament chips]
+MurdochXIV posts the big blind [1200 Tournament chips]
+Kbarnettxo, at seat 0, is in this hand (absent) with 585 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4620 Tournament chips.
+James215, at seat 3, is in this hand with 415 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 2345 Tournament chips.
+Burchell, at seat 6, is in this hand with 3193 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 27015 Tournament chips.
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+4realestate2 is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to QwertySpark [ Jh 4d ]
+Dealt to James215 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+Kbarnettxo folds [585 Tournament chips]
+QwertySpark folds [1200 Tournament chips]
+James215 calls all-in [415 Tournament chips]
+4realestate2 folds [1200 Tournament chips]
+Burchell folds [600 Tournament chips]
+MurdochXIV is returned 600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+James215 shows [ Tc 2c ]
+MurdochXIV shows [ 8h 5h ]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ Ks ] board:[ 9s Ks]
+** Dealing Flop ** [ Kd ] board:[ 9s Ks Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 9s Ks Kd 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 9s Ks Kd 4s 6h]
+        (no action in this round)
+Round 4 is over.
+James215 shows [ Tc 2c ] a pair of kings, ten/nine kickers
+MurdochXIV shows [ 8h 5h ] a pair of kings, nine/eight kickers
+James215 wins main pot 1995 Tournament chips with a pair of kings, ten/nine kickers.
+MurdochXIV wins side pot #1 370 Tournament chips with a pair of kings, nine/eight kickers.
+Seat 0: Kbarnettxo (585 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 3: James215 (1995 Tournament chips) 
+Seat 5: 4realestate2 (2345 Tournament chips) 
+Seat 6: Burchell (3193 Tournament chips) 
+Seat 8: MurdochXIV (27985 Tournament chips) 
+Game #23980076-28 ends
+Game #23980076-29 starts
+Seat 0: Kbarnettxo (585 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 3: James215 (1995 Tournament chips) 
+Seat 5: 4realestate2 (2345 Tournament chips) 
+Seat 6: Burchell (3193 Tournament chips) 
+Seat 8: MurdochXIV (27985 Tournament chips) 
+The button is at seat 5
+Kbarnettxo posted ante of 125 Tournament chips
+QwertySpark posted ante of 125 Tournament chips
+James215 posted ante of 125 Tournament chips
+4realestate2 posted ante of 125 Tournament chips
+Burchell posted ante of 125 Tournament chips
+MurdochXIV posted ante of 125 Tournament chips
+The button is moved to seat 6.
+MurdochXIV posts the small blind [600 Tournament chips]
+Kbarnettxo posts the big blind [460 Tournament chips], goes all-in
+Kbarnettxo, at seat 0, is in this hand (absent) with 0 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4495 Tournament chips.
+James215, at seat 3, is in this hand with 1870 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 2220 Tournament chips.
+Burchell, at seat 6, is in this hand with 3068 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 27260 Tournament chips.
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Kbarnettxo is dealt: **
+
+James215 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+Dealt to Kbarnettxo [ **** ]
+Dealt to QwertySpark [ 7h 9d ]
+Dealt to James215 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+QwertySpark folds [1200 Tournament chips]
+James215 folds [1200 Tournament chips]
+4realestate2 folds [1200 Tournament chips]
+Burchell folds [1200 Tournament chips]
+MurdochXIV calls [600 Tournament chips]
+MurdochXIV is returned 740 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Kbarnettxo shows [ 2s 6d ]
+MurdochXIV shows [ 8d Ad ]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ Kc ] board:[ 8s Kc]
+** Dealing Flop ** [ 3s ] board:[ 8s Kc 3s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Kd ] board:[ 8s Kc 3s Kd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 8s Kc 3s Kd 5s]
+        (no action in this round)
+Round 4 is over.
+MurdochXIV shows [ 8d Ad ] two pair, kings and eights, ace kicker
+MurdochXIV wins main pot 1670 Tournament chips with two pair, kings and eights, ace kicker.
+Seat 0: Kbarnettxo (0 Tournament chips) 
+Seat 1: QwertySpark (4495 Tournament chips) 
+Seat 2: LittlebugD (1688 Tournament chips) 
+Seat 3: James215 (1870 Tournament chips) 
+Seat 4: captron2763 (8950 Tournament chips) 
+Seat 5: 4realestate2 (2220 Tournament chips) 
+Seat 6: Burchell (3068 Tournament chips) 
+Seat 8: MurdochXIV (29070 Tournament chips) 
+Game #23980076-29 ends
+Player Kbarnettxo leaves the table with 0 Tournament chips
+Game #23980076-30 starts
+Seat 1: QwertySpark (4495 Tournament chips) 
+Seat 2: LittlebugD (1688 Tournament chips) 
+Seat 3: James215 (1870 Tournament chips) 
+Seat 4: captron2763 (8950 Tournament chips) 
+Seat 5: 4realestate2 (2220 Tournament chips) 
+Seat 6: Burchell (3068 Tournament chips) 
+Seat 8: MurdochXIV (29070 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 125 Tournament chips
+LittlebugD posted ante of 125 Tournament chips
+James215 posted ante of 125 Tournament chips
+captron2763 posted ante of 125 Tournament chips
+4realestate2 posted ante of 125 Tournament chips
+Burchell posted ante of 125 Tournament chips
+MurdochXIV posted ante of 125 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the big blind [1200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3170 Tournament chips.
+LittlebugD, at seat 2, is in this hand with 1563 Tournament chips.
+James215, at seat 3, is in this hand with 1745 Tournament chips.
+captron2763, at seat 4, is in this hand with 8825 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 2095 Tournament chips.
+Burchell, at seat 6, is in this hand with 2943 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 28945 Tournament chips.
+
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Dealt to QwertySpark [ As 9d ]
+Dealt to LittlebugD [ **** ]
+Dealt to James215 [ **** ]
+Dealt to captron2763 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+LittlebugD folds [1200 Tournament chips]
+James215 folds [1200 Tournament chips]
+captron2763 calls [1200 Tournament chips]
+4realestate2 folds [1200 Tournament chips]
+Burchell folds [1200 Tournament chips]
+MurdochXIV calls [1200 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Kc ] board:[ 4s Kc]
+** Dealing Flop ** [ Ks ] board:[ 4s Kc Ks]
+QwertySpark bets for 1200 Tournament chips
+captron2763 folds [1200 Tournament chips]
+MurdochXIV folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (As 9d 4s Kc Ks: a pair of kings)
+QwertySpark wins main pot 4475 Tournament chips.
+Seat 1: QwertySpark (7645 Tournament chips) 
+Seat 2: LittlebugD (1563 Tournament chips) 
+Seat 3: James215 (1745 Tournament chips) 
+Seat 4: captron2763 (7625 Tournament chips) 
+Seat 5: 4realestate2 (2095 Tournament chips) 
+Seat 6: Burchell (2943 Tournament chips) 
+Seat 8: MurdochXIV (27745 Tournament chips) 
+Game #23980076-30 ends
+Game #23980076-31 starts
+Seat 1: QwertySpark (7645 Tournament chips) 
+Seat 2: LittlebugD (1563 Tournament chips) 
+Seat 3: James215 (1745 Tournament chips) 
+Seat 4: captron2763 (7625 Tournament chips) 
+Seat 5: 4realestate2 (2095 Tournament chips) 
+Seat 6: Burchell (2943 Tournament chips) 
+Seat 8: MurdochXIV (27745 Tournament chips) 
+The button is at seat 8
+LittlebugD posted ante of 150 Tournament chips
+James215 posted ante of 150 Tournament chips
+captron2763 posted ante of 150 Tournament chips
+Burchell posted ante of 150 Tournament chips
+MurdochXIV posted ante of 150 Tournament chips
+QwertySpark posted ante of 150 Tournament chips
+4realestate2 posted ante of 150 Tournament chips
+QwertySpark posts the small blind [800 Tournament chips]
+LittlebugD posts the big blind [1413 Tournament chips], goes all-in
+QwertySpark, at seat 1, is in this hand with 6695 Tournament chips.
+LittlebugD, at seat 2, is in this hand with 0 Tournament chips.
+James215, at seat 3, is in this hand with 1595 Tournament chips.
+captron2763, at seat 4, is in this hand with 7475 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 1945 Tournament chips.
+Burchell, at seat 6, is in this hand with 2793 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 27595 Tournament chips.
+
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+Dealt to QwertySpark [ 3s Kh ]
+Dealt to LittlebugD [ **** ]
+Dealt to James215 [ **** ]
+Dealt to captron2763 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+James215 folds [1595 Tournament chips]
+captron2763 calls [1600 Tournament chips]
+4realestate2 folds [1600 Tournament chips]
+Burchell folds [1600 Tournament chips]
+MurdochXIV folds [1600 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 7d ] board:[ Tc 7d]
+** Dealing Flop ** [ 9c ] board:[ Tc 7d 9c]
+QwertySpark bets for 3200 Tournament chips
+captron2763 raises all-in [5875 Tournament chips]
+QwertySpark folds [2675 Tournament chips]
+captron2763 is returned 2675 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+LittlebugD shows [ 8d Js ]
+captron2763 shows [ Td Jd ]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ Tc 7d 9c Ac]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Tc 7d 9c Ac 6c]
+        (no action in this round)
+Round 4 is over.
+LittlebugD shows [ 8d Js ] straight, jack high
+captron2763 shows [ Td Jd ] a pair of tens, ace/jack kickers
+LittlebugD wins main pot 5289 Tournament chips with straight, jack high.
+captron2763 wins side pot #1 6774 Tournament chips with a pair of tens, ace/jack kickers.
+Seat 1: QwertySpark (2695 Tournament chips) 
+Seat 2: LittlebugD (5289 Tournament chips) 
+Seat 3: James215 (1595 Tournament chips) 
+Seat 4: captron2763 (9449 Tournament chips) 
+Seat 5: 4realestate2 (1945 Tournament chips) 
+Seat 6: Burchell (2793 Tournament chips) 
+Seat 8: MurdochXIV (27595 Tournament chips) 
+Game #23980076-31 ends
+Game #23980076-32 starts
+Seat 1: QwertySpark (2695 Tournament chips) 
+Seat 2: LittlebugD (5289 Tournament chips) 
+Seat 3: James215 (1595 Tournament chips) 
+Seat 4: captron2763 (9449 Tournament chips) 
+Seat 5: 4realestate2 (1945 Tournament chips) 
+Seat 6: Burchell (2793 Tournament chips) 
+Seat 8: MurdochXIV (27595 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 150 Tournament chips
+LittlebugD posted ante of 150 Tournament chips
+captron2763 posted ante of 150 Tournament chips
+4realestate2 posted ante of 150 Tournament chips
+Burchell posted ante of 150 Tournament chips
+James215 posted ante of 150 Tournament chips
+MurdochXIV posted ante of 150 Tournament chips
+The button is moved to seat 1.
+LittlebugD posts the small blind [800 Tournament chips]
+James215 posts the big blind [1445 Tournament chips], goes all-in
+QwertySpark, at seat 1, is in this hand with 2545 Tournament chips.
+LittlebugD, at seat 2, is in this hand with 4339 Tournament chips.
+James215, at seat 3, is in this hand (absent) with 0 Tournament chips.
+captron2763, at seat 4, is in this hand with 9299 Tournament chips.
+4realestate2, at seat 5, is in this hand (absent) with 1795 Tournament chips.
+Burchell, at seat 6, is in this hand with 2643 Tournament chips.
+MurdochXIV, at seat 8, is in this hand with 27445 Tournament chips.
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+
+LittlebugD is dealt: **
+James215 is dealt: **
+captron2763 is dealt: **
+4realestate2 is dealt: **
+Burchell is dealt: **
+MurdochXIV is dealt: **
+
+Dealt to QwertySpark [ Ad 8d ]
+Dealt to LittlebugD [ **** ]
+Dealt to James215 [ **** ]
+Dealt to captron2763 [ **** ]
+Dealt to 4realestate2 [ **** ]
+Dealt to Burchell [ **** ]
+Dealt to MurdochXIV [ **** ]
+captron2763 folds [1600 Tournament chips]
+4realestate2 folds [1600 Tournament chips]
+Burchell raises all-in [2643 Tournament chips]
+MurdochXIV folds [2643 Tournament chips]
+QwertySpark calls all-in [2545 Tournament chips]
+LittlebugD calls [1843 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ad 8d ]
+LittlebugD shows [ Tc Ts ]
+James215 shows [ 3d 4d ]
+Burchell shows [ Qs Ks ]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Qh ] board:[ 6h Qh]
+** Dealing Flop ** [ 6c ] board:[ 6h Qh 6c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 6h Qh 6c Jd]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 6h Qh 6c Jd 5s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ad 8d ] a pair of sixes, ace/queen kickers
+LittlebugD shows [ Tc Ts ] two pair, tens and sixes, queen kicker
+Burchell shows [ Qs Ks ] two pair, queens and sixes, king kicker
+Burchell wins main pot 6830 Tournament chips with two pair, queens and sixes, king kicker.
+Burchell wins side pot #1 3300 Tournament chips with two pair, queens and sixes, king kicker.
+Burchell wins side pot #2 196 Tournament chips with two pair, queens and sixes, king kicker.
+Seat 1: QwertySpark (0 Tournament chips) 
+Seat 2: LittlebugD (2496 Tournament chips) 
+Seat 3: James215 (0 Tournament chips) 
+Seat 4: captron2763 (9299 Tournament chips) 
+Seat 5: 4realestate2 (1795 Tournament chips) 
+Seat 6: Burchell (10326 Tournament chips) 
+Seat 8: MurdochXIV (27445 Tournament chips) 
+Game #23980076-32 ends
+Player Burchell leaves the table with 10326 Tournament chips
+Player James215 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips
+Player captron2763 leaves the table with 9299 Tournament chips
+Player LittlebugD leaves the table with 2496 Tournament chips
+Player 4realestate2 leaves the table with 1795 Tournament chips
+Player MurdochXIV leaves the table with 27445 Tournament chips

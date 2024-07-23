@@ -1,0 +1,1060 @@
+Game#: 23943489
+AmSedan43 checks
+jollymon57 checks
+KevinA00 bets for 400 Tournament chips
+Youurnotgood folds [400 Tournament chips]
+AmSedan43 calls [400 Tournament chips]
+jollymon57 folds [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 3c 6d Js As]
+AmSedan43 checks
+KevinA00 goes all-in for 415 Tournament chips
+AmSedan43 calls [415 Tournament chips]
+Tournament all-in showdown -- players show:
+KevinA00 shows [ Ah 9c ]
+AmSedan43 shows [ Kh Kc ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 3c 6d Js As 5s]
+        (no action in this round)
+Round 4 is over.
+KevinA00 shows [ Ah 9c ] a pair of aces, jack/nine kickers
+AmSedan43 shows [ Kh Kc ] a pair of kings, ace/jack kickers
+KevinA00 wins main pot 2430 Tournament chips with a pair of aces, jack/nine kickers.
+Seat 1: KevinA00 (2430 Tournament chips) 
+Seat 2: Youurnotgood (3125 Tournament chips) 
+Seat 3: QwertySpark (2950 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 7: jollymon57 (1455 Tournament chips) 
+Seat 8: nevadajo (900 Tournament chips) 
+Game #23943489-21 ends
+Game #23943489-22 starts
+Seat 1: KevinA00 (2430 Tournament chips) 
+Seat 2: Youurnotgood (3125 Tournament chips) 
+Seat 3: QwertySpark (2950 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 7: jollymon57 (1455 Tournament chips) 
+Seat 8: nevadajo (900 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+jollymon57 posts the small blind [50 Tournament chips]
+nevadajo posts the big blind [100 Tournament chips]
+KevinA00, at seat 1, is in this hand with 2430 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 3125 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2950 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 760 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 330 Tournament chips.
+jollymon57, at seat 7, is in this hand with 1405 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 800 Tournament chips.
+jollymon57 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+jollymon57 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+Dealt to KevinA00 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Jh 9c ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to jollymon57 [ **** ]
+Dealt to nevadajo [ **** ]
+KevinA00 folds [100 Tournament chips]
+Youurnotgood calls [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+brian4653 folds [100 Tournament chips]
+AmSedan43 folds [100 Tournament chips]
+jollymon57 calls [50 Tournament chips]
+nevadajo folds
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 6c ] board:[ 4c 6c]
+** Dealing Flop ** [ Ah ] board:[ 4c 6c Ah]
+jollymon57 checks
+Youurnotgood bets for 400 Tournament chips
+QwertySpark folds [400 Tournament chips]
+jollymon57 folds [400 Tournament chips]
+Youurnotgood is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Youurnotgood (7c As 4c 6c Ah: a pair of aces)
+Youurnotgood wins main pot 400 Tournament chips.
+Seat 1: KevinA00 (2430 Tournament chips) 
+Seat 2: Youurnotgood (3425 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4445 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 7: jollymon57 (1355 Tournament chips) 
+Seat 8: nevadajo (800 Tournament chips) 
+Game #23943489-22 ends
+Game #23943489-23 starts
+Seat 1: KevinA00 (2430 Tournament chips) 
+Seat 2: Youurnotgood (3425 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4445 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 7: jollymon57 (1355 Tournament chips) 
+Seat 8: nevadajo (800 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+nevadajo posts the small blind [75 Tournament chips]
+KevinA00 posts the big blind [150 Tournament chips]
+KevinA00, at seat 1, is in this hand with 2280 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 3425 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2850 Tournament chips.
+Builderg7, at seat 4, is in this hand with 4445 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 760 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 330 Tournament chips.
+jollymon57, at seat 7, is in this hand with 1355 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 725 Tournament chips.
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+jollymon57 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+jollymon57 is dealt: **
+Dealt to KevinA00 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ 2d 7c ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to jollymon57 [ **** ]
+Dealt to nevadajo [ **** ]
+Youurnotgood raises all-in [3425 Tournament chips]
+QwertySpark folds [2850 Tournament chips]
+Builderg7 folds [3425 Tournament chips]
+brian4653 folds [760 Tournament chips]
+AmSedan43 folds [330 Tournament chips]
+jollymon57 calls all-in [1355 Tournament chips]
+nevadajo folds [725 Tournament chips]
+KevinA00 folds [2280 Tournament chips]
+Youurnotgood is returned 2070 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Youurnotgood shows [ Kh As ]
+jollymon57 shows [ 7s 8s ]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Qh ] board:[ 7d Qh]
+** Dealing Flop ** [ 5c ] board:[ 7d Qh 5c]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 7d Qh 5c Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 7d Qh 5c Js Ad]
+        (no action in this round)
+Round 4 is over.
+Youurnotgood shows [ Kh As ] a pair of aces, king/queen kickers
+jollymon57 shows [ 7s 8s ] a pair of sevens, ace/queen kickers
+Youurnotgood wins main pot 2935 Tournament chips with a pair of aces, king/queen kickers.
+Seat 1: KevinA00 (2280 Tournament chips) 
+Seat 2: Youurnotgood (5005 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4445 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 7: jollymon57 (0 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+Game #23943489-23 ends
+Player jollymon57 leaves the table with 0 Tournament chips
+Game #23943489-24 starts
+Seat 1: KevinA00 (2280 Tournament chips) 
+Seat 2: Youurnotgood (5005 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4445 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (330 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+KevinA00 posts the small blind [75 Tournament chips]
+Youurnotgood posts the big blind [150 Tournament chips]
+KevinA00, at seat 1, is in this hand with 2205 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 4855 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2850 Tournament chips.
+Builderg7, at seat 4, is in this hand with 4445 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 760 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 330 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 725 Tournament chips.
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+Dealt to KevinA00 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ 3d 6h ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to nevadajo [ **** ]
+QwertySpark folds [150 Tournament chips]
+Builderg7 raises [300 Tournament chips]
+brian4653 folds [300 Tournament chips]
+AmSedan43 calls [300 Tournament chips]
+nevadajo folds [300 Tournament chips]
+KevinA00 folds [225 Tournament chips]
+Youurnotgood folds [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 2s ] board:[ Ks 2s]
+** Dealing Flop ** [ 4s ] board:[ Ks 2s 4s]
+Builderg7 checks
+AmSedan43 checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Ks 2s 4s 5h]
+Builderg7 checks
+AmSedan43 checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Ks 2s 4s 5h 6c]
+Builderg7 checks
+AmSedan43 goes all-in for 30 Tournament chips
+Builderg7 folds [30 Tournament chips]
+AmSedan43 is returned 30 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for AmSedan43 (Th Jc Ks 5h 6c: king high)
+AmSedan43 wins main pot 825 Tournament chips.
+Seat 1: KevinA00 (2205 Tournament chips) 
+Seat 2: Youurnotgood (4855 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4145 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (855 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+Game #23943489-24 ends
+Game #23943489-25 starts
+Seat 1: KevinA00 (2205 Tournament chips) 
+Seat 2: Youurnotgood (4855 Tournament chips) 
+Seat 3: QwertySpark (2850 Tournament chips) 
+Seat 4: Builderg7 (4145 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (855 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Youurnotgood posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+KevinA00, at seat 1, is in this hand with 2205 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 4755 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2650 Tournament chips.
+Builderg7, at seat 4, is in this hand (absent) with 4145 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 760 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 855 Tournament chips.
+nevadajo, at seat 8, is in this hand with 725 Tournament chips.
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+KevinA00 is dealt: **
+Dealt to KevinA00 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Kd 2c ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to nevadajo [ **** ]
+(Builderg7 has entered the table, is no longer absent.)
+Builderg7 folds [200 Tournament chips]
+brian4653 folds [200 Tournament chips]
+AmSedan43 calls [200 Tournament chips]
+nevadajo folds [200 Tournament chips]
+KevinA00 calls [200 Tournament chips]
+Youurnotgood calls [100 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Jd ] board:[ Ts Jd]
+** Dealing Flop ** [ Jh ] board:[ Ts Jd Jh]
+Youurnotgood checks
+QwertySpark checks
+AmSedan43 checks
+KevinA00 checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ Ts Jd Jh 6h]
+Youurnotgood checks
+QwertySpark checks
+AmSedan43 checks
+KevinA00 bets for 400 Tournament chips
+Youurnotgood calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+AmSedan43 calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ah ] board:[ Ts Jd Jh 6h Ah]
+Youurnotgood checks
+AmSedan43 checks
+KevinA00 goes all-in for 1605 Tournament chips
+Youurnotgood calls [1605 Tournament chips]
+AmSedan43 folds [255 Tournament chips]
+Tournament all-in showdown -- players show:
+KevinA00 shows [ Ad 6c ]
+Youurnotgood shows [ Th 8h ]
+Round 4 is over.
+KevinA00 shows [ Ad 6c ] two pair, aces and jacks, ten kicker
+Youurnotgood shows [ Th 8h ] flush, ace/jack/ten high
+Youurnotgood wins main pot 5210 Tournament chips with flush, ace/jack/ten high.
+Seat 0: pappy55 (750 Tournament chips) 
+Seat 1: KevinA00 (0 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2650 Tournament chips) 
+Seat 4: Builderg7 (4145 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (255 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+Game #23943489-25 ends
+Player KevinA00 leaves the table with 0 Tournament chips
+Game #23943489-26 starts
+Seat 0: pappy55 (750 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2650 Tournament chips) 
+Seat 4: Builderg7 (4145 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (255 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [150 Tournament chips]
+Builderg7 posts the big blind [300 Tournament chips]
+pappy55, at seat 0, is in this hand with 750 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7860 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2500 Tournament chips.
+Builderg7, at seat 4, is in this hand with 3845 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 760 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 255 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 725 Tournament chips.
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Qh 3d ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to nevadajo [ **** ]
+brian4653 folds [300 Tournament chips]
+AmSedan43 calls all-in [255 Tournament chips]
+nevadajo folds [300 Tournament chips]
+pappy55 calls [300 Tournament chips]
+Youurnotgood folds [300 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+Builderg7 checks
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 3s ] board:[ 8d 3s]
+** Dealing Flop ** [ 9c ] board:[ 8d 3s 9c]
+Builderg7 bets for 300 Tournament chips
+pappy55 folds [300 Tournament chips]
+Builderg7 is returned 300 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Builderg7 shows [ Th As ]
+AmSedan43 shows [ Ad Jd ]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 8d 3s 9c 3c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 8d 3s 9c 3c Ks]
+        (no action in this round)
+Round 4 is over.
+Builderg7 shows [ Th As ] a pair of threes, ace/king kickers
+AmSedan43 shows [ Ad Jd ] a pair of threes, ace/king kickers
+AmSedan43 wins main pot 915 Tournament chips with a pair of threes, ace/king kickers.
+Builderg7 wins side pot #1 90 Tournament chips with a pair of threes, ace/king kickers.
+Seat 0: pappy55 (450 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2500 Tournament chips) 
+Seat 4: Builderg7 (3935 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (915 Tournament chips) 
+Seat 7: HotRod60 (1705 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+Game #23943489-26 ends
+Game #23943489-27 starts
+Seat 0: pappy55 (450 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2500 Tournament chips) 
+Seat 4: Builderg7 (3935 Tournament chips) 
+Seat 5: brian4653 (760 Tournament chips) 
+Seat 6: AmSedan43 (915 Tournament chips) 
+Seat 7: HotRod60 (1705 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Builderg7 posts the small blind [150 Tournament chips]
+brian4653 posts the big blind [300 Tournament chips]
+pappy55, at seat 0, is in this hand with 450 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7860 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2500 Tournament chips.
+Builderg7, at seat 4, is in this hand with 3785 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 460 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 915 Tournament chips.
+HotRod60, at seat 7, is in this hand with 1705 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 725 Tournament chips.
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Qh 9d ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to HotRod60 [ **** ]
+Dealt to nevadajo [ **** ]
+AmSedan43 folds [300 Tournament chips]
+HotRod60 calls [300 Tournament chips]
+nevadajo folds [300 Tournament chips]
+pappy55 folds [300 Tournament chips]
+Youurnotgood folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Builderg7 calls [150 Tournament chips]
+brian4653 folds
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 3c ] board:[ 2c 3c]
+** Dealing Flop ** [ Ac ] board:[ 2c 3c Ac]
+Builderg7 checks
+HotRod60 bets for 300 Tournament chips
+QwertySpark folds [300 Tournament chips]
+Builderg7 folds [300 Tournament chips]
+HotRod60 is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for HotRod60 (Ad Ts 2c 3c Ac: a pair of aces)
+HotRod60 wins main pot 1200 Tournament chips.
+(QwertySpark has entered the table, is no longer absent.)
+Seat 0: pappy55 (450 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2200 Tournament chips) 
+Seat 4: Builderg7 (3635 Tournament chips) 
+Seat 5: brian4653 (460 Tournament chips) 
+Seat 6: AmSedan43 (915 Tournament chips) 
+Seat 7: HotRod60 (2605 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+Game #23943489-27 ends
+Game #23943489-28 starts
+Seat 0: pappy55 (450 Tournament chips) 
+Seat 2: Youurnotgood (7860 Tournament chips) 
+Seat 3: QwertySpark (2200 Tournament chips) 
+Seat 4: Builderg7 (3635 Tournament chips) 
+Seat 5: brian4653 (460 Tournament chips) 
+Seat 6: AmSedan43 (915 Tournament chips) 
+Seat 7: HotRod60 (2605 Tournament chips) 
+Seat 8: nevadajo (725 Tournament chips) 
+The button is at seat 3
+pappy55 posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Youurnotgood posted ante of 25 Tournament chips
+brian4653 posted ante of 25 Tournament chips
+Builderg7 posted ante of 25 Tournament chips
+AmSedan43 posted ante of 25 Tournament chips
+HotRod60 posted ante of 25 Tournament chips
+nevadajo posted ante of 25 Tournament chips
+The button is moved to seat 4.
+brian4653 posts the small blind [150 Tournament chips]
+AmSedan43 posts the big blind [300 Tournament chips]
+pappy55, at seat 0, is in this hand (absent) with 425 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7835 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2175 Tournament chips.
+Builderg7, at seat 4, is in this hand with 3610 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 285 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 590 Tournament chips.
+HotRod60, at seat 7, is in this hand with 2580 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 700 Tournament chips.
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ As 3c ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to HotRod60 [ **** ]
+Dealt to nevadajo [ **** ]
+HotRod60 folds [300 Tournament chips]
+nevadajo folds [300 Tournament chips]
+pappy55 folds [300 Tournament chips]
+Youurnotgood folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Builderg7 calls [300 Tournament chips]
+brian4653 folds [150 Tournament chips]
+AmSedan43 checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 2d ] board:[ 9h 2d]
+** Dealing Flop ** [ Ad ] board:[ 9h 2d Ad]
+AmSedan43 checks
+Builderg7 checks
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 9h 2d Ad 6c]
+AmSedan43 checks
+Builderg7 bets for 300 Tournament chips
+AmSedan43 calls [300 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2s ] board:[ 9h 2d Ad 6c 2s]
+AmSedan43 checks
+Builderg7 checks
+Round 4 is over.
+AmSedan43 shows [ 4d 5h ] a pair of deuces
+Hand evaluation for AmSedan43 (9h 2d Ad 6c 2s: a pair of deuces)
+Builderg7 shows [ 8s 9c ] two pair, nines and deuces
+Hand evaluation for Builderg7 (9c 9h 2d Ad 2s: two pair, nines and deuces)
+Builderg7 wins main pot 1550 Tournament chips with two pair, nines and deuces, ace kicker.
+Seat 0: pappy55 (425 Tournament chips) 
+Seat 2: Youurnotgood (7835 Tournament chips) 
+Seat 3: QwertySpark (2175 Tournament chips) 
+Seat 4: Builderg7 (4560 Tournament chips) 
+Seat 5: brian4653 (285 Tournament chips) 
+Seat 6: AmSedan43 (290 Tournament chips) 
+Seat 7: HotRod60 (2580 Tournament chips) 
+Seat 8: nevadajo (700 Tournament chips) 
+Game #23943489-28 ends
+Game #23943489-29 starts
+Seat 0: pappy55 (425 Tournament chips) 
+Seat 2: Youurnotgood (7835 Tournament chips) 
+Seat 3: QwertySpark (2175 Tournament chips) 
+Seat 4: Builderg7 (4560 Tournament chips) 
+Seat 5: brian4653 (285 Tournament chips) 
+Seat 6: AmSedan43 (290 Tournament chips) 
+Seat 7: HotRod60 (2580 Tournament chips) 
+Seat 8: nevadajo (700 Tournament chips) 
+The button is at seat 4
+pappy55 posted ante of 25 Tournament chips
+Youurnotgood posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+Builderg7 posted ante of 25 Tournament chips
+brian4653 posted ante of 25 Tournament chips
+AmSedan43 posted ante of 25 Tournament chips
+nevadajo posted ante of 25 Tournament chips
+HotRod60 posted ante of 25 Tournament chips
+The button is moved to seat 5.
+AmSedan43 posts the small blind [150 Tournament chips]
+HotRod60 posts the big blind [300 Tournament chips]
+pappy55, at seat 0, is in this hand (absent) with 400 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7810 Tournament chips.
+QwertySpark, at seat 3, is in this hand (absent) with 2150 Tournament chips.
+Builderg7, at seat 4, is in this hand with 4535 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 260 Tournament chips.
+AmSedan43, at seat 6, is in this hand with 115 Tournament chips.
+HotRod60, at seat 7, is in this hand with 2255 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 675 Tournament chips.
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+AmSedan43 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ 4c Kh ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to AmSedan43 [ **** ]
+Dealt to HotRod60 [ **** ]
+Dealt to nevadajo [ **** ]
+nevadajo folds [300 Tournament chips]
+pappy55 folds [300 Tournament chips]
+Youurnotgood folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Builderg7 calls [300 Tournament chips]
+brian4653 folds [260 Tournament chips]
+AmSedan43 calls all-in [115 Tournament chips]
+HotRod60 checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 6c ] board:[ Qs 6c]
+** Dealing Flop ** [ 8h ] board:[ Qs 6c 8h]
+HotRod60 bets for 300 Tournament chips
+Builderg7 raises [600 Tournament chips]
+HotRod60 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ Qs 6c 8h 7s]
+HotRod60 checks
+Builderg7 checks
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qs 6c 8h 7s 7c]
+(pappy55 has entered the table, is no longer absent.)
+HotRod60 goes all-in for 1655 Tournament chips
+Builderg7 calls [1655 Tournament chips]
+Tournament all-in showdown -- players show:
+Builderg7 shows [ Qd Ks ]
+AmSedan43 shows [ Td 2d ]
+HotRod60 shows [ 7d 9c ]
+Round 4 is over.
+Builderg7 shows [ Qd Ks ] two pair, queens and sevens, king kicker
+AmSedan43 shows [ Td 2d ] a pair of sevens, queen/ten kickers
+HotRod60 shows [ 7d 9c ] three sevens, queen/nine kickers
+HotRod60 wins main pot 995 Tournament chips with three sevens, queen/nine kickers.
+HotRod60 wins side pot #1 4580 Tournament chips with three sevens, queen/nine kickers.
+Seat 0: pappy55 (400 Tournament chips) 
+Seat 2: Youurnotgood (7810 Tournament chips) 
+Seat 3: QwertySpark (2150 Tournament chips) 
+Seat 4: Builderg7 (1980 Tournament chips) 
+Seat 5: brian4653 (260 Tournament chips) 
+Seat 6: AmSedan43 (0 Tournament chips) 
+Seat 7: HotRod60 (5575 Tournament chips) 
+Seat 8: nevadajo (675 Tournament chips) 
+Game #23943489-29 ends
+Player AmSedan43 leaves the table with 0 Tournament chips
+Game #23943489-30 starts
+Seat 0: pappy55 (400 Tournament chips) 
+Seat 2: Youurnotgood (7810 Tournament chips) 
+Seat 3: QwertySpark (2150 Tournament chips) 
+Seat 4: Builderg7 (1980 Tournament chips) 
+Seat 5: brian4653 (260 Tournament chips) 
+Seat 7: HotRod60 (5575 Tournament chips) 
+Seat 8: nevadajo (675 Tournament chips) 
+The button is at seat 5
+pappy55 posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+brian4653 posted ante of 50 Tournament chips
+Builderg7 posted ante of 50 Tournament chips
+Youurnotgood posted ante of 50 Tournament chips
+HotRod60 posted ante of 50 Tournament chips
+nevadajo posted ante of 50 Tournament chips
+The button is moved to seat 6.
+HotRod60 posts the small blind [200 Tournament chips]
+nevadajo posts the big blind [400 Tournament chips]
+pappy55, at seat 0, is in this hand with 350 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7760 Tournament chips.
+QwertySpark, at seat 3, is in this hand (absent) with 2100 Tournament chips.
+Builderg7, at seat 4, is in this hand with 1930 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 210 Tournament chips.
+HotRod60, at seat 7, is in this hand with 5325 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 225 Tournament chips.
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Jh Qc ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to HotRod60 [ **** ]
+Dealt to nevadajo [ **** ]
+pappy55 calls all-in [350 Tournament chips]
+Youurnotgood calls [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Builderg7 calls [400 Tournament chips]
+brian4653 folds [210 Tournament chips]
+HotRod60 calls [200 Tournament chips]
+nevadajo folds
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 8s ] board:[ 8c 8s]
+** Dealing Flop ** [ Jd ] board:[ 8c 8s Jd]
+HotRod60 checks
+Youurnotgood checks
+Builderg7 checks
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 8c 8s Jd 2s]
+HotRod60 checks
+Youurnotgood has timed out - the hand is checked
+Builderg7 checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 8c 8s Jd 2s 3c]
+HotRod60 checks
+Youurnotgood has timed out - the hand is checked
+Builderg7 checks
+Round 4 is over.
+HotRod60 shows [ Kc 3s ] two pair, eights and threes
+Hand evaluation for HotRod60 (Kc 3s 8c 8s 3c: two pair, eights and threes)
+pappy55 shows [ As Ah ] two pair, aces and eights
+Hand evaluation for pappy55 (As Ah 8c 8s Jd: two pair, aces and eights)
+Youurnotgood shows [ 5c Ad ] a pair of eights
+Hand evaluation for Youurnotgood (5c Ad 8c 8s Jd: a pair of eights)
+Builderg7 shows [ 6h 4h ] a pair of eights
+Hand evaluation for Builderg7 (6h 4h 8c 8s Jd: a pair of eights)
+pappy55 wins main pot 2100 Tournament chips with two pair, aces and eights, jack kicker.
+HotRod60 wins side pot #1 200 Tournament chips with two pair, eights and threes, king kicker.
+Seat 0: pappy55 (2100 Tournament chips) 
+Seat 1: leroy_g (395 Tournament chips) 
+Seat 2: Youurnotgood (7360 Tournament chips) 
+Seat 3: QwertySpark (2100 Tournament chips) 
+Seat 4: Builderg7 (1530 Tournament chips) 
+Seat 5: brian4653 (210 Tournament chips) 
+Seat 6: gringotaz (460 Tournament chips) 
+Seat 7: HotRod60 (5325 Tournament chips) 
+Seat 8: nevadajo (225 Tournament chips) 
+Game #23943489-30 ends
+Game #23943489-31 starts
+Seat 0: pappy55 (2100 Tournament chips) 
+Seat 1: leroy_g (395 Tournament chips) 
+Seat 2: Youurnotgood (7360 Tournament chips) 
+Seat 3: QwertySpark (2100 Tournament chips) 
+Seat 4: Builderg7 (1530 Tournament chips) 
+Seat 5: brian4653 (210 Tournament chips) 
+Seat 6: gringotaz (460 Tournament chips) 
+Seat 7: HotRod60 (5325 Tournament chips) 
+Seat 8: nevadajo (225 Tournament chips) 
+The button is at seat 6
+pappy55 posted ante of 50 Tournament chips
+leroy_g posted ante of 50 Tournament chips
+brian4653 posted ante of 50 Tournament chips
+Youurnotgood posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+Builderg7 posted ante of 50 Tournament chips
+gringotaz posted ante of 50 Tournament chips
+HotRod60 posted ante of 50 Tournament chips
+nevadajo posted ante of 50 Tournament chips
+The button is moved to seat 7.
+nevadajo posts the small blind [175 Tournament chips], goes all-in
+pappy55 posts the big blind [400 Tournament chips]
+pappy55, at seat 0, is in this hand with 1650 Tournament chips.
+leroy_g, at seat 1, is in this hand with 345 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 7310 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 2050 Tournament chips.
+Builderg7, at seat 4, is in this hand with 1480 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 160 Tournament chips.
+gringotaz, at seat 6, is in this hand with 410 Tournament chips.
+HotRod60, at seat 7, is in this hand with 5275 Tournament chips.
+nevadajo, at seat 8, is in this hand (absent) with 0 Tournament chips.
+nevadajo is dealt: **
+pappy55 is dealt: **
+leroy_g is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+nevadajo is dealt: **
+pappy55 is dealt: **
+leroy_g is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to leroy_g [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ 3c 5d ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to gringotaz [ **** ]
+Dealt to HotRod60 [ **** ]
+Dealt to nevadajo [ **** ]
+leroy_g calls all-in [345 Tournament chips]
+Youurnotgood folds [400 Tournament chips]
+QwertySpark folds [400 Tournament chips]
+Builderg7 calls [400 Tournament chips]
+brian4653 folds [160 Tournament chips]
+gringotaz folds [400 Tournament chips]
+HotRod60 folds [400 Tournament chips]
+pappy55 checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 8h ] board:[ 4d 8h]
+** Dealing Flop ** [ Qs ] board:[ 4d 8h Qs]
+pappy55 checks
+Builderg7 bets for 400 Tournament chips
+pappy55 calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 4d 8h Qs Jc]
+pappy55 checks
+Builderg7 bets for 400 Tournament chips
+pappy55 calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 4d 8h Qs Jc 3h]
+pappy55 checks
+Builderg7 goes all-in for 280 Tournament chips
+pappy55 calls [280 Tournament chips]
+Tournament all-in showdown -- players show:
+pappy55 shows [ Js Kc ]
+leroy_g shows [ 6c Jh ]
+Builderg7 shows [ Qc Qh ]
+nevadajo shows [ 7s 5h ]
+Round 4 is over.
+pappy55 shows [ Js Kc ] a pair of jacks, king/queen kickers
+leroy_g shows [ 6c Jh ] a pair of jacks, queen/eight kickers
+Builderg7 shows [ Qc Qh ] three queens, jack/eight kickers
+Builderg7 wins main pot 1150 Tournament chips with three queens, jack/eight kickers.
+Builderg7 wins side pot #1 510 Tournament chips with three queens, jack/eight kickers.
+Builderg7 wins side pot #2 2270 Tournament chips with three queens, jack/eight kickers.
+Seat 0: pappy55 (570 Tournament chips) 
+Seat 1: leroy_g (0 Tournament chips) 
+Seat 2: Youurnotgood (7310 Tournament chips) 
+Seat 3: QwertySpark (2050 Tournament chips) 
+Seat 4: Builderg7 (3930 Tournament chips) 
+Seat 5: brian4653 (160 Tournament chips) 
+Seat 6: gringotaz (410 Tournament chips) 
+Seat 7: HotRod60 (5275 Tournament chips) 
+Seat 8: nevadajo (0 Tournament chips) 
+Game #23943489-31 ends
+Player nevadajo leaves the table with 0 Tournament chips
+Player leroy_g leaves the table with 0 Tournament chips
+Game #23943489-32 starts
+Seat 0: pappy55 (570 Tournament chips) 
+Seat 2: Youurnotgood (7310 Tournament chips) 
+Seat 3: QwertySpark (2050 Tournament chips) 
+Seat 4: Builderg7 (3930 Tournament chips) 
+Seat 5: brian4653 (160 Tournament chips) 
+Seat 6: gringotaz (410 Tournament chips) 
+Seat 7: HotRod60 (5275 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 75 Tournament chips
+Builderg7 posted ante of 75 Tournament chips
+brian4653 posted ante of 75 Tournament chips
+gringotaz posted ante of 75 Tournament chips
+Youurnotgood posted ante of 75 Tournament chips
+pappy55 posted ante of 75 Tournament chips
+HotRod60 posted ante of 75 Tournament chips
+The button is moved to seat 8.
+pappy55 posts the small blind [300 Tournament chips]
+Youurnotgood posts the big blind [600 Tournament chips]
+pappy55, at seat 0, is in this hand with 195 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 6635 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1975 Tournament chips.
+Builderg7, at seat 4, is in this hand with 3855 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 85 Tournament chips.
+gringotaz, at seat 6, is in this hand with 335 Tournament chips.
+HotRod60, at seat 7, is in this hand with 5200 Tournament chips.
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ Js 4s ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to gringotaz [ **** ]
+Dealt to HotRod60 [ **** ]
+QwertySpark calls [600 Tournament chips]
+Builderg7 folds [600 Tournament chips]
+brian4653 folds [85 Tournament chips]
+gringotaz folds [335 Tournament chips]
+HotRod60 folds [600 Tournament chips]
+pappy55 calls all-in [195 Tournament chips]
+Youurnotgood checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Kd ] board:[ 4h Kd]
+** Dealing Flop ** [ Kh ] board:[ 4h Kd Kh]
+Youurnotgood checks
+QwertySpark bets for 600 Tournament chips
+Youurnotgood folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+pappy55 shows [ 3h Qh ]
+QwertySpark shows [ Js 4s ]
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 4h Kd Kh Jc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7h ] board:[ 4h Kd Kh Jc 7h]
+        (no action in this round)
+Round 4 is over.
+pappy55 shows [ 3h Qh ] flush, king/queen/seven high
+QwertySpark shows [ Js 4s ] two pair, kings and jacks, seven kicker
+pappy55 wins main pot 2010 Tournament chips with flush, king/queen/seven high.
+QwertySpark wins side pot #1 210 Tournament chips with two pair, kings and jacks, seven kicker.
+Seat 0: pappy55 (2010 Tournament chips) 
+Seat 2: Youurnotgood (6635 Tournament chips) 
+Seat 3: QwertySpark (1585 Tournament chips) 
+Seat 4: Builderg7 (3855 Tournament chips) 
+Seat 5: brian4653 (85 Tournament chips) 
+Seat 6: gringotaz (335 Tournament chips) 
+Seat 7: HotRod60 (5200 Tournament chips) 
+Game #23943489-32 ends
+Game #23943489-33 starts
+Seat 0: pappy55 (2010 Tournament chips) 
+Seat 2: Youurnotgood (6635 Tournament chips) 
+Seat 3: QwertySpark (1585 Tournament chips) 
+Seat 4: Builderg7 (3855 Tournament chips) 
+Seat 5: brian4653 (85 Tournament chips) 
+Seat 6: gringotaz (335 Tournament chips) 
+Seat 7: HotRod60 (5200 Tournament chips) 
+The button is at seat 8
+Youurnotgood posted ante of 75 Tournament chips
+QwertySpark posted ante of 75 Tournament chips
+pappy55 posted ante of 75 Tournament chips
+Builderg7 posted ante of 75 Tournament chips
+brian4653 posted ante of 75 Tournament chips
+HotRod60 posted ante of 75 Tournament chips
+gringotaz posted ante of 75 Tournament chips
+The button is moved to seat 0.
+Youurnotgood posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+pappy55, at seat 0, is in this hand with 1935 Tournament chips.
+Youurnotgood, at seat 2, is in this hand with 6260 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 910 Tournament chips.
+Builderg7, at seat 4, is in this hand with 3780 Tournament chips.
+brian4653, at seat 5, is in this hand (absent) with 10 Tournament chips.
+gringotaz, at seat 6, is in this hand with 260 Tournament chips.
+HotRod60, at seat 7, is in this hand with 5125 Tournament chips.
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+pappy55 is dealt: **
+Youurnotgood is dealt: **
+
+Builderg7 is dealt: **
+brian4653 is dealt: **
+gringotaz is dealt: **
+HotRod60 is dealt: **
+pappy55 is dealt: **
+Dealt to pappy55 [ **** ]
+Dealt to Youurnotgood [ **** ]
+Dealt to QwertySpark [ 6c 2d ]
+Dealt to Builderg7 [ **** ]
+Dealt to brian4653 [ **** ]
+Dealt to gringotaz [ **** ]
+Dealt to HotRod60 [ **** ]
+Builderg7 calls [600 Tournament chips]
+brian4653 folds [10 Tournament chips]
+gringotaz calls all-in [260 Tournament chips]
+HotRod60 calls [600 Tournament chips]
+pappy55 folds [600 Tournament chips]
+Youurnotgood folds [300 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 2c ] board:[ Kd 2c]
+** Dealing Flop ** [ 5c ] board:[ Kd 2c 5c]
+QwertySpark checks
+Builderg7 bets for 600 Tournament chips
+HotRod60 calls [600 Tournament chips]
+QwertySpark calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Kd 2c 5c Kc]
+QwertySpark goes all-in for 310 Tournament chips
+Builderg7 raises all-in [2580 Tournament chips]
+HotRod60 folds [2580 Tournament chips]
+Builderg7 is returned 2270 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6c 2d ]
+Builderg7 shows [ Kh 7h ]
+gringotaz shows [ Th 5h ]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ Kd 2c 5c Kc 5s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 6c 2d ] two pair, kings and fives, six kicker
+Builderg7 shows [ Kh 7h ] full house, kings full of fives
+gringotaz shows [ Th 5h ] full house, fives full of kings
+Builderg7 wins main pot 1825 Tournament chips with full house, kings full of fives.
+Builderg7 wins side pot #1 3480 Tournament chips with full house, kings full of fives.
+Seat 0: pappy55 (1935 Tournament chips) 
+Seat 1: dj1212 (220 Tournament chips) 
+Seat 2: Youurnotgood (6260 Tournament chips) 
+Seat 3: QwertySpark (0 Tournament chips) 
+Seat 4: Builderg7 (7575 Tournament chips) 
+Seat 5: brian4653 (10 Tournament chips) 
+Seat 6: gringotaz (0 Tournament chips) 
+Seat 7: HotRod60 (3925 Tournament chips) 
+Seat 8: Chill-Will (1200 Tournament chips) 
+Game #23943489-33 ends
+Player gringotaz leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 0 Tournament chips

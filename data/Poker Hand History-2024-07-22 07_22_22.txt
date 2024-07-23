@@ -1,0 +1,4644 @@
+Game#: 23889801
+danutszz checks
+Johny Pryor checks
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 5s Jc 8h 4h]
+danutszz checks
+Johny Pryor checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 5s Jc 8h 4h 6c]
+danutszz bets for 10 Tournament chips
+Johny Pryor calls [10 Tournament chips]
+Round 4 is over.
+danutszz shows [ 9h Ts ] jack high
+Hand evaluation for danutszz (9h Ts Jc 8h 6c: jack high)
+Johny Pryor shows [ As Qc ] ace high
+Hand evaluation for Johny Pryor (As Qc Jc 8h 6c: ace high)
+Johny Pryor wins main pot 170 Tournament chips with ace/queen/jack high.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1990 Tournament chips) 
+Seat 4: stephen t (2000 Tournament chips) 
+Seat 5: danutszz (1910 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+Game #23889801-2 ends
+Game #23889801-3 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1990 Tournament chips) 
+Seat 4: stephen t (2000 Tournament chips) 
+Seat 5: danutszz (1910 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+The button is at seat 0
+Scottic posts the small blind [5 Tournament chips]
+stephen t posts the big blind [10 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+stephen t, at seat 4, is in this hand with 1990 Tournament chips.
+danutszz, at seat 5, is in this hand with 1910 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2000 Tournament chips.
+9popcorn, at seat 7, is in this hand with 2000 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2090 Tournament chips.
+Scottic is dealt: **
+stephen t is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+Scottic is dealt: **
+stephen t is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to stephen t [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+danutszz raises [530 Tournament chips]
+anonyfamous folds [530 Tournament chips]
+9popcorn folds [530 Tournament chips]
+Johny Pryor folds [530 Tournament chips]
+JRad13 folds [530 Tournament chips]
+Scottic folds [525 Tournament chips]
+stephen t folds [520 Tournament chips]
+danutszz is returned 520 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for danutszz (Qs Ad: ace high)
+danutszz wins main pot 25 Tournament chips.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: stephen t (1990 Tournament chips) 
+Seat 5: danutszz (1925 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+Game #23889801-3 ends
+Game #23889801-4 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: stephen t (1990 Tournament chips) 
+Seat 5: danutszz (1925 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 3.
+stephen t posts the small blind [5 Tournament chips]
+danutszz posts the big blind [10 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2000 Tournament chips.
+Poneck, at seat 2, is in this hand with 2000 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+stephen t, at seat 4, is in this hand with 1985 Tournament chips.
+danutszz, at seat 5, is in this hand with 1915 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2000 Tournament chips.
+9popcorn, at seat 7, is in this hand with 2000 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2090 Tournament chips.
+stephen t is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+stephen t is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ As Kd ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to stephen t [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+anonyfamous folds [10 Tournament chips]
+9popcorn folds [10 Tournament chips]
+Johny Pryor folds [10 Tournament chips]
+JRad13 folds [10 Tournament chips]
+QwertySpark raises [40 Tournament chips]
+Poneck folds [40 Tournament chips]
+Scottic folds [40 Tournament chips]
+stephen t calls [35 Tournament chips]
+danutszz re-raises [150 Tournament chips]
+QwertySpark re-raises [460 Tournament chips]
+stephen t calls [460 Tournament chips]
+danutszz calls [340 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 2d ] board:[ 3d 2d]
+** Dealing Flop ** [ 6c ] board:[ 3d 2d 6c]
+stephen t checks
+danutszz checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ 3d 2d 6c 7s]
+stephen t checks
+danutszz checks
+QwertySpark bets for 700 Tournament chips
+stephen t raises all-in [1490 Tournament chips]
+danutszz folds [1425 Tournament chips]
+QwertySpark calls [790 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ As Kd ]
+stephen t shows [ 9h Ah ]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 3d 2d 6c 7s 2h]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ As Kd ] a pair of deuces, ace/king kickers
+stephen t shows [ 9h Ah ] a pair of deuces, ace/nine kickers
+QwertySpark wins main pot 4480 Tournament chips with a pair of deuces, ace/king kickers.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4490 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: stephen t (0 Tournament chips) 
+Seat 5: danutszz (1425 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+Game #23889801-4 ends
+Player stephen t leaves the table with 0 Tournament chips
+Game #23889801-5 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4490 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 5: danutszz (1425 Tournament chips) 
+Seat 6: anonyfamous (2000 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (2090 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+danutszz posts the small blind [10 Tournament chips]
+anonyfamous posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4490 Tournament chips.
+Poneck, at seat 2, is in this hand with 2000 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+danutszz, at seat 5, is in this hand with 1415 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1980 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 2000 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2090 Tournament chips.
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ Kd Ah ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+9popcorn folds [20 Tournament chips]
+Johny Pryor calls [20 Tournament chips]
+JRad13 folds [20 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+Poneck folds [100 Tournament chips]
+Scottic folds [100 Tournament chips]
+danutszz folds [90 Tournament chips]
+anonyfamous folds [80 Tournament chips]
+Johny Pryor calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ Qc ] board:[ 4d Qc]
+** Dealing Flop ** [ 8d ] board:[ 4d Qc 8d]
+Johny Pryor checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 4d Qc 8d Ts]
+Johny Pryor checks
+QwertySpark bets for 95 Tournament chips
+Johny Pryor folds [95 Tournament chips]
+QwertySpark is returned 95 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Kd Ah Qc 8d Ts: ace high)
+QwertySpark wins main pot 230 Tournament chips.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1980 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (1990 Tournament chips) 
+Game #23889801-5 ends
+Game #23889801-6 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1980 Tournament chips) 
+Seat 7: 9popcorn (2000 Tournament chips) 
+Seat 8: Johny Pryor (1990 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+anonyfamous posts the small blind [10 Tournament chips]
+9popcorn posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4620 Tournament chips.
+Poneck, at seat 2, is in this hand with 2000 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+doodledog, at seat 4, is in this hand with 2000 Tournament chips.
+danutszz, at seat 5, is in this hand with 1415 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1970 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1980 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1990 Tournament chips.
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ Qh 4h ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [20 Tournament chips]
+JRad13 folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+Poneck calls [20 Tournament chips]
+Scottic folds [20 Tournament chips]
+doodledog folds [20 Tournament chips]
+danutszz folds [20 Tournament chips]
+anonyfamous calls [10 Tournament chips]
+9popcorn folds
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ As ] board:[ Th As]
+** Dealing Flop ** [ 3h ] board:[ Th As 3h]
+anonyfamous checks
+Poneck bets for 40 Tournament chips
+anonyfamous folds [40 Tournament chips]
+Poneck is returned 40 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Poneck (Ks Ac Th As 3h: a pair of aces)
+Poneck wins main pot 60 Tournament chips.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1980 Tournament chips) 
+Seat 8: Johny Pryor (1990 Tournament chips) 
+Game #23889801-6 ends
+Game #23889801-7 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4620 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1980 Tournament chips) 
+Seat 8: Johny Pryor (1990 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+9popcorn posts the small blind [10 Tournament chips]
+Johny Pryor posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4620 Tournament chips.
+Poneck, at seat 2, is in this hand with 2040 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+doodledog, at seat 4, is in this hand with 2000 Tournament chips.
+danutszz, at seat 5, is in this hand with 1415 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1960 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1970 Tournament chips.
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ Qd Kd ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+JRad13 folds [20 Tournament chips]
+QwertySpark raises [80 Tournament chips]
+Poneck folds [80 Tournament chips]
+Scottic folds [80 Tournament chips]
+doodledog folds [80 Tournament chips]
+danutszz folds [80 Tournament chips]
+anonyfamous folds [80 Tournament chips]
+9popcorn folds [70 Tournament chips]
+Johny Pryor folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Qd Kd: king high)
+QwertySpark wins main pot 50 Tournament chips.
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4650 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1970 Tournament chips) 
+Game #23889801-7 ends
+Game #23889801-8 starts
+Seat 0: JRad13 (1995 Tournament chips) 
+Seat 1: QwertySpark (4650 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (2000 Tournament chips) 
+Seat 5: danutszz (1415 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1970 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [10 Tournament chips]
+JRad13 posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1975 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4650 Tournament chips.
+Poneck, at seat 2, is in this hand with 2040 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+doodledog, at seat 4, is in this hand with 2000 Tournament chips.
+danutszz, at seat 5, is in this hand with 1415 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1960 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 2d Qc ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [20 Tournament chips]
+Poneck folds [20 Tournament chips]
+Scottic folds [20 Tournament chips]
+doodledog calls [20 Tournament chips]
+danutszz raises [330 Tournament chips]
+anonyfamous folds [330 Tournament chips]
+9popcorn folds [330 Tournament chips]
+Johny Pryor folds [320 Tournament chips]
+JRad13 folds [310 Tournament chips]
+doodledog calls [310 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 3h ] board:[ 2h 3h]
+** Dealing Flop ** [ 6h ] board:[ 2h 3h 6h]
+doodledog checks
+danutszz bets for 690 Tournament chips
+doodledog folds [690 Tournament chips]
+danutszz is returned 690 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for danutszz (Kh Qs 2h 3h 6h: king high)
+danutszz wins main pot 690 Tournament chips.
+Seat 0: JRad13 (1975 Tournament chips) 
+Seat 1: QwertySpark (4650 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (1670 Tournament chips) 
+Seat 5: danutszz (1775 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-8 ends
+Game #23889801-9 starts
+Seat 0: JRad13 (1975 Tournament chips) 
+Seat 1: QwertySpark (4650 Tournament chips) 
+Seat 2: Poneck (2040 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (1670 Tournament chips) 
+Seat 5: danutszz (1775 Tournament chips) 
+Seat 6: anonyfamous (1960 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+JRad13 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4630 Tournament chips.
+Poneck, at seat 2, is in this hand with 2040 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+doodledog, at seat 4, is in this hand with 1670 Tournament chips.
+danutszz, at seat 5, is in this hand with 1775 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1960 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 6c Th ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck calls [20 Tournament chips]
+Scottic folds [20 Tournament chips]
+doodledog calls [20 Tournament chips]
+danutszz calls [20 Tournament chips]
+anonyfamous calls [20 Tournament chips]
+9popcorn folds [20 Tournament chips]
+Johny Pryor folds [20 Tournament chips]
+JRad13 folds [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 5d ] board:[ 8c 5d]
+** Dealing Flop ** [ 6d ] board:[ 8c 5d 6d]
+QwertySpark bets for 100 Tournament chips
+Poneck folds [100 Tournament chips]
+doodledog calls [100 Tournament chips]
+danutszz calls [100 Tournament chips]
+anonyfamous raises all-in [1940 Tournament chips]
+QwertySpark folds [1840 Tournament chips]
+doodledog folds [1550 Tournament chips]
+danutszz folds [1655 Tournament chips]
+anonyfamous is returned 1840 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for anonyfamous (8s Qs 8c 5d 6d: a pair of eights)
+anonyfamous wins main pot 510 Tournament chips.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4530 Tournament chips) 
+Seat 2: Poneck (2020 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (1550 Tournament chips) 
+Seat 5: danutszz (1655 Tournament chips) 
+Seat 6: anonyfamous (2350 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-9 ends
+Game #23889801-10 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4530 Tournament chips) 
+Seat 2: Poneck (2020 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (1550 Tournament chips) 
+Seat 5: danutszz (1655 Tournament chips) 
+Seat 6: anonyfamous (2350 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+Poneck posts the big blind [20 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4520 Tournament chips.
+Poneck, at seat 2, is in this hand with 2000 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1985 Tournament chips.
+doodledog, at seat 4, is in this hand with 1550 Tournament chips.
+danutszz, at seat 5, is in this hand with 1655 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2350 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ Qs 7d ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Scottic folds [20 Tournament chips]
+doodledog calls [20 Tournament chips]
+danutszz raises [150 Tournament chips]
+anonyfamous folds [150 Tournament chips]
+9popcorn folds [150 Tournament chips]
+Johny Pryor folds [150 Tournament chips]
+JRad13 folds [150 Tournament chips]
+QwertySpark folds [140 Tournament chips]
+Poneck folds [130 Tournament chips]
+doodledog calls [130 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 9s ] board:[ Td 9s]
+** Dealing Flop ** [ 5c ] board:[ Td 9s 5c]
+doodledog bets for 20 Tournament chips
+danutszz raises [390 Tournament chips]
+doodledog calls [370 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7h ] board:[ Td 9s 5c 7h]
+doodledog checks
+danutszz checks
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ Td 9s 5c 7h 4c]
+doodledog checks
+danutszz bets for 1110 Tournament chips
+doodledog calls all-in [1010 Tournament chips]
+danutszz is returned 100 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+doodledog shows [ Qd Ts ]
+danutszz shows [ 8c 9c ]
+Round 4 is over.
+doodledog shows [ Qd Ts ] a pair of tens, queen/nine kickers
+danutszz shows [ 8c 9c ] a pair of nines, ten/eight kickers
+doodledog wins main pot 3130 Tournament chips with a pair of tens, queen/nine kickers.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (3130 Tournament chips) 
+Seat 5: danutszz (105 Tournament chips) 
+Seat 6: anonyfamous (2350 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-10 ends
+Poneck: LOLOL
+Game #23889801-11 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (2000 Tournament chips) 
+Seat 3: Scottic (1985 Tournament chips) 
+Seat 4: doodledog (3130 Tournament chips) 
+Seat 5: danutszz (105 Tournament chips) 
+Seat 6: anonyfamous (2350 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Poneck posts the small blind [15 Tournament chips]
+Scottic posts the big blind [30 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4520 Tournament chips.
+Poneck, at seat 2, is in this hand with 1985 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1955 Tournament chips.
+doodledog, at seat 4, is in this hand with 3130 Tournament chips.
+danutszz, at seat 5, is in this hand with 105 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2350 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+danutszz is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 2h 4c ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to danutszz [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+doodledog calls [30 Tournament chips]
+danutszz raises all-in [105 Tournament chips]
+anonyfamous calls [105 Tournament chips]
+9popcorn folds [105 Tournament chips]
+Johny Pryor folds [105 Tournament chips]
+JRad13 folds [105 Tournament chips]
+QwertySpark folds [105 Tournament chips]
+Poneck folds [90 Tournament chips]
+Scottic folds [75 Tournament chips]
+doodledog calls [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ Jh ] board:[ 6h Jh]
+** Dealing Flop ** [ Js ] board:[ 6h Jh Js]
+doodledog bets for 30 Tournament chips
+anonyfamous calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 6h Jh Js 6d]
+doodledog checks
+anonyfamous checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 6h Jh Js 6d Qd]
+doodledog checks
+anonyfamous checks
+Round 4 is over.
+doodledog shows [ Ac 4s ] two pair, jacks and sixes
+Hand evaluation for doodledog (Ac 6h Jh Js 6d: two pair, jacks and sixes)
+danutszz shows [ 2d 5h ] two pair, jacks and sixes
+Hand evaluation for danutszz (6h Jh Js 6d Qd: two pair, jacks and sixes)
+anonyfamous shows [ Ts 8s ] two pair, jacks and sixes
+Hand evaluation for anonyfamous (6h Jh Js 6d Qd: two pair, jacks and sixes)
+doodledog wins main pot 360 Tournament chips with two pair, jacks and sixes, ace kicker.
+doodledog wins side pot #1 60 Tournament chips with two pair, jacks and sixes, ace kicker.
+Poneck: bye nutszz
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1985 Tournament chips) 
+Seat 3: Scottic (1955 Tournament chips) 
+Seat 4: doodledog (3415 Tournament chips) 
+Seat 5: danutszz (0 Tournament chips) 
+Seat 6: anonyfamous (2215 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-11 ends
+Player danutszz leaves the table with 0 Tournament chips
+Game #23889801-12 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1985 Tournament chips) 
+Seat 3: Scottic (1955 Tournament chips) 
+Seat 4: doodledog (3415 Tournament chips) 
+Seat 6: anonyfamous (2215 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+Scottic posts the small blind [15 Tournament chips]
+doodledog posts the big blind [30 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4520 Tournament chips.
+Poneck, at seat 2, is in this hand with 1985 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 3385 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2215 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 8s 3h ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+anonyfamous calls [30 Tournament chips]
+9popcorn folds [30 Tournament chips]
+Johny Pryor folds [30 Tournament chips]
+JRad13 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Poneck folds [30 Tournament chips]
+Scottic folds [15 Tournament chips]
+doodledog checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 6c ] board:[ 2h 6c]
+** Dealing Flop ** [ 2s ] board:[ 2h 6c 2s]
+doodledog has timed out - the hand is checked
+anonyfamous bets for 55 Tournament chips
+doodledog calls [55 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 2h 6c 2s 6h]
+doodledog bets for 185 Tournament chips
+anonyfamous calls [185 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4s ] board:[ 2h 6c 2s 6h 4s]
+doodledog bets for 555 Tournament chips
+anonyfamous calls [555 Tournament chips]
+Round 4 is over.
+doodledog shows [ 6s Kc ] full house, sixes full of deuces
+Hand evaluation for doodledog (6s 2h 6c 2s 6h: full house, sixes full of deuces)
+anonyfamous doesn't show [ Qh As ]
+(anonyfamous has Qh As.)
+doodledog wins main pot 1665 Tournament chips with full house, sixes full of deuces.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1985 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (4255 Tournament chips) 
+Seat 6: anonyfamous (1390 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-12 ends
+Game #23889801-13 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1985 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (4255 Tournament chips) 
+Seat 6: anonyfamous (1390 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+doodledog posts the small blind [15 Tournament chips]
+anonyfamous posts the big blind [30 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4520 Tournament chips.
+Poneck, at seat 2, is in this hand with 1985 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 4240 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1360 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1960 Tournament chips.
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 3d 6s ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+9popcorn folds [30 Tournament chips]
+Johny Pryor folds [30 Tournament chips]
+JRad13 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Poneck calls [30 Tournament chips]
+Scottic folds [30 Tournament chips]
+doodledog calls [15 Tournament chips]
+anonyfamous checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 6c ] board:[ 2h 6c]
+** Dealing Flop ** [ Td ] board:[ 2h 6c Td]
+doodledog checks
+anonyfamous checks
+Poneck checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 2h 6c Td 9d]
+doodledog bets for 30 Tournament chips
+anonyfamous calls [30 Tournament chips]
+Poneck calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 2h 6c Td 9d Kd]
+doodledog checks
+anonyfamous bets for 180 Tournament chips
+Poneck calls [180 Tournament chips]
+doodledog folds [180 Tournament chips]
+Round 4 is over.
+anonyfamous shows [ Kh 8s ] a pair of kings
+Hand evaluation for anonyfamous (Kh 8s Td 9d Kd: a pair of kings)
+Poneck doesn't show [ 9s Qh ]
+(Poneck has 9s Qh.)
+anonyfamous wins main pot 540 Tournament chips with a pair of kings, ten/nine kickers.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1745 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (4195 Tournament chips) 
+Seat 6: anonyfamous (1690 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-13 ends
+Game #23889801-14 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (4520 Tournament chips) 
+Seat 2: Poneck (1745 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (4195 Tournament chips) 
+Seat 6: anonyfamous (1690 Tournament chips) 
+Seat 7: 9popcorn (1970 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+anonyfamous posts the small blind [15 Tournament chips]
+9popcorn posts the big blind [30 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4520 Tournament chips.
+Poneck, at seat 2, is in this hand with 1745 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 4195 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1675 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1940 Tournament chips.
+Johny Pryor, at seat 8, is in this hand (absent) with 1960 Tournament chips.
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ Qs Js ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [30 Tournament chips]
+JRad13 folds [30 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+Poneck calls [120 Tournament chips]
+Scottic folds [120 Tournament chips]
+doodledog calls [120 Tournament chips]
+anonyfamous calls [105 Tournament chips]
+9popcorn folds [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 5h ] board:[ 6s 5h]
+** Dealing Flop ** [ 3s ] board:[ 6s 5h 3s]
+anonyfamous checks
+QwertySpark bets for 405 Tournament chips
+Poneck folds [405 Tournament chips]
+doodledog calls [405 Tournament chips]
+anonyfamous folds [405 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 6s 5h 3s As]
+QwertySpark checks
+doodledog bets for 30 Tournament chips
+QwertySpark calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 6s 5h 3s As 7s]
+QwertySpark checks
+doodledog bets for 30 Tournament chips
+QwertySpark raises [420 Tournament chips]
+doodledog calls [390 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Qs Js ] flush, ace high
+Hand evaluation for QwertySpark (Qs Js 6s As 7s: flush, ace high)
+doodledog doesn't show [ 5d 4c ]
+(doodledog has 5d 4c.)
+QwertySpark wins main pot 2220 Tournament chips with flush, ace/queen/jack high.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1625 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (3220 Tournament chips) 
+Seat 6: anonyfamous (1570 Tournament chips) 
+Seat 7: 9popcorn (1940 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+Game #23889801-14 ends
+Game #23889801-15 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1625 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (3220 Tournament chips) 
+Seat 6: anonyfamous (1570 Tournament chips) 
+Seat 7: 9popcorn (1940 Tournament chips) 
+Seat 8: Johny Pryor (1960 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+9popcorn posts the small blind [15 Tournament chips]
+Johny Pryor posts the big blind [30 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1965 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5765 Tournament chips.
+Poneck, at seat 2, is in this hand with 1625 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 3220 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1570 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand (absent) with 1930 Tournament chips.
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 3c Kh ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+JRad13 folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Poneck calls [30 Tournament chips]
+Scottic folds [30 Tournament chips]
+doodledog calls [30 Tournament chips]
+anonyfamous raises [120 Tournament chips]
+9popcorn folds [105 Tournament chips]
+Johny Pryor folds [90 Tournament chips]
+Poneck calls [90 Tournament chips]
+doodledog calls [90 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Jc ] board:[ Qc Jc]
+** Dealing Flop ** [ 7h ] board:[ Qc Jc 7h]
+Poneck checks
+doodledog bets for 30 Tournament chips
+anonyfamous calls [30 Tournament chips]
+Poneck folds [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Qc Jc 7h Qh]
+doodledog bets for 30 Tournament chips
+anonyfamous calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Qc Jc 7h Qh 9s]
+doodledog checks
+anonyfamous bets for 270 Tournament chips
+doodledog calls [270 Tournament chips]
+Round 4 is over.
+anonyfamous shows [ Kc Kd ] two pair, kings and queens
+Hand evaluation for anonyfamous (Kc Kd Qc Jc Qh: two pair, kings and queens)
+doodledog doesn't show [ Ts 9c ]
+(doodledog has Ts 9c.)
+anonyfamous wins main pot 1065 Tournament chips with two pair, kings and queens, jack kicker.
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1505 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (2770 Tournament chips) 
+Seat 6: anonyfamous (2185 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1930 Tournament chips) 
+Game #23889801-15 ends
+Game #23889801-16 starts
+Seat 0: JRad13 (1965 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1505 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (2770 Tournament chips) 
+Seat 6: anonyfamous (2185 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1930 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [20 Tournament chips]
+JRad13 posts the big blind [40 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1925 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5765 Tournament chips.
+Poneck, at seat 2, is in this hand with 1505 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 2770 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2185 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand (absent) with 1910 Tournament chips.
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 6s Td ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [40 Tournament chips]
+Poneck calls [40 Tournament chips]
+Scottic folds [40 Tournament chips]
+doodledog calls [40 Tournament chips]
+anonyfamous folds [40 Tournament chips]
+9popcorn folds [40 Tournament chips]
+Johny Pryor folds [20 Tournament chips]
+JRad13 folds
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ 6d ] board:[ 4h 6d]
+** Dealing Flop ** [ Qh ] board:[ 4h 6d Qh]
+Poneck checks
+doodledog has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 4h 6d Qh As]
+Poneck bets for 80 Tournament chips
+doodledog calls [80 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ 4h 6d Qh As 9h]
+Poneck checks
+doodledog checks
+Round 4 is over.
+Poneck shows [ 2c Ad ] a pair of aces
+Hand evaluation for Poneck (Ad 6d Qh As 9h: a pair of aces)
+doodledog doesn't show [ 6c 7h ]
+(doodledog has 6c 7h.)
+Poneck wins main pot 300 Tournament chips with a pair of aces, queen/nine kickers.
+Seat 0: JRad13 (1925 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1685 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (2185 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1910 Tournament chips) 
+Game #23889801-16 ends
+Game #23889801-17 starts
+Seat 0: JRad13 (1925 Tournament chips) 
+Seat 1: QwertySpark (5765 Tournament chips) 
+Seat 2: Poneck (1685 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (2185 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1910 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+JRad13 posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+JRad13, at seat 0, is in this hand (absent) with 1905 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5725 Tournament chips.
+Poneck, at seat 2, is in this hand with 1685 Tournament chips.
+Scottic, at seat 3, is in this hand (absent) with 1940 Tournament chips.
+doodledog, at seat 4, is in this hand with 2650 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 2185 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand (absent) with 1910 Tournament chips.
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JRad13 is dealt: **
+
+Poneck is dealt: **
+Scottic is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+Dealt to JRad13 [ **** ]
+Dealt to QwertySpark [ 8s 9h ]
+Dealt to Poneck [ **** ]
+Dealt to Scottic [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck folds [40 Tournament chips]
+Scottic folds [40 Tournament chips]
+doodledog folds [40 Tournament chips]
+anonyfamous raises [160 Tournament chips]
+9popcorn folds [160 Tournament chips]
+Johny Pryor folds [160 Tournament chips]
+JRad13 folds [140 Tournament chips]
+QwertySpark calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 5s ] board:[ 6s 5s]
+** Dealing Flop ** [ 8c ] board:[ 6s 5s 8c]
+QwertySpark checks
+anonyfamous bets for 120 Tournament chips
+QwertySpark raises [350 Tournament chips]
+anonyfamous calls [230 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 6s 5s 8c 9s]
+QwertySpark bets for 520 Tournament chips
+anonyfamous folds [520 Tournament chips]
+QwertySpark is returned 520 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (8s 9h 6s 8c 9s: two pair, nines and eights)
+QwertySpark wins main pot 1040 Tournament chips.
+(Johny Pryor has entered the table, is no longer absent.)
+Seat 0: JRad13 (1905 Tournament chips) 
+Seat 1: QwertySpark (6295 Tournament chips) 
+Seat 2: Poneck (1685 Tournament chips) 
+Seat 3: Scottic (1940 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (1675 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1910 Tournament chips) 
+Game #23889801-17 ends
+Player JRad13 leaves the table with 0 Tournament chips
+Player Scottic leaves the table with 0 Tournament chips
+Game #23889801-18 starts
+Seat 1: QwertySpark (6295 Tournament chips) 
+Seat 2: Poneck (1685 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (1675 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (1910 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [20 Tournament chips]
+Poneck posts the big blind [40 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 6275 Tournament chips.
+Poneck, at seat 2, is in this hand with 1645 Tournament chips.
+doodledog, at seat 4, is in this hand with 2650 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1675 Tournament chips.
+9popcorn, at seat 7, is in this hand (absent) with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 1910 Tournament chips.
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ Ts Ad ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+doodledog calls [40 Tournament chips]
+anonyfamous calls [40 Tournament chips]
+9popcorn folds [40 Tournament chips]
+Johny Pryor raises [80 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Poneck calls [40 Tournament chips]
+doodledog calls [40 Tournament chips]
+anonyfamous calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 6s ] board:[ 9s 6s]
+** Dealing Flop ** [ 5h ] board:[ 9s 6s 5h]
+QwertySpark checks
+Poneck bets for 120 Tournament chips
+doodledog calls [120 Tournament chips]
+anonyfamous calls [120 Tournament chips]
+Johny Pryor calls [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 9s 6s 5h 4d]
+Poneck bets for 160 Tournament chips
+doodledog calls [160 Tournament chips]
+anonyfamous calls [160 Tournament chips]
+Johny Pryor calls [160 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 9s 6s 5h 4d 5s]
+Poneck bets for 120 Tournament chips
+doodledog calls [120 Tournament chips]
+anonyfamous folds [120 Tournament chips]
+Johny Pryor calls [120 Tournament chips]
+Round 4 is over.
+Poneck shows [ 6h Ah ] two pair, sixes and fives
+Hand evaluation for Poneck (6h Ah 6s 5h 5s: two pair, sixes and fives)
+doodledog shows [ Td 9d ] two pair, nines and fives
+Hand evaluation for doodledog (Td 9d 9s 5h 5s: two pair, nines and fives)
+Johny Pryor shows [ Jh Js ] two pair, jacks and fives
+Hand evaluation for Johny Pryor (Jh Js 9s 5h 5s: two pair, jacks and fives)
+Johny Pryor wins main pot 1880 Tournament chips with two pair, jacks and fives, nine kicker.
+Seat 0: JVRz (1755 Tournament chips) 
+Seat 1: QwertySpark (6215 Tournament chips) 
+Seat 2: Poneck (1205 Tournament chips) 
+Seat 4: doodledog (2170 Tournament chips) 
+Seat 6: anonyfamous (1315 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3310 Tournament chips) 
+Game #23889801-18 ends
+Game #23889801-19 starts
+Seat 0: JVRz (1755 Tournament chips) 
+Seat 1: QwertySpark (6215 Tournament chips) 
+Seat 2: Poneck (1205 Tournament chips) 
+Seat 4: doodledog (2170 Tournament chips) 
+Seat 6: anonyfamous (1315 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3310 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Poneck posts the small blind [20 Tournament chips]
+doodledog posts the big blind [40 Tournament chips]
+JVRz, at seat 0, is in this hand with 1755 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6215 Tournament chips.
+Poneck, at seat 2, is in this hand with 1185 Tournament chips.
+doodledog, at seat 4, is in this hand with 2130 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1315 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3310 Tournament chips.
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 6s Js ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+anonyfamous folds [40 Tournament chips]
+9popcorn folds [40 Tournament chips]
+Johny Pryor calls [40 Tournament chips]
+JVRz calls [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+Poneck calls [20 Tournament chips]
+doodledog checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 2d ] board:[ 9h 2d]
+** Dealing Flop ** [ 8c ] board:[ 9h 2d 8c]
+Poneck checks
+doodledog checks
+Johny Pryor checks
+JVRz checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ 9h 2d 8c 2s]
+Poneck checks
+doodledog bets for 40 Tournament chips
+Johny Pryor folds [40 Tournament chips]
+JVRz calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+Poneck folds [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 9h 2d 8c 2s 8s]
+doodledog bets for 280 Tournament chips
+JVRz calls [280 Tournament chips]
+Round 4 is over.
+doodledog shows [ 8d 4s ] full house, eights full of deuces
+Hand evaluation for doodledog (8d 2d 8c 2s 8s: full house, eights full of deuces)
+JVRz doesn't show [ Kc Ad ]
+(JVRz has Kc Ad.)
+doodledog wins main pot 840 Tournament chips with full house, eights full of deuces.
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6175 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (1315 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3270 Tournament chips) 
+Game #23889801-19 ends
+Game #23889801-20 starts
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6175 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2650 Tournament chips) 
+Seat 6: anonyfamous (1315 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3270 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+doodledog posts the small blind [20 Tournament chips]
+anonyfamous posts the big blind [40 Tournament chips]
+JVRz, at seat 0, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6175 Tournament chips.
+Poneck, at seat 2, is in this hand with 1165 Tournament chips.
+doodledog, at seat 4, is in this hand with 2630 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1275 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3270 Tournament chips.
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Ac Js ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+9popcorn folds [40 Tournament chips]
+Johny Pryor calls [40 Tournament chips]
+JVRz folds [40 Tournament chips]
+QwertySpark raises [240 Tournament chips]
+Poneck folds [240 Tournament chips]
+doodledog folds [220 Tournament chips]
+anonyfamous folds [200 Tournament chips]
+Johny Pryor folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ac Js: ace high)
+QwertySpark wins main pot 140 Tournament chips.
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2630 Tournament chips) 
+Seat 6: anonyfamous (1275 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3230 Tournament chips) 
+Game #23889801-20 ends
+Game #23889801-21 starts
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2630 Tournament chips) 
+Seat 6: anonyfamous (1275 Tournament chips) 
+Seat 7: 9popcorn (1925 Tournament chips) 
+Seat 8: Johny Pryor (3230 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+anonyfamous posts the small blind [30 Tournament chips]
+9popcorn posts the big blind [60 Tournament chips]
+JVRz, at seat 0, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6275 Tournament chips.
+Poneck, at seat 2, is in this hand with 1165 Tournament chips.
+fatherjohn, at seat 3, is in this hand with 520 Tournament chips.
+doodledog, at seat 4, is in this hand with 2630 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1245 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1865 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3230 Tournament chips.
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Qs 5s ]
+Dealt to Poneck [ **** ]
+Dealt to fatherjohn [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [60 Tournament chips]
+JVRz folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Poneck folds [60 Tournament chips]
+fatherjohn folds [60 Tournament chips]
+doodledog calls [60 Tournament chips]
+anonyfamous calls [30 Tournament chips]
+9popcorn checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 6h ] board:[ 2c 6h]
+** Dealing Flop ** [ 3h ] board:[ 2c 6h 3h]
+anonyfamous bets for 60 Tournament chips
+9popcorn calls [60 Tournament chips]
+doodledog calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ 2c 6h 3h Tc]
+anonyfamous bets for 180 Tournament chips
+9popcorn calls [180 Tournament chips]
+doodledog folds [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 2c 6h 3h Tc 7c]
+anonyfamous goes all-in for 975 Tournament chips
+9popcorn folds [975 Tournament chips]
+anonyfamous is returned 975 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for anonyfamous (8d 3c 3h Tc 7c: a pair of threes)
+anonyfamous wins main pot 720 Tournament chips.
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2510 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 7: 9popcorn (1625 Tournament chips) 
+Seat 8: Johny Pryor (3230 Tournament chips) 
+Game #23889801-21 ends
+Game #23889801-22 starts
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (520 Tournament chips) 
+Seat 4: doodledog (2510 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 7: 9popcorn (1625 Tournament chips) 
+Seat 8: Johny Pryor (3230 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+9popcorn posts the small blind [30 Tournament chips]
+Johny Pryor posts the big blind [60 Tournament chips]
+JVRz, at seat 0, is in this hand with 1395 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6275 Tournament chips.
+Poneck, at seat 2, is in this hand with 1165 Tournament chips.
+fatherjohn, at seat 3, is in this hand with 520 Tournament chips.
+doodledog, at seat 4, is in this hand with 2510 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1695 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1595 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3170 Tournament chips.
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 2c 3d ]
+Dealt to Poneck [ **** ]
+Dealt to fatherjohn [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+JVRz folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+Poneck folds [60 Tournament chips]
+fatherjohn calls [60 Tournament chips]
+doodledog calls [60 Tournament chips]
+anonyfamous folds [60 Tournament chips]
+9popcorn calls [30 Tournament chips]
+Johny Pryor raises [60 Tournament chips]
+fatherjohn calls [60 Tournament chips]
+doodledog calls [60 Tournament chips]
+9popcorn folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 8d ] board:[ 3h 8d]
+** Dealing Flop ** [ 5h ] board:[ 3h 8d 5h]
+Johny Pryor bets for 120 Tournament chips
+fatherjohn calls [120 Tournament chips]
+doodledog calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ 3h 8d 5h 4d]
+Johny Pryor bets for 180 Tournament chips
+fatherjohn calls [180 Tournament chips]
+doodledog calls [180 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ 3h 8d 5h 4d Kd]
+Johny Pryor checks
+fatherjohn checks
+doodledog checks
+Round 4 is over.
+Johny Pryor shows [ 9s 9h ] a pair of nines
+Hand evaluation for Johny Pryor (9s 9h 8d 5h Kd: a pair of nines)
+fatherjohn shows [ Tc Ac ] ace high
+Hand evaluation for fatherjohn (Tc Ac 8d 5h Kd: ace high)
+doodledog doesn't show [ 8s Jh ]
+(doodledog has 8s Jh.)
+Johny Pryor wins main pot 1320 Tournament chips with a pair of nines, king/eight kickers.
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (100 Tournament chips) 
+Seat 4: doodledog (2090 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 7: 9popcorn (1565 Tournament chips) 
+Seat 8: Johny Pryor (4130 Tournament chips) 
+Game #23889801-22 ends
+Game #23889801-23 starts
+Seat 0: JVRz (1395 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (100 Tournament chips) 
+Seat 4: doodledog (2090 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 7: 9popcorn (1565 Tournament chips) 
+Seat 8: Johny Pryor (4130 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [30 Tournament chips]
+JVRz posts the big blind [60 Tournament chips]
+JVRz, at seat 0, is in this hand with 1335 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6275 Tournament chips.
+Poneck, at seat 2, is in this hand with 1165 Tournament chips.
+fatherjohn, at seat 3, is in this hand with 100 Tournament chips.
+doodledog, at seat 4, is in this hand with 2090 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1695 Tournament chips.
+9popcorn, at seat 7, is in this hand with 1565 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+fatherjohn is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+9popcorn is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 6h 5c ]
+Dealt to Poneck [ **** ]
+Dealt to fatherjohn [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to 9popcorn [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [60 Tournament chips]
+Poneck folds [60 Tournament chips]
+fatherjohn raises all-in [100 Tournament chips]
+doodledog calls [100 Tournament chips]
+anonyfamous folds [100 Tournament chips]
+9popcorn re-raises [730 Tournament chips]
+Johny Pryor folds [700 Tournament chips]
+JVRz calls [670 Tournament chips]
+doodledog calls [630 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Qs ] board:[ Ts Qs]
+** Dealing Flop ** [ 6d ] board:[ Ts Qs 6d]
+JVRz checks
+doodledog bets for 60 Tournament chips
+9popcorn raises all-in [835 Tournament chips]
+JVRz folds [665 Tournament chips]
+doodledog calls [775 Tournament chips]
+Tournament all-in showdown -- players show:
+fatherjohn shows [ 8s Ac ]
+doodledog shows [ 3s As ]
+9popcorn shows [ Qd Ad ]
+Round 2 is over.
+** Dealing Turn ** [ 2s ] board:[ Ts Qs 6d 2s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Ts Qs 6d 2s 8d]
+        (no action in this round)
+Round 4 is over.
+fatherjohn shows [ 8s Ac ] a pair of eights, ace/queen kickers
+doodledog shows [ 3s As ] flush, ace/queen/ten high
+9popcorn shows [ Qd Ad ] a pair of queens, ace/ten kickers
+doodledog wins main pot 430 Tournament chips with flush, ace/queen/ten high.
+doodledog wins side pot #1 3560 Tournament chips with flush, ace/queen/ten high.
+Seat 0: JVRz (665 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 3: fatherjohn (0 Tournament chips) 
+Seat 4: doodledog (4515 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 7: 9popcorn (0 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-23 ends
+Player fatherjohn leaves the table with 0 Tournament chips
+Player 9popcorn leaves the table with 0 Tournament chips
+Game #23889801-24 starts
+Seat 0: JVRz (665 Tournament chips) 
+Seat 1: QwertySpark (6275 Tournament chips) 
+Seat 2: Poneck (1165 Tournament chips) 
+Seat 4: doodledog (4515 Tournament chips) 
+Seat 6: anonyfamous (1695 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+JVRz posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+JVRz, at seat 0, is in this hand with 635 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 6215 Tournament chips.
+Poneck, at seat 2, is in this hand with 1165 Tournament chips.
+doodledog, at seat 4, is in this hand with 4515 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1695 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Johny Pryor is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Jd 9d ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck calls [60 Tournament chips]
+doodledog calls [60 Tournament chips]
+anonyfamous calls [60 Tournament chips]
+Johny Pryor folds [60 Tournament chips]
+JVRz folds [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 9s ] board:[ Ks 9s]
+** Dealing Flop ** [ Js ] board:[ Ks 9s Js]
+QwertySpark bets for 315 Tournament chips
+Poneck calls [315 Tournament chips]
+doodledog folds [315 Tournament chips]
+anonyfamous folds [315 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Ks 9s Js 5h]
+QwertySpark checks
+Poneck goes all-in for 790 Tournament chips
+QwertySpark calls [790 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Jd 9d ]
+Poneck shows [ As 8s ]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Ks 9s Js 5h Ac]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Jd 9d ] two pair, jacks and nines, ace kicker
+Poneck shows [ As 8s ] flush, ace/king/jack high
+Poneck wins main pot 2480 Tournament chips with flush, ace/king/jack high.
+Seat 0: JVRz (635 Tournament chips) 
+Seat 1: QwertySpark (5110 Tournament chips) 
+Seat 2: Poneck (2480 Tournament chips) 
+Seat 4: doodledog (4455 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-24 ends
+Game #23889801-25 starts
+Seat 0: JVRz (635 Tournament chips) 
+Seat 1: QwertySpark (5110 Tournament chips) 
+Seat 2: Poneck (2480 Tournament chips) 
+Seat 4: doodledog (4455 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [30 Tournament chips]
+Poneck posts the big blind [60 Tournament chips]
+JVRz, at seat 0, is in this hand with 635 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5080 Tournament chips.
+Poneck, at seat 2, is in this hand with 2420 Tournament chips.
+doodledog, at seat 4, is in this hand with 4455 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1635 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Td 2h ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to Johny Pryor [ **** ]
+doodledog folds [60 Tournament chips]
+anonyfamous folds [60 Tournament chips]
+Johny Pryor folds [60 Tournament chips]
+JVRz calls [60 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+Poneck checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 5s ] board:[ 5c 5s]
+** Dealing Flop ** [ Qh ] board:[ 5c 5s Qh]
+QwertySpark checks
+Poneck checks
+JVRz bets for 120 Tournament chips
+QwertySpark folds [120 Tournament chips]
+Poneck folds [120 Tournament chips]
+JVRz is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for JVRz (Qs Ks 5c 5s Qh: two pair, queens and fives)
+JVRz wins main pot 180 Tournament chips.
+Seat 0: JVRz (755 Tournament chips) 
+Seat 1: QwertySpark (5050 Tournament chips) 
+Seat 2: Poneck (2420 Tournament chips) 
+Seat 4: doodledog (4455 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-25 ends
+Game #23889801-26 starts
+Seat 0: JVRz (755 Tournament chips) 
+Seat 1: QwertySpark (5050 Tournament chips) 
+Seat 2: Poneck (2420 Tournament chips) 
+Seat 4: doodledog (4455 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 7: byu15xyz (2665 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Poneck posts the small blind [50 Tournament chips]
+doodledog posts the big blind [100 Tournament chips]
+JVRz, at seat 0, is in this hand with 755 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5050 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand with 4355 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1635 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 2665 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 9h 7d ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+anonyfamous folds [100 Tournament chips]
+byu15xyz folds [100 Tournament chips]
+Johny Pryor folds [100 Tournament chips]
+JVRz folds [100 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+Poneck folds [250 Tournament chips]
+doodledog folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (9h 7d: nine high)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 0: JVRz (755 Tournament chips) 
+Seat 1: QwertySpark (5200 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (4355 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 7: byu15xyz (2665 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-26 ends
+Game #23889801-27 starts
+Seat 0: JVRz (755 Tournament chips) 
+Seat 1: QwertySpark (5200 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (4355 Tournament chips) 
+Seat 6: anonyfamous (1635 Tournament chips) 
+Seat 7: byu15xyz (2665 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+doodledog posts the small blind [50 Tournament chips]
+anonyfamous posts the big blind [100 Tournament chips]
+JVRz, at seat 0, is in this hand with 755 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5200 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand (absent) with 4305 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 1535 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 2665 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 9h Ah ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz folds [100 Tournament chips]
+Johny Pryor folds [100 Tournament chips]
+JVRz calls [100 Tournament chips]
+(doodledog has entered the table, is no longer absent.)
+QwertySpark calls [100 Tournament chips]
+Poneck folds [100 Tournament chips]
+doodledog calls [50 Tournament chips]
+anonyfamous checks
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Tc ] board:[ 5d Tc]
+** Dealing Flop ** [ 7s ] board:[ 5d Tc 7s]
+doodledog bets for 100 Tournament chips
+anonyfamous raises [800 Tournament chips]
+JVRz folds [655 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+doodledog calls [700 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 5d Tc 7s 6d]
+doodledog checks
+anonyfamous goes all-in for 735 Tournament chips
+doodledog calls [735 Tournament chips]
+Tournament all-in showdown -- players show:
+doodledog shows [ 5c 3s ]
+anonyfamous shows [ Ts 3h ]
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ 5d Tc 7s 6d Kh]
+        (no action in this round)
+Round 4 is over.
+doodledog shows [ 5c 3s ] a pair of fives, king/ten kickers
+anonyfamous shows [ Ts 3h ] a pair of tens, king/seven kickers
+anonyfamous wins main pot 3470 Tournament chips with a pair of tens, king/seven kickers.
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (5100 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (2720 Tournament chips) 
+Seat 6: anonyfamous (3470 Tournament chips) 
+Seat 7: byu15xyz (2665 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-27 ends
+Game #23889801-28 starts
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (5100 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (2720 Tournament chips) 
+Seat 6: anonyfamous (3470 Tournament chips) 
+Seat 7: byu15xyz (2665 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+anonyfamous posts the small blind [50 Tournament chips]
+byu15xyz posts the big blind [100 Tournament chips]
+JVRz, at seat 0, is in this hand with 655 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5100 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand with 2720 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 3420 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 2565 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4100 Tournament chips.
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Jh 2s ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [100 Tournament chips]
+JVRz folds [100 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+Poneck folds [100 Tournament chips]
+doodledog raises [200 Tournament chips]
+anonyfamous calls [150 Tournament chips]
+byu15xyz calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ 3s ] board:[ 7c 3s]
+** Dealing Flop ** [ 6c ] board:[ 7c 3s 6c]
+anonyfamous bets for 300 Tournament chips
+byu15xyz calls [300 Tournament chips]
+doodledog raises all-in [2520 Tournament chips]
+anonyfamous calls [2220 Tournament chips]
+byu15xyz folds [2165 Tournament chips]
+Tournament all-in showdown -- players show:
+doodledog shows [ Ah As ]
+anonyfamous shows [ Js 7s ]
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ 7c 3s 6c 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 7c 3s 6c 4h Qd]
+        (no action in this round)
+Round 4 is over.
+doodledog shows [ Ah As ] a pair of aces, queen/seven kickers
+anonyfamous shows [ Js 7s ] a pair of sevens, queen/jack kickers
+doodledog wins main pot 5940 Tournament chips with a pair of aces, queen/seven kickers.
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (5100 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (5940 Tournament chips) 
+Seat 6: anonyfamous (750 Tournament chips) 
+Seat 7: byu15xyz (2165 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+Game #23889801-28 ends
+Game #23889801-29 starts
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (5100 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (5940 Tournament chips) 
+Seat 6: anonyfamous (750 Tournament chips) 
+Seat 7: byu15xyz (2165 Tournament chips) 
+Seat 8: Johny Pryor (4100 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 6.
+byu15xyz posts the small blind [50 Tournament chips]
+Johny Pryor posts the big blind [100 Tournament chips]
+JVRz, at seat 0, is in this hand with 655 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 5100 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand with 5940 Tournament chips.
+anonyfamous, at seat 6, is in this hand with 750 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 2115 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4000 Tournament chips.
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+anonyfamous is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Ac Jc ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to anonyfamous [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+JVRz folds [100 Tournament chips]
+QwertySpark raises [500 Tournament chips]
+Poneck folds [500 Tournament chips]
+doodledog calls [500 Tournament chips]
+anonyfamous raises all-in [750 Tournament chips]
+byu15xyz calls [700 Tournament chips]
+Johny Pryor folds [650 Tournament chips]
+QwertySpark calls [250 Tournament chips]
+doodledog calls [250 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Td ] board:[ 3d Td]
+** Dealing Flop ** [ 8h ] board:[ 3d Td 8h]
+byu15xyz goes all-in for 1415 Tournament chips
+QwertySpark folds [1415 Tournament chips]
+doodledog calls [1415 Tournament chips]
+Tournament all-in showdown -- players show:
+doodledog shows [ Qd 9c ]
+anonyfamous shows [ Qs Kd ]
+byu15xyz shows [ Ah Th ]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 3d Td 8h 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ad ] board:[ 3d Td 8h 7c Ad]
+        (no action in this round)
+Round 4 is over.
+doodledog shows [ Qd 9c ] ace/queen/ten high
+anonyfamous shows [ Qs Kd ] ace/king/queen high
+byu15xyz shows [ Ah Th ] two pair, aces and tens, eight kicker
+byu15xyz wins main pot 3100 Tournament chips with two pair, aces and tens, eight kicker.
+byu15xyz wins side pot #1 2830 Tournament chips with two pair, aces and tens, eight kicker.
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (4350 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (3775 Tournament chips) 
+Seat 6: anonyfamous (0 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (4000 Tournament chips) 
+Game #23889801-29 ends
+Player anonyfamous leaves the table with 0 Tournament chips
+Game #23889801-30 starts
+Seat 0: JVRz (655 Tournament chips) 
+Seat 1: QwertySpark (4350 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (3775 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (4000 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [50 Tournament chips]
+JVRz posts the big blind [100 Tournament chips]
+JVRz, at seat 0, is in this hand with 555 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4350 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand with 3775 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5930 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+byu15xyz is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ 5s Jh ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [100 Tournament chips]
+Poneck folds [100 Tournament chips]
+doodledog calls [100 Tournament chips]
+byu15xyz folds [100 Tournament chips]
+Johny Pryor folds [50 Tournament chips]
+JVRz checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 9s ] board:[ 5c 9s]
+** Dealing Flop ** [ Kh ] board:[ 5c 9s Kh]
+JVRz checks
+doodledog checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 5c 9s Kh 8s]
+JVRz checks
+doodledog bets for 100 Tournament chips
+JVRz calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 5c 9s Kh 8s Ac]
+JVRz checks
+doodledog bets for 100 Tournament chips
+JVRz calls [100 Tournament chips]
+Round 4 is over.
+doodledog shows [ 6d 6c ] a pair of sixes
+Hand evaluation for doodledog (6d 6c 9s Kh Ac: a pair of sixes)
+JVRz doesn't show [ Qh Js ]
+(JVRz has Qh Js.)
+doodledog wins main pot 650 Tournament chips with a pair of sixes, ace/king kickers.
+Seat 0: JVRz (355 Tournament chips) 
+Seat 1: QwertySpark (4350 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (4125 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+Game #23889801-30 ends
+Game #23889801-31 starts
+Seat 0: JVRz (355 Tournament chips) 
+Seat 1: QwertySpark (4350 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (4125 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+JVRz posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+JVRz, at seat 0, is in this hand with 280 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4200 Tournament chips.
+Poneck, at seat 2, is in this hand with 2370 Tournament chips.
+doodledog, at seat 4, is in this hand with 4125 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5930 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+JVRz is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to JVRz [ **** ]
+Dealt to QwertySpark [ Kd Ah ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck folds [150 Tournament chips]
+doodledog calls [150 Tournament chips]
+byu15xyz folds [150 Tournament chips]
+Johny Pryor folds [150 Tournament chips]
+JVRz raises all-in [280 Tournament chips]
+QwertySpark re-raises [1160 Tournament chips]
+doodledog calls [1160 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 7c ] board:[ 7d 7c]
+** Dealing Flop ** [ 2c ] board:[ 7d 7c 2c]
+QwertySpark bets for 750 Tournament chips
+doodledog folds [750 Tournament chips]
+QwertySpark is returned 750 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+JVRz shows [ Kh 6h ]
+QwertySpark shows [ Kd Ah ]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 7d 7c 2c 5c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 7d 7c 2c 5c Qh]
+        (no action in this round)
+Round 4 is over.
+JVRz shows [ Kh 6h ] a pair of sevens, king/queen kickers
+QwertySpark shows [ Kd Ah ] a pair of sevens, ace/king kickers
+QwertySpark wins main pot 1065 Tournament chips with a pair of sevens, ace/king kickers.
+QwertySpark wins side pot #1 1910 Tournament chips with a pair of sevens, ace/king kickers.
+Seat 0: JVRz (0 Tournament chips) 
+Seat 1: QwertySpark (6015 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (2815 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+Game #23889801-31 ends
+Player JVRz leaves the table with 0 Tournament chips
+Game #23889801-32 starts
+Seat 1: QwertySpark (6015 Tournament chips) 
+Seat 2: Poneck (2370 Tournament chips) 
+Seat 4: doodledog (2815 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [75 Tournament chips]
+Poneck posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5940 Tournament chips.
+Poneck, at seat 2, is in this hand with 2220 Tournament chips.
+doodledog, at seat 4, is in this hand with 2815 Tournament chips.
+it-sct, at seat 5, is in this hand with 3257 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5930 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ 2s 7s ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+doodledog calls [150 Tournament chips]
+it-sct folds [150 Tournament chips]
+byu15xyz folds [150 Tournament chips]
+Johny Pryor folds [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+Poneck raises all-in [2220 Tournament chips]
+doodledog folds [2220 Tournament chips]
+QwertySpark folds [2220 Tournament chips]
+Poneck is returned 2220 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Poneck (Ac Kd: ace high)
+Poneck wins main pot 450 Tournament chips.
+Seat 1: QwertySpark (5865 Tournament chips) 
+Seat 2: Poneck (2670 Tournament chips) 
+Seat 4: doodledog (2665 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+Game #23889801-32 ends
+Game #23889801-33 starts
+Seat 1: QwertySpark (5865 Tournament chips) 
+Seat 2: Poneck (2670 Tournament chips) 
+Seat 4: doodledog (2665 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5930 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+Poneck posts the small blind [75 Tournament chips]
+doodledog posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5865 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+doodledog, at seat 4, is in this hand with 2515 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3257 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5930 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Dealt to QwertySpark [ 6h Ad ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+it-sct folds [150 Tournament chips]
+byu15xyz calls [150 Tournament chips]
+Johny Pryor calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Poneck folds [75 Tournament chips]
+doodledog checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Kh ] board:[ 8h Kh]
+** Dealing Flop ** [ 6s ] board:[ 8h Kh 6s]
+doodledog checks
+byu15xyz checks
+Johny Pryor checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 8h Kh 6s 3s]
+doodledog checks
+byu15xyz checks
+Johny Pryor checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 8h Kh 6s 3s Js]
+doodledog bets for 150 Tournament chips
+byu15xyz folds [150 Tournament chips]
+Johny Pryor folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Round 4 is over.
+doodledog shows [ Jh 7d ] a pair of jacks
+Hand evaluation for doodledog (Jh 7d 8h Kh Js: a pair of jacks)
+QwertySpark doesn't show [ 6h Ad ]
+(QwertySpark has 6h Ad.)
+doodledog wins main pot 975 Tournament chips with a pair of jacks, king/eight kickers.
+Seat 1: QwertySpark (5565 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: doodledog (3340 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5780 Tournament chips) 
+Seat 8: Johny Pryor (3800 Tournament chips) 
+Game #23889801-33 ends
+Game #23889801-34 starts
+Seat 1: QwertySpark (5565 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: doodledog (3340 Tournament chips) 
+Seat 5: it-sct (3257 Tournament chips) 
+Seat 7: byu15xyz (5780 Tournament chips) 
+Seat 8: Johny Pryor (3800 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+doodledog posts the small blind [75 Tournament chips]
+it-sct posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5565 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+doodledog, at seat 4, is in this hand with 3265 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3107 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5780 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3800 Tournament chips.
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+Dealt to QwertySpark [ 9h 8s ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz folds [150 Tournament chips]
+Johny Pryor raises [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Poneck folds [300 Tournament chips]
+doodledog calls [225 Tournament chips]
+it-sct folds [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ Qh ] board:[ 4c Qh]
+** Dealing Flop ** [ 7d ] board:[ 4c Qh 7d]
+doodledog checks
+Johny Pryor bets for 150 Tournament chips
+doodledog folds [150 Tournament chips]
+Johny Pryor is returned 150 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Johny Pryor (Th Td 4c Qh 7d: a pair of tens)
+Johny Pryor wins main pot 750 Tournament chips.
+Seat 1: QwertySpark (5565 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: doodledog (3040 Tournament chips) 
+Seat 5: it-sct (3107 Tournament chips) 
+Seat 6: bakercows (6277 Tournament chips) 
+Seat 7: byu15xyz (5780 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+Game #23889801-34 ends
+Game #23889801-35 starts
+Seat 1: QwertySpark (5565 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: doodledog (3040 Tournament chips) 
+Seat 5: it-sct (3107 Tournament chips) 
+Seat 6: bakercows (6277 Tournament chips) 
+Seat 7: byu15xyz (5780 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+it-sct posts the small blind [75 Tournament chips]
+bakercows posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5565 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+doodledog, at seat 4, is in this hand with 3040 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 6127 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 5780 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4250 Tournament chips.
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+doodledog is dealt: **
+Dealt to QwertySpark [ Jh 9h ]
+Dealt to Poneck [ **** ]
+Dealt to doodledog [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz raises [300 Tournament chips]
+Johny Pryor folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Poneck folds [300 Tournament chips]
+doodledog re-raises [450 Tournament chips]
+it-sct folds [375 Tournament chips]
+bakercows folds [300 Tournament chips]
+byu15xyz calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 6c ] board:[ 9d 6c]
+** Dealing Flop ** [ Qh ] board:[ 9d 6c Qh]
+byu15xyz checks
+QwertySpark checks
+doodledog goes all-in for 2590 Tournament chips
+byu15xyz calls [2590 Tournament chips]
+QwertySpark folds [2590 Tournament chips]
+Tournament all-in showdown -- players show:
+doodledog shows [ Qs Kd ]
+byu15xyz shows [ 9s Kc ]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 9d 6c Qh Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 9d 6c Qh Js 9c]
+        (no action in this round)
+Round 4 is over.
+doodledog shows [ Qs Kd ] two pair, queens and nines, king kicker
+byu15xyz shows [ 9s Kc ] three nines, king/queen kickers
+byu15xyz wins main pot 6755 Tournament chips with three nines, king/queen kickers.
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: doodledog (0 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (6127 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+Game #23889801-35 ends
+Player doodledog leaves the table with 0 Tournament chips
+Game #23889801-36 starts
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (6127 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+bakercows posts the small blind [100 Tournament chips]
+byu15xyz posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5115 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 6027 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9295 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4250 Tournament chips.
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+it-sct is dealt: **
+Dealt to QwertySpark [ Kc 5s ]
+Dealt to Poneck [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Poneck folds [200 Tournament chips]
+it-sct folds [200 Tournament chips]
+bakercows calls [100 Tournament chips]
+byu15xyz checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Ah ] board:[ 3d Ah]
+** Dealing Flop ** [ Tc ] board:[ 3d Ah Tc]
+bakercows checks
+byu15xyz bets for 200 Tournament chips
+bakercows folds [200 Tournament chips]
+byu15xyz is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for byu15xyz (Ad 8h 3d Ah Tc: a pair of aces)
+byu15xyz wins main pot 400 Tournament chips.
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9695 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+Game #23889801-36 ends
+Game #23889801-37 starts
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9695 Tournament chips) 
+Seat 8: Johny Pryor (4250 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+byu15xyz posts the small blind [100 Tournament chips]
+Johny Pryor posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5115 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 6045 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 5927 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9595 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4050 Tournament chips.
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+Dealt to QwertySpark [ 3s 2h ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [200 Tournament chips]
+Poneck calls [200 Tournament chips]
+ezgoer856 folds [200 Tournament chips]
+it-sct folds [200 Tournament chips]
+bakercows folds [200 Tournament chips]
+byu15xyz calls [100 Tournament chips]
+Johny Pryor checks
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Jd ] board:[ 2d Jd]
+** Dealing Flop ** [ 4h ] board:[ 2d Jd 4h]
+byu15xyz checks
+Johny Pryor checks
+Poneck bets for 400 Tournament chips
+byu15xyz folds [400 Tournament chips]
+Johny Pryor folds [400 Tournament chips]
+Poneck is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Poneck (Qd Qh 2d Jd 4h: a pair of queens)
+Poneck wins main pot 600 Tournament chips.
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2995 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (4050 Tournament chips) 
+Game #23889801-37 ends
+Game #23889801-38 starts
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (2995 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (4050 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4915 Tournament chips.
+Poneck, at seat 2, is in this hand with 2995 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 6045 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 5927 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9495 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Dealt to QwertySpark [ 3h Ad ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck folds [200 Tournament chips]
+ezgoer856 folds [200 Tournament chips]
+it-sct folds [200 Tournament chips]
+bakercows folds [200 Tournament chips]
+byu15xyz folds [200 Tournament chips]
+Johny Pryor folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (3h Ad: ace high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2995 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+Game #23889801-38 ends
+Game #23889801-39 starts
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2995 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [100 Tournament chips]
+Poneck posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5115 Tournament chips.
+Poneck, at seat 2, is in this hand with 2795 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 6045 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 5927 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9495 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ Jc 2d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+ezgoer856 folds [200 Tournament chips]
+it-sct folds [200 Tournament chips]
+bakercows folds [200 Tournament chips]
+byu15xyz folds [200 Tournament chips]
+Johny Pryor folds [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Poneck checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Ad ] board:[ 5h Ad]
+** Dealing Flop ** [ 8h ] board:[ 5h Ad 8h]
+QwertySpark bets for 400 Tournament chips
+Poneck folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Jc 2d 5h Ad 8h: ace high)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 1: QwertySpark (5415 Tournament chips) 
+Seat 2: Poneck (2795 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+Game #23889801-39 ends
+Game #23889801-40 starts
+Seat 1: QwertySpark (5415 Tournament chips) 
+Seat 2: Poneck (2795 Tournament chips) 
+Seat 4: ezgoer856 (6045 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (5927 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3950 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Poneck posts the small blind [100 Tournament chips]
+ezgoer856 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5415 Tournament chips.
+Poneck, at seat 2, is in this hand with 2695 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 5845 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 3032 Tournament chips.
+bakercows, at seat 6, is in this hand with 5927 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9495 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3950 Tournament chips.
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Dealt to QwertySpark [ 3c 6d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+it-sct folds [200 Tournament chips]
+bakercows calls [200 Tournament chips]
+byu15xyz folds [200 Tournament chips]
+Johny Pryor calls [200 Tournament chips]
+QwertySpark folds [200 Tournament chips]
+Poneck calls [100 Tournament chips]
+ezgoer856 checks
+Round 1 is over.
+** Dealing Flop ** [ 7h ] board:[ 7h]
+** Dealing Flop ** [ Js ] board:[ 7h Js]
+** Dealing Flop ** [ 5h ] board:[ 7h Js 5h]
+Poneck checks
+ezgoer856 checks
+bakercows bets for 400 Tournament chips
+Johny Pryor folds [400 Tournament chips]
+Poneck folds [400 Tournament chips]
+ezgoer856 folds [400 Tournament chips]
+bakercows is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for bakercows (Jh Tc 7h Js 5h: a pair of jacks)
+bakercows wins main pot 800 Tournament chips.
+Seat 1: QwertySpark (5415 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (5845 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (6527 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3750 Tournament chips) 
+Game #23889801-40 ends
+Game #23889801-41 starts
+Seat 1: QwertySpark (5415 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (5845 Tournament chips) 
+Seat 5: it-sct (3032 Tournament chips) 
+Seat 6: bakercows (6527 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3750 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+ezgoer856 posts the small blind [100 Tournament chips]
+it-sct posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5415 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 5745 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2832 Tournament chips.
+bakercows, at seat 6, is in this hand with 6527 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9495 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3750 Tournament chips.
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+Dealt to QwertySpark [ 9h Kc ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+bakercows calls [200 Tournament chips]
+byu15xyz folds [200 Tournament chips]
+Johny Pryor calls [200 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Poneck folds [200 Tournament chips]
+ezgoer856 folds [100 Tournament chips]
+it-sct folds
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 3c ] board:[ Tc 3c]
+** Dealing Flop ** [ 4h ] board:[ Tc 3c 4h]
+bakercows bets for 450 Tournament chips
+Johny Pryor folds [450 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+bakercows is returned 450 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for bakercows (Ad Th Tc 3c 4h: a pair of tens)
+bakercows wins main pot 900 Tournament chips.
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (5745 Tournament chips) 
+Seat 5: it-sct (2832 Tournament chips) 
+Seat 6: bakercows (7227 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3550 Tournament chips) 
+Game #23889801-41 ends
+Game #23889801-42 starts
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (5745 Tournament chips) 
+Seat 5: it-sct (2832 Tournament chips) 
+Seat 6: bakercows (7227 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (3550 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 4.
+it-sct posts the small blind [150 Tournament chips]
+bakercows posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5215 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 5745 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2682 Tournament chips.
+bakercows, at seat 6, is in this hand with 6927 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9495 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3550 Tournament chips.
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+Dealt to QwertySpark [ 8h 2c ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz folds [300 Tournament chips]
+Johny Pryor calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Poneck folds [300 Tournament chips]
+ezgoer856 calls [300 Tournament chips]
+it-sct folds [150 Tournament chips]
+bakercows checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 4h ] board:[ 5s 4h]
+** Dealing Flop ** [ Th ] board:[ 5s 4h Th]
+bakercows checks
+Johny Pryor bets for 300 Tournament chips
+ezgoer856 calls [300 Tournament chips]
+bakercows calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ 5s 4h Th Qs]
+bakercows checks
+Johny Pryor bets for 600 Tournament chips
+ezgoer856 calls [600 Tournament chips]
+bakercows calls [600 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 5s 4h Th Qs 4c]
+bakercows checks
+Johny Pryor bets for 900 Tournament chips
+ezgoer856 folds [900 Tournament chips]
+bakercows folds [900 Tournament chips]
+Johny Pryor is returned 900 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Johny Pryor (Qh Tc 5s Th Qs: two pair, queens and tens)
+Johny Pryor wins main pot 3750 Tournament chips.
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (4545 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (6027 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (6100 Tournament chips) 
+Game #23889801-42 ends
+Game #23889801-43 starts
+Seat 1: QwertySpark (5215 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (4545 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (6027 Tournament chips) 
+Seat 7: byu15xyz (9495 Tournament chips) 
+Seat 8: Johny Pryor (6100 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+bakercows posts the small blind [150 Tournament chips]
+byu15xyz posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5215 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 4545 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2682 Tournament chips.
+bakercows, at seat 6, is in this hand with 5877 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9195 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 6100 Tournament chips.
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+Dealt to QwertySpark [ 8d 9h ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor folds [300 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+Poneck folds [600 Tournament chips]
+ezgoer856 calls [600 Tournament chips]
+it-sct folds [600 Tournament chips]
+bakercows calls [450 Tournament chips]
+byu15xyz re-raises [600 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+ezgoer856 calls [300 Tournament chips]
+bakercows folds [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6s ] board:[ 6s]
+** Dealing Flop ** [ 4h ] board:[ 6s 4h]
+** Dealing Flop ** [ 6c ] board:[ 6s 4h 6c]
+byu15xyz bets for 300 Tournament chips
+QwertySpark calls [300 Tournament chips]
+ezgoer856 calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ 6s 4h 6c 3s]
+byu15xyz checks
+QwertySpark checks
+ezgoer856 checks
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 6s 4h 6c 3s Jd]
+byu15xyz bets for 300 Tournament chips
+QwertySpark calls [300 Tournament chips]
+ezgoer856 folds [300 Tournament chips]
+Round 4 is over.
+byu15xyz shows [ 3h Ah ] two pair, sixes and threes
+Hand evaluation for byu15xyz (3h Ah 6s 6c 3s: two pair, sixes and threes)
+QwertySpark doesn't show [ 8d 9h ]
+(QwertySpark has 8d 9h.)
+byu15xyz wins main pot 4800 Tournament chips with two pair, sixes and threes, ace kicker.
+Seat 1: QwertySpark (3715 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (5427 Tournament chips) 
+Seat 7: byu15xyz (12795 Tournament chips) 
+Seat 8: Johny Pryor (6100 Tournament chips) 
+Game #23889801-43 ends
+Game #23889801-44 starts
+Seat 1: QwertySpark (3715 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (5427 Tournament chips) 
+Seat 7: byu15xyz (12795 Tournament chips) 
+Seat 8: Johny Pryor (6100 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+byu15xyz posts the small blind [150 Tournament chips]
+Johny Pryor posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3715 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 3345 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2682 Tournament chips.
+bakercows, at seat 6, is in this hand with 5427 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12645 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 5800 Tournament chips.
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+Dealt to QwertySpark [ Js 9s ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark raises [1200 Tournament chips]
+Poneck folds [1200 Tournament chips]
+ezgoer856 folds [1200 Tournament chips]
+it-sct folds [1200 Tournament chips]
+bakercows folds [1200 Tournament chips]
+byu15xyz folds [1050 Tournament chips]
+Johny Pryor folds [900 Tournament chips]
+QwertySpark is returned 900 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Js 9s: jack high)
+QwertySpark wins main pot 750 Tournament chips.
+Seat 1: QwertySpark (4165 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (5427 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5800 Tournament chips) 
+Game #23889801-44 ends
+Game #23889801-45 starts
+Seat 1: QwertySpark (4165 Tournament chips) 
+Seat 2: Poneck (2595 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (5427 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5800 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Johny Pryor posts the small blind [150 Tournament chips]
+QwertySpark posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3865 Tournament chips.
+Poneck, at seat 2, is in this hand with 2595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 3345 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2682 Tournament chips.
+bakercows, at seat 6, is in this hand with 5427 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12645 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 5650 Tournament chips.
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Dealt to QwertySpark [ 6h Ts ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck raises [1200 Tournament chips]
+ezgoer856 folds [1200 Tournament chips]
+it-sct folds [1200 Tournament chips]
+bakercows calls [1200 Tournament chips]
+byu15xyz folds [1200 Tournament chips]
+Johny Pryor folds [1050 Tournament chips]
+QwertySpark folds [900 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 9c ] board:[ Kd 9c]
+** Dealing Flop ** [ Qs ] board:[ Kd 9c Qs]
+Poneck checks
+(it-sct has entered the table, is no longer absent.)
+bakercows checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Kd 9c Qs 8s]
+Poneck checks
+bakercows checks
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Kd 9c Qs 8s 8d]
+Poneck checks
+bakercows checks
+Round 4 is over.
+Poneck shows [ Jh Js ] two pair, jacks and eights
+Hand evaluation for Poneck (Jh Js Kd 8s 8d: two pair, jacks and eights)
+bakercows doesn't show [ Ah 9h ]
+(bakercows has Ah 9h.)
+Poneck wins main pot 2850 Tournament chips with two pair, jacks and eights, king kicker.
+Seat 1: QwertySpark (3865 Tournament chips) 
+Seat 2: Poneck (4245 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (4227 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5650 Tournament chips) 
+Game #23889801-45 ends
+Game #23889801-46 starts
+Seat 1: QwertySpark (3865 Tournament chips) 
+Seat 2: Poneck (4245 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2682 Tournament chips) 
+Seat 6: bakercows (4227 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5650 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [150 Tournament chips]
+Poneck posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3715 Tournament chips.
+Poneck, at seat 2, is in this hand with 3945 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 3345 Tournament chips.
+it-sct, at seat 5, is in this hand with 2682 Tournament chips.
+bakercows, at seat 6, is in this hand with 4227 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12645 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 5650 Tournament chips.
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ 2s 5d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+ezgoer856 folds [300 Tournament chips]
+it-sct calls [300 Tournament chips]
+bakercows calls [300 Tournament chips]
+byu15xyz folds [300 Tournament chips]
+Johny Pryor calls [300 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+Poneck checks
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 4c ] board:[ Qs 4c]
+** Dealing Flop ** [ Ah ] board:[ Qs 4c Ah]
+QwertySpark checks
+Poneck checks
+it-sct checks
+bakercows bets for 750 Tournament chips
+Johny Pryor folds [750 Tournament chips]
+QwertySpark calls [750 Tournament chips]
+Poneck folds [750 Tournament chips]
+it-sct folds [750 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5s ] board:[ Qs 4c Ah 5s]
+QwertySpark checks
+bakercows bets for 1500 Tournament chips
+QwertySpark folds [1500 Tournament chips]
+bakercows is returned 1500 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for bakercows (As Kc Qs Ah 5s: a pair of aces)
+bakercows wins main pot 3000 Tournament chips.
+Seat 1: QwertySpark (2815 Tournament chips) 
+Seat 2: Poneck (3945 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2382 Tournament chips) 
+Seat 6: bakercows (6177 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5350 Tournament chips) 
+Game #23889801-46 ends
+Game #23889801-47 starts
+Seat 1: QwertySpark (2815 Tournament chips) 
+Seat 2: Poneck (3945 Tournament chips) 
+Seat 4: ezgoer856 (3345 Tournament chips) 
+Seat 5: it-sct (2382 Tournament chips) 
+Seat 6: bakercows (6177 Tournament chips) 
+Seat 7: byu15xyz (12645 Tournament chips) 
+Seat 8: Johny Pryor (5350 Tournament chips) 
+The button is at seat 8
+Poneck posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+ezgoer856 posted ante of 25 Tournament chips
+it-sct posted ante of 25 Tournament chips
+bakercows posted ante of 25 Tournament chips
+Johny Pryor posted ante of 25 Tournament chips
+byu15xyz posted ante of 25 Tournament chips
+The button is moved to seat 1.
+Poneck posts the small blind [150 Tournament chips]
+ezgoer856 posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2790 Tournament chips.
+Poneck, at seat 2, is in this hand with 3770 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 3020 Tournament chips.
+it-sct, at seat 5, is in this hand with 2357 Tournament chips.
+bakercows, at seat 6, is in this hand with 6152 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12620 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 5325 Tournament chips.
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Dealt to QwertySpark [ Ts 9d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+it-sct calls [300 Tournament chips]
+bakercows folds [300 Tournament chips]
+byu15xyz folds [300 Tournament chips]
+Johny Pryor calls [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Poneck calls [150 Tournament chips]
+ezgoer856 checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 6s ] board:[ 3d 6s]
+** Dealing Flop ** [ Jc ] board:[ 3d 6s Jc]
+Poneck checks
+ezgoer856 checks
+it-sct checks
+Johny Pryor checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 3d 6s Jc Kc]
+Poneck checks
+ezgoer856 checks
+it-sct checks
+Johny Pryor checks
+QwertySpark bets for 900 Tournament chips
+Poneck folds [900 Tournament chips]
+ezgoer856 calls [900 Tournament chips]
+it-sct folds [900 Tournament chips]
+Johny Pryor folds [900 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3d 6s Jc Kc Tc]
+ezgoer856 checks
+QwertySpark goes all-in for 1590 Tournament chips
+ezgoer856 folds [1590 Tournament chips]
+QwertySpark is returned 1590 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ts 9d Jc Kc Tc: a pair of tens)
+QwertySpark wins main pot 3475 Tournament chips.
+Seat 1: QwertySpark (5065 Tournament chips) 
+Seat 2: Poneck (3620 Tournament chips) 
+Seat 4: ezgoer856 (2120 Tournament chips) 
+Seat 5: it-sct (2057 Tournament chips) 
+Seat 6: bakercows (6152 Tournament chips) 
+Seat 7: byu15xyz (12620 Tournament chips) 
+Seat 8: Johny Pryor (5025 Tournament chips) 
+Game #23889801-47 ends
+Game #23889801-48 starts
+Seat 1: QwertySpark (5065 Tournament chips) 
+Seat 2: Poneck (3620 Tournament chips) 
+Seat 4: ezgoer856 (2120 Tournament chips) 
+Seat 5: it-sct (2057 Tournament chips) 
+Seat 6: bakercows (6152 Tournament chips) 
+Seat 7: byu15xyz (12620 Tournament chips) 
+Seat 8: Johny Pryor (5025 Tournament chips) 
+The button is at seat 1
+Poneck posted ante of 25 Tournament chips
+QwertySpark posted ante of 25 Tournament chips
+it-sct posted ante of 25 Tournament chips
+ezgoer856 posted ante of 25 Tournament chips
+bakercows posted ante of 25 Tournament chips
+byu15xyz posted ante of 25 Tournament chips
+Johny Pryor posted ante of 25 Tournament chips
+The button is moved to seat 2.
+ezgoer856 posts the small blind [150 Tournament chips]
+it-sct posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5040 Tournament chips.
+Poneck, at seat 2, is in this hand with 3595 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1945 Tournament chips.
+it-sct, at seat 5, is in this hand with 1732 Tournament chips.
+bakercows, at seat 6, is in this hand with 6127 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12595 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 5000 Tournament chips.
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+Dealt to QwertySpark [ 9d 4d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+bakercows folds [300 Tournament chips]
+byu15xyz folds [300 Tournament chips]
+Johny Pryor folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Poneck folds [300 Tournament chips]
+ezgoer856 folds [150 Tournament chips]
+it-sct is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for it-sct (8c Ac: ace high)
+it-sct wins main pot 475 Tournament chips.
+Seat 1: QwertySpark (5040 Tournament chips) 
+Seat 2: Poneck (3595 Tournament chips) 
+Seat 4: ezgoer856 (1945 Tournament chips) 
+Seat 5: it-sct (2357 Tournament chips) 
+Seat 6: bakercows (6127 Tournament chips) 
+Seat 7: byu15xyz (12595 Tournament chips) 
+Seat 8: Johny Pryor (5000 Tournament chips) 
+Game #23889801-48 ends
+Game #23889801-49 starts
+Seat 1: QwertySpark (5040 Tournament chips) 
+Seat 2: Poneck (3595 Tournament chips) 
+Seat 4: ezgoer856 (1945 Tournament chips) 
+Seat 5: it-sct (2357 Tournament chips) 
+Seat 6: bakercows (6127 Tournament chips) 
+Seat 7: byu15xyz (12595 Tournament chips) 
+Seat 8: Johny Pryor (5000 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 25 Tournament chips
+Poneck posted ante of 25 Tournament chips
+ezgoer856 posted ante of 25 Tournament chips
+it-sct posted ante of 25 Tournament chips
+bakercows posted ante of 25 Tournament chips
+byu15xyz posted ante of 25 Tournament chips
+Johny Pryor posted ante of 25 Tournament chips
+The button is moved to seat 4.
+it-sct posts the small blind [150 Tournament chips]
+bakercows posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5015 Tournament chips.
+Poneck, at seat 2, is in this hand with 3570 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1920 Tournament chips.
+it-sct, at seat 5, is in this hand with 2182 Tournament chips.
+bakercows, at seat 6, is in this hand with 5802 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12570 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4975 Tournament chips.
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+Dealt to QwertySpark [ 8d Ks ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz raises [600 Tournament chips]
+Johny Pryor folds [600 Tournament chips]
+QwertySpark folds [600 Tournament chips]
+Poneck folds [600 Tournament chips]
+ezgoer856 folds [600 Tournament chips]
+it-sct folds [450 Tournament chips]
+bakercows calls [300 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 7h ] board:[ 9s 7h]
+** Dealing Flop ** [ 5h ] board:[ 9s 7h 5h]
+bakercows checks
+byu15xyz bets for 300 Tournament chips
+bakercows folds [300 Tournament chips]
+byu15xyz is returned 300 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for byu15xyz (Td 7d 9s 7h 5h: a pair of sevens)
+byu15xyz wins main pot 1525 Tournament chips.
+Seat 1: QwertySpark (5015 Tournament chips) 
+Seat 2: Poneck (3570 Tournament chips) 
+Seat 4: ezgoer856 (1920 Tournament chips) 
+Seat 5: it-sct (2182 Tournament chips) 
+Seat 6: bakercows (5502 Tournament chips) 
+Seat 7: byu15xyz (13495 Tournament chips) 
+Seat 8: Johny Pryor (4975 Tournament chips) 
+Game #23889801-49 ends
+Game #23889801-50 starts
+Seat 1: QwertySpark (5015 Tournament chips) 
+Seat 2: Poneck (3570 Tournament chips) 
+Seat 4: ezgoer856 (1920 Tournament chips) 
+Seat 5: it-sct (2182 Tournament chips) 
+Seat 6: bakercows (5502 Tournament chips) 
+Seat 7: byu15xyz (13495 Tournament chips) 
+Seat 8: Johny Pryor (4975 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 25 Tournament chips
+Poneck posted ante of 25 Tournament chips
+ezgoer856 posted ante of 25 Tournament chips
+it-sct posted ante of 25 Tournament chips
+bakercows posted ante of 25 Tournament chips
+Johny Pryor posted ante of 25 Tournament chips
+byu15xyz posted ante of 25 Tournament chips
+The button is moved to seat 5.
+bakercows posts the small blind [150 Tournament chips]
+byu15xyz posts the big blind [300 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4990 Tournament chips.
+Poneck, at seat 2, is in this hand with 3545 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1895 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2157 Tournament chips.
+bakercows, at seat 6, is in this hand with 5327 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 13170 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 4950 Tournament chips.
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+Dealt to QwertySpark [ 9s 4c ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor calls [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+Poneck calls [300 Tournament chips]
+ezgoer856 folds [300 Tournament chips]
+it-sct folds [300 Tournament chips]
+bakercows calls [150 Tournament chips]
+byu15xyz checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 7h ] board:[ 5s 7h]
+** Dealing Flop ** [ 8c ] board:[ 5s 7h 8c]
+bakercows checks
+byu15xyz bets for 300 Tournament chips
+Johny Pryor calls [300 Tournament chips]
+Poneck folds [300 Tournament chips]
+bakercows calls [300 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 5s 7h 8c Th]
+bakercows checks
+byu15xyz checks
+Johny Pryor checks
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 5s 7h 8c Th 8h]
+bakercows bets for 300 Tournament chips
+byu15xyz folds [300 Tournament chips]
+Johny Pryor folds [300 Tournament chips]
+bakercows is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for bakercows (Kh 9h 7h Th 8h: flush, king high)
+bakercows wins main pot 2275 Tournament chips.
+Seat 1: QwertySpark (4990 Tournament chips) 
+Seat 2: Poneck (3245 Tournament chips) 
+Seat 4: ezgoer856 (1895 Tournament chips) 
+Seat 5: it-sct (2157 Tournament chips) 
+Seat 6: bakercows (7152 Tournament chips) 
+Seat 7: byu15xyz (12870 Tournament chips) 
+Seat 8: Johny Pryor (4350 Tournament chips) 
+Game #23889801-50 ends
+Game #23889801-51 starts
+Seat 1: QwertySpark (4990 Tournament chips) 
+Seat 2: Poneck (3245 Tournament chips) 
+Seat 4: ezgoer856 (1895 Tournament chips) 
+Seat 5: it-sct (2157 Tournament chips) 
+Seat 6: bakercows (7152 Tournament chips) 
+Seat 7: byu15xyz (12870 Tournament chips) 
+Seat 8: Johny Pryor (4350 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 50 Tournament chips
+Poneck posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+The button is moved to seat 6.
+byu15xyz posts the small blind [200 Tournament chips]
+Johny Pryor posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4940 Tournament chips.
+Poneck, at seat 2, is in this hand with 3195 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1845 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2107 Tournament chips.
+bakercows, at seat 6, is in this hand with 7102 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 12620 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3900 Tournament chips.
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+Dealt to QwertySpark [ Ah 7d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark folds [400 Tournament chips]
+Poneck folds [400 Tournament chips]
+ezgoer856 calls [400 Tournament chips]
+it-sct folds [400 Tournament chips]
+bakercows folds [400 Tournament chips]
+byu15xyz calls [200 Tournament chips]
+Johny Pryor checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 2h ] board:[ 5c 2h]
+** Dealing Flop ** [ 5d ] board:[ 5c 2h 5d]
+byu15xyz bets for 400 Tournament chips
+Johny Pryor calls [400 Tournament chips]
+ezgoer856 calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 5c 2h 5d Qc]
+byu15xyz bets for 1375 Tournament chips
+Johny Pryor folds [1375 Tournament chips]
+ezgoer856 calls all-in [1045 Tournament chips]
+byu15xyz is returned 330 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+ezgoer856 shows [ Qh Ks ]
+byu15xyz shows [ 2s 4s ]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 5c 2h 5d Qc 6h]
+        (no action in this round)
+Round 4 is over.
+ezgoer856 shows [ Qh Ks ] two pair, queens and fives, king kicker
+byu15xyz shows [ 2s 4s ] two pair, fives and deuces, queen kicker
+ezgoer856 wins main pot 4840 Tournament chips with two pair, queens and fives, king kicker.
+Seat 1: QwertySpark (4940 Tournament chips) 
+Seat 2: Poneck (3195 Tournament chips) 
+Seat 4: ezgoer856 (4840 Tournament chips) 
+Seat 5: it-sct (2107 Tournament chips) 
+Seat 6: bakercows (7102 Tournament chips) 
+Seat 7: byu15xyz (10975 Tournament chips) 
+Seat 8: Johny Pryor (3500 Tournament chips) 
+Game #23889801-51 ends
+Game #23889801-52 starts
+Seat 1: QwertySpark (4940 Tournament chips) 
+Seat 2: Poneck (3195 Tournament chips) 
+Seat 4: ezgoer856 (4840 Tournament chips) 
+Seat 5: it-sct (2107 Tournament chips) 
+Seat 6: bakercows (7102 Tournament chips) 
+Seat 7: byu15xyz (10975 Tournament chips) 
+Seat 8: Johny Pryor (3500 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+Poneck posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+The button is moved to seat 7.
+Johny Pryor posts the small blind [200 Tournament chips]
+QwertySpark posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4490 Tournament chips.
+Poneck, at seat 2, is in this hand with 3145 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 4790 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2057 Tournament chips.
+bakercows, at seat 6, is in this hand with 7052 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 10925 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3250 Tournament chips.
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Dealt to QwertySpark [ 9s 9d ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck folds [400 Tournament chips]
+ezgoer856 folds [400 Tournament chips]
+it-sct folds [400 Tournament chips]
+bakercows calls [400 Tournament chips]
+byu15xyz folds [400 Tournament chips]
+Johny Pryor calls [200 Tournament chips]
+QwertySpark raises [2800 Tournament chips]
+bakercows folds [2800 Tournament chips]
+Johny Pryor folds [2800 Tournament chips]
+QwertySpark is returned 2800 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (9s 9d: a pair of nines)
+QwertySpark wins main pot 1550 Tournament chips.
+(Johny Pryor has entered the table, is no longer absent.)
+Seat 1: QwertySpark (6040 Tournament chips) 
+Seat 2: Poneck (3145 Tournament chips) 
+Seat 4: ezgoer856 (4790 Tournament chips) 
+Seat 5: it-sct (2057 Tournament chips) 
+Seat 6: bakercows (6652 Tournament chips) 
+Seat 7: byu15xyz (10925 Tournament chips) 
+Seat 8: Johny Pryor (3050 Tournament chips) 
+Game #23889801-52 ends
+Game #23889801-53 starts
+Seat 1: QwertySpark (6040 Tournament chips) 
+Seat 2: Poneck (3145 Tournament chips) 
+Seat 4: ezgoer856 (4790 Tournament chips) 
+Seat 5: it-sct (2057 Tournament chips) 
+Seat 6: bakercows (6652 Tournament chips) 
+Seat 7: byu15xyz (10925 Tournament chips) 
+Seat 8: Johny Pryor (3050 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 50 Tournament chips
+Poneck posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [200 Tournament chips]
+Poneck posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5790 Tournament chips.
+Poneck, at seat 2, is in this hand with 2695 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 4740 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 2007 Tournament chips.
+bakercows, at seat 6, is in this hand with 6602 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 10875 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3000 Tournament chips.
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ 7d Th ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+ezgoer856 folds [400 Tournament chips]
+it-sct folds [400 Tournament chips]
+bakercows folds [400 Tournament chips]
+byu15xyz folds [400 Tournament chips]
+Johny Pryor folds [400 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Poneck checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ Kd ] board:[ Qh Kd]
+** Dealing Flop ** [ As ] board:[ Qh Kd As]
+QwertySpark bets for 400 Tournament chips
+Poneck calls [400 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Qh Kd As 8s]
+QwertySpark bets for 1200 Tournament chips
+Poneck raises all-in [2295 Tournament chips]
+QwertySpark folds [1095 Tournament chips]
+Poneck is returned 1095 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Poneck (Kh Qh Kd As 8s: a pair of kings)
+Poneck wins main pot 4350 Tournament chips.
+Seat 1: QwertySpark (3990 Tournament chips) 
+Seat 2: Poneck (5445 Tournament chips) 
+Seat 4: ezgoer856 (4740 Tournament chips) 
+Seat 5: it-sct (2007 Tournament chips) 
+Seat 6: bakercows (6602 Tournament chips) 
+Seat 7: byu15xyz (10875 Tournament chips) 
+Seat 8: Johny Pryor (3000 Tournament chips) 
+Game #23889801-53 ends
+Game #23889801-54 starts
+Seat 1: QwertySpark (3990 Tournament chips) 
+Seat 2: Poneck (5445 Tournament chips) 
+Seat 4: ezgoer856 (4740 Tournament chips) 
+Seat 5: it-sct (2007 Tournament chips) 
+Seat 6: bakercows (6602 Tournament chips) 
+Seat 7: byu15xyz (10875 Tournament chips) 
+Seat 8: Johny Pryor (3000 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 50 Tournament chips
+Poneck posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+The button is moved to seat 1.
+Poneck posts the small blind [200 Tournament chips]
+ezgoer856 posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3940 Tournament chips.
+Poneck, at seat 2, is in this hand with 5195 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 4290 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1957 Tournament chips.
+bakercows, at seat 6, is in this hand with 6552 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 10825 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2950 Tournament chips.
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Dealt to QwertySpark [ 8c 2h ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+it-sct folds [400 Tournament chips]
+bakercows folds [400 Tournament chips]
+byu15xyz folds [400 Tournament chips]
+Johny Pryor raises [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Poneck folds [600 Tournament chips]
+ezgoer856 folds [400 Tournament chips]
+Johny Pryor is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Johny Pryor (Ac Jc: ace high)
+Johny Pryor wins main pot 1350 Tournament chips.
+Seat 1: QwertySpark (3940 Tournament chips) 
+Seat 2: Poneck (5195 Tournament chips) 
+Seat 4: ezgoer856 (4290 Tournament chips) 
+Seat 5: it-sct (1957 Tournament chips) 
+Seat 6: bakercows (6552 Tournament chips) 
+Seat 7: byu15xyz (10825 Tournament chips) 
+Seat 8: Johny Pryor (3900 Tournament chips) 
+Game #23889801-54 ends
+Game #23889801-55 starts
+Seat 1: QwertySpark (3940 Tournament chips) 
+Seat 2: Poneck (5195 Tournament chips) 
+Seat 4: ezgoer856 (4290 Tournament chips) 
+Seat 5: it-sct (1957 Tournament chips) 
+Seat 6: bakercows (6552 Tournament chips) 
+Seat 7: byu15xyz (10825 Tournament chips) 
+Seat 8: Johny Pryor (3900 Tournament chips) 
+The button is at seat 1
+Poneck posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+QwertySpark posted ante of 50 Tournament chips
+The button is moved to seat 2.
+ezgoer856 posts the small blind [200 Tournament chips]
+it-sct posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3890 Tournament chips.
+Poneck, at seat 2, is in this hand with 5145 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 4040 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1507 Tournament chips.
+bakercows, at seat 6, is in this hand with 6502 Tournament chips.
+byu15xyz, at seat 7, is in this hand (absent) with 10775 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3850 Tournament chips.
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+Dealt to QwertySpark [ 9h Qh ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+bakercows folds [400 Tournament chips]
+byu15xyz folds [400 Tournament chips]
+Johny Pryor folds [400 Tournament chips]
+QwertySpark raises [800 Tournament chips]
+Poneck folds [800 Tournament chips]
+ezgoer856 calls [600 Tournament chips]
+it-sct folds [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Td ] board:[ 3d Td]
+** Dealing Flop ** [ Ac ] board:[ 3d Td Ac]
+ezgoer856 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 3d Td Ac Kh]
+ezgoer856 checks
+QwertySpark bets for 1200 Tournament chips
+ezgoer856 folds [1200 Tournament chips]
+QwertySpark is returned 1200 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9h Qh Td Ac Kh: ace high)
+QwertySpark wins main pot 2350 Tournament chips.
+Seat 1: QwertySpark (5440 Tournament chips) 
+Seat 2: Poneck (5145 Tournament chips) 
+Seat 4: ezgoer856 (3440 Tournament chips) 
+Seat 5: it-sct (1507 Tournament chips) 
+Seat 6: bakercows (6502 Tournament chips) 
+Seat 7: byu15xyz (10775 Tournament chips) 
+Seat 8: Johny Pryor (3850 Tournament chips) 
+Game #23889801-55 ends
+Game #23889801-56 starts
+Seat 1: QwertySpark (5440 Tournament chips) 
+Seat 2: Poneck (5145 Tournament chips) 
+Seat 4: ezgoer856 (3440 Tournament chips) 
+Seat 5: it-sct (1507 Tournament chips) 
+Seat 6: bakercows (6502 Tournament chips) 
+Seat 7: byu15xyz (10775 Tournament chips) 
+Seat 8: Johny Pryor (3850 Tournament chips) 
+The button is at seat 2
+QwertySpark posted ante of 50 Tournament chips
+ezgoer856 posted ante of 50 Tournament chips
+Poneck posted ante of 50 Tournament chips
+it-sct posted ante of 50 Tournament chips
+bakercows posted ante of 50 Tournament chips
+byu15xyz posted ante of 50 Tournament chips
+Johny Pryor posted ante of 50 Tournament chips
+The button is moved to seat 4.
+it-sct posts the small blind [200 Tournament chips]
+bakercows posts the big blind [400 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5390 Tournament chips.
+Poneck, at seat 2, is in this hand with 5095 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 3390 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1257 Tournament chips.
+bakercows, at seat 6, is in this hand with 6052 Tournament chips.
+byu15xyz, at seat 7, is in this hand (absent) with 10725 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3800 Tournament chips.
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+Dealt to QwertySpark [ 9s Qs ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+byu15xyz folds [400 Tournament chips]
+Johny Pryor folds [400 Tournament chips]
+QwertySpark calls [400 Tournament chips]
+Poneck raises [1200 Tournament chips]
+ezgoer856 calls [1200 Tournament chips]
+it-sct folds [1000 Tournament chips]
+bakercows folds [800 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Round 1 is over.
+(byu15xyz has entered the table, is no longer absent.)
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Jc ] board:[ 3d Jc]
+** Dealing Flop ** [ Qd ] board:[ 3d Jc Qd]
+QwertySpark checks
+Poneck goes all-in for 3895 Tournament chips
+ezgoer856 folds [2190 Tournament chips]
+QwertySpark calls [3895 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9s Qs ]
+Poneck shows [ Js Jh ]
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 3d Jc Qd Kh]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ 3d Jc Qd Kh 8s]
+        (no action in this round)
+Round 4 is over.
+Poneck: ouch
+QwertySpark shows [ 9s Qs ] a pair of queens, king/jack kickers
+Poneck shows [ Js Jh ] three jacks, king/queen kickers
+Poneck wins main pot 12340 Tournament chips with three jacks, king/queen kickers.
+Seat 1: QwertySpark (295 Tournament chips) 
+Seat 2: Poneck (12340 Tournament chips) 
+Seat 4: ezgoer856 (2190 Tournament chips) 
+Seat 5: it-sct (1257 Tournament chips) 
+Seat 6: bakercows (6052 Tournament chips) 
+Seat 7: byu15xyz (10725 Tournament chips) 
+Seat 8: Johny Pryor (3800 Tournament chips) 
+Game #23889801-56 ends
+Game #23889801-57 starts
+Seat 1: QwertySpark (295 Tournament chips) 
+Seat 2: Poneck (12340 Tournament chips) 
+Seat 4: ezgoer856 (2190 Tournament chips) 
+Seat 5: it-sct (1257 Tournament chips) 
+Seat 6: bakercows (6052 Tournament chips) 
+Seat 7: byu15xyz (10725 Tournament chips) 
+Seat 8: Johny Pryor (3800 Tournament chips) 
+The button is at seat 4
+QwertySpark posted ante of 75 Tournament chips
+Poneck posted ante of 75 Tournament chips
+ezgoer856 posted ante of 75 Tournament chips
+it-sct posted ante of 75 Tournament chips
+bakercows posted ante of 75 Tournament chips
+byu15xyz posted ante of 75 Tournament chips
+Johny Pryor posted ante of 75 Tournament chips
+The button is moved to seat 5.
+bakercows posts the small blind [300 Tournament chips]
+byu15xyz posts the big blind [600 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 220 Tournament chips.
+Poneck, at seat 2, is in this hand with 12265 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 2115 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1182 Tournament chips.
+bakercows, at seat 6, is in this hand with 5677 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 10050 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3725 Tournament chips.
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+Dealt to QwertySpark [ 6s Ad ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Johny Pryor calls [600 Tournament chips]
+QwertySpark calls all-in [220 Tournament chips]
+Poneck folds [600 Tournament chips]
+ezgoer856 folds [600 Tournament chips]
+it-sct folds [600 Tournament chips]
+bakercows folds [300 Tournament chips]
+byu15xyz has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 6d ] board:[ Kc 6d]
+** Dealing Flop ** [ Ah ] board:[ Kc 6d Ah]
+byu15xyz has timed out - the hand is checked
+Johny Pryor bets for 600 Tournament chips
+byu15xyz folds [600 Tournament chips]
+Johny Pryor is returned 600 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 6s Ad ]
+Johny Pryor shows [ Ks Js ]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ Kc 6d Ah 7c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ As ] board:[ Kc 6d Ah 7c As]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 6s Ad ] full house, aces full of sixes
+Johny Pryor shows [ Ks Js ] two pair, aces and kings, jack kicker
+QwertySpark wins main pot 1405 Tournament chips with full house, aces full of sixes.
+Johny Pryor wins side pot #1 840 Tournament chips with two pair, aces and kings, jack kicker.
+Seat 1: QwertySpark (1405 Tournament chips) 
+Seat 2: Poneck (12265 Tournament chips) 
+Seat 4: ezgoer856 (2115 Tournament chips) 
+Seat 5: it-sct (1182 Tournament chips) 
+Seat 6: bakercows (5677 Tournament chips) 
+Seat 7: byu15xyz (10050 Tournament chips) 
+Seat 8: Johny Pryor (3965 Tournament chips) 
+Game #23889801-57 ends
+Game #23889801-58 starts
+Seat 1: QwertySpark (1405 Tournament chips) 
+Seat 2: Poneck (12265 Tournament chips) 
+Seat 4: ezgoer856 (2115 Tournament chips) 
+Seat 5: it-sct (1182 Tournament chips) 
+Seat 6: bakercows (5677 Tournament chips) 
+Seat 7: byu15xyz (10050 Tournament chips) 
+Seat 8: Johny Pryor (3965 Tournament chips) 
+The button is at seat 5
+QwertySpark posted ante of 75 Tournament chips
+it-sct posted ante of 75 Tournament chips
+ezgoer856 posted ante of 75 Tournament chips
+Poneck posted ante of 75 Tournament chips
+bakercows posted ante of 75 Tournament chips
+byu15xyz posted ante of 75 Tournament chips
+Johny Pryor posted ante of 75 Tournament chips
+The button is moved to seat 6.
+byu15xyz posts the small blind [300 Tournament chips]
+Johny Pryor posts the big blind [600 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 1330 Tournament chips.
+Poneck, at seat 2, is in this hand with 12190 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 2040 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1107 Tournament chips.
+bakercows, at seat 6, is in this hand with 5602 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 9675 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 3290 Tournament chips.
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+Dealt to QwertySpark [ Td Jd ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+QwertySpark raises all-in [1330 Tournament chips]
+Poneck folds [1330 Tournament chips]
+ezgoer856 calls [1330 Tournament chips]
+it-sct folds [1107 Tournament chips]
+bakercows folds [1330 Tournament chips]
+byu15xyz calls [1030 Tournament chips]
+Johny Pryor folds [730 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 9c ] board:[ Jc 9c]
+** Dealing Flop ** [ 5d ] board:[ Jc 9c 5d]
+byu15xyz bets for 600 Tournament chips
+ezgoer856 calls [600 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ Jc 9c 5d Qh]
+byu15xyz checks
+ezgoer856 checks
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ Jc 9c 5d Qh Qd]
+byu15xyz checks
+ezgoer856 checks
+Round 4 is over.
+byu15xyz shows [ Ac 3s ] a pair of queens
+Hand evaluation for byu15xyz (Ac Jc 9c Qh Qd: a pair of queens)
+QwertySpark shows [ Td Jd ] two pair, queens and jacks
+Hand evaluation for QwertySpark (Td Jd Jc Qh Qd: two pair, queens and jacks)
+ezgoer856 shows [ 9d 8d ] two pair, queens and nines
+Hand evaluation for ezgoer856 (9d Jc 9c Qh Qd: two pair, queens and nines)
+QwertySpark wins main pot 5115 Tournament chips with two pair, queens and jacks, ten kicker.
+ezgoer856 wins side pot #1 1200 Tournament chips with two pair, queens and nines, jack kicker.
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (12190 Tournament chips) 
+Seat 4: ezgoer856 (1310 Tournament chips) 
+Seat 5: it-sct (1107 Tournament chips) 
+Seat 6: bakercows (5602 Tournament chips) 
+Seat 7: byu15xyz (8045 Tournament chips) 
+Seat 8: Johny Pryor (3290 Tournament chips) 
+Game #23889801-58 ends
+Game #23889801-59 starts
+Seat 1: QwertySpark (5115 Tournament chips) 
+Seat 2: Poneck (12190 Tournament chips) 
+Seat 4: ezgoer856 (1310 Tournament chips) 
+Seat 5: it-sct (1107 Tournament chips) 
+Seat 6: bakercows (5602 Tournament chips) 
+Seat 7: byu15xyz (8045 Tournament chips) 
+Seat 8: Johny Pryor (3290 Tournament chips) 
+The button is at seat 6
+QwertySpark posted ante of 75 Tournament chips
+ezgoer856 posted ante of 75 Tournament chips
+Poneck posted ante of 75 Tournament chips
+it-sct posted ante of 75 Tournament chips
+bakercows posted ante of 75 Tournament chips
+byu15xyz posted ante of 75 Tournament chips
+Johny Pryor posted ante of 75 Tournament chips
+The button is moved to seat 7.
+Johny Pryor posts the small blind [300 Tournament chips]
+QwertySpark posts the big blind [600 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4440 Tournament chips.
+Poneck, at seat 2, is in this hand with 12115 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1235 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 1032 Tournament chips.
+bakercows, at seat 6, is in this hand with 5527 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 7970 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2915 Tournament chips.
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Dealt to QwertySpark [ 7c 8s ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+Poneck folds [600 Tournament chips]
+ezgoer856 calls [600 Tournament chips]
+it-sct folds [600 Tournament chips]
+bakercows calls [600 Tournament chips]
+byu15xyz folds [600 Tournament chips]
+Johny Pryor folds [300 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 3h ] board:[ 2s 3h]
+** Dealing Flop ** [ 8h ] board:[ 2s 3h 8h]
+QwertySpark bets for 1312 Tournament chips
+ezgoer856 calls all-in [635 Tournament chips]
+bakercows folds [1312 Tournament chips]
+QwertySpark is returned 677 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 7c 8s ]
+ezgoer856 shows [ 8c 2h ]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ 2s 3h 8h 8d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 2s 3h 8h 8d 3s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 7c 8s ] full house, eights full of threes
+ezgoer856 shows [ 8c 2h ] full house, eights full of threes
+ezgoer856 wins main pot 1948 Tournament chips of a 3895 Tournament chips pot with full house, eights full of threes.
+QwertySpark wins main pot 1947 Tournament chips of a 3895 Tournament chips pot with full house, eights full of threes.
+Seat 1: QwertySpark (5752 Tournament chips) 
+Seat 2: Poneck (12115 Tournament chips) 
+Seat 4: ezgoer856 (1948 Tournament chips) 
+Seat 5: it-sct (1032 Tournament chips) 
+Seat 6: bakercows (4927 Tournament chips) 
+Seat 7: byu15xyz (7970 Tournament chips) 
+Seat 8: Johny Pryor (2915 Tournament chips) 
+Game #23889801-59 ends
+Game #23889801-60 starts
+Seat 1: QwertySpark (5752 Tournament chips) 
+Seat 2: Poneck (12115 Tournament chips) 
+Seat 4: ezgoer856 (1948 Tournament chips) 
+Seat 5: it-sct (1032 Tournament chips) 
+Seat 6: bakercows (4927 Tournament chips) 
+Seat 7: byu15xyz (7970 Tournament chips) 
+Seat 8: Johny Pryor (2915 Tournament chips) 
+The button is at seat 7
+QwertySpark posted ante of 75 Tournament chips
+ezgoer856 posted ante of 75 Tournament chips
+bakercows posted ante of 75 Tournament chips
+byu15xyz posted ante of 75 Tournament chips
+it-sct posted ante of 75 Tournament chips
+Johny Pryor posted ante of 75 Tournament chips
+Poneck posted ante of 75 Tournament chips
+The button is moved to seat 8.
+QwertySpark posts the small blind [300 Tournament chips]
+Poneck posts the big blind [600 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 5377 Tournament chips.
+Poneck, at seat 2, is in this hand with 11440 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1873 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 957 Tournament chips.
+bakercows, at seat 6, is in this hand with 4852 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 7895 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2840 Tournament chips.
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+Dealt to QwertySpark [ Kc As ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+ezgoer856 folds [600 Tournament chips]
+it-sct folds [600 Tournament chips]
+bakercows folds [600 Tournament chips]
+byu15xyz folds [600 Tournament chips]
+Johny Pryor folds [600 Tournament chips]
+QwertySpark raises [2100 Tournament chips]
+Poneck raises all-in [11440 Tournament chips]
+QwertySpark calls all-in [3277 Tournament chips]
+Poneck is returned 6363 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Kc As ]
+Poneck shows [ 3h 3d ]
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ 2s ] board:[ 6d 2s]
+** Dealing Flop ** [ Jh ] board:[ 6d 2s Jh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 6d 2s Jh Js]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 6d 2s Jh Js Ks]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Kc As ] two pair, kings and jacks, ace kicker
+Poneck shows [ 3h 3d ] two pair, jacks and threes, king kicker
+QwertySpark wins main pot 11879 Tournament chips with two pair, kings and jacks, ace kicker.
+Seat 1: QwertySpark (11879 Tournament chips) 
+Seat 2: Poneck (6363 Tournament chips) 
+Seat 4: ezgoer856 (1873 Tournament chips) 
+Seat 5: it-sct (957 Tournament chips) 
+Seat 6: bakercows (4852 Tournament chips) 
+Seat 7: byu15xyz (7895 Tournament chips) 
+Seat 8: Johny Pryor (2840 Tournament chips) 
+Game #23889801-60 ends
+Game #23889801-61 starts
+Seat 1: QwertySpark (11879 Tournament chips) 
+Seat 2: Poneck (6363 Tournament chips) 
+Seat 4: ezgoer856 (1873 Tournament chips) 
+Seat 5: it-sct (957 Tournament chips) 
+Seat 6: bakercows (4852 Tournament chips) 
+Seat 7: byu15xyz (7895 Tournament chips) 
+Seat 8: Johny Pryor (2840 Tournament chips) 
+The button is at seat 8
+QwertySpark posted ante of 75 Tournament chips
+Poneck posted ante of 75 Tournament chips
+ezgoer856 posted ante of 75 Tournament chips
+it-sct posted ante of 75 Tournament chips
+bakercows posted ante of 75 Tournament chips
+byu15xyz posted ante of 75 Tournament chips
+Johny Pryor posted ante of 75 Tournament chips
+The button is moved to seat 1.
+Poneck posts the small blind [300 Tournament chips]
+ezgoer856 posts the big blind [600 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 11804 Tournament chips.
+Poneck, at seat 2, is in this hand with 5988 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 1198 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 882 Tournament chips.
+bakercows, at seat 6, is in this hand with 4777 Tournament chips.
+byu15xyz, at seat 7, is in this hand (absent) with 7820 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2765 Tournament chips.
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Dealt to QwertySpark [ Ah 6c ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+it-sct folds [600 Tournament chips]
+bakercows folds [600 Tournament chips]
+byu15xyz folds [600 Tournament chips]
+Johny Pryor folds [600 Tournament chips]
+(byu15xyz has entered the table, is no longer absent.)
+QwertySpark calls [600 Tournament chips]
+Poneck folds [300 Tournament chips]
+ezgoer856 checks
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 4s ] board:[ 4c 4s]
+** Dealing Flop ** [ Ts ] board:[ 4c 4s Ts]
+ezgoer856 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 4c 4s Ts 3h]
+ezgoer856 checks
+QwertySpark bets for 600 Tournament chips
+ezgoer856 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ah 6c 4c 4s Ts: a pair of fours)
+QwertySpark wins main pot 2025 Tournament chips.
+Seat 1: QwertySpark (13229 Tournament chips) 
+Seat 2: Poneck (5988 Tournament chips) 
+Seat 4: ezgoer856 (1198 Tournament chips) 
+Seat 5: it-sct (882 Tournament chips) 
+Seat 6: bakercows (4777 Tournament chips) 
+Seat 7: byu15xyz (7820 Tournament chips) 
+Seat 8: Johny Pryor (2765 Tournament chips) 
+Game #23889801-61 ends
+Game #23889801-62 starts
+Seat 1: QwertySpark (13229 Tournament chips) 
+Seat 2: Poneck (5988 Tournament chips) 
+Seat 4: ezgoer856 (1198 Tournament chips) 
+Seat 5: it-sct (882 Tournament chips) 
+Seat 6: bakercows (4777 Tournament chips) 
+Seat 7: byu15xyz (7820 Tournament chips) 
+Seat 8: Johny Pryor (2765 Tournament chips) 
+The button is at seat 1
+QwertySpark posted ante of 100 Tournament chips
+Poneck posted ante of 100 Tournament chips
+ezgoer856 posted ante of 100 Tournament chips
+it-sct posted ante of 100 Tournament chips
+bakercows posted ante of 100 Tournament chips
+Johny Pryor posted ante of 100 Tournament chips
+byu15xyz posted ante of 100 Tournament chips
+The button is moved to seat 2.
+ezgoer856 posts the small blind [400 Tournament chips]
+it-sct posts the big blind [782 Tournament chips], goes all-in
+QwertySpark, at seat 1, is in this hand with 13129 Tournament chips.
+Poneck, at seat 2, is in this hand with 5888 Tournament chips.
+ezgoer856, at seat 4, is in this hand with 698 Tournament chips.
+it-sct, at seat 5, is in this hand (absent) with 0 Tournament chips.
+bakercows, at seat 6, is in this hand with 4677 Tournament chips.
+byu15xyz, at seat 7, is in this hand with 7720 Tournament chips.
+Johny Pryor, at seat 8, is in this hand with 2665 Tournament chips.
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+ezgoer856 is dealt: **
+it-sct is dealt: **
+bakercows is dealt: **
+byu15xyz is dealt: **
+Johny Pryor is dealt: **
+
+Poneck is dealt: **
+Dealt to QwertySpark [ 5s Kc ]
+Dealt to Poneck [ **** ]
+Dealt to ezgoer856 [ **** ]
+Dealt to it-sct [ **** ]
+Dealt to bakercows [ **** ]
+Dealt to byu15xyz [ **** ]
+Dealt to Johny Pryor [ **** ]
+bakercows folds [800 Tournament chips]
+byu15xyz calls [800 Tournament chips]
+Johny Pryor folds [800 Tournament chips]
+QwertySpark folds [800 Tournament chips]
+Poneck calls [800 Tournament chips]
+ezgoer856 calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 7d ] board:[ Qs 7d]
+** Dealing Flop ** [ 4s ] board:[ Qs 7d 4s]
+ezgoer856 checks
+byu15xyz checks
+Poneck goes all-in for 5088 Tournament chips
+ezgoer856 calls all-in [298 Tournament chips]
+byu15xyz folds [5088 Tournament chips]
+Poneck is returned 4790 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Poneck shows [ Qh Ts ]
+ezgoer856 shows [ 4d Js ]
+it-sct shows [ 3h Jh ]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Qs 7d 4s 9s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ Qs 7d 4s 9s 7c]
+        (no action in this round)
+Round 4 is over.
+Poneck shows [ Qh Ts ] two pair, queens and sevens, ten kicker
+ezgoer856 shows [ 4d Js ] two pair, sevens and fours, queen kicker
+Poneck wins main pot 3828 Tournament chips with two pair, queens and sevens, ten kicker.
+Poneck wins side pot #1 650 Tournament chips with two pair, queens and sevens, ten kicker.
+Seat 1: QwertySpark (13129 Tournament chips) 
+Seat 2: Poneck (9268 Tournament chips) 
+Seat 4: ezgoer856 (0 Tournament chips) 
+Seat 5: it-sct (0 Tournament chips) 
+Seat 6: bakercows (4677 Tournament chips) 
+Seat 7: byu15xyz (6920 Tournament chips) 
+Seat 8: Johny Pryor (2665 Tournament chips) 
+Game #23889801-62 ends
+Player it-sct leaves the table with 0 Tournament chips
+Player ezgoer856 leaves the table with 0 Tournament chips
+Player Poneck leaves the table with 9268 Tournament chips
+Player Johny Pryor leaves the table with 2665 Tournament chips
+Player QwertySpark leaves the table with 13129 Tournament chips

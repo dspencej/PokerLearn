@@ -1,0 +1,100 @@
+Game#: 23972085
+mfj199817 raises [35 Tournament chips]
+Rhodyjane2354 folds [35 Tournament chips]
+Doublewide calls [35 Tournament chips]
+QwertySpark calls [35 Tournament chips]
+Ablack4 folds [30 Tournament chips]
+pkmule raises all-in [990 Tournament chips]
+mfj199817 folds [955 Tournament chips]
+Doublewide folds [955 Tournament chips]
+QwertySpark folds [965 Tournament chips]
+pkmule is returned 965 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for pkmule (Td 9h: ten high)
+pkmule wins main pot 145 Tournament chips.
+Seat 0: Rhodyjane2354 (1000 Tournament chips) 
+Seat 1: Doublewide (955 Tournament chips) 
+Seat 2: QwertySpark (965 Tournament chips) 
+Seat 4: SACKofENIFMAN (990 Tournament chips) 
+Seat 5: Sowlman (1000 Tournament chips) 
+Seat 6: Ablack4 (985 Tournament chips) 
+Seat 7: pkmule (1110 Tournament chips) 
+Seat 8: mfj199817 (955 Tournament chips) 
+Game #23972085-2 ends
+Game #23972085-3 starts
+Seat 0: Rhodyjane2354 (1000 Tournament chips) 
+Seat 1: Doublewide (955 Tournament chips) 
+Seat 2: QwertySpark (965 Tournament chips) 
+Seat 4: SACKofENIFMAN (990 Tournament chips) 
+Seat 5: Sowlman (1000 Tournament chips) 
+Seat 6: Ablack4 (985 Tournament chips) 
+Seat 7: pkmule (1110 Tournament chips) 
+Seat 8: mfj199817 (955 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+pkmule posts the small blind [10 Tournament chips]
+mfj199817 posts the big blind [20 Tournament chips]
+Rhodyjane2354, at seat 0, is in this hand with 1000 Tournament chips.
+Doublewide, at seat 1, is in this hand with 955 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 965 Tournament chips.
+SACKofENIFMAN, at seat 4, is in this hand with 990 Tournament chips.
+Sowlman, at seat 5, is in this hand with 1000 Tournament chips.
+Ablack4, at seat 6, is in this hand with 985 Tournament chips.
+pkmule, at seat 7, is in this hand with 1100 Tournament chips.
+mfj199817, at seat 8, is in this hand with 935 Tournament chips.
+pkmule is dealt: **
+mfj199817 is dealt: **
+Rhodyjane2354 is dealt: **
+Doublewide is dealt: **
+
+SACKofENIFMAN is dealt: **
+Sowlman is dealt: **
+Ablack4 is dealt: **
+pkmule is dealt: **
+mfj199817 is dealt: **
+Rhodyjane2354 is dealt: **
+Doublewide is dealt: **
+
+SACKofENIFMAN is dealt: **
+Sowlman is dealt: **
+Ablack4 is dealt: **
+Dealt to Rhodyjane2354 [ **** ]
+Dealt to Doublewide [ **** ]
+Dealt to QwertySpark [ 8h 3d ]
+Dealt to SACKofENIFMAN [ **** ]
+Dealt to Sowlman [ **** ]
+Dealt to Ablack4 [ **** ]
+Dealt to pkmule [ **** ]
+Dealt to mfj199817 [ **** ]
+Rhodyjane2354 calls [20 Tournament chips]
+Doublewide folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+SACKofENIFMAN folds [20 Tournament chips]
+Sowlman folds [20 Tournament chips]
+Ablack4 folds [20 Tournament chips]
+pkmule calls [10 Tournament chips]
+mfj199817 checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 9d ] board:[ Qh 9d]
+** Dealing Flop ** [ 7d ] board:[ Qh 9d 7d]
+pkmule has timed out - the hand is checked
+mfj199817 bets for 260 Tournament chips
+Rhodyjane2354 folds [260 Tournament chips]
+pkmule folds [260 Tournament chips]
+mfj199817 is returned 260 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for mfj199817 (7h As Qh 9d 7d: a pair of sevens)
+mfj199817 wins main pot 60 Tournament chips.
+Seat 0: Rhodyjane2354 (980 Tournament chips) 
+Seat 1: Doublewide (955 Tournament chips) 
+Seat 2: QwertySpark (965 Tournament chips) 
+Seat 3: Jimmy1942 (980 Tournament chips) 
+Seat 4: SACKofENIFMAN (990 Tournament chips) 
+Seat 5: Sowlman (1000 Tournament chips) 
+Seat 6: Ablack4 (985 Tournament chips) 
+Seat 7: pkmule (1090 Tournament chips) 
+Seat 8: mfj199817 (995 Tournament chips) 
+Game #23972085-3 ends
+Player mfj199817 leaves the table with 995 Tournament chips
+Player QwertySpark leaves the table with 965 Tournament chips

@@ -1,0 +1,1556 @@
+Game#: 23960611
+QwertySpark is dealt: 4d
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+The button is moved to seat 8.
+Game #23960611-1 starts
+Seat 0: QwertySpark (1000 Tournament chips) 
+Seat 1: King-o-Texas (1000 Tournament chips) 
+Seat 2: nyte63 (1000 Tournament chips) 
+Seat 3: KingHill (1000 Tournament chips) 
+Seat 4: louie1073 (1000 Tournament chips) 
+Seat 5: bruce5223 (1000 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 8
+QwertySpark posts the small blind [5 Tournament chips]
+King-o-Texas posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 995 Tournament chips.
+King-o-Texas, at seat 1, is in this hand with 990 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 1000 Tournament chips.
+KingHill, at seat 3, is in this hand with 1000 Tournament chips.
+louie1073, at seat 4, is in this hand with 1000 Tournament chips.
+bruce5223, at seat 5, is in this hand with 1000 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1000 Tournament chips.
+Donkeylife, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand with 1000 Tournament chips.
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+Dealt to QwertySpark [ 5h Kh ]
+Dealt to King-o-Texas [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+nyte63 folds [10 Tournament chips]
+KingHill raises [35 Tournament chips]
+louie1073 calls [35 Tournament chips]
+bruce5223 calls [35 Tournament chips]
+k2theirch folds [35 Tournament chips]
+Donkeylife folds [35 Tournament chips]
+KiddNM folds [35 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+King-o-Texas folds [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ 4s ] board:[ 3h 4s]
+** Dealing Flop ** [ 6s ] board:[ 3h 4s 6s]
+KingHill checks
+louie1073 has timed out - the hand is checked
+bruce5223 has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 3h 4s 6s 8s]
+KingHill bets for 60 Tournament chips
+louie1073 folds [60 Tournament chips]
+bruce5223 folds [60 Tournament chips]
+KingHill is returned 60 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for KingHill (Ks 8d 4s 6s 8s: a pair of eights)
+KingHill wins main pot 120 Tournament chips.
+(louie1073 has entered the table, is no longer absent.)
+Seat 0: QwertySpark (995 Tournament chips) 
+Seat 1: King-o-Texas (990 Tournament chips) 
+Seat 2: nyte63 (1000 Tournament chips) 
+Seat 3: KingHill (1085 Tournament chips) 
+Seat 4: louie1073 (965 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-1 ends
+Game #23960611-2 starts
+Seat 0: QwertySpark (995 Tournament chips) 
+Seat 1: King-o-Texas (990 Tournament chips) 
+Seat 2: nyte63 (1000 Tournament chips) 
+Seat 3: KingHill (1085 Tournament chips) 
+Seat 4: louie1073 (965 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+King-o-Texas posts the small blind [5 Tournament chips]
+nyte63 posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 995 Tournament chips.
+King-o-Texas, at seat 1, is in this hand with 985 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 990 Tournament chips.
+KingHill, at seat 3, is in this hand with 1085 Tournament chips.
+louie1073, at seat 4, is in this hand with 965 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 965 Tournament chips.
+k2theirch, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Donkeylife, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+Dealt to QwertySpark [ Qs 6c ]
+Dealt to King-o-Texas [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+KingHill raises [20 Tournament chips]
+louie1073 folds [20 Tournament chips]
+bruce5223 folds [20 Tournament chips]
+k2theirch folds [20 Tournament chips]
+Donkeylife folds [20 Tournament chips]
+KiddNM folds [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+King-o-Texas folds [15 Tournament chips]
+nyte63 folds [10 Tournament chips]
+KingHill is returned 10 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KingHill (7d 6d: seven high)
+KingHill wins main pot 25 Tournament chips.
+Seat 0: QwertySpark (995 Tournament chips) 
+Seat 1: King-o-Texas (985 Tournament chips) 
+Seat 2: nyte63 (990 Tournament chips) 
+Seat 3: KingHill (1100 Tournament chips) 
+Seat 4: louie1073 (965 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-2 ends
+Game #23960611-3 starts
+Seat 0: QwertySpark (995 Tournament chips) 
+Seat 1: King-o-Texas (985 Tournament chips) 
+Seat 2: nyte63 (990 Tournament chips) 
+Seat 3: KingHill (1100 Tournament chips) 
+Seat 4: louie1073 (965 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+nyte63 posts the small blind [5 Tournament chips]
+KingHill posts the big blind [10 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 995 Tournament chips.
+King-o-Texas, at seat 1, is in this hand with 985 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 985 Tournament chips.
+KingHill, at seat 3, is in this hand with 1090 Tournament chips.
+louie1073, at seat 4, is in this hand with 965 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 965 Tournament chips.
+k2theirch, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Donkeylife, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+Dealt to QwertySpark [ 6h 2h ]
+Dealt to King-o-Texas [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+louie1073 calls [10 Tournament chips]
+bruce5223 folds [10 Tournament chips]
+k2theirch folds [10 Tournament chips]
+Donkeylife folds [10 Tournament chips]
+KiddNM folds [10 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+King-o-Texas calls [10 Tournament chips]
+nyte63 folds [5 Tournament chips]
+KingHill raises [45 Tournament chips]
+louie1073 calls [45 Tournament chips]
+QwertySpark folds [45 Tournament chips]
+King-o-Texas calls [45 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ 3s ] board:[ 5d 3s]
+** Dealing Flop ** [ 6s ] board:[ 5d 3s 6s]
+KingHill checks
+louie1073 bets for 180 Tournament chips
+King-o-Texas calls [180 Tournament chips]
+KingHill calls [180 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 5d 3s 6s 9c]
+KingHill checks
+louie1073 goes all-in for 730 Tournament chips
+King-o-Texas folds [730 Tournament chips]
+KingHill folds [730 Tournament chips]
+louie1073 is returned 730 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for louie1073 (8s As 5d 6s 9c: ace high)
+louie1073 wins main pot 720 Tournament chips.
+Seat 0: QwertySpark (985 Tournament chips) 
+Seat 1: King-o-Texas (750 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (865 Tournament chips) 
+Seat 4: louie1073 (1450 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-3 ends
+Game #23960611-4 starts
+Seat 0: QwertySpark (985 Tournament chips) 
+Seat 1: King-o-Texas (750 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (865 Tournament chips) 
+Seat 4: louie1073 (1450 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+KingHill posts the small blind [10 Tournament chips]
+louie1073 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 985 Tournament chips.
+King-o-Texas, at seat 1, is in this hand with 750 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 985 Tournament chips.
+KingHill, at seat 3, is in this hand with 855 Tournament chips.
+louie1073, at seat 4, is in this hand with 1430 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 965 Tournament chips.
+k2theirch, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+King-o-Texas is dealt: **
+nyte63 is dealt: **
+Dealt to QwertySpark [ Kh 7h ]
+Dealt to King-o-Texas [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+bruce5223 folds [20 Tournament chips]
+k2theirch folds [20 Tournament chips]
+Donkeylife folds [20 Tournament chips]
+KiddNM folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+King-o-Texas calls [20 Tournament chips]
+nyte63 folds [20 Tournament chips]
+KingHill calls [10 Tournament chips]
+louie1073 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 2c ] board:[ 9c 2c]
+** Dealing Flop ** [ 5c ] board:[ 9c 2c 5c]
+KingHill bets for 40 Tournament chips
+louie1073 calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+King-o-Texas calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 9c 2c 5c 6c]
+KingHill checks
+louie1073 checks
+King-o-Texas bets for 200 Tournament chips
+KingHill calls [200 Tournament chips]
+louie1073 calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8h ] board:[ 9c 2c 5c 6c 8h]
+KingHill checks
+louie1073 checks
+King-o-Texas goes all-in for 490 Tournament chips
+KingHill folds [490 Tournament chips]
+louie1073 calls [490 Tournament chips]
+Tournament all-in showdown -- players show:
+King-o-Texas shows [ 9s 7c ]
+louie1073 shows [ Ks Jc ]
+Round 4 is over.
+King-o-Texas shows [ 9s 7c ] flush, nine/seven/six high
+louie1073 shows [ Ks Jc ] flush, jack/nine/six high
+louie1073 wins main pot 1780 Tournament chips with flush, jack/nine/six high.
+Seat 0: QwertySpark (965 Tournament chips) 
+Seat 1: King-o-Texas (0 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (605 Tournament chips) 
+Seat 4: louie1073 (2480 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-4 ends
+Player King-o-Texas leaves the table with 0 Tournament chips
+Game #23960611-5 starts
+Seat 0: QwertySpark (965 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (605 Tournament chips) 
+Seat 4: louie1073 (2480 Tournament chips) 
+Seat 5: bruce5223 (965 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+louie1073 posts the small blind [10 Tournament chips]
+bruce5223 posts the big blind [20 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 965 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 985 Tournament chips.
+KingHill, at seat 3, is in this hand with 605 Tournament chips.
+louie1073, at seat 4, is in this hand with 2470 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 945 Tournament chips.
+k2theirch, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+Dealt to QwertySpark [ As 7d ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+k2theirch folds [20 Tournament chips]
+Donkeylife folds [20 Tournament chips]
+KiddNM folds [20 Tournament chips]
+(k2theirch has entered the table, is no longer absent.)
+QwertySpark raises [80 Tournament chips]
+nyte63 folds [80 Tournament chips]
+KingHill calls [80 Tournament chips]
+louie1073 calls [70 Tournament chips]
+bruce5223 folds [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 6h ] board:[ Td 6h]
+** Dealing Flop ** [ Kd ] board:[ Td 6h Kd]
+louie1073 checks
+QwertySpark checks
+KingHill checks
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ Td 6h Kd 3s]
+louie1073 checks
+QwertySpark has timed out - the hand is checked
+KingHill checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ Td 6h Kd 3s 7s]
+louie1073 checks
+QwertySpark bets for 150 Tournament chips
+KingHill folds [150 Tournament chips]
+louie1073 folds [150 Tournament chips]
+QwertySpark is returned 150 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (As 7d Td Kd 7s: a pair of sevens)
+QwertySpark wins main pot 260 Tournament chips.
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2400 Tournament chips) 
+Seat 5: bruce5223 (945 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-5 ends
+Game #23960611-6 starts
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2400 Tournament chips) 
+Seat 5: bruce5223 (945 Tournament chips) 
+Seat 6: k2theirch (1000 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+bruce5223 posts the small blind [15 Tournament chips]
+k2theirch posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1145 Tournament chips.
+nyte63, at seat 2, is in this hand (absent) with 985 Tournament chips.
+KingHill, at seat 3, is in this hand with 525 Tournament chips.
+louie1073, at seat 4, is in this hand with 2400 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 970 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 1000 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+Dealt to QwertySpark [ 7c Jh ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+Donkeylife folds [30 Tournament chips]
+KiddNM folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+nyte63 folds [30 Tournament chips]
+KingHill folds [30 Tournament chips]
+louie1073 calls [30 Tournament chips]
+bruce5223 folds [15 Tournament chips]
+k2theirch checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 8d ] board:[ Td 8d]
+** Dealing Flop ** [ 7h ] board:[ Td 8d 7h]
+k2theirch checks
+louie1073 checks
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Td 8d 7h Kc]
+k2theirch checks
+louie1073 checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Td 8d 7h Kc 6c]
+k2theirch checks
+louie1073 checks
+Round 4 is over.
+k2theirch shows [ Js Ah ] ace high
+Hand evaluation for k2theirch (Js Ah Td 8d Kc: ace high)
+louie1073 doesn't show [ 2c Qh ]
+(louie1073 has 2c Qh.)
+k2theirch wins main pot 75 Tournament chips with ace/king/jack high.
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1045 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-6 ends
+Game #23960611-7 starts
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (985 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1045 Tournament chips) 
+Seat 7: Donkeylife (1000 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+k2theirch posts the small blind [15 Tournament chips]
+Donkeylife posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1145 Tournament chips.
+nyte63, at seat 2, is in this hand with 985 Tournament chips.
+KingHill, at seat 3, is in this hand with 525 Tournament chips.
+louie1073, at seat 4, is in this hand with 2370 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1030 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 970 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+Dealt to QwertySpark [ Ts 3c ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+KiddNM folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+nyte63 calls [30 Tournament chips]
+KingHill folds [30 Tournament chips]
+louie1073 folds [30 Tournament chips]
+bruce5223 folds [30 Tournament chips]
+k2theirch calls [15 Tournament chips]
+Donkeylife checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Jd ] board:[ 9c Jd]
+** Dealing Flop ** [ 4h ] board:[ 9c Jd 4h]
+k2theirch checks
+Donkeylife checks
+nyte63 checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ 9c Jd 4h Qd]
+k2theirch bets for 30 Tournament chips
+Donkeylife folds [30 Tournament chips]
+nyte63 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7d ] board:[ 9c Jd 4h Qd 7d]
+k2theirch bets for 150 Tournament chips
+nyte63 folds [150 Tournament chips]
+k2theirch is returned 150 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for k2theirch (4s 4c Jd 4h Qd: three fours)
+k2theirch wins main pot 150 Tournament chips.
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (925 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1135 Tournament chips) 
+Seat 7: Donkeylife (970 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-7 ends
+Game #23960611-8 starts
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (925 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1135 Tournament chips) 
+Seat 7: Donkeylife (970 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Donkeylife posts the small blind [15 Tournament chips]
+KiddNM posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1145 Tournament chips.
+nyte63, at seat 2, is in this hand with 925 Tournament chips.
+KingHill, at seat 3, is in this hand with 525 Tournament chips.
+louie1073, at seat 4, is in this hand with 2370 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1135 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 955 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 970 Tournament chips.
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Dealt to QwertySpark [ Qs 5s ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+QwertySpark folds [30 Tournament chips]
+nyte63 folds [30 Tournament chips]
+KingHill folds [30 Tournament chips]
+louie1073 folds [30 Tournament chips]
+bruce5223 folds [30 Tournament chips]
+k2theirch folds [30 Tournament chips]
+Donkeylife folds [15 Tournament chips]
+KiddNM is returned 15 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for KiddNM (Qh 5c: queen high)
+KiddNM shows [ Qh 5c ] queen high
+Hand evaluation for KiddNM (Qh 5c: queen high)
+KiddNM wins main pot 30 Tournament chips.
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (925 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1135 Tournament chips) 
+Seat 7: Donkeylife (955 Tournament chips) 
+Seat 8: KiddNM (1015 Tournament chips) 
+Game #23960611-8 ends
+Game #23960611-9 starts
+Seat 0: QwertySpark (1145 Tournament chips) 
+Seat 2: nyte63 (925 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1135 Tournament chips) 
+Seat 7: Donkeylife (955 Tournament chips) 
+Seat 8: KiddNM (1015 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+KiddNM posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1115 Tournament chips.
+nyte63, at seat 2, is in this hand with 925 Tournament chips.
+KingHill, at seat 3, is in this hand with 525 Tournament chips.
+louie1073, at seat 4, is in this hand with 2370 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1135 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 955 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+Dealt to QwertySpark [ 3c 6h ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+nyte63 raises [60 Tournament chips]
+KingHill folds [60 Tournament chips]
+louie1073 folds [60 Tournament chips]
+bruce5223 folds [60 Tournament chips]
+k2theirch calls [60 Tournament chips]
+Donkeylife calls [60 Tournament chips]
+KiddNM folds [45 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ 3d ] board:[ 9d 3d]
+** Dealing Flop ** [ 5h ] board:[ 9d 3d 5h]
+nyte63 bets for 60 Tournament chips
+k2theirch folds [60 Tournament chips]
+Donkeylife folds [60 Tournament chips]
+nyte63 is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for nyte63 (Qc Kc 9d 3d 5h: king high)
+nyte63 wins main pot 225 Tournament chips.
+Seat 0: QwertySpark (1115 Tournament chips) 
+Seat 2: nyte63 (1090 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (895 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-9 ends
+Game #23960611-10 starts
+Seat 0: QwertySpark (1115 Tournament chips) 
+Seat 2: nyte63 (1090 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (895 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [20 Tournament chips]
+nyte63 posts the big blind [40 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1095 Tournament chips.
+nyte63, at seat 2, is in this hand with 1050 Tournament chips.
+KingHill, at seat 3, is in this hand with 525 Tournament chips.
+louie1073, at seat 4, is in this hand with 2370 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1075 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 895 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+Dealt to QwertySpark [ Kd Kc ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+KingHill folds [40 Tournament chips]
+louie1073 folds [40 Tournament chips]
+bruce5223 folds [40 Tournament chips]
+k2theirch folds [40 Tournament chips]
+Donkeylife raises [80 Tournament chips]
+KiddNM folds [80 Tournament chips]
+QwertySpark re-raises [180 Tournament chips]
+nyte63 calls [160 Tournament chips]
+Donkeylife calls [120 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6h ] board:[ 6h]
+** Dealing Flop ** [ 4h ] board:[ 6h 4h]
+** Dealing Flop ** [ 9s ] board:[ 6h 4h 9s]
+QwertySpark goes all-in for 915 Tournament chips
+nyte63 folds [890 Tournament chips]
+Donkeylife folds [695 Tournament chips]
+QwertySpark is returned 915 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Kd Kc 6h 4h 9s: a pair of kings)
+QwertySpark wins main pot 600 Tournament chips.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (890 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-10 ends
+Game #23960611-11 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (890 Tournament chips) 
+Seat 3: KingHill (525 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+nyte63 posts the small blind [20 Tournament chips]
+KingHill posts the big blind [40 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 870 Tournament chips.
+KingHill, at seat 3, is in this hand with 485 Tournament chips.
+louie1073, at seat 4, is in this hand with 2370 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1075 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 695 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+Dealt to QwertySpark [ 6s 9h ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+louie1073 folds [40 Tournament chips]
+bruce5223 folds [40 Tournament chips]
+k2theirch folds [40 Tournament chips]
+Donkeylife folds [40 Tournament chips]
+KiddNM folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+nyte63 calls [20 Tournament chips]
+KingHill checks
+Round 1 is over.
+** Dealing Flop ** [ Jd ] board:[ Jd]
+** Dealing Flop ** [ 3d ] board:[ Jd 3d]
+** Dealing Flop ** [ Qh ] board:[ Jd 3d Qh]
+nyte63 checks
+KingHill checks
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Jd 3d Qh 6d]
+nyte63 checks
+KingHill checks
+Round 3 is over.
+** Dealing River ** [ Qc ] board:[ Jd 3d Qh 6d Qc]
+nyte63 checks
+KingHill checks
+Round 4 is over.
+nyte63 shows [ Th 7d ] a pair of queens
+Hand evaluation for nyte63 (Th 7d Jd Qh Qc: a pair of queens)
+KingHill doesn't show [ 4d 2h ]
+(KingHill has 4d 2h.)
+nyte63 wins main pot 80 Tournament chips with a pair of queens, jack/ten kickers.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (930 Tournament chips) 
+Seat 3: KingHill (485 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-11 ends
+Game #23960611-12 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (930 Tournament chips) 
+Seat 3: KingHill (485 Tournament chips) 
+Seat 4: louie1073 (2370 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+KingHill posts the small blind [30 Tournament chips]
+louie1073 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 930 Tournament chips.
+KingHill, at seat 3, is in this hand with 455 Tournament chips.
+louie1073, at seat 4, is in this hand with 2310 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 930 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1075 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 695 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+Dealt to QwertySpark [ Td 6h ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+bruce5223 folds [60 Tournament chips]
+k2theirch folds [60 Tournament chips]
+Donkeylife folds [60 Tournament chips]
+KiddNM folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+nyte63 calls [60 Tournament chips]
+KingHill calls [30 Tournament chips]
+louie1073 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ Qc ] board:[ Qc]
+** Dealing Flop ** [ Qs ] board:[ Qc Qs]
+** Dealing Flop ** [ Jd ] board:[ Qc Qs Jd]
+KingHill checks
+louie1073 bets for 60 Tournament chips
+nyte63 calls [60 Tournament chips]
+KingHill folds [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Qc Qs Jd 9d]
+louie1073 bets for 60 Tournament chips
+nyte63 calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Qc Qs Jd 9d 2d]
+louie1073 bets for 60 Tournament chips
+nyte63 calls [60 Tournament chips]
+Round 4 is over.
+louie1073 shows [ Js 2c ] two pair, queens and jacks
+Hand evaluation for louie1073 (Js Qc Qs Jd 9d: two pair, queens and jacks)
+nyte63 doesn't show [ Tc 9h ]
+(nyte63 has Tc 9h.)
+louie1073 wins main pot 540 Tournament chips with two pair, queens and jacks, nine kicker.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (690 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2670 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-12 ends
+Game #23960611-13 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (690 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2670 Tournament chips) 
+Seat 5: bruce5223 (930 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (695 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+louie1073 posts the small blind [30 Tournament chips]
+bruce5223 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 690 Tournament chips.
+KingHill, at seat 3, is in this hand with 425 Tournament chips.
+louie1073, at seat 4, is in this hand with 2640 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 870 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1075 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 695 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+Dealt to QwertySpark [ Ah 4h ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+k2theirch folds [60 Tournament chips]
+Donkeylife raises [180 Tournament chips]
+KiddNM folds [180 Tournament chips]
+QwertySpark folds [180 Tournament chips]
+nyte63 folds [180 Tournament chips]
+KingHill folds [180 Tournament chips]
+louie1073 folds [150 Tournament chips]
+bruce5223 folds [120 Tournament chips]
+Donkeylife is returned 120 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Donkeylife (Ts As: ace high)
+Donkeylife wins main pot 150 Tournament chips.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (690 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2640 Tournament chips) 
+Seat 5: bruce5223 (870 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (785 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-13 ends
+Game #23960611-14 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (690 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2640 Tournament chips) 
+Seat 5: bruce5223 (870 Tournament chips) 
+Seat 6: k2theirch (1075 Tournament chips) 
+Seat 7: Donkeylife (785 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+bruce5223 posts the small blind [30 Tournament chips]
+k2theirch posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 690 Tournament chips.
+KingHill, at seat 3, is in this hand with 425 Tournament chips.
+louie1073, at seat 4, is in this hand with 2640 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 840 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1015 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 785 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+Dealt to QwertySpark [ 6d 8s ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+Donkeylife calls [60 Tournament chips]
+KiddNM folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+nyte63 calls [60 Tournament chips]
+KingHill folds [60 Tournament chips]
+louie1073 calls [60 Tournament chips]
+bruce5223 folds [30 Tournament chips]
+k2theirch checks
+Round 1 is over.
+** Dealing Flop ** [ 3h ] board:[ 3h]
+** Dealing Flop ** [ As ] board:[ 3h As]
+** Dealing Flop ** [ 7h ] board:[ 3h As 7h]
+k2theirch checks
+Donkeylife checks
+nyte63 checks
+louie1073 bets for 60 Tournament chips
+k2theirch folds [60 Tournament chips]
+Donkeylife folds [60 Tournament chips]
+nyte63 calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 3h As 7h Qh]
+nyte63 checks
+louie1073 bets for 390 Tournament chips
+nyte63 folds [390 Tournament chips]
+louie1073 is returned 390 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for louie1073 (Jc Ad As 7h Qh: a pair of aces)
+louie1073 wins main pot 390 Tournament chips.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (570 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2910 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1015 Tournament chips) 
+Seat 7: Donkeylife (725 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-14 ends
+Game #23960611-15 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (570 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2910 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1015 Tournament chips) 
+Seat 7: Donkeylife (725 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+k2theirch posts the small blind [30 Tournament chips]
+Donkeylife posts the big blind [60 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 570 Tournament chips.
+KingHill, at seat 3, is in this hand (absent) with 425 Tournament chips.
+louie1073, at seat 4, is in this hand with 2910 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 840 Tournament chips.
+k2theirch, at seat 6, is in this hand with 985 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 665 Tournament chips.
+KiddNM, at seat 8, is in this hand (absent) with 1000 Tournament chips.
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+Dealt to QwertySpark [ Ah 8d ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+KiddNM folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+nyte63 calls [60 Tournament chips]
+KingHill folds [60 Tournament chips]
+louie1073 calls [60 Tournament chips]
+bruce5223 folds [60 Tournament chips]
+k2theirch calls [30 Tournament chips]
+Donkeylife checks
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 2c ] board:[ 3s 2c]
+** Dealing Flop ** [ 7h ] board:[ 3s 2c 7h]
+k2theirch checks
+Donkeylife checks
+nyte63 checks
+louie1073 checks
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ 3s 2c 7h 6c]
+k2theirch checks
+Donkeylife checks
+nyte63 checks
+louie1073 checks
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ 3s 2c 7h 6c Ac]
+k2theirch checks
+Donkeylife checks
+nyte63 checks
+louie1073 checks
+Round 4 is over.
+k2theirch shows [ Js 7s ] a pair of sevens
+Hand evaluation for k2theirch (Js 7s 7h 6c Ac: a pair of sevens)
+Donkeylife doesn't show [ 5c Qs ]
+(Donkeylife has 5c Qs.)
+nyte63 doesn't show [ 8h Jd ]
+(nyte63 has 8h Jd.)
+louie1073 doesn't show [ 3h Qh ]
+(louie1073 has 3h Qh.)
+k2theirch wins main pot 240 Tournament chips with a pair of sevens, ace/jack kickers.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (510 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (665 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+Game #23960611-15 ends
+Game #23960611-16 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (510 Tournament chips) 
+Seat 3: KingHill (425 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (665 Tournament chips) 
+Seat 8: KiddNM (1000 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+Donkeylife posts the small blind [50 Tournament chips]
+KiddNM posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1515 Tournament chips.
+nyte63, at seat 2, is in this hand with 510 Tournament chips.
+KingHill, at seat 3, is in this hand with 425 Tournament chips.
+louie1073, at seat 4, is in this hand with 2850 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 840 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1195 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 615 Tournament chips.
+KiddNM, at seat 8, is in this hand with 900 Tournament chips.
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+KingHill is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Dealt to QwertySpark [ Jd 2d ]
+Dealt to nyte63 [ **** ]
+Dealt to KingHill [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+QwertySpark folds [100 Tournament chips]
+nyte63 folds [100 Tournament chips]
+KingHill raises all-in [425 Tournament chips]
+louie1073 folds [425 Tournament chips]
+bruce5223 folds [425 Tournament chips]
+k2theirch folds [425 Tournament chips]
+Donkeylife folds [375 Tournament chips]
+KiddNM calls [325 Tournament chips]
+Tournament all-in showdown -- players show:
+KingHill shows [ Ad Th ]
+KiddNM shows [ 6s 4c ]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ 5s ] board:[ 7d 5s]
+** Dealing Flop ** [ Kd ] board:[ 7d 5s Kd]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 7d 5s Kd 6h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ 7d 5s Kd 6h Js]
+        (no action in this round)
+Round 4 is over.
+KingHill shows [ Ad Th ] ace/king/jack high
+KiddNM shows [ 6s 4c ] a pair of sixes, king/jack kickers
+KiddNM wins main pot 900 Tournament chips with a pair of sixes, king/jack kickers.
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (510 Tournament chips) 
+Seat 3: KingHill (0 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: KiddNM (1475 Tournament chips) 
+Game #23960611-16 ends
+Player KingHill leaves the table with 0 Tournament chips
+Game #23960611-17 starts
+Seat 0: QwertySpark (1515 Tournament chips) 
+Seat 2: nyte63 (510 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: KiddNM (1475 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+KiddNM posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1415 Tournament chips.
+nyte63, at seat 2, is in this hand with 510 Tournament chips.
+louie1073, at seat 4, is in this hand with 2850 Tournament chips.
+bruce5223, at seat 5, is in this hand (absent) with 840 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1195 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 615 Tournament chips.
+KiddNM, at seat 8, is in this hand with 1425 Tournament chips.
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+KiddNM is dealt: **
+
+nyte63 is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+Dealt to QwertySpark [ Ah Kd ]
+Dealt to nyte63 [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to KiddNM [ **** ]
+nyte63 calls [100 Tournament chips]
+louie1073 folds [100 Tournament chips]
+bruce5223 folds [100 Tournament chips]
+k2theirch folds [100 Tournament chips]
+Donkeylife folds [100 Tournament chips]
+KiddNM calls [50 Tournament chips]
+QwertySpark raises [500 Tournament chips]
+nyte63 calls all-in [410 Tournament chips]
+KiddNM calls [500 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ Kc ] board:[ 3d Kc]
+** Dealing Flop ** [ 8c ] board:[ 3d Kc 8c]
+KiddNM bets for 100 Tournament chips
+QwertySpark raises all-in [915 Tournament chips]
+KiddNM calls all-in [775 Tournament chips]
+QwertySpark is returned 40 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Ah Kd ]
+nyte63 shows [ 4c 6c ]
+KiddNM shows [ 7s Qs ]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 3d Kc 8c As]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 3d Kc 8c As 7c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Ah Kd ] two pair, aces and kings, eight kicker
+nyte63 shows [ 4c 6c ] flush, king/eight/seven high
+KiddNM shows [ 7s Qs ] a pair of sevens, ace/king kickers
+nyte63 wins main pot 1530 Tournament chips with flush, king/eight/seven high.
+QwertySpark wins side pot #1 1930 Tournament chips with two pair, aces and kings, eight kicker.
+Seat 0: QwertySpark (1970 Tournament chips) 
+Seat 1: davehub (925 Tournament chips) 
+Seat 2: nyte63 (1530 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: KiddNM (0 Tournament chips) 
+Game #23960611-17 ends
+Player KiddNM leaves the table with 0 Tournament chips
+Game #23960611-18 starts
+Seat 0: QwertySpark (1970 Tournament chips) 
+Seat 1: davehub (925 Tournament chips) 
+Seat 2: nyte63 (1530 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (840 Tournament chips) 
+Seat 6: k2theirch (1195 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+QwertySpark posts the small blind [50 Tournament chips]
+davehub posts the big blind [100 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1920 Tournament chips.
+davehub, at seat 1, is in this hand with 825 Tournament chips.
+nyte63, at seat 2, is in this hand with 1530 Tournament chips.
+louie1073, at seat 4, is in this hand with 2850 Tournament chips.
+bruce5223, at seat 5, is in this hand with 840 Tournament chips.
+k2theirch, at seat 6, is in this hand with 1195 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 615 Tournament chips.
+
+davehub is dealt: **
+nyte63 is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+
+davehub is dealt: **
+nyte63 is dealt: **
+louie1073 is dealt: **
+bruce5223 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+Dealt to QwertySpark [ 9h 8d ]
+Dealt to davehub [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to bruce5223 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+nyte63 folds [100 Tournament chips]
+louie1073 folds [100 Tournament chips]
+bruce5223 raises all-in [840 Tournament chips]
+k2theirch raises all-in [1195 Tournament chips]
+Donkeylife folds [615 Tournament chips]
+QwertySpark folds [1145 Tournament chips]
+davehub calls all-in [825 Tournament chips]
+k2theirch is returned 270 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+davehub shows [ 6d Qs ]
+bruce5223 shows [ Jd Ac ]
+k2theirch shows [ Th Tc ]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 5h ] board:[ 8s 5h]
+** Dealing Flop ** [ 7h ] board:[ 8s 5h 7h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 8s 5h 7h 4c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 8s 5h 7h 4c 8c]
+        (no action in this round)
+Round 4 is over.
+davehub shows [ 6d Qs ] straight, eight high
+bruce5223 shows [ Jd Ac ] a pair of eights, ace/jack kickers
+k2theirch shows [ Th Tc ] two pair, tens and eights, seven kicker
+davehub wins main pot 2570 Tournament chips with straight, eight high.
+davehub wins side pot #1 170 Tournament chips with straight, eight high.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: davehub (2740 Tournament chips) 
+Seat 2: nyte63 (1530 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 5: bruce5223 (0 Tournament chips) 
+Seat 6: k2theirch (270 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: blackjack29 (1045 Tournament chips) 
+Game #23960611-18 ends
+Player bruce5223 leaves the table with 0 Tournament chips
+Game #23960611-19 starts
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: davehub (2740 Tournament chips) 
+Seat 2: nyte63 (1530 Tournament chips) 
+Seat 4: louie1073 (2850 Tournament chips) 
+Seat 6: k2theirch (270 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: blackjack29 (1045 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+davehub posts the small blind [75 Tournament chips]
+nyte63 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 0, is in this hand with 1920 Tournament chips.
+davehub, at seat 1, is in this hand with 2665 Tournament chips.
+nyte63, at seat 2, is in this hand with 1380 Tournament chips.
+louie1073, at seat 4, is in this hand with 2850 Tournament chips.
+k2theirch, at seat 6, is in this hand with 270 Tournament chips.
+Donkeylife, at seat 7, is in this hand with 615 Tournament chips.
+blackjack29, at seat 8, is in this hand with 1045 Tournament chips.
+davehub is dealt: **
+nyte63 is dealt: **
+louie1073 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+blackjack29 is dealt: **
+
+davehub is dealt: **
+nyte63 is dealt: **
+louie1073 is dealt: **
+k2theirch is dealt: **
+Donkeylife is dealt: **
+blackjack29 is dealt: **
+
+Dealt to QwertySpark [ Jd 8c ]
+Dealt to davehub [ **** ]
+Dealt to nyte63 [ **** ]
+Dealt to louie1073 [ **** ]
+Dealt to k2theirch [ **** ]
+Dealt to Donkeylife [ **** ]
+Dealt to blackjack29 [ **** ]
+louie1073 calls [150 Tournament chips]
+k2theirch raises all-in [270 Tournament chips]
+Donkeylife folds [270 Tournament chips]
+blackjack29 calls [270 Tournament chips]
+QwertySpark folds [270 Tournament chips]
+davehub raises all-in [2665 Tournament chips]
+nyte63 folds [1380 Tournament chips]
+louie1073 raises all-in [2700 Tournament chips]
+blackjack29 folds [775 Tournament chips]
+louie1073 is returned 110 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+davehub shows [ Ah 3h ]
+louie1073 shows [ Ac Kd ]
+k2theirch shows [ Ks 9c ]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 4s ] board:[ 8d 4s]
+** Dealing Flop ** [ Qh ] board:[ 8d 4s Qh]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 8d 4s Qh Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 8d 4s Qh Qc Ts]
+        (no action in this round)
+Round 4 is over.
+davehub shows [ Ah 3h ] a pair of queens, ace/ten kickers
+louie1073 shows [ Ac Kd ] a pair of queens, ace/king kickers
+k2theirch shows [ Ks 9c ] a pair of queens, king/ten kickers
+louie1073 wins main pot 1230 Tournament chips with a pair of queens, ace/king kickers.
+louie1073 wins side pot #1 4940 Tournament chips with a pair of queens, ace/king kickers.
+Seat 0: QwertySpark (1920 Tournament chips) 
+Seat 1: davehub (0 Tournament chips) 
+Seat 2: nyte63 (1380 Tournament chips) 
+Seat 4: louie1073 (6280 Tournament chips) 
+Seat 6: k2theirch (0 Tournament chips) 
+Seat 7: Donkeylife (615 Tournament chips) 
+Seat 8: blackjack29 (775 Tournament chips) 
+Game #23960611-19 ends
+Player k2theirch leaves the table with 0 Tournament chips
+Player davehub leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 1920 Tournament chips
+Player Donkeylife leaves the table with 615 Tournament chips
+Player blackjack29 leaves the table with 775 Tournament chips
+Player louie1073 leaves the table with 6280 Tournament chips
+Player nyte63 leaves the table with 1380 Tournament chips

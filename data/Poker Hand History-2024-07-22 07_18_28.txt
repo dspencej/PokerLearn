@@ -1,0 +1,3822 @@
+Game#: 23949701
+Gjake is dealt: **
+QwertySpark is dealt: Kd
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+The button is moved to seat 8.
+Game #23949701-1 starts
+Seat 0: Gjake (2000 Tournament chips) 
+Seat 1: QwertySpark (2000 Tournament chips) 
+Seat 2: SilverCard (2000 Tournament chips) 
+Seat 3: willycall (2000 Tournament chips) 
+Seat 4: saxcat70 (2000 Tournament chips) 
+Seat 5: wahoo2282 (2000 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (2000 Tournament chips) 
+Seat 8: JamesCamaro (2000 Tournament chips) 
+The button is at seat 8
+Gjake posts the small blind [5 Tournament chips]
+QwertySpark posts the big blind [10 Tournament chips]
+Gjake, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1990 Tournament chips.
+SilverCard, at seat 2, is in this hand with 2000 Tournament chips.
+willycall, at seat 3, is in this hand with 2000 Tournament chips.
+saxcat70, at seat 4, is in this hand (absent) with 2000 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 2000 Tournament chips.
+issylab, at seat 6, is in this hand with 2000 Tournament chips.
+fishman62, at seat 7, is in this hand with 2000 Tournament chips.
+JamesCamaro, at seat 8, is in this hand (absent) with 2000 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Kc Qs ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Dealt to JamesCamaro [ **** ]
+SilverCard calls [10 Tournament chips]
+willycall calls [10 Tournament chips]
+saxcat70 folds [10 Tournament chips]
+wahoo2282 calls [10 Tournament chips]
+issylab folds [10 Tournament chips]
+fishman62 calls [10 Tournament chips]
+JamesCamaro folds [10 Tournament chips]
+Gjake folds [5 Tournament chips]
+QwertySpark raises [100 Tournament chips]
+SilverCard folds [100 Tournament chips]
+willycall calls [100 Tournament chips]
+wahoo2282 calls [100 Tournament chips]
+fishman62 folds [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 5h ] board:[ Td 5h]
+** Dealing Flop ** [ 4d ] board:[ Td 5h 4d]
+QwertySpark checks
+willycall checks
+wahoo2282 checks
+Round 2 is over.
+** Dealing Turn ** [ Ad ] board:[ Td 5h 4d Ad]
+QwertySpark bets for 355 Tournament chips
+willycall folds [355 Tournament chips]
+wahoo2282 folds [355 Tournament chips]
+QwertySpark is returned 355 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Kc Qs Td 5h Ad: ace high)
+QwertySpark wins main pot 355 Tournament chips.
+Seat 0: Gjake (1995 Tournament chips) 
+Seat 1: QwertySpark (2245 Tournament chips) 
+Seat 2: SilverCard (1990 Tournament chips) 
+Seat 3: willycall (1890 Tournament chips) 
+Seat 4: saxcat70 (2000 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1990 Tournament chips) 
+Seat 8: JamesCamaro (2000 Tournament chips) 
+Game #23949701-1 ends
+Game #23949701-2 starts
+Seat 0: Gjake (1995 Tournament chips) 
+Seat 1: QwertySpark (2245 Tournament chips) 
+Seat 2: SilverCard (1990 Tournament chips) 
+Seat 3: willycall (1890 Tournament chips) 
+Seat 4: saxcat70 (2000 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1990 Tournament chips) 
+Seat 8: JamesCamaro (2000 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 0.
+QwertySpark posts the small blind [5 Tournament chips]
+SilverCard posts the big blind [10 Tournament chips]
+Gjake, at seat 0, is in this hand (absent) with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2240 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1980 Tournament chips.
+willycall, at seat 3, is in this hand with 1890 Tournament chips.
+saxcat70, at seat 4, is in this hand with 2000 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 1890 Tournament chips.
+issylab, at seat 6, is in this hand with 2000 Tournament chips.
+fishman62, at seat 7, is in this hand with 1990 Tournament chips.
+JamesCamaro, at seat 8, is in this hand with 2000 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 5h Jc ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Dealt to JamesCamaro [ **** ]
+willycall folds [10 Tournament chips]
+saxcat70 folds [10 Tournament chips]
+wahoo2282 folds [10 Tournament chips]
+issylab folds [10 Tournament chips]
+fishman62 folds [10 Tournament chips]
+JamesCamaro calls [10 Tournament chips]
+Gjake folds [10 Tournament chips]
+QwertySpark calls [5 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ As ] board:[ 4s As]
+** Dealing Flop ** [ Ad ] board:[ 4s As Ad]
+QwertySpark checks
+SilverCard checks
+JamesCamaro checks
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 4s As Ad Qc]
+QwertySpark checks
+SilverCard checks
+JamesCamaro checks
+Round 3 is over.
+** Dealing River ** [ 9d ] board:[ 4s As Ad Qc 9d]
+QwertySpark checks
+SilverCard checks
+JamesCamaro has timed out - the hand is checked
+Round 4 is over.
+QwertySpark shows [ 5h Jc ] a pair of aces
+Hand evaluation for QwertySpark (Jc As Ad Qc 9d: a pair of aces)
+SilverCard doesn't show [ Tc 6s ]
+(SilverCard has Tc 6s.)
+JamesCamaro doesn't show [ 8h 2h ]
+(JamesCamaro has 8h 2h.)
+QwertySpark wins main pot 30 Tournament chips with a pair of aces, queen/jack kickers.
+Seat 0: Gjake (1995 Tournament chips) 
+Seat 1: QwertySpark (2265 Tournament chips) 
+Seat 2: SilverCard (1980 Tournament chips) 
+Seat 3: willycall (1890 Tournament chips) 
+Seat 4: saxcat70 (2000 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1990 Tournament chips) 
+Seat 8: JamesCamaro (1990 Tournament chips) 
+Game #23949701-2 ends
+Game #23949701-3 starts
+Seat 0: Gjake (1995 Tournament chips) 
+Seat 1: QwertySpark (2265 Tournament chips) 
+Seat 2: SilverCard (1980 Tournament chips) 
+Seat 3: willycall (1890 Tournament chips) 
+Seat 4: saxcat70 (2000 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1990 Tournament chips) 
+Seat 8: JamesCamaro (1990 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [5 Tournament chips]
+willycall posts the big blind [10 Tournament chips]
+Gjake, at seat 0, is in this hand with 1995 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2265 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1975 Tournament chips.
+willycall, at seat 3, is in this hand with 1880 Tournament chips.
+saxcat70, at seat 4, is in this hand with 2000 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 1890 Tournament chips.
+issylab, at seat 6, is in this hand with 2000 Tournament chips.
+fishman62, at seat 7, is in this hand with 1990 Tournament chips.
+JamesCamaro, at seat 8, is in this hand with 1990 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Jc Qd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Dealt to JamesCamaro [ **** ]
+saxcat70 calls [10 Tournament chips]
+wahoo2282 folds [10 Tournament chips]
+issylab folds [10 Tournament chips]
+fishman62 calls [10 Tournament chips]
+JamesCamaro calls [10 Tournament chips]
+Gjake calls [10 Tournament chips]
+QwertySpark raises [90 Tournament chips]
+SilverCard folds [85 Tournament chips]
+willycall folds [80 Tournament chips]
+saxcat70 calls [80 Tournament chips]
+fishman62 folds [80 Tournament chips]
+JamesCamaro calls [80 Tournament chips]
+Gjake calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 6h ] board:[ Td 6h]
+** Dealing Flop ** [ Ks ] board:[ Td 6h Ks]
+saxcat70 checks
+JamesCamaro checks
+Gjake bets for 385 Tournament chips
+QwertySpark calls [385 Tournament chips]
+saxcat70 calls [385 Tournament chips]
+JamesCamaro folds [385 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ Td 6h Ks Kc]
+saxcat70 checks
+Gjake checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ Td 6h Ks Kc 3h]
+saxcat70 checks
+Gjake bets for 220 Tournament chips
+QwertySpark folds [220 Tournament chips]
+saxcat70 folds [220 Tournament chips]
+Gjake is returned 220 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Gjake (7d Tc Td Ks Kc: two pair, kings and tens)
+Gjake wins main pot 1540 Tournament chips.
+Seat 0: Gjake (3060 Tournament chips) 
+Seat 1: QwertySpark (1790 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1880 Tournament chips) 
+Seat 4: saxcat70 (1525 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1980 Tournament chips) 
+Seat 8: JamesCamaro (1900 Tournament chips) 
+Game #23949701-3 ends
+Game #23949701-4 starts
+Seat 0: Gjake (3060 Tournament chips) 
+Seat 1: QwertySpark (1790 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1880 Tournament chips) 
+Seat 4: saxcat70 (1525 Tournament chips) 
+Seat 5: wahoo2282 (1890 Tournament chips) 
+Seat 6: issylab (2000 Tournament chips) 
+Seat 7: fishman62 (1980 Tournament chips) 
+Seat 8: JamesCamaro (1900 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [5 Tournament chips]
+saxcat70 posts the big blind [10 Tournament chips]
+Gjake, at seat 0, is in this hand with 3060 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1790 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1975 Tournament chips.
+willycall, at seat 3, is in this hand with 1875 Tournament chips.
+saxcat70, at seat 4, is in this hand with 1515 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 1890 Tournament chips.
+issylab, at seat 6, is in this hand with 2000 Tournament chips.
+fishman62, at seat 7, is in this hand with 1980 Tournament chips.
+JamesCamaro, at seat 8, is in this hand with 1900 Tournament chips.
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 5c 6s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Dealt to JamesCamaro [ **** ]
+wahoo2282 calls [10 Tournament chips]
+issylab raises [20 Tournament chips]
+fishman62 calls [20 Tournament chips]
+JamesCamaro calls [20 Tournament chips]
+Gjake calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+SilverCard folds [20 Tournament chips]
+willycall calls [15 Tournament chips]
+saxcat70 calls [10 Tournament chips]
+wahoo2282 calls [10 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Jc ] board:[ 7s Jc]
+** Dealing Flop ** [ 6h ] board:[ 7s Jc 6h]
+willycall checks
+saxcat70 checks
+wahoo2282 bets for 140 Tournament chips
+issylab folds [140 Tournament chips]
+fishman62 folds [140 Tournament chips]
+JamesCamaro calls [140 Tournament chips]
+Gjake raises [280 Tournament chips]
+willycall folds [280 Tournament chips]
+saxcat70 folds [280 Tournament chips]
+wahoo2282 calls [140 Tournament chips]
+JamesCamaro calls [140 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 7s Jc 6h 2h]
+wahoo2282 checks
+JamesCamaro bets for 490 Tournament chips
+Gjake calls [490 Tournament chips]
+wahoo2282 calls [490 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 7s Jc 6h 2h 8c]
+wahoo2282 checks
+JamesCamaro checks
+Gjake bets for 230 Tournament chips
+wahoo2282 calls [230 Tournament chips]
+JamesCamaro calls [230 Tournament chips]
+Round 4 is over.
+Gjake shows [ Tc Js ] a pair of jacks
+Hand evaluation for Gjake (Tc Js 7s Jc 8c: a pair of jacks)
+wahoo2282 doesn't show [ 4h Jh ]
+(wahoo2282 has 4h Jh.)
+JamesCamaro doesn't show [ Th 7c ]
+(JamesCamaro has Th 7c.)
+Gjake wins main pot 3140 Tournament chips with a pair of jacks, ten/eight kickers.
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (1790 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1860 Tournament chips) 
+Seat 4: saxcat70 (1505 Tournament chips) 
+Seat 5: wahoo2282 (870 Tournament chips) 
+Seat 6: issylab (1980 Tournament chips) 
+Seat 7: fishman62 (1960 Tournament chips) 
+Seat 8: JamesCamaro (880 Tournament chips) 
+Game #23949701-4 ends
+Game #23949701-5 starts
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (1790 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1860 Tournament chips) 
+Seat 4: saxcat70 (1505 Tournament chips) 
+Seat 5: wahoo2282 (870 Tournament chips) 
+Seat 6: issylab (1980 Tournament chips) 
+Seat 7: fishman62 (1960 Tournament chips) 
+Seat 8: JamesCamaro (880 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+saxcat70 posts the small blind [5 Tournament chips]
+wahoo2282 posts the big blind [10 Tournament chips]
+Gjake, at seat 0, is in this hand with 5180 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1790 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1975 Tournament chips.
+willycall, at seat 3, is in this hand with 1860 Tournament chips.
+saxcat70, at seat 4, is in this hand with 1500 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 860 Tournament chips.
+issylab, at seat 6, is in this hand with 1980 Tournament chips.
+fishman62, at seat 7, is in this hand with 1960 Tournament chips.
+JamesCamaro, at seat 8, is in this hand with 880 Tournament chips.
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+JamesCamaro is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Td Ts ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Dealt to JamesCamaro [ **** ]
+issylab calls [10 Tournament chips]
+fishman62 raises [120 Tournament chips]
+JamesCamaro re-raises [230 Tournament chips]
+Gjake folds [230 Tournament chips]
+QwertySpark raises all-in [1790 Tournament chips]
+SilverCard folds [1790 Tournament chips]
+willycall folds [1790 Tournament chips]
+saxcat70 folds [1500 Tournament chips]
+wahoo2282 folds [860 Tournament chips]
+issylab folds [1780 Tournament chips]
+fishman62 folds [1670 Tournament chips]
+JamesCamaro calls all-in [650 Tournament chips]
+QwertySpark is returned 910 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Td Ts ]
+JamesCamaro shows [ 7h 9h ]
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ 7d ] board:[ 2h 7d]
+** Dealing Flop ** [ 9s ] board:[ 2h 7d 9s]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ 2h 7d 9s 2c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 2h 7d 9s 2c 3c]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Td Ts ] two pair, tens and deuces, nine kicker
+JamesCamaro shows [ 7h 9h ] two pair, nines and sevens, three kicker
+QwertySpark wins main pot 1905 Tournament chips with two pair, tens and deuces, nine kicker.
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (2815 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1860 Tournament chips) 
+Seat 4: saxcat70 (1500 Tournament chips) 
+Seat 5: wahoo2282 (860 Tournament chips) 
+Seat 6: issylab (1970 Tournament chips) 
+Seat 7: fishman62 (1840 Tournament chips) 
+Seat 8: JamesCamaro (0 Tournament chips) 
+Game #23949701-5 ends
+Player JamesCamaro leaves the table with 0 Tournament chips
+Game #23949701-6 starts
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (2815 Tournament chips) 
+Seat 2: SilverCard (1975 Tournament chips) 
+Seat 3: willycall (1860 Tournament chips) 
+Seat 4: saxcat70 (1500 Tournament chips) 
+Seat 5: wahoo2282 (860 Tournament chips) 
+Seat 6: issylab (1970 Tournament chips) 
+Seat 7: fishman62 (1840 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+wahoo2282 posts the small blind [10 Tournament chips]
+issylab posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 5180 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2815 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1975 Tournament chips.
+willycall, at seat 3, is in this hand with 1860 Tournament chips.
+saxcat70, at seat 4, is in this hand (absent) with 1500 Tournament chips.
+wahoo2282, at seat 5, is in this hand with 850 Tournament chips.
+issylab, at seat 6, is in this hand with 1950 Tournament chips.
+fishman62, at seat 7, is in this hand with 1840 Tournament chips.
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+wahoo2282 is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+saxcat70 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Qs Jc ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to saxcat70 [ **** ]
+Dealt to wahoo2282 [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 calls [20 Tournament chips]
+Gjake calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+SilverCard calls [20 Tournament chips]
+willycall calls [20 Tournament chips]
+saxcat70 calls [20 Tournament chips]
+wahoo2282 raises all-in [850 Tournament chips]
+issylab folds [840 Tournament chips]
+fishman62 folds [840 Tournament chips]
+Gjake calls [840 Tournament chips]
+QwertySpark folds [840 Tournament chips]
+SilverCard folds [840 Tournament chips]
+willycall folds [840 Tournament chips]
+saxcat70 calls [840 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8d ] board:[ 8d]
+** Dealing Flop ** [ 2d ] board:[ 8d 2d]
+** Dealing Flop ** [ Td ] board:[ 8d 2d Td]
+Gjake checks
+saxcat70 goes all-in for 640 Tournament chips
+Gjake calls [640 Tournament chips]
+Tournament all-in showdown -- players show:
+Gjake shows [ 6s Qh ]
+saxcat70 shows [ 3c 5c ]
+wahoo2282 shows [ Js Kc ]
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 8d 2d Td Qc]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ 8d 2d Td Qc 3d]
+        (no action in this round)
+Round 4 is over.
+Gjake shows [ 6s Qh ] a pair of queens, ten/eight kickers
+saxcat70 shows [ 3c 5c ] a pair of threes, queen/ten kickers
+wahoo2282 shows [ Js Kc ] king/queen/jack high
+Gjake wins main pot 2680 Tournament chips with a pair of queens, ten/eight kickers.
+Gjake wins side pot #1 1280 Tournament chips with a pair of queens, ten/eight kickers.
+Seat 0: Gjake (7640 Tournament chips) 
+Seat 1: QwertySpark (2795 Tournament chips) 
+Seat 2: SilverCard (1955 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 4: saxcat70 (0 Tournament chips) 
+Seat 5: wahoo2282 (0 Tournament chips) 
+Seat 6: issylab (1950 Tournament chips) 
+Seat 7: fishman62 (1820 Tournament chips) 
+Game #23949701-6 ends
+Player wahoo2282 leaves the table with 0 Tournament chips
+Player saxcat70 leaves the table with 0 Tournament chips
+Game #23949701-7 starts
+Seat 0: Gjake (7640 Tournament chips) 
+Seat 1: QwertySpark (2795 Tournament chips) 
+Seat 2: SilverCard (1955 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 6: issylab (1950 Tournament chips) 
+Seat 7: fishman62 (1820 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+issylab posts the small blind [10 Tournament chips]
+fishman62 posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 7640 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2795 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1955 Tournament chips.
+willycall, at seat 3, is in this hand with 1840 Tournament chips.
+issylab, at seat 6, is in this hand with 1940 Tournament chips.
+fishman62, at seat 7, is in this hand with 1800 Tournament chips.
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Qs Th ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Gjake calls [20 Tournament chips]
+QwertySpark raises [120 Tournament chips]
+SilverCard folds [120 Tournament chips]
+willycall folds [120 Tournament chips]
+issylab folds [110 Tournament chips]
+fishman62 folds [100 Tournament chips]
+Gjake calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 8c ] board:[ 8h 8c]
+** Dealing Flop ** [ Jh ] board:[ 8h 8c Jh]
+Gjake checks
+QwertySpark bets for 100 Tournament chips
+Gjake calls [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ 8h 8c Jh Td]
+Gjake checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ 8h 8c Jh Td 8d]
+Gjake bets for 470 Tournament chips
+QwertySpark calls [470 Tournament chips]
+Round 4 is over.
+Gjake shows [ 6h 3d ] three eights
+Hand evaluation for Gjake (8h 8c Jh Td 8d: three eights)
+QwertySpark shows [ Qs Th ] full house, eights full of tens
+Hand evaluation for QwertySpark (Th 8h 8c Td 8d: full house, eights full of tens)
+QwertySpark wins main pot 1410 Tournament chips with full house, eights full of tens.
+Seat 0: Gjake (6950 Tournament chips) 
+Seat 1: QwertySpark (3515 Tournament chips) 
+Seat 2: SilverCard (1955 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1800 Tournament chips) 
+Game #23949701-7 ends
+Game #23949701-8 starts
+Seat 0: Gjake (6950 Tournament chips) 
+Seat 1: QwertySpark (3515 Tournament chips) 
+Seat 2: SilverCard (1955 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1800 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+fishman62 posts the small blind [10 Tournament chips]
+Gjake posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 6930 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3515 Tournament chips.
+SilverCard, at seat 2, is in this hand with 1955 Tournament chips.
+willycall, at seat 3, is in this hand with 1840 Tournament chips.
+issylab, at seat 6, is in this hand with 1940 Tournament chips.
+fishman62, at seat 7, is in this hand with 1790 Tournament chips.
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Qd Qc ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark raises [60 Tournament chips]
+SilverCard calls [60 Tournament chips]
+willycall folds [60 Tournament chips]
+issylab folds [60 Tournament chips]
+fishman62 folds [50 Tournament chips]
+Gjake calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 5d ] board:[ As 5d]
+** Dealing Flop ** [ 6c ] board:[ As 5d 6c]
+Gjake bets for 190 Tournament chips
+QwertySpark calls [190 Tournament chips]
+SilverCard calls [190 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ As 5d 6c Ah]
+Gjake bets for 760 Tournament chips
+QwertySpark calls [760 Tournament chips]
+SilverCard raises all-in [1705 Tournament chips]
+Gjake folds [945 Tournament chips]
+QwertySpark calls [945 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ Qd Qc ]
+SilverCard shows [ Ad 8d ]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ As 5d 6c Ah 8s]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ Qd Qc ] two pair, aces and queens, eight kicker
+SilverCard shows [ Ad 8d ] full house, aces full of eights
+SilverCard wins main pot 4930 Tournament chips with full house, aces full of eights.
+Seat 0: Gjake (5940 Tournament chips) 
+Seat 1: QwertySpark (1560 Tournament chips) 
+Seat 2: SilverCard (4930 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1790 Tournament chips) 
+Game #23949701-8 ends
+Game #23949701-9 starts
+Seat 0: Gjake (5940 Tournament chips) 
+Seat 1: QwertySpark (1560 Tournament chips) 
+Seat 2: SilverCard (4930 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1790 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Gjake posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 5930 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1540 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4930 Tournament chips.
+willycall, at seat 3, is in this hand with 1840 Tournament chips.
+issylab, at seat 6, is in this hand with 1940 Tournament chips.
+fishman62, at seat 7, is in this hand with 1790 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Jd 3c ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard calls [20 Tournament chips]
+willycall calls [20 Tournament chips]
+issylab folds [20 Tournament chips]
+fishman62 calls [20 Tournament chips]
+Gjake calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Kd ] board:[ Js Kd]
+** Dealing Flop ** [ 6c ] board:[ Js Kd 6c]
+Gjake checks
+QwertySpark bets for 40 Tournament chips
+SilverCard raises [100 Tournament chips]
+willycall folds [100 Tournament chips]
+fishman62 folds [100 Tournament chips]
+Gjake calls [100 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3s ] board:[ Js Kd 6c 3s]
+Gjake checks
+QwertySpark bets for 400 Tournament chips
+SilverCard folds [400 Tournament chips]
+Gjake calls [400 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ac ] board:[ Js Kd 6c 3s Ac]
+Gjake checks
+QwertySpark goes all-in for 1040 Tournament chips
+Gjake folds [1040 Tournament chips]
+QwertySpark is returned 1040 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Jd 3c Js 3s Ac: two pair, jacks and threes)
+QwertySpark wins main pot 1200 Tournament chips.
+Seat 0: Gjake (5420 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: SilverCard (4810 Tournament chips) 
+Seat 3: willycall (1820 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1770 Tournament chips) 
+Game #23949701-9 ends
+Game #23949701-10 starts
+Seat 0: Gjake (5420 Tournament chips) 
+Seat 1: QwertySpark (2240 Tournament chips) 
+Seat 2: SilverCard (4810 Tournament chips) 
+Seat 3: willycall (1820 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1770 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+SilverCard posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 5420 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2230 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4790 Tournament chips.
+willycall, at seat 3, is in this hand with 1820 Tournament chips.
+issylab, at seat 6, is in this hand with 1940 Tournament chips.
+fishman62, at seat 7, is in this hand with 1770 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 4s Ts ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [20 Tournament chips]
+issylab folds [20 Tournament chips]
+fishman62 calls [20 Tournament chips]
+Gjake calls [20 Tournament chips]
+QwertySpark calls [10 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 2d ] board:[ 5c 2d]
+** Dealing Flop ** [ 8h ] board:[ 5c 2d 8h]
+QwertySpark checks
+SilverCard bets for 80 Tournament chips
+fishman62 folds [80 Tournament chips]
+Gjake calls [80 Tournament chips]
+QwertySpark folds [80 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 5c 2d 8h 6s]
+SilverCard checks
+Gjake checks
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 5c 2d 8h 6s Qs]
+SilverCard checks
+Gjake bets for 500 Tournament chips
+SilverCard folds [500 Tournament chips]
+Gjake is returned 500 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Gjake (Kd Qh 8h 6s Qs: a pair of queens)
+Gjake wins main pot 240 Tournament chips.
+Seat 0: Gjake (5560 Tournament chips) 
+Seat 1: QwertySpark (2220 Tournament chips) 
+Seat 2: SilverCard (4710 Tournament chips) 
+Seat 3: willycall (1820 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+Game #23949701-10 ends
+Game #23949701-11 starts
+Seat 0: Gjake (5560 Tournament chips) 
+Seat 1: QwertySpark (2220 Tournament chips) 
+Seat 2: SilverCard (4710 Tournament chips) 
+Seat 3: willycall (1820 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [10 Tournament chips]
+willycall posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 5560 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2220 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4700 Tournament chips.
+willycall, at seat 3, is in this hand with 1800 Tournament chips.
+issylab, at seat 6, is in this hand with 1940 Tournament chips.
+fishman62, at seat 7, is in this hand with 1750 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 7d Ac ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+issylab folds [20 Tournament chips]
+fishman62 folds [20 Tournament chips]
+Gjake calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+SilverCard raises [90 Tournament chips]
+willycall folds [80 Tournament chips]
+Gjake calls [80 Tournament chips]
+QwertySpark calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ Th ] board:[ 2d Th]
+** Dealing Flop ** [ Jh ] board:[ 2d Th Jh]
+SilverCard bets for 160 Tournament chips
+Gjake calls [160 Tournament chips]
+QwertySpark folds [160 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 2d Th Jh 4s]
+SilverCard checks
+Gjake bets for 120 Tournament chips
+SilverCard calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 2d Th Jh 4s 2h]
+SilverCard bets for 440 Tournament chips
+Gjake folds [440 Tournament chips]
+SilverCard is returned 440 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for SilverCard (5h Ah Th Jh 2h: flush, ace high)
+SilverCard wins main pot 880 Tournament chips.
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5210 Tournament chips) 
+Seat 3: willycall (1800 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+Game #23949701-11 ends
+Game #23949701-12 starts
+Seat 0: Gjake (5180 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5210 Tournament chips) 
+Seat 3: willycall (1800 Tournament chips) 
+Seat 6: issylab (1940 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [10 Tournament chips]
+issylab posts the big blind [20 Tournament chips]
+Gjake, at seat 0, is in this hand with 5180 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2120 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5210 Tournament chips.
+willycall, at seat 3, is in this hand (absent) with 1790 Tournament chips.
+issylab, at seat 6, is in this hand with 1920 Tournament chips.
+fishman62, at seat 7, is in this hand with 1750 Tournament chips.
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 8d 6s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [20 Tournament chips]
+Gjake calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+(willycall has entered the table, is no longer absent.)
+SilverCard calls [20 Tournament chips]
+willycall raises [90 Tournament chips]
+issylab folds [80 Tournament chips]
+Gjake calls [80 Tournament chips]
+SilverCard folds [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ 8s ] board:[ Kd 8s]
+** Dealing Flop ** [ 7s ] board:[ Kd 8s 7s]
+willycall bets for 240 Tournament chips
+Gjake calls [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ Kd 8s 7s 4s]
+willycall bets for 720 Tournament chips
+Gjake calls [720 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ Kd 8s 7s 4s Ts]
+willycall goes all-in for 740 Tournament chips
+Gjake calls [740 Tournament chips]
+Tournament all-in showdown -- players show:
+Gjake shows [ 9s 6d ]
+willycall shows [ As Ah ]
+Round 4 is over.
+Gjake shows [ 9s 6d ] flush, ten/nine/eight high
+willycall shows [ As Ah ] flush, ace/ten/eight high
+willycall wins main pot 3640 Tournament chips with flush, ace/ten/eight high.
+Seat 0: Gjake (3380 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3640 Tournament chips) 
+Seat 6: issylab (1920 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+Game #23949701-12 ends
+Game #23949701-13 starts
+Seat 0: Gjake (3380 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3640 Tournament chips) 
+Seat 6: issylab (1920 Tournament chips) 
+Seat 7: fishman62 (1750 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+issylab posts the small blind [15 Tournament chips]
+fishman62 posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 3380 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2120 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5190 Tournament chips.
+willycall, at seat 3, is in this hand with 3640 Tournament chips.
+issylab, at seat 6, is in this hand with 1905 Tournament chips.
+fishman62, at seat 7, is in this hand with 1720 Tournament chips.
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 9d Kd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Gjake calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+SilverCard folds [30 Tournament chips]
+willycall calls [30 Tournament chips]
+issylab calls [15 Tournament chips]
+fishman62 raises [390 Tournament chips]
+Gjake folds [390 Tournament chips]
+willycall folds [390 Tournament chips]
+issylab folds [390 Tournament chips]
+fishman62 is returned 390 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for fishman62 (Jh Jd: a pair of jacks)
+fishman62 wins main pot 120 Tournament chips.
+Seat 0: Gjake (3350 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3610 Tournament chips) 
+Seat 6: issylab (1890 Tournament chips) 
+Seat 7: fishman62 (1840 Tournament chips) 
+Game #23949701-13 ends
+Game #23949701-14 starts
+Seat 0: Gjake (3350 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3610 Tournament chips) 
+Seat 6: issylab (1890 Tournament chips) 
+Seat 7: fishman62 (1840 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+fishman62 posts the small blind [15 Tournament chips]
+Gjake posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 3320 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2120 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5190 Tournament chips.
+willycall, at seat 3, is in this hand with 3610 Tournament chips.
+issylab, at seat 6, is in this hand with 1890 Tournament chips.
+fishman62, at seat 7, is in this hand with 1825 Tournament chips.
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 2c Ad ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [30 Tournament chips]
+SilverCard folds [30 Tournament chips]
+willycall calls [30 Tournament chips]
+issylab raises [135 Tournament chips]
+fishman62 folds [120 Tournament chips]
+Gjake calls [105 Tournament chips]
+willycall calls [105 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3s ] board:[ 3s]
+** Dealing Flop ** [ 7s ] board:[ 3s 7s]
+** Dealing Flop ** [ 4h ] board:[ 3s 7s 4h]
+Gjake checks
+willycall bets for 420 Tournament chips
+issylab raises all-in [1755 Tournament chips]
+Gjake calls [1755 Tournament chips]
+willycall folds [1335 Tournament chips]
+Tournament all-in showdown -- players show:
+Gjake shows [ 6c 3c ]
+issylab shows [ Ah Ac ]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 3s 7s 4h 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 3s 7s 4h 8s 8c]
+        (no action in this round)
+Round 4 is over.
+Gjake shows [ 6c 3c ] two pair, eights and threes, seven kicker
+issylab shows [ Ah Ac ] two pair, aces and eights, seven kicker
+issylab wins main pot 4350 Tournament chips with two pair, aces and eights, seven kicker.
+Seat 0: Gjake (1460 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3055 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1825 Tournament chips) 
+Game #23949701-14 ends
+Game #23949701-15 starts
+Seat 0: Gjake (1460 Tournament chips) 
+Seat 1: QwertySpark (2120 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3055 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1825 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Gjake posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1445 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2090 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5190 Tournament chips.
+willycall, at seat 3, is in this hand with 3055 Tournament chips.
+issylab, at seat 6, is in this hand with 4350 Tournament chips.
+fishman62, at seat 7, is in this hand with 1825 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 4h Qs ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [30 Tournament chips]
+willycall calls [30 Tournament chips]
+issylab folds [30 Tournament chips]
+fishman62 folds [30 Tournament chips]
+Gjake raises [45 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+willycall calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 3c ] board:[ 8s 3c]
+** Dealing Flop ** [ 5c ] board:[ 8s 3c 5c]
+Gjake checks
+willycall checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ 8s 3c 5c Js]
+Gjake checks
+willycall has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ Qd ] board:[ 8s 3c 5c Js Qd]
+Gjake checks
+willycall checks
+Round 4 is over.
+Gjake shows [ Ks Td ] king high
+Hand evaluation for Gjake (Ks Td 8s Js Qd: king high)
+willycall shows [ Ad 8d ] a pair of eights
+Hand evaluation for willycall (Ad 8d 8s Js Qd: a pair of eights)
+willycall wins main pot 150 Tournament chips with a pair of eights, ace/queen kickers.
+Seat 0: Gjake (1400 Tournament chips) 
+Seat 1: QwertySpark (2090 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3145 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1825 Tournament chips) 
+Game #23949701-15 ends
+Game #23949701-16 starts
+Seat 0: Gjake (1400 Tournament chips) 
+Seat 1: QwertySpark (2090 Tournament chips) 
+Seat 2: SilverCard (5190 Tournament chips) 
+Seat 3: willycall (3145 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1825 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+SilverCard posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1400 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2075 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5160 Tournament chips.
+willycall, at seat 3, is in this hand with 3145 Tournament chips.
+issylab, at seat 6, is in this hand with 4350 Tournament chips.
+fishman62, at seat 7, is in this hand with 1825 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Jd Ts ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+willycall calls [30 Tournament chips]
+issylab folds [30 Tournament chips]
+fishman62 calls [30 Tournament chips]
+Gjake calls [30 Tournament chips]
+QwertySpark folds [15 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Qc ] board:[ 4h Qc]
+** Dealing Flop ** [ 8h ] board:[ 4h Qc 8h]
+SilverCard checks
+willycall checks
+fishman62 checks
+Gjake checks
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ 4h Qc 8h 7c]
+SilverCard checks
+willycall checks
+fishman62 checks
+Gjake bets for 135 Tournament chips
+SilverCard calls [135 Tournament chips]
+willycall folds [135 Tournament chips]
+fishman62 folds [135 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8c ] board:[ 4h Qc 8h 7c 8c]
+SilverCard checks
+Gjake checks
+Round 4 is over.
+SilverCard shows [ 6s Td ] a pair of eights
+Hand evaluation for SilverCard (Td Qc 8h 7c 8c: a pair of eights)
+Gjake shows [ Kc 5s ] a pair of eights
+Hand evaluation for Gjake (Kc Qc 8h 7c 8c: a pair of eights)
+Gjake wins main pot 405 Tournament chips with a pair of eights, king/queen kickers.
+Seat 0: Gjake (1640 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5025 Tournament chips) 
+Seat 3: willycall (3115 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+Game #23949701-16 ends
+Game #23949701-17 starts
+Seat 0: Gjake (1640 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5025 Tournament chips) 
+Seat 3: willycall (3115 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [15 Tournament chips]
+willycall posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1640 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2075 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5010 Tournament chips.
+willycall, at seat 3, is in this hand with 3085 Tournament chips.
+issylab, at seat 6, is in this hand with 4350 Tournament chips.
+fishman62, at seat 7, is in this hand with 1795 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Kh Th ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+issylab folds [30 Tournament chips]
+fishman62 folds [30 Tournament chips]
+Gjake raises [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+SilverCard folds [45 Tournament chips]
+willycall folds [30 Tournament chips]
+Gjake is returned 30 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Gjake (7s 9d: nine high)
+Gjake wins main pot 75 Tournament chips.
+Seat 0: Gjake (1685 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5010 Tournament chips) 
+Seat 3: willycall (3085 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+Game #23949701-17 ends
+Game #23949701-18 starts
+Seat 0: Gjake (1685 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5010 Tournament chips) 
+Seat 3: willycall (3085 Tournament chips) 
+Seat 6: issylab (4350 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [15 Tournament chips]
+issylab posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1685 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2075 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5010 Tournament chips.
+willycall, at seat 3, is in this hand with 3070 Tournament chips.
+issylab, at seat 6, is in this hand with 4320 Tournament chips.
+fishman62, at seat 7, is in this hand with 1795 Tournament chips.
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 7c 4s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [30 Tournament chips]
+Gjake calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+SilverCard calls [30 Tournament chips]
+willycall folds [15 Tournament chips]
+issylab checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 5c ] board:[ Ts 5c]
+** Dealing Flop ** [ Ah ] board:[ Ts 5c Ah]
+issylab checks
+Gjake checks
+SilverCard checks
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ Ts 5c Ah 9s]
+issylab checks
+Gjake bets for 30 Tournament chips
+SilverCard calls [30 Tournament chips]
+issylab folds [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ Ts 5c Ah 9s Jh]
+Gjake bets for 30 Tournament chips
+SilverCard calls [30 Tournament chips]
+Round 4 is over.
+Gjake shows [ 3d 9d ] a pair of nines
+Hand evaluation for Gjake (9d Ts Ah 9s Jh: a pair of nines)
+SilverCard shows [ 7s 9c ] a pair of nines
+Hand evaluation for SilverCard (9c Ts Ah 9s Jh: a pair of nines)
+Gjake wins main pot 113 Tournament chips of a 225 Tournament chips pot with a pair of nines, ace/jack kickers.
+SilverCard wins main pot 112 Tournament chips of a 225 Tournament chips pot with a pair of nines, ace/jack kickers.
+Seat 0: Gjake (1708 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5032 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (4320 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+Game #23949701-18 ends
+Game #23949701-19 starts
+Seat 0: Gjake (1708 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5032 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (4320 Tournament chips) 
+Seat 7: fishman62 (1795 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+issylab posts the small blind [15 Tournament chips]
+fishman62 posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1708 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2075 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5032 Tournament chips.
+willycall, at seat 3, is in this hand with 3070 Tournament chips.
+issylab, at seat 6, is in this hand with 4305 Tournament chips.
+fishman62, at seat 7, is in this hand with 1765 Tournament chips.
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 4d 8c ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Gjake calls [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+SilverCard calls [30 Tournament chips]
+willycall folds [30 Tournament chips]
+issylab calls [15 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Ad ] board:[ 4h Ad]
+** Dealing Flop ** [ 9h ] board:[ 4h Ad 9h]
+issylab checks
+fishman62 checks
+Gjake bets for 30 Tournament chips
+SilverCard folds [30 Tournament chips]
+issylab folds [30 Tournament chips]
+fishman62 folds [30 Tournament chips]
+Gjake is returned 30 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for Gjake (2s Kh 4h Ad 9h: ace high)
+Gjake wins main pot 120 Tournament chips.
+Seat 0: Gjake (1798 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5002 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (4290 Tournament chips) 
+Seat 7: fishman62 (1765 Tournament chips) 
+Game #23949701-19 ends
+Game #23949701-20 starts
+Seat 0: Gjake (1798 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5002 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (4290 Tournament chips) 
+Seat 7: fishman62 (1765 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+fishman62 posts the small blind [15 Tournament chips]
+Gjake posts the big blind [30 Tournament chips]
+Gjake, at seat 0, is in this hand with 1768 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 2075 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5002 Tournament chips.
+willycall, at seat 3, is in this hand with 3070 Tournament chips.
+issylab, at seat 6, is in this hand with 4290 Tournament chips.
+fishman62, at seat 7, is in this hand with 1750 Tournament chips.
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 8h 5d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [30 Tournament chips]
+SilverCard folds [30 Tournament chips]
+willycall folds [30 Tournament chips]
+issylab raises [60 Tournament chips]
+fishman62 calls [45 Tournament chips]
+Gjake calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 6c ] board:[ Qh 6c]
+** Dealing Flop ** [ Jd ] board:[ Qh 6c Jd]
+fishman62 bets for 300 Tournament chips
+Gjake calls [300 Tournament chips]
+issylab raises [1380 Tournament chips]
+fishman62 folds [1080 Tournament chips]
+Gjake folds [1080 Tournament chips]
+issylab is returned 1080 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for issylab (Kd Kc Qh 6c Jd: a pair of kings)
+issylab wins main pot 1080 Tournament chips.
+Seat 0: Gjake (1438 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5002 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (1405 Tournament chips) 
+Game #23949701-20 ends
+Game #23949701-21 starts
+Seat 0: Gjake (1438 Tournament chips) 
+Seat 1: QwertySpark (2075 Tournament chips) 
+Seat 2: SilverCard (5002 Tournament chips) 
+Seat 3: willycall (3070 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (1405 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Gjake posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 1418 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 2035 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5002 Tournament chips.
+willycall, at seat 3, is in this hand with 3070 Tournament chips.
+issylab, at seat 6, is in this hand with 5010 Tournament chips.
+fishman62, at seat 7, is in this hand with 1405 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 3s 9d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard calls [40 Tournament chips]
+willycall calls [40 Tournament chips]
+issylab folds [40 Tournament chips]
+fishman62 calls [40 Tournament chips]
+Gjake raises [60 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+SilverCard calls [40 Tournament chips]
+willycall calls [40 Tournament chips]
+fishman62 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Ks ] board:[ 7d Ks]
+** Dealing Flop ** [ Ad ] board:[ 7d Ks Ad]
+Gjake bets for 40 Tournament chips
+QwertySpark folds [40 Tournament chips]
+SilverCard raises [260 Tournament chips]
+willycall folds [260 Tournament chips]
+fishman62 calls [260 Tournament chips]
+Gjake calls [220 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 7d Ks Ad 9s]
+Gjake checks
+SilverCard checks
+fishman62 checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 7d Ks Ad 9s 3h]
+Gjake checks
+SilverCard bets for 590 Tournament chips
+fishman62 calls [590 Tournament chips]
+Gjake folds [590 Tournament chips]
+Round 4 is over.
+SilverCard shows [ 5d Kd ] a pair of kings
+Hand evaluation for SilverCard (Kd 7d Ks Ad 9s: a pair of kings)
+fishman62 shows [ Ah 5h ] a pair of aces
+Hand evaluation for fishman62 (Ah 7d Ks Ad 9s: a pair of aces)
+fishman62 wins main pot 2360 Tournament chips with a pair of aces, king/nine kickers.
+Seat 0: Gjake (1098 Tournament chips) 
+Seat 1: QwertySpark (1995 Tournament chips) 
+Seat 2: SilverCard (4072 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2835 Tournament chips) 
+Game #23949701-21 ends
+Game #23949701-22 starts
+Seat 0: Gjake (1098 Tournament chips) 
+Seat 1: QwertySpark (1995 Tournament chips) 
+Seat 2: SilverCard (4072 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2835 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [20 Tournament chips]
+SilverCard posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 1098 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4032 Tournament chips.
+willycall, at seat 3, is in this hand with 2990 Tournament chips.
+issylab, at seat 6, is in this hand with 5010 Tournament chips.
+fishman62, at seat 7, is in this hand with 2835 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 6h 5d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+willycall calls [40 Tournament chips]
+issylab folds [40 Tournament chips]
+fishman62 raises [320 Tournament chips]
+Gjake calls [320 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+SilverCard folds [280 Tournament chips]
+willycall folds [280 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ 9h ] board:[ 2c 9h]
+** Dealing Flop ** [ Tc ] board:[ 2c 9h Tc]
+fishman62 checks
+Gjake bets for 740 Tournament chips
+fishman62 calls [740 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 2c 9h Tc 9c]
+fishman62 bets for 40 Tournament chips
+Gjake calls all-in [38 Tournament chips]
+fishman62 is returned 2 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Gjake shows [ Ad Jc ]
+fishman62 shows [ Ks As ]
+Round 3 is over.
+** Dealing River ** [ Th ] board:[ 2c 9h Tc 9c Th]
+        (no action in this round)
+Round 4 is over.
+Gjake shows [ Ad Jc ] two pair, tens and nines, ace kicker
+fishman62 shows [ Ks As ] two pair, tens and nines, ace kicker
+Gjake wins main pot 1148 Tournament chips of a 2296 Tournament chips pot with two pair, tens and nines, ace kicker.
+fishman62 wins main pot 1148 Tournament chips of a 2296 Tournament chips pot with two pair, tens and nines, ace kicker.
+Seat 0: Gjake (1148 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4032 Tournament chips) 
+Seat 3: willycall (2950 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2885 Tournament chips) 
+Game #23949701-22 ends
+Game #23949701-23 starts
+Seat 0: Gjake (1148 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4032 Tournament chips) 
+Seat 3: willycall (2950 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2885 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [20 Tournament chips]
+willycall posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 1148 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 1975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4012 Tournament chips.
+willycall, at seat 3, is in this hand with 2910 Tournament chips.
+issylab, at seat 6, is in this hand with 5010 Tournament chips.
+fishman62, at seat 7, is in this hand with 2885 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 6h 2c ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+issylab folds [40 Tournament chips]
+fishman62 calls [40 Tournament chips]
+Gjake calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+SilverCard calls [20 Tournament chips]
+willycall checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Ks ] board:[ 9d Ks]
+** Dealing Flop ** [ 9h ] board:[ 9d Ks 9h]
+SilverCard has timed out - the hand is checked
+willycall checks
+fishman62 checks
+Gjake checks
+Round 2 is over.
+** Dealing Turn ** [ Qh ] board:[ 9d Ks 9h Qh]
+SilverCard has timed out - the hand is checked
+willycall checks
+fishman62 checks
+Gjake checks
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 9d Ks 9h Qh 3s]
+SilverCard bets for 160 Tournament chips
+willycall folds [160 Tournament chips]
+fishman62 calls [160 Tournament chips]
+Gjake folds [160 Tournament chips]
+Round 4 is over.
+SilverCard shows [ 9s 4d ] three nines
+Hand evaluation for SilverCard (9s 9d Ks 9h Qh: three nines)
+fishman62 doesn't show [ Kc 5h ]
+(fishman62 has Kc 5h.)
+SilverCard wins main pot 480 Tournament chips with three nines, king/queen kickers.
+Seat 0: Gjake (1108 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4312 Tournament chips) 
+Seat 3: willycall (2910 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2685 Tournament chips) 
+Game #23949701-23 ends
+Game #23949701-24 starts
+Seat 0: Gjake (1108 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4312 Tournament chips) 
+Seat 3: willycall (2910 Tournament chips) 
+Seat 6: issylab (5010 Tournament chips) 
+Seat 7: fishman62 (2685 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [20 Tournament chips]
+issylab posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 1108 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 1975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4312 Tournament chips.
+willycall, at seat 3, is in this hand with 2890 Tournament chips.
+issylab, at seat 6, is in this hand with 4970 Tournament chips.
+fishman62, at seat 7, is in this hand with 2685 Tournament chips.
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 2s As ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 calls [40 Tournament chips]
+Gjake calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+SilverCard folds [40 Tournament chips]
+willycall calls [20 Tournament chips]
+issylab checks
+Round 1 is over.
+** Dealing Flop ** [ 7c ] board:[ 7c]
+** Dealing Flop ** [ Jh ] board:[ 7c Jh]
+** Dealing Flop ** [ 7d ] board:[ 7c Jh 7d]
+willycall checks
+issylab checks
+fishman62 checks
+Gjake checks
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 7c Jh 7d Jd]
+willycall bets for 160 Tournament chips
+issylab folds [160 Tournament chips]
+fishman62 folds [160 Tournament chips]
+Gjake folds [160 Tournament chips]
+willycall is returned 160 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for willycall (Ah 7c Jh 7d Jd: two pair, jacks and sevens)
+willycall wins main pot 160 Tournament chips.
+Seat 0: Gjake (1068 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4312 Tournament chips) 
+Seat 3: willycall (3030 Tournament chips) 
+Seat 6: issylab (4970 Tournament chips) 
+Seat 7: fishman62 (2645 Tournament chips) 
+Game #23949701-24 ends
+Game #23949701-25 starts
+Seat 0: Gjake (1068 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (4312 Tournament chips) 
+Seat 3: willycall (3030 Tournament chips) 
+Seat 6: issylab (4970 Tournament chips) 
+Seat 7: fishman62 (2645 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+issylab posts the small blind [20 Tournament chips]
+fishman62 posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 1068 Tournament chips.
+QwertySpark, at seat 1, is in this hand (absent) with 1975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 4312 Tournament chips.
+willycall, at seat 3, is in this hand with 3030 Tournament chips.
+issylab, at seat 6, is in this hand with 4950 Tournament chips.
+fishman62, at seat 7, is in this hand with 2605 Tournament chips.
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 4c 7d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+Gjake calls [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+SilverCard calls [40 Tournament chips]
+willycall calls [40 Tournament chips]
+issylab calls [20 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 9s ] board:[ 9s]
+** Dealing Flop ** [ 3c ] board:[ 9s 3c]
+** Dealing Flop ** [ Qs ] board:[ 9s 3c Qs]
+issylab bets for 100 Tournament chips
+fishman62 folds [100 Tournament chips]
+Gjake calls [100 Tournament chips]
+SilverCard raises [240 Tournament chips]
+willycall folds [240 Tournament chips]
+issylab calls [140 Tournament chips]
+Gjake folds [140 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 9s 3c Qs Jd]
+issylab checks
+SilverCard bets for 390 Tournament chips
+issylab calls [390 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 9s 3c Qs Jd 7s]
+issylab checks
+SilverCard bets for 780 Tournament chips
+issylab calls [780 Tournament chips]
+Round 4 is over.
+SilverCard shows [ 7h Qh ] two pair, queens and sevens
+Hand evaluation for SilverCard (7h Qh Qs Jd 7s: two pair, queens and sevens)
+issylab doesn't show [ Th Qd ]
+(issylab has Th Qd.)
+SilverCard wins main pot 3120 Tournament chips with two pair, queens and sevens, jack kicker.
+Seat 0: Gjake (928 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (5982 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (3520 Tournament chips) 
+Seat 7: fishman62 (2605 Tournament chips) 
+Game #23949701-25 ends
+Game #23949701-26 starts
+Seat 0: Gjake (928 Tournament chips) 
+Seat 1: QwertySpark (1975 Tournament chips) 
+Seat 2: SilverCard (5982 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (3520 Tournament chips) 
+Seat 7: fishman62 (2605 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 6.
+fishman62 posts the small blind [20 Tournament chips]
+Gjake posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 888 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 1975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5982 Tournament chips.
+willycall, at seat 3, is in this hand with 2990 Tournament chips.
+issylab, at seat 6, is in this hand with 3520 Tournament chips.
+fishman62, at seat 7, is in this hand with 2585 Tournament chips.
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 8d Jh ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark calls [40 Tournament chips]
+SilverCard calls [40 Tournament chips]
+willycall folds [40 Tournament chips]
+issylab calls [40 Tournament chips]
+fishman62 calls [20 Tournament chips]
+Gjake checks
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ Th ] board:[ Js Th]
+** Dealing Flop ** [ As ] board:[ Js Th As]
+fishman62 checks
+Gjake checks
+QwertySpark bets for 120 Tournament chips
+SilverCard calls [120 Tournament chips]
+issylab calls [120 Tournament chips]
+fishman62 folds [120 Tournament chips]
+Gjake calls [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Js Th As 8c]
+Gjake checks
+QwertySpark bets for 340 Tournament chips
+SilverCard folds [340 Tournament chips]
+issylab raises all-in [3360 Tournament chips]
+Gjake folds [768 Tournament chips]
+QwertySpark calls all-in [1475 Tournament chips]
+issylab is returned 1545 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 8d Jh ]
+issylab shows [ 8s Td ]
+Round 3 is over.
+** Dealing River ** [ Kd ] board:[ Js Th As 8c Kd]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 8d Jh ] two pair, jacks and eights, ace kicker
+issylab shows [ 8s Td ] two pair, tens and eights, ace kicker
+QwertySpark wins main pot 4310 Tournament chips with two pair, jacks and eights, ace kicker.
+Seat 0: Gjake (768 Tournament chips) 
+Seat 1: QwertySpark (4310 Tournament chips) 
+Seat 2: SilverCard (5822 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (1545 Tournament chips) 
+Seat 7: fishman62 (2565 Tournament chips) 
+Game #23949701-26 ends
+Game #23949701-27 starts
+Seat 0: Gjake (768 Tournament chips) 
+Seat 1: QwertySpark (4310 Tournament chips) 
+Seat 2: SilverCard (5822 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (1545 Tournament chips) 
+Seat 7: fishman62 (2565 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+Gjake posts the small blind [20 Tournament chips]
+QwertySpark posts the big blind [40 Tournament chips]
+Gjake, at seat 0, is in this hand with 748 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4270 Tournament chips.
+SilverCard, at seat 2, is in this hand (absent) with 5822 Tournament chips.
+willycall, at seat 3, is in this hand with 2990 Tournament chips.
+issylab, at seat 6, is in this hand with 1545 Tournament chips.
+fishman62, at seat 7, is in this hand with 2565 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Jc 5s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [40 Tournament chips]
+willycall folds [40 Tournament chips]
+issylab calls [40 Tournament chips]
+fishman62 calls [40 Tournament chips]
+Gjake raises [60 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+issylab calls [40 Tournament chips]
+fishman62 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 8s ] board:[ 4d 8s]
+** Dealing Flop ** [ 9h ] board:[ 4d 8s 9h]
+Gjake checks
+issylab checks
+fishman62 checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 4d 8s 9h 3c]
+Gjake bets for 280 Tournament chips
+issylab folds [280 Tournament chips]
+fishman62 folds [280 Tournament chips]
+Gjake is returned 280 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for Gjake (Ac 4d 8s 9h 3c: ace high)
+Gjake wins main pot 280 Tournament chips.
+Seat 0: Gjake (968 Tournament chips) 
+Seat 1: QwertySpark (4270 Tournament chips) 
+Seat 2: SilverCard (5822 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (1465 Tournament chips) 
+Seat 7: fishman62 (2485 Tournament chips) 
+Game #23949701-27 ends
+Game #23949701-28 starts
+Seat 0: Gjake (968 Tournament chips) 
+Seat 1: QwertySpark (4270 Tournament chips) 
+Seat 2: SilverCard (5822 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (1465 Tournament chips) 
+Seat 7: fishman62 (2485 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [30 Tournament chips]
+SilverCard posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 968 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4240 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5762 Tournament chips.
+willycall, at seat 3, is in this hand with 2990 Tournament chips.
+issylab, at seat 6, is in this hand with 1465 Tournament chips.
+fishman62, at seat 7, is in this hand with 2485 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Kc 6h ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [60 Tournament chips]
+issylab raises all-in [1465 Tournament chips]
+fishman62 folds [1465 Tournament chips]
+Gjake calls all-in [968 Tournament chips]
+QwertySpark folds [1435 Tournament chips]
+SilverCard folds [1405 Tournament chips]
+issylab is returned 497 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Gjake shows [ 9s 9c ]
+issylab shows [ Qs Jc ]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 4h ] board:[ 8c 4h]
+** Dealing Flop ** [ 2h ] board:[ 8c 4h 2h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 8c 4h 2h 6d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 7c ] board:[ 8c 4h 2h 6d 7c]
+        (no action in this round)
+Round 4 is over.
+Gjake shows [ 9s 9c ] a pair of nines, eight/seven kickers
+issylab shows [ Qs Jc ] queen/jack/eight high
+Gjake wins main pot 2026 Tournament chips with a pair of nines, eight/seven kickers.
+Seat 0: Gjake (2026 Tournament chips) 
+Seat 1: QwertySpark (4240 Tournament chips) 
+Seat 2: SilverCard (5762 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (497 Tournament chips) 
+Seat 7: fishman62 (2485 Tournament chips) 
+Game #23949701-28 ends
+Game #23949701-29 starts
+Seat 0: Gjake (2026 Tournament chips) 
+Seat 1: QwertySpark (4240 Tournament chips) 
+Seat 2: SilverCard (5762 Tournament chips) 
+Seat 3: willycall (2990 Tournament chips) 
+Seat 6: issylab (497 Tournament chips) 
+Seat 7: fishman62 (2485 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [30 Tournament chips]
+willycall posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 2026 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4240 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5732 Tournament chips.
+willycall, at seat 3, is in this hand with 2930 Tournament chips.
+issylab, at seat 6, is in this hand with 497 Tournament chips.
+fishman62, at seat 7, is in this hand with 2485 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+issylab is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 8c Qd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to issylab [ **** ]
+Dealt to fishman62 [ **** ]
+issylab raises all-in [497 Tournament chips]
+fishman62 calls [497 Tournament chips]
+Gjake calls [497 Tournament chips]
+QwertySpark folds [497 Tournament chips]
+SilverCard folds [467 Tournament chips]
+willycall calls [437 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ Tc ] board:[ Ad Tc]
+** Dealing Flop ** [ Th ] board:[ Ad Tc Th]
+willycall checks
+fishman62 goes all-in for 1988 Tournament chips
+Gjake folds [1529 Tournament chips]
+willycall calls [1988 Tournament chips]
+Tournament all-in showdown -- players show:
+willycall shows [ 9s 9d ]
+issylab shows [ Kh 8d ]
+fishman62 shows [ Ah Kd ]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ Ad Tc Th 8s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ Ad Tc Th 8s 3s]
+        (no action in this round)
+Round 4 is over.
+willycall shows [ 9s 9d ] two pair, tens and nines, ace kicker
+issylab shows [ Kh 8d ] two pair, tens and eights, ace kicker
+fishman62 shows [ Ah Kd ] two pair, aces and tens, king kicker
+fishman62 wins main pot 2018 Tournament chips with two pair, aces and tens, king kicker.
+fishman62 wins side pot #1 3976 Tournament chips with two pair, aces and tens, king kicker.
+Seat 0: Gjake (1529 Tournament chips) 
+Seat 1: QwertySpark (4240 Tournament chips) 
+Seat 2: SilverCard (5732 Tournament chips) 
+Seat 3: willycall (505 Tournament chips) 
+Seat 6: issylab (0 Tournament chips) 
+Seat 7: fishman62 (5994 Tournament chips) 
+Game #23949701-29 ends
+Player issylab leaves the table with 0 Tournament chips
+Game #23949701-30 starts
+Seat 0: Gjake (1529 Tournament chips) 
+Seat 1: QwertySpark (4240 Tournament chips) 
+Seat 2: SilverCard (5732 Tournament chips) 
+Seat 3: willycall (505 Tournament chips) 
+Seat 7: fishman62 (5994 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [30 Tournament chips]
+fishman62 posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 1529 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 4240 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5732 Tournament chips.
+willycall, at seat 3, is in this hand with 475 Tournament chips.
+fishman62, at seat 7, is in this hand with 5934 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 3h 4h ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+Gjake calls [60 Tournament chips]
+QwertySpark raises [300 Tournament chips]
+SilverCard calls [300 Tournament chips]
+willycall calls [270 Tournament chips]
+fishman62 folds [240 Tournament chips]
+Gjake calls [240 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qs ] board:[ Qs]
+** Dealing Flop ** [ 3s ] board:[ Qs 3s]
+** Dealing Flop ** [ 5s ] board:[ Qs 3s 5s]
+willycall goes all-in for 205 Tournament chips
+Gjake calls [205 Tournament chips]
+QwertySpark calls [205 Tournament chips]
+SilverCard calls [205 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Qs 3s 5s 8c]
+Gjake checks
+QwertySpark checks
+SilverCard checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Qs 3s 5s 8c 2d]
+Gjake checks
+QwertySpark bets for 2080 Tournament chips
+SilverCard folds [2080 Tournament chips]
+Gjake folds [1024 Tournament chips]
+QwertySpark is returned 2080 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 3h 4h ]
+willycall shows [ 8h Qd ]
+Round 4 is over.
+QwertySpark shows [ 3h 4h ] a pair of threes, queen/eight kickers
+willycall shows [ 8h Qd ] two pair, queens and eights, five kicker
+willycall wins main pot 2080 Tournament chips with two pair, queens and eights, five kicker.
+Seat 0: Gjake (1024 Tournament chips) 
+Seat 1: QwertySpark (3735 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2080 Tournament chips) 
+Seat 7: fishman62 (5934 Tournament chips) 
+Game #23949701-30 ends
+Game #23949701-31 starts
+Seat 0: Gjake (1024 Tournament chips) 
+Seat 1: QwertySpark (3735 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2080 Tournament chips) 
+Seat 7: fishman62 (5934 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [30 Tournament chips]
+Gjake posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 964 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3735 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5227 Tournament chips.
+willycall, at seat 3, is in this hand with 2080 Tournament chips.
+fishman62, at seat 7, is in this hand with 5904 Tournament chips.
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ Qc Jh ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark calls [60 Tournament chips]
+SilverCard folds [60 Tournament chips]
+willycall folds [60 Tournament chips]
+fishman62 folds [30 Tournament chips]
+Gjake checks
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 8d ] board:[ 3d 8d]
+** Dealing Flop ** [ Jd ] board:[ 3d 8d Jd]
+Gjake checks
+QwertySpark bets for 120 Tournament chips
+Gjake folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qc Jh 3d 8d Jd: a pair of jacks)
+QwertySpark wins main pot 150 Tournament chips.
+Seat 0: Gjake (964 Tournament chips) 
+Seat 1: QwertySpark (3825 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2080 Tournament chips) 
+Seat 7: fishman62 (5904 Tournament chips) 
+Game #23949701-31 ends
+Game #23949701-32 starts
+Seat 0: Gjake (964 Tournament chips) 
+Seat 1: QwertySpark (3825 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2080 Tournament chips) 
+Seat 7: fishman62 (5904 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+Gjake posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 934 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3765 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5227 Tournament chips.
+willycall, at seat 3, is in this hand with 2080 Tournament chips.
+fishman62, at seat 7, is in this hand with 5904 Tournament chips.
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 4s Ac ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [60 Tournament chips]
+willycall calls [60 Tournament chips]
+fishman62 calls [60 Tournament chips]
+Gjake calls [30 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ Th ] board:[ Td Th]
+** Dealing Flop ** [ 7c ] board:[ Td Th 7c]
+Gjake checks
+QwertySpark checks
+willycall checks
+fishman62 checks
+Round 2 is over.
+** Dealing Turn ** [ Qs ] board:[ Td Th 7c Qs]
+Gjake checks
+QwertySpark bets for 120 Tournament chips
+willycall folds [120 Tournament chips]
+fishman62 folds [120 Tournament chips]
+Gjake folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (Ac Td Th 7c Qs: a pair of tens)
+QwertySpark wins main pot 240 Tournament chips.
+Seat 0: Gjake (904 Tournament chips) 
+Seat 1: QwertySpark (4005 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2020 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+Game #23949701-32 ends
+Game #23949701-33 starts
+Seat 0: Gjake (904 Tournament chips) 
+Seat 1: QwertySpark (4005 Tournament chips) 
+Seat 2: SilverCard (5227 Tournament chips) 
+Seat 3: willycall (2020 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [30 Tournament chips]
+SilverCard posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 904 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5167 Tournament chips.
+willycall, at seat 3, is in this hand with 2020 Tournament chips.
+fishman62, at seat 7, is in this hand with 5844 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 2c Jd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall raises [120 Tournament chips]
+fishman62 folds [120 Tournament chips]
+Gjake calls [120 Tournament chips]
+QwertySpark folds [90 Tournament chips]
+SilverCard calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 9h ] board:[ Jc 9h]
+** Dealing Flop ** [ 8c ] board:[ Jc 9h 8c]
+SilverCard bets for 195 Tournament chips
+willycall folds [195 Tournament chips]
+Gjake calls [195 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4d ] board:[ Jc 9h 8c 4d]
+SilverCard checks
+Gjake checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ Jc 9h 8c 4d 6c]
+SilverCard checks
+Gjake checks
+Round 4 is over.
+SilverCard shows [ 5d Ah ] ace high
+Hand evaluation for SilverCard (Ah Jc 9h 8c 6c: ace high)
+Gjake doesn't show [ 3h Kc ]
+(Gjake has 3h Kc.)
+SilverCard wins main pot 780 Tournament chips with ace/jack/nine high.
+Seat 0: Gjake (589 Tournament chips) 
+Seat 1: QwertySpark (3975 Tournament chips) 
+Seat 2: SilverCard (5692 Tournament chips) 
+Seat 3: willycall (1900 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+Game #23949701-33 ends
+Game #23949701-34 starts
+Seat 0: Gjake (589 Tournament chips) 
+Seat 1: QwertySpark (3975 Tournament chips) 
+Seat 2: SilverCard (5692 Tournament chips) 
+Seat 3: willycall (1900 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+SilverCard posts the small blind [30 Tournament chips]
+willycall posts the big blind [60 Tournament chips]
+Gjake, at seat 0, is in this hand with 589 Tournament chips.
+QwertySpark, at seat 1, is in this hand with 3975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 5662 Tournament chips.
+willycall, at seat 3, is in this hand with 1840 Tournament chips.
+fishman62, at seat 7, is in this hand with 5844 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Gjake is dealt: **
+
+Dealt to Gjake [ **** ]
+Dealt to QwertySpark [ 5d Jh ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [60 Tournament chips]
+Gjake calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+SilverCard raises [210 Tournament chips]
+willycall folds [180 Tournament chips]
+Gjake raises all-in [529 Tournament chips]
+SilverCard calls [349 Tournament chips]
+Tournament all-in showdown -- players show:
+Gjake shows [ 7s 4s ]
+SilverCard shows [ Ts Tc ]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ Qd ] board:[ Kc Qd]
+** Dealing Flop ** [ Th ] board:[ Kc Qd Th]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4h ] board:[ Kc Qd Th 4h]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ Kc Qd Th 4h Ks]
+        (no action in this round)
+Round 4 is over.
+Gjake shows [ 7s 4s ] two pair, kings and fours, queen kicker
+SilverCard shows [ Ts Tc ] full house, tens full of kings
+SilverCard wins main pot 1238 Tournament chips with full house, tens full of kings.
+Seat 0: Gjake (0 Tournament chips) 
+Seat 1: QwertySpark (3975 Tournament chips) 
+Seat 2: SilverCard (6341 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+Game #23949701-34 ends
+Player Gjake leaves the table with 0 Tournament chips
+Game #23949701-35 starts
+Seat 1: QwertySpark (3975 Tournament chips) 
+Seat 2: SilverCard (6341 Tournament chips) 
+Seat 3: willycall (1840 Tournament chips) 
+Seat 7: fishman62 (5844 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [30 Tournament chips]
+fishman62 posts the big blind [60 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3975 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6341 Tournament chips.
+willycall, at seat 3, is in this hand with 1810 Tournament chips.
+fishman62, at seat 7, is in this hand with 5784 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 6s 3s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark calls [60 Tournament chips]
+SilverCard calls [60 Tournament chips]
+willycall folds [30 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ As ] board:[ 4h As]
+** Dealing Flop ** [ Qs ] board:[ 4h As Qs]
+fishman62 checks
+QwertySpark bets for 120 Tournament chips
+SilverCard folds [120 Tournament chips]
+fishman62 folds [120 Tournament chips]
+QwertySpark is returned 120 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (6s 3s 4h As Qs: ace high)
+QwertySpark wins main pot 210 Tournament chips.
+Seat 1: QwertySpark (4125 Tournament chips) 
+Seat 2: SilverCard (6281 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5784 Tournament chips) 
+Game #23949701-35 ends
+Game #23949701-36 starts
+Seat 1: QwertySpark (4125 Tournament chips) 
+Seat 2: SilverCard (6281 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5784 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4065 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6281 Tournament chips.
+willycall, at seat 3, is in this hand with 1810 Tournament chips.
+fishman62, at seat 7, is in this hand with 5754 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ 8s 2d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard raises [210 Tournament chips]
+willycall folds [210 Tournament chips]
+fishman62 folds [180 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+SilverCard is returned 150 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SilverCard (Qd As: ace high)
+SilverCard wins main pot 150 Tournament chips.
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6371 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5754 Tournament chips) 
+Game #23949701-36 ends
+Game #23949701-37 starts
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6371 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5754 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [30 Tournament chips]
+SilverCard posts the big blind [60 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4035 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6311 Tournament chips.
+willycall, at seat 3, is in this hand with 1810 Tournament chips.
+fishman62, at seat 7, is in this hand with 5754 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ Ks 6h ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [60 Tournament chips]
+fishman62 folds [60 Tournament chips]
+QwertySpark calls [30 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ 4d ] board:[ 4d]
+** Dealing Flop ** [ 3h ] board:[ 4d 3h]
+** Dealing Flop ** [ Kc ] board:[ 4d 3h Kc]
+QwertySpark bets for 60 Tournament chips
+SilverCard folds [60 Tournament chips]
+QwertySpark is returned 60 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Ks 6h 4d 3h Kc: a pair of kings)
+QwertySpark wins main pot 120 Tournament chips.
+Seat 1: QwertySpark (4125 Tournament chips) 
+Seat 2: SilverCard (6311 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5754 Tournament chips) 
+Game #23949701-37 ends
+Game #23949701-38 starts
+Seat 1: QwertySpark (4125 Tournament chips) 
+Seat 2: SilverCard (6311 Tournament chips) 
+Seat 3: willycall (1810 Tournament chips) 
+Seat 7: fishman62 (5754 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [30 Tournament chips]
+willycall posts the big blind [60 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4125 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6281 Tournament chips.
+willycall, at seat 3, is in this hand with 1750 Tournament chips.
+fishman62, at seat 7, is in this hand with 5754 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ 6c Jh ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 calls [60 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+SilverCard calls [30 Tournament chips]
+willycall checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ 5h ] board:[ 9h 5h]
+** Dealing Flop ** [ Qd ] board:[ 9h 5h Qd]
+SilverCard checks
+willycall bets for 120 Tournament chips
+fishman62 calls [120 Tournament chips]
+QwertySpark folds [120 Tournament chips]
+SilverCard folds [120 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Kc ] board:[ 9h 5h Qd Kc]
+willycall checks
+fishman62 bets for 540 Tournament chips
+willycall folds, showing Qh 2s [540 Tournament chips]
+fishman62 is returned 540 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for fishman62 (Kh Qc 9h Qd Kc: two pair, kings and queens)
+fishman62 shows [ Kh Qc ] two pair, kings and queens
+Hand evaluation for fishman62 (Kh Qc 9h Qd Kc: two pair, kings and queens)
+fishman62 wins main pot 480 Tournament chips.
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6251 Tournament chips) 
+Seat 3: willycall (1630 Tournament chips) 
+Seat 7: fishman62 (6054 Tournament chips) 
+Game #23949701-38 ends
+Game #23949701-39 starts
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6251 Tournament chips) 
+Seat 3: willycall (1630 Tournament chips) 
+Seat 7: fishman62 (6054 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [50 Tournament chips]
+fishman62 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4065 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6251 Tournament chips.
+willycall, at seat 3, is in this hand with 1580 Tournament chips.
+fishman62, at seat 7, is in this hand with 5954 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ Ac Td ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark raises [500 Tournament chips]
+SilverCard calls [500 Tournament chips]
+willycall folds [450 Tournament chips]
+fishman62 calls [400 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 6c ] board:[ Qh 6c]
+** Dealing Flop ** [ 6h ] board:[ Qh 6c 6h]
+fishman62 checks
+QwertySpark bets for 200 Tournament chips
+SilverCard raises [1075 Tournament chips]
+fishman62 folds [1075 Tournament chips]
+QwertySpark folds [875 Tournament chips]
+SilverCard is returned 875 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SilverCard (Qd Kc Qh 6c 6h: two pair, queens and sixes)
+SilverCard wins main pot 1950 Tournament chips.
+Seat 1: QwertySpark (3365 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+Game #23949701-39 ends
+Game #23949701-40 starts
+Seat 1: QwertySpark (3365 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3265 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7501 Tournament chips.
+willycall, at seat 3, is in this hand with 1580 Tournament chips.
+fishman62, at seat 7, is in this hand with 5504 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ Kd 3d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [100 Tournament chips]
+willycall folds [100 Tournament chips]
+fishman62 calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 2c ] board:[ 2c]
+** Dealing Flop ** [ Qh ] board:[ 2c Qh]
+** Dealing Flop ** [ Ah ] board:[ 2c Qh Ah]
+fishman62 bets for 800 Tournament chips
+QwertySpark folds [800 Tournament chips]
+fishman62 is returned 800 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for fishman62 (As Jd 2c Qh Ah: a pair of aces)
+fishman62 wins main pot 200 Tournament chips.
+Seat 1: QwertySpark (3265 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5654 Tournament chips) 
+Game #23949701-40 ends
+Game #23949701-41 starts
+Seat 1: QwertySpark (3265 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5654 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+SilverCard posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3215 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7401 Tournament chips.
+willycall, at seat 3, is in this hand (absent) with 1580 Tournament chips.
+fishman62, at seat 7, is in this hand with 5654 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ Ks Ah ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [100 Tournament chips]
+fishman62 calls [100 Tournament chips]
+QwertySpark raises [350 Tournament chips]
+SilverCard folds [300 Tournament chips]
+fishman62 folds [300 Tournament chips]
+QwertySpark is returned 300 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (Ks Ah: ace high)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 1: QwertySpark (3465 Tournament chips) 
+Seat 2: SilverCard (7401 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+Game #23949701-41 ends
+Game #23949701-42 starts
+Seat 1: QwertySpark (3465 Tournament chips) 
+Seat 2: SilverCard (7401 Tournament chips) 
+Seat 3: willycall (1580 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [50 Tournament chips]
+willycall posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3465 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7351 Tournament chips.
+willycall, at seat 3, is in this hand (absent) with 1480 Tournament chips.
+fishman62, at seat 7, is in this hand with 5554 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ 9c Qs ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+SilverCard calls [50 Tournament chips]
+willycall folds
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 4c ] board:[ Qh 4c]
+** Dealing Flop ** [ 3s ] board:[ Qh 4c 3s]
+SilverCard checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ Qh 4c 3s 8c]
+SilverCard checks
+QwertySpark bets for 400 Tournament chips
+SilverCard folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9c Qs Qh 4c 8c: a pair of queens)
+QwertySpark wins main pot 300 Tournament chips.
+Seat 1: QwertySpark (3665 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1480 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+Game #23949701-42 ends
+Game #23949701-43 starts
+Seat 1: QwertySpark (3665 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1480 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [50 Tournament chips]
+fishman62 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3665 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7301 Tournament chips.
+willycall, at seat 3, is in this hand (absent) with 1430 Tournament chips.
+fishman62, at seat 7, is in this hand with 5454 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ Tc 7c ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark calls [100 Tournament chips]
+SilverCard folds [100 Tournament chips]
+willycall folds [50 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Js ] board:[ 5h Js]
+** Dealing Flop ** [ 7h ] board:[ 5h Js 7h]
+fishman62 bets for 500 Tournament chips
+QwertySpark calls [500 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2d ] board:[ 5h Js 7h 2d]
+fishman62 bets for 500 Tournament chips
+QwertySpark folds [500 Tournament chips]
+fishman62 is returned 500 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for fishman62 (4h Jd 5h Js 7h: a pair of jacks)
+fishman62 wins main pot 1250 Tournament chips.
+Seat 1: QwertySpark (3065 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6204 Tournament chips) 
+Game #23949701-43 ends
+Game #23949701-44 starts
+Seat 1: QwertySpark (3065 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6204 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2965 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7301 Tournament chips.
+willycall, at seat 3, is in this hand (absent) with 1430 Tournament chips.
+fishman62, at seat 7, is in this hand with 6154 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ Qd 2h ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [100 Tournament chips]
+willycall folds [100 Tournament chips]
+fishman62 calls [50 Tournament chips]
+(willycall has entered the table, is no longer absent.)
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Jc ] board:[ 7s Jc]
+** Dealing Flop ** [ 8h ] board:[ 7s Jc 8h]
+fishman62 checks
+QwertySpark bets for 200 Tournament chips
+fishman62 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (Qd 2h 7s Jc 8h: queen high)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: QwertySpark (3165 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6104 Tournament chips) 
+Game #23949701-44 ends
+Game #23949701-45 starts
+Seat 1: QwertySpark (3165 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6104 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+SilverCard posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3115 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7201 Tournament chips.
+willycall, at seat 3, is in this hand with 1430 Tournament chips.
+fishman62, at seat 7, is in this hand with 6104 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 8h 7s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [100 Tournament chips]
+fishman62 raises [600 Tournament chips]
+QwertySpark folds [550 Tournament chips]
+SilverCard folds [500 Tournament chips]
+fishman62 is returned 500 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for fishman62 (Qd As: ace high)
+fishman62 wins main pot 250 Tournament chips.
+Seat 1: QwertySpark (3115 Tournament chips) 
+Seat 2: SilverCard (7201 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6254 Tournament chips) 
+Game #23949701-45 ends
+Game #23949701-46 starts
+Seat 1: QwertySpark (3115 Tournament chips) 
+Seat 2: SilverCard (7201 Tournament chips) 
+Seat 3: willycall (1430 Tournament chips) 
+Seat 7: fishman62 (6254 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [50 Tournament chips]
+willycall posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand (absent) with 3115 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7151 Tournament chips.
+willycall, at seat 3, is in this hand with 1330 Tournament chips.
+fishman62, at seat 7, is in this hand with 6254 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ 6d Ks ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 raises [700 Tournament chips]
+QwertySpark calls [700 Tournament chips]
+SilverCard folds [650 Tournament chips]
+willycall folds [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ 3c ] board:[ Qd 3c]
+** Dealing Flop ** [ 7s ] board:[ Qd 3c 7s]
+fishman62 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ Qd 3c 7s 9d]
+fishman62 checks
+QwertySpark goes all-in for 2415 Tournament chips
+fishman62 folds [2415 Tournament chips]
+QwertySpark is returned 2415 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (6d Ks Qd 7s 9d: king high)
+QwertySpark wins main pot 1550 Tournament chips.
+Seat 1: QwertySpark (3965 Tournament chips) 
+Seat 2: SilverCard (7151 Tournament chips) 
+Seat 3: willycall (1330 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+Game #23949701-46 ends
+Game #23949701-47 starts
+Seat 1: QwertySpark (3965 Tournament chips) 
+Seat 2: SilverCard (7151 Tournament chips) 
+Seat 3: willycall (1330 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [50 Tournament chips]
+fishman62 posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3965 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7151 Tournament chips.
+willycall, at seat 3, is in this hand with 1280 Tournament chips.
+fishman62, at seat 7, is in this hand with 5454 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 3h Ks ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [100 Tournament chips]
+SilverCard raises [300 Tournament chips]
+willycall folds [250 Tournament chips]
+fishman62 folds [200 Tournament chips]
+SilverCard is returned 200 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SilverCard (Ah 9c: ace high)
+SilverCard wins main pot 250 Tournament chips.
+Seat 1: QwertySpark (3965 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1280 Tournament chips) 
+Seat 7: fishman62 (5454 Tournament chips) 
+Game #23949701-47 ends
+Game #23949701-48 starts
+Seat 1: QwertySpark (3965 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1280 Tournament chips) 
+Seat 7: fishman62 (5454 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3865 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7301 Tournament chips.
+willycall, at seat 3, is in this hand with 1280 Tournament chips.
+fishman62, at seat 7, is in this hand with 5404 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ 9h Th ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [100 Tournament chips]
+willycall folds [100 Tournament chips]
+fishman62 calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ Qd ] board:[ Qd]
+** Dealing Flop ** [ Kd ] board:[ Qd Kd]
+** Dealing Flop ** [ Tc ] board:[ Qd Kd Tc]
+fishman62 checks
+QwertySpark bets for 100 Tournament chips
+fishman62 folds [100 Tournament chips]
+QwertySpark is returned 100 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (9h Th Qd Kd Tc: a pair of tens)
+QwertySpark wins main pot 200 Tournament chips.
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1280 Tournament chips) 
+Seat 7: fishman62 (5354 Tournament chips) 
+Game #23949701-48 ends
+Game #23949701-49 starts
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (7301 Tournament chips) 
+Seat 3: willycall (1280 Tournament chips) 
+Seat 7: fishman62 (5354 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [50 Tournament chips]
+SilverCard posts the big blind [100 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4015 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7201 Tournament chips.
+willycall, at seat 3, is in this hand with 1280 Tournament chips.
+fishman62, at seat 7, is in this hand with 5354 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 9d Js ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall calls [100 Tournament chips]
+fishman62 calls [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ Th ] board:[ Th]
+** Dealing Flop ** [ 9h ] board:[ Th 9h]
+** Dealing Flop ** [ 5c ] board:[ Th 9h 5c]
+QwertySpark checks
+SilverCard checks
+willycall checks
+fishman62 checks
+Round 2 is over.
+** Dealing Turn ** [ 2c ] board:[ Th 9h 5c 2c]
+QwertySpark bets for 400 Tournament chips
+SilverCard folds [400 Tournament chips]
+willycall folds [400 Tournament chips]
+fishman62 folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for QwertySpark (9d Js Th 9h 5c: a pair of nines)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7201 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5254 Tournament chips) 
+Game #23949701-49 ends
+Game #23949701-50 starts
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7201 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5254 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [75 Tournament chips]
+willycall posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4365 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7126 Tournament chips.
+willycall, at seat 3, is in this hand with 1030 Tournament chips.
+fishman62, at seat 7, is in this hand with 5254 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ Js 9c ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 raises [750 Tournament chips]
+QwertySpark folds [750 Tournament chips]
+SilverCard folds [675 Tournament chips]
+willycall folds [600 Tournament chips]
+fishman62 is returned 600 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for fishman62 (Kc Ah: ace high)
+fishman62 wins main pot 375 Tournament chips.
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7126 Tournament chips) 
+Seat 3: willycall (1030 Tournament chips) 
+Seat 7: fishman62 (5479 Tournament chips) 
+Game #23949701-50 ends
+Game #23949701-51 starts
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7126 Tournament chips) 
+Seat 3: willycall (1030 Tournament chips) 
+Seat 7: fishman62 (5479 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [75 Tournament chips]
+fishman62 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4365 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7126 Tournament chips.
+willycall, at seat 3, is in this hand with 955 Tournament chips.
+fishman62, at seat 7, is in this hand with 5329 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 6d 3s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [150 Tournament chips]
+SilverCard folds [150 Tournament chips]
+willycall raises all-in [955 Tournament chips]
+fishman62 folds, showing 9s 4c [880 Tournament chips]
+willycall is returned 880 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for willycall (7c 8c: eight high)
+willycall wins main pot 300 Tournament chips.
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7126 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5329 Tournament chips) 
+Game #23949701-51 ends
+Game #23949701-52 starts
+Seat 1: QwertySpark (4365 Tournament chips) 
+Seat 2: SilverCard (7126 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5329 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4215 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7126 Tournament chips.
+willycall, at seat 3, is in this hand with 1180 Tournament chips.
+fishman62, at seat 7, is in this hand with 5254 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ 6h 6d ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard calls [150 Tournament chips]
+willycall folds [150 Tournament chips]
+fishman62 calls [75 Tournament chips]
+QwertySpark raises [600 Tournament chips]
+SilverCard folds [600 Tournament chips]
+fishman62 calls [600 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ac ] board:[ Ac]
+** Dealing Flop ** [ Qh ] board:[ Ac Qh]
+** Dealing Flop ** [ Qc ] board:[ Ac Qh Qc]
+fishman62 bets for 1200 Tournament chips
+QwertySpark folds [1200 Tournament chips]
+fishman62 is returned 1200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for fishman62 (Qs Ts Ac Qh Qc: three queens)
+fishman62 wins main pot 1650 Tournament chips.
+Seat 1: QwertySpark (3615 Tournament chips) 
+Seat 2: SilverCard (6976 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (6229 Tournament chips) 
+Game #23949701-52 ends
+Game #23949701-53 starts
+Seat 1: QwertySpark (3615 Tournament chips) 
+Seat 2: SilverCard (6976 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (6229 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [75 Tournament chips]
+SilverCard posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3540 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6826 Tournament chips.
+willycall, at seat 3, is in this hand with 1180 Tournament chips.
+fishman62, at seat 7, is in this hand with 6229 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 8c Kd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall raises all-in [1180 Tournament chips]
+fishman62 folds [1180 Tournament chips]
+QwertySpark folds [1105 Tournament chips]
+SilverCard folds [1030 Tournament chips]
+willycall is returned 1030 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for willycall (5d 4d: five high)
+willycall wins main pot 375 Tournament chips.
+Seat 1: QwertySpark (3540 Tournament chips) 
+Seat 2: SilverCard (6826 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (6229 Tournament chips) 
+Game #23949701-53 ends
+Game #23949701-54 starts
+Seat 1: QwertySpark (3540 Tournament chips) 
+Seat 2: SilverCard (6826 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (6229 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [75 Tournament chips]
+willycall posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3540 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6751 Tournament chips.
+willycall, at seat 3, is in this hand with 1255 Tournament chips.
+fishman62, at seat 7, is in this hand with 6229 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ 5c 6s ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 calls [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+SilverCard folds [75 Tournament chips]
+willycall checks
+Round 1 is over.
+** Dealing Flop ** [ 9d ] board:[ 9d]
+** Dealing Flop ** [ Js ] board:[ 9d Js]
+** Dealing Flop ** [ 4d ] board:[ 9d Js 4d]
+willycall checks
+fishman62 checks
+QwertySpark has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ 7d ] board:[ 9d Js 4d 7d]
+willycall checks
+fishman62 checks
+QwertySpark bets for 150 Tournament chips
+willycall folds [150 Tournament chips]
+fishman62 calls [150 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6h ] board:[ 9d Js 4d 7d 6h]
+fishman62 checks
+QwertySpark bets for 600 Tournament chips
+fishman62 folds [600 Tournament chips]
+QwertySpark is returned 600 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (6s 9d Js 7d 6h: a pair of sixes)
+QwertySpark wins main pot 825 Tournament chips.
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6751 Tournament chips) 
+Seat 3: willycall (1255 Tournament chips) 
+Seat 7: fishman62 (5929 Tournament chips) 
+Game #23949701-54 ends
+Game #23949701-55 starts
+Seat 1: QwertySpark (4065 Tournament chips) 
+Seat 2: SilverCard (6751 Tournament chips) 
+Seat 3: willycall (1255 Tournament chips) 
+Seat 7: fishman62 (5929 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [75 Tournament chips]
+fishman62 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 4065 Tournament chips.
+SilverCard, at seat 2, is in this hand with 6751 Tournament chips.
+willycall, at seat 3, is in this hand with 1180 Tournament chips.
+fishman62, at seat 7, is in this hand with 5779 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ Kc Qd ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark calls [150 Tournament chips]
+SilverCard calls [150 Tournament chips]
+willycall folds [75 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 2h ] board:[ 2h]
+** Dealing Flop ** [ Td ] board:[ 2h Td]
+** Dealing Flop ** [ 9h ] board:[ 2h Td 9h]
+fishman62 checks
+QwertySpark checks
+SilverCard bets for 525 Tournament chips
+fishman62 folds [525 Tournament chips]
+QwertySpark calls [525 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 2h Td 9h 6h]
+QwertySpark checks
+SilverCard bets for 787 Tournament chips
+QwertySpark folds [787 Tournament chips]
+SilverCard is returned 787 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for SilverCard (Ah 7h 2h 9h 6h: flush, ace high)
+SilverCard wins main pot 1575 Tournament chips.
+Seat 1: QwertySpark (3390 Tournament chips) 
+Seat 2: SilverCard (7651 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5779 Tournament chips) 
+Game #23949701-55 ends
+Game #23949701-56 starts
+Seat 1: QwertySpark (3390 Tournament chips) 
+Seat 2: SilverCard (7651 Tournament chips) 
+Seat 3: willycall (1180 Tournament chips) 
+Seat 7: fishman62 (5779 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3240 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7651 Tournament chips.
+willycall, at seat 3, is in this hand with 1180 Tournament chips.
+fishman62, at seat 7, is in this hand with 5704 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+Dealt to QwertySpark [ Js 8h ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [150 Tournament chips]
+willycall raises all-in [1180 Tournament chips]
+fishman62 folds [1105 Tournament chips]
+QwertySpark folds [1030 Tournament chips]
+willycall is returned 1030 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for willycall (2c Ad: ace high)
+willycall wins main pot 375 Tournament chips.
+Seat 1: QwertySpark (3240 Tournament chips) 
+Seat 2: SilverCard (7651 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (5704 Tournament chips) 
+Game #23949701-56 ends
+Game #23949701-57 starts
+Seat 1: QwertySpark (3240 Tournament chips) 
+Seat 2: SilverCard (7651 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (5704 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [75 Tournament chips]
+SilverCard posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3165 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7501 Tournament chips.
+willycall, at seat 3, is in this hand with 1405 Tournament chips.
+fishman62, at seat 7, is in this hand with 5704 Tournament chips.
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 6h Ah ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+willycall folds [150 Tournament chips]
+fishman62 calls [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ Tc ] board:[ Tc]
+** Dealing Flop ** [ 5h ] board:[ Tc 5h]
+** Dealing Flop ** [ 2d ] board:[ Tc 5h 2d]
+QwertySpark checks
+SilverCard bets for 450 Tournament chips
+fishman62 folds [450 Tournament chips]
+QwertySpark folds [450 Tournament chips]
+SilverCard is returned 450 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for SilverCard (5s As Tc 5h 2d: a pair of fives)
+SilverCard wins main pot 450 Tournament chips.
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7951 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+Game #23949701-57 ends
+Game #23949701-58 starts
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7951 Tournament chips) 
+Seat 3: willycall (1405 Tournament chips) 
+Seat 7: fishman62 (5554 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [75 Tournament chips]
+willycall posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 3090 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7876 Tournament chips.
+willycall, at seat 3, is in this hand with 1255 Tournament chips.
+fishman62, at seat 7, is in this hand with 5554 Tournament chips.
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ 5d Js ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 calls [150 Tournament chips]
+QwertySpark folds [150 Tournament chips]
+SilverCard raises [375 Tournament chips]
+willycall raises all-in [1255 Tournament chips]
+fishman62 calls [1255 Tournament chips]
+SilverCard folds [955 Tournament chips]
+Tournament all-in showdown -- players show:
+willycall shows [ Ac 6h ]
+fishman62 shows [ 8h As ]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ Jd ] board:[ 5s Jd]
+** Dealing Flop ** [ 4h ] board:[ 5s Jd 4h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 4s ] board:[ 5s Jd 4h 4s]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 5s Jd 4h 4s Td]
+        (no action in this round)
+Round 4 is over.
+willycall shows [ Ac 6h ] a pair of fours, ace/jack kickers
+fishman62 shows [ 8h As ] a pair of fours, ace/jack kickers
+willycall wins main pot 1630 Tournament chips of a 3260 Tournament chips pot with a pair of fours, ace/jack kickers.
+fishman62 wins main pot 1630 Tournament chips of a 3260 Tournament chips pot with a pair of fours, ace/jack kickers.
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1630 Tournament chips) 
+Seat 7: fishman62 (5779 Tournament chips) 
+Game #23949701-58 ends
+Game #23949701-59 starts
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7501 Tournament chips) 
+Seat 3: willycall (1630 Tournament chips) 
+Seat 7: fishman62 (5779 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+willycall posts the small blind [75 Tournament chips]
+fishman62 posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand (absent) with 3090 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7501 Tournament chips.
+willycall, at seat 3, is in this hand with 1555 Tournament chips.
+fishman62, at seat 7, is in this hand with 5629 Tournament chips.
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+willycall is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 2c As ]
+Dealt to SilverCard [ **** ]
+Dealt to willycall [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [150 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+SilverCard calls [150 Tournament chips]
+willycall calls [75 Tournament chips]
+fishman62 raises [1350 Tournament chips]
+SilverCard folds [1350 Tournament chips]
+willycall calls [1350 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ Qd ] board:[ 2s Qd]
+** Dealing Flop ** [ Qs ] board:[ 2s Qd Qs]
+willycall goes all-in for 130 Tournament chips
+fishman62 calls [130 Tournament chips]
+Tournament all-in showdown -- players show:
+willycall shows [ Ac 3s ]
+fishman62 shows [ 7h 7s ]
+Round 2 is over.
+** Dealing Turn ** [ 8c ] board:[ 2s Qd Qs 8c]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ Jh ] board:[ 2s Qd Qs 8c Jh]
+        (no action in this round)
+Round 4 is over.
+willycall shows [ Ac 3s ] a pair of queens, ace/jack kickers
+fishman62 shows [ 7h 7s ] two pair, queens and sevens, jack kicker
+fishman62 wins main pot 3410 Tournament chips with two pair, queens and sevens, jack kicker.
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7351 Tournament chips) 
+Seat 3: willycall (0 Tournament chips) 
+Seat 7: fishman62 (7559 Tournament chips) 
+Game #23949701-59 ends
+Player willycall leaves the table with 0 Tournament chips
+Game #23949701-60 starts
+Seat 1: QwertySpark (3090 Tournament chips) 
+Seat 2: SilverCard (7351 Tournament chips) 
+Seat 7: fishman62 (7559 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+fishman62 posts the small blind [75 Tournament chips]
+QwertySpark posts the big blind [150 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2940 Tournament chips.
+SilverCard, at seat 2, is in this hand with 7351 Tournament chips.
+fishman62, at seat 7, is in this hand with 7484 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 2d Jh ]
+Dealt to SilverCard [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard calls [150 Tournament chips]
+fishman62 calls [75 Tournament chips]
+QwertySpark has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ Kc ] board:[ 8h Kc]
+** Dealing Flop ** [ Jd ] board:[ 8h Kc Jd]
+fishman62 bets for 900 Tournament chips
+QwertySpark folds [900 Tournament chips]
+SilverCard calls [900 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ah ] board:[ 8h Kc Jd Ah]
+fishman62 checks
+SilverCard checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 8h Kc Jd Ah 7s]
+fishman62 checks
+SilverCard bets for 1125 Tournament chips
+fishman62 calls [1125 Tournament chips]
+Round 4 is over.
+SilverCard shows [ 9d Ts ] straight, jack high
+Hand evaluation for SilverCard (9d Ts 8h Jd 7s: straight, jack high)
+fishman62 doesn't show [ 8s Ks ]
+(fishman62 has 8s Ks.)
+SilverCard wins main pot 4500 Tournament chips with straight, jack high.
+Seat 1: QwertySpark (2940 Tournament chips) 
+Seat 2: SilverCard (9676 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+Game #23949701-60 ends
+Game #23949701-61 starts
+Seat 1: QwertySpark (2940 Tournament chips) 
+Seat 2: SilverCard (9676 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 7.
+QwertySpark posts the small blind [100 Tournament chips]
+SilverCard posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand (absent) with 2840 Tournament chips.
+SilverCard, at seat 2, is in this hand with 9476 Tournament chips.
+fishman62, at seat 7, is in this hand with 5384 Tournament chips.
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 9s 2c ]
+Dealt to SilverCard [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [200 Tournament chips]
+QwertySpark folds [100 Tournament chips]
+SilverCard is returned 100 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for SilverCard (8h 6h: eight high)
+SilverCard wins main pot 200 Tournament chips.
+Seat 1: QwertySpark (2840 Tournament chips) 
+Seat 2: SilverCard (9776 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+Game #23949701-61 ends
+Game #23949701-62 starts
+Seat 1: QwertySpark (2840 Tournament chips) 
+Seat 2: SilverCard (9776 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+SilverCard posts the small blind [100 Tournament chips]
+fishman62 posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand (absent) with 2840 Tournament chips.
+SilverCard, at seat 2, is in this hand with 9676 Tournament chips.
+fishman62, at seat 7, is in this hand with 5184 Tournament chips.
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+Dealt to QwertySpark [ Kc Ts ]
+Dealt to SilverCard [ **** ]
+Dealt to fishman62 [ **** ]
+QwertySpark folds [200 Tournament chips]
+(QwertySpark has entered the table, is no longer absent.)
+SilverCard calls [100 Tournament chips]
+fishman62 checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ 6s ] board:[ 5c 6s]
+** Dealing Flop ** [ 5d ] board:[ 5c 6s 5d]
+SilverCard has timed out - the hand is checked
+fishman62 bets for 400 Tournament chips
+SilverCard folds [400 Tournament chips]
+fishman62 is returned 400 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for fishman62 (6c Kh 5c 6s 5d: two pair, sixes and fives)
+fishman62 wins main pot 400 Tournament chips.
+Seat 1: QwertySpark (2840 Tournament chips) 
+Seat 2: SilverCard (9576 Tournament chips) 
+Seat 7: fishman62 (5584 Tournament chips) 
+Game #23949701-62 ends
+Game #23949701-63 starts
+Seat 1: QwertySpark (2840 Tournament chips) 
+Seat 2: SilverCard (9576 Tournament chips) 
+Seat 7: fishman62 (5584 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+fishman62 posts the small blind [100 Tournament chips]
+QwertySpark posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2640 Tournament chips.
+SilverCard, at seat 2, is in this hand with 9576 Tournament chips.
+fishman62, at seat 7, is in this hand with 5484 Tournament chips.
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+Dealt to QwertySpark [ 7c 6c ]
+Dealt to SilverCard [ **** ]
+Dealt to fishman62 [ **** ]
+SilverCard folds [200 Tournament chips]
+fishman62 calls [100 Tournament chips]
+QwertySpark raises [400 Tournament chips]
+fishman62 folds [400 Tournament chips]
+QwertySpark is returned 400 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (7c 6c: seven high)
+QwertySpark wins main pot 400 Tournament chips.
+Seat 1: QwertySpark (3040 Tournament chips) 
+Seat 2: SilverCard (9576 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+Game #23949701-63 ends
+Game #23949701-64 starts
+Seat 1: QwertySpark (3040 Tournament chips) 
+Seat 2: SilverCard (9576 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 7.
+QwertySpark posts the small blind [100 Tournament chips]
+SilverCard posts the big blind [200 Tournament chips]
+QwertySpark, at seat 1, is in this hand with 2940 Tournament chips.
+SilverCard, at seat 2, is in this hand with 9376 Tournament chips.
+fishman62, at seat 7, is in this hand with 5384 Tournament chips.
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+
+SilverCard is dealt: **
+fishman62 is dealt: **
+Dealt to QwertySpark [ 9c 5h ]
+Dealt to SilverCard [ **** ]
+Dealt to fishman62 [ **** ]
+fishman62 folds [200 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+SilverCard checks
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ Ad ] board:[ Ts Ad]
+** Dealing Flop ** [ 9s ] board:[ Ts Ad 9s]
+QwertySpark bets for 200 Tournament chips
+SilverCard raises [1000 Tournament chips]
+QwertySpark calls [800 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Ts Ad 9s 8d]
+QwertySpark goes all-in for 1840 Tournament chips
+SilverCard calls [1840 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 9c 5h ]
+SilverCard shows [ 3c Ah ]
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ Ts Ad 9s 8d Kh]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 9c 5h ] a pair of nines, ace/king kickers
+SilverCard shows [ 3c Ah ] a pair of aces, king/ten kickers
+SilverCard wins main pot 6080 Tournament chips with a pair of aces, king/ten kickers.
+Seat 1: QwertySpark (0 Tournament chips) 
+Seat 2: SilverCard (12616 Tournament chips) 
+Seat 7: fishman62 (5384 Tournament chips) 
+Game #23949701-64 ends
+Player QwertySpark leaves the table with 0 Tournament chips

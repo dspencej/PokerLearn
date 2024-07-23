@@ -1,0 +1,2085 @@
+Game#: 23969689
+jenniferwar is dealt: **
+QwertySpark is dealt: 3d
+ANTEKHRIST is dealt: **
+The button is moved to seat 3.
+Game #23969689-1 starts
+Seat 0: jenniferwar (1000 Tournament chips) 
+Seat 2: QwertySpark (1000 Tournament chips) 
+Seat 3: ANTEKHRIST (1000 Tournament chips) 
+The button is at seat 3
+jenniferwar posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [15 Tournament chips]
+jenniferwar, at seat 0, is in this hand (absent) with 990 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 985 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand with 1000 Tournament chips.
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Qc Tc Ks 9h ]
+Dealt to ANTEKHRIST [ **** ]
+ANTEKHRIST folds [15 Tournament chips]
+jenniferwar calls [5 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5c ] board:[ 5c]
+** Dealing Flop ** [ Kc ] board:[ 5c Kc]
+** Dealing Flop ** [ Th ] board:[ 5c Kc Th]
+jenniferwar bets for 30 Tournament chips
+QwertySpark raises [60 Tournament chips]
+jenniferwar calls [30 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ 5c Kc Th 5h]
+jenniferwar checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 5c Kc Th 5h 3h]
+jenniferwar bets for 150 Tournament chips
+QwertySpark calls [150 Tournament chips]
+Round 4 is over.
+jenniferwar shows [ Ah 7h Kh Qs ] flush, ace high
+Hand evaluation for jenniferwar (Ah Kh Th 5h 3h: flush, ace high)
+QwertySpark doesn't show [ Qc Tc Ks 9h ]
+(QwertySpark has Qc Tc Ks 9h.)
+jenniferwar wins main pot 450 Tournament chips with flush, ace/king/ten high.
+Seat 0: jenniferwar (1225 Tournament chips) 
+Seat 1: GoingToVegas (1140 Tournament chips) 
+Seat 2: QwertySpark (775 Tournament chips) 
+Seat 3: ANTEKHRIST (1000 Tournament chips) 
+Seat 6: Sao789 (1000 Tournament chips) 
+Seat 7: menace76 (985 Tournament chips) 
+Game #23969689-1 ends
+Game #23969689-2 starts
+Seat 0: jenniferwar (1225 Tournament chips) 
+Seat 1: GoingToVegas (1140 Tournament chips) 
+Seat 2: QwertySpark (775 Tournament chips) 
+Seat 3: ANTEKHRIST (1000 Tournament chips) 
+Seat 6: Sao789 (1000 Tournament chips) 
+Seat 7: menace76 (985 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 0.
+QwertySpark posts the small blind [10 Tournament chips]
+ANTEKHRIST posts the big blind [20 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 1225 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 765 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand with 980 Tournament chips.
+Sao789, at seat 6, is in this hand with 1000 Tournament chips.
+menace76, at seat 7, is in this hand with 985 Tournament chips.
+
+ANTEKHRIST is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Jh 4s 7d 5c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to Sao789 [ **** ]
+Dealt to menace76 [ **** ]
+Sao789 raises [70 Tournament chips]
+menace76 calls [70 Tournament chips]
+jenniferwar calls [70 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+ANTEKHRIST folds [50 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 9h ] board:[ 8h 9h]
+** Dealing Flop ** [ 3h ] board:[ 8h 9h 3h]
+Sao789 bets for 240 Tournament chips
+menace76 calls [240 Tournament chips]
+jenniferwar folds [240 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 4c ] board:[ 8h 9h 3h 4c]
+Sao789 goes all-in for 690 Tournament chips
+menace76 calls all-in [675 Tournament chips]
+Sao789 is returned 15 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+Sao789 shows [ 9d 6s Ks 6d ]
+menace76 shows [ 3s 4h Js 5h ]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ 8h 9h 3h 4c Jc]
+        (no action in this round)
+Round 4 is over.
+Sao789 shows [ 9d 6s Ks 6d ] a pair of nines, king/jack kickers
+menace76 shows [ 3s 4h Js 5h ] flush, nine/eight/five high
+menace76 wins main pot 2070 Tournament chips with flush, nine/eight/five high.
+Seat 0: jenniferwar (1155 Tournament chips) 
+Seat 1: GoingToVegas (1140 Tournament chips) 
+Seat 2: QwertySpark (765 Tournament chips) 
+Seat 3: ANTEKHRIST (980 Tournament chips) 
+Seat 4: mikehadgi (1000 Tournament chips) 
+Seat 5: Midge222 (1000 Tournament chips) 
+Seat 6: Sao789 (15 Tournament chips) 
+Seat 7: menace76 (2070 Tournament chips) 
+Game #23969689-2 ends
+Player mikehadgi leaves the table with 1000 Tournament chips
+Game #23969689-3 starts
+Seat 0: jenniferwar (1155 Tournament chips) 
+Seat 1: GoingToVegas (1140 Tournament chips) 
+Seat 2: QwertySpark (765 Tournament chips) 
+Seat 3: ANTEKHRIST (980 Tournament chips) 
+Seat 5: Midge222 (1000 Tournament chips) 
+Seat 6: Sao789 (15 Tournament chips) 
+Seat 7: menace76 (2070 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+ANTEKHRIST posts the small blind [10 Tournament chips]
+Midge222 posts the big blind [20 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 1155 Tournament chips.
+GoingToVegas, at seat 1, is in this hand with 1140 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 765 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand with 970 Tournament chips.
+Midge222, at seat 5, is in this hand with 980 Tournament chips.
+Sao789, at seat 6, is in this hand with 15 Tournament chips.
+menace76, at seat 7, is in this hand with 2070 Tournament chips.
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+Sao789 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+Dealt to jenniferwar [ **** ]
+Dealt to GoingToVegas [ **** ]
+Dealt to QwertySpark [ 8d 7h 5d 5c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to Sao789 [ **** ]
+Dealt to menace76 [ **** ]
+Sao789 calls all-in [15 Tournament chips]
+menace76 calls [20 Tournament chips]
+jenniferwar calls [20 Tournament chips]
+GoingToVegas calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+ANTEKHRIST folds [10 Tournament chips]
+Midge222 checks
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 8s ] board:[ 8h 8s]
+** Dealing Flop ** [ 6s ] board:[ 8h 8s 6s]
+Midge222 checks
+menace76 checks
+jenniferwar bets for 20 Tournament chips
+GoingToVegas calls [20 Tournament chips]
+QwertySpark raises [205 Tournament chips]
+Midge222 folds [205 Tournament chips]
+menace76 folds [205 Tournament chips]
+jenniferwar calls [185 Tournament chips]
+GoingToVegas folds [185 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 8h 8s 6s Ac]
+jenniferwar checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 8h 8s 6s Ac 7s]
+jenniferwar bets for 555 Tournament chips
+QwertySpark calls all-in [540 Tournament chips]
+jenniferwar is returned 15 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+jenniferwar shows [ Ts Ks Qh 3d ]
+QwertySpark shows [ 8d 7h 5d 5c ]
+Sao789 shows [ 4d Td 2c 5s ]
+Round 4 is over.
+jenniferwar shows [ Ts Ks Qh 3d ] flush, king/ten/eight high
+QwertySpark shows [ 8d 7h 5d 5c ] full house, eights full of sevens
+Sao789 shows [ 4d Td 2c 5s ] straight, eight high
+QwertySpark wins main pot 100 Tournament chips with full house, eights full of sevens.
+QwertySpark wins side pot #1 1535 Tournament chips with full house, eights full of sevens.
+Seat 0: jenniferwar (390 Tournament chips) 
+Seat 1: GoingToVegas (1100 Tournament chips) 
+Seat 2: QwertySpark (1635 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (980 Tournament chips) 
+Seat 6: Sao789 (0 Tournament chips) 
+Seat 7: menace76 (2050 Tournament chips) 
+Game #23969689-3 ends
+Player Sao789 leaves the table with 0 Tournament chips
+Game #23969689-4 starts
+Seat 0: jenniferwar (390 Tournament chips) 
+Seat 1: GoingToVegas (1100 Tournament chips) 
+Seat 2: QwertySpark (1635 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (980 Tournament chips) 
+Seat 7: menace76 (2050 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+Midge222 posts the small blind [10 Tournament chips]
+menace76 posts the big blind [20 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 390 Tournament chips.
+GoingToVegas, at seat 1, is in this hand with 1100 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1635 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 970 Tournament chips.
+Midge222, at seat 5, is in this hand with 970 Tournament chips.
+menace76, at seat 7, is in this hand with 2030 Tournament chips.
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+GoingToVegas is dealt: **
+
+ANTEKHRIST is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to GoingToVegas [ **** ]
+Dealt to QwertySpark [ Qc 2c Ac 9h ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+jenniferwar calls [20 Tournament chips]
+GoingToVegas calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+ANTEKHRIST folds [20 Tournament chips]
+Midge222 calls [10 Tournament chips]
+menace76 checks
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 8s ] board:[ 5s 8s]
+** Dealing Flop ** [ 6s ] board:[ 5s 8s 6s]
+Midge222 has timed out - the hand is checked
+menace76 checks
+jenniferwar checks
+GoingToVegas bets for 100 Tournament chips
+QwertySpark folds [100 Tournament chips]
+Midge222 calls [100 Tournament chips]
+menace76 folds [100 Tournament chips]
+jenniferwar folds [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ As ] board:[ 5s 8s 6s As]
+Midge222 checks
+GoingToVegas bets for 20 Tournament chips
+Midge222 raises [40 Tournament chips]
+GoingToVegas calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 5s 8s 6s As 2d]
+Midge222 checks
+GoingToVegas checks
+Round 4 is over.
+Midge222 shows [ Qs 7d Ks 4s ] flush, ace high
+Hand evaluation for Midge222 (Qs Ks 8s 6s As: flush, ace high)
+GoingToVegas doesn't show [ 6d 9c 7h Td ]
+(GoingToVegas has 6d 9c 7h Td.)
+Midge222 wins main pot 380 Tournament chips with flush, ace/king/queen high.
+Seat 0: jenniferwar (370 Tournament chips) 
+Seat 1: GoingToVegas (940 Tournament chips) 
+Seat 2: QwertySpark (1615 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1200 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (2030 Tournament chips) 
+Game #23969689-4 ends
+Player GoingToVegas leaves the table with 940 Tournament chips
+Game #23969689-5 starts
+Seat 0: jenniferwar (370 Tournament chips) 
+Seat 2: QwertySpark (1615 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1200 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (2030 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 5.
+menace76 posts the small blind [10 Tournament chips]
+jenniferwar posts the big blind [20 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 350 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1615 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 970 Tournament chips.
+50Something, at seat 4, is in this hand with 1000 Tournament chips.
+Midge222, at seat 5, is in this hand with 1200 Tournament chips.
+menace76, at seat 7, is in this hand with 2020 Tournament chips.
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Qs 7d 9s Jd ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+QwertySpark calls [20 Tournament chips]
+ANTEKHRIST folds [20 Tournament chips]
+50Something folds [20 Tournament chips]
+Midge222 calls [20 Tournament chips]
+menace76 calls [10 Tournament chips]
+jenniferwar checks
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 5h ] board:[ Jc 5h]
+** Dealing Flop ** [ 2c ] board:[ Jc 5h 2c]
+menace76 checks
+jenniferwar checks
+QwertySpark checks
+Midge222 bets for 20 Tournament chips
+menace76 calls [20 Tournament chips]
+jenniferwar calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Jc 5h 2c Th]
+menace76 checks
+jenniferwar checks
+QwertySpark checks
+Midge222 bets for 20 Tournament chips
+menace76 folds [20 Tournament chips]
+jenniferwar calls [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 4d ] board:[ Jc 5h 2c Th 4d]
+jenniferwar checks
+QwertySpark checks
+Midge222 bets for 20 Tournament chips
+jenniferwar folds [20 Tournament chips]
+QwertySpark calls [20 Tournament chips]
+Round 4 is over.
+Midge222 shows [ Tc Ts 6s Qc ] three tens
+Hand evaluation for Midge222 (Tc Ts Jc 5h Th: three tens)
+QwertySpark doesn't show [ Qs 7d 9s Jd ]
+(QwertySpark has Qs 7d 9s Jd.)
+Midge222 wins main pot 260 Tournament chips with three tens, jack/five kickers.
+Seat 0: jenniferwar (310 Tournament chips) 
+Seat 2: QwertySpark (1535 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1380 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (1990 Tournament chips) 
+Game #23969689-5 ends
+Game #23969689-6 starts
+Seat 0: jenniferwar (310 Tournament chips) 
+Seat 2: QwertySpark (1535 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1380 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (1990 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+jenniferwar posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [25 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 295 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1510 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 970 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+Midge222, at seat 5, is in this hand with 1380 Tournament chips.
+roc1999, at seat 6, is in this hand with 1000 Tournament chips.
+menace76, at seat 7, is in this hand with 1990 Tournament chips.
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ 7h 8h Jh 2c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+ANTEKHRIST folds [25 Tournament chips]
+50Something folds [25 Tournament chips]
+Midge222 calls [25 Tournament chips]
+roc1999 folds [25 Tournament chips]
+menace76 calls [25 Tournament chips]
+jenniferwar calls [10 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 9h ] board:[ 9h]
+** Dealing Flop ** [ Ac ] board:[ 9h Ac]
+** Dealing Flop ** [ 5c ] board:[ 9h Ac 5c]
+jenniferwar checks
+QwertySpark checks
+Midge222 checks
+menace76 checks
+Round 2 is over.
+** Dealing Turn ** [ Kh ] board:[ 9h Ac 5c Kh]
+jenniferwar checks
+QwertySpark checks
+Midge222 checks
+menace76 checks
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ 9h Ac 5c Kh 9c]
+jenniferwar checks
+QwertySpark checks
+Midge222 checks
+menace76 checks
+Round 4 is over.
+jenniferwar shows [ 6s Ts 6h 2s ] two pair, nines and sixes
+Hand evaluation for jenniferwar (6s 6h 9h Ac 9c: two pair, nines and sixes)
+QwertySpark doesn't show [ 7h 8h Jh 2c ]
+(QwertySpark has 7h 8h Jh 2c.)
+Midge222 doesn't show [ Td 8c 5s Qd ]
+(Midge222 has Td 8c 5s Qd.)
+menace76 doesn't show [ Qs 6c Jd 5d ]
+(menace76 has Qs 6c Jd 5d.)
+jenniferwar wins main pot 100 Tournament chips with two pair, nines and sixes, ace kicker.
+Seat 0: jenniferwar (385 Tournament chips) 
+Seat 2: QwertySpark (1510 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1355 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (1965 Tournament chips) 
+Game #23969689-6 ends
+Game #23969689-7 starts
+Seat 0: jenniferwar (385 Tournament chips) 
+Seat 2: QwertySpark (1510 Tournament chips) 
+Seat 3: ANTEKHRIST (970 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1355 Tournament chips) 
+Seat 6: roc1999 (1000 Tournament chips) 
+Seat 7: menace76 (1965 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [15 Tournament chips]
+ANTEKHRIST posts the big blind [25 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 385 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1495 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 945 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 1000 Tournament chips.
+Midge222, at seat 5, is in this hand with 1355 Tournament chips.
+roc1999, at seat 6, is in this hand with 1000 Tournament chips.
+menace76, at seat 7, is in this hand with 1965 Tournament chips.
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Tc 4h Kc 8h ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+50Something folds [25 Tournament chips]
+Midge222 raises [50 Tournament chips]
+roc1999 calls [50 Tournament chips]
+menace76 calls [50 Tournament chips]
+jenniferwar folds [50 Tournament chips]
+QwertySpark folds [35 Tournament chips]
+ANTEKHRIST folds [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 7h ] board:[ 6c 7h]
+** Dealing Flop ** [ Ts ] board:[ 6c 7h Ts]
+Midge222 has timed out - the hand is checked
+roc1999 bets for 25 Tournament chips
+menace76 calls [25 Tournament chips]
+Midge222 calls [25 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 6c 7h Ts 8s]
+Midge222 checks
+roc1999 checks
+menace76 bets for 100 Tournament chips
+Midge222 folds [100 Tournament chips]
+roc1999 folds [100 Tournament chips]
+menace76 is returned 100 Tournament chips (uncalled).
+round 3 is over.
+Hand evaluation for menace76 (Th 8d 7h Ts 8s: two pair, tens and eights)
+menace76 wins main pot 265 Tournament chips.
+Seat 0: jenniferwar (385 Tournament chips) 
+Seat 2: QwertySpark (1495 Tournament chips) 
+Seat 3: ANTEKHRIST (945 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1280 Tournament chips) 
+Seat 6: roc1999 (925 Tournament chips) 
+Seat 7: menace76 (2155 Tournament chips) 
+Game #23969689-7 ends
+Game #23969689-8 starts
+Seat 0: jenniferwar (385 Tournament chips) 
+Seat 2: QwertySpark (1495 Tournament chips) 
+Seat 3: ANTEKHRIST (945 Tournament chips) 
+Seat 4: 50Something (1000 Tournament chips) 
+Seat 5: Midge222 (1280 Tournament chips) 
+Seat 6: roc1999 (925 Tournament chips) 
+Seat 7: menace76 (2155 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+ANTEKHRIST posts the small blind [15 Tournament chips]
+50Something posts the big blind [25 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 385 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1495 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 975 Tournament chips.
+Midge222, at seat 5, is in this hand with 1280 Tournament chips.
+roc1999, at seat 6, is in this hand with 925 Tournament chips.
+menace76, at seat 7, is in this hand with 2155 Tournament chips.
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ 6h Td Ts 7c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+Midge222 calls [25 Tournament chips]
+roc1999 calls [25 Tournament chips]
+menace76 calls [25 Tournament chips]
+jenniferwar calls [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+ANTEKHRIST folds [10 Tournament chips]
+50Something folds
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Kh ] board:[ 5h Kh]
+** Dealing Flop ** [ 5d ] board:[ 5h Kh 5d]
+Midge222 checks
+roc1999 bets for 25 Tournament chips
+menace76 calls [25 Tournament chips]
+jenniferwar folds [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+Midge222 calls [25 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 6s ] board:[ 5h Kh 5d 6s]
+Midge222 checks
+roc1999 checks
+menace76 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 5h Kh 5d 6s 6c]
+Midge222 bets for 25 Tournament chips
+roc1999 calls [25 Tournament chips]
+menace76 folds [25 Tournament chips]
+QwertySpark calls [25 Tournament chips]
+Round 4 is over.
+Midge222 shows [ 5c Tc Jh Ah ] three fives
+Hand evaluation for Midge222 (5c Ah 5h Kh 5d: three fives)
+roc1999 doesn't show [ 4d Ks Th Jd ]
+(roc1999 has 4d Ks Th Jd.)
+QwertySpark shows [ 6h Td Ts 7c ] three sixes
+Hand evaluation for QwertySpark (6h Td Kh 6s 6c: three sixes)
+QwertySpark wins main pot 340 Tournament chips with three sixes, king/ten kickers.
+Seat 0: jenniferwar (360 Tournament chips) 
+Seat 2: QwertySpark (1760 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (975 Tournament chips) 
+Seat 5: Midge222 (1205 Tournament chips) 
+Seat 6: roc1999 (850 Tournament chips) 
+Seat 7: menace76 (2105 Tournament chips) 
+Game #23969689-8 ends
+Game #23969689-9 starts
+Seat 0: jenniferwar (360 Tournament chips) 
+Seat 2: QwertySpark (1760 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (975 Tournament chips) 
+Seat 5: Midge222 (1205 Tournament chips) 
+Seat 6: roc1999 (850 Tournament chips) 
+Seat 7: menace76 (2105 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+50Something posts the small blind [25 Tournament chips]
+Midge222 posts the big blind [50 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 360 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1760 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 1155 Tournament chips.
+roc1999, at seat 6, is in this hand with 850 Tournament chips.
+menace76, at seat 7, is in this hand with 2105 Tournament chips.
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ 7h 7s 8d 2c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+roc1999 folds [50 Tournament chips]
+menace76 calls [50 Tournament chips]
+jenniferwar calls [50 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+ANTEKHRIST folds [50 Tournament chips]
+50Something folds [25 Tournament chips]
+Midge222 checks
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 8h ] board:[ Ah 8h]
+** Dealing Flop ** [ Ts ] board:[ Ah 8h Ts]
+Midge222 bets for 50 Tournament chips
+menace76 calls [50 Tournament chips]
+jenniferwar calls [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Ah 8h Ts 3h]
+Midge222 checks
+menace76 checks
+jenniferwar goes all-in for 260 Tournament chips
+Midge222 calls [260 Tournament chips]
+menace76 folds [260 Tournament chips]
+Tournament all-in showdown -- players show:
+jenniferwar shows [ Js 9h 8c 2h ]
+Midge222 shows [ Kc 6d Jd Qh ]
+Round 3 is over.
+** Dealing River ** [ 4h ] board:[ Ah 8h Ts 3h 4h]
+        (no action in this round)
+Round 4 is over.
+jenniferwar shows [ Js 9h 8c 2h ] flush, ace/nine/eight high
+Midge222 shows [ Kc 6d Jd Qh ] ace/king/queen high
+jenniferwar wins main pot 895 Tournament chips with flush, ace/nine/eight high.
+Seat 0: jenniferwar (895 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (845 Tournament chips) 
+Seat 6: roc1999 (850 Tournament chips) 
+Seat 7: menace76 (2005 Tournament chips) 
+Game #23969689-9 ends
+Game #23969689-10 starts
+Seat 0: jenniferwar (895 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (845 Tournament chips) 
+Seat 6: roc1999 (850 Tournament chips) 
+Seat 7: menace76 (2005 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Midge222 posts the small blind [25 Tournament chips]
+roc1999 posts the big blind [50 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 895 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1710 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 820 Tournament chips.
+roc1999, at seat 6, is in this hand with 800 Tournament chips.
+menace76, at seat 7, is in this hand with 2005 Tournament chips.
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ 5d Qs Kc 5h ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+menace76 calls [50 Tournament chips]
+jenniferwar calls [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+ANTEKHRIST folds [50 Tournament chips]
+50Something folds [50 Tournament chips]
+Midge222 calls [25 Tournament chips]
+roc1999 checks
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ 2s ] board:[ 9c 2s]
+** Dealing Flop ** [ Js ] board:[ 9c 2s Js]
+Midge222 checks
+roc1999 bets for 50 Tournament chips
+menace76 folds [50 Tournament chips]
+jenniferwar raises [350 Tournament chips]
+Midge222 re-raises [650 Tournament chips]
+roc1999 calls [600 Tournament chips]
+jenniferwar raises all-in [495 Tournament chips]
+Midge222 calls all-in [145 Tournament chips]
+roc1999 calls all-in [150 Tournament chips]
+jenniferwar is returned 45 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+jenniferwar shows [ 3c Jh Qc 2c ]
+Midge222 shows [ Ks 8s 6h 2h ]
+roc1999 shows [ 9s 7s Jd 7c ]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 9c 2s Js Ts]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 4c ] board:[ 9c 2s Js Ts 4c]
+        (no action in this round)
+Round 4 is over.
+jenniferwar shows [ 3c Jh Qc 2c ] two pair, jacks and deuces, ten kicker
+Midge222 shows [ Ks 8s 6h 2h ] flush, king/jack/ten high
+roc1999 shows [ 9s 7s Jd 7c ] flush, jack/ten/nine high
+Midge222 wins main pot 2585 Tournament chips with flush, king/jack/ten high.
+roc1999 wins side pot #1 10 Tournament chips with flush, jack/ten/nine high.
+Seat 0: jenniferwar (45 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2585 Tournament chips) 
+Seat 6: roc1999 (10 Tournament chips) 
+Seat 7: menace76 (1955 Tournament chips) 
+Game #23969689-10 ends
+Game #23969689-11 starts
+Seat 0: jenniferwar (45 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2585 Tournament chips) 
+Seat 6: roc1999 (10 Tournament chips) 
+Seat 7: menace76 (1955 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+roc1999 posts the small blind [10 Tournament chips], goes all-in
+menace76 posts the big blind [50 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 45 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1710 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 2585 Tournament chips.
+roc1999, at seat 6, is in this hand with 0 Tournament chips.
+menace76, at seat 7, is in this hand with 1905 Tournament chips.
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+roc1999 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Qh 6d Jc 7c ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to roc1999 [ **** ]
+Dealt to menace76 [ **** ]
+jenniferwar calls all-in [45 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+ANTEKHRIST folds [50 Tournament chips]
+50Something folds [50 Tournament chips]
+Midge222 calls [50 Tournament chips]
+menace76 checks
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 8c ] board:[ 4c 8c]
+** Dealing Flop ** [ 4s ] board:[ 4c 8c 4s]
+menace76 checks
+Midge222 checks
+Round 2 is over.
+** Dealing Turn ** [ 9d ] board:[ 4c 8c 4s 9d]
+menace76 checks
+Midge222 checks
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 4c 8c 4s 9d As]
+menace76 checks
+Midge222 checks
+Round 4 is over.
+menace76 shows [ Th Kh 3s 2d ] a pair of fours
+Hand evaluation for menace76 (Th Kh 4c 4s As: a pair of fours)
+jenniferwar shows [ 9c 5c 6s Js ] two pair, nines and fours
+Hand evaluation for jenniferwar (9c Js 4c 4s 9d: two pair, nines and fours)
+Midge222 shows [ Jh Tc 8d 6c ] two pair, eights and fours
+Hand evaluation for Midge222 (Jh 8d 4c 8c 4s: two pair, eights and fours)
+roc1999 shows [ 5s 7s 3c Kd ] a pair of fours
+Hand evaluation for roc1999 (7s Kd 4c 4s As: a pair of fours)
+jenniferwar wins main pot 40 Tournament chips with two pair, nines and fours, jack kicker.
+jenniferwar wins side pot #1 105 Tournament chips with two pair, nines and fours, jack kicker.
+Midge222 wins side pot #2 10 Tournament chips with two pair, eights and fours, jack kicker.
+Seat 0: jenniferwar (145 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2545 Tournament chips) 
+Seat 6: roc1999 (0 Tournament chips) 
+Seat 7: menace76 (1905 Tournament chips) 
+Game #23969689-11 ends
+Player roc1999 leaves the table with 0 Tournament chips
+Game #23969689-12 starts
+Seat 0: jenniferwar (145 Tournament chips) 
+Seat 2: QwertySpark (1710 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2545 Tournament chips) 
+Seat 7: menace76 (1905 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 6.
+menace76 posts the small blind [25 Tournament chips]
+jenniferwar posts the big blind [50 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 95 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1710 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 2545 Tournament chips.
+menace76, at seat 7, is in this hand with 1880 Tournament chips.
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ 5s 7d 3h 2h ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+QwertySpark calls [50 Tournament chips]
+ANTEKHRIST folds [50 Tournament chips]
+50Something folds [50 Tournament chips]
+Midge222 calls [50 Tournament chips]
+menace76 calls [25 Tournament chips]
+jenniferwar checks
+Round 1 is over.
+** Dealing Flop ** [ Jh ] board:[ Jh]
+** Dealing Flop ** [ Ac ] board:[ Jh Ac]
+** Dealing Flop ** [ Qs ] board:[ Jh Ac Qs]
+menace76 checks
+jenniferwar checks
+QwertySpark checks
+Midge222 bets for 50 Tournament chips
+menace76 calls [50 Tournament chips]
+jenniferwar folds [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Jh Ac Qs Td]
+menace76 checks
+Midge222 checks
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Jh Ac Qs Td 9h]
+menace76 checks
+Midge222 checks
+Round 4 is over.
+menace76 shows [ 4c 2d 6c Ks ] ace high
+Hand evaluation for menace76 (6c Ks Jh Ac Qs: ace high)
+Midge222 shows [ Ad Jc 6d Qh ] two pair, aces and queens
+Hand evaluation for Midge222 (Ad Qh Jh Ac Qs: two pair, aces and queens)
+Midge222 wins main pot 300 Tournament chips with two pair, aces and queens, jack kicker.
+Seat 0: jenniferwar (95 Tournament chips) 
+Seat 2: QwertySpark (1660 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2745 Tournament chips) 
+Seat 7: menace76 (1805 Tournament chips) 
+Game #23969689-12 ends
+Game #23969689-13 starts
+Seat 0: jenniferwar (95 Tournament chips) 
+Seat 2: QwertySpark (1660 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2745 Tournament chips) 
+Seat 7: menace76 (1805 Tournament chips) 
+The button is at seat 6
+The button is moved to seat 7.
+jenniferwar posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [75 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 45 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1585 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 930 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 2745 Tournament chips.
+menace76, at seat 7, is in this hand with 1805 Tournament chips.
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Qc Ac Qs Ts ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+ANTEKHRIST folds [75 Tournament chips]
+50Something folds [75 Tournament chips]
+Midge222 folds [75 Tournament chips]
+menace76 calls [75 Tournament chips]
+jenniferwar raises all-in [45 Tournament chips]
+QwertySpark re-raises [150 Tournament chips]
+menace76 calls [150 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Td ] board:[ Td]
+** Dealing Flop ** [ 2h ] board:[ Td 2h]
+** Dealing Flop ** [ Jh ] board:[ Td 2h Jh]
+QwertySpark checks
+menace76 checks
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ Td 2h Jh 3h]
+QwertySpark checks
+menace76 checks
+Round 3 is over.
+** Dealing River ** [ 9h ] board:[ Td 2h Jh 3h 9h]
+QwertySpark checks
+menace76 checks
+Round 4 is over.
+QwertySpark shows [ Qc Ac Qs Ts ] a pair of queens
+Hand evaluation for QwertySpark (Qc Qs Td Jh 9h: a pair of queens)
+menace76 shows [ 7c 9d 5s 2c ] two pair, nines and deuces
+Hand evaluation for menace76 (9d 2c 2h Jh 9h: two pair, nines and deuces)
+jenniferwar shows [ 4d 3s 6h Jc ] two pair, jacks and threes
+Hand evaluation for jenniferwar (3s Jc Td Jh 3h: two pair, jacks and threes)
+jenniferwar wins main pot 285 Tournament chips with two pair, jacks and threes, ten kicker.
+menace76 wins side pot #1 260 Tournament chips with two pair, nines and deuces, jack kicker.
+Seat 0: jenniferwar (285 Tournament chips) 
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (1435 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2745 Tournament chips) 
+Seat 7: menace76 (1840 Tournament chips) 
+Game #23969689-13 ends
+Game #23969689-14 starts
+Seat 0: jenniferwar (285 Tournament chips) 
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (1435 Tournament chips) 
+Seat 3: ANTEKHRIST (930 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (2745 Tournament chips) 
+Seat 7: menace76 (1840 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 0.
+QwertySpark posts the small blind [50 Tournament chips]
+ANTEKHRIST posts the big blind [75 Tournament chips]
+jenniferwar, at seat 0, is in this hand with 285 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1385 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 855 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 950 Tournament chips.
+Midge222, at seat 5, is in this hand with 2745 Tournament chips.
+menace76, at seat 7, is in this hand with 1840 Tournament chips.
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+jenniferwar is dealt: **
+Dealt to jenniferwar [ **** ]
+Dealt to QwertySpark [ Th Ad 3s Ts ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+50Something folds [75 Tournament chips]
+Midge222 raises [150 Tournament chips]
+menace76 folds [150 Tournament chips]
+jenniferwar raises all-in [285 Tournament chips]
+QwertySpark calls [235 Tournament chips]
+ANTEKHRIST folds [210 Tournament chips]
+Midge222 calls [135 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ks ] board:[ Ks]
+** Dealing Flop ** [ 6h ] board:[ Ks 6h]
+** Dealing Flop ** [ 8c ] board:[ Ks 6h 8c]
+QwertySpark bets for 930 Tournament chips
+Midge222 calls [930 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Td ] board:[ Ks 6h 8c Td]
+QwertySpark goes all-in for 220 Tournament chips
+Midge222 calls [220 Tournament chips]
+Tournament all-in showdown -- players show:
+jenniferwar shows [ 4d 3c Kc 5s ]
+QwertySpark shows [ Th Ad 3s Ts ]
+Midge222 shows [ Jd Js 3d Kh ]
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ Ks 6h 8c Td Qh]
+        (no action in this round)
+Round 4 is over.
+jenniferwar shows [ 4d 3c Kc 5s ] a pair of kings, queen/ten kickers
+QwertySpark shows [ Th Ad 3s Ts ] three tens, king/queen kickers
+Midge222 shows [ Jd Js 3d Kh ] a pair of kings, queen/jack kickers
+QwertySpark wins main pot 930 Tournament chips with three tens, king/queen kickers.
+QwertySpark wins side pot #1 2300 Tournament chips with three tens, king/queen kickers.
+Seat 0: jenniferwar (0 Tournament chips) 
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 3: ANTEKHRIST (855 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (1310 Tournament chips) 
+Seat 7: menace76 (1840 Tournament chips) 
+Game #23969689-14 ends
+Player jenniferwar leaves the table with 0 Tournament chips
+Game #23969689-15 starts
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3230 Tournament chips) 
+Seat 3: ANTEKHRIST (855 Tournament chips) 
+Seat 4: 50Something (950 Tournament chips) 
+Seat 5: Midge222 (1310 Tournament chips) 
+Seat 7: menace76 (1840 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 2.
+ANTEKHRIST posts the small blind [50 Tournament chips]
+50Something posts the big blind [75 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8705 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3230 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 805 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 875 Tournament chips.
+Midge222, at seat 5, is in this hand with 1310 Tournament chips.
+menace76, at seat 7, is in this hand with 1840 Tournament chips.
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ Kc Jc 8h Ks ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+Midge222 raises [150 Tournament chips]
+menace76 calls [150 Tournament chips]
+AegisAbe folds [150 Tournament chips]
+QwertySpark calls [150 Tournament chips]
+ANTEKHRIST folds [100 Tournament chips]
+50Something folds [75 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 2d ] board:[ Ah 2d]
+** Dealing Flop ** [ 3d ] board:[ Ah 2d 3d]
+Midge222 checks
+menace76 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Qd ] board:[ Ah 2d 3d Qd]
+Midge222 checks
+menace76 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Ah 2d 3d Qd 9s]
+Midge222 checks
+menace76 checks
+QwertySpark checks
+Round 4 is over.
+Midge222 shows [ Jd 6s 4c Qh ] a pair of queens
+Hand evaluation for Midge222 (Jd Qh Ah Qd 9s: a pair of queens)
+menace76 shows [ 7h 4h Ac 7d ] a pair of aces
+Hand evaluation for menace76 (7h Ac Ah Qd 9s: a pair of aces)
+QwertySpark doesn't show [ Kc Jc 8h Ks ]
+(QwertySpark has Kc Jc 8h Ks.)
+menace76 wins main pot 575 Tournament chips with a pair of aces, queen/nine kickers.
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (875 Tournament chips) 
+Seat 5: Midge222 (1160 Tournament chips) 
+Seat 7: menace76 (2265 Tournament chips) 
+Game #23969689-15 ends
+Game #23969689-16 starts
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (875 Tournament chips) 
+Seat 5: Midge222 (1160 Tournament chips) 
+Seat 7: menace76 (2265 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+50Something posts the small blind [50 Tournament chips]
+Midge222 posts the big blind [75 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8705 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3080 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 805 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 825 Tournament chips.
+Midge222, at seat 5, is in this hand with 1085 Tournament chips.
+menace76, at seat 7, is in this hand with 2265 Tournament chips.
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ Js 3s 6s 4s ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+menace76 folds [75 Tournament chips]
+AegisAbe folds [75 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+ANTEKHRIST folds [75 Tournament chips]
+50Something folds [25 Tournament chips]
+Midge222 is returned 25 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for Midge222 (-)
+Midge222 wins main pot 100 Tournament chips.
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1210 Tournament chips) 
+Seat 7: menace76 (2265 Tournament chips) 
+Game #23969689-16 ends
+Game #23969689-17 starts
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1210 Tournament chips) 
+Seat 7: menace76 (2265 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Midge222 posts the small blind [50 Tournament chips]
+menace76 posts the big blind [75 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8705 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3080 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 805 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 825 Tournament chips.
+Midge222, at seat 5, is in this hand with 1160 Tournament chips.
+menace76, at seat 7, is in this hand with 2190 Tournament chips.
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ Tc 6s 4s Qc ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+AegisAbe folds [75 Tournament chips]
+QwertySpark folds [75 Tournament chips]
+ANTEKHRIST folds [75 Tournament chips]
+50Something folds [75 Tournament chips]
+Midge222 calls [25 Tournament chips]
+menace76 has timed out - the hand is checked
+Round 1 is over.
+** Dealing Flop ** [ 8h ] board:[ 8h]
+** Dealing Flop ** [ 7s ] board:[ 8h 7s]
+** Dealing Flop ** [ 7h ] board:[ 8h 7s 7h]
+Midge222 checks
+menace76 has timed out - the hand is checked
+Round 2 is over.
+** Dealing Turn ** [ Ac ] board:[ 8h 7s 7h Ac]
+Midge222 checks
+menace76 has timed out - the hand is checked
+Round 3 is over.
+** Dealing River ** [ As ] board:[ 8h 7s 7h Ac As]
+Midge222 bets for 75 Tournament chips
+menace76 folds [75 Tournament chips]
+Midge222 is returned 75 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for Midge222 (Ad Kh 8h Ac As: three aces)
+Midge222 wins main pot 150 Tournament chips.
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1285 Tournament chips) 
+Seat 7: menace76 (2190 Tournament chips) 
+Game #23969689-17 ends
+(menace76 has entered the table, is no longer absent.)
+Game #23969689-18 starts
+Seat 1: AegisAbe (8705 Tournament chips) 
+Seat 2: QwertySpark (3080 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1285 Tournament chips) 
+Seat 7: menace76 (2190 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+menace76 posts the small blind [50 Tournament chips]
+AegisAbe posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8605 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3080 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 805 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 825 Tournament chips.
+Midge222, at seat 5, is in this hand with 1285 Tournament chips.
+menace76, at seat 7, is in this hand with 2140 Tournament chips.
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 5d 9h 7c 9s ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+QwertySpark calls [100 Tournament chips]
+ANTEKHRIST folds [100 Tournament chips]
+50Something folds [100 Tournament chips]
+Midge222 calls [100 Tournament chips]
+menace76 calls [50 Tournament chips]
+AegisAbe checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Qh ] board:[ 5h Qh]
+** Dealing Flop ** [ 4d ] board:[ 5h Qh 4d]
+menace76 bets for 100 Tournament chips
+AegisAbe folds [100 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Midge222 folds [100 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ 5h Qh 4d 5c]
+menace76 bets for 100 Tournament chips
+QwertySpark calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kc ] board:[ 5h Qh 4d 5c Kc]
+menace76 checks
+QwertySpark bets for 800 Tournament chips
+menace76 folds [800 Tournament chips]
+QwertySpark is returned 800 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (5d 9h 5h 5c Kc: three fives)
+QwertySpark wins main pot 800 Tournament chips.
+Seat 1: AegisAbe (8605 Tournament chips) 
+Seat 2: QwertySpark (3580 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1185 Tournament chips) 
+Seat 7: menace76 (1890 Tournament chips) 
+Game #23969689-18 ends
+Game #23969689-19 starts
+Seat 1: AegisAbe (8605 Tournament chips) 
+Seat 2: QwertySpark (3580 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (1185 Tournament chips) 
+Seat 7: menace76 (1890 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+AegisAbe posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8555 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3480 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 805 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 825 Tournament chips.
+Midge222, at seat 5, is in this hand with 1185 Tournament chips.
+menace76, at seat 7, is in this hand with 1890 Tournament chips.
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 2h 6h 7c Jh ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+ANTEKHRIST folds [100 Tournament chips]
+50Something folds [100 Tournament chips]
+Midge222 raises [200 Tournament chips]
+menace76 folds [200 Tournament chips]
+AegisAbe folds [150 Tournament chips]
+QwertySpark calls [100 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Jc ] board:[ Jc]
+** Dealing Flop ** [ 9s ] board:[ Jc 9s]
+** Dealing Flop ** [ 4h ] board:[ Jc 9s 4h]
+QwertySpark bets for 200 Tournament chips
+Midge222 folds [200 Tournament chips]
+QwertySpark is returned 200 Tournament chips (uncalled).
+round 2 is over.
+Hand evaluation for QwertySpark (7c Jh Jc 9s 4h: a pair of jacks)
+QwertySpark wins main pot 450 Tournament chips.
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (3830 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (985 Tournament chips) 
+Seat 7: menace76 (1890 Tournament chips) 
+Game #23969689-19 ends
+Game #23969689-20 starts
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (3830 Tournament chips) 
+Seat 3: ANTEKHRIST (805 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (985 Tournament chips) 
+Seat 7: menace76 (1890 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+QwertySpark posts the small blind [50 Tournament chips]
+ANTEKHRIST posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8555 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3780 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 705 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 825 Tournament chips.
+Midge222, at seat 5, is in this hand with 985 Tournament chips.
+menace76, at seat 7, is in this hand with 1890 Tournament chips.
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ Qh Kc Qd Td ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+50Something folds [100 Tournament chips]
+Midge222 calls [100 Tournament chips]
+menace76 calls [100 Tournament chips]
+AegisAbe folds [100 Tournament chips]
+QwertySpark calls [50 Tournament chips]
+ANTEKHRIST folds
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 3s ] board:[ Ah 3s]
+** Dealing Flop ** [ 2d ] board:[ Ah 3s 2d]
+QwertySpark checks
+Midge222 checks
+menace76 checks
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ Ah 3s 2d Js]
+QwertySpark bets for 200 Tournament chips
+Midge222 raises [400 Tournament chips]
+menace76 calls [400 Tournament chips]
+QwertySpark calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8d ] board:[ Ah 3s 2d Js 8d]
+QwertySpark checks
+Midge222 checks
+menace76 checks
+Round 4 is over.
+QwertySpark shows [ Qh Kc Qd Td ] a pair of queens
+Hand evaluation for QwertySpark (Qh Qd Ah Js 8d: a pair of queens)
+Midge222 doesn't show [ 4c 9c 9h 3h ]
+(Midge222 has 4c 9c 9h 3h.)
+menace76 shows [ 6d Tc 2s Jh ] two pair, jacks and deuces
+Hand evaluation for menace76 (2s Jh Ah 2d Js: two pair, jacks and deuces)
+menace76 wins main pot 1600 Tournament chips with two pair, jacks and deuces, ace kicker.
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (3330 Tournament chips) 
+Seat 3: ANTEKHRIST (705 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (485 Tournament chips) 
+Seat 7: menace76 (2990 Tournament chips) 
+Game #23969689-20 ends
+Game #23969689-21 starts
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (3330 Tournament chips) 
+Seat 3: ANTEKHRIST (705 Tournament chips) 
+Seat 4: 50Something (825 Tournament chips) 
+Seat 5: Midge222 (485 Tournament chips) 
+Seat 7: menace76 (2990 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+ANTEKHRIST posts the small blind [50 Tournament chips]
+50Something posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8555 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 3330 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 655 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 725 Tournament chips.
+Midge222, at seat 5, is in this hand with 485 Tournament chips.
+menace76, at seat 7, is in this hand with 2990 Tournament chips.
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Midge222 is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 8s Td 9d Ah ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to Midge222 [ **** ]
+Dealt to menace76 [ **** ]
+Midge222 calls [100 Tournament chips]
+menace76 raises [300 Tournament chips]
+AegisAbe folds [300 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+ANTEKHRIST folds [250 Tournament chips]
+50Something folds [200 Tournament chips]
+Midge222 raises all-in [385 Tournament chips]
+menace76 calls [185 Tournament chips]
+QwertySpark calls [185 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 2d ] board:[ 2d]
+** Dealing Flop ** [ 5s ] board:[ 2d 5s]
+** Dealing Flop ** [ 6s ] board:[ 2d 5s 6s]
+menace76 checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 6h ] board:[ 2d 5s 6s 6h]
+menace76 checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3h ] board:[ 2d 5s 6s 6h 3h]
+menace76 checks
+QwertySpark checks
+Round 4 is over.
+menace76 shows [ Jh 9h 9c Jd ] two pair, jacks and sixes
+Hand evaluation for menace76 (Jh Jd 5s 6s 6h: two pair, jacks and sixes)
+QwertySpark shows [ 8s Td 9d Ah ] a pair of sixes
+Hand evaluation for QwertySpark (Td Ah 5s 6s 6h: a pair of sixes)
+Midge222 shows [ Ad 2s 9s 7h ] two pair, sixes and deuces
+Hand evaluation for Midge222 (Ad 2s 2d 6s 6h: two pair, sixes and deuces)
+menace76 wins main pot 1605 Tournament chips with two pair, jacks and sixes, five kicker.
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (2845 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (725 Tournament chips) 
+Seat 5: Midge222 (0 Tournament chips) 
+Seat 7: menace76 (4110 Tournament chips) 
+Game #23969689-21 ends
+Player Midge222 leaves the table with 0 Tournament chips
+Game #23969689-22 starts
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (2845 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (725 Tournament chips) 
+Seat 7: menace76 (4110 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+50Something posts the small blind [50 Tournament chips]
+menace76 posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8555 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2845 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 655 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 675 Tournament chips.
+menace76, at seat 7, is in this hand with 4010 Tournament chips.
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 9d 6d 9s 4d ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to menace76 [ **** ]
+AegisAbe folds [100 Tournament chips]
+QwertySpark raises [350 Tournament chips]
+ANTEKHRIST folds [350 Tournament chips]
+50Something folds [300 Tournament chips]
+menace76 folds [250 Tournament chips]
+QwertySpark is returned 250 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for QwertySpark (-)
+QwertySpark wins main pot 250 Tournament chips.
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (2995 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (4010 Tournament chips) 
+Game #23969689-22 ends
+Game #23969689-23 starts
+Seat 1: AegisAbe (8555 Tournament chips) 
+Seat 2: QwertySpark (2995 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (4010 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+menace76 posts the small blind [50 Tournament chips]
+AegisAbe posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8455 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2995 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 655 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 675 Tournament chips.
+menace76, at seat 7, is in this hand with 3960 Tournament chips.
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 9s 7s Th Kh ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to menace76 [ **** ]
+QwertySpark calls [100 Tournament chips]
+ANTEKHRIST folds [100 Tournament chips]
+50Something folds [100 Tournament chips]
+menace76 calls [50 Tournament chips]
+AegisAbe checks
+Round 1 is over.
+** Dealing Flop ** [ 2s ] board:[ 2s]
+** Dealing Flop ** [ 4c ] board:[ 2s 4c]
+** Dealing Flop ** [ 5d ] board:[ 2s 4c 5d]
+menace76 checks
+AegisAbe checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ Jc ] board:[ 2s 4c 5d Jc]
+menace76 checks
+AegisAbe checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 3c ] board:[ 2s 4c 5d Jc 3c]
+menace76 bets for 300 Tournament chips
+AegisAbe folds [300 Tournament chips]
+QwertySpark folds [300 Tournament chips]
+menace76 is returned 300 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for menace76 (8c 6c 4c Jc 3c: flush, jack high)
+menace76 wins main pot 300 Tournament chips.
+Seat 1: AegisAbe (8455 Tournament chips) 
+Seat 2: QwertySpark (2895 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (4210 Tournament chips) 
+Game #23969689-23 ends
+Game #23969689-24 starts
+Seat 1: AegisAbe (8455 Tournament chips) 
+Seat 2: QwertySpark (2895 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (4210 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 7.
+AegisAbe posts the small blind [50 Tournament chips]
+QwertySpark posts the big blind [100 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8405 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 2795 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 655 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 675 Tournament chips.
+menace76, at seat 7, is in this hand with 4210 Tournament chips.
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 5s Js 9c 2s ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to menace76 [ **** ]
+ANTEKHRIST folds [100 Tournament chips]
+50Something folds [100 Tournament chips]
+menace76 calls [100 Tournament chips]
+AegisAbe calls [50 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ Tc ] board:[ 5h Tc]
+** Dealing Flop ** [ 2c ] board:[ 5h Tc 2c]
+AegisAbe checks
+QwertySpark bets for 150 Tournament chips
+menace76 calls [150 Tournament chips]
+AegisAbe folds [150 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 5h Tc 2c Th]
+QwertySpark checks
+menace76 checks
+Round 3 is over.
+** Dealing River ** [ Ts ] board:[ 5h Tc 2c Th Ts]
+QwertySpark bets for 300 Tournament chips
+menace76 raises [600 Tournament chips]
+QwertySpark calls [300 Tournament chips]
+Round 4 is over.
+menace76 shows [ 9s Qs 9d 9h ] full house, tens full of nines
+Hand evaluation for menace76 (9s 9d Tc Th Ts: full house, tens full of nines)
+QwertySpark doesn't show [ 5s Js 9c 2s ]
+(QwertySpark has 5s Js 9c 2s.)
+menace76 wins main pot 1800 Tournament chips with full house, tens full of nines.
+Seat 1: AegisAbe (8355 Tournament chips) 
+Seat 2: QwertySpark (2045 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (5160 Tournament chips) 
+Game #23969689-24 ends
+Game #23969689-25 starts
+Seat 1: AegisAbe (8355 Tournament chips) 
+Seat 2: QwertySpark (2045 Tournament chips) 
+Seat 3: ANTEKHRIST (655 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (5160 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 1.
+QwertySpark posts the small blind [75 Tournament chips]
+ANTEKHRIST posts the big blind [150 Tournament chips]
+AegisAbe, at seat 1, is in this hand with 8355 Tournament chips.
+QwertySpark, at seat 2, is in this hand with 1970 Tournament chips.
+ANTEKHRIST, at seat 3, is in this hand (absent) with 505 Tournament chips.
+50Something, at seat 4, is in this hand (absent) with 675 Tournament chips.
+menace76, at seat 7, is in this hand with 5160 Tournament chips.
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+
+ANTEKHRIST is dealt: **
+50Something is dealt: **
+menace76 is dealt: **
+AegisAbe is dealt: **
+Dealt to AegisAbe [ **** ]
+Dealt to QwertySpark [ 3s Qh Ks Th ]
+Dealt to ANTEKHRIST [ **** ]
+Dealt to 50Something [ **** ]
+Dealt to menace76 [ **** ]
+50Something folds [150 Tournament chips]
+menace76 calls [150 Tournament chips]
+AegisAbe folds [150 Tournament chips]
+QwertySpark calls [75 Tournament chips]
+ANTEKHRIST folds
+Round 1 is over.
+** Dealing Flop ** [ 5h ] board:[ 5h]
+** Dealing Flop ** [ 4c ] board:[ 5h 4c]
+** Dealing Flop ** [ Jh ] board:[ 5h 4c Jh]
+QwertySpark bets for 450 Tournament chips
+menace76 raises [1800 Tournament chips]
+QwertySpark calls [1350 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Jd ] board:[ 5h 4c Jh Jd]
+QwertySpark goes all-in for 95 Tournament chips
+menace76 calls [95 Tournament chips]
+Tournament all-in showdown -- players show:
+QwertySpark shows [ 3s Qh Ks Th ]
+menace76 shows [ Jc 4s 7h 9s ]
+Round 3 is over.
+** Dealing River ** [ Td ] board:[ 5h 4c Jh Jd Td]
+        (no action in this round)
+Round 4 is over.
+QwertySpark shows [ 3s Qh Ks Th ] two pair, jacks and tens, king kicker
+menace76 shows [ Jc 4s 7h 9s ] full house, jacks full of fours
+menace76 wins main pot 4240 Tournament chips with full house, jacks full of fours.
+Seat 0: Demborsky (95 Tournament chips) 
+Seat 1: AegisAbe (8355 Tournament chips) 
+Seat 2: QwertySpark (0 Tournament chips) 
+Seat 3: ANTEKHRIST (505 Tournament chips) 
+Seat 4: 50Something (675 Tournament chips) 
+Seat 7: menace76 (7355 Tournament chips) 
+Game #23969689-25 ends
+Player QwertySpark leaves the table with 0 Tournament chips

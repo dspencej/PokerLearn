@@ -1,0 +1,840 @@
+Game#: 23902652
+eliot66 calls [5 Tournament chips]
+Petro032 checks
+Round 1 is over.
+** Dealing Flop ** [ Qh ] board:[ Qh]
+** Dealing Flop ** [ 5h ] board:[ Qh 5h]
+** Dealing Flop ** [ Qs ] board:[ Qh 5h Qs]
+eliot66 bets for 15 Tournament chips
+Petro032 calls [15 Tournament chips]
+Sck1920 calls [15 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ Qh 5h Qs Th]
+eliot66 bets for 30 Tournament chips
+Petro032 calls [30 Tournament chips]
+Sck1920 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9s ] board:[ Qh 5h Qs Th 9s]
+eliot66 bets for 30 Tournament chips
+Petro032 calls [30 Tournament chips]
+Sck1920 calls [30 Tournament chips]
+Round 4 is over.
+eliot66 shows [ Tc 2s ] two pair, queens and tens
+Hand evaluation for eliot66 (Tc Qh Qs Th 9s: two pair, queens and tens)
+Petro032 shows [ 6d Qc ] three queens
+Hand evaluation for Petro032 (Qc Qh Qs Th 9s: three queens)
+Sck1920 doesn't show [ Ah 3c ]
+(Sck1920 has Ah 3c.)
+Petro032 wins main pot 270 Tournament chips with three queens, ten/nine kickers.
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1135 Tournament chips) 
+Seat 3: Sck1920 (835 Tournament chips) 
+Seat 4: eliot66 (1030 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+Game #23902652-2 ends
+Game #23902652-3 starts
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1135 Tournament chips) 
+Seat 3: Sck1920 (835 Tournament chips) 
+Seat 4: eliot66 (1030 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+Petro032 posts the small blind [10 Tournament chips]
+Sck1920 posts the big blind [15 Tournament chips]
+Petro032, at seat 2, is in this hand with 1125 Tournament chips.
+Sck1920, at seat 3, is in this hand with 820 Tournament chips.
+eliot66, at seat 4, is in this hand with 1030 Tournament chips.
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+eliot66 folds [15 Tournament chips]
+Petro032 calls [5 Tournament chips]
+Sck1920 checks
+Round 1 is over.
+** Dealing Flop ** [ Kd ] board:[ Kd]
+** Dealing Flop ** [ Qc ] board:[ Kd Qc]
+** Dealing Flop ** [ 7d ] board:[ Kd Qc 7d]
+Petro032 checks
+Sck1920 checks
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ Kd Qc 7d 6d]
+Petro032 bets for 30 Tournament chips
+Sck1920 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3d ] board:[ Kd Qc 7d 6d 3d]
+Petro032 bets for 30 Tournament chips
+Sck1920 calls [30 Tournament chips]
+Round 4 is over.
+Petro032 shows [ 7s 4c ] a pair of sevens
+Hand evaluation for Petro032 (7s Kd Qc 7d 6d: a pair of sevens)
+Sck1920 shows [ 5s 2d ] flush, king high
+Hand evaluation for Sck1920 (2d Kd 7d 6d 3d: flush, king high)
+Sck1920 wins main pot 150 Tournament chips with flush, king/seven/six high.
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1060 Tournament chips) 
+Seat 3: Sck1920 (910 Tournament chips) 
+Seat 4: eliot66 (1030 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+Game #23902652-3 ends
+Game #23902652-4 starts
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1060 Tournament chips) 
+Seat 3: Sck1920 (910 Tournament chips) 
+Seat 4: eliot66 (1030 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 2.
+Sck1920 posts the small blind [10 Tournament chips]
+eliot66 posts the big blind [15 Tournament chips]
+ledzep61, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Petro032, at seat 2, is in this hand with 1060 Tournament chips.
+Sck1920, at seat 3, is in this hand with 900 Tournament chips.
+eliot66, at seat 4, is in this hand with 1015 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 1000 Tournament chips.
+003hunter1975, at seat 6, is in this hand with 970 Tournament chips.
+kawika2018, at seat 7, is in this hand with 1000 Tournament chips.
+Drifter58, at seat 8, is in this hand with 1000 Tournament chips.
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 4c Td ]
+Dealt to 003hunter1975 [ **** ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+Petro032: lol
+QwertySpark folds [15 Tournament chips]
+003hunter1975 folds [15 Tournament chips]
+kawika2018 folds [15 Tournament chips]
+Drifter58 folds [15 Tournament chips]
+ledzep61 folds [15 Tournament chips]
+Petro032 raises [30 Tournament chips]
+Sck1920 calls [20 Tournament chips]
+eliot66 re-raises [30 Tournament chips]
+Petro032 calls [15 Tournament chips]
+Sck1920 calls [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ As ] board:[ As]
+** Dealing Flop ** [ 3d ] board:[ As 3d]
+** Dealing Flop ** [ Kh ] board:[ As 3d Kh]
+Sck1920 bets for 15 Tournament chips
+eliot66 raises [30 Tournament chips]
+Petro032 folds [30 Tournament chips]
+Sck1920 calls [15 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 7c ] board:[ As 3d Kh 7c]
+Sck1920 bets for 30 Tournament chips
+eliot66 raises [60 Tournament chips]
+Sck1920 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Jc ] board:[ As 3d Kh 7c Jc]
+Sck1920 bets for 30 Tournament chips
+eliot66 raises [60 Tournament chips]
+Sck1920 calls [30 Tournament chips]
+Round 4 is over.
+eliot66 shows [ Ah Ks ] two pair, aces and kings
+Hand evaluation for eliot66 (Ah Ks As Kh Jc: two pair, aces and kings)
+Sck1920 doesn't show [ Ac 5s ]
+(Sck1920 has Ac 5s.)
+eliot66 wins main pot 435 Tournament chips with two pair, aces and kings, jack kicker.
+Seat 0: Feedthebear (940 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1015 Tournament chips) 
+Seat 3: Sck1920 (715 Tournament chips) 
+Seat 4: eliot66 (1270 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+Game #23902652-4 ends
+Game #23902652-5 starts
+Seat 0: Feedthebear (940 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1015 Tournament chips) 
+Seat 3: Sck1920 (715 Tournament chips) 
+Seat 4: eliot66 (1270 Tournament chips) 
+Seat 5: QwertySpark (1000 Tournament chips) 
+Seat 6: 003hunter1975 (970 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+eliot66 posts the small blind [10 Tournament chips]
+QwertySpark posts the big blind [15 Tournament chips]
+Feedthebear, at seat 0, is in this hand with 940 Tournament chips.
+ledzep61, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Petro032, at seat 2, is in this hand with 1015 Tournament chips.
+Sck1920, at seat 3, is in this hand with 715 Tournament chips.
+eliot66, at seat 4, is in this hand with 1260 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 985 Tournament chips.
+003hunter1975, at seat 6, is in this hand with 970 Tournament chips.
+kawika2018, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Drifter58, at seat 8, is in this hand with 1000 Tournament chips.
+eliot66 is dealt: **
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+Dealt to Feedthebear [ **** ]
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 5h 9d ]
+Dealt to 003hunter1975 [ **** ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+003hunter1975 calls [15 Tournament chips]
+kawika2018 folds [15 Tournament chips]
+Drifter58 folds [15 Tournament chips]
+Feedthebear calls [15 Tournament chips]
+ledzep61 folds [15 Tournament chips]
+Petro032 raises [30 Tournament chips]
+Sck1920 calls [30 Tournament chips]
+eliot66 folds [20 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+003hunter1975 calls [15 Tournament chips]
+Feedthebear re-raises [30 Tournament chips]
+Petro032 calls [15 Tournament chips]
+Sck1920 calls [15 Tournament chips]
+QwertySpark calls [15 Tournament chips]
+003hunter1975 calls [15 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ad ] board:[ Ad]
+** Dealing Flop ** [ As ] board:[ Ad As]
+** Dealing Flop ** [ 3c ] board:[ Ad As 3c]
+QwertySpark checks
+003hunter1975 checks
+Feedthebear has timed out - the hand is checked
+Petro032 checks
+Sck1920 bets for 15 Tournament chips
+QwertySpark folds [15 Tournament chips]
+003hunter1975 folds [15 Tournament chips]
+Feedthebear calls [15 Tournament chips]
+Petro032 calls [15 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 8d ] board:[ Ad As 3c 8d]
+Feedthebear has timed out - the hand is checked
+Petro032 checks
+Sck1920 checks
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ Ad As 3c 8d Kh]
+Feedthebear has timed out - the hand is checked
+Petro032 bets for 30 Tournament chips
+Sck1920 calls [30 Tournament chips]
+Feedthebear folds [30 Tournament chips]
+Round 4 is over.
+Petro032 shows [ Ac Jc ] three aces
+Hand evaluation for Petro032 (Ac Jc Ad As Kh: three aces)
+Sck1920 doesn't show [ Qs Js ]
+(Sck1920 has Qs Js.)
+Petro032 wins main pot 340 Tournament chips with three aces, king/jack kickers.
+(Feedthebear has entered the table, is no longer absent.)
+Seat 0: Feedthebear (880 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1265 Tournament chips) 
+Seat 3: Sck1920 (625 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (955 Tournament chips) 
+Seat 6: 003hunter1975 (925 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+Game #23902652-5 ends
+Game #23902652-6 starts
+Seat 0: Feedthebear (880 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1265 Tournament chips) 
+Seat 3: Sck1920 (625 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (955 Tournament chips) 
+Seat 6: 003hunter1975 (925 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (1000 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+QwertySpark posts the small blind [10 Tournament chips]
+003hunter1975 posts the big blind [20 Tournament chips]
+Feedthebear, at seat 0, is in this hand with 880 Tournament chips.
+ledzep61, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Petro032, at seat 2, is in this hand with 1265 Tournament chips.
+Sck1920, at seat 3, is in this hand with 625 Tournament chips.
+eliot66, at seat 4, is in this hand with 1260 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 945 Tournament chips.
+003hunter1975, at seat 6, is in this hand with 905 Tournament chips.
+kawika2018, at seat 7, is in this hand (absent) with 1000 Tournament chips.
+Drifter58, at seat 8, is in this hand with 1000 Tournament chips.
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+003hunter1975 is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+Dealt to Feedthebear [ **** ]
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 6d Ks ]
+Dealt to 003hunter1975 [ **** ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+kawika2018 folds [20 Tournament chips]
+Drifter58 calls [20 Tournament chips]
+Feedthebear raises [40 Tournament chips]
+ledzep61 folds [40 Tournament chips]
+Petro032 calls [40 Tournament chips]
+Sck1920 calls [40 Tournament chips]
+eliot66 folds [40 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+003hunter1975 folds [20 Tournament chips]
+Drifter58 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 7s ] board:[ Js 7s]
+** Dealing Flop ** [ 6c ] board:[ Js 7s 6c]
+Drifter58 checks
+Feedthebear bets for 20 Tournament chips
+Petro032 calls [20 Tournament chips]
+Sck1920 calls [20 Tournament chips]
+Drifter58 calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Tc ] board:[ Js 7s 6c Tc]
+Drifter58 checks
+Feedthebear bets for 40 Tournament chips
+Petro032 folds [40 Tournament chips]
+Sck1920 calls [40 Tournament chips]
+Drifter58 folds [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 8s ] board:[ Js 7s 6c Tc 8s]
+Feedthebear bets for 40 Tournament chips
+Sck1920 calls [40 Tournament chips]
+Round 4 is over.
+Feedthebear shows [ Jd 3h ] a pair of jacks
+Hand evaluation for Feedthebear (Jd Js 7s Tc 8s: a pair of jacks)
+Sck1920 doesn't show [ As 4c ]
+(Sck1920 has As 4c.)
+Feedthebear wins main pot 430 Tournament chips with a pair of jacks, ten/eight kickers.
+Seat 0: Feedthebear (1170 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1205 Tournament chips) 
+Seat 3: Sck1920 (485 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (945 Tournament chips) 
+Seat 6: 003hunter1975 (905 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (940 Tournament chips) 
+Game #23902652-6 ends
+Player 003hunter1975 leaves the table with 905 Tournament chips
+Game #23902652-7 starts
+Seat 0: Feedthebear (1170 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1205 Tournament chips) 
+Seat 3: Sck1920 (485 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (945 Tournament chips) 
+Seat 7: kawika2018 (1000 Tournament chips) 
+Seat 8: Drifter58 (940 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+kawika2018 posts the big blind [20 Tournament chips]
+Feedthebear, at seat 0, is in this hand with 1170 Tournament chips.
+ledzep61, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Petro032, at seat 2, is in this hand with 1205 Tournament chips.
+Sck1920, at seat 3, is in this hand with 485 Tournament chips.
+eliot66, at seat 4, is in this hand with 1260 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 945 Tournament chips.
+kawika2018, at seat 7, is in this hand with 980 Tournament chips.
+Drifter58, at seat 8, is in this hand with 940 Tournament chips.
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Feedthebear is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+Dealt to Feedthebear [ **** ]
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 5s 5h ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+Drifter58 calls [20 Tournament chips]
+Feedthebear raises [40 Tournament chips]
+ledzep61 folds [40 Tournament chips]
+Petro032 folds [40 Tournament chips]
+Sck1920 folds [40 Tournament chips]
+eliot66 folds [40 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+kawika2018 calls [20 Tournament chips]
+Drifter58 calls [20 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 8c ] board:[ Kc 8c]
+** Dealing Flop ** [ Td ] board:[ Kc 8c Td]
+kawika2018 has timed out - the hand is checked
+Drifter58 checks
+Feedthebear bets for 20 Tournament chips
+QwertySpark calls [20 Tournament chips]
+kawika2018 folds [20 Tournament chips]
+Drifter58 calls [20 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Js ] board:[ Kc 8c Td Js]
+Drifter58 checks
+Feedthebear checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ Kc 8c Td Js 2h]
+Drifter58 checks
+Feedthebear has timed out - the hand is checked
+QwertySpark checks
+Round 4 is over.
+Drifter58 shows [ Th Qd ] a pair of tens
+Hand evaluation for Drifter58 (Th Qd Kc Td Js: a pair of tens)
+Feedthebear doesn't show [ 3s 6c ]
+(Feedthebear has 3s 6c.)
+QwertySpark doesn't show [ 5s 5h ]
+(QwertySpark has 5s 5h.)
+Drifter58 wins main pot 220 Tournament chips with a pair of tens, king/queen kickers.
+Seat 0: Feedthebear (1110 Tournament chips) 
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1205 Tournament chips) 
+Seat 3: Sck1920 (485 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (960 Tournament chips) 
+Seat 8: Drifter58 (1100 Tournament chips) 
+Game #23902652-7 ends
+Player Feedthebear leaves the table with 1110 Tournament chips
+Game #23902652-8 starts
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (1205 Tournament chips) 
+Seat 3: Sck1920 (485 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (960 Tournament chips) 
+Seat 8: Drifter58 (1100 Tournament chips) 
+The button is at seat 5
+kawika2018 posts the small blind [15 Tournament chips]
+Drifter58 posts the big blind [25 Tournament chips]
+ledzep61, at seat 1, is in this hand (absent) with 1000 Tournament chips.
+Petro032, at seat 2, is in this hand with 1205 Tournament chips.
+Sck1920, at seat 3, is in this hand with 485 Tournament chips.
+eliot66, at seat 4, is in this hand with 1260 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 885 Tournament chips.
+kawika2018, at seat 7, is in this hand with 945 Tournament chips.
+Drifter58, at seat 8, is in this hand with 1075 Tournament chips.
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 4h 2h ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+ledzep61 folds [25 Tournament chips]
+Petro032 calls [25 Tournament chips]
+Sck1920 calls [25 Tournament chips]
+eliot66 folds [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+kawika2018 calls [10 Tournament chips]
+Drifter58 raises [25 Tournament chips]
+Petro032 calls [25 Tournament chips]
+Sck1920 calls [25 Tournament chips]
+kawika2018 calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5s ] board:[ 5s]
+** Dealing Flop ** [ 7s ] board:[ 5s 7s]
+** Dealing Flop ** [ Th ] board:[ 5s 7s Th]
+kawika2018 checks
+Drifter58 bets for 25 Tournament chips
+Petro032 raises [50 Tournament chips]
+Sck1920 calls [50 Tournament chips]
+kawika2018 calls [50 Tournament chips]
+Drifter58 re-raises [50 Tournament chips]
+Petro032 calls [25 Tournament chips]
+Sck1920 calls [25 Tournament chips]
+kawika2018 calls [25 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ Ts ] board:[ 5s 7s Th Ts]
+kawika2018 checks
+Drifter58 bets for 50 Tournament chips
+Petro032 raises [100 Tournament chips]
+Sck1920 folds [100 Tournament chips]
+kawika2018 calls [100 Tournament chips]
+Drifter58 re-raises [100 Tournament chips]
+Petro032 re-raises [100 Tournament chips]
+kawika2018 calls [100 Tournament chips]
+Drifter58 calls [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Ks ] board:[ 5s 7s Th Ts Ks]
+kawika2018 checks
+Drifter58 bets for 50 Tournament chips
+Petro032 calls [50 Tournament chips]
+kawika2018 folds [50 Tournament chips]
+Round 4 is over.
+Drifter58 shows [ Kh Ah ] two pair, kings and tens
+Hand evaluation for Drifter58 (Kh Ah Th Ts Ks: two pair, kings and tens)
+Petro032 shows [ Td Jh ] three tens
+Hand evaluation for Petro032 (Td Jh Th Ts Ks: three tens)
+Petro032 wins main pot 1200 Tournament chips with three tens, king/jack kickers.
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (2030 Tournament chips) 
+Seat 3: Sck1920 (360 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (635 Tournament chips) 
+Seat 8: Drifter58 (725 Tournament chips) 
+Game #23902652-8 ends
+Game #23902652-9 starts
+Seat 1: ledzep61 (1000 Tournament chips) 
+Seat 2: Petro032 (2030 Tournament chips) 
+Seat 3: Sck1920 (360 Tournament chips) 
+Seat 4: eliot66 (1260 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (635 Tournament chips) 
+Seat 8: Drifter58 (725 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 7.
+Drifter58 posts the small blind [15 Tournament chips]
+ledzep61 posts the big blind [25 Tournament chips]
+ledzep61, at seat 1, is in this hand (absent) with 975 Tournament chips.
+Petro032, at seat 2, is in this hand with 2030 Tournament chips.
+Sck1920, at seat 3, is in this hand with 360 Tournament chips.
+eliot66, at seat 4, is in this hand with 1260 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 885 Tournament chips.
+Ahnlaashock, at seat 6, is in this hand with 1000 Tournament chips.
+kawika2018, at seat 7, is in this hand with 635 Tournament chips.
+Drifter58, at seat 8, is in this hand with 710 Tournament chips.
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+Sck1920 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to Sck1920 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ Js 7s ]
+Dealt to Ahnlaashock [ **** ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+Petro032 calls [25 Tournament chips]
+Sck1920 calls [25 Tournament chips]
+eliot66 calls [25 Tournament chips]
+QwertySpark folds [25 Tournament chips]
+Ahnlaashock folds [25 Tournament chips]
+kawika2018 calls [25 Tournament chips]
+Drifter58 calls [10 Tournament chips]
+ledzep61 folds
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Kh ] board:[ 9c Kh]
+** Dealing Flop ** [ 9h ] board:[ 9c Kh 9h]
+Drifter58 checks
+Petro032 checks
+Sck1920 bets for 25 Tournament chips
+eliot66 raises [50 Tournament chips]
+kawika2018 folds [50 Tournament chips]
+Drifter58 calls [50 Tournament chips]
+Petro032 folds [50 Tournament chips]
+Sck1920 calls [25 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 9c Kh 9h 3c]
+Drifter58 bets for 50 Tournament chips
+Sck1920 calls [50 Tournament chips]
+eliot66 raises [100 Tournament chips]
+Drifter58 re-raises [100 Tournament chips]
+Sck1920 calls [100 Tournament chips]
+eliot66 re-raises [100 Tournament chips]
+Drifter58 calls [50 Tournament chips]
+Sck1920 calls [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qh ] board:[ 9c Kh 9h 3c Qh]
+Drifter58 bets for 50 Tournament chips
+Sck1920 raises all-in [85 Tournament chips]
+eliot66 calls [85 Tournament chips]
+Drifter58 re-raises [85 Tournament chips]
+eliot66 calls [50 Tournament chips]
+Round 4 is over.
+Drifter58 shows [ 2s Qc ] two pair, queens and nines
+Hand evaluation for Drifter58 (Qc 9c Kh 9h Qh: two pair, queens and nines)
+Sck1920 shows [ As 5d ] a pair of nines
+Hand evaluation for Sck1920 (As 9c Kh 9h Qh: a pair of nines)
+eliot66 shows [ 7d 9d ] three nines
+Hand evaluation for eliot66 (9d 9c Kh 9h Qh: three nines)
+eliot66 wins main pot 1155 Tournament chips with three nines, king/queen kickers.
+eliot66 wins side pot #1 100 Tournament chips with three nines, king/queen kickers.
+Seat 1: ledzep61 (975 Tournament chips) 
+Seat 2: Petro032 (2005 Tournament chips) 
+Seat 3: Sck1920 (0 Tournament chips) 
+Seat 4: eliot66 (2105 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (610 Tournament chips) 
+Seat 8: Drifter58 (315 Tournament chips) 
+Game #23902652-9 ends
+Player Sck1920 leaves the table with 0 Tournament chips
+Game #23902652-10 starts
+Seat 1: ledzep61 (975 Tournament chips) 
+Seat 2: Petro032 (2005 Tournament chips) 
+Seat 4: eliot66 (2105 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (610 Tournament chips) 
+Seat 8: Drifter58 (315 Tournament chips) 
+The button is at seat 7
+The button is moved to seat 8.
+ledzep61 posts the small blind [15 Tournament chips]
+Petro032 posts the big blind [25 Tournament chips]
+ledzep61, at seat 1, is in this hand (absent) with 960 Tournament chips.
+Petro032, at seat 2, is in this hand with 1980 Tournament chips.
+eliot66, at seat 4, is in this hand with 2105 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 885 Tournament chips.
+Ahnlaashock, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+kawika2018, at seat 7, is in this hand with 610 Tournament chips.
+Drifter58, at seat 8, is in this hand with 315 Tournament chips.
+ledzep61 is dealt: **
+Petro032 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+Drifter58 is dealt: **
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ 6h 8d ]
+Dealt to Ahnlaashock [ **** ]
+Dealt to kawika2018 [ **** ]
+Dealt to Drifter58 [ **** ]
+eliot66 raises [50 Tournament chips]
+QwertySpark folds [50 Tournament chips]
+Ahnlaashock folds [50 Tournament chips]
+kawika2018 calls [50 Tournament chips]
+Drifter58 re-raises [75 Tournament chips]
+ledzep61 folds [60 Tournament chips]
+Petro032 folds [50 Tournament chips]
+eliot66 re-raises [50 Tournament chips]
+kawika2018 calls [50 Tournament chips]
+Drifter58 calls [25 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 4c ] board:[ 4c]
+** Dealing Flop ** [ 5d ] board:[ 4c 5d]
+** Dealing Flop ** [ Td ] board:[ 4c 5d Td]
+eliot66 bets for 25 Tournament chips
+kawika2018 calls [25 Tournament chips]
+Drifter58 raises [50 Tournament chips]
+eliot66 calls [25 Tournament chips]
+kawika2018 calls [25 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 4c 5d Td 9c]
+eliot66 bets for 50 Tournament chips
+kawika2018 calls [50 Tournament chips]
+Drifter58 raises [100 Tournament chips]
+eliot66 calls [50 Tournament chips]
+kawika2018 calls [50 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 7s ] board:[ 4c 5d Td 9c 7s]
+eliot66 checks
+kawika2018 bets for 50 Tournament chips
+Drifter58 raises all-in [65 Tournament chips]
+eliot66 folds [65 Tournament chips]
+kawika2018 calls [15 Tournament chips]
+Tournament all-in showdown -- players show:
+kawika2018 shows [ 7d 4s ]
+Drifter58 shows [ Ks Js ]
+Round 4 is over.
+kawika2018 shows [ 7d 4s ] two pair, sevens and fours, ten kicker
+Drifter58 shows [ Ks Js ] king/jack/ten high
+kawika2018 wins main pot 920 Tournament chips with two pair, sevens and fours, ten kicker.
+Seat 1: ledzep61 (960 Tournament chips) 
+Seat 2: Petro032 (1980 Tournament chips) 
+Seat 4: eliot66 (1855 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (1215 Tournament chips) 
+Seat 8: Drifter58 (0 Tournament chips) 
+Game #23902652-10 ends
+Player Drifter58 leaves the table with 0 Tournament chips
+Game #23902652-11 starts
+Seat 1: ledzep61 (960 Tournament chips) 
+Seat 2: Petro032 (1980 Tournament chips) 
+Seat 4: eliot66 (1855 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (1215 Tournament chips) 
+The button is at seat 8
+The button is moved to seat 1.
+Petro032 posts the small blind [25 Tournament chips]
+eliot66 posts the big blind [50 Tournament chips]
+ledzep61, at seat 1, is in this hand (absent) with 960 Tournament chips.
+Petro032, at seat 2, is in this hand with 1955 Tournament chips.
+eliot66, at seat 4, is in this hand with 1805 Tournament chips.
+QwertySpark, at seat 5, is in this hand with 885 Tournament chips.
+Ahnlaashock, at seat 6, is in this hand (absent) with 1000 Tournament chips.
+kawika2018, at seat 7, is in this hand with 1215 Tournament chips.
+Petro032 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+ledzep61 is dealt: **
+Petro032 is dealt: **
+eliot66 is dealt: **
+
+Ahnlaashock is dealt: **
+kawika2018 is dealt: **
+ledzep61 is dealt: **
+Dealt to ledzep61 [ **** ]
+Dealt to Petro032 [ **** ]
+Dealt to eliot66 [ **** ]
+Dealt to QwertySpark [ Ts 8h ]
+Dealt to Ahnlaashock [ **** ]
+Dealt to kawika2018 [ **** ]
+QwertySpark folds [50 Tournament chips]
+Ahnlaashock folds [50 Tournament chips]
+kawika2018 calls [50 Tournament chips]
+ledzep61 folds [50 Tournament chips]
+Petro032 calls [25 Tournament chips]
+eliot66 checks
+Round 1 is over.
+** Dealing Flop ** [ 6d ] board:[ 6d]
+** Dealing Flop ** [ Ah ] board:[ 6d Ah]
+** Dealing Flop ** [ Ks ] board:[ 6d Ah Ks]
+Petro032 checks
+eliot66 checks
+kawika2018 checks
+Round 2 is over.
+** Dealing Turn ** [ 9s ] board:[ 6d Ah Ks 9s]
+Petro032 bets for 100 Tournament chips
+eliot66 folds [100 Tournament chips]
+kawika2018 calls [100 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 6d Ah Ks 9s 2d]
+Petro032 bets for 100 Tournament chips
+kawika2018 calls [100 Tournament chips]
+Round 4 is over.
+Petro032 shows [ 5s 3d ] ace high
+Hand evaluation for Petro032 (5s 6d Ah Ks 9s: ace high)
+kawika2018 shows [ 9h 7s ] a pair of nines
+Hand evaluation for kawika2018 (9h 7s Ah Ks 9s: a pair of nines)
+kawika2018 wins main pot 550 Tournament chips with a pair of nines, ace/king kickers.
+Seat 1: ledzep61 (960 Tournament chips) 
+Seat 2: Petro032 (1730 Tournament chips) 
+Seat 4: eliot66 (1805 Tournament chips) 
+Seat 5: QwertySpark (885 Tournament chips) 
+Seat 6: Ahnlaashock (1000 Tournament chips) 
+Seat 7: kawika2018 (1515 Tournament chips) 
+Game #23902652-11 ends
+Player ledzep61 leaves the table with 0 Tournament chips
+Player QwertySpark leaves the table with 885 Tournament chips
+Player Petro032 leaves the table with 1730 Tournament chips
+Player eliot66 leaves the table with 1805 Tournament chips
+Player kawika2018 leaves the table with 1515 Tournament chips
+Player Ahnlaashock leaves the table with 1000 Tournament chips

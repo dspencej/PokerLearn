@@ -1,0 +1,956 @@
+Game#: 23841397
+bjs924s raises [20 Tournament chips]
+SMario calls [20 Tournament chips]
+2012kenman calls [20 Tournament chips]
+AAAAallday folds [15 Tournament chips]
+QwertySpark re-raises [115 Tournament chips]
+AJax69 folds [115 Tournament chips]
+bjs924s calls [105 Tournament chips]
+SMario calls [105 Tournament chips]
+2012kenman folds [105 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 3d ] board:[ 3d]
+** Dealing Flop ** [ 6s ] board:[ 3d 6s]
+** Dealing Flop ** [ Qd ] board:[ 3d 6s Qd]
+QwertySpark bets for 130 Tournament chips
+bjs924s calls [130 Tournament chips]
+SMario folds [130 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 3h ] board:[ 3d 6s Qd 3h]
+QwertySpark bets for 335 Tournament chips
+bjs924s calls [335 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Tc ] board:[ 3d 6s Qd 3h Tc]
+QwertySpark goes all-in for 410 Tournament chips
+bjs924s folds [410 Tournament chips]
+QwertySpark is returned 410 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for QwertySpark (Ah 3c 3d Qd 3h: three threes)
+QwertySpark wins main pot 1340 Tournament chips.
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (960 Tournament chips) 
+Seat 2: AAAAallday (945 Tournament chips) 
+Seat 3: QwertySpark (1750 Tournament chips) 
+Seat 4: AJax69 (970 Tournament chips) 
+Seat 5: bjs924s (410 Tournament chips) 
+Game #23841397-2 ends
+Game #23841397-3 starts
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (960 Tournament chips) 
+Seat 2: AAAAallday (945 Tournament chips) 
+Seat 3: QwertySpark (1750 Tournament chips) 
+Seat 4: AJax69 (970 Tournament chips) 
+Seat 5: bjs924s (410 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [5 Tournament chips]
+AJax69 posts the big blind [10 Tournament chips]
+SMario, at seat 0, is in this hand with 2965 Tournament chips.
+2012kenman, at seat 1, is in this hand with 960 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 945 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1745 Tournament chips.
+AJax69, at seat 4, is in this hand with 960 Tournament chips.
+bjs924s, at seat 5, is in this hand with 410 Tournament chips.
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ Qh Js ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+bjs924s folds [10 Tournament chips]
+SMario folds [10 Tournament chips]
+2012kenman folds [10 Tournament chips]
+AAAAallday raises [40 Tournament chips]
+QwertySpark calls [35 Tournament chips]
+AJax69 calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7s ] board:[ 7s]
+** Dealing Flop ** [ Td ] board:[ 7s Td]
+** Dealing Flop ** [ 6c ] board:[ 7s Td 6c]
+QwertySpark checks
+AJax69 checks
+AAAAallday checks
+Round 2 is over.
+** Dealing Turn ** [ 9c ] board:[ 7s Td 6c 9c]
+QwertySpark bets for 60 Tournament chips
+AJax69 folds [60 Tournament chips]
+AAAAallday calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5s ] board:[ 7s Td 6c 9c 5s]
+QwertySpark bets for 300 Tournament chips
+AAAAallday calls [300 Tournament chips]
+Round 4 is over.
+QwertySpark shows [ Qh Js ] queen high
+Hand evaluation for QwertySpark (Qh Js 7s Td 9c: queen high)
+AAAAallday shows [ Kd 9h ] a pair of nines
+Hand evaluation for AAAAallday (Kd 9h 7s Td 9c: a pair of nines)
+AAAAallday wins main pot 840 Tournament chips with a pair of nines, king/ten kickers.
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (960 Tournament chips) 
+Seat 2: AAAAallday (1385 Tournament chips) 
+Seat 3: QwertySpark (1350 Tournament chips) 
+Seat 4: AJax69 (930 Tournament chips) 
+Seat 5: bjs924s (410 Tournament chips) 
+Game #23841397-3 ends
+Game #23841397-4 starts
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (960 Tournament chips) 
+Seat 2: AAAAallday (1385 Tournament chips) 
+Seat 3: QwertySpark (1350 Tournament chips) 
+Seat 4: AJax69 (930 Tournament chips) 
+Seat 5: bjs924s (410 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+AJax69 posts the small blind [10 Tournament chips]
+bjs924s posts the big blind [20 Tournament chips]
+SMario, at seat 0, is in this hand with 2965 Tournament chips.
+2012kenman, at seat 1, is in this hand with 960 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1385 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1350 Tournament chips.
+AJax69, at seat 4, is in this hand with 920 Tournament chips.
+bjs924s, at seat 5, is in this hand with 390 Tournament chips.
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ Kh Qd ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+SMario folds [20 Tournament chips]
+2012kenman raises [40 Tournament chips]
+AAAAallday folds [40 Tournament chips]
+QwertySpark re-raises [80 Tournament chips]
+AJax69 calls [70 Tournament chips]
+bjs924s folds [60 Tournament chips]
+2012kenman re-raises [80 Tournament chips]
+QwertySpark calls [40 Tournament chips]
+AJax69 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ah ] board:[ Ah]
+** Dealing Flop ** [ 7c ] board:[ Ah 7c]
+** Dealing Flop ** [ 2s ] board:[ Ah 7c 2s]
+AJax69 checks
+2012kenman checks
+QwertySpark checks
+Round 2 is over.
+** Dealing Turn ** [ 7s ] board:[ Ah 7c 2s 7s]
+AJax69 checks
+2012kenman checks
+QwertySpark checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ Ah 7c 2s 7s 2d]
+AJax69 has timed out - the hand is checked
+2012kenman checks
+QwertySpark checks
+Round 4 is over.
+AJax69 shows [ Kd Qs ] two pair, sevens and deuces
+Hand evaluation for AJax69 (Ah 7c 2s 7s 2d: two pair, sevens and deuces)
+2012kenman shows [ 4c 4d ] two pair, sevens and fours
+Hand evaluation for 2012kenman (4c 4d Ah 7c 7s: two pair, sevens and fours)
+QwertySpark doesn't show [ Kh Qd ]
+(QwertySpark has Kh Qd.)
+2012kenman wins main pot 380 Tournament chips with two pair, sevens and fours, ace kicker.
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (1220 Tournament chips) 
+Seat 2: AAAAallday (1385 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (810 Tournament chips) 
+Seat 5: bjs924s (390 Tournament chips) 
+Game #23841397-4 ends
+Game #23841397-5 starts
+Seat 0: SMario (2965 Tournament chips) 
+Seat 1: 2012kenman (1220 Tournament chips) 
+Seat 2: AAAAallday (1385 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (810 Tournament chips) 
+Seat 5: bjs924s (390 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+bjs924s posts the small blind [10 Tournament chips]
+SMario posts the big blind [20 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2945 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1220 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1385 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1230 Tournament chips.
+AJax69, at seat 4, is in this hand with 810 Tournament chips.
+bjs924s, at seat 5, is in this hand with 380 Tournament chips.
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 4s 9c ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+2012kenman calls [20 Tournament chips]
+AAAAallday calls [20 Tournament chips]
+QwertySpark folds [20 Tournament chips]
+AJax69 calls [20 Tournament chips]
+bjs924s calls [10 Tournament chips]
+SMario folds
+Round 1 is over.
+** Dealing Flop ** [ 4h ] board:[ 4h]
+** Dealing Flop ** [ Ac ] board:[ 4h Ac]
+** Dealing Flop ** [ 2d ] board:[ 4h Ac 2d]
+bjs924s checks
+2012kenman has timed out - the hand is checked
+AAAAallday checks
+AJax69 checks
+Round 2 is over.
+** Dealing Turn ** [ 8s ] board:[ 4h Ac 2d 8s]
+bjs924s bets for 20 Tournament chips
+2012kenman calls [20 Tournament chips]
+AAAAallday folds [20 Tournament chips]
+AJax69 calls [20 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 4h Ac 2d 8s 3s]
+bjs924s bets for 160 Tournament chips
+2012kenman folds [160 Tournament chips]
+AJax69 calls [160 Tournament chips]
+Round 4 is over.
+bjs924s shows [ Js 8h ] a pair of eights
+Hand evaluation for bjs924s (Js 8h 4h Ac 8s: a pair of eights)
+AJax69 shows [ As 4d ] two pair, aces and fours
+Hand evaluation for AJax69 (As 4d 4h Ac 8s: two pair, aces and fours)
+AJax69 wins main pot 480 Tournament chips with two pair, aces and fours, eight kicker.
+Seat 0: SMario (2945 Tournament chips) 
+Seat 1: 2012kenman (1180 Tournament chips) 
+Seat 2: AAAAallday (1365 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (190 Tournament chips) 
+Game #23841397-5 ends
+Game #23841397-6 starts
+Seat 0: SMario (2945 Tournament chips) 
+Seat 1: 2012kenman (1180 Tournament chips) 
+Seat 2: AAAAallday (1365 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (190 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 5.
+SMario posts the small blind [15 Tournament chips]
+2012kenman posts the big blind [30 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2930 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1150 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1365 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1230 Tournament chips.
+AJax69, at seat 4, is in this hand with 1090 Tournament chips.
+bjs924s, at seat 5, is in this hand with 190 Tournament chips.
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 3h 5c ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+AAAAallday folds [30 Tournament chips]
+QwertySpark folds [30 Tournament chips]
+AJax69 folds [30 Tournament chips]
+bjs924s calls [30 Tournament chips]
+SMario folds [15 Tournament chips]
+2012kenman raises [30 Tournament chips]
+bjs924s calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Kc ] board:[ Kc]
+** Dealing Flop ** [ 3s ] board:[ Kc 3s]
+** Dealing Flop ** [ Ad ] board:[ Kc 3s Ad]
+2012kenman checks
+bjs924s checks
+Round 2 is over.
+** Dealing Turn ** [ 6c ] board:[ Kc 3s Ad 6c]
+2012kenman bets for 30 Tournament chips
+bjs924s calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Js ] board:[ Kc 3s Ad 6c Js]
+2012kenman bets for 30 Tournament chips
+bjs924s calls [30 Tournament chips]
+Round 4 is over.
+2012kenman shows [ Kh Ah ] two pair, aces and kings
+Hand evaluation for 2012kenman (Kh Ah Kc Ad Js: two pair, aces and kings)
+bjs924s doesn't show [ Qh 2c ]
+(bjs924s has Qh 2c.)
+2012kenman wins main pot 255 Tournament chips with two pair, aces and kings, jack kicker.
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1315 Tournament chips) 
+Seat 2: AAAAallday (1365 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (70 Tournament chips) 
+Game #23841397-6 ends
+Game #23841397-7 starts
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1315 Tournament chips) 
+Seat 2: AAAAallday (1365 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (70 Tournament chips) 
+The button is at seat 5
+The button is moved to seat 0.
+2012kenman posts the small blind [15 Tournament chips]
+AAAAallday posts the big blind [30 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2930 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1300 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1335 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1230 Tournament chips.
+AJax69, at seat 4, is in this hand with 1090 Tournament chips.
+bjs924s, at seat 5, is in this hand with 70 Tournament chips.
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 3s Td ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+QwertySpark folds [30 Tournament chips]
+AJax69 folds [30 Tournament chips]
+bjs924s calls [30 Tournament chips]
+SMario folds [30 Tournament chips]
+2012kenman raises [45 Tournament chips]
+AAAAallday folds [30 Tournament chips]
+bjs924s calls [30 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 8c ] board:[ 8c]
+** Dealing Flop ** [ 4d ] board:[ 8c 4d]
+** Dealing Flop ** [ 9h ] board:[ 8c 4d 9h]
+2012kenman checks
+bjs924s checks
+Round 2 is over.
+** Dealing Turn ** [ Jh ] board:[ 8c 4d 9h Jh]
+2012kenman checks
+bjs924s checks
+Round 3 is over.
+** Dealing River ** [ 2d ] board:[ 8c 4d 9h Jh 2d]
+2012kenman checks
+bjs924s goes all-in for 10 Tournament chips
+2012kenman folds [10 Tournament chips]
+bjs924s is returned 10 Tournament chips (uncalled).
+round 4 is over.
+Hand evaluation for bjs924s (4c 8c 4d 9h Jh: a pair of fours)
+bjs924s wins main pot 150 Tournament chips.
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1255 Tournament chips) 
+Seat 2: AAAAallday (1335 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (160 Tournament chips) 
+Game #23841397-7 ends
+Game #23841397-8 starts
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1255 Tournament chips) 
+Seat 2: AAAAallday (1335 Tournament chips) 
+Seat 3: QwertySpark (1230 Tournament chips) 
+Seat 4: AJax69 (1090 Tournament chips) 
+Seat 5: bjs924s (160 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+AAAAallday posts the small blind [15 Tournament chips]
+QwertySpark posts the big blind [30 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2930 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1255 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1320 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1200 Tournament chips.
+AJax69, at seat 4, is in this hand with 1090 Tournament chips.
+bjs924s, at seat 5, is in this hand with 160 Tournament chips.
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+bjs924s is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 9s 7c ]
+Dealt to AJax69 [ **** ]
+Dealt to bjs924s [ **** ]
+AJax69 calls [30 Tournament chips]
+bjs924s calls [30 Tournament chips]
+SMario folds [30 Tournament chips]
+2012kenman calls [30 Tournament chips]
+AAAAallday calls [15 Tournament chips]
+QwertySpark checks
+Round 1 is over.
+** Dealing Flop ** [ 4s ] board:[ 4s]
+** Dealing Flop ** [ Ac ] board:[ 4s Ac]
+** Dealing Flop ** [ 2c ] board:[ 4s Ac 2c]
+AAAAallday checks
+QwertySpark checks
+AJax69 checks
+bjs924s checks
+2012kenman checks
+Round 2 is over.
+** Dealing Turn ** [ Th ] board:[ 4s Ac 2c Th]
+AAAAallday checks
+QwertySpark checks
+AJax69 bets for 30 Tournament chips
+bjs924s raises [60 Tournament chips]
+2012kenman folds [60 Tournament chips]
+AAAAallday folds [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+AJax69 re-raises [60 Tournament chips]
+bjs924s re-raises [60 Tournament chips]
+AJax69 calls [30 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 5d ] board:[ 4s Ac 2c Th 5d]
+AJax69 bets for 30 Tournament chips
+bjs924s calls all-in [10 Tournament chips]
+AJax69 is returned 20 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+AJax69 shows [ Qc Ah ]
+bjs924s shows [ Kh Kc ]
+Round 4 is over.
+AJax69 shows [ Qc Ah ] a pair of aces, queen/ten kickers
+bjs924s shows [ Kh Kc ] a pair of kings, ace/ten kickers
+AJax69 wins main pot 410 Tournament chips with a pair of aces, queen/ten kickers.
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1225 Tournament chips) 
+Seat 2: AAAAallday (1305 Tournament chips) 
+Seat 3: QwertySpark (1200 Tournament chips) 
+Seat 4: AJax69 (1340 Tournament chips) 
+Seat 5: bjs924s (0 Tournament chips) 
+Game #23841397-8 ends
+Player bjs924s leaves the table with 0 Tournament chips
+Game #23841397-9 starts
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1225 Tournament chips) 
+Seat 2: AAAAallday (1305 Tournament chips) 
+Seat 3: QwertySpark (1200 Tournament chips) 
+Seat 4: AJax69 (1340 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [20 Tournament chips]
+AJax69 posts the big blind [40 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2930 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1225 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1305 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1180 Tournament chips.
+AJax69, at seat 4, is in this hand with 1300 Tournament chips.
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 6d 9h ]
+Dealt to AJax69 [ **** ]
+SMario folds [40 Tournament chips]
+2012kenman folds [40 Tournament chips]
+AAAAallday raises [80 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+AJax69 calls [40 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 7d ] board:[ 7d]
+** Dealing Flop ** [ Kh ] board:[ 7d Kh]
+** Dealing Flop ** [ 2s ] board:[ 7d Kh 2s]
+AJax69 bets for 40 Tournament chips
+AAAAallday calls [40 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 2h ] board:[ 7d Kh 2s 2h]
+AJax69 bets for 40 Tournament chips
+AAAAallday calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Qs ] board:[ 7d Kh 2s 2h Qs]
+AJax69 bets for 40 Tournament chips
+AAAAallday calls [40 Tournament chips]
+Round 4 is over.
+AJax69 shows [ Jc Ah ] a pair of deuces
+Hand evaluation for AJax69 (Ah Kh 2s 2h Qs: a pair of deuces)
+AAAAallday shows [ Qh Jd ] two pair, queens and deuces
+Hand evaluation for AAAAallday (Qh Kh 2s 2h Qs: two pair, queens and deuces)
+AAAAallday wins main pot 420 Tournament chips with two pair, queens and deuces, king kicker.
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1225 Tournament chips) 
+Seat 2: AAAAallday (1525 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (1140 Tournament chips) 
+Game #23841397-9 ends
+Game #23841397-10 starts
+Seat 0: SMario (2930 Tournament chips) 
+Seat 1: 2012kenman (1225 Tournament chips) 
+Seat 2: AAAAallday (1525 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (1140 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+AJax69 posts the small blind [20 Tournament chips]
+SMario posts the big blind [40 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2890 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1225 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1525 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1180 Tournament chips.
+AJax69, at seat 4, is in this hand with 1120 Tournament chips.
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 4s 2s ]
+Dealt to AJax69 [ **** ]
+2012kenman raises [80 Tournament chips]
+AAAAallday re-raises [160 Tournament chips]
+QwertySpark folds [160 Tournament chips]
+AJax69 calls [140 Tournament chips]
+SMario folds [120 Tournament chips]
+2012kenman calls [80 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 5d ] board:[ 5d]
+** Dealing Flop ** [ Ks ] board:[ 5d Ks]
+** Dealing Flop ** [ Td ] board:[ 5d Ks Td]
+AJax69 checks
+2012kenman checks
+AAAAallday checks
+Round 2 is over.
+** Dealing Turn ** [ 6d ] board:[ 5d Ks Td 6d]
+AJax69 checks
+2012kenman checks
+AAAAallday bets for 200 Tournament chips
+AJax69 folds [200 Tournament chips]
+2012kenman calls [200 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 3s ] board:[ 5d Ks Td 6d 3s]
+2012kenman checks
+AAAAallday checks
+Round 4 is over.
+2012kenman shows [ Kh Ac ] a pair of kings
+Hand evaluation for 2012kenman (Kh Ac Ks Td 6d: a pair of kings)
+AAAAallday doesn't show [ Qc Qh ]
+(AAAAallday has Qc Qh.)
+2012kenman wins main pot 920 Tournament chips with a pair of kings, ace/ten kickers.
+Seat 0: SMario (2890 Tournament chips) 
+Seat 1: 2012kenman (1785 Tournament chips) 
+Seat 2: AAAAallday (1165 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+Game #23841397-10 ends
+Game #23841397-11 starts
+Seat 0: SMario (2890 Tournament chips) 
+Seat 1: 2012kenman (1785 Tournament chips) 
+Seat 2: AAAAallday (1165 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+SMario posts the small blind [20 Tournament chips]
+2012kenman posts the big blind [40 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2870 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1745 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1165 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1180 Tournament chips.
+AJax69, at seat 4, is in this hand with 980 Tournament chips.
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 6s Tc ]
+Dealt to AJax69 [ **** ]
+AAAAallday folds [40 Tournament chips]
+QwertySpark folds [40 Tournament chips]
+AJax69 folds [40 Tournament chips]
+SMario folds [20 Tournament chips]
+2012kenman is returned 20 Tournament chips (uncalled).
+round 1 is over.
+Hand evaluation for 2012kenman (Ks 4h: king high)
+2012kenman wins main pot 40 Tournament chips.
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1805 Tournament chips) 
+Seat 2: AAAAallday (1165 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+Game #23841397-11 ends
+Game #23841397-12 starts
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1805 Tournament chips) 
+Seat 2: AAAAallday (1165 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+The button is at seat 4
+The button is moved to seat 0.
+2012kenman posts the small blind [20 Tournament chips]
+AAAAallday posts the big blind [40 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2870 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1785 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1125 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1180 Tournament chips.
+AJax69, at seat 4, is in this hand with 980 Tournament chips.
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ As 8h ]
+Dealt to AJax69 [ **** ]
+QwertySpark folds [40 Tournament chips]
+AJax69 folds [40 Tournament chips]
+SMario folds [40 Tournament chips]
+2012kenman calls [20 Tournament chips]
+AAAAallday checks
+Round 1 is over.
+** Dealing Flop ** [ 8s ] board:[ 8s]
+** Dealing Flop ** [ 7d ] board:[ 8s 7d]
+** Dealing Flop ** [ Qd ] board:[ 8s 7d Qd]
+2012kenman checks
+AAAAallday checks
+Round 2 is over.
+** Dealing Turn ** [ 3c ] board:[ 8s 7d Qd 3c]
+2012kenman checks
+AAAAallday bets for 40 Tournament chips
+2012kenman calls [40 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 6c ] board:[ 8s 7d Qd 3c 6c]
+2012kenman checks
+AAAAallday checks
+Round 4 is over.
+2012kenman shows [ Ks 2h ] king high
+Hand evaluation for 2012kenman (Ks 8s 7d Qd 6c: king high)
+AAAAallday shows [ 5s 3d ] a pair of threes
+Hand evaluation for AAAAallday (3d 8s 7d Qd 3c: a pair of threes)
+AAAAallday wins main pot 160 Tournament chips with a pair of threes, queen/eight kickers.
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1725 Tournament chips) 
+Seat 2: AAAAallday (1245 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+Game #23841397-12 ends
+Game #23841397-13 starts
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1725 Tournament chips) 
+Seat 2: AAAAallday (1245 Tournament chips) 
+Seat 3: QwertySpark (1180 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+The button is at seat 0
+The button is moved to seat 1.
+AAAAallday posts the small blind [30 Tournament chips]
+QwertySpark posts the big blind [60 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2870 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1725 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1215 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 1120 Tournament chips.
+AJax69, at seat 4, is in this hand with 980 Tournament chips.
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 8s Qd ]
+Dealt to AJax69 [ **** ]
+AJax69 folds [60 Tournament chips]
+SMario folds [60 Tournament chips]
+2012kenman raises [120 Tournament chips]
+AAAAallday folds [90 Tournament chips]
+QwertySpark calls [60 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ Ts ] board:[ Ts]
+** Dealing Flop ** [ 4d ] board:[ Ts 4d]
+** Dealing Flop ** [ 6s ] board:[ Ts 4d 6s]
+QwertySpark checks
+2012kenman checks
+Round 2 is over.
+** Dealing Turn ** [ 5h ] board:[ Ts 4d 6s 5h]
+QwertySpark checks
+2012kenman bets for 60 Tournament chips
+QwertySpark calls [60 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ Kh ] board:[ Ts 4d 6s 5h Kh]
+QwertySpark checks
+2012kenman checks
+Round 4 is over.
+QwertySpark shows [ 8s Qd ] king high
+Hand evaluation for QwertySpark (8s Qd Ts 6s Kh: king high)
+2012kenman shows [ Jh As ] ace high
+Hand evaluation for 2012kenman (Jh As Ts 6s Kh: ace high)
+2012kenman wins main pot 390 Tournament chips with ace/king/jack high.
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1935 Tournament chips) 
+Seat 2: AAAAallday (1215 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+Game #23841397-13 ends
+Game #23841397-14 starts
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (1935 Tournament chips) 
+Seat 2: AAAAallday (1215 Tournament chips) 
+Seat 3: QwertySpark (1000 Tournament chips) 
+Seat 4: AJax69 (980 Tournament chips) 
+The button is at seat 1
+The button is moved to seat 2.
+QwertySpark posts the small blind [30 Tournament chips]
+AJax69 posts the big blind [60 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2870 Tournament chips.
+2012kenman, at seat 1, is in this hand with 1935 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1215 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 970 Tournament chips.
+AJax69, at seat 4, is in this hand with 920 Tournament chips.
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 8d 8h ]
+Dealt to AJax69 [ **** ]
+SMario folds [60 Tournament chips]
+2012kenman calls [60 Tournament chips]
+AAAAallday folds [60 Tournament chips]
+QwertySpark raises [210 Tournament chips]
+AJax69 folds [180 Tournament chips]
+2012kenman calls [180 Tournament chips]
+Round 1 is over.
+** Dealing Flop ** [ 9c ] board:[ 9c]
+** Dealing Flop ** [ Kd ] board:[ 9c Kd]
+** Dealing Flop ** [ 2d ] board:[ 9c Kd 2d]
+QwertySpark checks
+2012kenman checks
+Round 2 is over.
+** Dealing Turn ** [ Qc ] board:[ 9c Kd 2d Qc]
+QwertySpark checks
+2012kenman checks
+Round 3 is over.
+** Dealing River ** [ Jd ] board:[ 9c Kd 2d Qc Jd]
+QwertySpark checks
+2012kenman checks
+Round 4 is over.
+QwertySpark shows [ 8d 8h ] a pair of eights
+Hand evaluation for QwertySpark (8d 8h Kd Qc Jd: a pair of eights)
+2012kenman shows [ Js 6h ] a pair of jacks
+Hand evaluation for 2012kenman (Js 9c Kd Qc Jd: a pair of jacks)
+2012kenman wins main pot 540 Tournament chips with a pair of jacks, king/queen kickers.
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (2235 Tournament chips) 
+Seat 2: AAAAallday (1215 Tournament chips) 
+Seat 3: QwertySpark (760 Tournament chips) 
+Seat 4: AJax69 (920 Tournament chips) 
+Game #23841397-14 ends
+Game #23841397-15 starts
+Seat 0: SMario (2870 Tournament chips) 
+Seat 1: 2012kenman (2235 Tournament chips) 
+Seat 2: AAAAallday (1215 Tournament chips) 
+Seat 3: QwertySpark (760 Tournament chips) 
+Seat 4: AJax69 (920 Tournament chips) 
+The button is at seat 2
+The button is moved to seat 3.
+AJax69 posts the small blind [30 Tournament chips]
+SMario posts the big blind [60 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2810 Tournament chips.
+2012kenman, at seat 1, is in this hand with 2235 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 1215 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 760 Tournament chips.
+AJax69, at seat 4, is in this hand with 890 Tournament chips.
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ 3c Qh ]
+Dealt to AJax69 [ **** ]
+2012kenman calls [60 Tournament chips]
+AAAAallday calls [60 Tournament chips]
+QwertySpark folds [60 Tournament chips]
+AJax69 folds [30 Tournament chips]
+SMario folds
+Round 1 is over.
+** Dealing Flop ** [ Js ] board:[ Js]
+** Dealing Flop ** [ 5d ] board:[ Js 5d]
+** Dealing Flop ** [ Ad ] board:[ Js 5d Ad]
+2012kenman bets for 60 Tournament chips
+AAAAallday calls [60 Tournament chips]
+Round 2 is over.
+** Dealing Turn ** [ 5c ] board:[ Js 5d Ad 5c]
+2012kenman checks
+AAAAallday bets for 120 Tournament chips
+2012kenman calls [120 Tournament chips]
+Round 3 is over.
+** Dealing River ** [ 9c ] board:[ Js 5d Ad 5c 9c]
+2012kenman bets for 60 Tournament chips
+AAAAallday calls [60 Tournament chips]
+Round 4 is over.
+2012kenman shows [ 4d 4h ] two pair, fives and fours
+Hand evaluation for 2012kenman (4d 4h 5d Ad 5c: two pair, fives and fours)
+AAAAallday doesn't show [ Kd 6d ]
+(AAAAallday has Kd 6d.)
+2012kenman wins main pot 690 Tournament chips with two pair, fives and fours, ace kicker.
+Seat 0: SMario (2810 Tournament chips) 
+Seat 1: 2012kenman (2625 Tournament chips) 
+Seat 2: AAAAallday (915 Tournament chips) 
+Seat 3: QwertySpark (760 Tournament chips) 
+Seat 4: AJax69 (890 Tournament chips) 
+Game #23841397-15 ends
+Game #23841397-16 starts
+Seat 0: SMario (2810 Tournament chips) 
+Seat 1: 2012kenman (2625 Tournament chips) 
+Seat 2: AAAAallday (915 Tournament chips) 
+Seat 3: QwertySpark (760 Tournament chips) 
+Seat 4: AJax69 (890 Tournament chips) 
+The button is at seat 3
+The button is moved to seat 4.
+SMario posts the small blind [30 Tournament chips]
+2012kenman posts the big blind [60 Tournament chips]
+SMario, at seat 0, is in this hand (absent) with 2780 Tournament chips.
+2012kenman, at seat 1, is in this hand with 2565 Tournament chips.
+AAAAallday, at seat 2, is in this hand with 915 Tournament chips.
+QwertySpark, at seat 3, is in this hand with 760 Tournament chips.
+AJax69, at seat 4, is in this hand with 890 Tournament chips.
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+SMario is dealt: **
+2012kenman is dealt: **
+AAAAallday is dealt: **
+
+AJax69 is dealt: **
+Dealt to SMario [ **** ]
+Dealt to 2012kenman [ **** ]
+Dealt to AAAAallday [ **** ]
+Dealt to QwertySpark [ Kd Qd ]
+Dealt to AJax69 [ **** ]
+AAAAallday raises [180 Tournament chips]
+QwertySpark re-raises [399 Tournament chips]
+AJax69 folds [399 Tournament chips]
+SMario folds [369 Tournament chips]
+2012kenman folds [339 Tournament chips]
+AAAAallday raises all-in [735 Tournament chips]
+QwertySpark calls all-in [361 Tournament chips]
+AAAAallday is returned 155 Tournament chips (uncalled).
+Tournament all-in showdown -- players show:
+AAAAallday shows [ Ad Kh ]
+QwertySpark shows [ Kd Qd ]
+Round 1 is over.
+** Dealing Flop ** [ 6c ] board:[ 6c]
+** Dealing Flop ** [ 9h ] board:[ 6c 9h]
+** Dealing Flop ** [ 5h ] board:[ 6c 9h 5h]
+        (no action in this round)
+Round 2 is over.
+** Dealing Turn ** [ 5d ] board:[ 6c 9h 5h 5d]
+        (no action in this round)
+Round 3 is over.
+** Dealing River ** [ 2h ] board:[ 6c 9h 5h 5d 2h]
+        (no action in this round)
+Round 4 is over.
+AAAAallday shows [ Ad Kh ] a pair of fives, ace/king kickers
+QwertySpark shows [ Kd Qd ] a pair of fives, king/queen kickers
+AAAAallday wins main pot 1610 Tournament chips with a pair of fives, ace/king kickers.
+Seat 0: SMario (2780 Tournament chips) 
+Seat 1: 2012kenman (2565 Tournament chips) 
+Seat 2: AAAAallday (1765 Tournament chips) 
+Seat 3: QwertySpark (0 Tournament chips) 
+Seat 4: AJax69 (890 Tournament chips) 
+Game #23841397-16 ends
+Player QwertySpark leaves the table with 0 Tournament chips
