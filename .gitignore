@@ -1,5 +1,5 @@
 instance/*
 logs/*
-.idea
+.idea/
 .venv
 __pycache__
