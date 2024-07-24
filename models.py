@@ -1,4 +1,5 @@
 from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy.sql import func
 
 db = SQLAlchemy()
 
@@ -59,6 +60,49 @@ class Player(db.Model):
             if action.round.hand:
                 hands.add(action.round.hand)
         return list(hands)
+
+    def recalculate_stats(self):
+        self.total_chips_won = sum(
+            action.amount for action in self.actions if action.action == "wins"
+        )
+        self.total_chips_lost = sum(
+            action.amount for action in self.actions if action.action == "loses"
+        )
+        self.total_hands_played = (
+            db.session.query(func.count(PlayerAction.id))
+            .filter(PlayerAction.player_id == self.id)
+            .scalar()
+        )
+        self.vpip_count = (
+            db.session.query(func.count(PlayerAction.id))
+            .filter(
+                PlayerAction.player_id == self.id,
+                PlayerAction.action.in_(["calls", "raises", "re-raises"]),
+            )
+            .scalar()
+        )
+        self.pfr_count = (
+            db.session.query(func.count(PlayerAction.id))
+            .filter(PlayerAction.player_id == self.id, PlayerAction.action == "raises")
+            .scalar()
+        )
+        self.uopfr_count = (
+            db.session.query(func.count(PlayerAction.id))
+            .filter(
+                PlayerAction.player_id == self.id,
+                PlayerAction.action == "raises",
+                PlayerAction.position == "UTG",
+            )
+            .scalar()
+        )
+        self.final_chip_count = (
+            self.chips_start + self.total_chips_won - self.total_chips_lost
+        )
+        if self.final_chip_count:
+            self.big_blinds_remaining = (
+                self.final_chip_count / 100
+            )  # Assuming 100 chips per big blind
+        db.session.commit()
 
 
 class PlayerAction(db.Model):

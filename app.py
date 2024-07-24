@@ -137,6 +137,20 @@ def player_details(player_id):
         return "An error occurred."
 
 
+@app.route("/player/<int:player_id>/recalculate_stats")
+def recalculate_stats(player_id):
+    try:
+        player = db.session.get(Player, player_id)
+        player.recalculate_stats()
+        logger.info(f"Recalculated stats for player {player.name}")
+        return jsonify(success=True)
+    except Exception as e:
+        logger.error(
+            f"Error recalculating stats for player_id: {player_id}. Error: {e}"
+        )
+        return jsonify(success=False, error=str(e))
+
+
 @app.route("/reset_db")
 def reset_db():
     try:

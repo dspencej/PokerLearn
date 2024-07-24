@@ -21,6 +21,7 @@
                 <p><strong>UOPFR:</strong> {{ player.uopfr_count }}</p>
                 <p><strong>Big Blinds Remaining:</strong> {{ player.big_blinds_remaining }}</p>
                 <a href="{{ url_for('index') }}" class="btn btn-primary">Back to Game List</a>
+                <button class="btn btn-warning" id="recalculate-stats">Update Stats</button>
             </div>
         </div>
         <div class="mt-4">
@@ -53,4 +54,17 @@
             </div>
         </div>
     </div>
+    <script>
+        document.getElementById("recalculate-stats").addEventListener("click", function() {
+            fetch("{{ url_for('recalculate_stats', player_id=player.id) }}")
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        location.reload();
+                    } else {
+                        alert("Error recalculating stats: " + data.error);
+                    }
+                });
+        });
+    </script>
 {% endblock %}
