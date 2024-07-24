@@ -6,7 +6,7 @@ from datetime import datetime
 from flask import Flask, jsonify, render_template
 from flask_paginate import Pagination, get_page_args
 
-from models import BoardCard, Game, Hand, PlayerAction, Round, db
+from models import BoardCard, Game, Hand, Player, PlayerAction, Round, db
 from parse_files import parse_files
 
 # Create the /logs directory if it doesn't exist
@@ -121,6 +121,19 @@ def hand_details(hand_id):
         )
     except Exception as e:
         logger.error(f"Error fetching hand details for hand_id: {hand_id}. Error: {e}")
+        return "An error occurred."
+
+
+@app.route("/player/<int:player_id>")
+def player_details(player_id):
+    try:
+        player = db.session.get(Player, player_id)
+        actions = PlayerAction.query.filter_by(player_id=player_id).all()
+        return render_template("player_details.html", player=player, actions=actions)
+    except Exception as e:
+        logger.error(
+            f"Error fetching player details for player_id: {player_id}. Error: {e}"
+        )
         return "An error occurred."
 
 
