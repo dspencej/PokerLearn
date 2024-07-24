@@ -6,7 +6,7 @@ from datetime import datetime
 from flask import Flask, jsonify, render_template
 from flask_paginate import Pagination, get_page_args
 
-from models import BoardCard, Game, Hand, PlayerAction, db
+from models import BoardCard, Game, Hand, PlayerAction, Round, db
 from parse_files import parse_files
 
 # Create the /logs directory if it doesn't exist
@@ -113,8 +113,9 @@ def game_details(game_id):
 def hand_details(hand_id):
     try:
         hand = db.session.get(Hand, hand_id)
-        actions = PlayerAction.query.filter_by(hand_id=hand_id).all()
-        board_cards = BoardCard.query.filter_by(hand_id=hand_id).all()
+        rounds = Round.query.filter_by(hand_id=hand_id).all()
+        actions = PlayerAction.query.join(Round).filter(Round.hand_id == hand_id).all()
+        board_cards = BoardCard.query.join(Round).filter(Round.hand_id == hand_id).all()
         return render_template(
             "hand_details.html", hand=hand, actions=actions, board_cards=board_cards
         )
