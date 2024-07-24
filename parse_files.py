@@ -1,8 +1,10 @@
-import os
 import logging
+import os
 from datetime import datetime
-from models import db, Game, Hand, Round, Player, PlayerAction, BoardCard
+
 from tqdm import tqdm
+
+from models import BoardCard, Game, Hand, Player, PlayerAction, Round, db
 
 # Create the /logs directory if it doesn't exist
 log_dir = "./logs"
@@ -93,6 +95,18 @@ def process_player_action_line(line, round_entry, game_number, hand):
         logger.debug(
             f"Added action {action} by player {player_name} for {amount} chips in round {round_entry.round_name} for hand {hand.hand_number} in game {game_number}"
         )
+
+        # Update player statistics
+        if action in ["calls", "raises", "re-raises"]:
+            player_record.vpip_count += 1  # Increment VPIP count
+            if round_entry.round_name == "Pre-Flop":
+                player_record.pfr_count += (
+                    1 if action in ["raises", "re-raises"] else 0
+                )  # Increment PFR count
+                player_record.uopfr_count += (
+                    1 if action == "raises" else 0
+                )  # Increment UOPFR count
+
     except Exception as e:
         logger.error(f"Error processing player action line: {line}. Error: {e}")
 
@@ -221,7 +235,7 @@ def parse_lines(lines, game_number, game_id):
                 process_seat_line(line, hand, game_number, round_entry)
             elif hand_started and any(
                 action in line
-                for action in ["posts", "calls", "raises", "re-raises", "folds"]
+                for action in ["posts", "calls", "raises", "re-raises", "folds", "ante"]
             ):
                 process_player_action_line(line, round_entry, game_number, hand)
             elif hand_started and "shows" in line:
