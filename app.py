@@ -90,7 +90,7 @@ def index():
 @app.route("/game/<int:game_id>")
 def game_details(game_id):
     try:
-        game = Game.query.get(game_id)
+        game = db.session.get(Game, game_id)
         page, per_page, offset = get_page_args(
             page_parameter="page", per_page_parameter="per_page"
         )
@@ -112,7 +112,7 @@ def game_details(game_id):
 @app.route("/hand/<int:hand_id>")
 def hand_details(hand_id):
     try:
-        hand = Hand.query.get(hand_id)
+        hand = db.session.get(Hand, hand_id)
         actions = PlayerAction.query.filter_by(hand_id=hand_id).all()
         board_cards = BoardCard.query.filter_by(hand_id=hand_id).all()
         return render_template(
