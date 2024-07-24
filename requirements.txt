@@ -10,3 +10,4 @@ itsdangerous
 click
 gunicorn
 tqdm
+Flask-Paginate
