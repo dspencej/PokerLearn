@@ -1,0 +1,56 @@
+{% extends "layout.html" %}
+
+{% block title %}Player Details{% endblock %}
+
+{% block content %}
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header">
+                <h2>{{ player.name }}</h2>
+            </div>
+            <div class="card-body">
+                <p><strong>Seat Number:</strong> {{ player.seat_number }}</p>
+                <p><strong>Starting Chips:</strong> {{ player.chips_start }}</p>
+                <p><strong>Total Chips Won:</strong> {{ player.total_chips_won }}</p>
+                <p><strong>Total Chips Lost:</strong> {{ player.total_chips_lost }}</p>
+                <p><strong>Final Chip Count:</strong> {{ player.final_chip_count }}</p>
+                <p><strong>Active:</strong> {{ player.is_active }}</p>
+                <p><strong>Total Hands Played:</strong> {{ player.total_hands_played }}</p>
+                <p><strong>VPIP:</strong> {{ player.vpip_count }}</p>
+                <p><strong>PFR:</strong> {{ player.pfr_count }}</p>
+                <p><strong>UOPFR:</strong> {{ player.uopfr_count }}</p>
+                <p><strong>Big Blinds Remaining:</strong> {{ player.big_blinds_remaining }}</p>
+                <a href="{{ url_for('index') }}" class="btn btn-primary">Back to Game List</a>
+            </div>
+        </div>
+        <div class="mt-4">
+            <h3>Player Actions</h3>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Hand Number</th>
+                            <th>Action</th>
+                            <th>Amount</th>
+                            <th>Round</th>
+                            <th>Position</th>
+                            <th>All-In</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for action in actions %}
+                            <tr>
+                                <td>{{ action.round.hand.hand_number }}</td>
+                                <td>{{ action.action }}</td>
+                                <td>{{ action.amount }}</td>
+                                <td>{{ action.round.round_name }}</td>
+                                <td>{{ action.position }}</td>
+                                <td>{{ action.is_all_in }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}
