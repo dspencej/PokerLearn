@@ -3,49 +3,48 @@
 {% block title %}Game Details{% endblock %}
 
 {% block content %}
-    <div class="container">
-        <div class="d-flex justify-content-between align-items-center mb-3">
-            <h1>Tournament Details</h1>
-            <a href="{{ url_for('index') }}" class="btn btn-primary"><i class="fas fa-arrow-left"></i> Back to Game List</a>
-        </div>
-        <div class="card mb-3">
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header">
+                <h2>Game Number: {{ game.game_number }}</h2>
+            </div>
             <div class="card-body">
-                <h2 class="card-title">Game Number: {{ game.game_number }}</h2>
-                <p class="card-text"><strong>Date:</strong> {{ game.date }}</p>
-                <p class="card-text"><strong>Time:</strong> {{ game.time }}</p>
+                <p><strong>Date:</strong> {{ game.date }}</p>
+                <p><strong>Time:</strong> {{ game.time }}</p>
+                <a href="{{ url_for('index') }}" class="btn btn-primary">Back to Game List</a>
             </div>
         </div>
-        <h3>Hands</h3>
-        <table class="table table-striped table-hover">
-            <thead class="thead-dark">
-                <tr>
-                    <th>Hand Number</th>
-                    <th>Rounds</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for hand in hands %}
-                    <tr style="height: 60px;">
-                        <td>{{ hand.hand_number }}</td>
-                        <td>
-                            {% for round in hand.rounds %}
-                                <span class="badge badge-secondary">{{ round.round_name }}</span>
-                            {% endfor %}
-                        </td>
-                        <td>
-                            <a href="{{ url_for('hand_details', hand_id=hand.id) }}" class="btn btn-info btn-sm">
-                                <i class="fas fa-eye"></i> View Details
-                            </a>
-                        </td>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        {% if pagination.total > pagination.per_page %}
-            <div class="d-flex justify-content-center">
+        <div class="mt-4">
+            <h3>Hands</h3>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Hand Number</th>
+                            <th>Rounds</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for hand in hands %}
+                            <tr>
+                                <td>{{ hand.hand_number }}</td>
+                                <td>
+                                    {% for round in hand.rounds %}
+                                        <span class="badge bg-secondary">{{ round.round_name }}</span>
+                                    {% endfor %}
+                                </td>
+                                <td>
+                                    <a href="{{ url_for('hand_details', hand_id=hand.id) }}" class="btn btn-info">View Details</a>
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="d-flex justify-content-center mt-4">
                 {{ pagination.links }}
             </div>
-        {% endif %}
+        </div>
     </div>
 {% endblock %}

@@ -3,38 +3,41 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-    <div class="container">
-        <h1>Poker Games</h1>
-        <table class="table table-striped table-hover">
-            <thead class="thead-dark">
-                <tr>
-                    <th>ID</th>
-                    <th>Game Number</th>
-                    <th>Date</th>
-                    <th>Time</th>
-                    <th>Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for game in games %}
+    <div class="container mt-5">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>Poker Games</h1>
+            <a href="{{ url_for('reset_db') }}" class="btn btn-danger">Reset Database</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover table-striped">
+                <thead class="table-dark">
                     <tr>
-                        <td>{{ game.id }}</td>
-                        <td>{{ game.game_number }}</td>
-                        <td>{{ game.date }}</td>
-                        <td>{{ game.time }}</td>
-                        <td>
-                            <a href="{{ url_for('game_details', game_id=game.id) }}" class="btn btn-info">
-                                <i class="fas fa-eye"></i> View Hands
-                            </a>
-                        </td>
+                        <th>ID</th>
+                        <th>Game Number</th>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Number of Players</th>
+                        <th>Actions</th>
                     </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        {% if pagination.total > pagination.per_page %}
-            <div class="d-flex justify-content-center">
-                {{ pagination.links }}
-            </div>
-        {% endif %}
+                </thead>
+                <tbody>
+                    {% for game in games %}
+                        <tr>
+                            <td>{{ game.id }}</td>
+                            <td>{{ game.game_number }}</td>
+                            <td>{{ game.date }}</td>
+                            <td>{{ game.time }}</td>
+                            <td>{{ game.num_players }}</td>
+                            <td>
+                                <a href="{{ url_for('game_details', game_id=game.id) }}" class="btn btn-info">View Hands</a>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="d-flex justify-content-center mt-4">
+            {{ pagination.links }}
+        </div>
     </div>
 {% endblock %}

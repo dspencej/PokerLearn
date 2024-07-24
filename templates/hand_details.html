@@ -3,55 +3,62 @@
 {% block title %}Hand Details{% endblock %}
 
 {% block content %}
-    <div class="container">
-        <div class="d-flex justify-content-between align-items-center mb-3">
-            <h1>Hand Details</h1>
-            <a href="{{ url_for('game_details', game_id=hand.game_id) }}" class="btn btn-primary"><i class="fas fa-arrow-left"></i> Back to Game Details</a>
-        </div>
-        <div class="card mb-3">
+    <div class="container mt-5">
+        <div class="card">
+            <div class="card-header">
+                <h2>Hand Number: {{ hand.hand_number }}</h2>
+            </div>
             <div class="card-body">
-                <h2 class="card-title">Hand Number: {{ hand.hand_number }}</h2>
+                <a href="{{ url_for('game_details', game_id=hand.game_id) }}" class="btn btn-primary">Back to Game Details</a>
             </div>
         </div>
-        <h3>Player Actions</h3>
-        <table class="table table-striped table-hover">
-            <thead class="thead-dark">
-                <tr>
-                    <th>Player</th>
-                    <th>Action</th>
-                    <th>Amount</th>
-                    <th>Round</th>
-                    <th>Cards</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for action in actions %}
-                    <tr>
-                        <td>{{ action.player.name }}</td>
-                        <td>{{ action.action }}</td>
-                        <td>{{ action.amount }}</td>
-                        <td>{{ action.round.round_name }}</td>
-                        <td>{{ action.player.cards }}</td> <!-- Display player cards -->
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        <h3>Board Cards</h3>
-        <table class="table table-striped table-hover">
-            <thead class="thead-dark">
-                <tr>
-                    <th>Round</th>
-                    <th>Card</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for card in board_cards %}
-                    <tr>
-                        <td>{{ card.round.round_name }}</td>
-                        <td>{{ card.card }}</td>
-                    </tr>
-                {% endfor %}
-            </tbody>
-        </table>
+        <div class="mt-4">
+            <h3>Player Actions</h3>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Player</th>
+                            <th>Action</th>
+                            <th>Amount</th>
+                            <th>Round</th>
+                            <th>Position</th>
+                            <th>All-In</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for action in actions %}
+                            <tr>
+                                <td><a href="{{ url_for('player_details', player_id=action.player_id) }}">{{ action.player.name }}</a></td>
+                                <td>{{ action.action }}</td>
+                                <td>{{ action.amount }}</td>
+                                <td>{{ action.round.round_name }}</td>
+                                <td>{{ action.position }}</td>
+                                <td>{{ action.is_all_in }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <h3 class="mt-4">Board Cards</h3>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Round</th>
+                            <th>Card</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for card in board_cards %}
+                            <tr>
+                                <td>{{ card.round.round_name }}</td>
+                                <td>{{ card.card }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
 {% endblock %}
