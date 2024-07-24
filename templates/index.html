@@ -4,8 +4,6 @@
 
 {% block content %}
     <h1>Poker Games</h1>
-    <button class="btn btn-danger" onclick="resetDatabase()">Reset Database and Reload from Disk</button>
-    <div id="loadingMessage" style="display: none;">Resetting database, please wait...</div>
     <table class="table">
         <thead>
             <tr>
@@ -30,6 +28,8 @@
             {% endfor %}
         </tbody>
     </table>
+    <button class="btn btn-danger" onclick="resetDatabase()">Reload Hands from Disk</button>
+    <div id="loadingMessage" style="display: none;">Resetting database, please wait...</div>
 
     <script>
         function resetDatabase() {
