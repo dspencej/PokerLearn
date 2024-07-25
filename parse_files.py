@@ -36,7 +36,9 @@ def extract_amount(text):
         if "[" in text and "]" in text:
             return int(text.split("[")[1].split(" ")[0].replace(",", ""))
         elif "posted ante" in text:
-            return int(text.rsplit("ante of")[1].rsplit("Tournament")[0].replace(",", ""))
+            return int(
+                text.rsplit("ante of")[1].rsplit("Tournament")[0].replace(",", "")
+            )
         return 0  # No amount to extract
     except Exception as e:
         logger.error(f"Error extracting amount from text: {text}. Error: {e}")
@@ -63,7 +65,7 @@ def extract_blinds(line):
 
 
 def process_game_start_line(line, game_id):
-    hand_number = line.split("#")[1].split("-")[1].strip().split(" ")[0]
+    hand_number = line.split("#")[1].split("starts")[0].strip()
     hand = Hand(game_id=game_id, hand_number=hand_number)
     db.session.add(hand)
     db.session.commit()
@@ -86,7 +88,14 @@ def create_new_round(hand_id, round_number):
 
 def process_player_action_line(line, round_entry, game_number, hand):
     try:
-        action_keywords = ["re-raises", "posts", "calls", "raises", "folds", "posted ante"]
+        action_keywords = [
+            "re-raises",
+            "posts",
+            "calls",
+            "raises",
+            "folds",
+            "posted ante",
+        ]
         player_name, action = extract_player_name_and_action(line, action_keywords)
         if not player_name or not action:
             raise ValueError("No valid action found in line")
@@ -96,11 +105,15 @@ def process_player_action_line(line, round_entry, game_number, hand):
         player_record = Player.query.filter_by(name=player_name).first()
         if not player_record:
             # Add player dynamically if not found
-            player_record = Player(name=player_name, game_id=hand.game_id, seat_number=-1, chips_start=0)
+            player_record = Player(
+                name=player_name, game_id=hand.game_id, seat_number=-1, chips_start=0
+            )
             db.session.add(player_record)
             db.session.commit()
             if player_record.id is None:
-                raise ValueError(f"Player creation failed for {player_name}; id is None")
+                raise ValueError(
+                    f"Player creation failed for {player_name}; id is None"
+                )
             logger.debug(f"Created new player entry {player_name} dynamically")
 
         player_action = PlayerAction(
@@ -166,7 +179,9 @@ def process_seat_line(line, hand, game_number, round_entry):
 
         player_record = Player.query.filter_by(name=player).first()
         if not player_record:
-            player_record = Player(name=player, game_id=hand.game_id, seat_number=seat, chips_start=chips)
+            player_record = Player(
+                name=player, game_id=hand.game_id, seat_number=seat, chips_start=chips
+            )
             db.session.add(player_record)
             db.session.commit()
             if player_record.id is None:
@@ -264,7 +279,14 @@ def parse_lines(lines, game_number, game_id):
                 process_seat_line(line, hand, game_number, round_entry)
             elif hand_started and any(
                 action in line
-                for action in ["re-raises", "posts", "calls", "raises", "folds", "posted ante"]
+                for action in [
+                    "re-raises",
+                    "posts",
+                    "calls",
+                    "raises",
+                    "folds",
+                    "posted ante",
+                ]
             ):
                 process_player_action_line(line, round_entry, game_number, hand)
             elif hand_started and "shows" in line:
