@@ -151,6 +151,44 @@ def recalculate_stats(player_id):
         return jsonify(success=False, error=str(e))
 
 
+@app.route("/walkthrough/<int:game_id>/<int:hand_id>")
+def walkthrough(game_id, hand_id):
+    try:
+        game = db.session.get(Game, game_id)
+        hand = db.session.get(Hand, hand_id)
+        actions = (
+            PlayerAction.query.filter(PlayerAction.round.has(hand_id=hand_id))
+            .order_by(PlayerAction.id)
+            .all()
+        )
+        # Serialize actions to a JSON-serializable format
+        serialized_actions = []
+        for action in actions:
+            serialized_actions.append(
+                {
+                    "id": action.id,
+                    "player": {
+                        "name": action.player.name,
+                        "seat_number": action.player.seat_number,
+                    },
+                    "round": {"round_name": action.round.round_name},
+                    "action": action.action,
+                    "amount": action.amount,
+                    "position": action.position,
+                    "is_all_in": action.is_all_in,
+                }
+            )
+
+        return render_template(
+            "walkthrough.html", game=game, hand=hand, actions=serialized_actions
+        )
+    except Exception as e:
+        logger.error(
+            f"Error fetching walkthrough details for game_id: {game_id}, hand_id: {hand_id}. Error: {e}"
+        )
+        return "An error occurred."
+
+
 @app.route("/reset_db")
 def reset_db():
     try:

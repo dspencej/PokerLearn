@@ -36,6 +36,7 @@
                                 </td>
                                 <td>
                                     <a href="{{ url_for('hand_details', hand_id=hand.id) }}" class="btn btn-info">View Details</a>
+                                    <a href="{{ url_for('walkthrough', game_id=game.id, hand_id=hand.id) }}" class="btn btn-secondary">Walkthrough</a>
                                 </td>
                             </tr>
                         {% endfor %}

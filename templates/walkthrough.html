@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand Walkthrough</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Game: {{ game.game_number }} - Hand: {{ hand.hand_number }}</h1>
+        <div class="d-flex justify-content-between align-items-center">
+            <div>
+                <p>Date: {{ game.date }}</p>
+                <p>Time: {{ game.time }}</p>
+            </div>
+            <div>
+                <a href="{{ url_for('game_details', game_id=game.id) }}" class="btn btn-secondary">Return to Game</a>
+                <a href="{{ url_for('hand_details', hand_id=hand.id) }}" class="btn btn-secondary">Return to Hand</a>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-9">
+                <div id="poker-table">
+                    <div id="dealer" class="seat dealer">Dealer</div>
+                    <div id="seat1" class="seat">Seat 1</div>
+                    <div id="seat2" class="seat">Seat 2</div>
+                    <div id="seat3" class="seat">Seat 3</div>
+                    <div id="seat4" class="seat">Seat 4</div>
+                    <div id="seat5" class="seat">Seat 5</div>
+                    <div id="seat6" class="seat">Seat 6</div>
+                    <div id="seat7" class="seat">Seat 7</div>
+                    <div id="seat8" class="seat">Seat 8</div>
+                    <div id="seat9" class="seat">Seat 9</div>
+                    <div id="board-cards"></div>
+                </div>
+                <div class="control-buttons">
+                    <button class="btn btn-primary" id="step-backward">Step Backward</button>
+                    <button class="btn btn-primary" id="step-forward">Step Forward</button>
+                    <button class="btn btn-danger" id="reset-hand">Reset Hand</button>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div id="actions-box">
+                    {% for action in actions %}
+                        <div class="action" data-action-id="{{ loop.index0 }}">
+                            {{ action.round.round_name }}: {{ action.player.name }} {{ action.action }} {{ action.amount }} chips
+                        </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            const actions = {{ actions | safe }};
+            let currentActionIndex = 0;
+
+            function updateTable(actionIndex) {
+                const action = actions[actionIndex];
+                // Clear previous seat information
+                $('.seat').not('.dealer').text('');
+
+                // Update the table, seats, and board cards based on the action data
+                if (action.player.seat_number) {
+                    $('#seat' + action.player.seat_number).text(`${action.player.name}: ${action.action} ${action.amount} chips`);
+                }
+
+                // Update board cards if they exist in the action data
+                if (action.board_cards) {
+                    $('#board-cards').text(action.board_cards.join(' '));
+                } else {
+                    $('#board-cards').text('');
+                }
+            }
+
+            function resetHand() {
+                // Clear all seat and board card information
+                $('.seat').not('.dealer').text('');
+                $('#board-cards').text('');
+                currentActionIndex = 0;
+                updateTable(currentActionIndex);
+            }
+
+            $('#step-backward').click(function() {
+                if (currentActionIndex > 0) {
+                    currentActionIndex--;
+                    updateTable(currentActionIndex);
+                }
+            });
+
+            $('#step-forward').click(function() {
+                if (currentActionIndex < actions.length - 1) {
+                    currentActionIndex++;
+                    updateTable(currentActionIndex);
+                }
+            });
+
+            $('#reset-hand').click(function() {
+                resetHand();
+            });
+
+            $('.action').click(function() {
+                currentActionIndex = $(this).data('action-id');
+                updateTable(currentActionIndex);
+            });
+
+            updateTable(currentActionIndex);
+        });
+    </script>
+</body>
+</html>
