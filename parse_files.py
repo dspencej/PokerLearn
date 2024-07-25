@@ -6,7 +6,6 @@ from tqdm import tqdm
 
 from models import BoardCard, Game, Hand, Player, PlayerAction, Round, db
 
-# Create the /logs directory if it doesn't exist
 log_dir = "./logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
@@ -16,7 +15,7 @@ log_filename = datetime.now().strftime(f"{log_dir}/%d%m%y_%H%M%S.txt")
 file_handler = logging.FileHandler(log_filename)
 file_handler.setLevel(logging.DEBUG)
 console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.ERROR)  # Only print ERROR messages to console
+console_handler.setLevel(logging.ERROR)
 
 # Create a logging format
 formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
@@ -36,6 +35,8 @@ def extract_amount(text):
     try:
         if "[" in text and "]" in text:
             return int(text.split("[")[1].split(" ")[0].replace(",", ""))
+        elif "posted ante" in text:
+            return int(text.rsplit("ante of")[1].rsplit("Tournament")[0].replace(",", ""))
         return 0  # No amount to extract
     except Exception as e:
         logger.error(f"Error extracting amount from text: {text}. Error: {e}")
@@ -50,11 +51,24 @@ def extract_player_name_and_action(line, action_keywords):
     return None, None
 
 
+def extract_blinds(line):
+    try:
+        parts = line.split(" ")
+        sb = int(parts[parts.index("Small") + 2])
+        bb = int(parts[parts.index("Big") + 2])
+        return sb, bb
+    except Exception as e:
+        logger.error(f"Error extracting blinds from text: {line}. Error: {e}")
+        return None, None
+
+
 def process_game_start_line(line, game_id):
     hand_number = line.split("#")[1].split("-")[1].strip().split(" ")[0]
     hand = Hand(game_id=game_id, hand_number=hand_number)
     db.session.add(hand)
     db.session.commit()
+    if hand.id is None:
+        raise ValueError("Hand creation failed; id is None")
     logger.debug(f"Created new hand entry {hand_number} for game {game_id}")
     return hand
 
@@ -64,13 +78,15 @@ def create_new_round(hand_id, round_number):
     new_round = Round(hand_id=hand_id, round_number=round_number, round_name=round_name)
     db.session.add(new_round)
     db.session.commit()
+    if new_round.id is None:
+        raise ValueError("Round creation failed; id is None")
     logger.debug(f"Created new round entry {round_name} for hand {hand_id}")
     return new_round
 
 
 def process_player_action_line(line, round_entry, game_number, hand):
     try:
-        action_keywords = ["re-raises", "posts", "calls", "raises", "folds", "ante"]
+        action_keywords = ["re-raises", "posts", "calls", "raises", "folds", "posted ante"]
         player_name, action = extract_player_name_and_action(line, action_keywords)
         if not player_name or not action:
             raise ValueError("No valid action found in line")
@@ -80,9 +96,11 @@ def process_player_action_line(line, round_entry, game_number, hand):
         player_record = Player.query.filter_by(name=player_name).first()
         if not player_record:
             # Add player dynamically if not found
-            player_record = Player(name=player_name, seat_number=-1, chips_start=0)
+            player_record = Player(name=player_name, game_id=hand.game_id, seat_number=-1, chips_start=0)
             db.session.add(player_record)
             db.session.commit()
+            if player_record.id is None:
+                raise ValueError(f"Player creation failed for {player_name}; id is None")
             logger.debug(f"Created new player entry {player_name} dynamically")
 
         player_action = PlayerAction(
@@ -97,11 +115,11 @@ def process_player_action_line(line, round_entry, game_number, hand):
         )
 
         # Update player statistics
-        if action in ["calls", "raises", "re-raises"]:
+        if action in ["re-raises", "calls", "raises"]:
             player_record.vpip_count += 1  # Increment VPIP count
             if round_entry.round_name == "Pre-Flop":
                 player_record.pfr_count += (
-                    1 if action in ["raises", "re-raises"] else 0
+                    1 if action in ["re-raises", "raises"] else 0
                 )  # Increment PFR count
                 player_record.uopfr_count += (
                     1 if action == "raises" else 0
@@ -148,9 +166,11 @@ def process_seat_line(line, hand, game_number, round_entry):
 
         player_record = Player.query.filter_by(name=player).first()
         if not player_record:
-            player_record = Player(name=player, seat_number=seat, chips_start=chips)
+            player_record = Player(name=player, game_id=hand.game_id, seat_number=seat, chips_start=chips)
             db.session.add(player_record)
             db.session.commit()
+            if player_record.id is None:
+                raise ValueError(f"Player creation failed for {player}; id is None")
             logger.debug(
                 f"Created new player entry {player} at seat {seat} with {chips} chips in hand {hand.hand_number} for game {game_number}"
             )
@@ -215,6 +235,15 @@ def parse_lines(lines, game_number, game_id):
                     )
                 hand = process_game_start_line(line, game_id)
                 round_entry = create_new_round(hand.id, round_number)
+            elif "blinds are" in line:
+                small_blind, big_blind = extract_blinds(line)
+                if hand:
+                    hand.small_blind = small_blind
+                    hand.big_blind_value = big_blind
+                    db.session.commit()
+                    logger.debug(
+                        f"Set blinds for hand {hand.hand_number}: small_blind={small_blind}, big_blind={big_blind}"
+                    )
             elif line.startswith("Game #") and "ends" in line:
                 db.session.commit()
                 logger.debug(
@@ -235,7 +264,7 @@ def parse_lines(lines, game_number, game_id):
                 process_seat_line(line, hand, game_number, round_entry)
             elif hand_started and any(
                 action in line
-                for action in ["posts", "calls", "raises", "re-raises", "folds", "ante"]
+                for action in ["re-raises", "posts", "calls", "raises", "folds", "posted ante"]
             ):
                 process_player_action_line(line, round_entry, game_number, hand)
             elif hand_started and "shows" in line:
@@ -282,5 +311,6 @@ def parse_files(data_folder):
                     )
 
                 parse_lines(lines[1:], game_number, game.id)
+                game.update_num_players()
     except Exception as e:
         logger.error(f"Error processing files in folder: {data_folder}. Error: {e}")

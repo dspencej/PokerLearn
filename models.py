@@ -1,4 +1,5 @@
 from flask_sqlalchemy import SQLAlchemy
+from sqlalchemy import distinct
 from sqlalchemy.sql import func
 
 db = SQLAlchemy()
@@ -10,7 +11,18 @@ class Game(db.Model):
     date = db.Column(db.Date, nullable=False)
     time = db.Column(db.Time, nullable=False)
     hands = db.relationship("Hand", backref="game", lazy=True)
+    players = db.relationship("Player", backref="game", lazy=True)
     num_players = db.Column(db.Integer)
+
+    def update_num_players(self):
+        self.num_players = (
+            db.session.query(func.count(distinct(Player.id)))
+            .join(PlayerAction, Player.id == PlayerAction.player_id)
+            .join(Hand, Hand.id == PlayerAction.round_id)
+            .filter(Hand.game_id == self.id)
+            .scalar()
+        )
+        db.session.commit()
 
 
 class Hand(db.Model):
@@ -40,6 +52,7 @@ class Round(db.Model):
 class Player(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(100), unique=True, nullable=False)
+    game_id = db.Column(db.Integer, db.ForeignKey("game.id"), nullable=False)
     seat_number = db.Column(db.Integer)
     chips_start = db.Column(db.Integer)
     total_chips_won = db.Column(db.Integer, default=0)
