@@ -2,9 +2,12 @@ import logging
 import os
 from datetime import datetime
 
+from sqlalchemy import inspect
+from sqlalchemy.orm import Session
 from tqdm import tqdm
 
-from models import BoardCard, Game, Hand, Player, PlayerAction, Round, db
+from database import Base, SessionLocal, engine  # Ensure Base is imported
+from models import BoardCard, Game, Hand, Player, PlayerAction, Round
 
 log_dir = "./logs"
 if not os.path.exists(log_dir):
@@ -64,29 +67,31 @@ def extract_blinds(line):
         return None, None
 
 
-def process_game_start_line(line, game_id):
+def process_game_start_line(line, game_id, db: Session):
     hand_number = line.split("#")[1].split("starts")[0].strip()
     hand = Hand(game_id=game_id, hand_number=hand_number)
-    db.session.add(hand)
-    db.session.commit()
+    db.add(hand)
+    db.commit()
+    db.refresh(hand)
     if hand.id is None:
         raise ValueError("Hand creation failed; id is None")
     logger.debug(f"Created new hand entry {hand_number} for game {game_id}")
     return hand
 
 
-def create_new_round(hand_id, round_number):
+def create_new_round(hand_id, round_number, db: Session):
     round_name = ROUND_NAMES.get(round_number, f"Round {round_number}")
     new_round = Round(hand_id=hand_id, round_number=round_number, round_name=round_name)
-    db.session.add(new_round)
-    db.session.commit()
+    db.add(new_round)
+    db.commit()
+    db.refresh(new_round)
     if new_round.id is None:
         raise ValueError("Round creation failed; id is None")
     logger.debug(f"Created new round entry {round_name} for hand {hand_id}")
     return new_round
 
 
-def process_player_action_line(line, round_entry, game_number, hand):
+def process_player_action_line(line, round_entry, game_number, hand, db: Session):
     try:
         action_keywords = [
             "re-raises",
@@ -102,14 +107,15 @@ def process_player_action_line(line, round_entry, game_number, hand):
 
         amount = extract_amount(line)
 
-        player_record = Player.query.filter_by(name=player_name).first()
+        player_record = db.query(Player).filter_by(name=player_name).first()
         if not player_record:
             # Add player dynamically if not found
             player_record = Player(
                 name=player_name, game_id=hand.game_id, seat_number=-1, chips_start=0
             )
-            db.session.add(player_record)
-            db.session.commit()
+            db.add(player_record)
+            db.commit()
+            db.refresh(player_record)
             if player_record.id is None:
                 raise ValueError(
                     f"Player creation failed for {player_name}; id is None"
@@ -122,7 +128,7 @@ def process_player_action_line(line, round_entry, game_number, hand):
             action=action,
             amount=amount,
         )
-        db.session.add(player_action)
+        db.add(player_action)
         logger.debug(
             f"Added action {action} by player {player_name} for {amount} chips in round {round_entry.round_name} for hand {hand.hand_number} in game {game_number}"
         )
@@ -142,13 +148,13 @@ def process_player_action_line(line, round_entry, game_number, hand):
         logger.error(f"Error processing player action line: {line}. Error: {e}")
 
 
-def process_show_action_line(line, round_entry, game_number, hand):
+def process_show_action_line(line, round_entry, game_number, hand, db: Session):
     try:
         action = "shows"
         parts = line.split("shows")
         player_name = parts[0].strip()
         amount = 0  # No amount for show action
-        player_record = Player.query.filter_by(name=player_name).first()
+        player_record = db.query(Player).filter_by(name=player_name).first()
         if player_record:
             player_action = PlayerAction(
                 round_id=round_entry.id,
@@ -156,7 +162,7 @@ def process_show_action_line(line, round_entry, game_number, hand):
                 action=action,
                 amount=amount,
             )
-            db.session.add(player_action)
+            db.add(player_action)
             logger.debug(
                 f"Player {player_name} shows cards in round {round_entry.round_name} for hand {hand.hand_number} in game {game_number}"
             )
@@ -168,7 +174,7 @@ def process_show_action_line(line, round_entry, game_number, hand):
         logger.error(f"Error processing show action line: {line}. Error: {e}")
 
 
-def process_seat_line(line, hand, game_number, round_entry):
+def process_seat_line(line, hand, game_number, round_entry, db: Session):
     try:
         parts = line.split(": ")
         seat_info = parts[0].split(" ")
@@ -177,13 +183,14 @@ def process_seat_line(line, hand, game_number, round_entry):
         player = player_info[0].strip()
         chips = int(player_info[1].split(" ")[0].replace(",", ""))
 
-        player_record = Player.query.filter_by(name=player).first()
+        player_record = db.query(Player).filter_by(name=player).first()
         if not player_record:
             player_record = Player(
                 name=player, game_id=hand.game_id, seat_number=seat, chips_start=chips
             )
-            db.session.add(player_record)
-            db.session.commit()
+            db.add(player_record)
+            db.commit()
+            db.refresh(player_record)
             if player_record.id is None:
                 raise ValueError(f"Player creation failed for {player}; id is None")
             logger.debug(
@@ -195,7 +202,7 @@ def process_seat_line(line, hand, game_number, round_entry):
             action="seat",
             amount=chips,
         )
-        db.session.add(player_action)
+        db.add(player_action)
         logger.debug(
             f"Added seat action for player {player} with {chips} chips in round {round_entry.round_name} for hand {hand.hand_number} in game {game_number}"
         )
@@ -203,19 +210,19 @@ def process_seat_line(line, hand, game_number, round_entry):
         logger.error(f"Error processing seat line: {line}. Error: {e}")
 
 
-def process_dealing_line(line, round_entry, game_number, hand):
+def process_dealing_line(line, round_entry, game_number, hand, db: Session):
     card = line.split("[")[1].split("]")[0]
     board_card = BoardCard(round_id=round_entry.id, card=card)
-    db.session.add(board_card)
+    db.add(board_card)
     logger.debug(
         f"Dealt card {card} for round {round_entry.round_name} in hand {hand.hand_number} for game {game_number}"
     )
 
 
-def process_player_leaves_line(line):
+def process_player_leaves_line(line, db: Session):
     parts = line.split(" ")
     player_name = " ".join(parts[1 : parts.index("leaves")])
-    player_record = Player.query.filter_by(name=player_name).first()
+    player_record = db.query(Player).filter_by(name=player_name).first()
     if player_record:
         logger.debug(
             f"Player {player_name} leaves the table with {player_record.chips_start} chips"
@@ -226,7 +233,7 @@ def process_player_leaves_line(line):
         )
 
 
-def parse_lines(lines, game_number, game_id):
+def parse_lines(lines, game_number, game_id, db: Session):
     hand = None
     round_entry = None
     game_started = False
@@ -244,23 +251,23 @@ def parse_lines(lines, game_number, game_id):
         try:
             if line.startswith("Game #") and "starts" in line:
                 if hand:
-                    db.session.commit()
+                    db.commit()
                     logger.debug(
                         f"Committed hand {hand.hand_number} for game {game_number}"
                     )
-                hand = process_game_start_line(line, game_id)
-                round_entry = create_new_round(hand.id, round_number)
+                hand = process_game_start_line(line, game_id, db)
+                round_entry = create_new_round(hand.id, round_number, db)
             elif "blinds are" in line:
                 small_blind, big_blind = extract_blinds(line)
                 if hand:
                     hand.small_blind = small_blind
                     hand.big_blind_value = big_blind
-                    db.session.commit()
+                    db.commit()
                     logger.debug(
                         f"Set blinds for hand {hand.hand_number}: small_blind={small_blind}, big_blind={big_blind}"
                     )
             elif line.startswith("Game #") and "ends" in line:
-                db.session.commit()
+                db.commit()
                 logger.debug(
                     f"Committed hand {hand.hand_number} for game {game_number}"
                 )
@@ -269,14 +276,14 @@ def parse_lines(lines, game_number, game_id):
                 round_number = 1  # Reset round number for the next hand
             elif hand_started and line.startswith("Round") and "is over" in line:
                 round_number += 1
-                round_entry = create_new_round(hand.id, round_number)
+                round_entry = create_new_round(hand.id, round_number, db)
                 logger.debug(
                     f"Round {round_number} is over, created new round entry for hand {hand.hand_number} in game {game_number}"
                 )
             elif hand_started and "** Dealing" in line:
-                process_dealing_line(line, round_entry, game_number, hand)
+                process_dealing_line(line, round_entry, game_number, hand, db)
             elif hand_started and line.startswith("Seat"):
-                process_seat_line(line, hand, game_number, round_entry)
+                process_seat_line(line, hand, game_number, round_entry, db)
             elif hand_started and any(
                 action in line
                 for action in [
@@ -288,21 +295,27 @@ def parse_lines(lines, game_number, game_id):
                     "posted ante",
                 ]
             ):
-                process_player_action_line(line, round_entry, game_number, hand)
+                process_player_action_line(line, round_entry, game_number, hand, db)
             elif hand_started and "shows" in line:
-                process_show_action_line(line, round_entry, game_number, hand)
+                process_show_action_line(line, round_entry, game_number, hand, db)
             elif line.startswith("Player") and "leaves the table" in line:
-                process_player_leaves_line(line)
+                process_player_leaves_line(line, db)
         except Exception as e:
             logger.error(f"Error processing line: {line}. Error: {e}")
-            db.session.rollback()  # Rollback the session to handle subsequent lines correctly
+            db.rollback()  # Rollback the session to handle subsequent lines correctly
     if hand:
-        db.session.commit()
+        db.commit()
         logger.debug(f"Committed hand {hand.hand_number} for game {game_number}")
 
 
 def parse_files(data_folder):
     try:
+        # Ensure database schema is created
+        inspector = inspect(engine)
+        if not inspector.has_table("games"):
+            Base.metadata.create_all(bind=engine)
+            logger.debug("Created database schema inside parse_files.")
+
         files = [f for f in os.listdir(data_folder) if f.endswith(".txt")]
         for file in tqdm(files, desc="Processing Files"):
             logger.debug(f"Processing file: {file}")
@@ -319,20 +332,31 @@ def parse_files(data_folder):
                 game_date = datetime.strptime(date_str, "%Y-%m-%d").date()
                 game_time = datetime.strptime(time_str, "%H:%M:%S").time()
 
-                game = Game.query.filter_by(game_number=game_number).first()
-                if not game:
-                    game = Game(game_number=game_number, date=game_date, time=game_time)
-                    db.session.add(game)
-                    db.session.commit()
-                    logger.debug(
-                        f"Created new game entry: {game_number} with date: {game_date} and time: {game_time}"
-                    )
-                else:
-                    logger.debug(
-                        f"Game {game_number} already exists in the database. Processing hands..."
-                    )
+                db = SessionLocal()
 
-                parse_lines(lines[1:], game_number, game.id)
-                game.update_num_players()
+                try:
+                    try:
+                        game = db.query(Game).filter_by(game_number=game_number).first()
+                    except Exception:
+                        game = None
+                    if not game:
+                        game = Game(
+                            game_number=game_number, date=game_date, time=game_time
+                        )
+                        db.add(game)
+                        db.commit()
+                        db.refresh(game)
+                        logger.debug(
+                            f"Created new game entry: {game_number} with date: {game_date} and time: {game_time}"
+                        )
+                    else:
+                        logger.debug(
+                            f"Game {game_number} already exists in the database. Processing hands..."
+                        )
+
+                    parse_lines(lines[1:], game_number, game.id, db)
+                    game.update_num_players(db)
+                finally:
+                    db.close()
     except Exception as e:
         logger.error(f"Error processing files in folder: {data_folder}. Error: {e}")

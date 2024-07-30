@@ -3,174 +3,268 @@ import logging
 import os
 from datetime import datetime
 
-from flask import Flask, jsonify, render_template
-from flask_paginate import Pagination, get_page_args
+from fastapi import Depends, FastAPI, File, Request, UploadFile
+from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.templating import Jinja2Templates
+from fastapi_pagination import Params
+from fastapi_pagination.ext.sqlalchemy import paginate as sqlalchemy_paginate
+from sqlalchemy import select
+from sqlalchemy.orm import Session
 
-from models import BoardCard, Game, Hand, Player, PlayerAction, Round, db
+from database import Base, SessionLocal, engine
+from models import BoardCard, Game, Hand, Player, PlayerAction, Round
 from parse_files import parse_files
 
-# Create the /logs directory if it doesn't exist
+# Initialize the application
+app = FastAPI()
+
+# Setup Jinja2 templates
+templates = Jinja2Templates(directory="templates")
+
+# Configure logging
 log_dir = "./logs"
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
-# Configure logging to write to a file and to the console
 log_filename = datetime.now().strftime(f"{log_dir}/%d%m%y_%H%M%S.txt")
 file_handler = logging.FileHandler(log_filename)
 file_handler.setLevel(logging.DEBUG)
 console_handler = logging.StreamHandler()
-console_handler.setLevel(logging.ERROR)  # Only print ERROR messages to console
+console_handler.setLevel(logging.ERROR)
 
-# Create a logging format
 formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 file_handler.setFormatter(formatter)
 console_handler.setFormatter(formatter)
 
-# Add the handlers to the logger
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
 # Ensure the instance directory exists
-instance_dir = os.path.abspath("./instance")
-if not os.path.exists(instance_dir):
-    os.makedirs(instance_dir)
+if not os.path.exists("./instance"):
+    os.makedirs("./instance")
 
-app = Flask(__name__)
-db_path = os.path.join(instance_dir, "poker_hands.db")
-app.config["SQLALCHEMY_DATABASE_URI"] = f"sqlite:///{db_path}"
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+# Initialize the database
+Base.metadata.create_all(bind=engine)
 
-db.init_app(app)
+
+# Dependency to get DB session
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
 
 
 def initialize_db(persist):
     try:
-        logger.debug(f"Database path: {db_path}")
+        logger.debug(f"Database path: {engine.url.database}")
 
         if not persist:
-            if os.path.exists(db_path):
-                os.remove(db_path)
+            db = SessionLocal()
+            db.close()
+            engine.dispose()
+
+            if os.path.exists(engine.url.database):
+                os.remove(engine.url.database)
                 logger.debug("Removed existing database file.")
+            Base.metadata.create_all(bind=engine)
+            logger.debug("Created new database schema.")
+            parse_files("data")
+            logger.debug("Finished parsing files.")
 
-            with app.app_context():
-                db.create_all()
-                logger.debug("Created new database schema.")
-                parse_files("data")
-                logger.debug("Finished parsing files.")
-
-        if persist and not os.path.exists(db_path):
-            with app.app_context():
-                db.create_all()
-                logger.debug("Created new database schema.")
-                parse_files("data")
-                logger.debug("Finished parsing files.")
+        if persist and not os.path.exists(engine.url.database):
+            Base.metadata.create_all(bind=engine)
+            logger.debug("Created new database schema.")
+            parse_files("data")
+            logger.debug("Finished parsing files.")
     except Exception as e:
         logger.error(f"Error initializing database. Error: {e}")
 
 
-@app.route("/")
-def index():
+# Routes
+@app.get("/", response_class=HTMLResponse)
+async def index(
+    request: Request, db: Session = Depends(get_db), params: Params = Depends()
+):
     try:
-        page, per_page, offset = get_page_args(
-            page_parameter="page", per_page_parameter="per_page"
+        games = sqlalchemy_paginate(db.execute(select(Game)).scalars(), params)
+        return templates.TemplateResponse(
+            "index.html", {"request": request, "games": games}
         )
-        total = Game.query.count()
-        games = Game.query.offset(offset).limit(per_page).all()
-        pagination = Pagination(
-            page=page, per_page=per_page, total=total, css_framework="bootstrap4"
-        )
-        return render_template("index.html", games=games, pagination=pagination)
     except Exception as e:
         logger.error(f"Error fetching games for index page. Error: {e}")
-        return "An error occurred."
+        return HTMLResponse("An error occurred.", status_code=500)
 
 
-@app.route("/game/<int:game_id>")
-def game_details(game_id):
+@app.get("/game/{game_id}", response_class=HTMLResponse)
+async def game_details(
+    request: Request,
+    game_id: int,
+    db: Session = Depends(get_db),
+    params: Params = Depends(),
+):
     try:
-        game = db.session.get(Game, game_id)
-        page, per_page, offset = get_page_args(
-            page_parameter="page", per_page_parameter="per_page"
+        game = db.execute(select(Game).filter_by(id=game_id)).scalar_one_or_none()
+        hands = sqlalchemy_paginate(
+            db.execute(select(Hand).filter_by(game_id=game_id)).scalars(), params
         )
-        total = Hand.query.filter_by(game_id=game_id).count()
-        hands = (
-            Hand.query.filter_by(game_id=game_id).offset(offset).limit(per_page).all()
-        )
-        pagination = Pagination(
-            page=page, per_page=per_page, total=total, css_framework="bootstrap4"
-        )
-        return render_template(
-            "game_details.html", game=game, hands=hands, pagination=pagination
+        return templates.TemplateResponse(
+            "game_details.html", {"request": request, "game": game, "hands": hands}
         )
     except Exception as e:
         logger.error(f"Error fetching game details for game_id: {game_id}. Error: {e}")
-        return "An error occurred."
+        return HTMLResponse("An error occurred.", status_code=500)
 
 
-@app.route("/hand/<int:hand_id>")
-def hand_details(hand_id):
+@app.get("/hand/{hand_id}", response_class=HTMLResponse)
+async def hand_details(request: Request, hand_id: int, db: Session = Depends(get_db)):
     try:
-        hand = db.session.get(Hand, hand_id)
-        rounds = Round.query.filter_by(hand_id=hand_id).all()
-        actions = PlayerAction.query.join(Round).filter(Round.hand_id == hand_id).all()
-        board_cards = BoardCard.query.join(Round).filter(Round.hand_id == hand_id).all()
-        return render_template(
-            "hand_details.html", hand=hand, actions=actions, board_cards=board_cards
+        hand = db.execute(select(Hand).filter_by(id=hand_id)).scalar_one_or_none()
+        rounds = db.execute(select(Round).filter_by(hand_id=hand_id)).scalars().all()
+        actions = (
+            db.execute(
+                select(PlayerAction).join(Round).filter(Round.hand_id == hand_id)
+            )
+            .scalars()
+            .all()
+        )
+        board_cards = (
+            db.execute(select(BoardCard).join(Round).filter(Round.hand_id == hand_id))
+            .scalars()
+            .all()
+        )
+        return templates.TemplateResponse(
+            "hand_details.html",
+            {
+                "request": request,
+                "hand": hand,
+                "actions": actions,
+                "board_cards": board_cards,
+            },
         )
     except Exception as e:
         logger.error(f"Error fetching hand details for hand_id: {hand_id}. Error: {e}")
-        return "An error occurred."
+        return HTMLResponse("An error occurred.", status_code=500)
 
 
-@app.route("/player/<int:player_id>")
-def player_details(player_id):
+@app.get("/player/{player_id}", response_class=HTMLResponse)
+async def player_details(
+    request: Request, player_id: int, db: Session = Depends(get_db)
+):
     try:
-        player = db.session.get(Player, player_id)
-        actions = PlayerAction.query.filter_by(player_id=player_id).all()
-        return render_template("player_details.html", player=player, actions=actions)
+        player = db.execute(select(Player).filter_by(id=player_id)).scalar_one_or_none()
+        actions = (
+            db.execute(select(PlayerAction).filter_by(player_id=player_id))
+            .scalars()
+            .all()
+        )
+        return templates.TemplateResponse(
+            "player_details.html",
+            {"request": request, "player": player, "actions": actions},
+        )
     except Exception as e:
         logger.error(
             f"Error fetching player details for player_id: {player_id}. Error: {e}"
         )
-        return "An error occurred."
+        return HTMLResponse("An error occurred.", status_code=500)
 
 
-@app.route("/player/<int:player_id>/recalculate_stats")
-def recalculate_stats(player_id):
+@app.get("/player/{player_id}/recalculate_stats", response_class=JSONResponse)
+async def recalculate_stats(player_id: int, db: Session = Depends(get_db)):
     try:
-        player = db.session.get(Player, player_id)
-        player.recalculate_stats()
+        player = db.execute(select(Player).filter_by(id=player_id)).scalar_one_or_none()
+        player.recalculate_stats(db)
         logger.info(f"Recalculated stats for player {player.name}")
-        return jsonify(success=True)
+        return JSONResponse({"success": True})
     except Exception as e:
         logger.error(
             f"Error recalculating stats for player_id: {player_id}. Error: {e}"
         )
-        return jsonify(success=False, error=str(e))
+        return JSONResponse({"success": False, "error": str(e)})
 
 
-@app.route("/reset_db")
-def reset_db():
+@app.get("/walkthrough/{game_id}/{hand_id}", response_class=HTMLResponse)
+async def walkthrough(
+    request: Request, game_id: int, hand_id: int, db: Session = Depends(get_db)
+):
+    try:
+        game = db.execute(select(Game).filter_by(id=game_id)).scalar_one_or_none()
+        hand = db.execute(select(Hand).filter_by(id=hand_id)).scalar_one_or_none()
+        actions = (
+            db.execute(
+                select(PlayerAction)
+                .join(Round)
+                .filter(Round.hand_id == hand_id)
+                .order_by(PlayerAction.id)
+            )
+            .scalars()
+            .all()
+        )
+        serialized_actions = [
+            {
+                "id": action.id,
+                "player": {
+                    "name": action.player.name,
+                    "seat_number": action.player.seat_number,
+                },
+                "round": {"round_name": action.round.round_name},
+                "action": action.action,
+                "amount": action.amount,
+                "position": action.position,
+                "is_all_in": action.is_all_in,
+            }
+            for action in actions
+        ]
+        return templates.TemplateResponse(
+            "walkthrough.html",
+            {
+                "request": request,
+                "game": game,
+                "hand": hand,
+                "actions": serialized_actions,
+            },
+        )
+    except Exception as e:
+        logger.error(
+            f"Error fetching walkthrough details for game_id: {game_id}, hand_id: {hand_id}. Error: {e}"
+        )
+        return HTMLResponse("An error occurred.", status_code=500)
+
+
+@app.get("/reset_db", response_class=JSONResponse)
+async def reset_db():
     try:
         # Close the existing database session
-        db.session.remove()
+        db = SessionLocal()
+        db.close()
         # Dispose of the existing database engine
-        db.engine.dispose()
+        engine.dispose()
 
-        if os.path.exists("instance/poker_hands.db"):
-            os.remove("instance/poker_hands.db")
+        if os.path.exists("./instance/poker_hands.db"):
+            os.remove("./instance/poker_hands.db")
             logger.info("Deleted existing database.")
-        db.create_all()
-        logger.info("Created new database.")
-        from parse_files import parse_files
-
+        Base.metadata.create_all(bind=engine)
         parse_files("data")
-        return jsonify(success=True)
+        return JSONResponse({"success": True})
     except Exception as e:
         logger.error(f"Error resetting database. Error: {e}")
-        return jsonify(success=False, error=str(e))
+        return JSONResponse({"success": False, "error": str(e)})
+
+
+@app.post("/uploadfile/")
+async def upload_file(file: UploadFile = File(...)):
+    try:
+        contents = await file.read()
+        with open(os.path.join("data", file.filename), "wb") as f:
+            f.write(contents)
+        parse_files("data")
+        return {"filename": file.filename, "status": "file processed successfully"}
+    except Exception as e:
+        logger.error(f"Error uploading file. Error: {e}")
+        return JSONResponse({"success": False, "error": str(e)})
 
 
 if __name__ == "__main__":
@@ -182,7 +276,6 @@ if __name__ == "__main__":
 
     initialize_db(args.persist)
 
-    try:
-        app.run(debug=True)
-    except Exception as e:
-        logger.error(f"Error running the Flask app. Error: {e}")
+    import uvicorn
+
+    uvicorn.run(app, host="127.0.0.1", port=8000)

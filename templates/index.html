@@ -6,7 +6,7 @@
     <div class="container mt-5">
         <div class="d-flex justify-content-between align-items-center mb-4">
             <h1>Poker Games</h1>
-            <a href="{{ url_for('reset_db') }}" class="btn btn-danger">Reset Database</a>
+            <a href="/reset_db" class="btn btn-danger">Reset Database</a>
         </div>
         <div class="table-responsive">
             <table class="table table-hover table-striped">
@@ -21,7 +21,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    {% for game in games %}
+                    {% for game in games.items %}
                         <tr>
                             <td>{{ game.id }}</td>
                             <td>{{ game.game_number }}</td>
@@ -29,7 +29,7 @@
                             <td>{{ game.time }}</td>
                             <td>{{ game.num_players }}</td>
                             <td>
-                                <a href="{{ url_for('game_details', game_id=game.id) }}" class="btn btn-info">View Hands</a>
+                                <a href="/game/{{ game.id }}" class="btn btn-info">View Hands</a>
                             </td>
                         </tr>
                     {% endfor %}
@@ -37,7 +37,7 @@
             </table>
         </div>
         <div class="d-flex justify-content-center mt-4">
-            {{ pagination.links }}
+            {{ games|safe }}
         </div>
     </div>
 {% endblock %}

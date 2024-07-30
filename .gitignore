@@ -3,3 +3,4 @@ logs/*
 .idea/
 .venv
 __pycache__
+data_bak

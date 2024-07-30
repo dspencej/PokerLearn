@@ -9,7 +9,7 @@
                 <h2>Hand Number: {{ hand.hand_number }}</h2>
             </div>
             <div class="card-body">
-                <a href="{{ url_for('game_details', game_id=hand.game_id) }}" class="btn btn-primary">Back to Game Details</a>
+                <a href="/game/{{ hand.game_id }}" class="btn btn-primary">Back to Game Details</a>
             </div>
         </div>
         <div class="mt-4">
@@ -29,7 +29,7 @@
                     <tbody>
                         {% for action in actions %}
                             <tr>
-                                <td><a href="{{ url_for('player_details', player_id=action.player_id) }}">{{ action.player.name }}</a></td>
+                                <td><a href="/player/{{ action.player_id }}">{{ action.player.name }}</a></td>
                                 <td>{{ action.action }}</td>
                                 <td>{{ action.amount }}</td>
                                 <td>{{ action.round.round_name }}</td>
