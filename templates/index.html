@@ -6,7 +6,7 @@
     <div class="container mt-5">
         <div class="d-flex justify-content-between align-items-center mb-4">
             <h1>Poker Games</h1>
-            <a href="/reset_db" class="btn btn-danger">Reset Database</a>
+            <button class="btn-danger" id="reset-database">Reset Database</button>
         </div>
         <div class="table-responsive">
             <table class="table table-hover table-striped">
@@ -40,4 +40,18 @@
             {{ games|safe }}
         </div>
     </div>
+    <script>
+        document.getElementById("reset-database").addEventListener("click", function() {
+            alert("Resetting the database")
+            fetch("/reset_db")
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        location.reload();
+                    } else {
+                        alert("Error resetting the database: " + data.error);
+                    }
+                });
+        });
+    </script>
 {% endblock %}

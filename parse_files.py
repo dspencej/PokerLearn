@@ -2,11 +2,10 @@ import logging
 import os
 from datetime import datetime
 
-from sqlalchemy import inspect
 from sqlalchemy.orm import Session
 from tqdm import tqdm
 
-from database import Base, SessionLocal, engine  # Ensure Base is imported
+from database import SessionLocal
 from models import BoardCard, Game, Hand, Player, PlayerAction, Round
 
 log_dir = "./logs"
@@ -310,12 +309,6 @@ def parse_lines(lines, game_number, game_id, db: Session):
 
 def parse_files(data_folder):
     try:
-        # Ensure database schema is created
-        inspector = inspect(engine)
-        if not inspector.has_table("games"):
-            Base.metadata.create_all(bind=engine)
-            logger.debug("Created database schema inside parse_files.")
-
         files = [f for f in os.listdir(data_folder) if f.endswith(".txt")]
         for file in tqdm(files, desc="Processing Files"):
             logger.debug(f"Processing file: {file}")
@@ -335,10 +328,7 @@ def parse_files(data_folder):
                 db = SessionLocal()
 
                 try:
-                    try:
-                        game = db.query(Game).filter_by(game_number=game_number).first()
-                    except Exception:
-                        game = None
+                    game = db.query(Game).filter_by(game_number=game_number).first()
                     if not game:
                         game = Game(
                             game_number=game_number, date=game_date, time=game_time
